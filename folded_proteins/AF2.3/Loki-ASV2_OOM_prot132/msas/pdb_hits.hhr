@@ -1,0 +1,1063 @@
+Query         LOKIASV2_39950 hypothetical protein
+Match_columns 1350
+No_of_seqs    46 out of 49
+Neff          3.95711
+Searched_HMMs 80799
+Date          Wed Sep 11 17:47:33 2024
+Command       /usr/bin/hhsearch -i /tmp/tmppeq9pigm/query.a3m -o /tmp/tmppeq9pigm/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1L9M_A Protein-glutamine gluta  93.2   0.024 2.9E-07   73.5   0.0  170 1059-1242  491-669 (692)
+  2 1L9M_B Protein-glutamine gluta  93.2   0.024 2.9E-07   73.5   0.0  170 1059-1242  491-669 (692)
+  3 1L9N_A Protein-glutamine gluta  93.2   0.024 2.9E-07   73.5   0.0  170 1059-1242  491-669 (692)
+  4 2Q3Z_A Transglutaminase 2 (E.C  92.9    0.03 3.7E-07   72.6   0.0  169 1059-1240  482-661 (687)
+  5 4PYG_E Protein-glutamine gamma  92.3   0.045 5.5E-07   71.1   0.0  171 1059-1242  482-663 (695)
+  6 6A8P_C Protein-glutamine gamma  92.3   0.045 5.5E-07   71.1   0.0  171 1059-1242  482-663 (695)
+  7 1F13_A CELLULAR COAGULATION FA  89.5    0.16   2E-06   66.9   0.0  168 1059-1239  526-701 (731)
+  8 1G0D_A PROTEIN-GLUTAMINE GAMMA  87.5    0.29 3.5E-06   64.3   0.0  194 1059-1268  481-682 (695)
+  9 4KTY_B Coagulation factor XIII  86.8    0.34 4.3E-06   64.1   0.0  173 1059-1243  533-712 (738)
+ 10 4ZIU_A alpha-2-Macroglobulin;   85.9    0.43 5.3E-06   60.0   0.0   97 1168-1268  508-637 (639)
+ 11 4ZIQ_A alpha-2-Macroglobulin;   84.0    0.62 7.6E-06   65.9   0.0  106 1158-1270 1468-1617(1617)
+ 12 5A42_A UNCHARACTERIZED LIPOPRO  84.0    0.62 7.7E-06   65.9   0.0  106 1158-1270 1465-1614(1614)
+ 13 4OLE_A Next to BRCA1 gene 1; I  78.5     1.4 1.7E-05   45.2   0.0   72 1166-1241   19-92  (122)
+ 14 4OLE_B Next to BRCA1 gene 1; I  78.5     1.4 1.7E-05   45.2   0.0   72 1166-1241   19-92  (122)
+ 15 2KUT_A Uncharacterized protein  69.0     3.6 4.4E-05   42.6   0.0   66 1165-1235    7-74  (122)
+ 16 2L0D_A Cell surface protein; S  55.8     9.3 0.00011   38.1   0.0   57 1168-1234   13-71  (114)
+ 17 2KV5_A Putative uncharacterize  48.7      14 0.00018   31.8   0.0   28 1275-1302    5-32  (33)
+ 18 4B19_A PEPA1; TOXIN, TOXIN APO  46.5      16  0.0002   30.9   0.0   26 1276-1301    5-30  (30)
+ 19 2M8X_A Uncharacterized protein  42.4      21 0.00026   35.3   0.0   60 1167-1235   13-72  (114)
+ 20 4PYG_E Protein-glutamine gamma  42.2      21 0.00026   47.8   0.0  169  907-1121  482-655 (695)
+ 21 6A8P_C Protein-glutamine gamma  42.2      21 0.00026   47.8   0.0  169  907-1121  482-655 (695)
+ 22 2QSV_A Uncharacterized protein  39.7      25  0.0003   37.6   0.0  158 1058-1235   13-186 (220)
+ 23 2Q3Z_A Transglutaminase 2 (E.C  36.6      30 0.00037   46.5   0.0  169  907-1121  482-655 (687)
+ 24 2XZZ_A PROTEIN-GLUTAMINE GAMMA  32.2      39 0.00048   34.9   0.0   64 1168-1239   14-77  (102)
+ 25 2Q3Z_A Transglutaminase 2 (E.C  30.2      44 0.00055   45.0   0.0   65 1168-1235  481-549 (687)
+ 26 1L9M_A Protein-glutamine gluta  28.8      48  0.0006   44.7   0.0   65 1168-1235  490-557 (692)
+ 27 1L9M_B Protein-glutamine gluta  28.8      48  0.0006   44.7   0.0   65 1168-1235  490-557 (692)
+ 28 1L9N_A Protein-glutamine gluta  28.8      48  0.0006   44.7   0.0   65 1168-1235  490-557 (692)
+ 29 3IDU_A Uncharacterized protein  28.4      50 0.00061   34.0   0.0   59 1168-1235   27-85  (127)
+ 30 5OF1_A Spore coat-associated p  27.7      52 0.00064   37.9   0.0   42 1154-1195   12-56  (210)
+ 31 5OF1_B Spore coat-associated p  27.7      52 0.00064   37.9   0.0   42 1154-1195   12-56  (210)
+ 32 4PYG_E Protein-glutamine gamma  27.2      54 0.00066   44.3   0.0   65 1168-1235  481-549 (695)
+ 33 6A8P_C Protein-glutamine gamma  27.2      54 0.00066   44.3   0.0   65 1168-1235  481-549 (695)
+ 34 1L9M_A Protein-glutamine gluta  26.9      55 0.00068   44.2   0.0  169  907-1121  491-661 (692)
+ 35 1L9M_B Protein-glutamine gluta  26.9      55 0.00068   44.2   0.0  169  907-1121  491-661 (692)
+ 36 1L9N_A Protein-glutamine gluta  26.9      55 0.00068   44.2   0.0  169  907-1121  491-661 (692)
+ 37 1L9M_A Protein-glutamine gluta  24.2      66 0.00082   43.5   0.0   60  908-995   604-663 (692)
+ 38 1L9M_B Protein-glutamine gluta  24.2      66 0.00082   43.5   0.0   60  908-995   604-663 (692)
+ 39 1L9N_A Protein-glutamine gluta  24.2      66 0.00082   43.5   0.0   60  908-995   604-663 (692)
+ 40 5TUG_A Flagellar biosynthesis   23.8      68 0.00084   34.8   0.0   56 1177-1233   48-110 (135)
+ 41 5TUH_B Flagellar biosynthesis   23.8      68 0.00084   34.8   0.0   56 1177-1233   48-110 (135)
+ 42 6AGF_B Sodium channel protein   21.8      80 0.00098   33.5   0.0   14 1186-1199  104-117 (218)
+ 43 6J8G_B Sodium channel subunit   21.8      80 0.00098   33.5   0.0   14 1186-1199  104-117 (218)
+ 44 5JP0_A Beta-glucosidase BoGH3B  20.5      88  0.0011   42.8   0.0   64 1169-1234  651-716 (772)
+ 45 2YS4_A Hydrocephalus-inducing   20.0      91  0.0011   30.9   0.0   64 1161-1235   28-91  (122)
+
+No 1
+>1L9M_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.18.9, d.3.1.4, b.1.5.1
+Probab=93.20  E-value=0.024  Score=73.52  Aligned_cols=170  Identities=14%  Similarity=0.129  Sum_probs=105.8  Template_Neff=7.900
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPK---NLTGFKSLNQ-TQQIFIPRLNSQQKLVLNIDYQKISAGAYIFP--Q 1132 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d---~~~gl~~l~~-t~~l~~~~i~~n~~~s~nitl~Kt~wkgY~yP--s 1132 (1350)
+                      .+.+|+.|+++++++|.. ....++.+.+.-   .+.|+....- .....+ .+.+++.+.+.+++.-.+..+....  .
+T Consensus       491 ~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~~~~~~~~~~~l-~L~pg~~~~I~i~i~~~~y~~~l~~~~~  568 (692)
+T 1L9M_A          491 MLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTLVHEVWKDSATM-SLDPEEEAEHPIKISYAQYERYLKSDNM  568 (692)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTCCEEEEEEEEEEEE-EECTTCEEEEEEEECHHHHTTTCCTTCE
+T ss_pred             eeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeEeeeeeeeEEEE-EECCCCeEEEEEEEEchHHhcccCCCCe
+Confidence            468999999999999987 677777776322   2344332111 123445 8889999988888877766542111  1
+
+
+Q LOKIASV2_39950 1133 PNLV--C-TLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELV 1209 (1350)
+Q Consensus      1133 In~i--~-~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~ 1209 (1350)
+                      +.+.  . ..+..  +......+.|-.=.++|.-.   .++..|+.++|+|+++|.|++.++|+++.=.  .+  +  |.
+T Consensus       569 i~v~v~~~v~~t~--~~~~~~~~~l~~P~L~I~~~---~~~~~G~~~~v~v~f~Npl~~~L~nv~l~ve--g~--G--l~  637 (692)
+T 1L9M_A          569 IRITAVCKVPDES--EVVVERDIILDNPTLTLEVL---NEARVRKPVNVQMLFSNPLDEPVRDCVLMVE--GS--G--LL  637 (692)
+T ss_dssp             EEEEEEEECTTSC--CEEEEEEEECBCCCEEEEES---SCCBTTSCEEEEEEEECCSSSCBCSEEEEEE--CT--T--TC
+T ss_pred             EEEEEEEEeCCCC--eEEEEEEEEeeCCceEEEeC---CCccCCCcEEEEEEEECCCCCCeeeEEEEEE--cC--C--ce
+Confidence            1111  1 11111  33444444444334443332   2488999999999999999999999987621  12  2  22
+
+
+Q LOKIASV2_39950 1210 QGVQVRDYSCLLPGENITLSYTIQASRSEGIYT 1242 (1350)
+Q Consensus      1210 ~G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~~ 1242 (1350)
+                      .+..-..+..|.|||+.+++.+++.. .-|-.+
+T Consensus       638 ~~~~~i~l~~I~Pg~~~~~~f~~~p~-~~G~~~  669 (692)
+T 1L9M_A          638 LGNLKIDVPTLGPKERSRVRFDILPS-RSGTKQ  669 (692)
+T ss_dssp             SSCEEEEECCBCTTCEEEEEEEECCC-SCEEEE
+T ss_pred             ecceEEEcCccCCCCEEEEEEEEEcC-CCCceE
+Confidence            21222236899999999999999975 355333
+
+
+No 2
+>1L9M_B Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.5.1, d.3.1.4, b.1.18.9
+Probab=93.20  E-value=0.024  Score=73.52  Aligned_cols=170  Identities=14%  Similarity=0.129  Sum_probs=105.8  Template_Neff=7.900
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPK---NLTGFKSLNQ-TQQIFIPRLNSQQKLVLNIDYQKISAGAYIFP--Q 1132 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d---~~~gl~~l~~-t~~l~~~~i~~n~~~s~nitl~Kt~wkgY~yP--s 1132 (1350)
+                      .+.+|+.|+++++++|.. ....++.+.+.-   .+.|+....- .....+ .+.+++.+.+.+++.-.+..+....  .
+T Consensus       491 ~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~~~~~~~~~~~l-~L~pg~~~~I~i~i~~~~y~~~l~~~~~  568 (692)
+T 1L9M_B          491 MLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTLVHEVWKDSATM-SLDPEEEAEHPIKISYAQYERYLKSDNM  568 (692)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTCCEEEEEEEEEEEE-EECTTCEEEEEEEECHHHHHTTCCTTCE
+T ss_pred             eeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeEeeeeeeeEEEE-EECCCCeEEEEEEEEchHHhcccCCCCe
+Confidence            468999999999999987 677777776322   2344332111 123445 8889999988888877766542111  1
+
+
+Q LOKIASV2_39950 1133 PNLV--C-TLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELV 1209 (1350)
+Q Consensus      1133 In~i--~-~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~ 1209 (1350)
+                      +.+.  . ..+..  +......+.|-.=.++|.-.   .++..|+.++|+|+++|.|++.++|+++.=.  .+  +  |.
+T Consensus       569 i~v~v~~~v~~t~--~~~~~~~~~l~~P~L~I~~~---~~~~~G~~~~v~v~f~Npl~~~L~nv~l~ve--g~--G--l~  637 (692)
+T 1L9M_B          569 IRITAVCKVPDES--EVVVERDIILDNPTLTLEVL---NEARVRKPVNVQMLFSNPLDEPVRDCVLMVE--GS--G--LL  637 (692)
+T ss_dssp             EEEEEEEEETTEE--EEEEEEEEECBCCCEEEEEC---SCCBTTCCEEEEEEEECCSSSCBCSEEEEEE--CT--T--TS
+T ss_pred             EEEEEEEEeCCCC--eEEEEEEEEeeCCceEEEeC---CCccCCCcEEEEEEEECCCCCCeeeEEEEEE--cC--C--ce
+Confidence            1111  1 11111  33444444444334443332   2488999999999999999999999987621  12  2  22
+
+
+Q LOKIASV2_39950 1210 QGVQVRDYSCLLPGENITLSYTIQASRSEGIYT 1242 (1350)
+Q Consensus      1210 ~G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~~ 1242 (1350)
+                      .+..-..+..|.|||+.+++.+++.. .-|-.+
+T Consensus       638 ~~~~~i~l~~I~Pg~~~~~~f~~~p~-~~G~~~  669 (692)
+T 1L9M_B          638 LGNLKIDVPTLGPKERSRVRFDILPS-RSGTKQ  669 (692)
+T ss_dssp             SSCEEEEECCBCTTCEEEEEEEECCC-SCEEEE
+T ss_pred             ecceEEEcCccCCCCEEEEEEEEEcC-CCCceE
+Confidence            21222236899999999999999975 355333
+
+
+No 3
+>1L9N_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; HET: BGL; 2.1A {Homo sapiens} SCOP: d.3.1.4, b.1.5.1, b.1.18.9
+Probab=93.20  E-value=0.024  Score=73.52  Aligned_cols=170  Identities=14%  Similarity=0.129  Sum_probs=105.8  Template_Neff=7.900
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPK---NLTGFKSLNQ-TQQIFIPRLNSQQKLVLNIDYQKISAGAYIFP--Q 1132 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d---~~~gl~~l~~-t~~l~~~~i~~n~~~s~nitl~Kt~wkgY~yP--s 1132 (1350)
+                      .+.+|+.|+++++++|.. ....++.+.+.-   .+.|+....- .....+ .+.+++.+.+.+++.-.+..+....  .
+T Consensus       491 ~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~~~~~~~~~~~l-~L~pg~~~~I~i~i~~~~y~~~l~~~~~  568 (692)
+T 1L9N_A          491 MLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTLVHEVWKDSATM-SLDPEEEAEHPIKISYAQYERYLKSDNM  568 (692)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTSCEEEEEEEEEEEE-EECTTCEEEEEEEECHHHHTTTCCTTCE
+T ss_pred             eeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeEeeeeeeeEEEE-EECCCCeEEEEEEEEchHHhcccCCCCe
+Confidence            468999999999999987 677777776322   2344332111 123445 8889999988888877766542111  1
+
+
+Q LOKIASV2_39950 1133 PNLV--C-TLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELV 1209 (1350)
+Q Consensus      1133 In~i--~-~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~ 1209 (1350)
+                      +.+.  . ..+..  +......+.|-.=.++|.-.   .++..|+.++|+|+++|.|++.++|+++.=.  .+  +  |.
+T Consensus       569 i~v~v~~~v~~t~--~~~~~~~~~l~~P~L~I~~~---~~~~~G~~~~v~v~f~Npl~~~L~nv~l~ve--g~--G--l~  637 (692)
+T 1L9N_A          569 IRITAVCKVPDES--EVVVERDIILDNPTLTLEVL---NEARVRKPVNVQMLFSNPLDEPVRDCVLMVE--GS--G--LL  637 (692)
+T ss_dssp             EEEEEEEECTTSC--CEEEEEEEECBCCCEEEEEC---SCCBTTSCEEEEEEEECCSSSCBCSEEEEEE--CT--T--TS
+T ss_pred             EEEEEEEEeCCCC--eEEEEEEEEeeCCceEEEeC---CCccCCCcEEEEEEEECCCCCCeeeEEEEEE--cC--C--ce
+Confidence            1111  1 11111  33444444444334443332   2488999999999999999999999987621  12  2  22
+
+
+Q LOKIASV2_39950 1210 QGVQVRDYSCLLPGENITLSYTIQASRSEGIYT 1242 (1350)
+Q Consensus      1210 ~G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~~ 1242 (1350)
+                      .+..-..+..|.|||+.+++.+++.. .-|-.+
+T Consensus       638 ~~~~~i~l~~I~Pg~~~~~~f~~~p~-~~G~~~  669 (692)
+T 1L9N_A          638 LGNLKIDVPTLGPKERSRVRFDILPS-RSGTKQ  669 (692)
+T ss_dssp             SSCEEEEECCBCTTCEEEEEEEECCC-SCEEEE
+T ss_pred             ecceEEEcCccCCCCEEEEEEEEEcC-CCCceE
+Confidence            21222236899999999999999975 355333
+
+
+No 4
+>2Q3Z_A Transglutaminase 2 (E.C.2.3.2.13); Transglutaminase 2, tissue transglutaminase, TG2; HET: SO4; 2.0A {Homo sapiens} SCOP: b.1.5.1, b.1.18.9, d.3.1.4
+Probab=92.92  E-value=0.03  Score=72.57  Aligned_cols=169  Identities=11%  Similarity=0.001  Sum_probs=101.0  Template_Neff=8.000
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIF----I-PRLNSQQKLVLNIDYQKISAGAYIFP-- 1131 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~----~-~~i~~n~~~s~nitl~Kt~wkgY~yP-- 1131 (1350)
+                      .+.+|+.|+++++++|.. ....++.+.+.-.. ++.--.....++    + ..+.+++.+.+.+++.-.+..+....  
+T Consensus       482 ~i~~Gedf~l~v~v~N~s-~~~~~v~l~l~~~~-~fy~g~~~~~~~~~~~~~~~L~p~~~~~I~i~v~~~~y~~~l~~~~  559 (687)
+T 2Q3Z_A          482 SMNMGSDFDVFAHITNNT-AEEYVCRLLLCART-VSYNGILGPECGTKYLLNLTLEPFSEKSVPLCILYEKYRDCLTESN  559 (687)
+T ss_dssp             CCBTTCCEEEEEEEEECS-SSCEEEEEEEEEEE-ECTTCCEEEEEEEEEEEEEEECTTEEEEEEEEECHHHHTTTCCTTC
+T ss_pred             cccCCCeEEEEEEEEeCC-CCcEEEEEEEEEEe-eEEcCeeCcccceEEEEEEEeCCCCeEEEEEEEEcHHHcccccCCC
+Confidence            468999999999999988 77878877655442 111110111111    3 56788888888888776665532111  
+
+
+Q LOKIASV2_39950 1132 QPNLV--C-TLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFEL 1208 (1350)
+Q Consensus      1132 sIn~i--~-~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L 1208 (1350)
+                      .+...  . ..+....+ ....++.|-.=.++|.-.   .++..|+.++|+|+++|.|++.++|+.+.=..    .+  |
+T Consensus       560 ~i~v~v~~~~~~t~~~~-~~~~~~~l~~P~L~I~~~---~~~~~G~~~~v~vsf~Npl~~~L~n~~l~veg----~G--l  629 (687)
+T 2Q3Z_A          560 LIKVRALLVEPVINSYL-LAERDLYLENPEIKIRIL---GEPKQKRKLVAEVSLQNPLPVALEGCTFTVEG----AG--L  629 (687)
+T ss_dssp             EEEEEEEEEETTTTEEE-EEEEEEECBCCCCEEEEE---SCCSSSSCEEEEEEEECCSSSCBCSEEEEEEC----TT--T
+T ss_pred             eEEEEEEEEeCCCCeEE-EEEEEEEEeCCCcEEEEC---CCccCCCeEEEEEEEECCCCCccccEEEEEEc----CC--C
+Confidence            11111  1 11112222 333333333333333322   23889999999999999999999998875221    22  1
+
+
+Q LOKIASV2_39950 1209 VQGVQVRDY-SCLLPGENITLSYTIQASRSEGI 1240 (1350)
+Q Consensus      1209 ~~G~Li~~I-~~L~PgEs~sfsYtIkA~~sQ~i 1240 (1350)
+                      .....-..+ ..|.|||+.++..+++.. ..|-
+T Consensus       630 ~~~~~~i~l~~~I~PGe~~~~~f~~~p~-~~G~  661 (687)
+T 2Q3Z_A          630 TEEQKTVEIPDPVEAGEEVKVRMDLVPL-HMGL  661 (687)
+T ss_dssp             CSSCEEEEECSCBCTTCEEEEEEEECCC-SSSC
+T ss_pred             cccceEEEeCCCcCCCCEEEEEEEEeeC-CCcc
+Confidence            111111125 789999999999999985 4663
+
+
+No 5
+>4PYG_E Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Protein-GTP complex, Transglutaminase fold, Crosslinking; HET: GTP; 2.8A {Homo sapiens}
+Probab=92.30  E-value=0.045  Score=71.11  Aligned_cols=171  Identities=11%  Similarity=0.002  Sum_probs=99.2  Template_Neff=8.000
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIF----I-PRLNSQQKLVLNIDYQKISAGAYIFP-- 1131 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~----~-~~i~~n~~~s~nitl~Kt~wkgY~yP-- 1131 (1350)
+                      .+.+|+.|+++++++|.. ....++.+.+.-.. ++.--.....++    + ..+.+++.+.+.+++.-.+..+-...  
+T Consensus       482 ~i~~Gedf~l~v~v~N~s-~~~~~v~l~l~~~~-~fy~g~~~~~~w~~~~~~~~L~p~~~~~I~i~~~~~~y~~~l~~~~  559 (695)
+T 4PYG_E          482 SMNMGSDFDVFAHITNNT-AEEYVCRLLLCART-VSYNGILGPECGTKYLLNLNLEPFSEKSVPLCILYEKYRDCLTESN  559 (695)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SCCEEEEEEEEEEE-ECTTCCEEEEEEEEEEEEEEECTTCEEEEEEEECHHHHTTTCCTTC
+T ss_pred             cccCCCeEEEEEEEEeCC-CCcEEEEEEEEEee-eEEcCeeCcccceEEEEEEEeCCCCeEEEEEEEEcHHHcccccCCC
+Confidence            468999999999999988 77888887655442 221111111121    3 56778888888887776655432111  
+
+
+Q LOKIASV2_39950 1132 QPNLVC---TLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFEL 1208 (1350)
+Q Consensus      1132 sIn~i~---~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L 1208 (1350)
+                      .+....   ..+...++ .....+.|=.=.++|.-.   ..+.+|+.++|+|+++|.|.+.++|+.+.=.    ..+  |
+T Consensus       560 ~i~v~v~~~~~~t~~~~-~~~~~~~l~~P~L~I~~~---~~~~~G~~~~v~vsf~Npl~~~Ltn~~l~ve----g~G--l  629 (695)
+T 4PYG_E          560 LIKVRALLVEPVINSYL-LAERDLYLENPEIKIRIL---GEPKQKRKLVAEVSLQNPLPVALEGCTFTVE----GAG--L  629 (695)
+T ss_dssp             EEEEEEEEEETTTTEEE-EEEEEEECBCCCCEEEEE---SCCBTTSCEEEEEEEECCSSSCBCSCEEEEE----CTT--T
+T ss_pred             eEEEEEEEEeCCCCeEE-EEEEEEEeeCCCceEEeC---CCccCCCeEEEEEEEECCCCCccccEEEEEE----cCC--C
+Confidence            111111   11111111 222222222222222211   2388999999999999999999999887522    122  1
+
+
+Q LOKIASV2_39950 1209 VQGVQVRDY-SCLLPGENITLSYTIQASRSEGIYT 1242 (1350)
+Q Consensus      1209 ~~G~Li~~I-~~L~PgEs~sfsYtIkA~~sQ~i~~ 1242 (1350)
+                      .....-..+ ..|+|||+.++..+++.. ..|.-+
+T Consensus       630 ~~~~~~i~l~~~I~PGe~~~~~~~~~p~-~~G~~~  663 (695)
+T 4PYG_E          630 TEEQKTVEIPDPVEAGEEVKVRMDLLPL-HMGLHK  663 (695)
+T ss_dssp             CSSCEEEECCSCBCSSCEEEEEEEECCC-SCEEEE
+T ss_pred             cccceEEEcCCCcCCCCEEEEEEEEeeC-CCceeE
+Confidence            111111126 789999999999999985 466333
+
+
+No 6
+>6A8P_C Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Transglutaminase, Complex, Mutant, GTP, TRANSFERASE; HET: GTP; 2.537A {Homo sapiens}
+Probab=92.30  E-value=0.045  Score=71.11  Aligned_cols=171  Identities=11%  Similarity=0.002  Sum_probs=99.2  Template_Neff=8.000
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIF----I-PRLNSQQKLVLNIDYQKISAGAYIFP-- 1131 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~----~-~~i~~n~~~s~nitl~Kt~wkgY~yP-- 1131 (1350)
+                      .+.+|+.|+++++++|.. ....++.+.+.-.. ++.--.....++    + ..+.+++.+.+.+++.-.+..+-...  
+T Consensus       482 ~i~~Gedf~l~v~v~N~s-~~~~~v~l~l~~~~-~fy~g~~~~~~w~~~~~~~~L~p~~~~~I~i~~~~~~y~~~l~~~~  559 (695)
+T 6A8P_C          482 SMNMGSDFDVFAHITNNT-AEEYVCRLLLCART-VSYNGILGPECGTKYLLNLNLEPFSEKSVPLCILYEKYRDCLTESN  559 (695)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEE-ECTTCCEEEEEEEEEEEEEEECTTEEEEEEEEECHHHHHTTCCTTC
+T ss_pred             cccCCCeEEEEEEEEeCC-CCcEEEEEEEEEee-eEEcCeeCcccceEEEEEEEeCCCCeEEEEEEEEcHHHcccccCCC
+Confidence            468999999999999988 77888887655442 221111111121    3 56778888888887776655432111  
+
+
+Q LOKIASV2_39950 1132 QPNLVC---TLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFEL 1208 (1350)
+Q Consensus      1132 sIn~i~---~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L 1208 (1350)
+                      .+....   ..+...++ .....+.|=.=.++|.-.   ..+.+|+.++|+|+++|.|.+.++|+.+.=.    ..+  |
+T Consensus       560 ~i~v~v~~~~~~t~~~~-~~~~~~~l~~P~L~I~~~---~~~~~G~~~~v~vsf~Npl~~~Ltn~~l~ve----g~G--l  629 (695)
+T 6A8P_C          560 LIKVRALLVEPVINSYL-LAERDLYLENPEIKIRIL---GEPKQKRKLVAEVSLQNPLPVALEGCTFTVE----GAG--L  629 (695)
+T ss_dssp             EEEEEEEEEETTTTEEE-EEEEEEECBCCCCEEEEE---SCCBTTSCEEEEEEEECCSSSCBCSCEEEEE----CTT--T
+T ss_pred             eEEEEEEEEeCCCCeEE-EEEEEEEeeCCCceEEeC---CCccCCCeEEEEEEEECCCCCccccEEEEEE----cCC--C
+Confidence            111111   11111111 222222222222222211   2388999999999999999999999887522    122  1
+
+
+Q LOKIASV2_39950 1209 VQGVQVRDY-SCLLPGENITLSYTIQASRSEGIYT 1242 (1350)
+Q Consensus      1209 ~~G~Li~~I-~~L~PgEs~sfsYtIkA~~sQ~i~~ 1242 (1350)
+                      .....-..+ ..|+|||+.++..+++.. ..|.-+
+T Consensus       630 ~~~~~~i~l~~~I~PGe~~~~~~~~~p~-~~G~~~  663 (695)
+T 6A8P_C          630 TEEQKTVEIPDPVEAGEEVKVRMDLLPL-HMGLHK  663 (695)
+T ss_dssp             CSSCEEEECCSCBCSSCEEEEEEEECCC-SCEEEE
+T ss_pred             cccceEEEcCCCcCCCCEEEEEEEEeeC-CCceeE
+Confidence            111111126 789999999999999985 466333
+
+
+No 7
+>1F13_A CELLULAR COAGULATION FACTOR XIII ZYMOGEN; COAGULATION, TRANSGLUTAMINASE, TRANSFERASE, ACYLTRANSFERASE, BLOOD; 2.1A {Homo sapiens} SCOP: b.1.18.9, b.1.5.1, d.3.1.4
+Probab=89.50  E-value=0.16  Score=66.94  Aligned_cols=168  Identities=10%  Similarity=0.088  Sum_probs=98.5  Template_Neff=7.300
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQ----TQQIFIPRLNSQQKLVLNIDYQKISAGAYIFPQ-- 1132 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~----t~~l~~~~i~~n~~~s~nitl~Kt~wkgY~yPs-- 1132 (1350)
+                      .+.+|+.|+++++++|.+ -....+++.+.-+..-+.....    ..... -.+.+++.+.+.+++.-.+..+.+...  
+T Consensus       526 ~i~~Gedf~ltvtv~N~s-~~~r~v~v~l~a~~v~YtG~~~~~~~~~~~~-~~l~P~~~~~i~l~I~y~eY~~~l~d~~~  603 (731)
+T 1F13_A          526 NAVLGKDFKLSITFRNNS-HNRYTITAYLSANITFYTGVPKAEFKKETFD-VTLEPLSFKKEAVLIQAGEYMGQLLEQAS  603 (731)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SCCEEEEEEEEEEEECTTSCEEEEEEEEEEE-EEECTTCCCEEEEEECHHHHTTTCCTTCE
+T ss_pred             cccCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEeCcccccceEEEEE-EEeCCCCeEEEEEEEecHHHhccccccce
+Confidence            468999999999999977 4555666554332111111100    11122 257788888888888776665532111  
+
+
+Q LOKIASV2_39950 1133 --PNLVCTLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQ 1210 (1350)
+Q Consensus      1133 --In~i~~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~ 1210 (1350)
+                        |......+..--.+....++-|-.=.++|.-   ..++..|+.++|+++++|.|+..++|+++.    ..+.++  ..
+T Consensus       604 i~i~v~~~v~et~~~~~~~~~~~L~~P~L~I~v---~~~~~vg~~~~v~vsf~Npl~~~Ltn~~l~----vEG~Gl--~~  674 (731)
+T 1F13_A          604 LHFFVTARINETRDVLAKQKSTVLTIPEIIIKV---RGTQVVGSDMTVTVEFTNPLKETLRNVWVH----LDGPGV--TR  674 (731)
+T ss_dssp             EEEEEEEEETTTCCEEEEEEEEECBCCCCEEEE---EECCBTTSCEEEEEEEECCSSSCEEEEEEE----EEETTT--EE
+T ss_pred             EEEEEEEEECCCCCEEEEEEeEEEeCCceEEEe---CCceeCCCEEEEEEEEECCCCCcceeEEEE----EECCCc--cc
+Confidence              1111111110011122222333322223221   246778999999999999999999998764    333333  33
+
+
+Q LOKIASV2_39950 1211 GVQVRDYSCLLPGENITLSYTIQASRSEG 1239 (1350)
+Q Consensus      1211 G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~ 1239 (1350)
+                      .+ -..+..|+|||+.++..++... ..|
+T Consensus       675 ~~-~~~ig~I~pg~s~~~~~~~tP~-~~G  701 (731)
+T 1F13_A          675 PM-KKMFREIRPNSTVQWEEVCRPW-VSG  701 (731)
+T ss_dssp             EE-EEEEEEECTTCEEEEEEEECCC-CCE
+T ss_pred             cc-EEEecccCCCCEEEEEEEEecC-CCC
+Confidence            33 3446999999999999999985 466
+
+
+No 8
+>1G0D_A PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE(E.C.2.3.2.13); tissue transglutaminase,acyltransferase, TRANSFERASE; 2.5A {Pagrus major} SCOP: b.1.18.9, b.1.5.1, d.3.1.4
+Probab=87.55  E-value=0.29  Score=64.26  Aligned_cols=194  Identities=8%  Similarity=0.052  Sum_probs=107.6  Template_Neff=7.600
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQ----TQQIFIPRLNSQQKLVLNIDYQKISAGAYIFP--- 1131 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~----t~~l~~~~i~~n~~~s~nitl~Kt~wkgY~yP--- 1131 (1350)
+                      .+.+|+.|.++++++|.+ -...++++.+.-+..-+.....    ..... -.+.+++.+.+.+++.-.+..+.+..   
+T Consensus       481 ~i~~G~df~l~v~v~N~s-~~~~~v~v~l~a~sv~Ytg~~~~~~~~~~~~-~~l~P~e~~~v~l~I~y~dy~~~l~~~~~  558 (695)
+T 1G0D_A          481 QPVFGTDFDVIVEVKNEG-GRDAHAQLTMLAMAVTYNSLRRGECQRKTIS-VTVPAHKAHKEVMRLHYDDYVRCVSEHHL  558 (695)
+T ss_dssp             CCBTTCCEEEEEEEEECS-SSCEEEEEEEEEEEECTTCBCCCCCCEEEEE-EEECTTEEEEEEEEECHHHHTTTCCTTCE
+T ss_pred             CCCCCCcEEEEEEEEeCC-CCceeEEEEEEEEEEEEecccCCceeEEEEE-EEeCCCCeEEEEEEEEcHHHhccccccce
+Confidence            468999999999999987 3566666654333222211111    01111 35667788888888876666554211   
+
+
+Q LOKIASV2_39950 1132 -QPNLVCTLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQ 1210 (1350)
+Q Consensus      1132 -sIn~i~~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~ 1210 (1350)
+                       .|..+...+...-.+....++-|..-.++|.  + ..++..|+.++|+++++|.|+..+.|+.+.    ..+.+  |..
+T Consensus       559 i~v~v~~~v~~t~~~~~~~~~~~l~~P~l~I~--v-~~~~~vg~~~~v~vsf~Npl~~~Ltn~~l~----vEG~G--l~~  629 (695)
+T 1G0D_A          559 IRVKALLDAPGENGPIMTVANIPLSTPELLVQ--V-PGKAVVWEPLTAYVSFTNPLPVPLKGGVFT----LEGAG--LLS  629 (695)
+T ss_dssp             EEEEEEEECCC---EEEEEEEEECBCCCCEEE--C-CSCEETTCCEEEEEEEECCSSSCEESCEEE----EEETT--TEE
+T ss_pred             EEEEEEEEeCCCCCcEEEEEEEEeeCCceEEE--c-CCceeCCCcEEEEEEEEcCCCCCceeEEEE----EEeCC--Ccc
+Confidence             1111111111100111112222222222221  1 146778999999999999999999998764    22333  233
+
+
+Q LOKIASV2_39950 1211 GVQVRDYSCLLPGENITLSYTIQASRSEGIYTMNPAFIEYMFIYQNRIESATIYMKIN 1268 (1350)
+Q Consensus      1211 G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~~L~pA~ieYyyl~k~~~~SN~i~iKV~ 1268 (1350)
+                      ...+.....|+|||+.++..++... ..|-.   --.+.|.+.. ...-...+.|.|.
+T Consensus       630 ~~~~~~~g~I~pg~s~~~~~~~~P~-~~G~~---~L~atf~~~~-l~~v~g~~~v~V~  682 (695)
+T 1G0D_A          630 ATQIHVNGAVAPSGKVSVKLSFSPM-RTGVR---KLLVDFDSDR-LKDVKGVTTVVVH  682 (695)
+T ss_dssp             EEEEECSSEECTTCEEEEEEEECCS-SCEEE---EEEEEEECSS-CCCEEEEEEEEEE
+T ss_pred             ceEEEEeCccCCCCeEEEEEEEecC-CCcee---EEEEEEEeCC-CCeEEEEEEEEEE
+Confidence            3333323789999999999999985 46622   2334444443 2233445555554
+
+
+No 9
+>4KTY_B Coagulation factor XIII A chain; transglutaminase, COAGULATION, TRANSFERASE, ACYLTRANSFERASE, ligand; HET: DAS, ABA, NLE, GOL, 1TX; 1.98A {Homo sapiens}
+Probab=86.82  E-value=0.34  Score=64.12  Aligned_cols=173  Identities=10%  Similarity=0.110  Sum_probs=100.7  Template_Neff=7.200
+
+Q LOKIASV2_39950 1059 IPCPQDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQT---QQIFIPRLNSQQKLVLNIDYQKISAGAYIFP--QP 1133 (1350)
+Q Consensus      1059 ~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t---~~l~~~~i~~n~~~s~nitl~Kt~wkgY~yP--sI 1133 (1350)
+                      .+.+|+.|+++++++|.+ -....+++.+.-+..-+......   +.-..-.+.+++.+.+.+++.-.+..+....  .+
+T Consensus       533 ~i~~Gedf~ltvtvkN~S-~~~r~v~v~l~a~sv~YtG~~~~~~~~~~~~~~L~P~~s~~v~l~V~~~eY~~~L~d~~~i  611 (738)
+T 4KTY_B          533 NAVLGKDFKLSITFRNNS-HNRYTITAYLSANITFYTGVPKAEFKKETFDVTLEPLSFKKEAVLIQAGEYMGQLLEQASL  611 (738)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTSCEEEEEEEEEEEEEECTTEEEEEEEEECHHHHHTTCCTTCEE
+T ss_pred             cccCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEeCccchhceEEEEEEEeCCCCeEEEEEEEecHHHhccccccCeE
+Confidence            358999999999999987 45566666543322222111110   0111135678888888888877666653211  11
+
+
+Q LOKIASV2_39950 1134 NLV--CTLQPNMTHCNSSPPLILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQG 1211 (1350)
+Q Consensus      1134 n~i--~~se~~~iqi~~S~plILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G 1211 (1350)
+                      .+.  ...+..--.+....++-|-.=.++|.  + ..++..|+..+|+++++|.|...++|+++.    +.+.+  |...
+T Consensus       612 ~i~v~a~v~et~~~~~~~~~~~L~~P~L~I~--v-~~~~~vg~~~~v~vsf~Npl~~~Ltn~~l~----vEG~G--l~~~  682 (738)
+T 4KTY_B          612 HFFVTARINETRDVLAKQKSTVLTIPEIIIK--V-RGTQVVGSDMTVIVEFTNPLKETLRNVWVH----LDGPG--VTRP  682 (738)
+T ss_dssp             EEEEEEEETTTTEEEEEEEEEECBCCCCEEE--E-ESCCBTTSCEEEEEEEECCSSSCEEEEEEE----EEETT--TEEE
+T ss_pred             EEEEEEEECCCCCEEEEEEEEEEeCCceEEE--e-CCceeCCCeEEEEEEEECCCCCcceeEEEE----EECCC--cccc
+Confidence            111  11111001112222333333333322  1 146788999999999999999999998764    33333  3333
+
+
+Q LOKIASV2_39950 1212 VQVRDYSCLLPGENITLSYTIQASRSEGIYTM 1243 (1350)
+Q Consensus      1212 ~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~~L 1243 (1350)
+                      +. ..+..|+|||+.++..++... ..|-.+|
+T Consensus       683 ~~-~~ig~I~pges~~~~~~~tP~-~~G~~~L  712 (738)
+T 4KTY_B          683 MK-KMFREIRPNSTVQWEEVCRPW-VSGHRKL  712 (738)
+T ss_dssp             EE-EEEEEECTTCEEEEEEEECCC-SCEEEEE
+T ss_pred             ce-EEecccCCCCEEEEEEEEecC-CCCceEE
+Confidence            33 346899999999999999985 4663333
+
+
+No 10
+>4ZIU_A alpha-2-Macroglobulin; Bacterial pan-proteinase inhibitor, membrane protein; HET: GOL; 2.7A {Escherichia coli K-12}
+Probab=85.86  E-value=0.43  Score=60.00  Aligned_cols=97  Identities=18%  Similarity=0.174  Sum_probs=67.7  Template_Neff=10.300
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSINDLNG--FP-------------------------------ADGFELVQGVQV 1214 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~s--f~-------------------------------~~~F~L~~G~Li 1214 (1350)
+                      .++..||.|.|+++|.+.+  ...++.+.|.+-  |.                               ........++.+
+T Consensus       508 ~~~~~G~~v~v~l~v~~~~--~~~~v~l~d~lPaG~e~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~e~~~~~v~  585 (639)
+T 4ZIU_A          508 DSLRSGDLVLVWLQVKASN--SVPDALVVDLLPAGLELENQNLANGSASLEQSGGEVQNLLNQMQQASIKHIEFRDDRFV  585 (639)
+T ss_dssp             SSEETTCEEEEEEEEEESS--CEEEEEEEEECCTTEEECCCCTTTTCCSCSSCCTHHHHHHHHHTTSCEEEEEECSSEEE
+T ss_pred             hhcCCCCEEEEEEEEecCC--CcccEEEEEeecCceEEecCccccCCccccccCchhhHHHHHhhhcCCceeeecccEEE
+Confidence            4789999999999999875  345566666431  00                               001122233333
+
+
+Q LOKIASV2_39950 1215 RDYSCLLPGENITLSYTIQASRSEGIYTMNPAFIEYMFIYQNRIESATIYMKIN 1268 (1350)
+Q Consensus      1215 ~~I~~L~PgEs~sfsYtIkA~~sQ~i~~L~pA~ieYyyl~k~~~~SN~i~iKV~ 1268 (1350)
+                      .....+ |++..+|+|.++|. ..|.+.+.||.++-+|.-...-.|+...|.|.
+T Consensus       586 ~~~~~~-~~~~~~~~y~~r~~-~~G~f~~~pa~~~~my~pe~~g~s~~~~~~v~  637 (639)
+T 4ZIU_A          586 AAVAVD-EYQPVTLVYLARAV-TPGTYQVPQPMVESMYVPQWRATGAAEDLLIV  637 (639)
+T ss_dssp             EEEEEB-TTBCEEEEEEEEEC-SCEEEECCCCEEEESSSTTSEEECCCCSEEEE
+T ss_pred             EEEEeC-CCCcEEEEEEEecc-CCCeecCCCcchhhhcCcceeeecCCcceEEe
+Confidence            333334 44678999999996 79999999999999999998888877766665
+
+
+No 11
+>4ZIQ_A alpha-2-Macroglobulin; Bacterial pan-proteinase inhibitor, membrane protein; 2.55A {Escherichia coli K-12}
+Probab=84.00  E-value=0.62  Score=65.91  Aligned_cols=106  Identities=18%  Similarity=0.194  Sum_probs=75.7  Template_Neff=9.600
+
+Q LOKIASV2_39950 1158 SVSLIKTYDS--------LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELV-------------------- 1209 (1350)
+Q Consensus      1158 nfsI~Ksv~~--------~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~-------------------- 1209 (1350)
+                      .|+|.|.+-.        ..++.||.|.|.|+|++.+  .+.++.|.|.+   ..||++.                    
+T Consensus      1468 gl~v~r~~~~~~g~~~~~~~~~~Gd~v~v~l~v~~~~--~~~~v~i~d~l---PaGle~~~~~l~~~~~~~~~~~~~~~~ 1542 (1617)
+T 4ZIQ_A         1468 VLQIERHILGTDGKSKSLDSLRSGDLVLVWLQVKASN--SVPDALVVDLL---PAGLELENQNLANGSASLEQSGGEVQN 1542 (1617)
+T ss_dssp             SEEEEEEEEETTSSBCCTTSEETTCEEEEEEEEEESS--CEEEEEEEEEC---CTTEEECCTTSGGGSCCHHHHTGGGHH
+T ss_pred             CeEEEEEEEcCCCCcCcHhhcCCCCEEEEEEEEecCC--CCCcEEEEEee---CCceEEecccccCCCcchhccCchhHH
+Confidence            3677666542        3799999999999999765  45556666654   1233322                    
+
+
+Q LOKIASV2_39950 1210 ----------------QGVQVRDYSCLLPGENITLSYTIQASRSEGIYTMNPAFIEYMFIYQNRIESATIYMKINAN 1270 (1350)
+Q Consensus      1210 ----------------~G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~~L~pA~ieYyyl~k~~~~SN~i~iKV~~p 1270 (1350)
+                                      +++.+...+ +.|++..+|.|.+||. +.|-|.+.||.++-+|--...-.|..-.|+|..|
+T Consensus      1543 ~~~~~~~~~~~~~e~rddr~~~~~~-~~~~~~~~~~y~~ra~-~~G~f~~ppa~~e~mY~pe~~~~s~~~~v~I~~~ 1617 (1617)
+T 4ZIQ_A         1543 LLNQMQQASIKHIEFRDDRFVAAVA-VDEYQPVTLVYLARAV-TPGTYQVPQPMVESMYVPQWRATGAAEDLLIVRP 1617 (1617)
+T ss_dssp             HHHHHHHSEEEEEEECSSEEEEEEE-EBTTBCEEEEEEEEEC-SCEEECCCCCEEEESSCTTSEEECCCCCCEEEEC
+T ss_pred             HHHHhhhcCCceeeecCceEEEEEE-eCCCCcEEEEEEEecc-CCceecCCCcchhhhcCccceeeCCCCceEEeCC
+Confidence                            333333322 3455578999999996 7999999999999999999888888777777643
+
+
+No 12
+>5A42_A UNCHARACTERIZED LIPOPROTEIN YFHM; HYDROLASE INHIBITOR, PEPTIDASE INHIBITOR; 16.0A {ESCHERICHIA COLI K-12}
+Probab=83.96  E-value=0.62  Score=65.87  Aligned_cols=106  Identities=18%  Similarity=0.191  Sum_probs=75.8  Template_Neff=9.600
+
+Q LOKIASV2_39950 1158 SVSLIKTYDS--------LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQ------------------- 1210 (1350)
+Q Consensus      1158 nfsI~Ksv~~--------~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~------------------- 1210 (1350)
+                      .|+|.|.+-.        ..++.||.|.|.|+|++.+  .+.++.|.|.+   ..||+++.                   
+T Consensus      1465 gl~v~r~~~~~~g~~~~~~~~~~Gd~v~v~l~v~~~~--~~~~v~i~d~l---PaGle~~~~~l~~~~~~~~~~~~~~~~ 1539 (1614)
+T 5A42_A         1465 VLQIERHILGTDGKSKSLDSLRSGDLVLVWLQVKASN--SVPDALVVDLL---PAGLELENQNLANGSASLEQSGGEVQN 1539 (1614)
+T ss_dssp             SEEEEEEEECTTSCBCCSTTEETTCEEEEEEEEEESS--CEEEEEEEEEC---CTTEEECCCCGGGTCCSCSSCCSTTHH
+T ss_pred             CeEEEEEEEcCCCCcCcHhhcCCCCEEEEEEEEecCC--CCCcEEEEEee---CCceEEecccccCCCcchhccCchhHH
+Confidence            3666666542        3799999999999999765  45566666654   13333332                   
+
+
+Q LOKIASV2_39950 1211 -----------------GVQVRDYSCLLPGENITLSYTIQASRSEGIYTMNPAFIEYMFIYQNRIESATIYMKINAN 1270 (1350)
+Q Consensus      1211 -----------------G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~~L~pA~ieYyyl~k~~~~SN~i~iKV~~p 1270 (1350)
+                                       .+.+... .+.+++..+|.|.+||. +.|-|.+.||.++-+|--...-.|..-.|+|..|
+T Consensus      1540 ~~~~~~~~~~~~~e~rddr~~~~~-~~~~~g~~~~~y~~ra~-~~G~f~~ppa~~e~mY~pe~~~~s~~~~v~I~~~ 1614 (1614)
+T 5A42_A         1540 LLNQMQQASIKHIEFRDDRFVAAV-AVDEYQPVTLVYLARAV-TPGTYQVPQPMVESMYVPQWRATGAAEDLLIVRP 1614 (1614)
+T ss_dssp             HHHHHHHSCEEEEEECSSEEEEEE-EECSSSCEEEEEEEEEC-SCEEEECCCCEEEESSCTTSEEECCCCSEEEEEC
+T ss_pred             HHHHhhhcCCceeeecCceEEEEE-EeCCCCcEEEEEEEecc-CCceecCCCcchhhhcCccceeeCCCCceEEeCC
+Confidence                             3322222 23455678999999996 7999999999999999999888888777777643
+
+
+No 13
+>4OLE_A Next to BRCA1 gene 1; Ig-like domain from next to; HET: EDO, SO4; 2.52A {Homo sapiens}
+Probab=78.51  E-value=1.4  Score=45.16  Aligned_cols=72  Identities=19%  Similarity=0.185  Sum_probs=47.7  Template_Neff=8.600
+
+Q LOKIASV2_39950 1166 DSLTVTQKETIDVSITLINDGTIELGA-FSINDLNGFPADGFELVQ-GVQVRDYSCLLPGENITLSYTIQASRSEGIY 1241 (1350)
+Q Consensus      1166 ~~~qieiGd~i~V~I~v~N~GnI~i~n-i~InD~~sf~~~~F~L~~-G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~ 1241 (1350)
+                      +.-.+.+|...++.++|+|+|+..-.. ..    +.+......+.. ......+..++|||+.+|+.+++|-...|.|
+T Consensus        19 d~~~v~~g~~f~~~w~vkNtG~~~W~~~~~----l~~~~g~~~~~~~~~~~~~~~~v~Pg~~~~~~~~l~aP~~~G~y   92 (122)
+T 4OLE_A           19 DGTHLQPGTKFIKHWRMKNTGNVKWSADTK----LKFMWGNLTLASTEKKDVLVPCLKAGHVGVVSVEFIAPALEGTY   92 (122)
+T ss_dssp             TTEEECTTCEEEEEEEEEECSSSCCCTTEE----EEEEEESCEESSCHHHHEECCCCCTTCEEEEEEEEECCSSCEEE
+T ss_pred             CCCeeCCCCEEEEEEEEEecCCCCCCCCeE----EEEcccCCCccCCCCcEEeCCCcCCCCEEEEEEEEECCCCCeEE
+Confidence            445789999999999999999876553 22    112222222221 1112346889999999999999996444444
+
+
+No 14
+>4OLE_B Next to BRCA1 gene 1; Ig-like domain from next to; HET: MSE, SO4, EDO; 2.52A {Homo sapiens}
+Probab=78.51  E-value=1.4  Score=45.16  Aligned_cols=72  Identities=19%  Similarity=0.185  Sum_probs=47.7  Template_Neff=8.600
+
+Q LOKIASV2_39950 1166 DSLTVTQKETIDVSITLINDGTIELGA-FSINDLNGFPADGFELVQ-GVQVRDYSCLLPGENITLSYTIQASRSEGIY 1241 (1350)
+Q Consensus      1166 ~~~qieiGd~i~V~I~v~N~GnI~i~n-i~InD~~sf~~~~F~L~~-G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~i~ 1241 (1350)
+                      +.-.+.+|...++.++|+|+|+..-.. ..    +.+......+.. ......+..++|||+.+|+.+++|-...|.|
+T Consensus        19 d~~~v~~g~~f~~~w~vkNtG~~~W~~~~~----l~~~~g~~~~~~~~~~~~~~~~v~Pg~~~~~~~~l~aP~~~G~y   92 (122)
+T 4OLE_B           19 DGTHLQPGTKFIKHWRMKNTGNVKWSADTK----LKFMWGNLTLASTEKKDVLVPCLKAGHVGVVSVEFIAPALEGTY   92 (122)
+T ss_dssp             TTEEECTTCEEEEEEEEEECSSSCCCTTEE----EEEEEESCEESSCHHHHEECCCCCTTCEEEEEEEEECCSSCEEE
+T ss_pred             CCCeeCCCCEEEEEEEEEecCCCCCCCCeE----EEEcccCCCccCCCCcEEeCCCcCCCCEEEEEEEEECCCCCeEE
+Confidence            445789999999999999999876553 22    112222222221 1112346889999999999999996444444
+
+
+No 15
+>2KUT_A Uncharacterized protein; Structural Genomics, PSI-2, Protein Structure; NMR {Geobacter metallireducens}
+Probab=69.03  E-value=3.6  Score=42.62  Aligned_cols=66  Identities=24%  Similarity=0.233  Sum_probs=45.7  Template_Neff=8.200
+
+Q LOKIASV2_39950 1165 YDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQV--RDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1165 v~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li--~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      ++-..+..|+.++|+.+|+|.|+-...++++.=-.+=+..     .|+++  ..+..|+||++.+++.+..+.
+T Consensus         7 ~~p~~~~~g~~~tv~a~V~N~G~~~~~~~~V~~y~~~~~~-----~~~~i~~~~~~~l~~G~~~tv~~~~~~~   74 (122)
+T 2KUT_A            7 LSKETPFEGEEITVSARVTNRGAAEAHNVPVAVYLGNPAQ-----GGVEIGRDTISRIPVGGTGLARVQWKAT   74 (122)
+T ss_dssp             CCTTSCCTTCEEEEEEEEECCSSSCBCCCCEEECSSCTTT-----CCCCCBCCCCSCBCTTCEEECCEEEECC
+T ss_pred             EecCCCCCCCCEEEEEEEEECCCCCCCCeEEEEEeCCCcC-----CCcEEEEEEccccCCCCEEEEEEEEecc
+Confidence            3445678999999999999999988777665422221111     23333  245889999999888777763
+
+
+No 16
+>2L0D_A Cell surface protein; Structural Genomics, NORTHEAST STRUCTURAL GENOMICS; NMR {Methanosarcina acetivorans}
+Probab=55.76  E-value=9.3  Score=38.14  Aligned_cols=57  Identities=18%  Similarity=0.302  Sum_probs=41.0  Template_Neff=9.500
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQV--RDYSCLLPGENITLSYTIQA 1234 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li--~~I~~L~PgEs~sfsYtIkA 1234 (1350)
+                      ..+..|+.+.|.+.|+|.|.-.++++.+.-..          +|..+  ..+..|.||++..++.++.+
+T Consensus        13 ~~~~~g~~~~v~~~V~N~G~~~~~~~~v~l~~----------~g~~~~~~~~~~l~~g~~~~~~~~~~~   71 (114)
+T 2L0D_A           13 VTVVPNTVNTMTATIENQGNKDSTSFNVSLLV----------DGIVVDTQTVTSLESENSTNVDFHWTL   71 (114)
+T ss_dssp             SEECTTSEEEEEEEEEECSSSCBCCEEEEEEE----------TTEEEEEEEESCBCBTCEEEEEEEEEC
+T ss_pred             CCCCCCCeEEEEEEEEecCCCCCCcEEEEEEE----------CCEEeceEEEccCCCCCEEEEEEEEEC
+Confidence            36788999999999999999777665442111          23322  45778999999888887765
+
+
+No 17
+>2KV5_A Putative uncharacterized protein RNAI; toxin-antitoxin, bacterial, toxin; NMR {N/A}
+Probab=48.66  E-value=14  Score=31.82  Aligned_cols=28  Identities=7%  Similarity=0.188  Sum_probs=22.5  Template_Neff=4.000
+
+Q LOKIASV2_39950 1275 FTPLLSTILFGALGLFMAYRYQIKRNRE 1302 (1350)
+Q Consensus      1275 ~l~il~p~~i~~i~i~~~y~~k~r~~kk 1302 (1350)
+                      +..|+.|+++|.++-++.+|+..|.+|+
+T Consensus         5 f~~IiapiivG~vv~lf~~WL~~r~~k~   32 (33)
+T 2KV5_A            5 MSLVIAPIFVGLVLEMISRVLDEEDDSR   32 (33)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHTTCCCCCC
+T ss_pred             HHHhHHHHHHHHHHHHHHHHHHhccccc
+Confidence            3457889999998888899998886654
+
+
+No 18
+>4B19_A PEPA1; TOXIN, TOXIN APOPTOTIC PEPTIDE, APOPTOSIS; NMR {N/A}
+Probab=46.53  E-value=16  Score=30.86  Aligned_cols=26  Identities=12%  Similarity=0.372  Sum_probs=21.0  Template_Neff=4.200
+
+Q LOKIASV2_39950 1276 TPLLSTILFGALGLFMAYRYQIKRNR 1301 (1350)
+Q Consensus      1276 l~il~p~~i~~i~i~~~y~~k~r~~k 1301 (1350)
+                      ..++.|+++|.++-++.+|++.|++|
+T Consensus         5 ~~iiaPiivG~i~~l~~~WL~~r~~k   30 (30)
+T 4B19_A            5 VHIIAPVISGCAIAFFSYWLSRRNTK   30 (30)
+T ss_dssp             TSSTTTTHHHHHHHHHHHHHHHHSCC
+T ss_pred             HHhHHHHHHHHHHHHHHHHHHhccCC
+Confidence            34678999999888888998887764
+
+
+No 19
+>2M8X_A Uncharacterized protein; CARDB domain, PFAM 07705, UNKNOWN; NMR {Pyrococcus furiosus}
+Probab=42.39  E-value=21  Score=35.28  Aligned_cols=60  Identities=17%  Similarity=0.154  Sum_probs=40.2  Template_Neff=10.000
+
+Q LOKIASV2_39950 1167 SLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQVRDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1167 ~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      ...+.+|+.++|+++|+|.|....+++.+.-..    .+-..  +  -..+. +.||++..+++++++.
+T Consensus        13 ~~~~~~g~~~~v~~~v~N~g~~~~~~~~v~l~~----~~~~~--~--~~~~~-~~~g~~~~~~~~~~~~   72 (114)
+T 2M8X_A           13 PDVVGVNKLAEYEVHVKNLGGIGVPSTKVRVYI----NGTLY--K--NWTVS-LGPKEEKVLTFSWTPT   72 (114)
+T ss_dssp             CSEEETTCCEEEEEEEEECSSSCBTTCEEEEEE----TTEEE--E--EEECC-BCTTCEEEEEEEECCC
+T ss_pred             CCCCCCCCeEEEEEEEEEcCCCCCCCEEEEEEE----CCEEE--e--EEEEe-eCCCCeEEEEEEEcCC
+Confidence            456788999999999999998776655443222    11111  1  13445 8999988888877763
+
+
+No 20
+>4PYG_E Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Protein-GTP complex, Transglutaminase fold, Crosslinking; HET: GTP; 2.8A {Homo sapiens}
+Probab=42.18  E-value=21  Score=47.80  Aligned_cols=169  Identities=12%  Similarity=0.158  Sum_probs=93.8  Template_Neff=8.000
+
+Q LOKIASV2_39950  907 MNNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYL-VLNL-DRLGANSS  984 (1350)
+Q Consensus       907 ~s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L-~~~i-~~L~p~s~  984 (1350)
+                      ....|+.-++++.++|.+ ..++++.+.+..|...+..                   .  ..++.- ...+ ..|.|++ 
+T Consensus       482 ~i~~Gedf~l~v~v~N~s-~~~~~v~l~l~~~~~fy~g-------------------~--~~~~~w~~~~~~~~L~p~~-  538 (695)
+T 4PYG_E          482 SMNMGSDFDVFAHITNNT-AEEYVCRLLLCARTVSYNG-------------------I--LGPECGTKYLLNLNLEPFS-  538 (695)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SCCEEEEEEEEEEEECTTC-------------------C--EEEEEEEEEEEEEEECTTC-
+T ss_pred             cccCCCeEEEEEEEEeCC-CCcEEEEEEEEEeeeEEcC-------------------e--eCcccceEEEEEEEeCCCC-
+Confidence            558999999999999999 9999999999888654431                   0  111111 1123 5578864 
+
+
+Q LOKIASV2_39950  985 ISNITFDFFLT--NNRLSPPVIAEWQYSLGTNTISKLFTSQSEQKFLRMGVSTTDISQFSLKPHVSIRYININDIGIPCP 1062 (1350)
+Q Consensus       985 ~~~isFsFYvP--NS~~~~~~~i~y~~~~~~n~~~~~~~s~sn~~~~sapi~~~~~~~~~~~~~v~~~~~~~n~~~~P~i 1062 (1350)
+                      .++|.+.....  ...+.....++-.-  ...      ...+.+.+.      ...+.-...|.+.+.     ...-+.+
+T Consensus       539 ~~~I~i~~~~~~y~~~l~~~~~i~v~v--~~~------~~~t~~~~~------~~~~~~l~~P~L~I~-----~~~~~~~  599 (695)
+T 4PYG_E          539 EKSVPLCILYEKYRDCLTESNLIKVRA--LLV------EPVINSYLL------AERDLYLENPEIKIR-----ILGEPKQ  599 (695)
+T ss_dssp             EEEEEEEECHHHHTTTCCTTCEEEEEE--EEE------ETTTTEEEE------EEEEEECBCCCCEEE-----EESCCBT
+T ss_pred             eEEEEEEEEcHHHcccccCCCeEEEEE--EEE------eCCCCeEEE------EEEEEEeeCCCceEE-----eCCCccC
+Confidence            35555544211  11111111111000  000      001112221      011111122333222     1123789
+
+
+Q LOKIASV2_39950 1063 QDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIFI-PRLNSQQKLVLNIDYQ 1121 (1350)
+Q Consensus      1063 ~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~~-~~i~~n~~~s~nitl~ 1121 (1350)
+                      |+.++++++++|+.+.++.++.+.+.-.  |+.  .+...+.+ .++.+++..++.+++.
+T Consensus       600 G~~~~v~vsf~Npl~~~Ltn~~l~veg~--Gl~--~~~~~i~l~~~I~PGe~~~~~~~~~  655 (695)
+T 4PYG_E          600 KRKLVAEVSLQNPLPVALEGCTFTVEGA--GLT--EEQKTVEIPDPVEAGEEVKVRMDLL  655 (695)
+T ss_dssp             TSCEEEEEEEECCSSSCBCSCEEEEECT--TTC--SSCEEEECCSCBCSSCEEEEEEEEC
+T ss_pred             CCeEEEEEEEECCCCCccccEEEEEEcC--CCc--ccceEEEcCCCcCCCCEEEEEEEEe
+Confidence            9999999999999999999999987644  322  11234556 7888888887666553
+
+
+No 21
+>6A8P_C Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Transglutaminase, Complex, Mutant, GTP, TRANSFERASE; HET: GTP; 2.537A {Homo sapiens}
+Probab=42.18  E-value=21  Score=47.80  Aligned_cols=169  Identities=12%  Similarity=0.158  Sum_probs=93.8  Template_Neff=8.000
+
+Q LOKIASV2_39950  907 MNNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYL-VLNL-DRLGANSS  984 (1350)
+Q Consensus       907 ~s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L-~~~i-~~L~p~s~  984 (1350)
+                      ....|+.-++++.++|.+ ..++++.+.+..|...+..                   .  ..++.- ...+ ..|.|++ 
+T Consensus       482 ~i~~Gedf~l~v~v~N~s-~~~~~v~l~l~~~~~fy~g-------------------~--~~~~~w~~~~~~~~L~p~~-  538 (695)
+T 6A8P_C          482 SMNMGSDFDVFAHITNNT-AEEYVCRLLLCARTVSYNG-------------------I--LGPECGTKYLLNLNLEPFS-  538 (695)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTC-------------------C--EEEEEEEEEEEEEEECTTE-
+T ss_pred             cccCCCeEEEEEEEEeCC-CCcEEEEEEEEEeeeEEcC-------------------e--eCcccceEEEEEEEeCCCC-
+Confidence            558999999999999999 9999999999888654431                   0  111111 1123 5578864 
+
+
+Q LOKIASV2_39950  985 ISNITFDFFLT--NNRLSPPVIAEWQYSLGTNTISKLFTSQSEQKFLRMGVSTTDISQFSLKPHVSIRYININDIGIPCP 1062 (1350)
+Q Consensus       985 ~~~isFsFYvP--NS~~~~~~~i~y~~~~~~n~~~~~~~s~sn~~~~sapi~~~~~~~~~~~~~v~~~~~~~n~~~~P~i 1062 (1350)
+                      .++|.+.....  ...+.....++-.-  ...      ...+.+.+.      ...+.-...|.+.+.     ...-+.+
+T Consensus       539 ~~~I~i~~~~~~y~~~l~~~~~i~v~v--~~~------~~~t~~~~~------~~~~~~l~~P~L~I~-----~~~~~~~  599 (695)
+T 6A8P_C          539 EKSVPLCILYEKYRDCLTESNLIKVRA--LLV------EPVINSYLL------AERDLYLENPEIKIR-----ILGEPKQ  599 (695)
+T ss_dssp             EEEEEEEECHHHHHTTCCTTCEEEEEE--EEE------ETTTTEEEE------EEEEEECBCCCCEEE-----EESCCBT
+T ss_pred             eEEEEEEEEcHHHcccccCCCeEEEEE--EEE------eCCCCeEEE------EEEEEEeeCCCceEE-----eCCCccC
+Confidence            35555544211  11111111111000  000      001112221      011111122333222     1123789
+
+
+Q LOKIASV2_39950 1063 QDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIFI-PRLNSQQKLVLNIDYQ 1121 (1350)
+Q Consensus      1063 ~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~~-~~i~~n~~~s~nitl~ 1121 (1350)
+                      |+.++++++++|+.+.++.++.+.+.-.  |+.  .+...+.+ .++.+++..++.+++.
+T Consensus       600 G~~~~v~vsf~Npl~~~Ltn~~l~veg~--Gl~--~~~~~i~l~~~I~PGe~~~~~~~~~  655 (695)
+T 6A8P_C          600 KRKLVAEVSLQNPLPVALEGCTFTVEGA--GLT--EEQKTVEIPDPVEAGEEVKVRMDLL  655 (695)
+T ss_dssp             TSCEEEEEEEECCSSSCBCSCEEEEECT--TTC--SSCEEEECCSCBCSSCEEEEEEEEC
+T ss_pred             CCeEEEEEEEECCCCCccccEEEEEEcC--CCc--ccceEEEcCCCcCCCCEEEEEEEEe
+Confidence            9999999999999999999999987644  322  11234556 7888888887666553
+
+
+No 22
+>2QSV_A Uncharacterized protein; MCSG, structural genomics, Porphyromonas gingivalis; 2.1A {Porphyromonas gingivalis}
+Probab=39.69  E-value=25  Score=37.61  Aligned_cols=158  Identities=18%  Similarity=0.166  Sum_probs=80.6  Template_Neff=11.300
+
+Q LOKIASV2_39950 1058 GIPCPQDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIFIPRLNSQQKLVLNIDYQKIS--AGAYIFPQPNL 1135 (1350)
+Q Consensus      1058 ~~P~i~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~~~~i~~n~~~s~nitl~Kt~--wkgY~yPsIn~ 1135 (1350)
+                      +.-..|+....+++++|.+..++ .+.+....   +...+...    --.+.+++...+.+++.=..  ..|.|.-.+.+
+T Consensus        13 g~~~~g~~~~~~~~i~N~~~~~~-~~~~~~~~---~~~~~~~~----~~~l~pg~~~~i~i~~~~~~~~~~g~~~~~~~~   84 (220)
+T 2QSV_A           13 PISMPEDEGVVRLVVNNTDESDL-QVAVVSLP---SFVSLDDR----AFRLQAREPRELNLSLAVPRNMPPGMKDEPLVL   84 (220)
+T ss_dssp             CSBCTTCCCEEEEEEEECSSSCE-EEEEEECC---TTEECSCC----EEEECSSSCEEEEEEECCCTTCCSEEEEEEEEE
+T ss_pred             CCCCCCCceEEEEEEEcCCCCCE-EEEEecCC---CceeceeC----cEEeCCCCCeEEEEEEecCCCCCCcceeccEEE
+Confidence            34456677788888888764443 11221111   11111111    11345566666666654333  12333333333
+
+
+Q LOKIASV2_39950 1136 VCTLQ------PNMTHCNSSPPL--------ILGNFSVSLIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGF 1201 (1350)
+Q Consensus      1136 i~~se------~~~iqi~~S~pl--------ILG~infsI~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf 1201 (1350)
+                      .....      ...+++.....-        .-..+.++  +.++-..+. |......++|+|.|+..++=..+.    -
+T Consensus        85 ~~~~~~~~~~~~~~i~v~~~~~~~~~~~~~~~~p~~~~~--~~~~fg~~~-g~~~~~~i~l~N~g~~~~~~~~~~----~  157 (220)
+T 2QSV_A           85 EVTSPETGKKAVDSVMVSLPLVDNFPALTAAQTGVMELS--TYLDMGQLD-GETTKAAIEIRNVGAGPLRLHSVT----T  157 (220)
+T ss_dssp             EEECTTTCCEEEEEEEEEEEECCCGGGCCGGGCCCEECC--CEEEEEECT-TSCEEEEEEEEECSSSCEEEEEEE----E
+T ss_pred             EEeCcccCccceeEEEEEEEeecCchhcchhhcceEeEe--eeEEecccC-CceEEEEEEEEecCCCCEEEEEee----e
+Confidence            22221      123332222100        11222344  667777788 999999999999998754433221    1
+
+
+Q LOKIASV2_39950 1202 PADGFELVQGVQVRDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1202 ~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      ....|.+..     .-..|.|||+..+.-++++.
+T Consensus       158 ~~~~~~i~~-----~~~~i~pg~~~~v~v~~~p~  186 (220)
+T 2QSV_A          158 RNPALTAVP-----DRTEIKPGGSTLLRIAVDPQ  186 (220)
+T ss_dssp             CSTTEEEEE-----SCSEECTTCEEEEEEEECHH
+T ss_pred             CCCceEEEe-----cCcEeCCCCEEEEEEEEech
+Confidence            122333321     12568999999888888864
+
+
+No 23
+>2Q3Z_A Transglutaminase 2 (E.C.2.3.2.13); Transglutaminase 2, tissue transglutaminase, TG2; HET: SO4; 2.0A {Homo sapiens} SCOP: b.1.5.1, b.1.18.9, d.3.1.4
+Probab=36.57  E-value=30  Score=46.47  Aligned_cols=169  Identities=13%  Similarity=0.165  Sum_probs=94.0  Template_Neff=8.000
+
+Q LOKIASV2_39950  907 MNNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYL-VLNL-DRLGANSS  984 (1350)
+Q Consensus       907 ~s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L-~~~i-~~L~p~s~  984 (1350)
+                      ....|+.-+++++++|.+ ..++++.+.+..|...+..                   .  ..++.- ...+ .+|.|++ 
+T Consensus       482 ~i~~Gedf~l~v~v~N~s-~~~~~v~l~l~~~~~fy~g-------------------~--~~~~~~~~~~~~~~L~p~~-  538 (687)
+T 2Q3Z_A          482 SMNMGSDFDVFAHITNNT-AEEYVCRLLLCARTVSYNG-------------------I--LGPECGTKYLLNLTLEPFS-  538 (687)
+T ss_dssp             CCBTTCCEEEEEEEEECS-SSCEEEEEEEEEEEECTTC-------------------C--EEEEEEEEEEEEEEECTTE-
+T ss_pred             cccCCCeEEEEEEEEeCC-CCcEEEEEEEEEEeeEEcC-------------------e--eCcccceEEEEEEEeCCCC-
+Confidence            458999999999999999 8999999999888653321                   0  011110 1224 5688874 
+
+
+Q LOKIASV2_39950  985 ISNITFDFFLTNNR--LSPPVIAEWQYSLGTNTISKLFTSQSEQKFLRMGVSTTDISQFSLKPHVSIRYININDIGIPCP 1062 (1350)
+Q Consensus       985 ~~~isFsFYvPNS~--~~~~~~i~y~~~~~~n~~~~~~~s~sn~~~~sapi~~~~~~~~~~~~~v~~~~~~~n~~~~P~i 1062 (1350)
+                      .++|.+.....-..  +.....++-.  ....      ...+.+.+.      ...+.-...|.+.+.     ....+.+
+T Consensus       539 ~~~I~i~v~~~~y~~~l~~~~~i~v~--v~~~------~~~t~~~~~------~~~~~~l~~P~L~I~-----~~~~~~~  599 (687)
+T 2Q3Z_A          539 EKSVPLCILYEKYRDCLTESNLIKVR--ALLV------EPVINSYLL------AERDLYLENPEIKIR-----ILGEPKQ  599 (687)
+T ss_dssp             EEEEEEEECHHHHTTTCCTTCEEEEE--EEEE------ETTTTEEEE------EEEEEECBCCCCEEE-----EESCCSS
+T ss_pred             eEEEEEEEEcHHHcccccCCCeEEEE--EEEE------eCCCCeEEE------EEEEEEEeCCCcEEE-----ECCCccC
+Confidence            35665554221111  1111111100  0000      001112221      011111122333322     1123778
+
+
+Q LOKIASV2_39950 1063 QDNLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIFI-PRLNSQQKLVLNIDYQ 1121 (1350)
+Q Consensus      1063 ~~~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~~-~~i~~n~~~s~nitl~ 1121 (1350)
+                      |+.++++++++|+...++.++.+.+.-.  |+..  ....+.+ .++.+++..++.+++.
+T Consensus       600 G~~~~v~vsf~Npl~~~L~n~~l~veg~--Gl~~--~~~~i~l~~~I~PGe~~~~~f~~~  655 (687)
+T 2Q3Z_A          600 KRKLVAEVSLQNPLPVALEGCTFTVEGA--GLTE--EQKTVEIPDPVEAGEEVKVRMDLV  655 (687)
+T ss_dssp             SSCEEEEEEEECCSSSCBCSEEEEEECT--TTCS--SCEEEEECSCBCTTCEEEEEEEEC
+T ss_pred             CCeEEEEEEEECCCCCccccEEEEEEcC--CCcc--cceEEEeCCCcCCCCEEEEEEEEe
+Confidence            9999999999999999999999987644  3221  1223556 7888888887666653
+
+
+No 24
+>2XZZ_A PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE K (E.C.2.3.2.13); TRANSFERASE; 2.3A {HOMO SAPIENS}
+Probab=32.19  E-value=39  Score=34.88  Aligned_cols=64  Identities=16%  Similarity=0.176  Sum_probs=49.2  Template_Neff=7.300
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQVRDYSCLLPGENITLSYTIQASRSEG 1239 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~~sQ~ 1239 (1350)
+                      .++..|....|++++.|...+.+.|..+.    ..+.|  |.... -..+..++|||++++.++++.. .-|
+T Consensus        14 ~~~~vg~~~~v~vsf~NPl~~~Lt~c~l~----ieG~G--l~~~~-~~~~~~i~p~~~~~~~~~~~P~-~~G   77 (102)
+T 2XZZ_A           14 GAAVVGQECEVQIVFKNPLPVTLTNVVFR----LEGSG--LQRPK-ILNVGDIGGNETVTLRQSFVPV-RPG   77 (102)
+T ss_dssp             SCCCSSSCEEEEEEEECCSSSCBCSEEEE----EEETT--TEEEE-EEEECCBCTTCEEEEEEEECCC-SCS
+T ss_pred             CceecCCeEEEEEEEECCCCCcceeEEEE----EEcCC--ccCcE-EEEeCccCCCCEEEEEEEEeeC-CCc
+Confidence            47889999999999999999999998753    22232  33333 3345889999999999999985 355
+
+
+No 25
+>2Q3Z_A Transglutaminase 2 (E.C.2.3.2.13); Transglutaminase 2, tissue transglutaminase, TG2; HET: SO4; 2.0A {Homo sapiens} SCOP: b.1.5.1, b.1.18.9, d.3.1.4
+Probab=30.16  E-value=44  Score=44.95  Aligned_cols=65  Identities=12%  Similarity=0.051  Sum_probs=47.0  Template_Neff=8.000
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQVRD---Y-SCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li~~---I-~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      .++..|+.++++|+++|++ -.++++.+.  ++++..-+.-..+..+..   + ..|.|||+.++..+++..
+T Consensus       481 ~~i~~Gedf~l~v~v~N~s-~~~~~v~l~--l~~~~~fy~g~~~~~~~~~~~~~~~L~p~~~~~I~i~v~~~  549 (687)
+T 2Q3Z_A          481 QSMNMGSDFDVFAHITNNT-AEEYVCRLL--LCARTVSYNGILGPECGTKYLLNLTLEPFSEKSVPLCILYE  549 (687)
+T ss_dssp             SCCBTTCCEEEEEEEEECS-SSCEEEEEE--EEEEEECTTCCEEEEEEEEEEEEEEECTTEEEEEEEEECHH
+T ss_pred             CcccCCCeEEEEEEEEeCC-CCcEEEEEE--EEEEeeEEcCeeCcccceEEEEEEEeCCCCeEEEEEEEEcH
+Confidence            5789999999999999999 889988886  444432222222233332   5 789999998888888764
+
+
+No 26
+>1L9M_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.18.9, d.3.1.4, b.1.5.1
+Probab=28.76  E-value=48  Score=44.69  Aligned_cols=65  Identities=11%  Similarity=0.004  Sum_probs=46.9  Template_Neff=7.900
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSIN---DLNGFPADGFELVQGVQVRDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~In---D~~sf~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      .++..|+.++++|+++|++ -..+++.+.   .+..|.+..+.- -++....+ .|.|||+.++..++++.
+T Consensus       490 ~~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~~~~-~~~~~~~l-~L~pg~~~~I~i~i~~~  557 (692)
+T 1L9M_A          490 GMLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTLVHE-VWKDSATM-SLDPEEEAEHPIKISYA  557 (692)
+T ss_dssp             SCCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTCCEEEE-EEEEEEEE-EECTTCEEEEEEEECHH
+T ss_pred             CeeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeEeee-eeeeEEEE-EECCCCeEEEEEEEEch
+Confidence            5789999999999999999 788888876   122233322222 22334556 99999999999988874
+
+
+No 27
+>1L9M_B Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.5.1, d.3.1.4, b.1.18.9
+Probab=28.76  E-value=48  Score=44.69  Aligned_cols=65  Identities=11%  Similarity=0.004  Sum_probs=46.9  Template_Neff=7.900
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSIN---DLNGFPADGFELVQGVQVRDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~In---D~~sf~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      .++..|+.++++|+++|++ -..+++.+.   .+..|.+..+.- -++....+ .|.|||+.++..++++.
+T Consensus       490 ~~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~~~~-~~~~~~~l-~L~pg~~~~I~i~i~~~  557 (692)
+T 1L9M_B          490 GMLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTLVHE-VWKDSATM-SLDPEEEAEHPIKISYA  557 (692)
+T ss_dssp             SCCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTCCEEEE-EEEEEEEE-EECTTCEEEEEEEECHH
+T ss_pred             CeeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeEeee-eeeeEEEE-EECCCCeEEEEEEEEch
+Confidence            5789999999999999999 788888876   122233322222 22334556 99999999999988874
+
+
+No 28
+>1L9N_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; HET: BGL; 2.1A {Homo sapiens} SCOP: d.3.1.4, b.1.5.1, b.1.18.9
+Probab=28.76  E-value=48  Score=44.69  Aligned_cols=65  Identities=11%  Similarity=0.004  Sum_probs=46.9  Template_Neff=7.900
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSIN---DLNGFPADGFELVQGVQVRDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~In---D~~sf~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      .++..|+.++++|+++|++ -..+++.+.   .+..|.+..+.- -++....+ .|.|||+.++..++++.
+T Consensus       490 ~~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~~~~-~~~~~~~l-~L~pg~~~~I~i~i~~~  557 (692)
+T 1L9N_A          490 GMLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTLVHE-VWKDSATM-SLDPEEEAEHPIKISYA  557 (692)
+T ss_dssp             SCCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTSCEEEE-EEEEEEEE-EECTTCEEEEEEEECHH
+T ss_pred             CeeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeEeee-eeeeEEEE-EECCCCeEEEEEEEEch
+Confidence            5789999999999999999 788888876   122233322222 22334556 99999999999988874
+
+
+No 29
+>3IDU_A Uncharacterized protein; all beta-protein, Structural Genomics, PSI-2; 1.7A {Pyrococcus furiosus}
+Probab=28.37  E-value=50  Score=34.02  Aligned_cols=59  Identities=17%  Similarity=0.117  Sum_probs=40.3  Template_Neff=9.300
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQVRDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      ..+..|+.++|.+.|+|+|....+++.+.-...-.     +. +  ...+. |.||+...+++++.+.
+T Consensus        27 ~~~~~g~~~~v~v~v~N~G~~~a~~~~v~l~~~~~-----~~-~--~~~~~-i~~g~~~~~t~~~~~~   85 (127)
+T 3IDU_A           27 DVVGVNKLAEYEVHVKNLGGIGVPSTKVRVYINGT-----LY-K--NWTVS-LGPKEEKVLTFNWTPT   85 (127)
+T ss_pred             CCCCCCCCEEEEEEEEECCCCCCCeEEEEEEECCE-----EE-E--EEEEE-eCCCCEEEEEEEEeCC
+Confidence            45578999999999999998877666555433211     11 1  24455 8999887777777653
+
+
+No 30
+>5OF1_A Spore coat-associated protein N; TasA, biofilm matrix, amyloid fiber; HET: SAL, MSE, EDO; 1.56A {Bacillus subtilis (strain 168)}
+Probab=27.67  E-value=52  Score=37.91  Aligned_cols=42  Identities=10%  Similarity=0.249  Sum_probs=33.2  Template_Neff=7.800
+
+Q LOKIASV2_39950 1154 LGNFSVSLI---KTYDSLTVTQKETIDVSITLINDGTIELGAFSI 1195 (1350)
+Q Consensus      1154 LG~infsI~---Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~I 1195 (1350)
+                      -|.+.+++.   ..++-..+.|||.....++|+|+|++.++.+.+
+T Consensus        12 aGtldL~~~~~~~~f~~~nl~PGd~~~~~~~v~N~Gs~~~~~v~~   56 (210)
+T 5OF1_A           12 SGTLDLSAKENSASVNLSNLKPGDKLTKDFQFENNGSLAIKEVLM   56 (210)
+T ss_dssp             CEEEETTCSCCEEEEEECSCCTTCEEEEEEEEECTTCCCCCEEEE
+T ss_pred             EeEEEEEecCCcceEEecCCCCCCeecceEEEEeCCCcceeEEEE
+Confidence            355555553   567778899999999999999999999875543
+
+
+No 31
+>5OF1_B Spore coat-associated protein N; TasA, biofilm matrix, amyloid fiber; HET: SAL, EDO, MSE; 1.56A {Bacillus subtilis (strain 168)}
+Probab=27.67  E-value=52  Score=37.91  Aligned_cols=42  Identities=10%  Similarity=0.249  Sum_probs=29.2  Template_Neff=7.800
+
+Q LOKIASV2_39950 1154 LGNFSVSLI---KTYDSLTVTQKETIDVSITLINDGTIELGAFSI 1195 (1350)
+Q Consensus      1154 LG~infsI~---Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~I 1195 (1350)
+                      -|.+.+++.   ..++-..+.|||.....++|+|+|++.++.+.+
+T Consensus        12 aGtldL~~~~~~~~f~~~nl~PGd~~~~~~~v~N~Gs~~~~~v~~   56 (210)
+T 5OF1_B           12 SGTLDLSAKENSASVNLSNLKPGDKLTKDFQFENNGSLAIKEVLM   56 (210)
+T ss_dssp             CEEEECC---CEEEEEECSCCTTCEEEEEEEEEC---CCCCEEEE
+T ss_pred             EeEEEEEecCCcceEEecCCCCCCeecceEEEEeCCCcceeEEEE
+Confidence            355555553   567778899999999999999999999875543
+
+
+No 32
+>4PYG_E Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Protein-GTP complex, Transglutaminase fold, Crosslinking; HET: GTP; 2.8A {Homo sapiens}
+Probab=27.22  E-value=54  Score=44.27  Aligned_cols=65  Identities=12%  Similarity=0.044  Sum_probs=47.2  Template_Neff=8.000
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQVRD---Y-SCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li~~---I-~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      .++..|+.++++|+++|++ -.++++.+.  ++++..-+.-..+..+..   + ..|.|||.-++.-+++..
+T Consensus       481 ~~i~~Gedf~l~v~v~N~s-~~~~~v~l~--l~~~~~fy~g~~~~~~w~~~~~~~~L~p~~~~~I~i~~~~~  549 (695)
+T 4PYG_E          481 QSMNMGSDFDVFAHITNNT-AEEYVCRLL--LCARTVSYNGILGPECGTKYLLNLNLEPFSEKSVPLCILYE  549 (695)
+T ss_dssp             SCCBTTSCEEEEEEEEECS-SCCEEEEEE--EEEEEECTTCCEEEEEEEEEEEEEEECTTCEEEEEEEECHH
+T ss_pred             CcccCCCeEEEEEEEEeCC-CCcEEEEEE--EEEeeeEEcCeeCcccceEEEEEEEeCCCCeEEEEEEEEcH
+Confidence            5789999999999999999 899999886  445532222222333332   5 779999988888887764
+
+
+No 33
+>6A8P_C Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Transglutaminase, Complex, Mutant, GTP, TRANSFERASE; HET: GTP; 2.537A {Homo sapiens}
+Probab=27.22  E-value=54  Score=44.27  Aligned_cols=65  Identities=12%  Similarity=0.044  Sum_probs=47.2  Template_Neff=8.000
+
+Q LOKIASV2_39950 1168 LTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQVRD---Y-SCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1168 ~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li~~---I-~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      .++..|+.++++|+++|++ -.++++.+.  ++++..-+.-..+..+..   + ..|.|||.-++.-+++..
+T Consensus       481 ~~i~~Gedf~l~v~v~N~s-~~~~~v~l~--l~~~~~fy~g~~~~~~w~~~~~~~~L~p~~~~~I~i~~~~~  549 (695)
+T 6A8P_C          481 QSMNMGSDFDVFAHITNNT-AEEYVCRLL--LCARTVSYNGILGPECGTKYLLNLNLEPFSEKSVPLCILYE  549 (695)
+T ss_dssp             SCCBTTSCEEEEEEEEECS-SSCEEEEEE--EEEEEECTTCCEEEEEEEEEEEEEEECTTEEEEEEEEECHH
+T ss_pred             CcccCCCeEEEEEEEEeCC-CCcEEEEEE--EEEeeeEEcCeeCcccceEEEEEEEeCCCCeEEEEEEEEcH
+Confidence            5789999999999999999 899999886  445532222222333332   5 779999988888887764
+
+
+No 34
+>1L9M_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.18.9, d.3.1.4, b.1.5.1
+Probab=26.94  E-value=55  Score=44.22  Aligned_cols=169  Identities=9%  Similarity=0.115  Sum_probs=91.5  Template_Neff=7.900
+
+Q LOKIASV2_39950  907 MNNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYLVLNLDRLGANSSIS  986 (1350)
+Q Consensus       907 ~s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L~~~i~~L~p~s~~~  986 (1350)
+                      ...+|+.-+++++++|.+ ..+++|++.+-..=..++-..               ..  .+.++  ...+ .|.|+++ +
+T Consensus       491 ~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~---------------~~--~~~~~--~~~l-~L~pg~~-~  548 (692)
+T 1L9M_A          491 MLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTL---------------VH--EVWKD--SATM-SLDPEEE-A  548 (692)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTCCE---------------EE--EEEEE--EEEE-EECTTCE-E
+T ss_pred             eeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeE---------------ee--eeeee--EEEE-EECCCCe-E
+Confidence            458999999999999999 889999988543322111000               00  12222  2345 7999754 5
+
+
+Q LOKIASV2_39950  987 NITFDFFLTN--NRLSPPVIAEWQYSLGTNTISKLFTSQSEQKFLRMGVSTTDISQFSLKPHVSIRYININDIGIPCPQD 1064 (1350)
+Q Consensus       987 ~isFsFYvPN--S~~~~~~~i~y~~~~~~n~~~~~~~s~sn~~~~sapi~~~~~~~~~~~~~v~~~~~~~n~~~~P~i~~ 1064 (1350)
+                      +|.++....-  ..+.....++-.-....+.        +.  +..     ...+.-...|.+.+.     ....+.+|+
+T Consensus       549 ~I~i~i~~~~y~~~l~~~~~i~v~v~~~v~~--------t~--~~~-----~~~~~~l~~P~L~I~-----~~~~~~~G~  608 (692)
+T 1L9M_A          549 EHPIKISYAQYERYLKSDNMIRITAVCKVPD--------ES--EVV-----VERDIILDNPTLTLE-----VLNEARVRK  608 (692)
+T ss_dssp             EEEEEECHHHHTTTCCTTCEEEEEEEEECTT--------SC--CEE-----EEEEEECBCCCEEEE-----ESSCCBTTS
+T ss_pred             EEEEEEEchHHhcccCCCCeEEEEEEEEeCC--------CC--eEE-----EEEEEEeeCCceEEE-----eCCCccCCC
+Confidence            6666552221  1111111111110000000        00  100     000111123333322     112378999
+
+
+Q LOKIASV2_39950 1065 NLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIFIPRLNSQQKLVLNIDYQ 1121 (1350)
+Q Consensus      1065 ~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~~~~i~~n~~~s~nitl~ 1121 (1350)
+                      .+++++.++|+...++.|+.+.+.-.  |+..  ....+.+.++.+++...+++++.
+T Consensus       609 ~~~v~v~f~Npl~~~L~nv~l~veg~--Gl~~--~~~~i~l~~I~Pg~~~~~~f~~~  661 (692)
+T 1L9M_A          609 PVNVQMLFSNPLDEPVRDCVLMVEGS--GLLL--GNLKIDVPTLGPKERSRVRFDIL  661 (692)
+T ss_dssp             CEEEEEEEECCSSSCBCSEEEEEECT--TTCS--SCEEEEECCBCTTCEEEEEEEEC
+T ss_pred             cEEEEEEEECCCCCCeeeEEEEEEcC--Ccee--cceEEEcCccCCCCEEEEEEEEE
+Confidence            99999999999999999999987543  3321  12235578888888886666553
+
+
+No 35
+>1L9M_B Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.5.1, d.3.1.4, b.1.18.9
+Probab=26.94  E-value=55  Score=44.22  Aligned_cols=169  Identities=9%  Similarity=0.115  Sum_probs=91.5  Template_Neff=7.900
+
+Q LOKIASV2_39950  907 MNNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYLVLNLDRLGANSSIS  986 (1350)
+Q Consensus       907 ~s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L~~~i~~L~p~s~~~  986 (1350)
+                      ...+|+.-+++++++|.+ ..+++|++.+-..=..++-..               ..  .+.++  ...+ .|.|+++ +
+T Consensus       491 ~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~---------------~~--~~~~~--~~~l-~L~pg~~-~  548 (692)
+T 1L9M_B          491 MLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTL---------------VH--EVWKD--SATM-SLDPEEE-A  548 (692)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTCCE---------------EE--EEEEE--EEEE-EECTTCE-E
+T ss_pred             eeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeE---------------ee--eeeee--EEEE-EECCCCe-E
+Confidence            458999999999999999 889999988543322111000               00  12222  2345 7999754 5
+
+
+Q LOKIASV2_39950  987 NITFDFFLTN--NRLSPPVIAEWQYSLGTNTISKLFTSQSEQKFLRMGVSTTDISQFSLKPHVSIRYININDIGIPCPQD 1064 (1350)
+Q Consensus       987 ~isFsFYvPN--S~~~~~~~i~y~~~~~~n~~~~~~~s~sn~~~~sapi~~~~~~~~~~~~~v~~~~~~~n~~~~P~i~~ 1064 (1350)
+                      +|.++....-  ..+.....++-.-....+.        +.  +..     ...+.-...|.+.+.     ....+.+|+
+T Consensus       549 ~I~i~i~~~~y~~~l~~~~~i~v~v~~~v~~--------t~--~~~-----~~~~~~l~~P~L~I~-----~~~~~~~G~  608 (692)
+T 1L9M_B          549 EHPIKISYAQYERYLKSDNMIRITAVCKVPD--------ES--EVV-----VERDIILDNPTLTLE-----VLNEARVRK  608 (692)
+T ss_dssp             EEEEEECHHHHHTTCCTTCEEEEEEEEEETT--------EE--EEE-----EEEEEECBCCCEEEE-----ECSCCBTTC
+T ss_pred             EEEEEEEchHHhcccCCCCeEEEEEEEEeCC--------CC--eEE-----EEEEEEeeCCceEEE-----eCCCccCCC
+Confidence            6666552221  1111111111110000000        00  100     000111123333322     112378999
+
+
+Q LOKIASV2_39950 1065 NLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIFIPRLNSQQKLVLNIDYQ 1121 (1350)
+Q Consensus      1065 ~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~~~~i~~n~~~s~nitl~ 1121 (1350)
+                      .+++++.++|+...++.|+.+.+.-.  |+..  ....+.+.++.+++...+++++.
+T Consensus       609 ~~~v~v~f~Npl~~~L~nv~l~veg~--Gl~~--~~~~i~l~~I~Pg~~~~~~f~~~  661 (692)
+T 1L9M_B          609 PVNVQMLFSNPLDEPVRDCVLMVEGS--GLLL--GNLKIDVPTLGPKERSRVRFDIL  661 (692)
+T ss_dssp             CEEEEEEEECCSSSCBCSEEEEEECT--TTSS--SCEEEEECCBCTTCEEEEEEEEC
+T ss_pred             cEEEEEEEECCCCCCeeeEEEEEEcC--Ccee--cceEEEcCccCCCCEEEEEEEEE
+Confidence            99999999999999999999987543  3321  12235578888888886666553
+
+
+No 36
+>1L9N_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; HET: BGL; 2.1A {Homo sapiens} SCOP: d.3.1.4, b.1.5.1, b.1.18.9
+Probab=26.94  E-value=55  Score=44.22  Aligned_cols=169  Identities=9%  Similarity=0.115  Sum_probs=91.5  Template_Neff=7.900
+
+Q LOKIASV2_39950  907 MNNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYLVLNLDRLGANSSIS  986 (1350)
+Q Consensus       907 ~s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L~~~i~~L~p~s~~~  986 (1350)
+                      ...+|+.-+++++++|.+ ..+++|++.+-..=..++-..               ..  .+.++  ...+ .|.|+++ +
+T Consensus       491 ~i~~G~df~l~v~v~N~s-~~~~~v~l~l~~~~~~y~G~~---------------~~--~~~~~--~~~l-~L~pg~~-~  548 (692)
+T 1L9N_A          491 MLAVGKEVNLVLLLKNLS-RDTKTVTVNMTAWTIIYNGTL---------------VH--EVWKD--SATM-SLDPEEE-A  548 (692)
+T ss_dssp             CCBTTSCEEEEEEEEECS-SSCEEEEEEEEEEEECTTSCE---------------EE--EEEEE--EEEE-EECTTCE-E
+T ss_pred             eeeCCCcEEEEEEEEeCC-CCCeEEEEEEEEEEEEEcCeE---------------ee--eeeee--EEEE-EECCCCe-E
+Confidence            458999999999999999 889999988543322111000               00  12222  2345 7999754 5
+
+
+Q LOKIASV2_39950  987 NITFDFFLTN--NRLSPPVIAEWQYSLGTNTISKLFTSQSEQKFLRMGVSTTDISQFSLKPHVSIRYININDIGIPCPQD 1064 (1350)
+Q Consensus       987 ~isFsFYvPN--S~~~~~~~i~y~~~~~~n~~~~~~~s~sn~~~~sapi~~~~~~~~~~~~~v~~~~~~~n~~~~P~i~~ 1064 (1350)
+                      +|.++....-  ..+.....++-.-....+.        +.  +..     ...+.-...|.+.+.     ....+.+|+
+T Consensus       549 ~I~i~i~~~~y~~~l~~~~~i~v~v~~~v~~--------t~--~~~-----~~~~~~l~~P~L~I~-----~~~~~~~G~  608 (692)
+T 1L9N_A          549 EHPIKISYAQYERYLKSDNMIRITAVCKVPD--------ES--EVV-----VERDIILDNPTLTLE-----VLNEARVRK  608 (692)
+T ss_dssp             EEEEEECHHHHTTTCCTTCEEEEEEEEECTT--------SC--CEE-----EEEEEECBCCCEEEE-----ECSCCBTTS
+T ss_pred             EEEEEEEchHHhcccCCCCeEEEEEEEEeCC--------CC--eEE-----EEEEEEeeCCceEEE-----eCCCccCCC
+Confidence            6666552221  1111111111110000000        00  100     000111123333322     112378999
+
+
+Q LOKIASV2_39950 1065 NLTLSLEIENHEKYPIYGLSYFIPKNLTGFKSLNQTQQIFIPRLNSQQKLVLNIDYQ 1121 (1350)
+Q Consensus      1065 ~~~isl~i~N~~~~~i~~ls~~i~d~~~gl~~l~~t~~l~~~~i~~n~~~s~nitl~ 1121 (1350)
+                      .+++++.++|+...++.|+.+.+.-.  |+..  ....+.+.++.+++...+++++.
+T Consensus       609 ~~~v~v~f~Npl~~~L~nv~l~veg~--Gl~~--~~~~i~l~~I~Pg~~~~~~f~~~  661 (692)
+T 1L9N_A          609 PVNVQMLFSNPLDEPVRDCVLMVEGS--GLLL--GNLKIDVPTLGPKERSRVRFDIL  661 (692)
+T ss_dssp             CEEEEEEEECCSSSCBCSEEEEEECT--TTSS--SCEEEEECCBCTTCEEEEEEEEC
+T ss_pred             cEEEEEEEECCCCCCeeeEEEEEEcC--Ccee--cceEEEcCccCCCCEEEEEEEEE
+Confidence            99999999999999999999987543  3321  12235578888888886666553
+
+
+No 37
+>1L9M_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.18.9, d.3.1.4, b.1.5.1
+Probab=24.23  E-value=66  Score=43.50  Aligned_cols=60  Identities=17%  Similarity=0.301  Sum_probs=48.6  Template_Neff=7.900
+
+Q LOKIASV2_39950  908 NNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYLVLNLDRLGANSSISN  987 (1350)
+Q Consensus       908 s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L~~~i~~L~p~s~~~~  987 (1350)
+                      ..+|+..+++++++|.|....+|+.+++..||...+..                           ...+..|.|+++ ..
+T Consensus       604 ~~~G~~~~v~v~f~Npl~~~L~nv~l~veg~Gl~~~~~---------------------------~i~l~~I~Pg~~-~~  655 (692)
+T 1L9M_A          604 ARVRKPVNVQMLFSNPLDEPVRDCVLMVEGSGLLLGNL---------------------------KIDVPTLGPKER-SR  655 (692)
+T ss_dssp             CBTTSCEEEEEEEECCSSSCBCSEEEEEECTTTCSSCE---------------------------EEEECCBCTTCE-EE
+T ss_pred             ccCCCcEEEEEEEECCCCCCeeeEEEEEEcCCceecce---------------------------EEEcCccCCCCE-EE
+Confidence            77999999999999999999999999999999866421                           111688999865 57
+
+
+Q LOKIASV2_39950  988 ITFDFFLT  995 (1350)
+Q Consensus       988 isFsFYvP  995 (1350)
+                      ++|+|...
+T Consensus       656 ~~f~~~p~  663 (692)
+T 1L9M_A          656 VRFDILPS  663 (692)
+T ss_dssp             EEEEECCC
+T ss_pred             EEEEEEcC
+Confidence            77777543
+
+
+No 38
+>1L9M_B Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.5.1, d.3.1.4, b.1.18.9
+Probab=24.23  E-value=66  Score=43.50  Aligned_cols=60  Identities=17%  Similarity=0.301  Sum_probs=48.6  Template_Neff=7.900
+
+Q LOKIASV2_39950  908 NNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYLVLNLDRLGANSSISN  987 (1350)
+Q Consensus       908 s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L~~~i~~L~p~s~~~~  987 (1350)
+                      ..+|+..+++++++|.|....+|+.+++..||...+..                           ...+..|.|+++ ..
+T Consensus       604 ~~~G~~~~v~v~f~Npl~~~L~nv~l~veg~Gl~~~~~---------------------------~i~l~~I~Pg~~-~~  655 (692)
+T 1L9M_B          604 ARVRKPVNVQMLFSNPLDEPVRDCVLMVEGSGLLLGNL---------------------------KIDVPTLGPKER-SR  655 (692)
+T ss_dssp             CBTTCCEEEEEEEECCSSSCBCSEEEEEECTTTSSSCE---------------------------EEEECCBCTTCE-EE
+T ss_pred             ccCCCcEEEEEEEECCCCCCeeeEEEEEEcCCceecce---------------------------EEEcCccCCCCE-EE
+Confidence            77999999999999999999999999999999866421                           111688999865 57
+
+
+Q LOKIASV2_39950  988 ITFDFFLT  995 (1350)
+Q Consensus       988 isFsFYvP  995 (1350)
+                      ++|+|...
+T Consensus       656 ~~f~~~p~  663 (692)
+T 1L9M_B          656 VRFDILPS  663 (692)
+T ss_dssp             EEEEECCC
+T ss_pred             EEEEEEcC
+Confidence            77777543
+
+
+No 39
+>1L9N_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; HET: BGL; 2.1A {Homo sapiens} SCOP: d.3.1.4, b.1.5.1, b.1.18.9
+Probab=24.23  E-value=66  Score=43.50  Aligned_cols=60  Identities=17%  Similarity=0.301  Sum_probs=48.6  Template_Neff=7.900
+
+Q LOKIASV2_39950  908 NNFGEKYRYNISVSNLGNIAAENLKIIINQPGFLPNVLNITNLATNTSNRYQGLVNNFTLNNGYLVLNLDRLGANSSISN  987 (1350)
+Q Consensus       908 s~~GelntY~L~i~NiGs~~A~NInIsi~iPGII~n~~N~t~~~~~~~~~~~~~~~NFtl~~~~L~~~i~~L~p~s~~~~  987 (1350)
+                      ..+|+..+++++++|.|....+|+.+++..||...+..                           ...+..|.|+++ ..
+T Consensus       604 ~~~G~~~~v~v~f~Npl~~~L~nv~l~veg~Gl~~~~~---------------------------~i~l~~I~Pg~~-~~  655 (692)
+T 1L9N_A          604 ARVRKPVNVQMLFSNPLDEPVRDCVLMVEGSGLLLGNL---------------------------KIDVPTLGPKER-SR  655 (692)
+T ss_dssp             CBTTSCEEEEEEEECCSSSCBCSEEEEEECTTTSSSCE---------------------------EEEECCBCTTCE-EE
+T ss_pred             ccCCCcEEEEEEEECCCCCCeeeEEEEEEcCCceecce---------------------------EEEcCccCCCCE-EE
+Confidence            77999999999999999999999999999999866421                           111688999865 57
+
+
+Q LOKIASV2_39950  988 ITFDFFLT  995 (1350)
+Q Consensus       988 isFsFYvP  995 (1350)
+                      ++|+|...
+T Consensus       656 ~~f~~~p~  663 (692)
+T 1L9N_A          656 VRFDILPS  663 (692)
+T ss_dssp             EEEEECCC
+T ss_pred             EEEEEEcC
+Confidence            77777543
+
+
+No 40
+>5TUG_A Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=23.82  E-value=68  Score=34.81  Aligned_cols=56  Identities=14%  Similarity=0.153  Sum_probs=34.6  Template_Neff=7.300
+
+Q LOKIASV2_39950 1177 DVSITLINDGTIELGAFSINDLNGFPAD-GFEL------VQGVQVRDYSCLLPGENITLSYTIQ 1233 (1350)
+Q Consensus      1177 ~V~I~v~N~GnI~i~ni~InD~~sf~~~-~F~L------~~G~Li~~I~~L~PgEs~sfsYtIk 1233 (1350)
+                      .+.+.|+|+|.-.+.++.--|+. +... .+..      ..|.--..-..|.|||.+.+.....
+T Consensus        48 ~l~v~vkNtG~t~l~d~~~~dV~-v~g~~~~~~~~~~~~~~~~wt~~~~~w~PGetl~I~v~~~  110 (135)
+T 5TUG_A           48 TVVAYLHNVGETTISYLQNSVVY-FGPNGQLQPVGYNSGSSPYWTVTSNSLQPGSVVKIIIYLS  110 (135)
+T ss_dssp             EEEEEEEECSSSCEECGGGCEEE-EEETTCCEEEEETCSSSSEEEESCSEECTTCEEEEEEECS
+T ss_pred             EEEEEEEeCCCceeeccCceEEE-EcCCCccccccccCCCCCceEEcCCeeCCCCEEEEEEEeC
+Confidence            78899999999988855544544 2211 1111      1222222357899999999876543
+
+
+No 41
+>5TUH_B Flagellar biosynthesis protein FlaG; beta-sandwich fold Archaellum assembly subunit; 1.929A {Sulfolobus acidocaldarius}
+Probab=23.82  E-value=68  Score=34.81  Aligned_cols=56  Identities=14%  Similarity=0.153  Sum_probs=34.6  Template_Neff=7.300
+
+Q LOKIASV2_39950 1177 DVSITLINDGTIELGAFSINDLNGFPAD-GFEL------VQGVQVRDYSCLLPGENITLSYTIQ 1233 (1350)
+Q Consensus      1177 ~V~I~v~N~GnI~i~ni~InD~~sf~~~-~F~L------~~G~Li~~I~~L~PgEs~sfsYtIk 1233 (1350)
+                      .+.+.|+|+|.-.+.++.--|+. +... .+..      ..|.--..-..|.|||.+.+.....
+T Consensus        48 ~l~v~vkNtG~t~l~d~~~~dV~-v~g~~~~~~~~~~~~~~~~wt~~~~~w~PGetl~I~v~~~  110 (135)
+T 5TUH_B           48 TVVAYLHNVGETTISYLQNSVVY-FGPNGQLQPVGYNSGSSPYWTVTSNSLQPGSVVKIIIYLS  110 (135)
+T ss_dssp             EEEEEEEECSSSCBCCGGGCEEE-EEETTCCEEEEESCSSSSEEEESCSCBCTTCEEEEEEECS
+T ss_pred             EEEEEEEeCCCceeeccCceEEE-EcCCCccccccccCCCCCceEEcCCeeCCCCEEEEEEEeC
+Confidence            78899999999988855544544 2211 1111      1222222357899999999876543
+
+
+No 42
+>6AGF_B Sodium channel protein PaFPC1, Mu-diguetoxin-Dc1a; sodium channel, MEMBRANE PROTEIN; HET: 6OU, 9Z9, NAG, BMA; 3.2A {Homo sapiens}
+Probab=21.77  E-value=80  Score=33.46  Aligned_cols=14  Identities=14%  Similarity=0.050  Sum_probs=7.8  Template_Neff=11.700
+
+Q LOKIASV2_39950 1186 GTIELGAFSINDLN 1199 (1350)
+Q Consensus      1186 GnI~i~ni~InD~~ 1199 (1350)
+                      .++.+.+++..|.-
+T Consensus       104 ~~L~i~~~~~~d~G  117 (218)
+T 6AGF_B          104 LSIFITNVTYNHSG  117 (218)
+T ss_dssp             CCEEESSCCGGGCE
+T ss_pred             eEEEEecCccccCE
+Confidence            34555666666643
+
+
+No 43
+>6J8G_B Sodium channel subunit beta-2, Sodium; voltage-gated sodium channel, MEMBRANE PROTEIN; HET: NAG, 9SL;{Homo sapiens}
+Probab=21.77  E-value=80  Score=33.46  Aligned_cols=14  Identities=14%  Similarity=0.050  Sum_probs=7.8  Template_Neff=11.700
+
+Q LOKIASV2_39950 1186 GTIELGAFSINDLN 1199 (1350)
+Q Consensus      1186 GnI~i~ni~InD~~ 1199 (1350)
+                      .++.+.+++..|.-
+T Consensus       104 ~~L~i~~~~~~d~G  117 (218)
+T 6J8G_B          104 LSIFITNVTYNHSG  117 (218)
+T ss_pred             eEEEEecCccccCE
+Confidence            34555666666643
+
+
+No 44
+>5JP0_A Beta-glucosidase BoGH3B (E.C.3.2.1.21); Glycoside hydrolase, GH3, hydrolase; HET: BGC; 2.3A {Bacteroides ovatus}
+Probab=20.54  E-value=88  Score=42.81  Aligned_cols=64  Identities=13%  Similarity=0.105  Sum_probs=36.4  Template_Neff=8.300
+
+Q LOKIASV2_39950 1169 TVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQV--RDYSCLLPGENITLSYTIQA 1234 (1350)
+Q Consensus      1169 qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li--~~I~~L~PgEs~sfsYtIkA 1234 (1350)
+                      .+..++.++|+++|+|+|...-+.+-- =-.+.+..+-.--.-+|+  ..+ .|+|||+.+++.+|..
+T Consensus       651 ~~~~~~~~~vsv~V~NtG~~~G~eVVq-lY~~~~~~~~~~p~~~L~gF~kv-~l~pge~~~v~~~i~~  716 (772)
+T 5JP0_A          651 TFNADDELIFTVDVTNTGKVAGKESVL-LFSKDLVASSTPDNIRLRNFEKV-SLEPGETKTVTLKLKG  716 (772)
+T ss_dssp             EECTTCEEEEEEEEEECSSSCEEEEEE-EEEEESSCSSCCCSCEEEEEEEE-EECTTCEEEEEEEEEG
+T ss_pred             CCCCCCeEEEEEEEEeCCcccceEEEE-EEEecCCCCCCCcceEEecEEEE-EeCCCCeEEEEEEecH
+Confidence            455789999999999999864443321 011111110000001111  223 3999999888888875
+
+
+No 45
+>2YS4_A Hydrocephalus-inducing protein homolog; HYDIN, PapD-like, NPPSFA, National Project; NMR {Homo sapiens}
+Probab=20.01  E-value=91  Score=30.90  Aligned_cols=64  Identities=17%  Similarity=0.194  Sum_probs=43.5  Template_Neff=10.500
+
+Q LOKIASV2_39950 1161 LIKTYDSLTVTQKETIDVSITLINDGTIELGAFSINDLNGFPADGFELVQGVQVRDYSCLLPGENITLSYTIQAS 1235 (1350)
+Q Consensus      1161 I~Ksv~~~qieiGd~i~V~I~v~N~GnI~i~ni~InD~~sf~~~~F~L~~G~Li~~I~~L~PgEs~sfsYtIkA~ 1235 (1350)
+                      +...++-..+..|+.+.-.++|+|.|...+ .+.+...     ..|.+..     .-..|+||++..+.-+.++.
+T Consensus        28 ~~~~l~fg~v~~g~~~~~~i~l~N~~~~~~-~~~~~~~-----~~~~~~~-----~~~~i~~g~~~~i~v~f~p~   91 (122)
+T 2YS4_A           28 FPDKLNFSTCPVKYSTQKILLVRNIGNKNA-VFHIKTC-----RPFSIEP-----AIGTLNVGESMQLEVEFEPQ   91 (122)
+T ss_dssp             CCSEECCCSEESSSCEEEEEEEECCSSSCE-EEEEECC-----TTEEEES-----SEEEECTTCEEEEEEEECCS
+T ss_pred             CCCcEEcCCccCCceeeeEEEEEeCCCccE-EEEEEeC-----CCcEEEC-----CEEEECCCCeEEEEEEEeCC
+Confidence            333666677888999999999999998755 3333221     1333322     22368999999988888863
+
+

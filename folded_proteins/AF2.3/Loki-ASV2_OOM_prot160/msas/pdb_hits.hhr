@@ -1,0 +1,1563 @@
+Query         LOKIASV2_38340 hypothetical protein
+Match_columns 2130
+No_of_seqs    294 out of 329
+Neff          4.79729
+Searched_HMMs 80799
+Date          Thu Sep 12 13:19:43 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpgdguo2u5/query.a3m -o /tmp/tmpgdguo2u5/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5KC1_F Autophagy-related prote  52.8      11 0.00014   46.8   0.0   35 1509-1543    6-40  (226)
+  2 5KC1_J Autophagy-related prote  52.8      11 0.00014   46.8   0.0   35 1509-1543    6-40  (226)
+  3 2PZI_A Probable serine/threoni  52.2      12 0.00014   52.8   0.0  160 1661-1830  424-594 (681)
+  4 5KC1_F Autophagy-related prote  50.1      13 0.00016   46.3   0.0   36  122-157     5-40  (226)
+  5 5KC1_J Autophagy-related prote  50.1      13 0.00016   46.3   0.0   36  122-157     5-40  (226)
+  6 2V6Y_B AAA FAMILY ATPASE, P60   48.2      15 0.00018   37.3   0.0   35 1509-1543   10-44  (83)
+  7 4U7I_A Spartin MIT, IST1 MIM;   47.3      16 0.00019   38.7   0.0   35 1508-1542   15-49  (95)
+  8 5FVK_A VACUOLAR PROTEIN SORTIN  47.2      16 0.00019   36.7   0.0   37  121-157     7-43  (82)
+  9 5FVK_A VACUOLAR PROTEIN SORTIN  45.6      17 0.00021   36.4   0.0   36 1508-1543    8-43  (82)
+ 10 2V6Y_B AAA FAMILY ATPASE, P60   45.5      17 0.00022   36.8   0.0   35  123-157    10-44  (83)
+ 11 2V6Y_A AAA FAMILY ATPASE, P60   45.0      18 0.00022   36.7   0.0   38  123-160    10-47  (83)
+ 12 5FVK_A VACUOLAR PROTEIN SORTIN  44.6      18 0.00023   36.3   0.0   39    3-41      5-43  (82)
+ 13 4WZX_A ULK3 (E.C.2.7.11.1), IS  44.4      18 0.00023   38.3   0.0   36 1508-1543   23-59  (95)
+ 14 4U7I_A Spartin MIT, IST1 MIM;   44.0      19 0.00023   38.1   0.0   37  121-157    14-50  (95)
+ 15 1WR0_A SKD1 protein; VPS4b, SK  43.7      19 0.00024   36.3   0.0   37  122-158    13-49  (81)
+ 16 3J96_I Vesicle-fusing ATPase (  43.3      20 0.00024   41.9   0.0   38 2041-2078  203-240 (297)
+ 17 5JNO_B BEN domain-containing p  42.9      20 0.00025   35.8   0.0   46  122-167    10-55  (57)
+ 18 4A5X_A MIT DOMAIN-CONTAINING P  42.5      21 0.00026   37.3   0.0   41    1-41      9-49  (86)
+ 19 3J98_G Vesicle-fusing ATPase (  42.5      21 0.00026   41.7   0.0   38 2041-2078  203-240 (297)
+ 20 1YXR_A vacuolar protein sortin  42.4      21 0.00026   35.2   0.0   36 1508-1543    7-42  (77)
+ 21 2V6Y_A AAA FAMILY ATPASE, P60   42.2      21 0.00026   36.2   0.0   38 1509-1546   10-47  (83)
+ 22 4A5X_A MIT DOMAIN-CONTAINING P  42.2      21 0.00026   37.2   0.0   37  121-157    13-49  (86)
+ 23 1WR0_A SKD1 protein; VPS4b, SK  41.4      22 0.00027   35.9   0.0   36 1508-1543   13-48  (81)
+ 24 1WFD_A Hypothetical protein 15  41.1      23 0.00028   37.4   0.0   40    2-41      9-48  (93)
+ 25 3EAB_C Spastin, cDNA, FLJ94734  40.9      23 0.00028   37.2   0.0   38 1508-1545   14-55  (89)
+ 26 3EAB_D Spastin, cDNA, FLJ94734  40.9      23 0.00028   37.2   0.0   38 1508-1545   14-55  (89)
+ 27 4U7Y_A VPS4B MIT, IST1 MIM; co  40.8      23 0.00028   36.6   0.0   36 1508-1543   10-45  (90)
+ 28 1WFD_A Hypothetical protein 15  40.1      24  0.0003   37.2   0.0   37  121-157    12-48  (93)
+ 29 1WR0_A SKD1 protein; VPS4b, SK  40.1      24  0.0003   35.6   0.0   39    3-41     10-48  (81)
+ 30 2V6Y_B AAA FAMILY ATPASE, P60   40.0      24  0.0003   35.8   0.0   35 1662-1696   10-44  (83)
+ 31 4WZX_A ULK3 (E.C.2.7.11.1), IS  39.8      24  0.0003   37.4   0.0   37  121-157    22-59  (95)
+ 32 2V6Y_A AAA FAMILY ATPASE, P60   39.8      24  0.0003   35.7   0.0   37 1778-1814   10-46  (83)
+ 33 4U7Y_A VPS4B MIT, IST1 MIM; co  39.3      25 0.00031   36.3   0.0   37  121-157     9-45  (90)
+ 34 2DL1_A Spartin; Spartin, SPG20  38.5      26 0.00033   38.9   0.0   38 1508-1545   20-58  (116)
+ 35 1YXR_A vacuolar protein sortin  38.3      27 0.00033   34.4   0.0   37  122-158     7-43  (77)
+ 36 1WFD_A Hypothetical protein 15  38.1      27 0.00033   36.8   0.0   37 1507-1543   12-48  (93)
+ 37 3EAB_C Spastin, cDNA, FLJ94734  37.7      28 0.00034   36.6   0.0   37  121-157    13-52  (89)
+ 38 3EAB_D Spastin, cDNA, FLJ94734  37.7      28 0.00034   36.6   0.0   37  121-157    13-52  (89)
+ 39 5KC1_F Autophagy-related prote  37.5      28 0.00035   43.6   0.0   35 1777-1811    5-39  (226)
+ 40 5KC1_J Autophagy-related prote  37.5      28 0.00035   43.6   0.0   35 1777-1811    5-39  (226)
+ 41 2V6Y_B AAA FAMILY ATPASE, P60   37.4      28 0.00035   35.4   0.0   35    7-41     10-44  (83)
+ 42 2V6Y_A AAA FAMILY ATPASE, P60   36.2      30 0.00037   35.1   0.0   37 1662-1698   10-46  (83)
+ 43 5FVK_A VACUOLAR PROTEIN SORTIN  36.2      30 0.00037   34.8   0.0   38 1777-1814    8-46  (82)
+ 44 2CPT_A Vacuolar sorting protei  36.0      31 0.00038   38.4   0.0   38  121-158    15-52  (117)
+ 45 1WR0_A SKD1 protein; VPS4b, SK  36.0      31 0.00038   34.9   0.0   36 1661-1696   13-48  (81)
+ 46 2DL1_A Spartin; Spartin, SPG20  35.8      31 0.00038   38.4   0.0   38  120-157    18-55  (116)
+ 47 5JNO_B BEN domain-containing p  35.8      31 0.00038   34.6   0.0   50    2-51      6-55  (57)
+ 48 4A5X_A MIT DOMAIN-CONTAINING P  35.2      32  0.0004   35.9   0.0   36 1508-1543   14-49  (86)
+ 49 2CPT_A Vacuolar sorting protei  34.4      34 0.00042   38.1   0.0   36 1508-1543   16-51  (117)
+ 50 5KC1_F Autophagy-related prote  34.4      34 0.00042   43.0   0.0   36 1661-1696    5-40  (226)
+ 51 5KC1_J Autophagy-related prote  34.4      34 0.00042   43.0   0.0   36 1661-1696    5-40  (226)
+ 52 4U7I_A Spartin MIT, IST1 MIM;   34.3      34 0.00042   36.2   0.0   39    3-41     12-50  (95)
+ 53 4A5X_A MIT DOMAIN-CONTAINING P  33.7      35 0.00044   35.7   0.0   40 1775-1814   12-52  (86)
+ 54 4WZX_A ULK3 (E.C.2.7.11.1), IS  33.6      36 0.00044   36.2   0.0   37 1660-1696   22-59  (95)
+ 55 4WZX_A ULK3 (E.C.2.7.11.1), IS  33.2      36 0.00045   36.2   0.0   38    4-41     21-59  (95)
+ 56 5L4K_P 26S proteasome non-ATPa  32.5      38 0.00047   44.4   0.0   37 1895-1931   24-60  (456)
+ 57 6MSB_W 26S proteasome; Proteos  32.5      38 0.00047   44.4   0.0   37 1895-1931   24-60  (456)
+ 58 2PZI_A Probable serine/threoni  32.5      38 0.00047   48.0   0.0   40 1896-1935  427-466 (681)
+ 59 4U7Y_A VPS4B MIT, IST1 MIM; co  32.4      38 0.00047   35.0   0.0   39    3-41      7-45  (90)
+ 60 1YXR_A vacuolar protein sortin  32.1      39 0.00048   33.3   0.0   38    4-41      5-42  (77)
+ 61 1WFD_A Hypothetical protein 15  31.8      40 0.00049   35.6   0.0   37 1660-1696   12-48  (93)
+ 62 4U7Y_A VPS4B MIT, IST1 MIM; co  31.2      41 0.00051   34.8   0.0   37 1660-1696    9-45  (90)
+ 63 1YXR_A vacuolar protein sortin  31.2      41 0.00051   33.2   0.0   36 1661-1696    7-42  (77)
+ 64 3JCK_B 26S proteasome regulato  30.9      42 0.00052   44.0   0.0   46 1782-1828   20-65  (445)
+ 65 2CPT_A Vacuolar sorting protei  30.5      43 0.00053   37.4   0.0   39    3-41     13-51  (117)
+ 66 4G2V_A G-protein-signaling mod  30.1      44 0.00055   39.1   0.0   30 1780-1809    8-37  (340)
+ 67 2CPT_A Vacuolar sorting protei  29.8      45 0.00056   37.2   0.0   36 1661-1696   16-51  (117)
+ 68 6FVU_P Proteasome subunit alph  29.0      48 0.00059   43.5   0.0   34 1782-1816   20-53  (440)
+ 69 2W2U_A HYPOTHETICAL P60 KATANI  28.6      49  0.0006   34.4   0.0   36 1508-1543   17-52  (83)
+ 70 2W2U_B HYPOTHETICAL P60 KATANI  28.6      49  0.0006   34.4   0.0   36 1508-1543   17-52  (83)
+ 71 2W2U_A HYPOTHETICAL P60 KATANI  28.5      49 0.00061   34.3   0.0   36  122-157    17-52  (83)
+ 72 2W2U_B HYPOTHETICAL P60 KATANI  28.5      49 0.00061   34.3   0.0   36  122-157    17-52  (83)
+ 73 4ZEY_A nuclear receptor bindin  28.4      50 0.00062   35.4   0.0   37  121-157     6-42  (84)
+ 74 4U7I_A Spartin MIT, IST1 MIM;   28.3      50 0.00062   35.1   0.0   42 1775-1816   13-55  (95)
+ 75 2VKJ_B TM1634; MEMBRANE PROTEI  28.0      51 0.00063   36.4   0.0   49  123-175    52-101 (106)
+ 76 2PZI_A Probable serine/threoni  27.5      53 0.00065   46.7   0.0  107    9-158   427-534 (681)
+ 77 2DL1_A Spartin; Spartin, SPG20  27.3      53 0.00066   36.6   0.0   39    3-41     17-55  (116)
+ 78 3TXM_A 26S proteasome regulato  26.9      55 0.00068   42.4   0.0   39 1892-1930   16-54  (394)
+ 79 3TXN_A 26S proteasome regulato  26.9      55 0.00068   42.4   0.0   39 1892-1930   16-54  (394)
+ 80 1QQE_A VESICULAR TRANSPORT PRO  26.7      56 0.00069   37.6   0.0   33 2042-2074  199-231 (292)
+ 81 6IP1_H Vesicle-associated memb  25.5      61 0.00075   38.2   0.0   35 2041-2075  215-249 (309)
+ 82 2CRB_A nuclear receptor bindin  25.4      61 0.00075   35.9   0.0   37  121-157    12-48  (97)
+ 83 3EAB_C Spastin, cDNA, FLJ94734  25.3      61 0.00076   34.2   0.0   38    4-41     12-52  (89)
+ 84 3EAB_D Spastin, cDNA, FLJ94734  25.3      61 0.00076   34.2   0.0   38    4-41     12-52  (89)
+ 85 4JHR_A G-protein-signaling mod  25.0      62 0.00077   38.5   0.0   36 1663-1698   11-46  (333)
+ 86 2PZI_A Probable serine/threoni  24.9      63 0.00078   46.0   0.0  110 1777-1929  424-534 (681)
+ 87 5JNO_B BEN domain-containing p  24.5      65  0.0008   32.6   0.0   35 2040-2074   10-44  (57)
+ 88 3EAB_C Spastin, cDNA, FLJ94734  24.4      65 0.00081   34.0   0.0   37 1660-1696   13-52  (89)
+ 89 3EAB_D Spastin, cDNA, FLJ94734  24.4      65 0.00081   34.0   0.0   37 1660-1696   13-52  (89)
+ 90 2IFU_B Crystal Structure of a   24.3      66 0.00081   38.3   0.0   27 1786-1812   43-69  (307)
+ 91 6EZ8_B Huntingtin, Factor VIII  24.1      67 0.00083   41.6   0.0   37 2041-2077  180-216 (371)
+ 92 2W2U_A HYPOTHETICAL P60 KATANI  23.9      68 0.00084   33.4   0.0   37    5-41     16-52  (83)
+ 93 2W2U_B HYPOTHETICAL P60 KATANI  23.9      68 0.00084   33.4   0.0   37    5-41     16-52  (83)
+ 94 4A1S_B PARTNER OF INSCUTEABLE,  22.9      73  0.0009   39.9   0.0   38 2039-2076  300-337 (411)
+ 95 6HC2_Q G-protein-signaling mod  22.7      74 0.00092   38.0   0.0   38 2040-2077  273-310 (367)
+ 96 5WAQ_A Outer membrane protein   22.2      77 0.00095   35.9   0.0   32 1895-1926   19-50  (251)
+ 97 6FV0_A Kinesin light chain 1,T  22.1      77 0.00096   37.8   0.0   40 2040-2079  262-301 (338)
+ 98 2W2U_A HYPOTHETICAL P60 KATANI  21.8      79 0.00098   32.9   0.0   37 1660-1696   16-52  (83)
+ 99 2W2U_B HYPOTHETICAL P60 KATANI  21.8      79 0.00098   32.9   0.0   37 1660-1696   16-52  (83)
+100 5OJ8_A Kinesin light chain 1;   21.6      80   0.001   35.5   0.0   33 2042-2074  218-250 (255)
+101 4D10_J COP9 SIGNALOSOME COMPLE  21.1      84   0.001   40.3   0.0   36 2042-2077  239-274 (447)
+
+No 1
+>5KC1_F Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NO3, NH4, EDO, NA; 2.2A {Saccharomyces cerevisiae}
+Probab=52.79  E-value=11  Score=46.84  Aligned_cols=35  Identities=17%  Similarity=0.366  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340 1509 LAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1509 ~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      .|+.+++.|..++..|+|+.||.+|.+|.+.|...
+T Consensus         6 ~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~a   40 (226)
+T 5KC1_F            6 EVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGPQ   40 (226)
+T ss_dssp             -----------------------------------
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            58999999999999999999999999999999653
+
+
+No 2
+>5KC1_J Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NA, NO3, EDO, NH4; 2.2A {Saccharomyces cerevisiae}
+Probab=52.79  E-value=11  Score=46.84  Aligned_cols=35  Identities=17%  Similarity=0.366  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340 1509 LAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1509 ~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      .|+.+++.|..++..|+|+.||.+|.+|.+.|...
+T Consensus         6 ~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~a   40 (226)
+T 5KC1_J            6 EVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGPQ   40 (226)
+T ss_dssp             -----------------------------------
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            58999999999999999999999999999999653
+
+
+No 3
+>2PZI_A Probable serine/threonine-protein kinase pknG (E.C.2.7.11.1); Serine/Threonine-Protein Kinase, ATP-recognition, Kinase-inhibitor complex; HET: AXX, GOL; 2.4A {Mycobacterium tuberculosis}
+Probab=52.16  E-value=12  Score=52.79  Aligned_cols=160  Identities=9%  Similarity=-0.001  Sum_probs=79.3  Template_Neff=9.300
+
+Q LOKIASV2_38340 1661 EECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKIDYTSGIKLTRETI-RKVKQEHHNYLEALEQQ-KIQEEQRKQEQA 1738 (2130)
+Q Consensus      1661 eEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI~W~~~I~~I~etI-~kIk~~k~~~~e~~eqq-kl~e~~rkkEe~ 1738 (2130)
+                      ..|-.+++-++.|...|+|++|++.|.+|+.|+..+|...+.-.+-..| ..+.....+..+..+.- ++....- -..-
+T Consensus       424 ~~~~~~~~lg~~~~~~~~~~~A~~~~~~Al~i~~~~~~~~g~a~~l~~l~g~~~~~~~~~~~A~~~~~~i~~~~g-d~~~  502 (681)
+T 2PZI_A          424 ADGVDFSESVELPLMEVRALLDLGDVAKATRKLDDLAERVGWRWRLVWYRAVAELLTGDYDSATKHFTEVLDTFP-GELA  502 (681)
+T ss_dssp             ----CCTTCSHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHST-TCSH
+T ss_pred             cccccccccCchhHHhHHHHHHHHcHHHHHHHHHHHHHHHHHHHHHHhhHHhHHHHhCCHHHHHHHHHHHHHhCC-Cchh
+Confidence            3455678889999999999999999999999999998655433333332 33332221111111100 0111000 0000
+
+
+Q LOKIASV2_38340 1739 EIERLIQVAQKEKEREKLLKKQAELEEREKQAHIKQIQEKIINKLEIAGQLRKQTQFDQALNLYQE---------GLTLL 1809 (2130)
+Q Consensus      1739 efq~~i~i~q~~kEreKlkkk~i~lkerEk~~~~e~~qeeAF~lLEeA~~llkq~efDkAI~lY~~---------A~~IL 1809 (2130)
+                      .-..+..+..--.-+.+-    .-..+-...  ....-   ..+..-|..|..+|+|++|+..|++         |..|+
+T Consensus       503 ~a~~l~~lg~v~~~~~~~----~~~~~al~i--~~~~g---~~l~~lg~~~~~~g~~~~A~~~~~~~~~~~~~~~a~~i~  573 (681)
+T 2PZI_A          503 PKLALAATAELAGNTDEH----KFYQTVWST--NDGVI---SAAFGLARARSAEGDRVGAVRTLDEVPPTSRHFTTARLT  573 (681)
+T ss_dssp             HHHHHHHHHHHHTCCCTT----CHHHHHHHH--CTTCH---HHHHHHHHHHHHTTCHHHHHHHHHTSCTTSTTHHHHHHH
+T ss_pred             HHHHHHHHHHHHcCcchh----HHHHHHHHH--HhHHH---HHHHHHHHHHhhcCCchhHHhccccCCCCCccccHHHHH
+Confidence            000000000000001111    000000000  00111   4445556778899999999999999         99999
+
+
+Q LOKIASV2_38340 1810 KNIHWPLKQPQILEMISETKE 1830 (2130)
+Q Consensus      1810 ~eIgW~~ei~~I~e~I~eik~ 1830 (2130)
+                      ..||........+..+..+..
+T Consensus       574 ~~~~~~~~~a~~l~~l~~~~~  594 (681)
+T 2PZI_A          574 SAVTLLSGRSTSEVTEEQIRD  594 (681)
+T ss_dssp             HHHHTC-------CCHHHHHH
+T ss_pred             HHHHHhhCCCCCcccHHHHHH
+Confidence            999998887777766666644
+
+
+No 4
+>5KC1_F Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NO3, NH4, EDO, NA; 2.2A {Saccharomyces cerevisiae}
+Probab=50.08  E-value=13  Score=46.26  Aligned_cols=36  Identities=17%  Similarity=0.431  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340  122 GKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       122 ~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      +.||.+++.|..++..|+|++|++.|.+|.+.|...
+T Consensus         5 n~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~a   40 (226)
+T 5KC1_F            5 AEVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGPQ   40 (226)
+T ss_dssp             ------------------------------------
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            579999999999999999999999999999999775
+
+
+No 5
+>5KC1_J Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NA, NO3, EDO, NH4; 2.2A {Saccharomyces cerevisiae}
+Probab=50.08  E-value=13  Score=46.26  Aligned_cols=36  Identities=17%  Similarity=0.431  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340  122 GKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       122 ~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      +.||.+++.|..++..|+|++|++.|.+|.+.|...
+T Consensus         5 n~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~a   40 (226)
+T 5KC1_J            5 AEVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGPQ   40 (226)
+T ss_dssp             ------------------------------------
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            579999999999999999999999999999999775
+
+
+No 6
+>2V6Y_B AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=48.23  E-value=15  Score=37.33  Aligned_cols=35  Identities=20%  Similarity=0.190  Sum_probs=29.9  Template_Neff=9.300
+
+Q LOKIASV2_38340 1509 LAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1509 ~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      .|+.++..|..+...|+|+.|+..|..|+.+|..+
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   44 (83)
+T 2V6Y_B           10 MARKYAILAVKADKEGKVDDAITYYKKAIEVLSQI   44 (83)
+T ss_dssp             HHHHHHHHHHHHHHTC--CHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            68899999999999999999999999999999544
+
+
+No 7
+>4U7I_A Spartin MIT, IST1 MIM; Complex, MIM3, PROTEIN TRANSPORT; 1.794A {Homo sapiens}
+Probab=47.35  E-value=16  Score=38.67  Aligned_cols=35  Identities=14%  Similarity=0.196  Sum_probs=32.1  Template_Neff=8.600
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKN 1542 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~ 1542 (2130)
+                      +.||.++..|-.+-..|+|+.|+..|..|+++|..
+T Consensus        15 ~~a~~~i~~A~~~De~g~~~~A~~~Y~~gl~~l~~   49 (95)
+T 4U7I_A           15 KKAFLFVNKGLNTDELGQKEEAKNYYKQGIGHLLR   49 (95)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHhHhhCCCHHHHHHHHHHHHHHHHH
+Confidence            47999999999999999999999999999999954
+
+
+No 8
+>5FVK_A VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN 4; HYDROLASE, VPS4, VFA1, MIT DOMAIN; 1.658A {SACCHAROMYCES CEREVISIAE}
+Probab=47.17  E-value=16  Score=36.72  Aligned_cols=37  Identities=14%  Similarity=0.310  Sum_probs=33.7  Template_Neff=9.700
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .+.|+.++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus         7 ~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   43 (82)
+T 5FVK_A            7 LTKGIELVQKAIDLDTATQYEEAYTAYYNGLDYLMLA   43 (82)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            4578899999999999999999999999999988876
+
+
+No 9
+>5FVK_A VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN 4; HYDROLASE, VPS4, VFA1, MIT DOMAIN; 1.658A {SACCHAROMYCES CEREVISIAE}
+Probab=45.58  E-value=17  Score=36.43  Aligned_cols=36  Identities=11%  Similarity=0.197  Sum_probs=32.2  Template_Neff=9.700
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|+.++..|..+...|+|+.|+..|..|+.+|..+
+T Consensus         8 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   43 (82)
+T 5FVK_A            8 TKGIELVQKAIDLDTATQYEEAYTAYYNGLDYLMLA   43 (82)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            468889999999999999999999999999999654
+
+
+No 10
+>2V6Y_B AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=45.46  E-value=17  Score=36.83  Aligned_cols=35  Identities=23%  Similarity=0.325  Sum_probs=30.7  Template_Neff=9.300
+
+Q LOKIASV2_38340  123 KAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       123 eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .|+.++..|..+-..|+|++|+..|..|+.+|..+
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   44 (83)
+T 2V6Y_B           10 MARKYAILAVKADKEGKVDDAITYYKKAIEVLSQI   44 (83)
+T ss_dssp             HHHHHHHHHHHHHHTC--CHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            78999999999999999999999999999988776
+
+
+No 11
+>2V6Y_A AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=45.01  E-value=18  Score=36.67  Aligned_cols=38  Identities=21%  Similarity=0.215  Sum_probs=34.9  Template_Neff=9.400
+
+Q LOKIASV2_38340  123 KAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEINWN  160 (2130)
+Q Consensus       123 eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI~W~  160 (2130)
+                      .|+.++..|..+-..|+|++|+..|..|+.+|..+-..
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~~~~   47 (83)
+T 2V6Y_A           10 MARKYAILAVKADKEGKVEDAITYYKKAIEVLSQIIVL   47 (83)
+T ss_dssp             HHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHh
+Confidence            78999999999999999999999999999999888654
+
+
+No 12
+>5FVK_A VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN 4; HYDROLASE, VPS4, VFA1, MIT DOMAIN; 1.658A {SACCHAROMYCES CEREVISIAE}
+Probab=44.58  E-value=18  Score=36.26  Aligned_cols=39  Identities=8%  Similarity=0.051  Sum_probs=34.7  Template_Neff=9.700
+
+Q LOKIASV2_38340    3 ELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         3 ~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      +....|..++..|...-..|+|+.|+..|..|..+|..+
+T Consensus         5 ~~~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   43 (82)
+T 5FVK_A            5 DFLTKGIELVQKAIDLDTATQYEEAYTAYYNGLDYLMLA   43 (82)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            455678899999999999999999999999999988765
+
+
+No 13
+>4WZX_A ULK3 (E.C.2.7.11.1), IST1; MIT domain, ULK3, MIM, IST1; 1.3859A {Homo sapiens}
+Probab=44.43  E-value=18  Score=38.26  Aligned_cols=36  Identities=8%  Similarity=-0.021  Sum_probs=32.2  Template_Neff=8.400
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNR-FAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~-~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|+.++..|.. +...|+|+.|+..|..|+.+|..+
+T Consensus        23 ~~a~~~~~~A~~~~e~~g~~~~A~~~Y~~ai~~l~~~   59 (95)
+T 4WZX_A           23 LAALEVASAAMAKEEAAGGEQDALDLYQHSLGELLLL   59 (95)
+T ss_dssp             HHHHHHHHHHHHHHTSTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            468899999998 999999999999999999988654
+
+
+No 14
+>4U7I_A Spartin MIT, IST1 MIM; Complex, MIM3, PROTEIN TRANSPORT; 1.794A {Homo sapiens}
+Probab=44.01  E-value=19  Score=38.05  Aligned_cols=37  Identities=22%  Similarity=0.227  Sum_probs=33.6  Template_Neff=8.600
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .+.||.++..|..+=..|+|++|+..|..|+.+|...
+T Consensus        14 ~~~a~~~i~~A~~~De~g~~~~A~~~Y~~gl~~l~~~   50 (95)
+T 4U7I_A           14 YKKAFLFVNKGLNTDELGQKEEAKNYYKQGIGHLLRG   50 (95)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHhHhhCCCHHHHHHHHHHHHHHHHHH
+Confidence            4579999999999999999999999999999987764
+
+
+No 15
+>1WR0_A SKD1 protein; VPS4b, SKD1, MIT DOMAIN, ESCORT; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=43.73  E-value=19  Score=36.27  Aligned_cols=37  Identities=19%  Similarity=0.409  Sum_probs=33.3  Template_Neff=9.400
+
+Q LOKIASV2_38340  122 GKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEIN  158 (2130)
+Q Consensus       122 ~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI~  158 (2130)
+                      ..|..++..|..+-..|+|++|+..|..|+.+|..+-
+T Consensus        13 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~~   49 (81)
+T 1WR0_A           13 QKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHVV   49 (81)
+T ss_dssp             HHHHHHHHHHHHHHHTTCCSSHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHH
+Confidence            4688899999999999999999999999999888763
+
+
+No 16
+>3J96_I Vesicle-fusing ATPase (E.C.3.6.4.6), Alpha-soluble NSF; vesicle trafficking, HYDROLASE; 7.601A {Cricetulus griseus}
+Probab=43.34  E-value=20  Score=41.86  Aligned_cols=38  Identities=18%  Similarity=0.008  Sum_probs=28.2  Template_Neff=12.800
+
+Q LOKIASV2_38340 2041 KANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFLNLS 2078 (2130)
+Q Consensus      2041 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2078 (2130)
+                      .+..+...|......|+++.|+....++..++-..+..
+T Consensus       203 ~~~~~~~~~~~~~~~g~~~~A~~~~~~~~~~~~~~~~~  240 (297)
+T 3J96_I          203 SAKDYFFKAALCHFCIDMLNAKLAVQKYEELFPAFSDS  240 (297)
+T ss_dssp             THHHHHHHHHHCCSSCCSSHHHHHHHHSCCCTTCSGGG
+T ss_pred             cHHHHHHHHHHHHHHhchhhHHHHHHHHHHHChhcCcc
+Confidence            44556666777888999999999998888776655443
+
+
+No 17
+>5JNO_B BEN domain-containing protein 3, DNA; Ultra fine chromatin bridges, sister; 2.2A {Homo sapiens}
+Probab=42.87  E-value=20  Score=35.81  Aligned_cols=46  Identities=13%  Similarity=0.269  Sum_probs=38.5  Template_Neff=3.200
+
+Q LOKIASV2_38340  122 GKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEINWNSEIPRIN  167 (2130)
+Q Consensus       122 ~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI~W~~EI~~I~  167 (2130)
+                      .....++-.|......|+..+|+.+|..|-+||-+=.-.+-|++|+
+T Consensus        10 ~~y~r~v~~aKeaa~~G~L~~aLklF~~A~~I~Ps~Kl~~RIqkle   55 (57)
+T 5JNO_B           10 AHYLRYVKEAKEATKNGDLEEAFKLFNLAKDIFPNEKVLSRIQKIQ   55 (57)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHSCCHHHHTCCCCCC
+T ss_pred             HHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHhCCCHHHHHHHHHHH
+Confidence            4567799999999999999999999999999997766666565554
+
+
+No 18
+>4A5X_A MIT DOMAIN-CONTAINING PROTEIN 1, CHARGED; PROTEIN TRANSPORT, ESCRT, CYTOKINESIS, MIDBODY; HET: GOL, P15; 1.91A {HOMO SAPIENS}
+Probab=42.54  E-value=21  Score=37.28  Aligned_cols=41  Identities=10%  Similarity=0.174  Sum_probs=34.6  Template_Neff=8.300
+
+Q LOKIASV2_38340    1 MPELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         1 ~~~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      |+.-...|..++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus         9 ~~~~~~~a~~~~~~Av~~d~~g~~~~A~~~Y~~a~~~l~~~   49 (86)
+T 4A5X_A            9 MDPQSTAAATVLKRAVELDSESRYPQALVCYQEGIDLLLQV   49 (86)
+T ss_dssp             --CHHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             cCHHHHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            34456778889999999999999999999999999988766
+
+
+No 19
+>3J98_G Vesicle-fusing ATPase (E.C.3.6.4.6), Alpha-soluble NSF; vesicle trafficking, HYDROLASE; 8.405A {Cricetulus griseus}
+Probab=42.52  E-value=21  Score=41.69  Aligned_cols=38  Identities=18%  Similarity=0.008  Sum_probs=28.3  Template_Neff=12.800
+
+Q LOKIASV2_38340 2041 KANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFLNLS 2078 (2130)
+Q Consensus      2041 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2078 (2130)
+                      .+..+...|......|+++.|+....++..++-..+..
+T Consensus       203 ~~~~~~~~~~~~~~~g~~~~A~~~~~~~~~~~~~~~~~  240 (297)
+T 3J98_G          203 SAKDYFFKAALCHFCIDMLNAKLAVQKYEELFPAFSDS  240 (297)
+T ss_dssp             TTTHHHHHHHHCCCSCSSCHHHHHHHHSCCCTTCSSGG
+T ss_pred             cHHHHHHHHHHHHHHhchhhHHHHHHHHHHHChhcCcc
+Confidence            44556666777888999999999998888776655443
+
+
+No 20
+>1YXR_A vacuolar protein sorting factor 4A; VPS4  MIT domain, PROTEIN; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=42.42  E-value=21  Score=35.16  Aligned_cols=36  Identities=14%  Similarity=0.300  Sum_probs=32.5  Template_Neff=10.000
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|..++..|..+...|+|+.|+..|.+++.+|..+
+T Consensus         7 ~~a~~~~~~A~~~~~~g~~~~A~~~Y~~~~~~~~~~   42 (77)
+T 1YXR_A            7 QKAIDLVTKATEEDKAKNYEEALRLYQHAVEYFLHA   42 (77)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            368899999999999999999999999999999654
+
+
+No 21
+>2V6Y_A AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=42.25  E-value=21  Score=36.18  Aligned_cols=38  Identities=16%  Similarity=0.072  Sum_probs=33.9  Template_Neff=9.400
+
+Q LOKIASV2_38340 1509 LAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNIGWE 1546 (2130)
+Q Consensus      1509 ~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~IgW~ 1546 (2130)
+                      .|+.++..|..+...|+|+.|+..|..|+.+|..+-..
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~~~~   47 (83)
+T 2V6Y_A           10 MARKYAILAVKADKEGKVEDAITYYKKAIEVLSQIIVL   47 (83)
+T ss_dssp             HHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHh
+Confidence            68889999999999999999999999999999766553
+
+
+No 22
+>4A5X_A MIT DOMAIN-CONTAINING PROTEIN 1, CHARGED; PROTEIN TRANSPORT, ESCRT, CYTOKINESIS, MIDBODY; HET: GOL, P15; 1.91A {HOMO SAPIENS}
+Probab=42.16  E-value=21  Score=37.21  Aligned_cols=37  Identities=16%  Similarity=0.418  Sum_probs=33.4  Template_Neff=8.300
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .+.|..++..|..+-..|+|++|+..|..|+.+|..+
+T Consensus        13 ~~~a~~~~~~Av~~d~~g~~~~A~~~Y~~a~~~l~~~   49 (86)
+T 4A5X_A           13 STAAATVLKRAVELDSESRYPQALVCYQEGIDLLLQV   49 (86)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            4568889999999999999999999999999988776
+
+
+No 23
+>1WR0_A SKD1 protein; VPS4b, SKD1, MIT DOMAIN, ESCORT; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=41.42  E-value=22  Score=35.86  Aligned_cols=36  Identities=14%  Similarity=0.292  Sum_probs=31.9  Template_Neff=9.400
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      ..|+.++..|..+...|+|+.|+..|..|+++|..+
+T Consensus        13 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   48 (81)
+T 1WR0_A           13 QKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   48 (81)
+T ss_dssp             HHHHHHHHHHHHHHHTTCCSSHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            357888889999999999999999999999999654
+
+
+No 24
+>1WFD_A Hypothetical protein 1500032H18; MIT domain, structural genomics, RIKEN; NMR {Mus musculus} SCOP: a.7.14.1
+Probab=41.08  E-value=23  Score=37.36  Aligned_cols=40  Identities=8%  Similarity=0.125  Sum_probs=35.3  Template_Neff=8.600
+
+Q LOKIASV2_38340    2 PELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         2 ~~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      .+..+.|..++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus         9 ~~~l~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   48 (93)
+T 1WFD_A            9 DSDSTAAVAVLKRAVELDAESRYQQALVCYQEGIDMLLQV   48 (93)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             ccchHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            3456788999999999999999999999999999987666
+
+
+No 25
+>3EAB_C Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=40.89  E-value=23  Score=37.22  Aligned_cols=38  Identities=16%  Similarity=0.240  Sum_probs=33.2  Template_Neff=8.300
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQ---FHEYDKAILKFEEARDILKN-IGW 1545 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~---~~~ydkAI~~Y~~Ai~il~~-IgW 1545 (2130)
+                      +.||.++..|-.+-.   .|+|+.|+..|..|+++|.. +.+
+T Consensus        14 ~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~al~~   55 (89)
+T 3EAB_C           14 KQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKGIAV   55 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHSCSSTTHHHHHHHHHHHHHHHHHHTS
+T ss_pred             HHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHhhcc
+Confidence            479999999999988   99999999999999999944 445
+
+
+No 26
+>3EAB_D Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=40.89  E-value=23  Score=37.22  Aligned_cols=38  Identities=16%  Similarity=0.240  Sum_probs=33.2  Template_Neff=8.300
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQ---FHEYDKAILKFEEARDILKN-IGW 1545 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~---~~~ydkAI~~Y~~Ai~il~~-IgW 1545 (2130)
+                      +.||.++..|-.+-.   .|+|+.|+..|..|+++|.. +.+
+T Consensus        14 ~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~al~~   55 (89)
+T 3EAB_D           14 KQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKGIAV   55 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHSCSSCGGGTHHHHHHHHHHHHHHHHS
+T ss_pred             HHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHhhcc
+Confidence            479999999999988   99999999999999999944 445
+
+
+No 27
+>4U7Y_A VPS4B MIT, IST1 MIM; complex, MIM1; 2.502A {Homo sapiens}
+Probab=40.84  E-value=23  Score=36.58  Aligned_cols=36  Identities=14%  Similarity=0.292  Sum_probs=32.6  Template_Neff=9.300
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|+.++..|..+...|+|+.|+..|..|+.+|..+
+T Consensus        10 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   45 (90)
+T 4U7Y_A           10 QKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   45 (90)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            468899999999999999999999999999999654
+
+
+No 28
+>1WFD_A Hypothetical protein 1500032H18; MIT domain, structural genomics, RIKEN; NMR {Mus musculus} SCOP: a.7.14.1
+Probab=40.11  E-value=24  Score=37.18  Aligned_cols=37  Identities=14%  Similarity=0.427  Sum_probs=33.6  Template_Neff=8.600
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      ...|+.++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus        12 l~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   48 (93)
+T 1WFD_A           12 STAAVAVLKRAVELDAESRYQQALVCYQEGIDMLLQV   48 (93)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            4578999999999999999999999999999988766
+
+
+No 29
+>1WR0_A SKD1 protein; VPS4b, SKD1, MIT DOMAIN, ESCORT; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=40.10  E-value=24  Score=35.62  Aligned_cols=39  Identities=15%  Similarity=0.226  Sum_probs=34.2  Template_Neff=9.400
+
+Q LOKIASV2_38340    3 ELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         3 ~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      .....|..++..|..+-..|+|+.|+..|..|..+|..+
+T Consensus        10 ~~l~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   48 (81)
+T 1WR0_A           10 PNLQKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   48 (81)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTTCCSSHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            345678889999999999999999999999999988765
+
+
+No 30
+>2V6Y_B AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=39.96  E-value=24  Score=35.85  Aligned_cols=35  Identities=29%  Similarity=0.252  Sum_probs=30.9  Template_Neff=9.300
+
+Q LOKIASV2_38340 1662 ECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1662 EAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      .|+.++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   44 (83)
+T 2V6Y_B           10 MARKYAILAVKADKEGKVDDAITYYKKAIEVLSQI   44 (83)
+T ss_dssp             HHHHHHHHHHHHHHTC--CHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            78899999999999999999999999999999886
+
+
+No 31
+>4WZX_A ULK3 (E.C.2.7.11.1), IST1; MIT domain, ULK3, MIM, IST1; 1.3859A {Homo sapiens}
+Probab=39.82  E-value=24  Score=37.41  Aligned_cols=37  Identities=5%  Similarity=0.042  Sum_probs=33.1  Template_Neff=8.400
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSN-LIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~-L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      ...|+.++..|.. +-..|+|++|+..|..|+.+|..+
+T Consensus        22 l~~a~~~~~~A~~~~e~~g~~~~A~~~Y~~ai~~l~~~   59 (95)
+T 4WZX_A           22 LLAALEVASAAMAKEEAAGGEQDALDLYQHSLGELLLL   59 (95)
+T ss_dssp             HHHHHHHHHHHHHHHTSTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            3478899999999 999999999999999999888765
+
+
+No 32
+>2V6Y_A AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=39.81  E-value=24  Score=35.74  Aligned_cols=37  Identities=16%  Similarity=0.239  Sum_probs=32.8  Template_Neff=9.400
+
+Q LOKIASV2_38340 1778 KIINKLEIAGQLRKQTQFDQALNLYQEGLTLLKNIHW 1814 (2130)
+Q Consensus      1778 eAF~lLEeA~~llkq~efDkAI~lY~~A~~IL~eIgW 1814 (2130)
+                      .|+.++..|..+-..|+|+.|+.+|..|+.+|..+-.
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~~~   46 (83)
+T 2V6Y_A           10 MARKYAILAVKADKEGKVEDAITYYKKAIEVLSQIIV   46 (83)
+T ss_dssp             HHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHH
+Confidence            7888899999999999999999999999999965544
+
+
+No 33
+>4U7Y_A VPS4B MIT, IST1 MIM; complex, MIM1; 2.502A {Homo sapiens}
+Probab=39.33  E-value=25  Score=36.30  Aligned_cols=37  Identities=19%  Similarity=0.410  Sum_probs=33.5  Template_Neff=9.300
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      ...|+.++..|..+-..|+|++|+..|..|+.+|..+
+T Consensus         9 ~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   45 (90)
+T 4U7Y_A            9 LQKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   45 (90)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            3468899999999999999999999999999988766
+
+
+No 34
+>2DL1_A Spartin; Spartin, SPG20, MIT, Structural Genomics; NMR {Homo sapiens}
+Probab=38.49  E-value=26  Score=38.88  Aligned_cols=38  Identities=16%  Similarity=0.204  Sum_probs=33.6  Template_Neff=7.800
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKN-IGW 1545 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~-IgW 1545 (2130)
+                      +.||.+|..|-.+-..|+|+.|+..|..|+.+|.. +.+
+T Consensus        20 ~~a~~~i~~Al~~De~g~~~eAl~~Y~~gl~~l~~~l~~   58 (116)
+T 2DL1_A           20 KKAFLFVNKGLNTDELGQKEEAKNYYKQGIGHLLRGISI   58 (116)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHHHSS
+T ss_pred             HHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHhcC
+Confidence            46999999999999999999999999999999954 445
+
+
+No 35
+>1YXR_A vacuolar protein sorting factor 4A; VPS4  MIT domain, PROTEIN; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=38.30  E-value=27  Score=34.44  Aligned_cols=37  Identities=22%  Similarity=0.407  Sum_probs=33.5  Template_Neff=10.000
+
+Q LOKIASV2_38340  122 GKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEIN  158 (2130)
+Q Consensus       122 ~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI~  158 (2130)
+                      ..|..++..|..+-..|+|+.|+..|..++.+|..+-
+T Consensus         7 ~~a~~~~~~A~~~~~~g~~~~A~~~Y~~~~~~~~~~~   43 (77)
+T 1YXR_A            7 QKAIDLVTKATEEDKAKNYEEALRLYQHAVEYFLHAI   43 (77)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHH
+Confidence            4688999999999999999999999999999988763
+
+
+No 36
+>1WFD_A Hypothetical protein 1500032H18; MIT domain, structural genomics, RIKEN; NMR {Mus musculus} SCOP: a.7.14.1
+Probab=38.07  E-value=27  Score=36.81  Aligned_cols=37  Identities=19%  Similarity=0.382  Sum_probs=32.9  Template_Neff=8.600
+
+Q LOKIASV2_38340 1507 SQLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1507 ~e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      .+.|+.++..|-.+...|+|+.|+..|..|+.+|..+
+T Consensus        12 l~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   48 (93)
+T 1WFD_A           12 STAAVAVLKRAVELDAESRYQQALVCYQEGIDMLLQV   48 (93)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            3568999999999999999999999999999998554
+
+
+No 37
+>3EAB_C Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=37.75  E-value=28  Score=36.64  Aligned_cols=37  Identities=19%  Similarity=0.313  Sum_probs=33.4  Template_Neff=8.300
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIE---QNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~---~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .+.||.++..|..+=.   .|+++.|+..|..|+.+|...
+T Consensus        13 ~~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~a   52 (89)
+T 3EAB_C           13 HKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKG   52 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHHSCSSTTHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHh
+Confidence            4579999999999998   999999999999999988774
+
+
+No 38
+>3EAB_D Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=37.75  E-value=28  Score=36.64  Aligned_cols=37  Identities=19%  Similarity=0.313  Sum_probs=33.4  Template_Neff=8.300
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIE---QNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~---~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .+.||.++..|..+=.   .|+++.|+..|..|+.+|...
+T Consensus        13 ~~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~a   52 (89)
+T 3EAB_D           13 HKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKG   52 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHHSCSSCGGGTHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHh
+Confidence            4579999999999998   999999999999999988774
+
+
+No 39
+>5KC1_F Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NO3, NH4, EDO, NA; 2.2A {Saccharomyces cerevisiae}
+Probab=37.45  E-value=28  Score=43.61  Aligned_cols=35  Identities=26%  Similarity=0.331  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340 1777 EKIINKLEIAGQLRKQTQFDQALNLYQEGLTLLKN 1811 (2130)
+Q Consensus      1777 eeAF~lLEeA~~llkq~efDkAI~lY~~A~~IL~e 1811 (2130)
+                      +.|+.+.+.|+.|+..|+|+.||+.|.+|...|..
+T Consensus         5 n~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~   39 (226)
+T 5KC1_F            5 AEVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGP   39 (226)
+T ss_dssp             -----------------------------------
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHH
+Confidence            46889999999999999999999999999999964
+
+
+No 40
+>5KC1_J Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NA, NO3, EDO, NH4; 2.2A {Saccharomyces cerevisiae}
+Probab=37.45  E-value=28  Score=43.61  Aligned_cols=35  Identities=26%  Similarity=0.331  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340 1777 EKIINKLEIAGQLRKQTQFDQALNLYQEGLTLLKN 1811 (2130)
+Q Consensus      1777 eeAF~lLEeA~~llkq~efDkAI~lY~~A~~IL~e 1811 (2130)
+                      +.|+.+.+.|+.|+..|+|+.||+.|.+|...|..
+T Consensus         5 n~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~   39 (226)
+T 5KC1_J            5 AEVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGP   39 (226)
+T ss_dssp             -----------------------------------
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHH
+Confidence            46889999999999999999999999999999964
+
+
+No 41
+>2V6Y_B AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=37.41  E-value=28  Score=35.39  Aligned_cols=35  Identities=23%  Similarity=0.283  Sum_probs=30.3  Template_Neff=9.300
+
+Q LOKIASV2_38340    7 EINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         7 eAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      .|..++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   44 (83)
+T 2V6Y_B           10 MARKYAILAVKADKEGKVDDAITYYKKAIEVLSQI   44 (83)
+T ss_dssp             HHHHHHHHHHHHHHTC--CHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            78899999999999999999999999999987766
+
+
+No 42
+>2V6Y_A AAA FAMILY ATPASE, P60 KATANIN; MIT, VPS4, ARCHAEA, AAA-ATPASE, ATP-BINDING; HET: SRT; 2.4A {SULFOLOBUS SOLFATARICUS}
+Probab=36.25  E-value=30  Score=35.10  Aligned_cols=37  Identities=27%  Similarity=0.183  Sum_probs=33.9  Template_Neff=9.400
+
+Q LOKIASV2_38340 1662 ECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKIDY 1698 (2130)
+Q Consensus      1662 EAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI~W 1698 (2130)
+                      .|+.++..|..+-..|+|+.|+..|..|+.+|..+-.
+T Consensus        10 ~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~~~   46 (83)
+T 2V6Y_A           10 MARKYAILAVKADKEGKVEDAITYYKKAIEVLSQIIV   46 (83)
+T ss_dssp             HHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHH
+Confidence            7888999999999999999999999999999998754
+
+
+No 43
+>5FVK_A VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN 4; HYDROLASE, VPS4, VFA1, MIT DOMAIN; 1.658A {SACCHAROMYCES CEREVISIAE}
+Probab=36.19  E-value=30  Score=34.76  Aligned_cols=38  Identities=29%  Similarity=0.407  Sum_probs=32.3  Template_Neff=9.700
+
+Q LOKIASV2_38340 1777 EKIINKLEIAGQLRKQTQFDQALNLYQEGLTLLKN-IHW 1814 (2130)
+Q Consensus      1777 eeAF~lLEeA~~llkq~efDkAI~lY~~A~~IL~e-IgW 1814 (2130)
+                      ..|+.++..|..+-..|+|+.|+.+|..|+.+|.. +..
+T Consensus         8 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~~~~   46 (82)
+T 5FVK_A            8 TKGIELVQKAIDLDTATQYEEAYTAYYNGLDYLMLALKY   46 (82)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHHHHh
+Confidence            46778888888888899999999999999999954 444
+
+
+No 44
+>2CPT_A Vacuolar sorting protein 4b; MIT, SKD1, helix bundle, Structural; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=36.00  E-value=31  Score=38.45  Aligned_cols=38  Identities=18%  Similarity=0.380  Sum_probs=34.1  Template_Neff=7.800
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEIN  158 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI~  158 (2130)
+                      ...|+.++..|..+-..|+|++|+..|..|+.+|..+-
+T Consensus        15 l~~a~~~~~~A~~~d~~g~~~~A~~~Y~~aie~l~~~~   52 (117)
+T 2CPT_A           15 LQKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHVV   52 (117)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHH
+Confidence            34788999999999999999999999999999998763
+
+
+No 45
+>1WR0_A SKD1 protein; VPS4b, SKD1, MIT DOMAIN, ESCORT; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=35.99  E-value=31  Score=34.88  Aligned_cols=36  Identities=19%  Similarity=0.373  Sum_probs=32.9  Template_Neff=9.400
+
+Q LOKIASV2_38340 1661 EECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1661 eEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      ..|+.++..|-.+-..|+|+.|+..|..|+.+|..+
+T Consensus        13 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   48 (81)
+T 1WR0_A           13 QKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   48 (81)
+T ss_dssp             HHHHHHHHHHHHHHHTTCCSSHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            468888999999999999999999999999999886
+
+
+No 46
+>2DL1_A Spartin; Spartin, SPG20, MIT, Structural Genomics; NMR {Homo sapiens}
+Probab=35.82  E-value=31  Score=38.36  Aligned_cols=38  Identities=21%  Similarity=0.202  Sum_probs=34.0  Template_Neff=7.800
+
+Q LOKIASV2_38340  120 YSGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       120 is~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      ..+.||.++..|..+=..|+|++|+..|..|+.+|...
+T Consensus        18 ~~~~a~~~i~~Al~~De~g~~~eAl~~Y~~gl~~l~~~   55 (116)
+T 2DL1_A           18 AYKKAFLFVNKGLNTDELGQKEEAKNYYKQGIGHLLRG   55 (116)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHHHHH
+Confidence            34579999999999999999999999999999988763
+
+
+No 47
+>5JNO_B BEN domain-containing protein 3, DNA; Ultra fine chromatin bridges, sister; 2.2A {Homo sapiens}
+Probab=35.78  E-value=31  Score=34.63  Aligned_cols=50  Identities=26%  Similarity=0.371  Sum_probs=39.9  Template_Neff=3.200
+
+Q LOKIASV2_38340    2 PELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANLQWEERVGQID   51 (2130)
+Q Consensus         2 ~~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI~W~eei~~I~   51 (2130)
+                      |+......+++-+|..+-.+||..+|+.+|..|..|+-+-.-...|..|.
+T Consensus         6 ~~~~~~y~r~v~~aKeaa~~G~L~~aLklF~~A~~I~Ps~Kl~~RIqkle   55 (57)
+T 5JNO_B            6 PEQAAHYLRYVKEAKEATKNGDLEEAFKLFNLAKDIFPNEKVLSRIQKIQ   55 (57)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHSCCHHHHTCCCCCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHhCCCHHHHHHHHHHH
+Confidence            45556677899999999999999999999999999987665555555443
+
+
+No 48
+>4A5X_A MIT DOMAIN-CONTAINING PROTEIN 1, CHARGED; PROTEIN TRANSPORT, ESCRT, CYTOKINESIS, MIDBODY; HET: GOL, P15; 1.91A {HOMO SAPIENS}
+Probab=35.25  E-value=32  Score=35.94  Aligned_cols=36  Identities=17%  Similarity=0.349  Sum_probs=31.4  Template_Neff=8.300
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|..++-.|-.+...|+|+.|+..|..|+++|..+
+T Consensus        14 ~~a~~~~~~Av~~d~~g~~~~A~~~Y~~a~~~l~~~   49 (86)
+T 4A5X_A           14 TAAATVLKRAVELDSESRYPQALVCYQEGIDLLLQV   49 (86)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            467888888888899999999999999999999544
+
+
+No 49
+>2CPT_A Vacuolar sorting protein 4b; MIT, SKD1, helix bundle, Structural; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=34.44  E-value=34  Score=38.14  Aligned_cols=36  Identities=14%  Similarity=0.292  Sum_probs=32.4  Template_Neff=7.800
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|+.++..|..+...|+|+.|+..|..|+++|..+
+T Consensus        16 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~aie~l~~~   51 (117)
+T 2CPT_A           16 QKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   51 (117)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            468889999999999999999999999999999655
+
+
+No 50
+>5KC1_F Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NO3, NH4, EDO, NA; 2.2A {Saccharomyces cerevisiae}
+Probab=34.40  E-value=34  Score=42.96  Aligned_cols=36  Identities=22%  Similarity=0.301  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340 1661 EECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1661 eEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      ..|..+.+.|+.++..|+|+.||+.|.+|...|.+.
+T Consensus         5 n~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~a   40 (226)
+T 5KC1_F            5 AEVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGPQ   40 (226)
+T ss_dssp             ------------------------------------
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            357788899999999999999999999999999885
+
+
+No 51
+>5KC1_J Autophagy-related protein 38; Atg38, coiled-coil, dimerization, NRBF2, autophagy; HET: NA, NO3, EDO, NH4; 2.2A {Saccharomyces cerevisiae}
+Probab=34.40  E-value=34  Score=42.96  Aligned_cols=36  Identities=22%  Similarity=0.301  Sum_probs=0.0  Template_Neff=5.100
+
+Q LOKIASV2_38340 1661 EECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1661 eEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      ..|..+.+.|+.++..|+|+.||+.|.+|...|.+.
+T Consensus         5 n~Ahq~~~~AE~~~~~G~~~eAie~h~kAAe~l~~a   40 (226)
+T 5KC1_J            5 AEVYTIIEDAEQECRKGDFTNAKAKYQEAIEVLGPQ   40 (226)
+T ss_dssp             ------------------------------------
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            357788899999999999999999999999999885
+
+
+No 52
+>4U7I_A Spartin MIT, IST1 MIM; Complex, MIM3, PROTEIN TRANSPORT; 1.794A {Homo sapiens}
+Probab=34.31  E-value=34  Score=36.24  Aligned_cols=39  Identities=8%  Similarity=-0.046  Sum_probs=33.9  Template_Neff=8.600
+
+Q LOKIASV2_38340    3 ELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         3 ~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      ...+.|+.++..|...=..|+++.|+.+|..++.+|...
+T Consensus        12 ~~~~~a~~~i~~A~~~De~g~~~~A~~~Y~~gl~~l~~~   50 (95)
+T 4U7I_A           12 EAYKKAFLFVNKGLNTDELGQKEEAKNYYKQGIGHLLRG   50 (95)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhHhhCCCHHHHHHHHHHHHHHHHHH
+Confidence            455788999999998888999999999999999977654
+
+
+No 53
+>4A5X_A MIT DOMAIN-CONTAINING PROTEIN 1, CHARGED; PROTEIN TRANSPORT, ESCRT, CYTOKINESIS, MIDBODY; HET: GOL, P15; 1.91A {HOMO SAPIENS}
+Probab=33.73  E-value=35  Score=35.65  Aligned_cols=40  Identities=30%  Similarity=0.364  Sum_probs=33.9  Template_Neff=8.300
+
+Q LOKIASV2_38340 1775 IQEKIINKLEIAGQLRKQTQFDQALNLYQEGLTLLK-NIHW 1814 (2130)
+Q Consensus      1775 ~qeeAF~lLEeA~~llkq~efDkAI~lY~~A~~IL~-eIgW 1814 (2130)
+                      ..+.|..++..|..+-+.|+|+.|+.+|..|+.+|. -+.+
+T Consensus        12 ~~~~a~~~~~~Av~~d~~g~~~~A~~~Y~~a~~~l~~~~~~   52 (86)
+T 4A5X_A           12 QSTAAATVLKRAVELDSESRYPQALVCYQEGIDLLLQVLKG   52 (86)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHHT
+T ss_pred             HHHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHHHhC
+Confidence            456788888899999999999999999999999995 4444
+
+
+No 54
+>4WZX_A ULK3 (E.C.2.7.11.1), IST1; MIT domain, ULK3, MIM, IST1; 1.3859A {Homo sapiens}
+Probab=33.56  E-value=36  Score=36.23  Aligned_cols=37  Identities=16%  Similarity=0.151  Sum_probs=33.0  Template_Neff=8.400
+
+Q LOKIASV2_38340 1660 HEECLDLLDKART-FAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1660 keEAF~iLD~Aq~-~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      -..|+.++..|.. +-..|+|+.|+..|..|+.+|..+
+T Consensus        22 l~~a~~~~~~A~~~~e~~g~~~~A~~~Y~~ai~~l~~~   59 (95)
+T 4WZX_A           22 LLAALEVASAAMAKEEAAGGEQDALDLYQHSLGELLLL   59 (95)
+T ss_dssp             HHHHHHHHHHHHHHHTSTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            3578899999988 999999999999999999988875
+
+
+No 55
+>4WZX_A ULK3 (E.C.2.7.11.1), IST1; MIT domain, ULK3, MIM, IST1; 1.3859A {Homo sapiens}
+Probab=33.20  E-value=36  Score=36.16  Aligned_cols=38  Identities=5%  Similarity=-0.033  Sum_probs=32.8  Template_Neff=8.400
+
+Q LOKIASV2_38340    4 LREEINKLIISADE-AVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         4 ~~eeAfkLld~A~~-~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      ..+.|+.++..|.. +-..|+|+.|+..|..|+.+|..+
+T Consensus        21 ~l~~a~~~~~~A~~~~e~~g~~~~A~~~Y~~ai~~l~~~   59 (95)
+T 4WZX_A           21 RLLAALEVASAAMAKEEAAGGEQDALDLYQHSLGELLLL   59 (95)
+T ss_dssp             HHHHHHHHHHHHHHHHTSTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            34578888999998 888999999999999999887764
+
+
+No 56
+>5L4K_P 26S proteasome non-ATPase regulatory subunit; proteostasis, AAA-ATPase, structural protein; 4.5A {Homo sapiens}
+Probab=32.55  E-value=38  Score=44.42  Aligned_cols=37  Identities=5%  Similarity=-0.230  Sum_probs=30.6  Template_Neff=10.900
+
+Q LOKIASV2_38340 1895 SYKLLEIASDNIEANKHYMAFYFLDIAWSNFNQMNWE 1931 (2130)
+Q Consensus      1895 afkile~a~~~~~~~~~~~~~~~~~~a~~~f~~~~w~ 1931 (2130)
+                      +..++..|......|+|..|+.+|+.|+..|...+..
+T Consensus        24 ~~~~~~~a~~~~~~g~~~~A~~~~~~al~~~~~~~~~   60 (456)
+T 5L4K_P           24 VDQRLPECAKLAKEGRLQEVIETLLSLEKQTRTASDM   60 (456)
+T ss_dssp             HHHHHHHHHHHTTTTCTHHHHHHHHHHTTCCHHHHHT
+T ss_pred             HHhhHHHHHHHhhcCCHHHHHHHHHHHHHHHccccch
+Confidence            3457788888899999999999999999998755443
+
+
+No 57
+>6MSB_W 26S proteasome; Proteosome, HYDROLASE; HET: ADP, ATP; 3.0A {Homo sapiens}
+Probab=32.55  E-value=38  Score=44.42  Aligned_cols=37  Identities=5%  Similarity=-0.230  Sum_probs=30.6  Template_Neff=10.900
+
+Q LOKIASV2_38340 1895 SYKLLEIASDNIEANKHYMAFYFLDIAWSNFNQMNWE 1931 (2130)
+Q Consensus      1895 afkile~a~~~~~~~~~~~~~~~~~~a~~~f~~~~w~ 1931 (2130)
+                      +..++..|......|+|..|+.+|+.|+..|...+..
+T Consensus        24 ~~~~~~~a~~~~~~g~~~~A~~~~~~al~~~~~~~~~   60 (456)
+T 6MSB_W           24 VDQRLPECAKLAKEGRLQEVIETLLSLEKQTRTASDM   60 (456)
+T ss_pred             HHhhHHHHHHHhhcCCHHHHHHHHHHHHHHHccccch
+Confidence            3457788888899999999999999999998755443
+
+
+No 58
+>2PZI_A Probable serine/threonine-protein kinase pknG (E.C.2.7.11.1); Serine/Threonine-Protein Kinase, ATP-recognition, Kinase-inhibitor complex; HET: AXX, GOL; 2.4A {Mycobacterium tuberculosis}
+Probab=32.50  E-value=38  Score=48.02  Aligned_cols=40  Identities=5%  Similarity=-0.083  Sum_probs=33.3  Template_Neff=9.300
+
+Q LOKIASV2_38340 1896 YKLLEIASDNIEANKHYMAFYFLDIAWSNFNQMNWEREKE 1935 (2130)
+Q Consensus      1896 fkile~a~~~~~~~~~~~~~~~~~~a~~~f~~~~w~~e~~ 1935 (2130)
+                      -.+..-+......|+|..|..+|+.|+..|..+|...-.-
+T Consensus       427 ~~~~~lg~~~~~~~~~~~A~~~~~~Al~i~~~~~~~~g~a  466 (681)
+T 2PZI_A          427 VDFSESVELPLMEVRALLDLGDVAKATRKLDDLAERVGWR  466 (681)
+T ss_dssp             -CCTTCSHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHCCC
+T ss_pred             ccccccCchhHHhHHHHHHHHcHHHHHHHHHHHHHHHHHH
+Confidence            4467788889999999999999999999999998765433
+
+
+No 59
+>4U7Y_A VPS4B MIT, IST1 MIM; complex, MIM1; 2.502A {Homo sapiens}
+Probab=32.36  E-value=38  Score=35.00  Aligned_cols=39  Identities=15%  Similarity=0.226  Sum_probs=34.5  Template_Neff=9.300
+
+Q LOKIASV2_38340    3 ELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         3 ~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      ...+.|+.++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus         7 ~~~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   45 (90)
+T 4U7Y_A            7 PNLQKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   45 (90)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            345678899999999999999999999999999988766
+
+
+No 60
+>1YXR_A vacuolar protein sorting factor 4A; VPS4  MIT domain, PROTEIN; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=32.12  E-value=39  Score=33.33  Aligned_cols=38  Identities=16%  Similarity=0.277  Sum_probs=34.0  Template_Neff=10.000
+
+Q LOKIASV2_38340    4 LREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         4 ~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      ....|..++..|..+-..|+++.|+..|..+..+|..+
+T Consensus         5 ~~~~a~~~~~~A~~~~~~g~~~~A~~~Y~~~~~~~~~~   42 (77)
+T 1YXR_A            5 TLQKAIDLVTKATEEDKAKNYEEALRLYQHAVEYFLHA   42 (77)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            45678899999999999999999999999999988765
+
+
+No 61
+>1WFD_A Hypothetical protein 1500032H18; MIT domain, structural genomics, RIKEN; NMR {Mus musculus} SCOP: a.7.14.1
+Probab=31.79  E-value=40  Score=35.61  Aligned_cols=37  Identities=22%  Similarity=0.346  Sum_probs=33.7  Template_Neff=8.600
+
+Q LOKIASV2_38340 1660 HEECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1660 keEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      -+.|+.++..|-.+-..|+|+.|+..|..|+.+|..+
+T Consensus        12 l~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   48 (93)
+T 1WFD_A           12 STAAVAVLKRAVELDAESRYQQALVCYQEGIDMLLQV   48 (93)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHH
+Confidence            4678889999999999999999999999999999886
+
+
+No 62
+>4U7Y_A VPS4B MIT, IST1 MIM; complex, MIM1; 2.502A {Homo sapiens}
+Probab=31.19  E-value=41  Score=34.78  Aligned_cols=37  Identities=19%  Similarity=0.346  Sum_probs=33.5  Template_Neff=9.300
+
+Q LOKIASV2_38340 1660 HEECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1660 keEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      -+.|+.++..|-.+-..|+|+.|+..|..|+.+|..+
+T Consensus         9 ~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   45 (90)
+T 4U7Y_A            9 LQKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   45 (90)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            3578889999999999999999999999999999876
+
+
+No 63
+>1YXR_A vacuolar protein sorting factor 4A; VPS4  MIT domain, PROTEIN; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=31.17  E-value=41  Score=33.15  Aligned_cols=36  Identities=22%  Similarity=0.387  Sum_probs=33.0  Template_Neff=10.000
+
+Q LOKIASV2_38340 1661 EECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1661 eEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      +.|..++..|..+-..|+|+.|+..|..++.+|..+
+T Consensus         7 ~~a~~~~~~A~~~~~~g~~~~A~~~Y~~~~~~~~~~   42 (77)
+T 1YXR_A            7 QKAIDLVTKATEEDKAKNYEEALRLYQHAVEYFLHA   42 (77)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            467889999999999999999999999999999886
+
+
+No 64
+>3JCK_B 26S proteasome regulatory subunit RPN3; Proteasome, deubiquitinase, Rpn11, protein homeostasis; 3.5A {Saccharomyces cerevisiae S288c}
+Probab=30.91  E-value=42  Score=44.04  Aligned_cols=46  Identities=13%  Similarity=0.056  Sum_probs=25.4  Template_Neff=10.700
+
+Q LOKIASV2_38340 1782 KLEIAGQLRKQTQFDQALNLYQEGLTLLKNIHWPLKQPQILEMISET 1828 (2130)
+Q Consensus      1782 lLEeA~~llkq~efDkAI~lY~~A~~IL~eIgW~~ei~~I~e~I~ei 1828 (2130)
+                      ++..|..+. .|+|+.|+..|..|..+....+.+.........|-.+
+T Consensus        20 ~~~~~~~~~-~~~~~~A~~~~~~a~~~~~~~~~~~~~~~~~~~lg~~   65 (445)
+T 3JCK_B           20 EFPKIDSLA-QNDCNSALDQLLVLEKKTRQASDLASSKEVLAKIVDL   65 (445)
+T ss_dssp             ------------CHHHHTHHHHHGGGCCCSHHHHHHHHHHHHHHHHH
+T ss_pred             HChhhhHhh-cCCHHHHHHHHHHHHHHHhhhcChHHHHHHHHHHHHH
+Confidence            344455544 6679999999999999887777666544444444444
+
+
+No 65
+>2CPT_A Vacuolar sorting protein 4b; MIT, SKD1, helix bundle, Structural; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=30.55  E-value=43  Score=37.35  Aligned_cols=39  Identities=15%  Similarity=0.226  Sum_probs=34.5  Template_Neff=7.800
+
+Q LOKIASV2_38340    3 ELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         3 ~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      ...+.|+.++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus        13 ~~l~~a~~~~~~A~~~d~~g~~~~A~~~Y~~aie~l~~~   51 (117)
+T 2CPT_A           13 PNLQKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   51 (117)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            345678889999999999999999999999999988776
+
+
+No 66
+>4G2V_A G-protein-signaling modulator 2, peptide from; TPR repeat, LGN, Cell polarity; HET: GOL, BTB; 2.4A {Mus musculus}
+Probab=30.07  E-value=44  Score=39.13  Aligned_cols=30  Identities=7%  Similarity=0.130  Sum_probs=18.2  Template_Neff=13.500
+
+Q LOKIASV2_38340 1780 INKLEIAGQLRKQTQFDQALNLYQEGLTLL 1809 (2130)
+Q Consensus      1780 F~lLEeA~~llkq~efDkAI~lY~~A~~IL 1809 (2130)
+                      ..++..|..+...|+|+.|+..|..|+.+.
+T Consensus         8 ~~~~~~~~~~~~~g~~~~A~~~~~~a~~~~   37 (340)
+T 4G2V_A            8 LELALEGERLCKSGDCRAGVSFFEAAVQVG   37 (340)
+T ss_dssp             HHHHHHHHHHHHTTCHHHHHHHHHHHHHHC
+T ss_pred             HHHHHHHHHHHHcCCCHHHHHHHHHHHHhC
+Confidence            344555666666666666666666666554
+
+
+No 67
+>2CPT_A Vacuolar sorting protein 4b; MIT, SKD1, helix bundle, Structural; NMR {Homo sapiens} SCOP: a.7.14.1
+Probab=29.77  E-value=45  Score=37.19  Aligned_cols=36  Identities=19%  Similarity=0.373  Sum_probs=33.2  Template_Neff=7.800
+
+Q LOKIASV2_38340 1661 EECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1661 eEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      ..|+.++..|..+-..|+|+.|+..|..|+.+|..+
+T Consensus        16 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~aie~l~~~   51 (117)
+T 2CPT_A           16 QKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHV   51 (117)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            468889999999999999999999999999999987
+
+
+No 68
+>6FVU_P Proteasome subunit alpha type-1 (E.C.3.4.25.1); 26S proteasome, AAA+ ATPase, hydrolase; HET: ADP, ATP; 4.5A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=29.03  E-value=48  Score=43.51  Aligned_cols=34  Identities=9%  Similarity=-0.096  Sum_probs=24.4  Template_Neff=10.700
+
+Q LOKIASV2_38340 1782 KLEIAGQLRKQTQFDQALNLYQEGLTLLKNIHWPL 1816 (2130)
+Q Consensus      1782 lLEeA~~llkq~efDkAI~lY~~A~~IL~eIgW~~ 1816 (2130)
+                      +++.|.. +.+|+++.|+..|..|..+....+-+.
+T Consensus        20 ~~~~a~~-~~~~~~~~a~~~~~~al~~~~~~~d~~   53 (440)
+T 6FVU_P           20 EFPKIDS-LAQNDCNSALDQLLVLEKKTRQASDLA   53 (440)
+T ss_pred             HchhhhH-hccCCHHHHHHHHHHHHHHHhhccCHH
+Confidence            4455555 446789999999999999887544433
+
+
+No 69
+>2W2U_A HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=28.62  E-value=49  Score=34.36  Aligned_cols=36  Identities=14%  Similarity=0.221  Sum_probs=31.6  Template_Neff=8.400
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|+.++..|..+...|+|+.|+..|.+|+.+|..+
+T Consensus        17 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_A           17 EMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            357888888988899999999999999999999644
+
+
+No 70
+>2W2U_B HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=28.62  E-value=49  Score=34.36  Aligned_cols=36  Identities=14%  Similarity=0.221  Sum_probs=31.6  Template_Neff=8.400
+
+Q LOKIASV2_38340 1508 QLAFNIMDEGNRFAQFHEYDKAILKFEEARDILKNI 1543 (2130)
+Q Consensus      1508 e~AF~~iD~a~~~~~~~~ydkAI~~Y~~Ai~il~~I 1543 (2130)
+                      +.|+.++..|..+...|+|+.|+..|.+|+.+|..+
+T Consensus        17 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_B           17 EMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            357888888988899999999999999999999644
+
+
+No 71
+>2W2U_A HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=28.46  E-value=49  Score=34.33  Aligned_cols=36  Identities=17%  Similarity=0.287  Sum_probs=32.3  Template_Neff=8.400
+
+Q LOKIASV2_38340  122 GKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       122 ~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      ..|..++..|..+-..|+|++|+..|..|+.+|..+
+T Consensus        17 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_A           17 EMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            468888999999999999999999999999988755
+
+
+No 72
+>2W2U_B HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=28.46  E-value=49  Score=34.33  Aligned_cols=36  Identities=17%  Similarity=0.287  Sum_probs=32.3  Template_Neff=8.400
+
+Q LOKIASV2_38340  122 GKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       122 ~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      ..|..++..|..+-..|+|++|+..|..|+.+|..+
+T Consensus        17 ~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_B           17 EMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            468888999999999999999999999999988755
+
+
+No 73
+>4ZEY_A nuclear receptor binding factor 2; Structural Genomics, Joint Center for; HET: SO4, MSE; 1.5A {Homo sapiens}
+Probab=28.36  E-value=50  Score=35.44  Aligned_cols=37  Identities=16%  Similarity=0.293  Sum_probs=33.3  Template_Neff=6.200
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .+.|+..-..|..++..|+|++|++.+.+|...|..-
+T Consensus         6 Ln~AH~har~Ae~~~~~g~~~~A~e~H~~AA~~f~~A   42 (84)
+T 4ZEY_A            6 LNLAHQQSRRADRLLAAGKYEEAISCHKKAAAYLSEA   42 (84)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            3568889999999999999999999999999999754
+
+
+No 74
+>4U7I_A Spartin MIT, IST1 MIM; Complex, MIM3, PROTEIN TRANSPORT; 1.794A {Homo sapiens}
+Probab=28.32  E-value=50  Score=35.06  Aligned_cols=42  Identities=19%  Similarity=0.145  Sum_probs=35.4  Template_Neff=8.600
+
+Q LOKIASV2_38340 1775 IQEKIINKLEIAGQLRKQTQFDQALNLYQEGLTLLK-NIHWPL 1816 (2130)
+Q Consensus      1775 ~qeeAF~lLEeA~~llkq~efDkAI~lY~~A~~IL~-eIgW~~ 1816 (2130)
+                      .-..||.++..|-.+=..|+|+.|+.+|..|+..|. -+.++.
+T Consensus        13 ~~~~a~~~i~~A~~~De~g~~~~A~~~Y~~gl~~l~~~l~~~~   55 (95)
+T 4U7I_A           13 AYKKAFLFVNKGLNTDELGQKEEAKNYYKQGIGHLLRGISISS   55 (95)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHHHTSCC
+T ss_pred             HHHHHHHHHHHHHhHhhCCCHHHHHHHHHHHHHHHHHHhcCCC
+Confidence            346899999999888889999999999999999994 566644
+
+
+No 75
+>2VKJ_B TM1634; MEMBRANE PROTEIN, TPR MOTIF JOINT; HET: SO4; 1.65A {THERMOTOGA MARITIMA}
+Probab=27.98  E-value=51  Score=36.42  Aligned_cols=49  Identities=31%  Similarity=0.513  Sum_probs=40.9  Template_Neff=2.300
+
+Q LOKIASV2_38340  123 KAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEINWNSEIPRINEL-IIETQK  175 (2130)
+Q Consensus       123 eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI~W~~EI~~I~~~-I~ei~k  175 (2130)
+                      .+-.+++.|..+...|+|.+|+.+|.++    .+|+-+.+|..|-++ +.+|.+
+T Consensus        52 ~~r~~iaeak~~f~~gNY~eA~~lfkk~----~~~~n~~~~~~~~~~~~~~~~~  101 (106)
+T 2VKJ_B           52 KARSLIAEGKDLFETANYGEALVFFEKA----LNLSDNEEIKKIASFYLEECRK  101 (106)
+T ss_dssp             HHHHHHHHHHHHHHTTCHHHHHHHHHHH----HHHCCCHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhCCHHHHHHHHHHH----hcCCCcHHHHHHHHHHHHHHHH
+Confidence            5778999999999999999999999999    567778889888775 355543
+
+
+No 76
+>2PZI_A Probable serine/threonine-protein kinase pknG (E.C.2.7.11.1); Serine/Threonine-Protein Kinase, ATP-recognition, Kinase-inhibitor complex; HET: AXX, GOL; 2.4A {Mycobacterium tuberculosis}
+Probab=27.49  E-value=53  Score=46.70  Aligned_cols=107  Identities=6%  Similarity=-0.108  Sum_probs=73.9  Template_Neff=9.300
+
+Q LOKIASV2_38340    9 NKLIISADEAVQNNNFDEGIMIFKEAKQKAANLQWEERVGQIDQMI-QETLAKKDRLYQIKLQEQKLREKKNKELQRQNE   87 (2130)
+Q Consensus         9 fkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI~W~eei~~I~esI-~ei~~KK~~~~e~Klqeqk~~ek~~~elq~q~e   87 (2130)
+                      ..++.-+..+...|+|++|+..|.+|..||..|+...+.-..-..| -.+.....+..+.           ..-+..   
+T Consensus       427 ~~~~~lg~~~~~~~~~~~A~~~~~~Al~i~~~~~~~~g~a~~l~~l~g~~~~~~~~~~~A-----------~~~~~~---  492 (681)
+T 2PZI_A          427 VDFSESVELPLMEVRALLDLGDVAKATRKLDDLAERVGWRWRLVWYRAVAELLTGDYDSA-----------TKHFTE---  492 (681)
+T ss_dssp             -CCTTCSHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHTCHHHH-----------HHHHHH---
+T ss_pred             ccccccCchhHHhHHHHHHHHcHHHHHHHHHHHHHHHHHHHHHHhhHHhHHHHhCCHHHH-----------HHHHHH---
+Confidence            4457777888999999999999999999999998877766554443 4443322211000           000110   
+
+
+Q LOKIASV2_38340   88 IENARKRELQKKEEDKKRRLFELQQKKKKENEYSGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEIN  158 (2130)
+Q Consensus        88 ie~~r~~El~kkee~kk~kl~e~qekKkkEeEis~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI~  158 (2130)
+                                         +..      .-......|+.|..-|.-+...|+|    +.|.+|+.||..+|
+T Consensus       493 -------------------i~~------~~gd~~~~a~~l~~lg~v~~~~~~~----~~~~~al~i~~~~g  534 (681)
+T 2PZI_A          493 -------------------VLD------TFPGELAPKLALAATAELAGNTDEH----KFYQTVWSTNDGVI  534 (681)
+T ss_dssp             -------------------HHH------HSTTCSHHHHHHHHHHHHHTCCCTT----CHHHHHHHHCTTCH
+T ss_pred             -------------------HHH------hCCCchhHHHHHHHHHHHHcCcchh----HHHHHHHHHHhHHH
+Confidence                               100      1122345788899999999999999    99999999999999
+
+
+No 77
+>2DL1_A Spartin; Spartin, SPG20, MIT, Structural Genomics; NMR {Homo sapiens}
+Probab=27.34  E-value=53  Score=36.61  Aligned_cols=39  Identities=8%  Similarity=-0.046  Sum_probs=33.8  Template_Neff=7.800
+
+Q LOKIASV2_38340    3 ELREEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         3 ~~~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      +..+.|+.++..|..+=..|+++.|+.+|..++.+|...
+T Consensus        17 ~~~~~a~~~i~~Al~~De~g~~~eAl~~Y~~gl~~l~~~   55 (116)
+T 2DL1_A           17 EAYKKAFLFVNKGLNTDELGQKEEAKNYYKQGIGHLLRG   55 (116)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHHHHH
+Confidence            345688999999998888999999999999999987663
+
+
+No 78
+>3TXM_A 26S proteasome regulatory complex subunit; 26 S proteasome, PCI domain; HET: SO4; 3.0A {Drosophila melanogaster}
+Probab=26.89  E-value=55  Score=42.44  Aligned_cols=39  Identities=5%  Similarity=-0.059  Sum_probs=31.1  Template_Neff=10.500
+
+Q LOKIASV2_38340 1892 GDMSYKLLEIASDNIEANKHYMAFYFLDIAWSNFNQMNW 1930 (2130)
+Q Consensus      1892 k~~afkile~a~~~~~~~~~~~~~~~~~~a~~~f~~~~w 1930 (2130)
+                      +..+.-+..-|..+...|+|+.|+.+|..|+..+..++=
+T Consensus        16 ~~~~~~~~~lg~i~~~~~~~~~a~~~~~~a~~~~~~~~~   54 (394)
+T 3TXM_A           16 RIKEQGILQQGELYKQEGKAKELADLIKVTRPFLSSISK   54 (394)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHTTSCH
+T ss_pred             HHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHhcCH
+Confidence            334444566677788899999999999999999988874
+
+
+No 79
+>3TXN_A 26S proteasome regulatory complex subunit; 26 S proteasome, PCI domain; HET: SO4, GOL; 2.496A {Drosophila melanogaster}
+Probab=26.89  E-value=55  Score=42.44  Aligned_cols=39  Identities=5%  Similarity=-0.059  Sum_probs=31.1  Template_Neff=10.500
+
+Q LOKIASV2_38340 1892 GDMSYKLLEIASDNIEANKHYMAFYFLDIAWSNFNQMNW 1930 (2130)
+Q Consensus      1892 k~~afkile~a~~~~~~~~~~~~~~~~~~a~~~f~~~~w 1930 (2130)
+                      +..+.-+..-|..+...|+|+.|+.+|..|+..+..++=
+T Consensus        16 ~~~~~~~~~lg~i~~~~~~~~~a~~~~~~a~~~~~~~~~   54 (394)
+T 3TXN_A           16 RIKEQGILQQGELYKQEGKAKELADLIKVTRPFLSSISK   54 (394)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCHHHHHHHHHHTTTGGGGSCH
+T ss_pred             HHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHhcCH
+Confidence            334444566677788899999999999999999988874
+
+
+No 80
+>1QQE_A VESICULAR TRANSPORT PROTEIN SEC17; HELIX-TURN-HELIX TPR-LIKE REPEAT, PROTEIN TRANSPORT; 2.9A {Saccharomyces cerevisiae} SCOP: a.118.8.1
+Probab=26.71  E-value=56  Score=37.62  Aligned_cols=33  Identities=9%  Similarity=-0.019  Sum_probs=22.4  Template_Neff=13.300
+
+Q LOKIASV2_38340 2042 ANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLF 2074 (2130)
+Q Consensus      2042 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2074 (2130)
+                      +..+...+..++..|+++.|+.....+..++..
+T Consensus       199 ~~~~~~l~~~~~~~~~~~~A~~~~~~~~~~~~~  231 (292)
+T 1QQE_A          199 KDYFLKKGLCQLAATDAVAAARTLQEGQSEDPN  231 (292)
+T ss_dssp             HHHHHHHHHHHHHTTCHHHHHHHHHGGGCC---
+T ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHHHHHhhCcC
+Confidence            344556677778889999998888887665543
+
+
+No 81
+>6IP1_H Vesicle-associated membrane protein 2, Syntaxin-1A; membrane fusion, ATPase, MEMBRANE PROTEIN; 3.9A {Rattus norvegicus}
+Probab=25.48  E-value=61  Score=38.17  Aligned_cols=35  Identities=17%  Similarity=0.017  Sum_probs=26.7  Template_Neff=12.900
+
+Q LOKIASV2_38340 2041 KANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFL 2075 (2130)
+Q Consensus      2041 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2075 (2130)
+                      .+..++..+......|+++.|+.....+..++-..
+T Consensus       215 ~~~~~~~l~~~~~~~g~~~~A~~~~~~~~~~~~~~  249 (309)
+T 6IP1_H          215 SAKDYFFKAALCHFCIDMLNAKLAVQKYEELFPAF  249 (309)
+T ss_dssp             THHHHHHHHHHTTCSSSSSTTHHHHHHHHHHTTGG
+T ss_pred             cHHHHHHHHHHHHHhcCHHHHHHHHHHHHHHChhc
+Confidence            45556777788889999999999988887665433
+
+
+No 82
+>2CRB_A nuclear receptor binding factor 2; NRBF-2, MIT domain, helix bundle; NMR {Mus musculus} SCOP: a.7.16.1
+Probab=25.40  E-value=61  Score=35.86  Aligned_cols=37  Identities=19%  Similarity=0.312  Sum_probs=33.5  Template_Neff=5.700
+
+Q LOKIASV2_38340  121 SGKAYDLLEKGSNLIEQNQFNDGIESFRKAIELFQEI  157 (2130)
+Q Consensus       121 s~eAfeLLe~A~~L~~~~~FDeAIe~Y~kAi~LF~eI  157 (2130)
+                      .+.|+.+...|..++..|+|++|++.+.+|...|..-
+T Consensus        12 Ln~AH~har~Ae~~~~~g~~~~Aie~H~kAA~~f~~A   48 (97)
+T 2CRB_A           12 LNLAHQQSRRADRLLAAGKYEEAISCHRKATTYLSEA   48 (97)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            4678899999999999999999999999999999754
+
+
+No 83
+>3EAB_C Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=25.31  E-value=61  Score=34.18  Aligned_cols=38  Identities=8%  Similarity=0.070  Sum_probs=32.5  Template_Neff=8.300
+
+Q LOKIASV2_38340    4 LREEINKLIISADEAVQ---NNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         4 ~~eeAfkLld~A~~~l~---~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      ..+.|+.++..|..+=.   .|+++.|+.+|..++.+|...
+T Consensus        12 ~~~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~a   52 (89)
+T 3EAB_C           12 FHKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKG   52 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHHHSCSSTTHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHh
+Confidence            45678888988988877   899999999999999987764
+
+
+No 84
+>3EAB_D Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=25.31  E-value=61  Score=34.18  Aligned_cols=38  Identities=8%  Similarity=0.070  Sum_probs=32.5  Template_Neff=8.300
+
+Q LOKIASV2_38340    4 LREEINKLIISADEAVQ---NNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         4 ~~eeAfkLld~A~~~l~---~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      ..+.|+.++..|..+=.   .|+++.|+.+|..++.+|...
+T Consensus        12 ~~~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~a   52 (89)
+T 3EAB_D           12 FHKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKG   52 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHHHSCSSCGGGTHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHh
+Confidence            45678888988988877   899999999999999987764
+
+
+No 85
+>4JHR_A G-protein-signaling modulator 2; TPR motifs, GoLoco tandem motifs; 2.8A {Mus musculus}
+Probab=25.04  E-value=62  Score=38.54  Aligned_cols=36  Identities=11%  Similarity=0.045  Sum_probs=18.3  Template_Neff=12.900
+
+Q LOKIASV2_38340 1663 CLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKIDY 1698 (2130)
+Q Consensus      1663 AF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI~W 1698 (2130)
+                      +..+..-|..+...|+|+.|+..|..|+.+....+.
+T Consensus        11 ~~~~~~l~~~~~~~g~~~~A~~~~~~a~~~~~~~~~   46 (333)
+T 4JHR_A           11 AKASGNLGNTLKVLGNFDEAIVCCQRHLDISRELND   46 (333)
+T ss_dssp             ---------------CHHHHHHHHHHHHHHHHHTTC
+T ss_pred             HHHHhHHHHHHHHcCCHHHHHHHHHHHHHHHHHhCC
+Confidence            445566678888999999999999999988877653
+
+
+No 86
+>2PZI_A Probable serine/threonine-protein kinase pknG (E.C.2.7.11.1); Serine/Threonine-Protein Kinase, ATP-recognition, Kinase-inhibitor complex; HET: AXX, GOL; 2.4A {Mycobacterium tuberculosis}
+Probab=24.89  E-value=63  Score=45.98  Aligned_cols=110  Identities=12%  Similarity=0.019  Sum_probs=72.7  Template_Neff=9.300
+
+Q LOKIASV2_38340 1777 EKIINKLEIAGQLRKQTQFDQALNLYQEGLTLLKNIHWPLKQPQILEM-ISETKEEKTKYIQKQKAKQELERKRNEEQRK 1855 (2130)
+Q Consensus      1777 eeAF~lLEeA~~llkq~efDkAI~lY~~A~~IL~eIgW~~ei~~I~e~-I~eik~kK~e~~~kqK~e~ele~kk~~Ee~~ 1855 (2130)
+                      ..|-.+..-+..|..+++|++|+..|.+|+.|+..||...+.-..+.- +-.+......+-+              -...
+T Consensus       424 ~~~~~~~~lg~~~~~~~~~~~A~~~~~~Al~i~~~~~~~~g~a~~l~~l~g~~~~~~~~~~~--------------A~~~  489 (681)
+T 2PZI_A          424 ADGVDFSESVELPLMEVRALLDLGDVAKATRKLDDLAERVGWRWRLVWYRAVAELLTGDYDS--------------ATKH  489 (681)
+T ss_dssp             ----CCTTCSHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHTCHHH--------------HHHH
+T ss_pred             cccccccccCchhHHhHHHHHHHHcHHHHHHHHHHHHHHHHHHHHHHhhHHhHHHHhCCHHH--------------HHHH
+Confidence            344567888889999999999999999999999999988876555544 3555443332211              0112
+
+
+Q LOKIASV2_38340 1856 FQELMKSQDLERKAALKKDIAEDQAHQEKIDKQKEIGDMSYKLLEIASDNIEANKHYMAFYFLDIAWSNFNQMN 1929 (2130)
+Q Consensus      1856 FQe~ik~~~~Erer~~kk~i~~~q~~~e~l~~~~e~k~~afkile~a~~~~~~~~~~~~~~~~~~a~~~f~~~~ 1929 (2130)
+                      |++                +..         ..-...-.|.-|..-|......|+|    .+|+.|+..|..+|
+T Consensus       490 ~~~----------------i~~---------~~gd~~~~a~~l~~lg~v~~~~~~~----~~~~~al~i~~~~g  534 (681)
+T 2PZI_A          490 FTE----------------VLD---------TFPGELAPKLALAATAELAGNTDEH----KFYQTVWSTNDGVI  534 (681)
+T ss_dssp             HHH----------------HHH---------HSTTCSHHHHHHHHHHHHHTCCCTT----CHHHHHHHHCTTCH
+T ss_pred             HHH----------------HHH---------hCCCchhHHHHHHHHHHHHcCcchh----HHHHHHHHHHhHHH
+Confidence            322                100         1111234556777777778888888    88999999998888
+
+
+No 87
+>5JNO_B BEN domain-containing protein 3, DNA; Ultra fine chromatin bridges, sister; 2.2A {Homo sapiens}
+Probab=24.48  E-value=65  Score=32.59  Aligned_cols=35  Identities=31%  Similarity=0.326  Sum_probs=30.4  Template_Neff=3.200
+
+Q LOKIASV2_38340 2040 EKANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLF 2074 (2130)
+Q Consensus      2040 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2074 (2130)
+                      ..-..+...|+...++|++++||.+-+.|.+||-.
+T Consensus        10 ~~y~r~v~~aKeaa~~G~L~~aLklF~~A~~I~Ps   44 (57)
+T 5JNO_B           10 AHYLRYVKEAKEATKNGDLEEAFKLFNLAKDIFPN   44 (57)
+T ss_dssp             HHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHSCC
+T ss_pred             HHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHhCCC
+Confidence            34567788899999999999999999999999854
+
+
+No 88
+>3EAB_C Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=24.39  E-value=65  Score=33.98  Aligned_cols=37  Identities=22%  Similarity=0.321  Sum_probs=32.7  Template_Neff=8.300
+
+Q LOKIASV2_38340 1660 HEECLDLLDKARTFAA---EHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1660 keEAF~iLD~Aq~~l~---~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      -+.||.++..|-.+=.   .|++..|+..|..++.+|...
+T Consensus        13 ~~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~a   52 (89)
+T 3EAB_C           13 HKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKG   52 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHHSCSSTTHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHh
+Confidence            4578999999987777   899999999999999999884
+
+
+No 89
+>3EAB_D Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=24.39  E-value=65  Score=33.98  Aligned_cols=37  Identities=22%  Similarity=0.321  Sum_probs=32.7  Template_Neff=8.300
+
+Q LOKIASV2_38340 1660 HEECLDLLDKARTFAA---EHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1660 keEAF~iLD~Aq~~l~---~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      -+.||.++..|-.+=.   .|++..|+..|..++.+|...
+T Consensus        13 ~~~a~~~i~~Ai~~De~~~~g~~~~A~~~Y~~gl~~l~~a   52 (89)
+T 3EAB_D           13 HKQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKG   52 (89)
+T ss_dssp             HHHHHHHHHHHHHHHHHSCSSCGGGTHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHccccCCCHHHHHHHHHHHHHHHHHh
+Confidence            4578999999987777   899999999999999999884
+
+
+No 90
+>2IFU_B Crystal Structure of a Gamma-SNAP; Gamma-SNAP, membrane fusion, SNARE complex; HET: SO4, MSE; 2.6A {Danio rerio}
+Probab=24.30  E-value=66  Score=38.29  Aligned_cols=27  Identities=22%  Similarity=0.236  Sum_probs=22.2  Template_Neff=12.500
+
+Q LOKIASV2_38340 1786 AGQLRKQTQFDQALNLYQEGLTLLKNI 1812 (2130)
+Q Consensus      1786 A~~llkq~efDkAI~lY~~A~~IL~eI 1812 (2130)
+                      |..|...|+|+.|+..|..+..+....
+T Consensus        43 a~~~~~~~~~~~A~~~~~~~~~~~~~~   69 (307)
+T 2IFU_B           43 AVAFKNAKQLEQAKDAYLQEAEAHANN   69 (307)
+T ss_dssp             HHHHHHTTCHHHHHHHHHHHHHHHHHT
+T ss_pred             HHHHHHcCCHHHHHHHHHHHHHHHHhC
+Confidence            666778899999999999998877544
+
+
+No 91
+>6EZ8_B Huntingtin, Factor VIII intron 22; Huntingtin, HAP40/F8A, Cryo-EM, Huntington's disease;{Homo sapiens}
+Probab=24.05  E-value=67  Score=41.63  Aligned_cols=37  Identities=8%  Similarity=-0.046  Sum_probs=28.7  Template_Neff=10.100
+
+Q LOKIASV2_38340 2041 KANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFLNL 2077 (2130)
+Q Consensus      2041 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2077 (2130)
+                      .+...+..|..++..|+++.|+....++-.++...+.
+T Consensus       180 ~~~~~~~la~~~~~~g~~~~A~~~~~~al~~~~~~~~  216 (371)
+T 6EZ8_B          180 ALQALGEAASCQLLARDYTGALAVFTRMQRLAREHGS  216 (371)
+T ss_dssp             SSSTTTSSHHHHTTTTCTTTTTTTHHHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHHhCC
+Confidence            3455667788888999999999999988887765554
+
+
+No 92
+>2W2U_A HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=23.86  E-value=68  Score=33.36  Aligned_cols=37  Identities=32%  Similarity=0.329  Sum_probs=32.5  Template_Neff=8.400
+
+Q LOKIASV2_38340    5 REEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         5 ~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      .+.|..++..|...-..|+|+.|+..|..|..+|..+
+T Consensus        16 ~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_A           16 EEMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            4567888899999989999999999999999988655
+
+
+No 93
+>2W2U_B HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=23.86  E-value=68  Score=33.36  Aligned_cols=37  Identities=32%  Similarity=0.329  Sum_probs=32.5  Template_Neff=8.400
+
+Q LOKIASV2_38340    5 REEINKLIISADEAVQNNNFDEGIMIFKEAKQKAANL   41 (2130)
+Q Consensus         5 ~eeAfkLld~A~~~l~~~nFDeAI~~Y~eA~~If~eI   41 (2130)
+                      .+.|..++..|...-..|+|+.|+..|..|..+|..+
+T Consensus        16 ~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_B           16 EEMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            4567888899999989999999999999999988655
+
+
+No 94
+>4A1S_B PARTNER OF INSCUTEABLE, RE60102P; CELL CYCLE, LGN, MITOTIC SPINDLE; 2.1A {DROSOPHILA MELANOGASTER}
+Probab=22.93  E-value=73  Score=39.89  Aligned_cols=38  Identities=11%  Similarity=0.008  Sum_probs=20.5  Template_Neff=12.400
+
+Q LOKIASV2_38340 2039 IEKANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFLN 2076 (2130)
+Q Consensus      2039 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2076 (2130)
+                      ...+..+...+..+...|++++|+....+|..++..++
+T Consensus       300 ~~~~~~~~~la~~~~~~g~~~~A~~~~~~~~~~~~~~~  337 (411)
+T 4A1S_B          300 EVEAQSCYSLGNTYTLLHEFNTAIEYHNRHLAIAQELG  337 (411)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHTT
+T ss_pred             HHHHHHHHHHHHHHHHhccHHHHHHHHHHHHHHHHHHC
+Confidence            33344444555555566666666666666555554443
+
+
+No 95
+>6HC2_Q G-protein-signaling modulator 2, Nuclear mitotic; Cell division Asymmetric cell division; 4.31A {Homo sapiens}
+Probab=22.72  E-value=74  Score=37.99  Aligned_cols=38  Identities=18%  Similarity=0.020  Sum_probs=22.0  Template_Neff=13.400
+
+Q LOKIASV2_38340 2040 EKANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFLNL 2077 (2130)
+Q Consensus      2040 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2077 (2130)
+                      ..+..+...+......|+++.|+.....+..++...+.
+T Consensus       273 ~~~~~~~~l~~~~~~~~~~~~A~~~~~~~~~~~~~~~~  310 (367)
+T 6HC2_Q          273 VEAQSCYSLGNTYTLLQDYEKAIDYHLKHLAIAQELND  310 (367)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHHHHHccCHHHHHHHHHHHHHHHHHhcc
+Confidence            34445555555666666666666666666655554433
+
+
+No 96
+>5WAQ_A Outer membrane protein assembly factor; beta-barrel assembly machinery, BAM complex; 2.501A {Neisseria gonorrhoeae (strain ATCC 700825 / FA 1090)}
+Probab=22.19  E-value=77  Score=35.91  Aligned_cols=32  Identities=25%  Similarity=0.230  Sum_probs=23.7  Template_Neff=13.000
+
+Q LOKIASV2_38340 1895 SYKLLEIASDNIEANKHYMAFYFLDIAWSNFN 1926 (2130)
+Q Consensus      1895 afkile~a~~~~~~~~~~~~~~~~~~a~~~f~ 1926 (2130)
+                      +.-++.-|...+..|+|..|+.+|..++..+.
+T Consensus        19 ~~~~~~~~~~~~~~~~~~~A~~~~~~~~~~~~   50 (251)
+T 5WAQ_A           19 VEKLYAEAQDELNSSNYTRAVKLYEILESRFP   50 (251)
+T ss_dssp             HHHHHHHHHHHHHTTCHHHHHHHHHHHHHHST
+T ss_pred             HHHHHHHHHHHHHCCCHHHHHHHHHHHHHhCC
+Confidence            34455667777788888888888888887665
+
+
+No 97
+>6FV0_A Kinesin light chain 1,TPR domain; Protein complex, MOTOR PROTEIN, nanobody; 2.29A {Mus musculus}
+Probab=22.12  E-value=77  Score=37.78  Aligned_cols=40  Identities=23%  Similarity=0.076  Sum_probs=27.6  Template_Neff=13.000
+
+Q LOKIASV2_38340 2040 EKANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFLNLSK 2079 (2130)
+Q Consensus      2040 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2079 (2130)
+                      ..+..++..|..+...|++++|+.+..+|-.++-..+...
+T Consensus       262 ~~~~~~~~la~~~~~~g~~~~A~~~~~~a~~~~~~~~~~~  301 (338)
+T 6FV0_A          262 TVTTTLKNLGALYRRQGKFEAAETLEEAAMRSRKQTGSTG  301 (338)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHC------
+T ss_pred             HHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHhcCCC
+Confidence            3455667778888899999999999999888877665543
+
+
+No 98
+>2W2U_A HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=21.80  E-value=79  Score=32.89  Aligned_cols=37  Identities=22%  Similarity=0.240  Sum_probs=32.5  Template_Neff=8.400
+
+Q LOKIASV2_38340 1660 HEECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1660 keEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      .+.|+.++..|-.+-..|+|+.|+..|..|+.+|..+
+T Consensus        16 ~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_A           16 EEMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            3467888888988888999999999999999999776
+
+
+No 99
+>2W2U_B HYPOTHETICAL P60 KATANIN, CONSERVED ARCHAEAL; HYDROLASE TRANSPORT COMPLEX, NUCLEOTIDE-BINDING, ESCRT; 2.2A {SULFOLOBUS ACIDOCALDARIUS}
+Probab=21.80  E-value=79  Score=32.89  Aligned_cols=37  Identities=22%  Similarity=0.240  Sum_probs=32.5  Template_Neff=8.400
+
+Q LOKIASV2_38340 1660 HEECLDLLDKARTFAAEHKINAAIEKYQQVIEKYSKI 1696 (2130)
+Q Consensus      1660 keEAF~iLD~Aq~~l~~~kfd~AIe~Y~~A~~Il~eI 1696 (2130)
+                      .+.|+.++..|-.+-..|+|+.|+..|..|+.+|..+
+T Consensus        16 ~~~a~~~~~~A~~~d~~g~~~~A~~~Y~~a~~~l~~~   52 (83)
+T 2W2U_B           16 EEMARKYAINAVKADKEGNAEEAITNYKKAIEVLAQL   52 (83)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHH
+Confidence            3467888888988888999999999999999999776
+
+
+No 100
+>5OJ8_A Kinesin light chain 1; Kinesin1, KLC1, TPR domain, MOTOR; HET: PO4; 2.247A {Homo sapiens}
+Probab=21.62  E-value=80  Score=35.51  Aligned_cols=33  Identities=30%  Similarity=0.103  Sum_probs=20.1  Template_Neff=13.300
+
+Q LOKIASV2_38340 2042 ANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLF 2074 (2130)
+Q Consensus      2042 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2074 (2130)
+                      +...+..|...+..|+++.|+.....+..++..
+T Consensus       218 ~~~~~~la~~~~~~g~~~~A~~~~~~~~~~~~~  250 (255)
+T 5OJ8_A          218 AKTKNNLASCYLKQGKFKQAETLYKEILTRAHE  250 (255)
+T ss_dssp             HHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHcCCHHHHHHHHHHHHHHHHH
+Confidence            344455566666677777777766666555443
+
+
+No 101
+>4D10_J COP9 SIGNALOSOME COMPLEX SUBUNIT 1; SIGNALING PROTEIN; 3.8A {HOMO SAPIENS}
+Probab=21.09  E-value=84  Score=40.30  Aligned_cols=36  Identities=17%  Similarity=0.028  Sum_probs=25.9  Template_Neff=12.000
+
+Q LOKIASV2_38340 2042 ANTLMNQAKSHYKQGKLEQAIQTGQKAKDMFLFLNL 2077 (2130)
+Q Consensus      2042 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2077 (2130)
+                      +...+..|..+...|+++.|+.....|-..+...|.
+T Consensus       239 ~~~~~~la~~~~~~g~~~~A~~~~~~a~~~~~~~~~  274 (447)
+T 4D10_J          239 GVIRECGGKMHLREGEFEKAHTDFFEAFKNYDESGS  274 (447)
+T ss_dssp             HHHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHHCS
+T ss_pred             HHHHHHHHHHHHHcCCHHHHHHHHHHHHhcchhcCC
+Confidence            344555666677888888888888888777766554
+
+
