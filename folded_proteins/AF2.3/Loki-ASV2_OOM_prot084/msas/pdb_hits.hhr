@@ -1,0 +1,1066 @@
+Query         LOKIASV2_17920 hypothetical protein
+Match_columns 1085
+No_of_seqs    29 out of 30
+Neff          1.98724
+Searched_HMMs 80799
+Date          Tue Sep 10 18:22:44 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpyz0fytnn/query.a3m -o /tmp/tmpyz0fytnn/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6LJE_A Gelsolin; fragmin, gels  92.9    0.03 3.7E-07   47.7   0.0   67   65-132    29-98  (101)
+  2 6LJF_A Gelsolin; fragmin, gels  92.9    0.03 3.7E-07   47.7   0.0   67   65-132    29-98  (101)
+  3 1SVY_A SEVERIN; ACTIN-BINDING   91.9   0.056 6.9E-07   48.5   0.0   55   76-134    47-104 (114)
+  4 1KCQ_A GELSOLIN; alpha-beta st  91.5    0.07 8.6E-07   47.5   0.0   57   76-135    37-94  (104)
+  5 5FAF_A Gelsolin; amyloidosis,   91.5   0.071 8.8E-07   49.1   0.0   58   76-135    47-104 (119)
+  6 2VIK_A VILLIN 14T; ACTIN-BINDI  91.3   0.076 9.4E-07   50.6   0.0   94   35-132    13-111 (126)
+  7 5A1M_A ADSEVERIN; ACTIN-BINDIN  90.5    0.11 1.3E-06   45.0   0.0   60   69-131    34-98  (104)
+  8 5A1K_A ADSEVERIN; ACTIN-BINDIN  90.2    0.13 1.5E-06   53.8   0.0   93   37-133    11-108 (344)
+  9 4CBU_G ACTIN-1, GELSOLIN; MOTO  90.1    0.13 1.6E-06   48.9   0.0   92   37-132    16-113 (127)
+ 10 1H1V_G ACTIN, GELSOLIN; ACTIN-  89.9    0.14 1.7E-06   53.1   0.0   94   36-134     5-104 (331)
+ 11 6KWZ_A Actin-binding protein f  89.8    0.14 1.8E-06   44.7   0.0   52   76-131    43-97  (98)
+ 12 6I4E_G Actin-1, Gelsolin; hydr  89.6    0.15 1.9E-06   48.5   0.0   91   37-132    16-113 (127)
+ 13 1EQY_S GELSOLIN/ALPHA ACTIN; g  89.5    0.16   2E-06   48.2   0.0   92   37-132    14-111 (125)
+ 14 2LLF_A Villin-1; actin regulat  89.3    0.17 2.1E-06   43.9   0.0   57   76-133    37-95  (107)
+ 15 2FH1_B Gelsolin; gelsolin, cal  88.9    0.19 2.4E-06   52.9   0.0   90   36-133     5-103 (344)
+ 16 3FG6_H Adseverin; C-terminus o  88.6    0.21 2.6E-06   53.9   0.0   94   35-132    49-143 (371)
+ 17 3FG7_A Villin-1; actin binding  88.5    0.22 2.7E-06   54.8   0.0   93   35-132    59-157 (398)
+ 18 3FG6_D Adseverin; C-terminus o  88.5    0.22 2.8E-06   53.7   0.0   94   35-132    49-143 (371)
+ 19 3TU5_B Actin, alpha skeletal m  88.2    0.24 2.9E-06   54.9   0.0   94   36-133    31-130 (297)
+ 20 1J72_A Macrophage capping prot  87.8    0.27 3.3E-06   51.8   0.0   91   37-133    18-112 (347)
+ 21 2FF6_G Gelsolin, CG4944-PC, is  86.3    0.38 4.7E-06   48.1   0.0   92   37-132    36-133 (150)
+ 22 6LJC_C Actin-binding protein f  85.8    0.43 5.4E-06   46.6   0.0   57   76-135    41-97  (212)
+ 23 1JHW_A MACROPHAGE CAPPING PROT  85.5    0.46 5.7E-06   50.1   0.0   91   37-133    18-112 (347)
+ 24 1RGI_G Gelsolin/Actin, alpha s  85.3    0.48 5.9E-06   49.7   0.0   93   37-133    13-111 (346)
+ 25 2FF3_A Gelsolin, Neural Wiskot  84.9    0.52 6.5E-06   47.3   0.0   92   37-132    36-133 (150)
+ 26 1T44_G Gelsolin, Actin, alpha;  84.0    0.61 7.6E-06   46.5   0.0   92   37-132    14-111 (147)
+ 27 1D0N_A HORSE PLASMA GELSOLIN;   83.7    0.65   8E-06   54.4   0.0   91   37-132   391-487 (729)
+ 28 6LJC_C Actin-binding protein f  81.4    0.93 1.2E-05   44.4   0.0   53   76-131   157-211 (212)
+ 29 3FG6_H Adseverin; C-terminus o  81.1    0.98 1.2E-05   49.1   0.0   56   70-134   195-252 (371)
+ 30 1J72_A Macrophage capping prot  80.4     1.1 1.3E-05   47.5   0.0   60   70-131   280-343 (347)
+ 31 4PKG_G ATP-Actin, Human Gelsol  80.2     1.1 1.4E-05   45.6   0.0   93   36-132    13-111 (186)
+ 32 3FG6_D Adseverin; C-terminus o  80.2     1.1 1.4E-05   48.6   0.0   56   70-134   195-252 (371)
+ 33 6JEG_B Gelsolin; gelsolin, amy  79.9     1.2 1.4E-05   52.4   0.0   91   37-132   391-487 (729)
+ 34 5A1K_A ADSEVERIN; ACTIN-BINDIN  79.3     1.3 1.6E-05   46.7   0.0   59   70-131   276-339 (344)
+ 35 1RGI_G Gelsolin/Actin, alpha s  78.8     1.3 1.6E-05   46.6   0.0   62   70-132   278-342 (346)
+ 36 1JHW_A MACROPHAGE CAPPING PROT  78.6     1.4 1.7E-05   46.8   0.0   60   70-131   280-343 (347)
+ 37 1D0N_A HORSE PLASMA GELSOLIN;   77.7     1.5 1.9E-05   51.5   0.0   92   37-132    12-109 (729)
+ 38 1J72_A Macrophage capping prot  76.2     1.8 2.2E-05   45.9   0.0   56   76-134   170-226 (347)
+ 39 5A1K_A ADSEVERIN; ACTIN-BINDIN  75.5     1.9 2.4E-05   45.4   0.0   56   76-134   166-222 (344)
+ 40 1RGI_G Gelsolin/Actin, alpha s  74.8     2.1 2.6E-05   45.2   0.0   57   76-135   169-226 (346)
+ 41 4PKI_G ATP-Actin, Human Gelsol  73.8     2.3 2.9E-05   43.6   0.0   92   37-132    14-111 (324)
+ 42 3FG7_A Villin-1; actin binding  72.7     2.6 3.2E-05   46.9   0.0   51   76-134   215-265 (398)
+ 43 2FH1_B Gelsolin; gelsolin, cal  71.6     2.9 3.5E-05   44.6   0.0   52   76-131   266-322 (344)
+ 44 3FG7_A Villin-1; actin binding  71.5     2.9 3.6E-05   46.5   0.0   56   76-132   319-376 (398)
+ 45 1JHW_A MACROPHAGE CAPPING PROT  71.2       3 3.7E-05   44.4   0.0   56   76-134   170-226 (347)
+ 46 1H1V_G ACTIN, GELSOLIN; ACTIN-  70.1     3.3   4E-05   43.6   0.0   49   76-133   161-209 (331)
+ 47 2FH1_B Gelsolin; gelsolin, cal  69.9     3.3 4.1E-05   44.1   0.0   49   76-133   161-209 (344)
+ 48 6JEG_B Gelsolin; gelsolin, amy  69.7     3.4 4.2E-05   48.9   0.0   91   37-132    12-109 (729)
+ 49 6JEG_B Gelsolin; gelsolin, amy  66.4     4.4 5.5E-05   47.9   0.0   50   76-134   546-595 (729)
+ 50 1D0N_A HORSE PLASMA GELSOLIN;   65.8     4.6 5.7E-05   47.8   0.0   56   76-134   168-224 (729)
+ 51 1H1V_G ACTIN, GELSOLIN; ACTIN-  63.1     5.6   7E-05   41.9   0.0   54   76-132   266-323 (331)
+ 52 3FG6_H Adseverin; C-terminus o  59.2     7.4 9.2E-05   42.7   0.0   54   77-131   308-363 (371)
+ 53 1D0N_A HORSE PLASMA GELSOLIN;   58.4     7.8 9.6E-05   46.0   0.0   60   70-132   277-341 (729)
+ 54 6JEG_B Gelsolin; gelsolin, amy  58.2     7.9 9.8E-05   46.0   0.0   56   76-134   168-224 (729)
+ 55 3FG6_D Adseverin; C-terminus o  55.1     9.7 0.00012   41.8   0.0   55   76-131   307-363 (371)
+ 56 5IJN_S NUCLEAR PORE COMPLEX PR  23.5      70 0.00086   40.4   0.0   39  193-232   260-298 (599)
+
+No 1
+>6LJE_A Gelsolin; fragmin, gelsolin family protein, calcium; HET: GOL; 1.4A {Homo sapiens}
+Probab=92.90  E-value=0.03  Score=47.71  Aligned_cols=67  Identities=12%  Similarity=0.200  Sum_probs=40.7  Template_Neff=10.300
+
+Q LOKIASV2_17920   65 NINIIAIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus        65 ~VNILAIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      .++-=.+|+...   ..+|+|+|++++...+.....+-..+.+..+-..-.+-..+..| .||..|+..++
+T Consensus        29 ~l~s~~~~il~~~~~~~i~vW~G~~~~~~~~~~~~~~a~~~~~~~~~~~~~~i~~v~~g-~e~~~F~~~~~   98 (101)
+T 6LJE_A           29 ALKSEDCFILDHGKDGKIFVWKGKQANTEERKAALKTASDFITKMDYPKQTQVSVLPEG-GETPLFKQFFK   98 (101)
+T ss_dssp             GCCTTSEEEEEEGGGTEEEEEECTTCCHHHHHHHHHHHHHHHHHTTCCTTCCEEEEETT-CCCHHHHTTBT
+T ss_pred             HcCCCCEEEEEcCCCCeEEEEEcCCCCHHHHHHHHHHHHHHHHhCCCCCCCcEEEEcCC-CCCHHHHHhcc
+Confidence            333345566655   49999999999987766665555444443321112222345544 88999988763
+
+
+No 2
+>6LJF_A Gelsolin; fragmin, gelsolin family protein, calcium; HET: GOL; 1.5A {Homo sapiens}
+Probab=92.90  E-value=0.03  Score=47.71  Aligned_cols=67  Identities=12%  Similarity=0.200  Sum_probs=40.7  Template_Neff=10.300
+
+Q LOKIASV2_17920   65 NINIIAIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus        65 ~VNILAIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      .++-=.+|+...   ..+|+|+|++++...+.....+-..+.+..+-..-.+-..+..| .||..|+..++
+T Consensus        29 ~l~s~~~~il~~~~~~~i~vW~G~~~~~~~~~~~~~~a~~~~~~~~~~~~~~i~~v~~g-~e~~~F~~~~~   98 (101)
+T 6LJF_A           29 ALKSEDCFILDHGKDGKIFVWKGKQANTEERKAALKTASDFITKMDYPKQTQVSVLPEG-GETPLFKQFFK   98 (101)
+T ss_dssp             GCCTTSEEEEEEGGGTEEEEEECTTCCHHHHHHHHHHHHHHHHHTTCCTTCCCEEEETT-CCCHHHHTTBT
+T ss_pred             HcCCCCEEEEEcCCCCeEEEEEcCCCCHHHHHHHHHHHHHHHHhCCCCCCCcEEEEcCC-CCCHHHHHhcc
+Confidence            333345566655   49999999999987766665555444443321112222345544 88999988763
+
+
+No 3
+>1SVY_A SEVERIN; ACTIN-BINDING PROTEIN, CALCIUM-BINDING, CYTOSKELETON, GELSOLIN; 1.75A {Dictyostelium discoideum} SCOP: d.109.1.1
+Probab=91.91  E-value=0.056  Score=48.54  Aligned_cols=55  Identities=16%  Similarity=0.209  Sum_probs=37.5  Template_Neff=9.400
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERI---PDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~---PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|+|+.++...+...-.+-..+..+.   |...|   +.++. ..||.+|++.+|=.
+T Consensus        47 ~~~ifvW~G~~a~~~er~~a~~~a~~~~~~~~~~~~~~i---~~~~e-g~E~~~F~~~~g~~  104 (114)
+T 1SVY_A           47 GLTIYQFNGSKSSPQEKNKAAEVARAIDAERKGLPKVEV---FCETD-SDIPAEFWKLLGGK  104 (114)
+T ss_dssp             SSEEEEEECTTCCHHHHHHHHHHHHHHHHHTTTCSEEEE---EETTC-SCCCHHHHHHTTSC
+T ss_pred             CCEEEEEeCCCCCHHHHHHHHHHHHHHHHHcCCCCeEEE---EecCC-CCCCHHHHHHhCCc
+Confidence            4699999999999998887766665555432   33332   22223 38999999888643
+
+
+No 4
+>1KCQ_A GELSOLIN; alpha-beta structure, actin-binding protein, familial; 1.65A {Homo sapiens} SCOP: d.109.1.1
+Probab=91.50  E-value=0.07  Score=47.54  Aligned_cols=57  Identities=16%  Similarity=0.215  Sum_probs=38.3  Template_Neff=9.200
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILE-RIPDLSILRHFTIEGAKPETHEFLSLLHINP  135 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIse-E~PelrILRNITIEsgrsEP~EFf~~L~Ink  135 (1085)
+                      ...+|+|+|++|+...+...-.+-..+.. +.|..  ..-..++.| .||.+|++.++-.+
+T Consensus        37 ~~~i~vW~G~~~~~~er~~a~~~a~~l~~~~~~~~--~~i~~v~eg-~E~~~F~~~l~~~~   94 (104)
+T 1KCQ_A           37 GNNIHQWCGSNSNRYERLKATQVSKGIRDNERSGR--ARVHVSEEG-TEPEAMLQVLGPKP   94 (104)
+T ss_dssp             SSEEEEEECTTCCHHHHHHHHHHHHHCCCCCSTTC--SEEEEEETT-CCCHHHHHHHCSCC
+T ss_pred             CCeEEEEECCCCCHHHHHHHHHHHHHHHhcCCCCC--CEEEEEeCC-CCCHHHHHHHCCCC
+Confidence            37999999999998888665555554533 22221  122345555 89999999997654
+
+
+No 5
+>5FAF_A Gelsolin; amyloidosis, calcium, mutation, actin, structural; HET: GOL; 1.05A {Homo sapiens}
+Probab=91.46  E-value=0.071  Score=49.14  Aligned_cols=58  Identities=16%  Similarity=0.190  Sum_probs=38.2  Template_Neff=8.800
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHINP  135 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~Ink  135 (1085)
+                      ...+|+|+|+.++...+...-.+-..+....+..+ ..-..++.| .||.+|+..++-..
+T Consensus        47 ~~~ifvW~G~~~~~~e~~~a~~~a~~l~~~~~~~~-~~i~~v~eg-~E~~~F~~~f~~~~  104 (119)
+T 5FAF_A           47 GNNIHQWCGSNSNRYERLKATQVSKGIRDNERSGR-ARVHVSEEG-TEPEAMLQVLGPKP  104 (119)
+T ss_dssp             SSEEEEEECTTCCHHHHHHHHHHHHHCCCCCSTTC-SEEEEEETT-CCCHHHHHHHCSCC
+T ss_pred             CCeEEEEEcCCCCHHHHHHHHHHHHHHHhccCCCC-CEEEEEeCC-CCCHHHHHHhCCCC
+Confidence            47999999999998887766555555544321111 122244544 89999999987653
+
+
+No 6
+>2VIK_A VILLIN 14T; ACTIN-BINDING PROTEIN, CAPPING PROTEIN, CALCIUM-BINDING; NMR {Gallus gallus} SCOP: d.109.1.1
+Probab=91.33  E-value=0.076  Score=50.63  Aligned_cols=94  Identities=7%  Similarity=0.151  Sum_probs=61.2  Template_Neff=7.900
+
+Q LOKIASV2_17920   35 DTNSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH-----YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDL  109 (1085)
+Q Consensus        35 ~tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k-----~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pel  109 (1085)
+                      +....+.++++.. ++...|+.+..--.|..-.-+.+|.+.     ...+|.|+|+.|+..-+...+.....+.+.+...
+T Consensus        13 ~~~~~l~vW~i~~-~~~~~v~~~~~g~F~s~d~YIvl~~~~~~~~~~~~iy~W~G~~as~~~~~~a~~~a~~l~~~~~~~   91 (126)
+T 2VIK_A           13 KTTPGIQIWRIEN-MEMVPVPTKSYGNFYEGDCYVLLSTRKTGSGFSYNIHYWLGKNSSQDEQGAAAIYTTQMDEYLGSV   91 (126)
+T ss_dssp             SSCCEEEEEECGG-GSCCEECTTTTTCCCSSSCEEEEEEEECSSSEEEEEEEEECTTSCHHHHHHHHHHHHHHHHHTTSC
+T ss_pred             CCCCcEEEEEEEC-CEEEECChhhcCeeecCCeEEEEEEeecCCceEEEEEEEcCCCCCHhHHHHHHHHHHHHHHHhCCC
+Confidence            4566788899865 677888877766555555555555543     3569999999999877766655555554443322
+
+
+Q LOKIASV2_17920  110 SILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       110 rILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      .+  ...+.-| .||+.|+.+.+
+T Consensus        92 ~~--~~rv~Qg-~Ep~~Fl~lF~  111 (126)
+T 2VIK_A           92 AV--QHREVQG-HESETFRAYFK  111 (126)
+T ss_dssp             SC--EEEEETT-TSHHHHHHHCS
+T ss_pred             CE--EEEEECC-CCCHHHHHHhC
+Confidence            21  2223334 89999998776
+
+
+No 7
+>5A1M_A ADSEVERIN; ACTIN-BINDING PROTEIN, ACTIN; 1.81A {HOMO SAPIENS}
+Probab=90.53  E-value=0.11  Score=44.98  Aligned_cols=60  Identities=15%  Similarity=0.277  Sum_probs=38.4  Template_Neff=10.100
+
+Q LOKIASV2_17920   69 IAIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERI--PDLSILRHFTIEGAKPETHEFLSLL  131 (1085)
+Q Consensus        69 LAIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~--PelrILRNITIEsgrsEP~EFf~~L  131 (1085)
+                      =.+|+...   ..+|+|+|+.++...+.....+-..+....  |...  .-..+.. +.||..|...+
+T Consensus        34 ~~~~il~~~~~~~i~vW~G~~~~~~~~~~~~~~a~~~~~~~~~~~~~--~v~~v~e-g~E~~~f~~~f   98 (104)
+T 5A1M_A           34 EECFILDHGAAKQIFVWKGKDANPQERKAAMKTAEEFLQQMNYSKNT--QIQVLPE-GGETPIFKQFF   98 (104)
+T ss_dssp             TSEEEEEEGGGTEEEEEECTTCCHHHHHHHHHHHHHHHHHTTCCTTC--EEEEEET-TCCCHHHHTTB
+T ss_pred             CCEEEEECCCCCeEEEEEcCCCCHHHHHHHHHHHHHHHHHCCCCCCC--eeEEEeC-CCCCHHHHHhc
+Confidence            34555554   589999999999988776666555555443  3221  1223343 38898888765
+
+
+No 8
+>5A1K_A ADSEVERIN; ACTIN-BINDING PROTEIN, ACTIN; 2.9A {HOMO SAPIENS}
+Probab=90.17  E-value=0.13  Score=53.75  Aligned_cols=93  Identities=8%  Similarity=0.108  Sum_probs=57.0  Template_Neff=10.000
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH-----YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSI  111 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k-----~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrI  111 (1085)
+                      .+.+.+|++.. +.+..|+.++.-..|+.-.-+.+|.++     ...||+|+|+.|+..-+..-..+-..+... +.-..
+T Consensus        11 ~~~l~vw~i~~-~~~~~~~~~~~g~f~~~d~yii~~~~~~~~~~~~~i~~W~G~~s~~~e~~~a~~~a~~l~~~-~~~~~   88 (344)
+T 5A1K_A           11 QAGLQVWRIEK-LELVPVPQSAHGDFYVGDAYLVLHTAKTSRGFTYRLHFWLGKECSQDESTAAAIFTVQMDDY-LGGKP   88 (344)
+T ss_dssp             SSEEEEEEECS-SCEEECCGGGTTEEETTCEEEEEEEEECSCEEE----EEECTTCCHHHHHHHHHHHHHHHHH-TTTCS
+T ss_pred             CCCeEEEEEeC-CEEEeCCHHHcCccccCcEEEEEEEeecCCCeEEEEEEEeccCCChhHHHHHHHHHHHHHHH-hCCCC
+Confidence            56788999974 677888777766666555555555543     247999999999987776555444444332 22211
+
+
+Q LOKIASV2_17920  112 LRHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus       112 LRNITIEsgrsEP~EFf~~L~I  133 (1085)
+                       ..+.++.| .||..|++.++-
+T Consensus        89 -~~~r~~qg-~E~~~F~~~f~~  108 (344)
+T 5A1K_A           89 -VQNRELQG-YESNDFVSYFKG  108 (344)
+T ss_dssp             -EEEEEETT-TCCHHHHTTCTT
+T ss_pred             -eEEEeeCC-CCCHHHHHHhCC
+Confidence             11223334 899999998874
+
+
+No 9
+>4CBU_G ACTIN-1, GELSOLIN; MOTOR PROTEIN, MALARIA, MOTILITY, PARASITE; HET: ATP; 1.3A {PLASMODIUM FALCIPARUM}
+Probab=90.06  E-value=0.13  Score=48.91  Aligned_cols=92  Identities=9%  Similarity=0.106  Sum_probs=56.6  Template_Neff=8.100
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.+|+++. ++...|+.++.--.|..-.-+..|.+.      ...+|.|+|+.|+..-+...+..-..+.+.+....
+T Consensus        16 ~~~l~vw~i~~-~~~~~v~~~~~g~F~~~~~Yiv~~~~~~~~~~~~~~i~~W~G~~a~~~~~~~a~~~~~~l~~~~~~~~   94 (127)
+T 4CBU_G           16 EPGLQIWRVEK-FDLVPVPPNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGRA   94 (127)
+T ss_dssp             SSEEEEEEEET-TEEEECCGGGTTEEETTCEEEEEEEEECTTSCEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTTCS
+T ss_pred             CCcEEEEEEeC-CEEEECCHHHcCeecCCCeEEEEEEEEccCCCeEEEEEEEccCCCCccHHHHHHHHHHHHHHHhCCCC
+Confidence            55677888865 467888776655444444444445442      35699999999997666655544444444332211
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                        ....+.-| .||+.|+++.+
+T Consensus        95 --~~~rv~Qg-~E~~~Fl~~F~  113 (127)
+T 4CBU_G           95 --VQHREVQG-FESSTFSGYFK  113 (127)
+T ss_dssp             --EEEEEETT-CCCHHHHTTCT
+T ss_pred             --eEEEEECC-CCCHHHHHhcC
+Confidence              22233334 89999998875
+
+
+No 10
+>1H1V_G ACTIN, GELSOLIN; ACTIN-BINDING, SEVERING, CAPPING, AMYLOID, MUSCLE; HET: ATP; 2.99A {ORYCTOLAGUS CUNICULUS} SCOP: d.109.1.1
+Probab=89.85  E-value=0.14  Score=53.10  Aligned_cols=94  Identities=12%  Similarity=0.171  Sum_probs=51.5  Template_Neff=10.000
+
+Q LOKIASV2_17920   36 TNSDFIAYKLLQDGTILHIESNQLSSHFININIIAI-YFK-----HYKHLYIWKGLHVPNELAIHIPKMEQQILERIPDL  109 (1085)
+Q Consensus        36 tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAI-YI~-----k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pel  109 (1085)
+                      .+..+.+|++..++.. .+..... ..|..-....+ |.+     ....+|+|+|++|+..-+..-..+-..+.+. +.-
+T Consensus         5 ~~~~~~l~ri~~~~~~-~~~~~~~-~~l~s~d~yil~~~~~~~~~~~~~iy~W~G~~s~~~er~~a~~~a~~l~~~-~~~   81 (331)
+T 1H1V_G            5 GTGQKQIWRIEGSNKV-PVDPATY-GQFYGGDSYIILYNYRHGGRQGQIIYNWQGAQSTQDEVAASAILTAQLDEE-LGG   81 (331)
+T ss_pred             CCceEEEEEEECCEEE-eCCHHHc-CceeCCCEEEEEEEEeeCCceeEEEEEEcCCCCcHHHHHHHHHHHHHHHHH-hCC
+Confidence            3556778888877653 3333222 22222222111 222     3568999999999987666444444444332 221
+
+
+Q LOKIASV2_17920  110 SILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus       110 rILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      +. ..+.+..| .||.+|++.++-.
+T Consensus        82 ~~-~~~~~~qg-~E~~~F~~~f~~~  104 (331)
+T 1H1V_G           82 TP-VQSRVVQG-KEPAHLMSLFGGK  104 (331)
+T ss_pred             CC-eEEEeeCC-CCCHHHHHhhCCC
+Confidence            11 11233434 7999999988753
+
+
+No 11
+>6KWZ_A Actin-binding protein fragmin P; fragmin, gelsolin family protein, calcium; 1.551A {Physarum polycephalum}
+Probab=89.82  E-value=0.14  Score=44.74  Aligned_cols=52  Identities=15%  Similarity=0.283  Sum_probs=34.5  Template_Neff=9.500
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERI--P-DLSILRHFTIEGAKPETHEFLSLL  131 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~--P-elrILRNITIEsgrsEP~EFf~~L  131 (1085)
+                      ...+|+|+|++++...+...-.+-..+.+..  | ...|   ..+..| .||..|...+
+T Consensus        43 ~~~i~vW~G~~~~~~~~~~~~~~a~~~~~~~~~~~~~~i---~~v~eg-~e~~~F~~~f   97 (98)
+T 6KWZ_A           43 GAEVFAWVGKHASVGEKKKALSFAQEYVQKAGLPIHTPV---ARILEG-GENEVFEDFF   97 (98)
+T ss_dssp             SSCEEEEECTTCCHHHHHHHHHHHHHHHHHHTCCTTCCE---EEEETT-SCCHHHHHHH
+T ss_pred             CCEEEEEEcCCCCHHHHHHHHHHHHHHHHHcCCCCCCCE---EEEECC-CCCHHHHHhc
+Confidence            5699999999999988766665555454432  2 2222   344444 8999998754
+
+
+No 12
+>6I4E_G Actin-1, Gelsolin; hydrolase, filamentous, glideosome, cytoskeleton, CONTRACTILE; HET: PEG, BME, ADP, BTB; 1.22A {Plasmodium falciparum}
+Probab=89.63  E-value=0.15  Score=48.47  Aligned_cols=91  Identities=9%  Similarity=0.086  Sum_probs=58.0  Template_Neff=8.100
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPD-L  109 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pe-l  109 (1085)
+                      ...+.++++.. ++...|+.+..-..|..-.-|.+|.+.      ...+|.|+|+.|+..-+...+..-..+.+.+.. -
+T Consensus        16 ~~~l~vw~i~~-~~~~~v~~~~~g~F~~~~~YIvl~~~~~~~~~~~~~i~~W~G~~a~~~~~~~aa~~a~~l~~~~~~~~   94 (127)
+T 6I4E_G           16 EPGLQIWRVEK-FDLVPVPPNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGRA   94 (127)
+T ss_pred             CCcEEEEEEEC-CEEEeCCHHHcCeeecCCeEEEEEEEecCCCCeEEEEEEEecCCcccchHHHHHHHHHHHHHHhCCCC
+Confidence            56678888864 577888777665555544445555442      356999999999987666655544444443322 2
+
+
+Q LOKIASV2_17920  110 SILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       110 rILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      ...   .+.- ..||+.|+++.+
+T Consensus        95 ~~~---rv~Q-g~Ep~~Fl~~F~  113 (127)
+T 6I4E_G           95 VQH---REVQ-GFESSTFSGYFK  113 (127)
+T ss_pred             eEE---EEeC-CCCCHHHHHhcC
+Confidence            222   2333 389999998875
+
+
+No 13
+>1EQY_S GELSOLIN/ALPHA ACTIN; gelsolin, actin, CONTRACTILE PROTEIN; HET: HIC, ATP; 2.3A {Oryctolagus cuniculus} SCOP: d.109.1.1
+Probab=89.50  E-value=0.16  Score=48.22  Aligned_cols=92  Identities=9%  Similarity=0.109  Sum_probs=57.6  Template_Neff=8.100
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.+++++. +++.+|+.+..-..|..-.-+.+|.+.      ...+|.|+|+.|+..-+...+.....+.+.+....
+T Consensus        14 ~~~l~vw~i~~-~~~~~v~~~~~g~F~~~~~Yiil~~~~~~~~~~~~~i~~W~G~~a~~~~~~~aa~~a~~l~~~~~~~~   92 (125)
+T 1EQY_S           14 EPGLQIWRVEK-FDLVPVPTCLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGRA   92 (125)
+T ss_dssp             SSEEEEEEECS-SSEEECCGGGTTEEETTSEEEEEEEEECTTSCEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTTCC
+T ss_pred             CCcEEEEEEeC-CEEEECCHHHcceeeCCCeEEEEEEEeccCCCeEEEEEEEccCCCChhHHHHHHHHHHHHHHHhCCCC
+Confidence            55578888875 577888766655555444444444442      34699999999997666655554444444332211
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                        +...+.-| .||+.|++..+
+T Consensus        93 --~~~r~~Qg-~E~~~Fl~~F~  111 (125)
+T 1EQY_S           93 --VQHREVQG-FESATFLGYFK  111 (125)
+T ss_dssp             --EEEEEETT-CCCHHHHHHCT
+T ss_pred             --eEEEEeCC-CCCHHHHHhcC
+Confidence              22333334 89999998875
+
+
+No 14
+>2LLF_A Villin-1; actin regulation, beta-core, modular protein; NMR {Gallus gallus}
+Probab=89.34  E-value=0.17  Score=43.89  Aligned_cols=57  Identities=12%  Similarity=0.186  Sum_probs=37.4  Template_Neff=10.200
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPD--LSILRHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pe--lrILRNITIEsgrsEP~EFf~~L~I  133 (1085)
+                      ...+|+|+|++++...+.....+-..+..+.+.  ..-..-..+..| .||..|+..++-
+T Consensus        37 ~~~v~vW~G~~~~~~~~~~~~~~a~~~~~~~~~~~~~~~~i~~v~~g-~e~~~F~~~f~~   95 (107)
+T 2LLF_A           37 WDQIFFWIGKGANESEKEAAAETAQEYLRSHPGSRDLDTPIIVVKQG-FEPPTFTGWFMA   95 (107)
+T ss_dssp             SSCEEEEECSSSCHHHHHHHHHHHHHHHTTSSCSSGGGSCCEEECTT-CCCHHHHTTSSS
+T ss_pred             CCEEEEEEcCCCCHHHHHHHHHHHHHHHHhCCCCCCCCCCEEEEECC-CCCHHHHHcccc
+Confidence            457999999999998877776666555444321  011223344544 899999988754
+
+
+No 15
+>2FH1_B Gelsolin; gelsolin, calcium, CONTRACTILE PROTEIN; 1.55A {Homo sapiens} SCOP: d.109.1.1
+Probab=88.94  E-value=0.19  Score=52.90  Aligned_cols=90  Identities=10%  Similarity=0.127  Sum_probs=54.4  Template_Neff=9.700
+
+Q LOKIASV2_17920   36 TNSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFK---------HYKHLYIWKGLHVPNELAIHIPKMEQQILERI  106 (1085)
+Q Consensus        36 tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~---------k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~  106 (1085)
+                      ....+.+|++..++.. .+...    ....++---.|+.         ....+|+|+|++|+..-+.....+-..+.+. 
+T Consensus         5 ~~~~~~i~ri~~~~~~-~~~~~----~~~~f~s~d~yil~~~~~~~~~~~~~iy~W~G~~s~~~er~~aa~~a~~l~~~-   78 (344)
+T 2FH1_B            5 GTGQKQIWRIEGSNKV-PVDPA----TYGQFYGGDSYIILYNYRHGGRQGQIIYNWQGAQSTQDEVAASAILTAQLDEE-   78 (344)
+T ss_dssp             SCSCEEEEEEETTEEE-ECCGG----GTTEEETTCEEEEEEECC----CCEEEEEEECTTCCHHHHHHHHHHHHHHHHH-
+T ss_pred             CCccEEEEEEECCeEE-eCCHH----HcCeeecCCEEEEEEEEeeCCceeEEEEEECCCCCCHHHHHHHHHHHHHHHHH-
+Confidence            4567788999887753 22221    2222222222332         4678999999999988777666666655442 
+
+
+Q LOKIASV2_17920  107 PDLSILRHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus       107 PelrILRNITIEsgrsEP~EFf~~L~I  133 (1085)
+                      +.-+. ..+.++.| .||..|++.++-
+T Consensus        79 ~~~~~-~~~~v~qg-~E~~~F~~~f~~  103 (344)
+T 2FH1_B           79 LGGTP-VQSRVVQG-KEPAHLMSLFGG  103 (344)
+T ss_dssp             TTTCC-EEEEEETT-CCCHHHHGGGTT
+T ss_pred             hCCCC-ceeEEeCC-CCCHHHHHHhCC
+Confidence            22211 12234444 899999999875
+
+
+No 16
+>3FG6_H Adseverin; C-terminus of adseverin, Actin capping; HET: CA; 3.0A {Homo sapiens}
+Probab=88.65  E-value=0.21  Score=53.88  Aligned_cols=94  Identities=14%  Similarity=0.279  Sum_probs=56.3  Template_Neff=9.200
+
+Q LOKIASV2_17920   35 DTNSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFK-HYKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILR  113 (1085)
+Q Consensus        35 ~tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~-k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILR  113 (1085)
+                      +.+..+.+|++...+ ...++.++....+.--.-|..|.+ ....+|+|+|++|+..-+..-...-..+.++.+...  .
+T Consensus        49 ~~~~~~~v~ri~~~~-~~~v~~~~~g~f~s~d~Yii~~~~~~~~~iy~W~G~~s~~~e~~~a~~~a~~l~~~~~~~~--~  125 (371)
+T 3FG6_H           49 DGSGKVEIWRVENNG-RIQVDQNSYGEFYGGDCYIILYTYPRGQIIYTWQGANATRDELTTSAFLTVQLDRSLGGQA--V  125 (371)
+T ss_dssp             ---CEEEEEEEETTE-EEECCGGGTTEECTTCEEEEEEEETTEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTSCC--E
+T ss_pred             CCCCeEEEEEEeCCe-EEEcCHHHeeEeeCCCEEEEEEEEcCCeEEEEEeccCCCHHHHHHHHHHHHHHHHHcCCCc--E
+Confidence            456678899998665 445554443333322222222222 256899999999999888777666666655544322  1
+
+
+Q LOKIASV2_17920  114 HFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       114 NITIEsgrsEP~EFf~~L~  132 (1085)
+                      .+.+..| .||..|+..++
+T Consensus       126 ~~rv~qg-~E~~~F~~~f~  143 (371)
+T 3FG6_H          126 QIRVSQG-KEPVHLLSLFK  143 (371)
+T ss_dssp             EEEEETT-CCCHHHHTTST
+T ss_pred             EEEEeCC-CCCHHHHHhcC
+Confidence            2223334 89999999886
+
+
+No 17
+>3FG7_A Villin-1; actin binding protein, Villin head; 2.0A {Homo sapiens}
+Probab=88.55  E-value=0.22  Score=54.82  Aligned_cols=93  Identities=12%  Similarity=0.225  Sum_probs=0.0  Template_Neff=8.800
+
+Q LOKIASV2_17920   35 DTNSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH-----YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDL  109 (1085)
+Q Consensus        35 ~tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k-----~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pel  109 (1085)
+                      +.+..+.||++.. +.+.+++.++.-..|.--..|..|.+.     .-.+|+|+|++|+..-+......-..+.+.++..
+T Consensus        59 ~~~~~l~vwri~~-~~~v~v~~~~~g~f~~~d~YIi~~~y~~~~~~~~~iy~W~G~~ss~~e~~~aa~~~~~l~~~~~~~  137 (398)
+T 3FG7_A           59 DGSGEVQVWRIEN-LELVPVDSKWLGHFYGGDCYLLLYTYLIGEKQHYLLYVWQGSQASQDEITASAYQAVILDQKYNGE  137 (398)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             CCCCcEEEEEEEC-CEEEECCHHHceEEeCCCEEEEEEEEEeCCceEEEEEEEeCCCCCHHHHHHHHHHHHHHHHHcCCC
+Confidence            5667899999976 566677665443333322222223221     3579999999999877766444334444445442
+
+
+Q LOKIASV2_17920  110 -SILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       110 -rILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                       .+.|   +..| .||..|++.++
+T Consensus       138 ~~~~r---v~qg-~E~~~F~~~F~  157 (398)
+T 3FG7_A          138 PVQIR---VPMG-KEPPHLMSIFK  157 (398)
+T ss_dssp             ------------------------
+T ss_pred             ceEEE---EeCC-CCCHHHHHHhc
+Confidence             3444   4444 89999999887
+
+
+No 18
+>3FG6_D Adseverin; C-terminus of adseverin, Actin capping; HET: CA; 3.0A {Homo sapiens}
+Probab=88.46  E-value=0.22  Score=53.71  Aligned_cols=94  Identities=14%  Similarity=0.279  Sum_probs=54.9  Template_Neff=9.200
+
+Q LOKIASV2_17920   35 DTNSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFK-HYKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILR  113 (1085)
+Q Consensus        35 ~tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~-k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILR  113 (1085)
+                      +.+..+.+|++...+ ...++.++....+.--.-|..|.+ ....+|+|+|++|+..-+..-...-..+.++.+...  .
+T Consensus        49 ~~~~~~~v~ri~~~~-~~~v~~~~~g~f~~~d~YIv~~~~~~~~~iy~W~G~~s~~~e~~~a~~~a~~l~~~~~~~~--~  125 (371)
+T 3FG6_D           49 DGSGKVEIWRVENNG-RIQVDQNSYGEFYGGDCYIILYTYPRGQIIYTWQGANATRDELTTSAFLTVQLDRSLGGQA--V  125 (371)
+T ss_dssp             ---CEEEEEEC--CC-CEECCGGGTTEECTTCEEEEEEECSSCEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTSCC--E
+T ss_pred             CCCCeEEEEEEeCCe-EEEcCHHHeeEeeCCCEEEEEEEEcCCeEEEEEeCcCCCHHHHHHHHHHHHHHHHHcCCCc--E
+Confidence            456678899998665 445554444333332222333322 246899999999998887776666666655554322  1
+
+
+Q LOKIASV2_17920  114 HFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       114 NITIEsgrsEP~EFf~~L~  132 (1085)
+                      .+.+..| .||..|+..++
+T Consensus       126 ~~rv~qg-~Ep~~F~~~f~  143 (371)
+T 3FG6_D          126 QIRVSQG-KEPVHLLSLFK  143 (371)
+T ss_dssp             EEEEETT-CCCHHHHHTSC
+T ss_pred             EEEEeCC-CCCHHHHHhcC
+Confidence            2223334 89999999886
+
+
+No 19
+>3TU5_B Actin, alpha skeletal muscle, Gelsolin; Unusual hairpin conformation in the; HET: ATP, MPD; 3.0A {Oryctolagus cuniculus}
+Probab=88.24  E-value=0.24  Score=54.93  Aligned_cols=94  Identities=10%  Similarity=0.121  Sum_probs=61.2  Template_Neff=6.500
+
+Q LOKIASV2_17920   36 TNSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKHY------KHLYIWKGLHVPNELAIHIPKMEQQILERIPDL  109 (1085)
+Q Consensus        36 tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k~------KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pel  109 (1085)
+                      ..-.+.+|++.. |+...|+.++..-.|..-.-+.+|.+..      -.+|+|+|++|+..-+......-..+.+.+-..
+T Consensus        31 ~t~~l~Vw~I~~-~~~~~V~~~~~giFys~e~YIIl~~y~~~sg~~~~~Vy~W~G~~as~~~~~~aa~~a~~L~~~~g~~  109 (297)
+T 3TU5_B           31 KEPGLQIWRVEK-FDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGR  109 (297)
+T ss_dssp             SSSEEEEEEEET-TEEEECCGGGTTEEETTCEEEEEEEEECTTSCEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTTC
+T ss_pred             CCCcEEEEEEEC-CEEEECChhhcceecCCCeEEEEEEEeccCCCeEEEEEEEcCCCCCccHHHHHHHHHHHHHHhhCCC
+Confidence            355678999976 7888888877766665555556666543      369999999999866665443333344433221
+
+
+Q LOKIASV2_17920  110 SILRHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus       110 rILRNITIEsgrsEP~EFf~~L~I  133 (1085)
+                      .  ..+.+.- ..||.+|+..++=
+T Consensus       110 ~--~lvrv~Q-G~Ep~~Fl~~FgG  130 (297)
+T 3TU5_B          110 A--VQHREVQ-GFESATFLGYFKS  130 (297)
+T ss_dssp             C--EEEEEET-TCCCHHHHTTCTT
+T ss_pred             c--eEEEEEC-CCCCHHHHHhcCC
+Confidence            1  2233443 4899999988763
+
+
+No 20
+>1J72_A Macrophage capping protein; actin, human, capping, cap g; 2.5A {Homo sapiens} SCOP: d.109.1.1
+Probab=87.81  E-value=0.27  Score=51.80  Aligned_cols=91  Identities=11%  Similarity=0.128  Sum_probs=53.4  Template_Neff=9.800
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIA-IYFK--HYKHLYIWKGLHVPNELAIHIPKMEQQILERIPDL-SIL  112 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILA-IYI~--k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pel-rIL  112 (1085)
+                      .+.+.||++.. +.+..++.+.. ..|..-.+.. ++-+  ....||+|+|+.|+...+..-..+-..+.+..... .+.
+T Consensus        18 ~~~~~vw~i~~-~~~~~~~~~~~-~~l~s~d~yiil~~~~~~~~~iy~W~G~~a~~~e~~~a~~~a~~l~~~~~~~~~~~   95 (347)
+T 1J72_A           18 DPGLHVWRVEK-LKPVPVAQENQ-GVFFSGDSYLVLHNGPEEVSHLHLWIGQQSSRDEQGACAVLAVQLDDYLGGRPVQH   95 (347)
+T ss_dssp             SSEEEEEEECS-SSEEECCTTTT-TEEETTSEEEEEEECSSSCEEEEEEECTTSCHHHHHHHHHHHHHHHHHTTTCSEEE
+T ss_pred             CCcEEEEEEec-CEEEeCCHHHc-CceeCCCEEEEEecCcccceEEEEEecCCCCHHHHHHHHHHHHHHHHHhCCCCeEE
+Confidence            45588999974 35555555432 2333333222 2222  23689999999999887765544444454332121 232
+
+
+Q LOKIASV2_17920  113 RHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus       113 RNITIEsgrsEP~EFf~~L~I  133 (1085)
+                      |   +..| .||..|+..++-
+T Consensus        96 ~---v~~g-~E~~~F~~~f~~  112 (347)
+T 1J72_A           96 R---EVQG-NESDLFMSYFPR  112 (347)
+T ss_dssp             E---EETT-SCCHHHHTTCSS
+T ss_pred             E---eeCC-CCCHHHHHhccC
+Confidence            2   4444 899999998874
+
+
+No 21
+>2FF6_G Gelsolin, CG4944-PC, isoform C, Actin; Protein-Protein complex, STRUCTURAL PROTEIN-CONTRACTILE PROTEIN; HET: ATP; 2.05A {Oryctolagus cuniculus} SCOP: d.109.1.1
+Probab=86.35  E-value=0.38  Score=48.07  Aligned_cols=92  Identities=10%  Similarity=0.121  Sum_probs=56.9  Template_Neff=7.200
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.+|++.. +++.+|+.++.-..|..-.-|..|.+.      .-.+|+|+|++|+..-+...+.....+.+.+... 
+T Consensus        36 ~~~l~vWrI~~-~~~~~v~~~~~G~Fys~d~YIVl~~y~~~~~~~~~~iy~W~G~~as~~~~~~aa~~a~~l~~~~~~~-  113 (150)
+T 2FF6_G           36 EPGLQIWRVEK-FDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGR-  113 (150)
+T ss_pred             CCcEEEEEEEC-CEEEeCCHHHcCeeeCCCeEEEEEEEeCCCCCeEEEEEEEccCCcccCHHHHHHHHHHHHHHHhCCC-
+Confidence            55688999964 577888876655555444444444443      3469999999999766665554444444333221 
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                       ...+.+.-+ .||+.|++..+
+T Consensus       114 -~~~~rv~Qg-~Ep~~Fl~lF~  133 (150)
+T 2FF6_G          114 -AVQHREVQG-FESATFLGYFK  133 (150)
+T ss_pred             -CeEEEEECC-CCCHHHHHhcC
+Confidence             122333334 89999998775
+
+
+No 22
+>6LJC_C Actin-binding protein fragmin P; fragmin, gelsolin family protein, calcium; HET: MES, GOL; 1.85A {Physarum polycephalum}
+Probab=85.77  E-value=0.43  Score=46.58  Aligned_cols=57  Identities=18%  Similarity=0.183  Sum_probs=35.1  Template_Neff=10.000
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHINP  135 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~Ink  135 (1085)
+                      ..++|+|+|+.++...+..--.+-..+..+....  ..-..++.| .||.+|++.++-..
+T Consensus        41 ~~~i~vW~G~~s~~~~~~~a~~~a~~l~~~~~~~--~~i~~v~eg-~e~~~F~~~~~~~~   97 (212)
+T 6LJC_C           41 GKTVIQWNGAKAGLLEKVKAAELLQAIEGEREGI--ASGRVVAEA-DNDTEFFTLLGDKG   97 (212)
+T ss_dssp             SSEEEEEECTTCCHHHHHHHHHHHHHHHHHHTTS--SEEEEEEGG-GCCHHHHHHHSCCC
+T ss_pred             CCEEEEEcccCCCHHHHHHHHHHHHHHhHhcCCc--CeEEEEecC-CCchHHHHHhcCCC
+Confidence            4799999999998776654444444443332111  111233444 89999999997543
+
+
+No 23
+>1JHW_A MACROPHAGE CAPPING PROTEIN; ACTIN, HUMAN, CAPPING, CAP G; 2.8A {Homo sapiens} SCOP: d.109.1.1
+Probab=85.47  E-value=0.46  Score=50.11  Aligned_cols=91  Identities=11%  Similarity=0.130  Sum_probs=51.9  Template_Neff=9.800
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIA-IYFK--HYKHLYIWKGLHVPNELAIHIPKMEQQILERIPD-LSIL  112 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILA-IYI~--k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pe-lrIL  112 (1085)
+                      .+.+.||++..+ ++-.++.+.. ..|..-.+.. ++.+  ....||+|+|+.++..-+.....+-..+...... -.+.
+T Consensus        18 ~~~l~vw~i~~~-~~~~~~~~~~-~~l~s~~~yivl~~~~~~~~~l~~W~G~~s~~~e~~~a~~~a~~l~~~~~~~~~~~   95 (347)
+T 1JHW_A           18 DPGLHVWRVEKL-KPVPVAQENQ-GVFFSGDSYLVLHNGPEEVSHLHLWIGQQSSRDEQGACAVLAVQLDDYLGGRPVQH   95 (347)
+T ss_dssp             SSEEEEEEECSS-SEEECCTTTT-TEEETTSEEEEEEECSSSCEEEEEEECTTSCTTHHHHHHHHHHHHHHHSTTCSEEE
+T ss_pred             CCCeEEEEEECC-EEEeCCHHHc-CceeCCCEEEEEecCcccceEEEEEecCCCCHHHHHHHHHHHHHHHHHcCCCCeEE
+Confidence            455888998753 4444554432 2233322222 2222  2468999999999987666555444444333211 1233
+
+
+Q LOKIASV2_17920  113 RHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus       113 RNITIEsgrsEP~EFf~~L~I  133 (1085)
+                      |   +..| .||..|+..++-
+T Consensus        96 ~---~~eg-~E~~~F~~~f~~  112 (347)
+T 1JHW_A           96 R---EVQG-NESDLFMSYFPR  112 (347)
+T ss_dssp             E---EETT-BCCTTTGGGCSS
+T ss_pred             E---eeCC-CCCHHHHHhccC
+Confidence            3   3334 899999998874
+
+
+No 24
+>1RGI_G Gelsolin/Actin, alpha skeletal muscle; Domain movement, CONTRACTILE PROTEIN; HET: ATP; 3.0A {Equus caballus} SCOP: d.109.1.1
+Probab=85.34  E-value=0.48  Score=49.71  Aligned_cols=93  Identities=10%  Similarity=0.112  Sum_probs=53.7  Template_Neff=10.000
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      .+.+.+|++.. +++..++.......+..-.-+..|.+.      ...+|+|+|++|+..-+..--.+-..+.... ..+
+T Consensus        13 ~~~~~vw~i~~-~~~~~v~~~~~~~f~~~d~yii~~~~~~~~~~~~~~i~~W~G~~s~~~er~~a~~~a~~l~~~~-~~~   90 (346)
+T 1RGI_G           13 EPGLQIWRVEK-FDLVPVPPNLYGDFFTGDAYVILKTVQLRNGILQYDLHYWLGNECSQDESGAAAIFTVQLDDYL-NGR   90 (346)
+T ss_pred             CCCeEEEEEeC-CEEEeCCHHHccceecCcEEEEEEEEeCCCCceEEEEEEEcCCCCCHHHHHHHHHHHHHHHHHh-CCC
+Confidence            55688999975 456677655544433333333333321      2369999999999876665444433343322 111
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~I  133 (1085)
+                       .....++.| .||.+|++.++-
+T Consensus        91 -~~~~~~~eg-~E~~~F~~~f~~  111 (346)
+T 1RGI_G           91 -AVQHREVQG-FESATFLGYFKS  111 (346)
+T ss_pred             -ceEEEeeCC-CCCHHHHHHhcC
+Confidence             122334444 799999999874
+
+
+No 25
+>2FF3_A Gelsolin, Neural Wiskott-Aldrich syndrome protein; Protein-Protein complex, STRUCTURAL PROTEIN-CONTRACTILE PROTEIN; HET: ATP; 2.0A {Oryctolagus cuniculus} SCOP: d.109.1.1
+Probab=84.88  E-value=0.52  Score=47.27  Aligned_cols=92  Identities=10%  Similarity=0.121  Sum_probs=56.6  Template_Neff=7.100
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.+|++.. +++.+|+.++.-..|..-.-|.+|.+.      .-.+|+|+|++|+..-+...+.....+.+.+... 
+T Consensus        36 ~~~l~vW~I~~-~~~~~v~~~~~G~Fys~d~YIVl~~y~~~~~~~~~~iy~W~G~~as~~~~~~aa~~a~~l~~~~~~~-  113 (150)
+T 2FF3_A           36 EPGLQIWRVEK-FDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGR-  113 (150)
+T ss_dssp             SSEEEEEEEET-TEEEECCGGGTTEEETTSEEEEEEEEECTTSSEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTTC-
+T ss_pred             CCcEEEEEEEC-CEEEECChhhcceecCCCeEEEEEEEEcCCCCEEEEEEEEcCCCcccChHHHHHHHHHHHHHHhCCC-
+Confidence            55678899865 567888877665555544445555443      3469999999998765555444333343322211 
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                       ...+.+.-+ .||+.|+++.+
+T Consensus       114 -~~~vrv~Qg-~Ep~~Fl~lF~  133 (150)
+T 2FF3_A          114 -AVQHREVQG-FESATFLGYFK  133 (150)
+T ss_dssp             -CEEEEEETT-CCCHHHHHTCT
+T ss_pred             -CeEEEEECC-CCCHHHHHhcC
+Confidence             123333334 89999998775
+
+
+No 26
+>1T44_G Gelsolin, Actin, alpha; STRUCTURAL PROTEIN; HET: ATP; 2.0A {Oryctolagus cuniculus} SCOP: d.109.1.1
+Probab=84.03  E-value=0.61  Score=46.47  Aligned_cols=92  Identities=10%  Similarity=0.127  Sum_probs=56.8  Template_Neff=7.300
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKHY------KHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k~------KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.++++.. ++..+|+.++.-..|..-.-|.+|.+..      -.+|+|+|+.|+..-+.........+...+-.  
+T Consensus        14 ~~~l~VWrI~~-~~~~~vp~~~~G~F~s~d~YIVl~~y~~~~~~~~~~iy~W~G~~as~~~~~~aa~~a~~l~~~~~~--   90 (147)
+T 1T44_G           14 EPGLQIWRVEK-FDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNG--   90 (147)
+T ss_dssp             SSEEEEEEEET-TEEEECCGGGTTEEETTCEEEEEEEEECTTSCEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTT--
+T ss_pred             CCcEEEEEEEC-CEEEECChhhcceecCCCeEEEEEEEeccCCCeEEEEEEEcCCCcccChhHHHHHHHHHHHHHhCC--
+Confidence            55678888865 5678888777665555555555555432      36999999999876655544443333332211  
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      ....+.+.-| .||+.|+++.+
+T Consensus        91 ~~~~~rv~Qg-~Ep~~Fl~lF~  111 (147)
+T 1T44_G           91 RAVQHREVQG-FESATFLGYFK  111 (147)
+T ss_dssp             CCEEEEEETT-CCCHHHHTTCT
+T ss_pred             CCeEEEEECC-CCCHHHHHhcC
+Confidence            1122333334 89999999876
+
+
+No 27
+>1D0N_A HORSE PLASMA GELSOLIN; MIXED ALPHA-BETA STRUCTURE, ACTIN-BINDING PROTEIN; 2.5A {Equus caballus} SCOP: d.109.1.1
+Probab=83.71  E-value=0.65  Score=54.40  Aligned_cols=91  Identities=12%  Similarity=0.232  Sum_probs=54.4  Template_Neff=9.500
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAI-YFK-----HYKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAI-YI~-----k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      +..+.+|++..+|.. +++... ...|..-....| |.+     ..-.+|+|+|+.|+..-+.....+...+.+..+...
+T Consensus       391 ~~~~~v~~i~~~~~~-~v~~~~-~~~~~s~d~yvv~~~~~~~~~~~~~vy~W~G~~as~~e~~~a~~~~~~l~~~~~~~~  468 (729)
+T 1D0N_A          391 TGQKQIWRVEGSNKV-PVDPAT-YGQFYGGDSYIILYNYRHGSRQGQIIYNWQGAQSTQDEVAASAILTAQLDEELGGTP  468 (729)
+T ss_dssp             CSCEEEEEEETTEEE-ECCGGG-TTEEETTSEEEEEEEEEETTEEEEEEEEEECTTSCHHHHHHHHHHHHHHHHTTTSCS
+T ss_pred             CCcEEEEEEECCeEE-ECCHHH-cCeecCCcEEEEEEEEecCCcceEEEEEEcCCCCCHHHHHHHHHHHHHHHHHhCCCC
+Confidence            456778888876653 333222 223333222222 211     357899999999998776665555555655444322
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      +  .+.+..| .||..|+..++
+T Consensus       469 ~--~~~v~qg-~Ep~~F~~~f~  487 (729)
+T 1D0N_A          469 V--QSRVVQG-KEPAHLMSLFG  487 (729)
+T ss_dssp             E--EEEEETT-CCCHHHHTTST
+T ss_pred             e--EEEEECC-CCCHHHHHhhC
+Confidence            2  3445554 89999999985
+
+
+No 28
+>6LJC_C Actin-binding protein fragmin P; fragmin, gelsolin family protein, calcium; HET: MES, GOL; 1.85A {Physarum polycephalum}
+Probab=81.45  E-value=0.93  Score=44.39  Aligned_cols=53  Identities=13%  Similarity=0.139  Sum_probs=33.5  Template_Neff=10.000
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIP--DLSILRHFTIEGAKPETHEFLSLL  131 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~P--elrILRNITIEsgrsEP~EFf~~L  131 (1085)
+                      ...+|+|+|++++...+..-=.+-..+....|  ....  -..+.. +.||..|....
+T Consensus       157 ~~~iyvW~G~~~~~~~r~~a~~~a~~~~~~~~~~~~~~--i~~v~e-g~E~~~F~~~F  211 (212)
+T 6LJC_C          157 GAEVFAWVGKHASVGEKKKALSFAQEYVQKAGLPIHTP--VARILE-GGENEVFEDFF  211 (212)
+T ss_dssp             SSCEEEEECTTCCHHHHHHHHHHHHHHHHHTTCCTTCC--EEEEET-TSCCHHHHHTT
+T ss_pred             CCeEEEEEcCCCCHHHHHHHHHHHHHHHHHcCCCCCCc--eEEEeC-CCCCHHHHHhc
+Confidence            46899999999999887655555545554432  2111  122333 48999998754
+
+
+No 29
+>3FG6_H Adseverin; C-terminus of adseverin, Actin capping; HET: CA; 3.0A {Homo sapiens}
+Probab=81.12  E-value=0.98  Score=49.05  Aligned_cols=56  Identities=18%  Similarity=0.253  Sum_probs=37.8  Template_Neff=9.200
+
+Q LOKIASV2_17920   70 AIYFKH--YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        70 AIYI~k--~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      .+|+..  ...+|+|+|+.++...+...-.+-..+..        .-..|+.| .||.+|+..+|-.
+T Consensus       195 d~fil~~~~~~iyvW~G~~s~~~er~~a~~~a~~l~~--------~~~~v~eG-~E~~~Fw~~lg~~  252 (371)
+T 3FG6_H          195 DVFVLKLPQNSGYIWVGKGASQEEEKGAEYVASVLKC--------KTLRIQEG-EEPEEFWNSLGGK  252 (371)
+T ss_dssp             SEEEEECTTSEEEEEECTTCCHHHHHHHHHHHHHTTC--------EEEEEETT-CCCHHHHHHTTSC
+T ss_pred             CEEEEEcCCCeEEEEECCCCCHHHHHHHHHHHHHcCC--------cEEEeeCC-CCCHHHHHHhCCC
+Confidence            344444  36999999999999888665555444321        12345545 8999999988754
+
+
+No 30
+>1J72_A Macrophage capping protein; actin, human, capping, cap g; 2.5A {Homo sapiens} SCOP: d.109.1.1
+Probab=80.36  E-value=1.1  Score=47.48  Aligned_cols=60  Identities=15%  Similarity=0.285  Sum_probs=37.2  Template_Neff=9.800
+
+Q LOKIASV2_17920   70 AIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTI-EGAKPETHEFLSLL  131 (1085)
+Q Consensus        70 AIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITI-EsgrsEP~EFf~~L  131 (1085)
+                      .+|+...   ..+|+|+|+.|+..-+...-.+-..+....+... -..+++ ..| .||.+|+...
+T Consensus       280 ~~~Ild~~~~~~iyvW~G~~a~~~~~~~a~~~a~~~~~~~~~~~-~~~v~~v~eG-~Ep~~F~~~F  343 (347)
+T 1J72_A          280 DCFVLDNGLCGKIYIWKGRKANEKERQAALQVAEGFISRMQYAP-NTQVEILPQG-RESPIFKQFF  343 (347)
+T ss_dssp             SEEEEECGGGSEEEEEECTTCCHHHHHHHHHHHHHHHHHHTCCT-TCEEEEEETT-CCCTTTCCBS
+T ss_pred             CEEEEECCCCCeEEEEecCCCCHHHHHHHHHHHHHHHHhcCCCC-CCcEEEEeCC-CCCHHHHHhc
+Confidence            4555543   5899999999998777665555555554432100 112222 334 8999999875
+
+
+No 31
+>4PKG_G ATP-Actin, Human Gelsolin Segment 1; Tmod, Actin Filament, Pointed-End Capping; HET: HIC, ATP; 1.8A {Oryctolagus cuniculus}
+Probab=80.23  E-value=1.1  Score=45.57  Aligned_cols=93  Identities=10%  Similarity=0.147  Sum_probs=55.3  Template_Neff=8.000
+
+Q LOKIASV2_17920   36 TNSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDL  109 (1085)
+Q Consensus        36 tsSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pel  109 (1085)
+                      ....+.+|++.. ++...++.++.--.|..-.-+.+|.++      .-.+|.|.|++|+..-+..-+..-..+.+.+.+.
+T Consensus        13 ~~~~~~vw~I~~-~~~~~v~~~~~g~F~~~~~Yii~~~~~~~~~~~~~~v~~W~G~~a~~~~~~~aa~~~~~l~~~~~~~   91 (186)
+T 4PKG_G           13 KEPGLQIWRVEK-FDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGR   91 (186)
+T ss_dssp             SSSEEEEEEEET-TEEEECCGGGTTEEETTSEEEEEEEEECTTSCEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTTC
+T ss_pred             CCCcEEEEEEEC-CEEEECChhhcceecCCCeEEEEEEEEccCCCeEEEEEEEccCCcccchhHHHHHHHHHHHHHhCCC
+Confidence            345578888874 677888776654444443344444433      3469999999998766655443333344433221
+
+
+Q LOKIASV2_17920  110 SILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       110 rILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      ..  .+.+.-| .||+.|+..++
+T Consensus        92 ~~--~~rv~Qg-~Ep~~Fl~~F~  111 (186)
+T 4PKG_G           92 AV--QHREVQG-FESATFLGYFK  111 (186)
+T ss_dssp             EE--EEEEETT-CCCHHHHHTCT
+T ss_pred             ce--EEEEECC-CCCHHHHHhcC
+Confidence            11  1223333 89999999886
+
+
+No 32
+>3FG6_D Adseverin; C-terminus of adseverin, Actin capping; HET: CA; 3.0A {Homo sapiens}
+Probab=80.21  E-value=1.1  Score=48.65  Aligned_cols=56  Identities=18%  Similarity=0.253  Sum_probs=37.9  Template_Neff=9.200
+
+Q LOKIASV2_17920   70 AIYFKH--YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        70 AIYI~k--~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      .+|+..  ...+|+|+|+.++...+...-.+-..+..        .-..|+.| .||.+|+..+|-.
+T Consensus       195 ~~fil~~~~~~iyvW~G~~s~~~er~~a~~~a~~l~~--------~~~~v~eG-~E~~~Fw~~lg~~  252 (371)
+T 3FG6_D          195 DVFVLKLPQNSGYIWVGKGASQEEEKGAEYVASVLKC--------KTLRIQEG-EEPEEFWNSLGGK  252 (371)
+T ss_dssp             SEEEEEETTTEEEEEECTTCCHHHHHHHHHHHHHTTC--------EEEEEETT-CCCHHHHHHTTSC
+T ss_pred             CEEEEEcCCCeEEEEECCCCCHHHHHHHHHHHHHccC--------eEEEEeCC-CCCHHHHHHhCCC
+Confidence            344444  36999999999999887665555444321        12345555 8999999988754
+
+
+No 33
+>6JEG_B Gelsolin; gelsolin, amyloidosis, calcium activation, Actin; HET: GOL; 2.975A {Homo sapiens}
+Probab=79.89  E-value=1.2  Score=52.44  Aligned_cols=91  Identities=11%  Similarity=0.225  Sum_probs=52.0  Template_Neff=9.500
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIA-IYFK-----HYKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILA-IYI~-----k~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.+|++..++ ..+++.... ..|..-.... .|.+     ..-.+|+|+|+.|+..-+..-..+-..+.+.+....
+T Consensus       391 ~~~~~v~~i~~~~-~~~v~~~~~-~~f~s~d~yiv~~~~~~~~~~~~~vy~W~G~~a~~~~~~~a~~~~~~l~~~~~~~~  468 (729)
+T 6JEG_B          391 TGQKQIWRIEGSN-KVPVDPATY-GQFYGGDSYIILYNYRHGGRQGQIIYNWQGAQSTQDEVAASAILTAQLDEELGGTP  468 (729)
+T ss_dssp             CSCEEEEEEETTE-EEECCGGGT-TEEETTCEEEEEEEECCTTSCEEEEEEEECTTSCHHHHHHHHHHHHHHHHHTTTCS
+T ss_pred             CCcEEEEEEECCE-EEECCHHHc-ceecCCcEEEEEEEEeeCCccceeEEEECCCCCcHHHHHHHHHHHHHHHHHhCCCC
+Confidence            4567788886544 444443332 3333322222 2222     245799999999998766555444445544433222
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      +  .+.+..| .||..|+..++
+T Consensus       469 ~--~~~v~qg-~Ep~~F~~~f~  487 (729)
+T 6JEG_B          469 V--QSRVVQG-KEPAHLMSLFG  487 (729)
+T ss_dssp             E--EEEEETT-CCCHHHHTTST
+T ss_pred             e--EEEEECC-CCCHHHHHHhC
+Confidence            2  2445544 89999999885
+
+
+No 34
+>5A1K_A ADSEVERIN; ACTIN-BINDING PROTEIN, ACTIN; 2.9A {HOMO SAPIENS}
+Probab=79.28  E-value=1.3  Score=46.71  Aligned_cols=59  Identities=15%  Similarity=0.338  Sum_probs=34.5  Template_Neff=10.000
+
+Q LOKIASV2_17920   70 AIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERI--PDLSILRHFTIEGAKPETHEFLSLL  131 (1085)
+Q Consensus        70 AIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~--PelrILRNITIEsgrsEP~EFf~~L  131 (1085)
+                      .+|+...   ..+|+|+|+.|+..-+..--.+-..+....  |....++  .|..| .||..|....
+T Consensus       276 ~v~ild~~~~~~vyvW~G~~a~~~~r~~a~~~a~~~~~~~~~~~~~~i~--~v~eG-~Ep~~F~~~F  339 (344)
+T 5A1K_A          276 ECFILDHGAAKQIFVWKGKDANPQERKAAMKTAEEFLQQMNYSKNTQIQ--VLPEG-GETPIFKQFF  339 (344)
+T ss_dssp             SEEEEEEGGGTEEEEEECTTSCHHHHHTHHHHHHHHHTT------CEEE--EEETT-CCCHHHHTTB
+T ss_pred             CEEEEECCCccEEEEEecCCCCHHHHHHHHHHHHHHHHHcCCCCCCCEE--EEeCC-CCCHHHHHcC
+Confidence            4455543   479999999999887766544444443332  2222222  12334 8999998765
+
+
+No 35
+>1RGI_G Gelsolin/Actin, alpha skeletal muscle; Domain movement, CONTRACTILE PROTEIN; HET: ATP; 3.0A {Equus caballus} SCOP: d.109.1.1
+Probab=78.84  E-value=1.3  Score=46.58  Aligned_cols=62  Identities=13%  Similarity=0.209  Sum_probs=34.7  Template_Neff=10.000
+
+Q LOKIASV2_17920   70 AIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus        70 AIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      .+|+...   ..+|+|+|+.|+..-+..--.+-..+.+..+.-.-.+-..|..| .||.+|.....
+T Consensus       278 ~~yild~~~~~~vyvW~G~~a~~~~~~~a~~~a~~~~~~~~~~~~~~v~~v~eg-~Ep~~F~~~F~  342 (346)
+T 1RGI_G          278 DCFILDHGKDGKIFVWKGKQANMEERKAALKTASDFISKMDYPKQTQVSVLPEG-GETPLFRQFFK  342 (346)
+T ss_pred             CEEEEECCCCCEEEEEEcCCCCHHHHHHHHHHHHHHHHHcCCCCCCCEEEEeCC-CCCHHHHHhCC
+Confidence            4555543   37999999999886655444432222222221111122233334 89999988753
+
+
+No 36
+>1JHW_A MACROPHAGE CAPPING PROTEIN; ACTIN, HUMAN, CAPPING, CAP G; 2.8A {Homo sapiens} SCOP: d.109.1.1
+Probab=78.58  E-value=1.4  Score=46.77  Aligned_cols=60  Identities=15%  Similarity=0.285  Sum_probs=37.5  Template_Neff=9.800
+
+Q LOKIASV2_17920   70 AIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTI-EGAKPETHEFLSLL  131 (1085)
+Q Consensus        70 AIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITI-EsgrsEP~EFf~~L  131 (1085)
+                      .+|+...   ..+|+|+|+.|+..=+.....+-..+....|... -..+++ -.| .||.+|....
+T Consensus       280 ~~~ild~~~~~~iyvW~G~~a~~~~~~~a~~~a~~~~~~~~~~~-~~~i~~v~eg-~Ep~~F~~~F  343 (347)
+T 1JHW_A          280 DCFVLDNGLCGKIYIWKGRKANEKERQAALQVAEGFISRMQYAP-NTQVEILPQG-RESPIFKQFF  343 (347)
+T ss_dssp             SEEEEECGGGSBCEEEECTTCCHHHHHHHHHHHHHHHHHTTCCT-TCBCCEEESS-CCCTTTCCBS
+T ss_pred             CEEEEECCCCCeEEEEecCCCCHHHHHHHHHHHHHHHHhcCCCC-CCcEEEEeCC-CCCHHHHHHc
+Confidence            4555543   5799999999998766655555555555442111 123333 223 8999998865
+
+
+No 37
+>1D0N_A HORSE PLASMA GELSOLIN; MIXED ALPHA-BETA STRUCTURE, ACTIN-BINDING PROTEIN; 2.5A {Equus caballus} SCOP: d.109.1.1
+Probab=77.67  E-value=1.5  Score=51.51  Aligned_cols=92  Identities=10%  Similarity=0.114  Sum_probs=58.1  Template_Neff=9.500
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.+|++. ++++..|+.++.-..|+.-.-|..|.+.      ...+|+|+|+.|+..-+......-..+.+..... 
+T Consensus        12 ~~~~~vwri~-~~~~~~v~~~~~g~F~~~d~Yiil~~~~~~~~~~~~~i~~W~G~~ss~~e~~~a~~~a~~l~~~~~~~-   89 (729)
+T 1D0N_A           12 EPGLQIWRVE-KFDLVPVPPNLYGDFFTGDAYVILKTVQLRNGILQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGR-   89 (729)
+T ss_dssp             SSEEEEEEEC-SSSEEECCGGGTTEEETTCEEEEEEEEECTTSCEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTSC-
+T ss_pred             CCCeEEEEEe-CCeeEeCCHHHcCeecCCceEEEEEEEEcCCCeEEEEEEEEecCCCCccHHhHHHHHHHHHHHHhCCC-
+Confidence            5568899997 4677888777766555554444444432      2369999999999876665444444444433221 
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                       ...+.+..| .||.+|+..++
+T Consensus        90 -~~~~r~~qg-~E~~~F~~~f~  109 (729)
+T 1D0N_A           90 -AVQHREVQG-FESATFLGYFK  109 (729)
+T ss_dssp             -CEEEEEETT-CCCHHHHHTCS
+T ss_pred             -ceEEEEeCC-CCCHHHHHHhh
+Confidence             122223434 89999999886
+
+
+No 38
+>1J72_A Macrophage capping protein; actin, human, capping, cap g; 2.5A {Homo sapiens} SCOP: d.109.1.1
+Probab=76.18  E-value=1.8  Score=45.91  Aligned_cols=56  Identities=11%  Similarity=0.149  Sum_probs=37.3  Template_Neff=9.800
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILE-RIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIse-E~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|+|++++..-+...-.+-..+.. ..|...-+.  .+..| .||.+|+..++-.
+T Consensus       170 ~~~i~vW~G~~s~~~~~~~a~~~a~~l~~~~~~~~~~~~--~v~eg-~E~~~F~~~f~~~  226 (347)
+T 1J72_A          170 GQNIFAWCGGKSNILERNKARDLALAIRDSERQGKAQVE--IVTDG-EEPAEMIQVLGPK  226 (347)
+T ss_dssp             TTEEEEEECTTCCHHHHHHHHHHHHHHHTTSCCSSCEEE--EEETT-CCCHHHHHHHCSC
+T ss_pred             CCEEEEEECCCCCHHHHHHHHHHHHHHHHhccCCCCeEE--EEeCC-CChHHHHHHHCCC
+Confidence            56899999999999888776666665544 233322221  23334 7999999877543
+
+
+No 39
+>5A1K_A ADSEVERIN; ACTIN-BINDING PROTEIN, ACTIN; 2.9A {HOMO SAPIENS}
+Probab=75.51  E-value=1.9  Score=45.37  Aligned_cols=56  Identities=16%  Similarity=0.215  Sum_probs=34.6  Template_Neff=10.000
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILER-IPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE-~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|+|++|+..-+..--.+-..+... .+...  +-..++.| .||.+|+..++-.
+T Consensus       166 ~~~v~vW~G~~s~~~er~~a~~~a~~l~~~~~~~~~--~i~~v~eg-~E~~~F~~~~~~~  222 (344)
+T 5A1K_A          166 GTEIYQWCGSSCNKYERLKANQVATGIRYNERKGRS--ELIVVEEG-SEPSELIKVLGEK  222 (344)
+T ss_dssp             SSEEEEEEC--TTCCHHHHHHHHHHHHHHHHHTTCS--EEEEEETT-CCCHHHHHHSCSC
+T ss_pred             CCEEEEEECCCCCHHHHHHHHHHHHHHHhccccCCc--EEEEEeCC-CCCHHHHHHhCCC
+Confidence            468999999999988877666666555432 11111  11234444 8999999888644
+
+
+No 40
+>1RGI_G Gelsolin/Actin, alpha skeletal muscle; Domain movement, CONTRACTILE PROTEIN; HET: ATP; 3.0A {Equus caballus} SCOP: d.109.1.1
+Probab=74.80  E-value=2.1  Score=45.18  Aligned_cols=57  Identities=16%  Similarity=0.277  Sum_probs=38.1  Template_Neff=10.000
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILE-RIPDLSILRHFTIEGAKPETHEFLSLLHINP  135 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIse-E~PelrILRNITIEsgrsEP~EFf~~L~Ink  135 (1085)
+                      ...+|+|+|+.|+..-+...-.+-..+.. ..|...-++  .++.| .||.+|+..++-..
+T Consensus       169 ~~~i~vW~G~~s~~~er~~a~~~a~~l~~~~~~~~~~v~--~v~eG-~E~~~F~~~f~~~~  226 (346)
+T 1RGI_G          169 GNNIYQWCGSKSNRFERLKATQVSKGIRDNERSGRAQVS--VFEEG-AEPEAMLQVLGPKP  226 (346)
+T ss_pred             CCEEEEEECCCCCHHHHHHHHHHHHHHhhccCCCCCeEE--EEeCC-CCCHHHHHHhCCCC
+Confidence            46899999999999888766665555543 345433222  23334 79999998876543
+
+
+No 41
+>4PKI_G ATP-Actin, Human Gelsolin Segment 1; Tmod, Actin Filament, Pointed-End Capping; HET: HIC, ATP; 2.3A {Oryctolagus cuniculus}
+Probab=73.83  E-value=2.3  Score=43.64  Aligned_cols=92  Identities=10%  Similarity=0.126  Sum_probs=55.5  Template_Neff=10.600
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLS  110 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~Pelr  110 (1085)
+                      ...+.+|++. ++++..++.+..-..|..-.-+..|.+.      ...+|+|+|..|++.=+..-...-..+...... .
+T Consensus        14 ~~~~~~w~i~-~~~~~~~~~~~~~~f~~~~~yiv~~~~~~~~~~~~~~~~~W~G~~~~~~~~~~~~~~~~~l~~~~~~-~   91 (324)
+T 4PKI_G           14 EPGLQIWRVE-KFDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNG-R   91 (324)
+T ss_pred             CCcEEEEEEe-CCeeeeCCHHHcceeecCCEEEEEEEEEeeCCceEEEEEEEeCCCCCHHHHHHHHHHHHHHHHHhCC-C
+Confidence            4456778875 5677888877666666655555555543      367999999999987555544333333321111 1
+
+
+Q LOKIASV2_17920  111 ILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       111 ILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      . .++.+..+ .||..|+...+
+T Consensus        92 ~-~~~r~~qg-~E~~~fl~~f~  111 (324)
+T 4PKI_G           92 A-VQHREVQG-FESATFLGYFK  111 (324)
+T ss_pred             C-eEEEEeCC-CCCHHHHHHcC
+Confidence            1 12333333 89999988764
+
+
+No 42
+>3FG7_A Villin-1; actin binding protein, Villin head; 2.0A {Homo sapiens}
+Probab=72.69  E-value=2.6  Score=46.89  Aligned_cols=51  Identities=16%  Similarity=0.202  Sum_probs=0.0  Template_Neff=8.800
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|+|+.++..-+..--.+-..+... |   +  .+..| | .||.+|+..+|-.
+T Consensus       215 ~~~iyvW~G~~s~~~er~~A~~~a~~l~~~-~---~--~~v~e-G-~Ep~~F~~~~g~~  265 (398)
+T 3FG7_A          215 QSCCYLWCGKGCSGDEREMAKMVADTISRT-E---K--QVVVE-G-QEPANFWMALGGK  265 (398)
+T ss_dssp             -----------------------------------------------------------
+T ss_pred             CCeEEEEECCCCCHHHHHHHHHHHHHhccC-C---c--eEEeC-C-CCCHHHHHHhCCC
+Confidence            569999999999988877665555555421 1   1  22334 4 8999999988753
+
+
+No 43
+>2FH1_B Gelsolin; gelsolin, calcium, CONTRACTILE PROTEIN; 1.55A {Homo sapiens} SCOP: d.109.1.1
+Probab=71.55  E-value=2.9  Score=44.58  Aligned_cols=52  Identities=13%  Similarity=0.295  Sum_probs=32.7  Template_Neff=9.700
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERI----PDLSILRHFT-IEGAKPETHEFLSLL  131 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~----PelrILRNIT-IEsgrsEP~EFf~~L  131 (1085)
+                      ...+|+|+|+.++...+...=.+-..+....    |...   .++ +.. ..||.+|....
+T Consensus       266 ~~~iyvW~G~~~~~~~r~~a~~~a~~~~~~~~~~~~~~~---~i~~v~e-g~Ep~~F~~~F  322 (344)
+T 2FH1_B          266 WDQVFVWVGKDSQEEEKTEALTSAKRYIETDPANRDRRT---PITVVKQ-GFEPPSFVGWF  322 (344)
+T ss_dssp             SSCEEEEECTTCCHHHHHHHHHHHHHHHHSSTTTSCTTC---CEEEEET-TCCCHHHHTTS
+T ss_pred             CCeEEEEEcCCCCHHHHHHHHHHHHHHHHhCCCCCCCCC---CeEEEeC-CCCCHHHHHcc
+Confidence            4589999999999887664444444333322    3221   222 333 38999999887
+
+
+No 44
+>3FG7_A Villin-1; actin binding protein, Villin head; 2.0A {Homo sapiens}
+Probab=71.46  E-value=2.9  Score=46.53  Aligned_cols=56  Identities=16%  Similarity=0.278  Sum_probs=36.7  Template_Neff=8.800
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSI--LRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrI--LRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      ...+|+|+|+.|+..-+...-.+-..+....|.-+-  ..-+.|..| .||.+|.....
+T Consensus       319 ~~~vyvW~G~~as~~er~~a~~~A~~y~~~~~~~r~~~~~v~~v~eG-~Ep~~F~~~F~  376 (398)
+T 3FG7_A          319 WDQVFFWIGKHANEEEKKAAATTAQEYLKTHPSGRDPETPIIVVKQG-HEPPTFTGWFL  376 (398)
+T ss_dssp             SSCEEEEECTTCCHHHHHHHHHHHHHHHHHSSSSCCTTCCEEEEETT-CCCHHHHTTSS
+T ss_pred             CCEEEEEEcCCCCHHHHHHHHHHHHHHHHHCCCCCCCCCCEEEEeCC-CCCHHHHHhcc
+Confidence            357999999999988777666666655555432211  122233434 89999998763
+
+
+No 45
+>1JHW_A MACROPHAGE CAPPING PROTEIN; ACTIN, HUMAN, CAPPING, CAP G; 2.8A {Homo sapiens} SCOP: d.109.1.1
+Probab=71.22  E-value=3  Score=44.41  Aligned_cols=56  Identities=11%  Similarity=0.149  Sum_probs=36.4  Template_Neff=9.800
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILE-RIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIse-E~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|+|+.++..-+...-.+-..+.. ..|...-+.  .|..| .||.+|+..++-.
+T Consensus       170 ~~~v~vW~G~~s~~~~~~~a~~~a~~l~~~~~~~~~~i~--~v~eg-~E~~~F~~~f~~~  226 (347)
+T 1JHW_A          170 GQNIFAWCGGKSNILERNKARDLALAIRDSERQGKAQVE--IVTDG-EEPAEMIQVLGPK  226 (347)
+T ss_dssp             SSEEEEEECTTSCHHHHHHHHHHHHHHHHTTTTTCSEEE--EEETT-CCCHHHHHHHCSC
+T ss_pred             CCEEEEEECCCCCHHHHHHHHHHHHHHHHhccCCCCeEE--EEeCC-CCcHHHHHHHCCC
+Confidence            46899999999998887766555555543 233322211  23334 8999999887654
+
+
+No 46
+>1H1V_G ACTIN, GELSOLIN; ACTIN-BINDING, SEVERING, CAPPING, AMYLOID, MUSCLE; HET: ATP; 2.99A {ORYCTOLAGUS CUNICULUS} SCOP: d.109.1.1
+Probab=70.11  E-value=3.3  Score=43.56  Aligned_cols=49  Identities=12%  Similarity=0.185  Sum_probs=32.3  Template_Neff=10.000
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~I  133 (1085)
+                      ...+|+|+|+.++...+...-.+-..+.   .  .+   ..+..| .||..|+..++-
+T Consensus       161 ~~~i~vW~G~~~~~~~r~~a~~~~~~~~---~--~~---~~v~~g-~E~~~F~~~~~~  209 (331)
+T 1H1V_G          161 PSAAYLWVGTGASEAEKTGAQELLRVLR---A--QP---VQVAEG-SEPDGFWEALGG  209 (331)
+T ss_pred             CCEEEEEECCCCCHHHHHHHHHHHHHhh---C--cE---EEEeCC-CCCHHHHHHhCC
+Confidence            4689999999999988775433322221   1  12   223444 899999998863
+
+
+No 47
+>2FH1_B Gelsolin; gelsolin, calcium, CONTRACTILE PROTEIN; 1.55A {Homo sapiens} SCOP: d.109.1.1
+Probab=69.88  E-value=3.3  Score=44.12  Aligned_cols=49  Identities=12%  Similarity=0.190  Sum_probs=32.6  Template_Neff=9.700
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHI  133 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~I  133 (1085)
+                      ...+|+|+|+.++...+...-.+-..+    .. .+   +.+..| .||.+|+..++-
+T Consensus       161 ~~~i~vW~G~~~~~~~r~~a~~~~~~l----~~-~~---~~v~eg-~E~~~F~~~f~~  209 (344)
+T 2FH1_B          161 PSAAYLWVGTGASEAEKTGAQELLRVL----RA-QP---VQVAEG-SEPDGFWEALGG  209 (344)
+T ss_dssp             SSCEEEEECTTCCHHHHHHHHHHHHHT----TC-CC---EEEETT-CCCHHHHHHTTS
+T ss_pred             CCeEEEEECCCCCHHHHHHHHHHHHHH----hC-Cc---eEEeCC-CCCchHHHHhcC
+Confidence            468999999999998877543332222    11 11   233444 899999999864
+
+
+No 48
+>6JEG_B Gelsolin; gelsolin, amyloidosis, calcium activation, Actin; HET: GOL; 2.975A {Homo sapiens}
+Probab=69.73  E-value=3.4  Score=48.85  Aligned_cols=91  Identities=10%  Similarity=0.119  Sum_probs=56.2  Template_Neff=9.500
+
+Q LOKIASV2_17920   37 NSDFIAYKLLQDGTILHIESNQLSSHFININIIAIYFKH------YKHLYIWKGLHVPNELAIHIPKMEQQILERI-PDL  109 (1085)
+Q Consensus        37 sSniiiFKLnydGTFeEIa~ENIlsvFT~VNILAIYI~k------~KRMYIWIGKnApQSLKNHIPqIR~iIseE~-Pel  109 (1085)
+                      ...+.||++.. +.+.+|+.+..-..|.--.-|.+|.+.      .-.+|+|+|++|+..-+..-...-..+.+.. +.-
+T Consensus        12 ~~~l~iwri~~-~~~~~~~~~~~g~F~~~d~Yivl~~~~~~~~~~~~~i~~W~G~~ss~~~~~~aa~~a~~l~~~~~~~~   90 (729)
+T 6JEG_B           12 EPGLQIWRVEK-FDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGRA   90 (729)
+T ss_dssp             SSEEEEEEECS-SSEEECCGGGTTEEETTCEEEEEEEEECTTSCEEEEEEEEECTTCCHHHHHHHHHHHHHHHHHTTTCS
+T ss_pred             CCCeEEEEEcC-CEEEeCCHHHcCeecCCceEEEEEEEeCCCCcEEEEEEEEcCCCCChhHHHHHHHHHHHHHHHhCCcc
+Confidence            45578888864 567777766665555544444444442      3469999999999876665444444443322 112
+
+
+Q LOKIASV2_17920  110 SILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus       110 rILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      .+   ..+..| .||..|++.++
+T Consensus        91 ~~---~r~~qg-~E~~~Fl~~F~  109 (729)
+T 6JEG_B           91 VQ---HREVQG-FESATFLGYFK  109 (729)
+T ss_dssp             EE---EEEETT-CCCHHHHHTCS
+T ss_pred             EE---EEEeCC-CCCHHHHHHhh
+Confidence            22   222333 89999999886
+
+
+No 49
+>6JEG_B Gelsolin; gelsolin, amyloidosis, calcium activation, Actin; HET: GOL; 2.975A {Homo sapiens}
+Probab=66.42  E-value=4.4  Score=47.94  Aligned_cols=50  Identities=12%  Similarity=0.199  Sum_probs=34.5  Template_Neff=9.500
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|.|+.++..-+.....+-+.+..   .     -+.|+.| .||.+|+..||-.
+T Consensus       546 ~~~iyvW~G~~s~~~er~~a~~~a~~~~~---~-----~~~v~eg-~E~~~F~~~lgg~  595 (729)
+T 6JEG_B          546 PSAAYLWVGTGASEAEKTGAQELLRVLRA---Q-----PVQVAEG-SEPDGFWEALGGK  595 (729)
+T ss_dssp             SSCEEEEECSSCCHHHHHHHHHHHHHTTC---C-----CEEEETT-CCCTHHHHTTTSC
+T ss_pred             CCeEEEEECCCCCHHHHHHHHHHHHHHhC---C-----cEEEeCC-CCCHHHHHHhCCC
+Confidence            57899999999998877544433333321   1     2345555 8999999999765
+
+
+No 50
+>1D0N_A HORSE PLASMA GELSOLIN; MIXED ALPHA-BETA STRUCTURE, ACTIN-BINDING PROTEIN; 2.5A {Equus caballus} SCOP: d.109.1.1
+Probab=65.75  E-value=4.6  Score=47.77  Aligned_cols=56  Identities=14%  Similarity=0.199  Sum_probs=39.2  Template_Neff=9.500
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILE-RIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIse-E~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|+|+.++..-+...-.+-..|.. ++|....  -..++.| .||.+|+..++-.
+T Consensus       168 ~~~i~vW~G~~s~~~er~~a~~~a~~l~~~~~~~~~~--i~~v~eg-~E~~~F~~~~g~~  224 (729)
+T 1D0N_A          168 GNNIYQWCGSKSNRFERLKATQVSKGIRDNERSGRAQ--VSVFEEG-AEPEAMLQVLGPK  224 (729)
+T ss_dssp             SSEEEEEECTTCCHHHHHHHHHHHHHHHHHSGGGCSE--EEEEETT-CCCHHHHHHHCSC
+T ss_pred             CCEEEEEECcCCCHHHHHHHHHHHHHhHhccccCCCE--EEEEeCC-CCcHHHHHHHCCC
+Confidence            56899999999999988877666665543 2443322  2334544 7999999988753
+
+
+No 51
+>1H1V_G ACTIN, GELSOLIN; ACTIN-BINDING, SEVERING, CAPPING, AMYLOID, MUSCLE; HET: ATP; 2.99A {ORYCTOLAGUS CUNICULUS} SCOP: d.109.1.1
+Probab=63.15  E-value=5.6  Score=41.90  Aligned_cols=54  Identities=11%  Similarity=0.254  Sum_probs=33.0  Template_Neff=10.000
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILER----IPDLSILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE----~PelrILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      ...+|+|+|+.|+..-+..--.+-..+...    .|...-+. +..+ | .||.+|.....
+T Consensus       266 ~~~vyvW~G~~~~~~~~~~a~~~a~~~~~~~~~~~~~~~~i~-~v~e-g-~Ep~~F~~~F~  323 (331)
+T 1H1V_G          266 WDQVFVWVGKDSQEEEKTEALTSAKRYIETDPANRDRRTPIT-VVKQ-G-FEPPSFVGWFL  323 (331)
+T ss_pred             CCeEEEEECCCCCHHHHHHHHHHHHHHHHhCCCCCCCCCCEE-EEEC-C-CCCHHHHHhCC
+Confidence            468999999999987765443333332222    23333332 3334 4 89999987663
+
+
+No 52
+>3FG6_H Adseverin; C-terminus of adseverin, Actin capping; HET: CA; 3.0A {Homo sapiens}
+Probab=59.20  E-value=7.4  Score=42.68  Aligned_cols=54  Identities=19%  Similarity=0.202  Sum_probs=30.5  Template_Neff=9.200
+
+Q LOKIASV2_17920   77 KHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSI--LRHFTIEGAKPETHEFLSLL  131 (1085)
+Q Consensus        77 KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrI--LRNITIEsgrsEP~EFf~~L  131 (1085)
+                      ..+|+|+|+.|+..-+...-.+-....+..|..+-  ..-+.|.. +.||..|....
+T Consensus       308 ~~vyvW~G~~~~~~e~~~a~~~a~~y~~~~~~~r~~~~~i~~v~e-G~Ep~~F~~~F  363 (371)
+T 3FG6_H          308 EQIFIWIGKDANEVEKKESLKSAKMYLETDPSGRDKRTPIVIIKQ-GHEPPTFTGWF  363 (371)
+T ss_dssp             SCEEEEECTTCCHHHHHHHHHHTTTCC----------CCEEEEET-TCCCHHHHTTS
+T ss_pred             CEEEEEEeCCCCHHHHHHHHHHHHHHHHHCCCCCCCCCCEEEEEC-CCCCHHHHHcC
+Confidence            47999999999987666654544444444432211  11122333 49999998765
+
+
+No 53
+>1D0N_A HORSE PLASMA GELSOLIN; MIXED ALPHA-BETA STRUCTURE, ACTIN-BINDING PROTEIN; 2.5A {Equus caballus} SCOP: d.109.1.1
+Probab=58.44  E-value=7.8  Score=46.03  Aligned_cols=60  Identities=15%  Similarity=0.311  Sum_probs=35.2  Template_Neff=9.500
+
+Q LOKIASV2_17920   70 AIYFKHY---KHLYIWKGLHVPNELAIHIPKMEQQILERI--PDLSILRHFTIEGAKPETHEFLSLLH  132 (1085)
+Q Consensus        70 AIYI~k~---KRMYIWIGKnApQSLKNHIPqIR~iIseE~--PelrILRNITIEsgrsEP~EFf~~L~  132 (1085)
+                      .+|+...   ..+|+|+|++|+..-+..--.+-..+....  |....+  ..+..| .||..|....+
+T Consensus       277 ~~yild~~~~~~iyvW~G~~s~~~~~~~a~~~a~~~~~~~~~~~~~~v--~~v~eg-~Ep~~F~~~F~  341 (729)
+T 1D0N_A          277 DCFILDHGKDGKIFVWKGKQANMEERKAALKTASDFISKMDYPKQTQV--SVLPEG-GETPLFRQFFK  341 (729)
+T ss_dssp             SEEEEEEGGGTEEEEEECTTSCHHHHTTHHHHHHHHHHHTTCCTTCEE--EEEETT-CCCHHHHTTBT
+T ss_pred             CEEEEEccCCCeEEEEEcCCCCHHHHHHHHHHHHHHHHcCCCCCCCcE--EEEcCC-CCCHHHHHhcc
+Confidence            3444443   379999999999876654443333343322  322211  122434 89999988775
+
+
+No 54
+>6JEG_B Gelsolin; gelsolin, amyloidosis, calcium activation, Actin; HET: GOL; 2.975A {Homo sapiens}
+Probab=58.20  E-value=7.9  Score=45.97  Aligned_cols=56  Identities=14%  Similarity=0.188  Sum_probs=36.9  Template_Neff=9.500
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILE-RIPDLSILRHFTIEGAKPETHEFLSLLHIN  134 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIse-E~PelrILRNITIEsgrsEP~EFf~~L~In  134 (1085)
+                      ...+|+|+|+.++..-+...-.+-..|.. +.+...  +-..++.| .||.+|+..+|-.
+T Consensus       168 ~~~i~vW~G~~s~~~er~~a~~~a~~l~~~~~~~~~--~v~~v~eg-~E~~~F~~~~g~~  224 (729)
+T 6JEG_B          168 GNNIHQWCGSNSNRYERLKATQVSKGIRDNERSGRA--RVHVSEEG-TEPEAMLQVLGPK  224 (729)
+T ss_dssp             SSEEEEEECTTCCHHHHHHHHHHHHHCCCCCSTTCC--EEEEEETT-CCCHHHHHHHCSC
+T ss_pred             CCEEEEEECCCCCHHHHHHHHHHHHHhHhccccCcc--EEEEecCC-CCcHHHHHHHCCC
+Confidence            57899999999998877766555555543 233321  11223444 8999999888753
+
+
+No 55
+>3FG6_D Adseverin; C-terminus of adseverin, Actin capping; HET: CA; 3.0A {Homo sapiens}
+Probab=55.11  E-value=9.7  Score=41.84  Aligned_cols=55  Identities=18%  Similarity=0.223  Sum_probs=30.9  Template_Neff=9.200
+
+Q LOKIASV2_17920   76 YKHLYIWKGLHVPNELAIHIPKMEQQILERIPDLSI--LRHFTIEGAKPETHEFLSLL  131 (1085)
+Q Consensus        76 ~KRMYIWIGKnApQSLKNHIPqIR~iIseE~PelrI--LRNITIEsgrsEP~EFf~~L  131 (1085)
+                      ...+|+|+|+.|+..-+...-.+-....+..|..+-  ..-..|.. +.||..|....
+T Consensus       307 ~~~vyvW~G~~~~~~e~~~a~~~a~~y~~~~~~~r~~~~~i~~v~e-G~Ep~~F~~~F  363 (371)
+T 3FG6_D          307 WEQIFIWIGKDANEVEKKESLKSAKMYLETDPSGRDKRTPIVIIKQ-GHEPPTFTGWF  363 (371)
+T ss_dssp             SSCEEEEECTTCCHHHHHHHHHTTTTCC----------CCEEEEET-TCCCHHHHTTS
+T ss_pred             CCEEEEEEeCCCCHHHHHHHHHHHHHHHHHCCCCCCCCCCEEEEEC-CCCCHHHHHcC
+Confidence            347999999999987666554544444444432211  11123333 49999998765
+
+
+No 56
+>5IJN_S NUCLEAR PORE COMPLEX PROTEIN NUP155; Nuclear pore complex, Nucleocytoplasmic transport; 21.4A {Homo sapiens}
+Probab=23.51  E-value=70  Score=40.43  Aligned_cols=39  Identities=10%  Similarity=0.181  Sum_probs=25.7  Template_Neff=5.300
+
+Q LOKIASV2_17920  193 KIITRNEEILTELLAKESNQKEEQIHLQVEQLASRFRENL  232 (1085)
+Q Consensus       193 ALIqEQenfIsEa~~Kea~eK~~EIE~eikeltkeF~ELI  232 (1085)
+                      ..|++|+++.+|+..... +.+..|...++.+..++..+-
+T Consensus       260 kfIK~QkqisdEIsr~Ss-~~l~kV~~DIe~L~q~Ls~vs  298 (599)
+T 5IJN_S          260 KFVKEQKQVQEEISRMSS-KAMLKVQEDIKALKQLLSLAA  298 (599)
+T ss_dssp             HHHHHHHHHHHHHHHHCC-SHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhcCH-HHHHHHHHHHHHHHHHHHHHH
+Confidence            356777777777765533 236677777777777766664
+
+
