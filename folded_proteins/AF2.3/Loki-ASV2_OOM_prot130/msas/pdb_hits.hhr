@@ -1,0 +1,2175 @@
+Query         LOKIASV2_05250 hypothetical protein
+Match_columns 1327
+No_of_seqs    380 out of 6160
+Neff          5.70499
+Searched_HMMs 80799
+Date          Thu Sep 12 16:37:52 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpo426uc1r/query.a3m -o /tmp/tmpo426uc1r/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6S7T_A Dolichyl-diphosphooligo 100.0 2.5E-70   3E-75  704.0   0.0  682   27-752    71-793 (826)
+  2 6EZN_F Dolichyl-diphosphooligo 100.0 1.9E-69 2.3E-74  685.2   0.0  670   26-749    14-700 (718)
+  3 6S7O_A Dolichyl-diphosphooligo 100.0 1.9E-69 2.4E-74  681.9   0.0  669   27-740    17-703 (705)
+  4 3WAJ_A Transmembrane oligosacc 100.0 8.4E-45   1E-49  471.0   0.0  545   30-608    14-630 (875)
+  5 3WAK_A Transmembrane oligosacc 100.0 8.4E-45   1E-49  471.0   0.0  545   30-608    14-630 (875)
+  6 5OGL_A Peptide-binding protein  99.9 1.6E-31   2E-36  339.0   0.0  477   31-580    18-516 (713)
+  7 2LGZ_A Dolichyl-diphosphooligo  99.9 2.8E-30 3.5E-35  292.8   0.0  227  480-748    18-254 (273)
+  8 3VU0_B Putative uncharacterize  99.8 5.9E-23 7.4E-28  217.4   0.0  150  501-732     3-162 (162)
+  9 3WAI_A Maltose-binding peripla  99.7 6.6E-21 8.2E-26  245.3   0.0  100  501-609   370-502 (739)
+ 10 3VGP_A Transmembrane oligosacc  99.7 1.8E-20 2.2E-25  198.9   0.0  151  500-733     3-163 (164)
+ 11 2ZAI_C Oligosaccharyl transfer  99.4 1.6E-16 1.9E-21  191.7   0.0  100  499-608    15-116 (497)
+ 12 5AZA_A Maltose-binding peripla  99.4 2.4E-16 2.9E-21  206.5   0.0   98  499-607   384-484 (872)
+ 13 3VU1_A Putative uncharacterize  99.3 1.5E-15 1.8E-20  183.2   0.0   98  499-606     7-106 (506)
+ 14 3VU1_B Putative uncharacterize  99.3 1.5E-15 1.8E-20  183.2   0.0   98  499-606     7-106 (506)
+ 15 3AAG_A General glycosylation p  99.2   7E-15 8.6E-20  170.5   0.0   81  499-581     9-89  (291)
+ 16 5EZM_A 4-amino-4-deoxy-L-arabi  98.7 3.8E-11 4.7E-16  149.3   0.0  174   34-226    35-213 (578)
+ 17 5F15_A 4-amino-4-deoxy-L-arabi  98.7 3.8E-11 4.7E-16  149.3   0.0  174   34-226    35-213 (578)
+ 18 6P25_B Dolichyl-diphosphooligo  97.7 1.6E-07   2E-12  123.5   0.0  183   31-235    66-266 (759)
+ 19 6P2R_A Dolichyl-diphosphooligo  97.5 5.4E-07 6.6E-12  119.5   0.0  182   32-235    52-250 (817)
+ 20 6P25_A Dolichyl-diphosphooligo  97.5 6.2E-07 7.7E-12  118.9   0.0  182   32-235    52-250 (817)
+ 21 6SNH_X Dolichyl pyrophosphate   94.7  0.0051 6.3E-08   79.7   0.0  186   32-232    56-264 (562)
+ 22 5TUG_A Flagellar biosynthesis   83.5    0.68 8.4E-06   49.7   0.0   72  750-824    46-128 (135)
+ 23 5TUH_B Flagellar biosynthesis   83.5    0.68 8.4E-06   49.7   0.0   72  750-824    46-128 (135)
+ 24 6NAV_N M9UD72; helical symmetr  76.5     1.7 2.2E-05   46.2   0.0   72  750-828    50-125 (131)
+ 25 5TUG_A Flagellar biosynthesis   75.4       2 2.4E-05   46.2   0.0   75  998-1073   47-128 (135)
+ 26 5TUH_B Flagellar biosynthesis   75.4       2 2.4E-05   46.2   0.0   75  998-1073   47-128 (135)
+ 27 6NAV_N M9UD72; helical symmetr  73.2     2.5 3.1E-05   45.1   0.0   87 1086-1189   32-124 (131)
+ 28 5TFY_E Flagellin; cell motilit  71.6     2.8 3.5E-05   46.5   0.0  113 1073-1187   31-147 (164)
+ 29 5TFY_P Flagellin; cell motilit  71.6     2.8 3.5E-05   46.5   0.0  113 1073-1187   31-147 (164)
+ 30 5TUG_A Flagellar biosynthesis   62.5     5.9 7.3E-05   42.8   0.0   39 1089-1132   33-74  (135)
+ 31 5TUH_B Flagellar biosynthesis   62.5     5.9 7.3E-05   42.8   0.0   39 1089-1132   33-74  (135)
+ 32 4ZBH_A CONSERVED FLAGELLAR PRO  61.3     6.4 7.9E-05   43.3   0.0   76  997-1073   44-137 (146)
+ 33 5TUG_D Flagellar biosynthesis   61.3     6.4 7.9E-05   43.3   0.0   76  997-1073   44-137 (146)
+ 34 6PBK_D Flagellar biosynthesis   61.3     6.4 7.9E-05   43.3   0.0   76  997-1073   44-137 (146)
+ 35 4ZBH_A CONSERVED FLAGELLAR PRO  53.0      11 0.00014   41.5   0.0   25  750-774    44-71  (146)
+ 36 5TUG_D Flagellar biosynthesis   53.0      11 0.00014   41.5   0.0   25  750-774    44-71  (146)
+ 37 6PBK_D Flagellar biosynthesis   53.0      11 0.00014   41.5   0.0   25  750-774    44-71  (146)
+ 38 5O4U_K Flagellin; archaellar f  50.9      13 0.00015   43.2   0.0   54 1076-1130   39-95  (212)
+ 39 6NAV_N M9UD72; helical symmetr  50.8      13 0.00016   39.9   0.0   66  997-1075   50-122 (131)
+ 40 5TUG_A Flagellar biosynthesis   49.6      14 0.00017   40.1   0.0   76  860-938    46-131 (135)
+ 41 5TUH_B Flagellar biosynthesis   49.6      14 0.00017   40.1   0.0   76  860-938    46-131 (135)
+ 42 2CO6_B PUTATIVE OUTER MEMBRANE  41.9      22 0.00027   41.1   0.0   25 1106-1130  149-173 (221)
+ 43 2CO7_B SAFA PILUS SUBUNIT, PUT  41.9      22 0.00027   41.1   0.0   25 1106-1130  149-173 (221)
+ 44 5O4U_K Flagellin; archaellar f  41.7      22 0.00027   41.3   0.0   37 1039-1075  149-193 (212)
+ 45 5GHU_A Probable fimbrial chape  41.3      22 0.00028   40.6   0.0   23 1109-1131  148-170 (222)
+ 46 5Z1L_J Flagellin; Archaellum,   40.0      24  0.0003   41.1   0.0   76  998-1073   77-190 (211)
+ 47 5Z1L_J Flagellin; Archaellum,   37.9      27 0.00034   40.6   0.0   54 1076-1130   46-100 (211)
+ 48 4ZBH_A CONSERVED FLAGELLAR PRO  37.4      28 0.00035   38.5   0.0   76  860-938    44-140 (146)
+ 49 5TUG_D Flagellar biosynthesis   37.4      28 0.00035   38.5   0.0   76  860-938    44-140 (146)
+ 50 6PBK_D Flagellar biosynthesis   37.4      28 0.00035   38.5   0.0   76  860-938    44-140 (146)
+ 51 5YA6_B Flagellin B1; archaea,   36.7      29 0.00036   40.5   0.0   49 1077-1126   35-86  (211)
+ 52 1L4I_B SfaE protein; periplasm  36.5      30 0.00037   39.5   0.0   22 1109-1130  137-158 (206)
+ 53 1KLF_G CHAPERONE PROTEIN FIMC/  34.6      33 0.00041   39.1   0.0   24 1108-1131  136-159 (205)
+ 54 5TFY_E Flagellin; cell motilit  33.8      35 0.00043   38.3   0.0   75  998-1075   68-147 (164)
+ 55 5TFY_P Flagellin; cell motilit  33.8      35 0.00043   38.3   0.0   75  998-1075   68-147 (164)
+ 56 2QSV_A Uncharacterized protein  33.7      35 0.00044   37.8   0.0   51  749-804    19-69  (220)
+ 57 4AY0_A CHAPERONE PROTEIN CAF1M  32.1      39 0.00048   38.9   0.0   23 1109-1131  147-169 (218)
+ 58 5Z1L_J Flagellin; Archaellum,   31.2      41 0.00051   39.2   0.0   38  787-824   152-190 (211)
+ 59 5GHU_A Probable fimbrial chape  30.0      45 0.00055   38.2   0.0   52  751-804    17-76  (222)
+ 60 2QSV_A Uncharacterized protein  29.2      47 0.00058   36.8   0.0   47  999-1056   22-68  (220)
+ 61 6CXH_A Particulate methane mon  28.2      50 0.00062   42.3   0.0   66  992-1057  290-368 (414)
+ 62 3Q48_A Chaperone CupB2; Ig fol  27.7      52 0.00064   39.1   0.0   23 1109-1131  172-194 (257)
+ 63 5O4U_K Flagellin; archaellar f  27.4      53 0.00065   38.3   0.0   38  787-824   150-191 (212)
+ 64 4NCD_A Gram-negative pili asse  27.4      53 0.00066   38.7   0.0   21  862-882   161-181 (246)
+ 65 4DJM_D E. coli chaperone DraB;  27.3      53 0.00066   38.8   0.0   24 1108-1131  168-191 (239)
+ 66 4DJM_G E. coli chaperone DraB;  27.3      53 0.00066   38.8   0.0   24 1108-1131  168-191 (239)
+ 67 5YA6_B Flagellin B1; archaea,   26.7      56 0.00069   38.3   0.0   35 1040-1074  146-185 (211)
+ 68 3BWU_C FimD (N-Terminal Domain  26.4      57  0.0007   37.3   0.0   24 1108-1131  136-159 (205)
+ 69 3Q48_A Chaperone CupB2; Ig fol  26.1      58 0.00072   38.7   0.0   24  860-883   170-193 (257)
+ 70 1YEW_A methane monooxygenase,   26.1      58 0.00072   41.3   0.0   66  992-1057  258-336 (382)
+ 71 6E14_C Type 1 fimbrin D-mannos  25.4      61 0.00075   38.3   0.0   22 1109-1130  173-194 (241)
+ 72 4B0M_M F1 CAPSULE-ANCHORING PR  22.9      73  0.0009   37.5   0.0   54  999-1056   29-83  (235)
+ 73 4KTY_B Coagulation factor XIII  22.9      73 0.00091   44.4   0.0  117  996-1123  538-668 (738)
+ 74 4PHZ_A peptide, pmoC, pmoB, pm  22.4      76 0.00094   40.9   0.0   66  992-1057  292-369 (420)
+ 75 4PI0_A peptide, pmoA, pmoC, pm  22.4      76 0.00094   40.9   0.0   66  992-1057  292-369 (420)
+ 76 3DPA_A PAPD; CHAPERONE PROTEIN  22.3      77 0.00095   36.8   0.0   23 1109-1131  138-160 (218)
+ 77 1G0D_A PROTEIN-GLUTAMINE GAMMA  21.7      80 0.00099   43.7   0.0  124  996-1130  486-623 (695)
+ 78 1F13_A CELLULAR COAGULATION FA  21.4      82   0.001   43.9   0.0  119  996-1124  531-662 (731)
+
+No 1
+>6S7T_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B (E.C.2.4.99.18); N-glycosylation, Oligosaccharyltransferase, OSTB, TRANSFERASE; HET: MAN, EGY, KZB, BMA, 0K3, NAG; 3.5A {Homo sapiens}
+Probab=100.00  E-value=2.5e-70  Score=704.04  Aligned_cols=682  Identities=27%  Similarity=0.495  Sum_probs=537.5  Template_Neff=8.600
+
+Q LOKIASV2_05250   27 PFFYLSIILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARY-NLRPGLLLA  105 (1327)
+Q Consensus        27 ~l~~laLiLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~-~~~PgL~~t  105 (1327)
+                      ++..+++++++++++++|++.+.. ++..++++|+|+|++.+++++++|.+.+.+|+|++.|||.|++++ +++|+++++
+T Consensus        71 ~~~~~il~~i~~l~~~~Rl~~~~~-~~~~~~~~D~~~~~~~a~~l~~~g~~~~~~~~d~~~~yP~G~~~~~~~~pl~~~l  149 (826)
+T 6S7T_A           71 LLSFTILFLAWLAGFSSRLFAVIR-FESIIHEFDPWFNYRSTHHLASHGFYEFLNWFDERAWYPLGRIVGGTVYPGLMIT  149 (826)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCTTTTT-TCSCCCSTTHHHHHHHHHHHHHHCHHHHHTCEECSSSTTTCEESTTSSCTTHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHh-cCcccccCCHHHHHHHHHHHHHhCCccccccccchhcCCCCCCCCCCCChHHHHH
+Confidence            344455666677888899998765 566678899999999999999999888889999999999999887 788999999
+
+
+Q LOKIASV2_05250  106 ASFCYWVLNGLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPGHMQRTVAGFFDNETVGVFS  185 (1327)
+Q Consensus       106 aA~lY~il~~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E~igif~  185 (1327)
+                      .++++++++.+|.+.+...+++++++++++++++++|+++|+++++..|+++++++++.|.++.++..|++|+|.+++++
+T Consensus       150 ~a~~~~l~g~~g~~~~~~~~~~l~~~l~~~l~~~~~y~l~r~l~~~~~~llaall~a~~p~~i~~s~~g~~d~e~~~i~~  229 (826)
+T 6S7T_A          150 AGLIHWILNTLNITVHIRDVCVFLAPTFSGLTSISTFLLTRELWNQGAGLLAACFIAIVPGYISRSVAGSFDNEGIAIFA  229 (826)
+T ss_dssp             HHHHHHHHHHTTCCCCHHHHHHTHHHHHHHHHHHHHHHHHHHHSCHHHHHHHHHHTTTCHHHHGGGSTTCCCSHHHHHHH
+T ss_pred             HHHHHHHHHhcCCCCcHHHHHHHHHHHHHHHHHHHHHHHHHHHcCccHHHHHHHHHHHhHHHHHhhhccCCchHHHHHHH
+Confidence            99998888766655566789999999999999999999999999888999999999999999999999999999999999
+
+
+Q LOKIASV2_05250  186 VLLTFLFFIKAVKYGKLSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVILILINKYNSRVLMAYSTTIGIGILIYSINP  265 (1327)
+Q Consensus       186 ~ll~~lffirAlK~~ki~~silAGl~lG~l~~sWGG~~fi~~li~l~~lilill~rys~rll~aysi~i~iglli~~l~P  265 (1327)
+                      ++++++++.+..+++++++++++|+++++++++|++++++++++++++++..+.+++.++....+.+++++++++++.+|
+T Consensus       230 l~l~ly~~~r~~~~~~~~~~~l~gl~~~l~~~~~~~~~~~~~~i~l~~l~~~~~~~~~~~~~~~~~~~~~~~~~l~~~ip  309 (826)
+T 6S7T_A          230 LQFTYYLWVKSVKTGSVFWTMCCCLSYFYMVSAWGGYVFIINLIPLHVFVLLLMQRYSKRVYIAYSTFYIVGLILSMQIP  309 (826)
+T ss_dssp             HHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHCTTHHHHHHHHHHHHHHHHHTTCCCHHHHHHHHHHHHHHHHHHTTST
+T ss_pred             HHHHHHHHHHHhhcCCHHHHHHHHHHHHHHHHhhccHHHHHHHHHHHHHHHHHhcccCcchHHHHHHHHHHHHHHHhcCc
+Confidence            99999999999887778888999999999999999999888888877777777666666667778888888888888899
+
+
+Q LOKIASV2_05250  266 GTSWSKIITDFEVIIPLITLVFLLFYHTV--YTQKGTGIYKTTFRIIKIA--SIPAAIALAIILWQAPEILPFNLGGRLL  341 (1327)
+Q Consensus       266 ~~~~~~~lts~~~ll~l~~lv~Ll~~~~i--~~~k~~~i~k~~~~ii~i~--~I~a~I~laiil~~~~~ilp~~l~gr~l  341 (1327)
+                      +.++.++.+++ |+.+++++++++++.++  .+++.. . +...++...+  +++++++++++.+..++++ .|+++|++
+T Consensus       310 ~~g~~~~~~~~-~~~~~~vf~~~~~~~~~~~~~~~~~-~-~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~-~~~sgr~~  385 (826)
+T 6S7T_A          310 FVGFQPIRTSE-HMAAAGVFALLQAYAFLQYLRDRLT-K-QEFQTLFFLGVSLAAGAVFLSVIYLTYTGYI-APWSGRFY  385 (826)
+T ss_dssp             TTTTHHHHBSS-THHHHHHHHHHHHHHHHHHHHHHSC-S-TTTHHHHHHHHHHHHHHHHHHHHHHHHHTSS-BCCCHHHH
+T ss_pred             cCCCcccccHH-HHHHHHHHHHHHHHHHHHHHHHhCC-H-HHHHHHHHHHHHHHHHHHHHHHHHHHhcccc-ccccHHHH
+Confidence            99999988888 88777777776666555  333222 1 1111211111  1111111122222334444 58899999
+
+
+Q LOKIASV2_05250  342 SILNPNIR-ETFNLVASVGEHAPSPWSVFYFNAMIPVLLTVPGFYFALRRGNAEDILMIIFVLTLFYFTGSMIRIILIFT  420 (1327)
+Q Consensus       342 svlnP~vr-~~~pLvaSVAEH~ps~Ws~fy~~~~I~ill~~~Giy~~lrr~~~~diflllf~ltslYfA~SmVRL~lllA  420 (1327)
+                      ++++|++. .+.|++++|+||||++|..++.+++++++++++|++++++++++..+|+++++++++||+..|+|++++++
+T Consensus       386 ~l~~~~~~~~~~pi~~sVsE~qp~~~~~~~~~~~~~~~~~~~gl~~~~~~~~~~~~flil~~~~~~yfs~~~vRl~l~~a  465 (826)
+T 6S7T_A          386 SLWDTGYAKIHIPIIASVSEHQPTTWVSFFFDLHILVCTFPAGLWFCIKNINDERVFVALYAISAVYFAGVMVRLMLTLT  465 (826)
+T ss_dssp             HHHHSSHHHHTCHHHHHBSTTSCCCHHHHHHSCSSHHHHHHHHHHHHHHSCCHHHHHHHHHHHHHHHHHTTCSTTHHHHH
+T ss_pred             HHhhccccccccccchhHhhhCCccHHHHHHHhhHHHHhhHHHHHHHHhcCChHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            99998776 67899999999999999988888877777788888888777777889999999999999999999999999
+
+
+Q LOKIASV2_05250  421 PAINLLAGYALSNLSTALGRIMRKQT---------------------RTGSRRK--RQVK---RVLGRSEAFVAYSLIAI  474 (1327)
+Q Consensus       421 PavALLAg~~l~~Ll~~~~~il~k~~---------------------~~~~krk--r~~k---~~lg~~~~~ia~~lI~i  474 (1327)
+                      |++|+++|+++..+++...+..+...                     +.++.++  ++.+   ....+....++++++++
+T Consensus       466 p~~~il~g~~l~~ll~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  545 (826)
+T 6S7T_A          466 PVVCMLSAIAFSNVFEHYLGDDMKRENPPVEDSSDEDDKRNQGNLYDKAGKVRKHATEQEKTEEGLGPNIKSIVTMLMLM  545 (826)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCC-----------------------------------------------CHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHhccccccCCCCCCCCCcccchhhcccccccccccccccchhhhcccCccHHHHHHHHHHHHH
+Confidence            99999999999988876543211000                     0000000  0000   00000000111111111
+
+
+Q LOKIASV2_05250  475 LLFVQANHAADYAENQLPYADI--------VSAGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTTIGNVTTVNDNGT  546 (1327)
+Q Consensus       475 ll~v~~~~~~~ya~~~~~~~~~--------~s~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~ignRtTvaDNaT  546 (1327)
+                      ++..+..|+.+..+.+++.|++        +.....++|.++++||++|+|++++|++|||||||+..+++|++++||++
+T Consensus       546 ~~~~~~~~~~~~~~~~ys~psi~~~~~~~~~~~~~~d~~~~a~~wl~~nt~~~~~I~swwd~Gy~I~~~~~r~v~~dg~~  625 (826)
+T 6S7T_A          546 LLMMFAVHCTWVTSNAYSSPSVVLASYNHDGTRNILDDFREAYFWLRQNTDEHARVMSWWDYGYQIAGMANRTTLVDNNT  625 (826)
+T ss_dssp             HHHHHHHHHHHHCCCCCCCCSSSEEEECTTSCEEEECHHHHHHHHHHHSSCTTCEEECCGGGHHHCCCCCCCEESSCSSC
+T ss_pred             HHHHHHHHHHHHHHhhcCCCeEEEeeeCCCCCCcCcHHHHHHHHHHHHcCccccCeecchhhhchhhhhcCCeeccCCCC
+Confidence            2223335555545555555543        22345788999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_05250  547 WNQTRIGLTGMAMMQNNERYSAELFQVLKADYVLVYFGHLLNGIGGDEGKWPWMVRICNDNTN-KYEKMAAIPEEIKESF  625 (1327)
+Q Consensus       547 ~N~TqI~~iG~afms~nE~~a~~il~~l~adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~~-~y~~~~~~~~~~~e~~  625 (1327)
+                      +|.++++.+++.+++ +|+++.++++++++|||++++++..++++||++|++||+||++++++ .+         +++|+
+T Consensus       626 ~n~~~~~~~~~~~~~-~e~~a~~il~~~~v~YVlv~~~~~~~~~~ddi~K~~~m~ri~~~~~~~~i---------~~~~~  695 (826)
+T 6S7T_A          626 WNNSHIALVGKAMSS-NETAAYKIMRTLDVDYVLVIFGGVIGYSGDDINKFLWMVRIAEGEHPKDI---------RESDY  695 (826)
+T ss_dssp             SCHHHHHHHHHHHTS-CHHHHHHHHHHTTCCEEEEECCTTTTCSCCTTTTHHHHHHHHHHHCTTTC---------CGGGG
+T ss_pred             CChhHHHHHHHHhcC-CHHHHHHHHHHcCCCEEEEEeCCccCCCcchhhHHHHHHHHhcCCCcccc---------chhhc
+Confidence            999999888888888 89999999999999999999999988889999999999999999988 66         66777
+
+
+Q LOKIASV2_05250  626 YSEDEVFNEANYINSSSGKYRENWFGSTLVKLMFYGEAERINQAGGENQLINYLARQLQGDSEVDPRTDDYGNEWWSYDS  705 (1327)
+Q Consensus       626 ~~~~~~f~e~~y~~~~~g~~~~~~~~stl~klm~yg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~  705 (1327)
+                      ++.++     +|..  +..++++|++|+|||||+|++++...                  ..+.++|+|    ++|+..+
+T Consensus       696 ~~~~~-----~~~~--~~~~~~~~~~sl~y~l~~~~~~~~~~------------------~~~~~~~~~----~~~~~~~  746 (826)
+T 6S7T_A          696 FTPQG-----EFRV--DKAGSPTLLNCLMYKMSYYRFGEMQL------------------DFRTPPGFD----RTRNAEI  746 (826)
+T ss_dssp             SCTTS-----CCCC--STTSCTTTTTSHHHHHHSTTCTTCCC------------------SSSCCSSCB----TTTTBCC
+T ss_pred             CCCCC-----cccc--CCCCChHHHhcHhHHhhccccccccc------------------cCCCCCccc----ccccccc
+Confidence            77666     6777  77889999999999999999776431                  123567889    9999988
+
+
+Q LOKIASV2_05250  706 INGNLELDYFNEAYFSSNHLVKIFEVDYTALNSAFTVKDPYIDTDGN  752 (1327)
+Q Consensus       706 ~~~~~~~~~f~~~~~S~~~~Vkiykidyt~l~~~~~i~~~~~~~~G~  752 (1327)
+                      +++..++++|||||+|+||+||||||++++++++...+++....|+-
+T Consensus       747 ~~~~~~~~~f~~~~~s~~~~vriykv~~~~~~~~~~~~~~~~~~~~~  793 (826)
+T 6S7T_A          747 GNKDIKFKHLEEAFTSEHWLVRIYKVKAPDNRETLDHKPRVTNIFPK  793 (826)
+T ss_dssp             SCCCCCCSSEEEEEECTTSCEEEEEECCCCSSCCCSSCCCCCSSSCC
+T ss_pred             CCCCCChhheEEeeecCCceEEEEEeCCcccccccCCCCchhhcCCc
+Confidence            88788999999999999999999999999999999999998888754
+
+
+No 2
+>6EZN_F Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 (E.C.2.4.99.18); OST complex, oligosaccharyltransferase, N-linked glycosylation; HET: NAG, BMA, CPL, PTY, MAN;{Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=100.00  E-value=1.9e-69  Score=685.25  Aligned_cols=670  Identities=26%  Similarity=0.445  Sum_probs=481.7  Template_Neff=9.300
+
+Q LOKIASV2_05250   26 APFFYLSIILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARY-NLRPGLLL  104 (1327)
+Q Consensus        26 ~~l~~laLiLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~-~~~PgL~~  104 (1327)
+                      .++..+++++++++++++|+.++.+ ++..++++|+|+|++.++++.++|.+++++|+|++.|||.|++.+ +.+|+++.
+T Consensus        14 ~~~~~~~l~li~~l~~~~rl~~~~~-~~~~~~~~D~~~~~~~a~~l~~~g~~~~~~~~d~~~~~P~G~~~~~~~~p~l~~   92 (718)
+T 6EZN_F           14 TILKLVIFVAIFGAAISSRLFAVIK-FESIIHEFDPWFNYRATKYLVNNSFYKFLNWFDDRTWYPLGRVTGGTLYPGLMT   92 (718)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTTTTTTT-TCCCCCSSSHHHHHHHHHHHHHSCHHHHHSCCCTTSSTTTCCCSSSSCCTTHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHhHHHH-hccccccCCHHHHHHHHHHHHHcCcccccCCCCCCCCCCCCCCCCCCCchHHHH
+Confidence            3444566667778899999998776 677778999999999999999999888889999999999999876 66777777
+
+
+Q LOKIASV2_05250  105 AASFCYWVLN-GLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPGHMQRTVAGFFDNETVGV  183 (1327)
+Q Consensus       105 taA~lY~il~-~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E~igi  183 (1327)
+                      +.+.++++++ .+|.+.+...+++++++++++++++++|+++|+++++++|+++++++++.|.++.++..|++|+|.+++
+T Consensus        93 ~~~~~~~~l~~~~G~~~~~~~~~~~~~~i~~~l~~~~~y~l~~~l~~~~~al~aa~l~a~~p~~~~~s~~g~~~~e~~~~  172 (718)
+T 6EZN_F           93 TSAFIWHALRNWLGLPIDIRNVCVLFAPLFSGVTAWATYEFTKEIKDASAGLLAAGFIAIVPGYISRSVAGSYDNEAIAI  172 (718)
+T ss_dssp             HHHHHHHCCCCCSSCCCCHHHHHHBTHHHHHHHHHHHHHHHHHHHSCHHHHHHHHHHHHHCHHHHSSSCSBCCSSSTTTH
+T ss_pred             HHHHHHHHHHHhhCCCCcHHHHHHHHHHHHHHHHHHHHHHHHHHHcCchHHHHHHHHHHHhHHHHHhcccCCCchHHHHH
+Confidence            7766665443 345444567899999999999999999999999998889999999999999999999999999999999
+
+
+Q LOKIASV2_05250  184 FSVLLTFLFFIKAVKYGKLSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVILILINKYNSRVLMAYSTTIGIGILIYSI  263 (1327)
+Q Consensus       184 f~~ll~~lffirAlK~~ki~~silAGl~lG~l~~sWGG~~fi~~li~l~~lilill~rys~rll~aysi~i~iglli~~l  263 (1327)
+                      ++++++++++.|+.++++.++++++|+++++++++|+++.+++++++++.++..+.+++.++....+.+++++++++++.
+T Consensus       173 ~~~~l~~~~~~~~~~~~~~~~~~l~gl~~~l~~~~~~~~~~~~~~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  252 (718)
+T 6EZN_F          173 TLLMVTFMFWIKAQKTGSIMHATCAALFYFYMVSAWGGYVFITNLIPLHVFLLILMGRYSSKLYSAYTTWYAIGTVASMQ  252 (718)
+T ss_dssp             HHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHTTCTTGGGGGGTHHHHHHHHHHTTCCCHHHHHHHHHHHHHHHHHTTC
+T ss_pred             HHHHHHHHHHHHHhhhCCHHHHHHHHHHHHHHHHHhccHHHHHHHHHHHHHHHHHhcCCCCChHHHHHHHHHHHHHHHhh
+Confidence            99999999999998877788899999999999999999998877777666666666655556666677777777777778
+
+
+Q LOKIASV2_05250  264 NPGTSWSKIITDFEVIIPLITLVFLLFYHTV--YTQKGTGIYKTTFRIIKI--ASIPAAIALAIILWQAPEILPFNLGGR  339 (1327)
+Q Consensus       264 ~P~~~~~~~lts~~~ll~l~~lv~Ll~~~~i--~~~k~~~i~k~~~~ii~i--~~I~a~I~laiil~~~~~ilp~~l~gr  339 (1327)
+                      +|+.++.+..+.+ ++++++++++++++.++  .+.+.. + +..+.....  +++++++++++.++...+++ .|+++|
+T Consensus       253 ~p~~~~~~~~s~~-~~~~~~~~~~~~~~~~~~~~~~~~~-~-~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~-~p~~~~  328 (718)
+T 6EZN_F          253 IPFVGFLPIRSND-HMAALGVFGLIQIVAFGDFVKGQIS-T-AKFKVIMMVSLFLILVLGVVGLSALTYMGLI-APWTGR  328 (718)
+T ss_dssp             STTSSSHHHHCTT-SHHHHHHHHHHHHHHHHHHHHTTSC-H-HHHTTTC-------------------------------
+T ss_pred             hhhhccccccChh-HHHHHHHHHHHHHHHHHHHHHhhcC-h-HHHHHHHHHHHHHHHHHHHHHHHHHHHhhhh-chhhHH
+Confidence            8999888877777 77776666666655444  222222 1 111111100  11111111222222222333 467778
+
+
+Q LOKIASV2_05250  340 LLSILNPNIR-ETFNLVASVGEHAPSPWSVFYFNAMIPVLLTVPGFYFALRRGNAEDILMIIFVLTLFYFTGSMIRIILI  418 (1327)
+Q Consensus       340 ~lsvlnP~vr-~~~pLvaSVAEH~ps~Ws~fy~~~~I~ill~~~Giy~~lrr~~~~diflllf~ltslYfA~SmVRL~ll  418 (1327)
+                      +++++++++. ..+|++++|+||||++|..++..+++.++++++|+++++++++...+++++|++++++++..|.|++++
+T Consensus       329 ~~~~~~~~~~~~~~p~~~sVaE~qp~~~~~~~~~~~~~~~l~~iGl~~~~~~~~~~~lfll~~~~~~~~~s~~~~R~~~~  408 (718)
+T 6EZN_F          329 FYSLWDTNYAKIHIPIIASVSEHQPVSWPAFFFDTHFLIWLFPAGVFLLFLDLKDEHVFVIAYSVLCSYFAGVMVRLMLT  408 (718)
+T ss_dssp             -----------------------CCCCHHHHHHHSSSTTTTHHHHHHHHHTTCCSSHHHHHHHHHHHHHHHHHCSTTHHH
+T ss_pred             HHHHhcccccccCccccccHhhcCCCCHHHHHhhhhHHHHHHHHHHHHHHhCCChHHHHHHHHHHHHHHHHHHhHHHHHH
+Confidence            8777776555 678899999999999999888887777777888988887766667788999999999999999999999
+
+
+Q LOKIASV2_05250  419 FTPAINLLAGYALSNLSTALGRIMRKQTRTGSRRKRQVKRVLGRSEAFVAYSLIAILLFVQANHAADYAENQLPYADI--  496 (1327)
+Q Consensus       419 lAPavALLAg~~l~~Ll~~~~~il~k~~~~~~krkr~~k~~lg~~~~~ia~~lI~ill~v~~~~~~~ya~~~~~~~~~--  496 (1327)
+                      ++|++|+++|+++..+.+...++++..+   +.+++. +....+   .++.+++++++.....++.+.....++.|++  
+T Consensus       409 ~~~~~~il~g~~l~~l~~~~~~~~~~~~---~~~~~~-~~~~~~---~~~~~~~~ll~~~~~~~~~~~~~~~~~~p~i~~  481 (718)
+T 6EZN_F          409 LTPVICVSAAVALSKIFDIYLDFKTSDR---KYAIKP-AALLAK---LIVSGSFIFYLYLFVFHSTWVTRTAYSSPSVVL  481 (718)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHSCCCC----------CCH-HHHHHH---HHHHHHHHHHHHHHHHHHHHHHHHHSCCCSSSC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHhccCCCCc---cccCch-hHHHHH---HHHHHHHHHHHHHHHHHHHHHHHhhcCCCeEEe
+Confidence            9999999999999998876543221100   000000 000000   0011111111122223333323233333321  
+
+
+Q LOKIASV2_05250  497 ------VSAGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTTIGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAEL  570 (1327)
+Q Consensus       497 ------~s~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~i  570 (1327)
+                            +.....+||.++++|||+|+|++++|++|||||||+..+++|++++|+++++.+++..+++.+++ +|+++.++
+T Consensus       482 ~~~~~~~~~~~~~d~~~a~~wl~~ntp~~~~V~swwd~G~~i~~~~~r~~~~d~~~~~~~~~~~~~~~~~~-~e~~a~~~  560 (718)
+T 6EZN_F          482 PSQTPDGKLALIDDFREAYYWLRMNSDEDSKVAAWWDYGYQIGGMADRTTLVDNNTWNNTHIAIVGKAMAS-PEEKSYEI  560 (718)
+T ss_dssp             CCCC---CCCCCCHHHHHHHHHHHSSCTTCEECCCGGGHHHHHHHTCCEESCCSSCSCHHHHHHHHHHHSS-CHHHHHHH
+T ss_pred             cCCCCCCCccccHHHHHHHHHHHHCCCCCCcEeeeccccchhhhccCCeeccCCCCCChhHHHHHHHHhcC-CHHHHHHH
+Confidence                  22346788999999999999999999999999999999999999999999998888888888888 89999999
+
+
+Q LOKIASV2_05250  571 FQVLKADYVLVYFGHLLNGIGGDEGKWPWMVRICNDNTN-KYEKMAAIPEEIKESFYSEDEVFNEANYINSSSGKYRENW  649 (1327)
+Q Consensus       571 l~~l~adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~~-~y~~~~~~~~~~~e~~~~~~~~f~e~~y~~~~~g~~~~~~  649 (1327)
+                      ++++++|||+++.++..++++||++|++||+||++++++ .+         .+.|+++..+     ++..  +..++++|
+T Consensus       561 l~~~~v~YVlv~~~~~~~~~~~d~~K~~~m~ri~~~~~~~~~---------~~~~~~~~~~-----~~~~--~~~~~~~~  624 (718)
+T 6EZN_F          561 LKEHDVDYVLVIFGGLIGFGGDDINKFLWMIRISEGIWPEEI---------KERDFYTAEG-----EYRV--DARASETM  624 (718)
+T ss_dssp             HHHTTCCEEEEECCTTTTCSCSTTTSSHHHHHHHHTTSTTTS---------CTTSSSCSSS-----CCCC--STTSCHHH
+T ss_pred             HHHCCCCEEEEEccccccCCCchhHHHHHHHHHhcCCCchhh---------chhhcccCCC-----cccc--CCcCCHHH
+Confidence            999999999999998887889999999999999999875 33         3345555444     5555  67789999
+
+
+Q LOKIASV2_05250  650 FGSTLVKLMFYGEAERINQAGGENQLINYLARQLQGDSEVDPRTDDYGNEWWSYDSIN-GNLELDYFNEAYFSSNHLVKI  728 (1327)
+Q Consensus       650 ~~stl~klm~yg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~-~~~~~~~f~~~~~S~~~~Vki  728 (1327)
+                      ++|++||||+++.++..                     +.++|+|    .+|+..+++ ...+++||||||+|+||+|||
+T Consensus       625 ~~slly~l~~~~~~~~~---------------------~~~~~~~----~~~~~~~~~~~~~~~~~f~~~~~s~~~~v~i  679 (718)
+T 6EZN_F          625 RNSLLYKMSYKDFPQLF---------------------NGGQATD----RVRQQMITPLDVPPLDYFDEVFTSENWMVRI  679 (718)
+T ss_dssp             HTSHHHHHHSTTCTTSS---------------------BTTBEEC----TTTCCEECTTSSCCCSSEEEEEECTTSCEEE
+T ss_pred             HhcHHHHhhccCchHhc---------------------cCCCccc----hhccccCCCCCCCChhheeEEEecCCceEEE
+Confidence            99999999999966532                     1245778    888887764 356899999999999999999
+
+
+Q LOKIASV2_05250  729 FEVDYTALNSAFTVKDPYIDT  749 (1327)
+Q Consensus       729 ykidyt~l~~~~~i~~~~~~~  749 (1327)
+                      |||++++++++...+++++..
+T Consensus       680 y~v~~~~~~~~~~~~~~~~~~  700 (718)
+T 6EZN_F          680 YQLKKDDAQGRTLRDVGELTR  700 (718)
+T ss_dssp             EEECCCCTTSCCHHHHHHHSS
+T ss_pred             EEecCccccCccccccccccc
+Confidence            999999999999999988763
+
+
+No 3
+>6S7O_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A (E.C.2.4.99.18); N-glycosylation, Oligosaccharyltransferase, OSTA, TRANSFERASE; HET: MAN, EGY, KZE, KZB, BMA, NAG; 3.5A {Homo sapiens}
+Probab=100.00  E-value=1.9e-69  Score=681.92  Aligned_cols=669  Identities=26%  Similarity=0.463  Sum_probs=512.8  Template_Neff=9.800
+
+Q LOKIASV2_05250   27 PFFYLSIILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARY-NLRPGLLLA  105 (1327)
+Q Consensus        27 ~l~~laLiLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~-~~~PgL~~t  105 (1327)
+                      ....+++++++++++++|+..... ++..++++|+++|++.++++.++|.+++++|+|++.|||.|++.+ +++|+++++
+T Consensus        17 ~~~~~~l~~i~~l~~~irl~~~~~-~~~~~~~~D~~~~~~~~~~l~~~g~~~~~~~~d~~~~~p~g~~~~~~~~pl~~~~   95 (705)
+T 6S7O_A           17 LLKLLILSMAAVLSFSTRLFAVLR-FESVIHEFDPYFNYRTTRFLAEEGFYKFHNWFDDRAWYPLGRIIGGTIYPGLMIT   95 (705)
+T ss_dssp             HHHHHHHHHHHHHHHHHHCSHHHH-SCCCCCSSSHHHHHHHHHHHHHHCSHHHHSCEECSSSTTSCEEHHHHSCCHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHh-hccccccCCHHHHHHHHHHHHHhCCcccccCCCCcccCCCCCcCCCCcchHHHHH
+Confidence            344456666778888999998666 666678899999999999999999888889999999999999877 678999999
+
+
+Q LOKIASV2_05250  106 ASFCYWVLNGLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPGHMQRTVAGFFDNETVGVFS  185 (1327)
+Q Consensus       106 aA~lY~il~~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E~igif~  185 (1327)
+                      .+.++++++.+|.+.+...+++++++++++++++++|+++|+++++++|+++++++++.|.++.++..|++|+|.+++++
+T Consensus        96 ~a~~~~l~~~~~~~~~~~~~~~~~~~l~~~l~~~~~y~l~~~~~~~~~al~aall~~~~p~~~~~s~~g~~~~~~~~~~~  175 (705)
+T 6S7O_A           96 SAAIYHVLHFFHITIDIRNVCVFLAPLFSSFTTIVTYHLTKELKDAGAGLLAAAMIAVVPGYISRSVAGSYDNEGIAIFC  175 (705)
+T ss_dssp             HHHHHHHHHHTTCCCCHHHHHHTHHHHHHHHHHHHHHHHHHHHSCHHHHHHHHHHHHSCHHHHHSSCTTCCCHHHHHHHH
+T ss_pred             HHHHHHHHHhcCCCCcHHHHHHHHHHHHHHHHHHHHHHHHHHHcchhHHHHHHHHHHHhHHHHHhhccCCCccHHHHHHH
+Confidence            99988888755655566788999999999999999999999999889999999999999999999999999999999999
+
+
+Q LOKIASV2_05250  186 VLLTFLFFIKAVKYGKLSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVILILINKYNSRVLMAYSTTIGIGILIYSINP  265 (1327)
+Q Consensus       186 ~ll~~lffirAlK~~ki~~silAGl~lG~l~~sWGG~~fi~~li~l~~lilill~rys~rll~aysi~i~iglli~~l~P  265 (1327)
+                      ++++++++.++.++++.++.+++|+++++++++|+++.+++++++++.++.++.++..++....+.+++++++++++..|
+T Consensus       176 ~~l~~~~~~~~~~~~~~~~~~l~gl~~~l~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~p  255 (705)
+T 6S7O_A          176 MLLTYYMWIKAVKTGSICWAAKCALAYFYMVSSWGGYVFLINLIPLHVLVLMLTGRFSHRIYVAYCTVYCLGTILSMQIS  255 (705)
+T ss_dssp             HHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHCTTHHHHTTTHHHHHHHHHHHTCCCHHHHHHHHHHHHHHHHHHHTTS
+T ss_pred             HHHHHHHHHHHHhcCCHHHHHHHHHHHHHHHHhccchHHHHHHHHHHHHHHHHcCCCChhHHHHHHHHHHHHHHHHhhcc
+Confidence            99999999999887778888999999999999999999887777766666666666666667777777888888888899
+
+
+Q LOKIASV2_05250  266 GTSWSKIITDFEVIIPLITLVFLLFYHTV--YTQKGTGIYKTTF---RIIKIASIPAAIALAIILWQAPEILPFNLGGRL  340 (1327)
+Q Consensus       266 ~~~~~~~lts~~~ll~l~~lv~Ll~~~~i--~~~k~~~i~k~~~---~ii~i~~I~a~I~laiil~~~~~ilp~~l~gr~  340 (1327)
+                      +.++.+..+++ ++.+++++++++...++  .+.+.. + +...   +... ++++++++++++++...+.+ .|+++|.
+T Consensus       256 ~~~~~~~~s~~-~~~~~~~~~~~~~~~~~~~~~~~~~-~-~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~-~p~~~~~  330 (705)
+T 6S7O_A          256 FVGFQPVLSSE-HMAAFGVFGLCQIHAFVDYLRSKLN-P-QQFEVLFRSVI-SLVGFVLLTVGALLMLTGKI-SPWTGRF  330 (705)
+T ss_dssp             SSTTHHHHSST-THHHHHHHHHHHHHHHHHHHHHHSC-H-HHHHHHC-----------------------CC-CCCCSTT
+T ss_pred             ccCCCcCCCHH-HHHHHHHHHHHHHHHHHHHHHhcCC-H-HHHHHHHHHHH-HHHHHHHHHHHHHHHHcccc-CcchHHH
+Confidence            99998888877 87777776665554433  222222 1 1110   1111 11111111111112222333 4778888
+
+
+Q LOKIASV2_05250  341 LSILNPNIR-ETFNLVASVGEHAPSPWSVFYFNAMIPVLLTVPGFYFALRRGNAEDILMIIFVLTLFYFTGSMIRIILIF  419 (1327)
+Q Consensus       341 lsvlnP~vr-~~~pLvaSVAEH~ps~Ws~fy~~~~I~ill~~~Giy~~lrr~~~~diflllf~ltslYfA~SmVRL~lll  419 (1327)
+                      ++.++|.+. ...|++++|+||||++|..++..+++.++++++|+++++++++...++++++++++++++..|.|+++++
+T Consensus       331 ~~~~~~~~~~~~~~~~~sv~E~~p~~~~~~~~~~~~~~~l~~~gl~~~~~~~~~~~~fl~~~~~~~~~~s~~~~R~~~~~  410 (705)
+T 6S7O_A          331 YSLLDPSYAKNNIPIIASVSEHQPTTWSSYYFDLQLLVFMFPVGLYYCFSNLSDARIFIIMYGVTSMYFSAVMVRLMLVL  410 (705)
+T ss_dssp             HHHHSTTHHHHTCTTTTTSGGGSCCCHHHHHHHCSSSGGGHHHHHHHHHHSCCTTHHHHHHHHHHHHHHHHHCSGGGGGG
+T ss_pred             HHHhChhhccCCCCceechhhhCCCcHHHHHHHHHHHHHHHHHHHHHHHhcCChhHHHHHHHHHHHHHHHHhhHHHHHHH
+Confidence            888887655 5788999999999999998888777777777888888877667778899999999999999999999999
+
+
+Q LOKIASV2_05250  420 TPAINLLAGYALSNLSTALGRIMRKQTRTGSRRKRQVKR-VLGRSEAFVAYSLIAILLFVQANHAADYAENQLPYADI--  496 (1327)
+Q Consensus       420 APavALLAg~~l~~Ll~~~~~il~k~~~~~~krkr~~k~-~lg~~~~~ia~~lI~ill~v~~~~~~~ya~~~~~~~~~--  496 (1327)
+                      +|++|+++|+++..+++...+..+..+.+++++++..++ ...+.....++++++++++....++.+.....++.|++  
+T Consensus       411 ~p~~~il~~~~l~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~s~p~~~~  490 (705)
+T 6S7O_A          411 APVMCILSGIGVSQVLSTYMKNLDISRPDKKSKKQQDSTYPIKNEVASGMILVMAFFLITYTFHSTWVTSEAYSSPSIVL  490 (705)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHTTTSSSCC---------------CCHHHHHHHHHHHHHHHHHHHHHHHHCCCCCCCCSSSE
+T ss_pred             HHHHHHHHHHHHHHHHHHHHhcccCCCCCcccCccCCCCCcccHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCeEEE
+Confidence            999999999999988876543321110000001000000 00000000011111111222223333333333333332  
+
+
+Q LOKIASV2_05250  497 ------VSAGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTTIGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAEL  570 (1327)
+Q Consensus       497 ------~s~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~i  570 (1327)
+                            +.....+||+||+.|||+|||++++|++|||||||+..+++|++++||+++|+++++.+++++++ +|+++.++
+T Consensus       491 ~~~~~~~~~~~~~~~~~a~~wL~~ntp~~~~VlswwdyG~~i~~~~~r~~~~d~~t~n~~~i~~v~~~~~~-~e~~a~~i  569 (705)
+T 6S7O_A          491 SARGGDGSRIIFDDFREAYYWLRHNTPEDAKVMSWWDYGYQITAMANRTILVDNNTWNNTHISRVGQAMAS-TEEKAYEI  569 (705)
+T ss_dssp             ECC------CEECHHHHHHHHHHHSSCTTCEEECCSTTSHHCCCCCCCEESCCTTCCCHHHHHHHHHHHHS-CHHHHHHH
+T ss_pred             eecCCCCCccccHHHHHHHHHHHHhCCCCCCeecccccccHHHHhcCCeEEeCCCCcchHHHHHHHHHHcC-CHHHHHHH
+Confidence                  23346789999999999999999999999999999999999999999999999999999999999 99999999
+
+
+Q LOKIASV2_05250  571 FQVLKADYVLVYFGHLLNGIGGDEGKWPWMVRICNDNTN--KYEKMAAIPEEIKESFYSEDEVFNEANYINSSSGKYREN  648 (1327)
+Q Consensus       571 l~~l~adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~~--~y~~~~~~~~~~~e~~~~~~~~f~e~~y~~~~~g~~~~~  648 (1327)
+                      ++++++|||++++++...++++|.+|++||+||+++.++  ++         ++.|+++..+     +|+.  +.+++++
+T Consensus       570 l~~~~vdYVlv~~~~~~~~~~~d~~k~~~~~ri~~~~~~~~~~---------~~~~~~~~~g-----~~~~--~~~~~~~  633 (705)
+T 6S7O_A          570 MRELDVSYVLVIFGGLTGYSSDDINKFLWMVRIGGSTDTGKHI---------KENDYYTPTG-----EFRV--DREGSPV  633 (705)
+T ss_dssp             HHHHTCCEEEEECCTTTTCSSCTTTTHHHHHHHHTTSSSCTTT---------CGGGSSCTTS-----CCCS--STTSCTT
+T ss_pred             HHHcCCCEEEEEecCCCCCCccHHHHHHHHHHHhccCCCCCcc---------ccccccCCCC-----ceec--CCCCCHH
+Confidence            999999999999999888889999999999999999987  55         4567776566     6777  7789999
+
+
+Q LOKIASV2_05250  649 WFGSTLVKLMFYGEAERINQAGGENQLINYLARQLQGDSEVDPRTDDYGNEWWSYDSINGNLELDYFNEAYFSSNHLVKI  728 (1327)
+Q Consensus       649 ~~~stl~klm~yg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~f~~~~~S~~~~Vki  728 (1327)
+                      |++|++||||+|++++...                  ..+.++|+|    ++|+.++++++.++++|||||+|+||+|||
+T Consensus       634 ~~~sl~~~l~~~~~~~~~~------------------~~~~~~~~d----~~~~~~~~~~~~~~~~~~~v~~s~~~~vri  691 (705)
+T 6S7O_A          634 LLNCLMYKMCYYRFGQVYT------------------EAKRPPGFD----RVRNAEIGNKDFELDVLEEAYTTEHWLVRI  691 (705)
+T ss_dssp             TTTSHHHHTTCTTCTTCCC------------------SSSSCSSEE----TTTTEECSCSCCCCSSEEEEEECTTSCEEE
+T ss_pred             HHHcHHHHhhccccccccc------------------ccCCCCCcc----cccccccCCCCCCcccEEEEEEcCCeEEEE
+Confidence            9999999999999877432                  223567899    999998888888999999999999999999
+
+
+Q LOKIASV2_05250  729 FEVDYTALNSAF  740 (1327)
+Q Consensus       729 ykidyt~l~~~~  740 (1327)
+                      |||++++++++.
+T Consensus       692 ykv~~~~~~~~~  703 (705)
+T 6S7O_A          692 YKVKDLDNRGLS  703 (705)
+T ss_dssp             EEECCCCTTCCC
+T ss_pred             EEEcCccccccc
+Confidence            999999988764
+
+
+No 4
+>3WAJ_A Transmembrane oligosaccharyl transferase (E.C.2.4.1.119); oligosaccharyltransferase, N-glycosylation, Archaeoglobus fulgidus, GT-C; 2.501A {Archaeoglobus fulgidus}
+Probab=100.00  E-value=8.4e-45  Score=470.98  Aligned_cols=545  Identities=17%  Similarity=0.278  Sum_probs=306.9  Template_Neff=8.300
+
+Q LOKIASV2_05250   30 YLSIILIFILAVLVRLSPRVEN---TSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAA  106 (1327)
+Q Consensus        30 ~laLiLI~ilA~~IRl~P~i~~---~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~ta  106 (1327)
+                      ..++++++++++++|+......   +.....+.|+|+|++.++++++++.  ...|+|++.++|.|..+ .++|++.++.
+T Consensus        14 ~~~ll~i~ll~l~lR~~~~~~~~~~~~~~~~~~D~~~h~~~~~~il~~~~--~~~~~d~~~~~p~G~~~-~~~pL~~~l~   90 (875)
+T 3WAJ_A           14 LSVLVIAALISVKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFP--HRIWFDPFTYYPYGSYT-HFGPFLVYLG   90 (875)
+T ss_dssp             -CTTTHHHHHHHCCCCCTTHHHHBSSSBCCCSSHHHHHHHHHHHHHHTTT--CCCSEETTSTTTTCEEC-CSCHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHhCcccccccccccccCCCHHHHHHHHHHHHHhCC--cccCCCccccCCCCccc-ccchHHHHHH
+Confidence            3445556677778887753210   1223467999999999999998763  23678999999999876 4778888888
+
+
+Q LOKIASV2_05250  107 SFCYWVLNGLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPG-HMQRTVAGFFDNETVGVFS  185 (1327)
+Q Consensus       107 A~lY~il~~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa-~i~RT~aGf~D~E~igif~  185 (1327)
+                      +.++.++|.. ...+...+++++++++++++++++|+++|++++++.|+++++++++.|. ++.++..|+.|+|.+..++
+T Consensus        91 a~~~~l~G~~-~~~~~~~~~~~~~~l~~~l~~i~vy~l~r~l~~~~~gl~aalllal~p~~~~~~s~~g~~d~~~~~~lf  169 (875)
+T 3WAJ_A           91 SIAGIIFSAT-SGESLRAVLAFIPAIGGVLAILPVYLLTREVFDKRAAVIAAFLIAIVPGQFLQRSILGFNDHHIWEAFW  169 (875)
+T ss_dssp             HHHHHHTTCC-SHHHHHHHHHHHHHHHHHTTHHHHHHHHHHHSCHHHHHHHHHHHTTCCSHHHHTTSTTCCCSHHHHHHH
+T ss_pred             HHHHHHhccC-CCccHHHHHHHHHHHHHHHHHHHHHHHHHHHccHHHHHHHHHHHHHchHHHHHHHhccCCchHHHHHHH
+Confidence            8887776521 1224467889999999999999999999999988899999999999999 4778998999999999988
+
+
+Q LOKIASV2_05250  186 VLLTFLFFIKAVKY------------GKLSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVILILINKYNSRV--LMAYS  251 (1327)
+Q Consensus       186 ~ll~~lffirAlK~------------~ki~~silAGl~lG~l~~sWGG~~fi~~li~l~~lilill~rys~rl--l~ays  251 (1327)
+                      +.++++++.+..+.            +++++++++|+++++++++|+++++++.++++++++.++.++...+.  .+...
+T Consensus       170 ~~l~ll~l~~~~~~~~~~~~~~~~~~~~~~~~~l~gl~~~l~~~~~~~~~l~~~i~~~~~~~~~~~~~~~~~~~~~l~~~  249 (875)
+T 3WAJ_A          170 QVSALGTFLLAYNRWKGHDLSHNLTARQMAYPVIAGITIGLYVLSWGAGFIIAPIILAFMFFAFVLAGFVNADRKNLSLV  249 (875)
+T ss_dssp             HHHHHHHHHHHHTTSSSCCC----CTTTSHHHHHHHHHHHHHHHHCGGGGGHHHHHHHHHHHHHHTTTTCCCCHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhcCCCCCCCCchhhhHHHHHHHHHHHHHHHHccchHHHHHHHHHHHHHHHHHhhhcCCChhHHHHH
+Confidence            88877777655432            23567899999999999999998877666665555544443322221  11111
+
+
+Q LOKIASV2_05250  252 TTIGIGILIYSIN----PGTSWSKIITDFEVIIP-LITLVFLLFYHTVYT--Q--KGTGIYKTTFRIIKIASIPAAIA--  320 (1327)
+Q Consensus       252 i~i~iglli~~l~----P~~~~~~~lts~~~ll~-l~~lv~Ll~~~~i~~--~--k~~~i~k~~~~ii~i~~I~a~I~--  320 (1327)
+                      ...++++.++..+    ++.++.....+..+... +++++.+.++..+-+  .  ... + +...+....+.++++++  
+T Consensus       250 ~~i~~~v~~ll~l~~~~~~~g~~~~~~s~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~-~~~~~~~~~~~~~~~~~~~  327 (875)
+T 3WAJ_A          250 AVVTFAVSALIYLPFAFNYPGFSTIFYSPFQLLVLLGSAVIAAAFYQIEKWNDVGFFE-R-VGLGRKGMPLAVIVLTALI  327 (875)
+T ss_dssp             HHHHHHHHHHHHGGGTTSSSSCCSSSSCHHHHHHHHHHHHHHHHHHHHHHHHHHTHHH-H-TTCGGGHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHcCCCCCchhhccHHHHHHHHHHHHHHHHHHHHHHccCCchhh-h-cCCCcchhHHHHHHHHHHH
+Confidence            1111111111111    33344322222112211 111111111111111  0  011 0 11111111111111111  
+
+
+Q LOKIASV2_05250  321 LAIILWQAPEILPFNLGGRLLSILNPNIRETFNLVASVGEHAPSPWSV--------FYFNAMIPVLLTVPGFYFAL----  388 (1327)
+Q Consensus       321 laiil~~~~~ilp~~l~gr~lsvlnP~vr~~~pLvaSVAEH~ps~Ws~--------fy~~~~I~ill~~~Giy~~l----  388 (1327)
+                      ++++..+.+.++ .....++ ..+     .......+|+|++|..+..        .+..+++.++++++|+.+++    
+T Consensus       328 ~~~~~~~~P~~~-~~~~~~~-~~~-----~~~~~~~tI~E~~p~~~~~~~~~~~~~~~~~~g~~~~l~l~gl~~l~~~~~  400 (875)
+T 3WAJ_A          328 MGLFFVISPDFA-RNLLSVV-RVV-----QPKGGALTIAEVYPFFFTHNGEFTLTNAVLHFGALFFFGMAGILYSAYRFL  400 (875)
+T ss_dssp             HHHHHC-----------------------------------------------CTHHHHHHTTHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHCHHHH-HHHHHHh-hhc-----CCCCCccchhHhccccccCCCCccHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            111111112221 1111110 000     1224566899999875422        11222333334445543332    
+
+
+Q LOKIASV2_05250  389 RRGNAEDILMIIFVLTLFYFTGSMIRIILIFTPAINLLAGYALSNLSTALGRIMRKQTRTGSRRKRQVKRVLGRSEAFVA  468 (1327)
+Q Consensus       389 rr~~~~diflllf~ltslYfA~SmVRL~lllAPavALLAg~~l~~Ll~~~~~il~k~~~~~~krkr~~k~~lg~~~~~ia  468 (1327)
+                      ++++...+++++|.++.++++..+.|+..++++++++++|+++..+++........++   ++++++   .... ... +
+T Consensus       401 ~~~~~~~~lllvw~~~~l~la~~q~Rf~~~lav~~ail~a~~l~~l~~~~~~~~~~~~---~~~~~~---~~~~-~~~-~  472 (875)
+T 3WAJ_A          401 KRRSFPEMALLIWAIAMFIALWGQNRFAYYFAAVSAVYSALALSVVFDKLHLYRALEN---AIGARN---KLSY-FRV-A  472 (875)
+T ss_dssp             HHCCHHHHHHHHHHHHHHHHTSSCGGGTHHHHHHHHHHHHHHHHHHGGGCC------------------------CCT-T
+T ss_pred             ccCChhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHHHHh---hccccc---cchH-HHH-H
+Confidence            2334456788899999999999999999999999999999999988876543221100   000000   0000 000 1
+
+
+Q LOKIASV2_05250  469 YSLIAILLFVQANHAADYAENQLPYADIVSAGSFHDWEETLTWTKNNLPGTT---------------------------V  521 (1327)
+Q Consensus       469 ~~lI~ill~v~~~~~~~ya~~~~~~~~~~s~g~~~DW~eAL~WiR~NTP~dA---------------------------V  521 (1327)
+                      +++++++++.  ............    ......++|.||++||++|+|+++                           .
+T Consensus       473 ~~~~~~l~l~--~~~~~~~~~~~~----~~~~~~~~~~eal~wl~~ntp~~~~~~~~y~~~y~~~~~~~~~~~yp~~~Y~  546 (875)
+T 3WAJ_A          473 FALLIALAAI--YPTYILADAQSS----YAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYG  546 (875)
+T ss_dssp             THHHHHHHHH--HHHHHHHHHSSS----CCCSCCHHHHHHHHHHHHHSSCHHHHHHHHTSCCCCCSCCSSCCCCSSCCCE
+T ss_pred             HHHHHHHHHH--HHHHHHHHhhcc----CCCCCCHHHHHHHHHHHHhCCCCCcchhhhhhhCCCCCCCCCCCCCCcccee
+Confidence            0111111110  000000000000    123456789999999999998765                           6
+
+
+Q LOKIASV2_05250  522 IVSWWDYGYWLTTIGNVTTVNDNGTWNQTR----IGLTGMAMMQNNERYSAELFQVLKADYVLVYFGHLLNGIGGDEGKW  597 (1327)
+Q Consensus       522 V~SWWDYGYWIt~ignRtTvaDNaT~N~Tq----I~~iG~afms~nE~~a~~il~~l~adYVLV~~g~~~~g~ggDegKw  597 (1327)
+                      |+||||||+||...++|.+++|+.+.+...    ....++++...+|+++.++++++++|||+++..+       +.+||
+T Consensus       547 VlSwwDyG~~I~~~~~R~~~anpfq~~~~~~~~~~~~aa~f~~a~~e~~a~~il~~~~v~YVivd~~~-------~~~kf  619 (875)
+T 3WAJ_A          547 VISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVAEKLNVKYVVSDIEM-------ETGKY  619 (875)
+T ss_dssp             EECCGGGHHHCCCCCCCEESCCTTSCSCCBTTTTBCSHHHHHTCSSHHHHHHHHHHTTEEEEEEEHHH-------HTTTH
+T ss_pred             EEeeccccchhhhhCCCCCcCCccccCCCcccCCCCChHHhhcCCCHHHHHHHHHHhCCCEEEEeecc-------ccccc
+Confidence            999999999999999999999976543221    1122345554478999999999999999997643       35899
+
+
+Q LOKIASV2_05250  598 PWMVRICNDNT  608 (1327)
+Q Consensus       598 ~WM~RIa~~~~  608 (1327)
+                      ++|++++++..
+T Consensus       620 ~a~~~~~~~~~  630 (875)
+T 3WAJ_A          620 YAMAVWAEGDL  630 (875)
+T ss_dssp             HHHHHHHHSSH
+T ss_pred             hHHhhhccCCC
+Confidence            99999999874
+
+
+No 5
+>3WAK_A Transmembrane oligosaccharyl transferase (E.C.2.4.1.119); oligosaccharyltransferase, N-glycosylation, Archaeoglobus fulgidus, GT-C; 3.413A {Archaeoglobus fulgidus}
+Probab=100.00  E-value=8.4e-45  Score=470.98  Aligned_cols=545  Identities=17%  Similarity=0.278  Sum_probs=323.0  Template_Neff=8.300
+
+Q LOKIASV2_05250   30 YLSIILIFILAVLVRLSPRVEN---TSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAA  106 (1327)
+Q Consensus        30 ~laLiLI~ilA~~IRl~P~i~~---~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~ta  106 (1327)
+                      ..++++++++++++|+......   +.....+.|+|+|++.++++++++.  ...|+|++.++|.|..+ .++|++.++.
+T Consensus        14 ~~~ll~i~ll~l~lR~~~~~~~~~~~~~~~~~~D~~~h~~~~~~il~~~~--~~~~~d~~~~~p~G~~~-~~~pL~~~l~   90 (875)
+T 3WAK_A           14 LSVLVIAALISVKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFP--HRIWFDPFTYYPYGSYT-HFGPFLVYLG   90 (875)
+T ss_dssp             HHHHHHHHHHHHCCCCCTTHHHHBSSSBCCCSSHHHHHHHHHHHHHHTTT--CCCSEETTSSTTTCEEC-CSCHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHhCcccccccccccccCCCHHHHHHHHHHHHHhCC--cccCCCccccCCCCccc-ccchHHHHHH
+Confidence            3445556677778887753210   1223467999999999999998763  23678999999999876 4778888888
+
+
+Q LOKIASV2_05250  107 SFCYWVLNGLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPG-HMQRTVAGFFDNETVGVFS  185 (1327)
+Q Consensus       107 A~lY~il~~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa-~i~RT~aGf~D~E~igif~  185 (1327)
+                      +.++.++|.. ...+...+++++++++++++++++|+++|++++++.|+++++++++.|. ++.++..|+.|+|.+..++
+T Consensus        91 a~~~~l~G~~-~~~~~~~~~~~~~~l~~~l~~i~vy~l~r~l~~~~~gl~aalllal~p~~~~~~s~~g~~d~~~~~~lf  169 (875)
+T 3WAK_A           91 SIAGIIFSAT-SGESLRAVLAFIPAIGGVLAILPVYLLTREVFDKRAAVIAAFLIAIVPGQFLQRSILGFNDHHIWEAFW  169 (875)
+T ss_dssp             HHHHHHTTCC-SHHHHHHHHTHHHHHHHHHTHHHHHHHHHHHSCHHHHHHHHHHTTTCCTHHHHTTSTTCCCSHHHHHHH
+T ss_pred             HHHHHHhccC-CCccHHHHHHHHHHHHHHHHHHHHHHHHHHHccHHHHHHHHHHHHHchHHHHHHHhccCCchHHHHHHH
+Confidence            8887776521 1224467889999999999999999999999988899999999999999 4778998999999999988
+
+
+Q LOKIASV2_05250  186 VLLTFLFFIKAVKY------------GKLSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVILILINKYNSRV--LMAYS  251 (1327)
+Q Consensus       186 ~ll~~lffirAlK~------------~ki~~silAGl~lG~l~~sWGG~~fi~~li~l~~lilill~rys~rl--l~ays  251 (1327)
+                      +.++++++.+..+.            +++++++++|+++++++++|+++++++.++++++++.++.++...+.  .+...
+T Consensus       170 ~~l~ll~l~~~~~~~~~~~~~~~~~~~~~~~~~l~gl~~~l~~~~~~~~~l~~~i~~~~~~~~~~~~~~~~~~~~~l~~~  249 (875)
+T 3WAK_A          170 QVSALGTFLLAYNRWKGHDLSHNLTARQMAYPVIAGITIGLYVLSWGAGFIIAPIILAFMFFAFVLAGFVNADRKNLSLV  249 (875)
+T ss_dssp             HHHHHHHHHHHHHHHTTCCTTSSSTGGGGHHHHHHHHHHHHHHTTCGGGGGHHHHHHHHHHHHHHTTTTSCCCHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhcCCCCCCCCchhhhHHHHHHHHHHHHHHHHccchHHHHHHHHHHHHHHHHHhhhcCCChhHHHHH
+Confidence            88877777655432            23567899999999999999998877666665555544443322221  11111
+
+
+Q LOKIASV2_05250  252 TTIGIGILIYSIN----PGTSWSKIITDFEVIIP-LITLVFLLFYHTVYT--Q--KGTGIYKTTFRIIKIASIPAAIA--  320 (1327)
+Q Consensus       252 i~i~iglli~~l~----P~~~~~~~lts~~~ll~-l~~lv~Ll~~~~i~~--~--k~~~i~k~~~~ii~i~~I~a~I~--  320 (1327)
+                      ...++++.++..+    ++.++.....+..+... +++++.+.++..+-+  .  ... + +...+....+.++++++  
+T Consensus       250 ~~i~~~v~~ll~l~~~~~~~g~~~~~~s~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~-~~~~~~~~~~~~~~~~~~~  327 (875)
+T 3WAK_A          250 AVVTFAVSALIYLPFAFNYPGFSTIFYSPFQLLVLLGSAVIAAAFYQIEKWNDVGFFE-R-VGLGRKGMPLAVIVLTALI  327 (875)
+T ss_dssp             HHHHHHHHHHHHGGGSCSSSSCCSSSCCHHHHHHHHHHHHHHHHHHHHHHHHHTTHHH-H-TTCGGGHHHHHHHHHHHSS
+T ss_pred             HHHHHHHHHHHHHHHHcCCCCCchhhccHHHHHHHHHHHHHHHHHHHHHHccCCchhh-h-cCCCcchhHHHHHHHHHHH
+Confidence            1111111111111    33344322222112211 111111111111111  0  011 0 11111111111111111  
+
+
+Q LOKIASV2_05250  321 LAIILWQAPEILPFNLGGRLLSILNPNIRETFNLVASVGEHAPSPWSV--------FYFNAMIPVLLTVPGFYFAL----  388 (1327)
+Q Consensus       321 laiil~~~~~ilp~~l~gr~lsvlnP~vr~~~pLvaSVAEH~ps~Ws~--------fy~~~~I~ill~~~Giy~~l----  388 (1327)
+                      ++++..+.+.++ .....++ ..+     .......+|+|++|..+..        .+..+++.++++++|+.+++    
+T Consensus       328 ~~~~~~~~P~~~-~~~~~~~-~~~-----~~~~~~~tI~E~~p~~~~~~~~~~~~~~~~~~g~~~~l~l~gl~~l~~~~~  400 (875)
+T 3WAK_A          328 MGLFFVISPDFA-RNLLSVV-RVV-----QPKGGALTIAEVYPFFFTHNGEFTLTNAVLHFGALFFFGMAGILYSAYRFL  400 (875)
+T ss_dssp             TTGGGTSCTTHH-HHHHHHH-SCC-----CSCCSSCCCSSSSCTTSCSSSCCCSHHHHHHHTTHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHCHHHH-HHHHHHh-hhc-----CCCCCccchhHhccccccCCCCccHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            111111112221 1111110 000     1224566899999875422        11222333334445543332    
+
+
+Q LOKIASV2_05250  389 RRGNAEDILMIIFVLTLFYFTGSMIRIILIFTPAINLLAGYALSNLSTALGRIMRKQTRTGSRRKRQVKRVLGRSEAFVA  468 (1327)
+Q Consensus       389 rr~~~~diflllf~ltslYfA~SmVRL~lllAPavALLAg~~l~~Ll~~~~~il~k~~~~~~krkr~~k~~lg~~~~~ia  468 (1327)
+                      ++++...+++++|.++.++++..+.|+..++++++++++|+++..+++........++   ++++++   .... ... +
+T Consensus       401 ~~~~~~~~lllvw~~~~l~la~~q~Rf~~~lav~~ail~a~~l~~l~~~~~~~~~~~~---~~~~~~---~~~~-~~~-~  472 (875)
+T 3WAK_A          401 KRRSFPEMALLIWAIAMFIALWGQNRFAYYFAAVSAVYSALALSVVFDKLHLYRALEN---AIGARN---KLSY-FRV-A  472 (875)
+T ss_dssp             HSCCHHHHHHHHHHHHHHHHHHHCGGGGGGTHHHHHHHHHHHHHHHHHHTCTTTTHHH---HTTCCC---CCCH-HHH-H
+T ss_pred             ccCChhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHHHHh---hccccc---cchH-HHH-H
+Confidence            2334456788899999999999999999999999999999999988876543221100   000000   0000 000 1
+
+
+Q LOKIASV2_05250  469 YSLIAILLFVQANHAADYAENQLPYADIVSAGSFHDWEETLTWTKNNLPGTT---------------------------V  521 (1327)
+Q Consensus       469 ~~lI~ill~v~~~~~~~ya~~~~~~~~~~s~g~~~DW~eAL~WiR~NTP~dA---------------------------V  521 (1327)
+                      +++++++++.  ............    ......++|.||++||++|+|+++                           .
+T Consensus       473 ~~~~~~l~l~--~~~~~~~~~~~~----~~~~~~~~~~eal~wl~~ntp~~~~~~~~y~~~y~~~~~~~~~~~yp~~~Y~  546 (875)
+T 3WAK_A          473 FALLIALAAI--YPTYILADAQSS----YAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYG  546 (875)
+T ss_dssp             HHHHHHHHHH--HHHHHHHHHHSS----CCCSCCHHHHHHHHHHHTTSSSHHHHHHHSSSCCCCCSCCSSCCCCSSCCCE
+T ss_pred             HHHHHHHHHH--HHHHHHHHhhcc----CCCCCCHHHHHHHHHHHHhCCCCCcchhhhhhhCCCCCCCCCCCCCCcccee
+Confidence            0111111110  000000000000    123456789999999999998765                           6
+
+
+Q LOKIASV2_05250  522 IVSWWDYGYWLTTIGNVTTVNDNGTWNQTR----IGLTGMAMMQNNERYSAELFQVLKADYVLVYFGHLLNGIGGDEGKW  597 (1327)
+Q Consensus       522 V~SWWDYGYWIt~ignRtTvaDNaT~N~Tq----I~~iG~afms~nE~~a~~il~~l~adYVLV~~g~~~~g~ggDegKw  597 (1327)
+                      |+||||||+||...++|.+++|+.+.+...    ....++++...+|+++.++++++++|||+++..+       +.+||
+T Consensus       547 VlSwwDyG~~I~~~~~R~~~anpfq~~~~~~~~~~~~aa~f~~a~~e~~a~~il~~~~v~YVivd~~~-------~~~kf  619 (875)
+T 3WAK_A          547 VISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVAEKLNVKYVVSDIEM-------ETGKY  619 (875)
+T ss_dssp             EECCGGGHHHHHHHHCSCBSSBTTTBSCCBTTTTBCSSHHHHTCSSSHHHHHHHHHTTEEEEEEEHHH-------HTTTH
+T ss_pred             EEeeccccchhhhhCCCCCcCCccccCCCcccCCCCChHHhhcCCCHHHHHHHHHHhCCCEEEEeecc-------ccccc
+Confidence            999999999999999999999976543221    1122345554478999999999999999997643       35899
+
+
+Q LOKIASV2_05250  598 PWMVRICNDNT  608 (1327)
+Q Consensus       598 ~WM~RIa~~~~  608 (1327)
+                      ++|++++++..
+T Consensus       620 ~a~~~~~~~~~  630 (875)
+T 3WAK_A          620 YAMAVWAEGDL  630 (875)
+T ss_dssp             HHHHHHHHSSH
+T ss_pred             hHHhhhccCCC
+Confidence            99999999874
+
+
+No 6
+>5OGL_A Peptide-binding protein, Substrate mimicking peptide; Oligosaccharyltransferase, Complex, Protein N-glycosylation, Bacteria; HET: 9UB, PPN; 2.7A {Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060)}
+Probab=99.94  E-value=1.6e-31  Score=338.99  Aligned_cols=477  Identities=16%  Similarity=0.200  Sum_probs=276.8  Template_Neff=9.900
+
+Q LOKIASV2_05250   31 LSIILIFILAVLVRLSP---------RVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPG  101 (1327)
+Q Consensus        31 laLiLI~ilA~~IRl~P---------~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~Pg  101 (1327)
+                      +++++++++++++|+..         ........+.+.|+++|.+.++.+.+++.     +.|....|         +|+
+T Consensus        18 ~~l~~~~~~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~D~~~~~~~a~~~~~~~~-----~~~~~~~~---------~p~   83 (713)
+T 5OGL_A           18 ILILIAFAFSVLARLYWVAWASEFYEFFFNDQLMITTNDGYAFAEGARDMIAGFH-----QPNDLSYF---------GSS   83 (713)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHTTCGGGEETTEECCSSTTHHHHHHHHHHHHHTCC-----CTTSCCCT---------TCH
+T ss_pred             HHHHHHHHHHHHHHHHHHHhhcccceeeeCCeeeeeccCHHHHHHHHHHHHhcCC-----CCCccccc---------cch
+Confidence            34455567777888874         11101223457899999999999999762     22222222         355
+
+
+Q LOKIASV2_05250  102 LLLAASFCYWVLNGLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPGHMQRTVAGFFDNETV  181 (1327)
+Q Consensus       102 L~~taA~lY~il~~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E~i  181 (1327)
+                      ++++.+.++++++   .  +...++.++++++++++++++|+++|++.++..|+++++++++.|.++.++..|++++|.+
+T Consensus        84 ~~~l~~~~~~~~g---~--~~~~~~~~~~~l~~~l~~~~~~~l~~~l~~~~~~~~a~ll~~~~p~~~~~~~~~~~~~~~l  158 (713)
+T 5OGL_A           84 LSTLTYWLYSILP---F--SFESIILYMSTFFASLIVVPIILIAREYKLTTYGFIAALLGSIANSYYNRTMSGYYDTDML  158 (713)
+T ss_dssp             HHHHHHHHHHHSC---S--CHHHHHHHHHHHHGGGGHHHHHHHHHHTTCHHHHHHHHHHHHHCHHHHHTTSTTCCSGGGG
+T ss_pred             HHHHHHHHHHHCC---C--CHHHHHHHHHHHHHHHHHHHHHHHHHHhcCchHHHHHHHHHHHcHHHHHhhhccCCCCHHH
+Confidence            6666666666544   1  4456788999999999999999999999988899999999999999999998888999999
+
+
+Q LOKIASV2_05250  182 GVFSVLLTFLFFIKAVKYGKLSNGIFAGISLGFLSLSWGGLT-FVYGLIPVLVVILILINKYNSRVLMAYSTTIGIGILI  260 (1327)
+Q Consensus       182 gif~~ll~~lffirAlK~~ki~~silAGl~lG~l~~sWGG~~-fi~~li~l~~lilill~rys~rll~aysi~i~iglli  260 (1327)
+                      .+++++++++++.+..++++.++.+++|++++++.++|.... +.+.+++++++..++.+++.++......+ +++  .+
+T Consensus       159 ~~~~~~l~l~~~~~~~~~~~~~~~~~~~l~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~--~~  235 (713)
+T 5OGL_A          159 VLVLPMLILLTFIRLTINKDIFTLLLSPVFIMIYLWWYPSSYSLNFAMIGLFGLYTLVFHRKEKIFYLTIAL-MII--AL  235 (713)
+T ss_dssp             TTHHHHHHHHHHHHHHHHCCTTHHHHHHHHHHHHHHHCGGGHHHHHHHHHHHHHHHHHHTTTCHHHHHHHHH-HHH--HH
+T ss_pred             HHHHHHHHHHHHHHHHhCcchHHHHHHHHHHHHHHhhCcchHHHHHHHHHHHHHHHHHhcCCchHHHHHHHH-HHH--HH
+Confidence            999999999999998877667788899999999999886653 32333333333333333332222211111 111  11
+
+
+Q LOKIASV2_05250  261 YSINPGTSWSKIITDFEVIIPLITLVFLLFYHTVYTQKGTGIYKTTFRIIKIASIPAAIALAIILWQAPEILPFNLGGRL  340 (1327)
+Q Consensus       261 ~~l~P~~~~~~~lts~~~ll~l~~lv~Ll~~~~i~~~k~~~i~k~~~~ii~i~~I~a~I~laiil~~~~~ilp~~l~gr~  340 (1327)
+                       ...++.+          ...+++  ++. ..+...++ .   +.. +..  ..+.++++++   +..+..+ .+...+.
+T Consensus       236 -~~~~~~~----------~~~~~~--~~~-~~~~~~~~-~---~~~-~~~--~~~~~~~~~~---~~~~~~~-~~~~~~~  290 (713)
+T 5OGL_A          236 -SMLAWQY----------KLALIV--LLF-AIFAFKEE-K---INF-YMI--WALIFISILI---LHLSGGL-DPVLYQL  290 (713)
+T ss_dssp             -SCCCHHH----------HHHHHH--HHH-HHHHHCSS-C---CCH-HHH--HHHHHHHHHH---HHHTTTT-HHHHHHH
+T ss_pred             -hcchHHH----------HHHHHH--HHH-HHHHhhcc-c---cch-HHH--HHHHHHHHHH---HHHhccc-cHHHHHH
+Confidence             1111111          000000  000 00011111 1   101 111  0111111111   1111111 1111111
+
+
+Q LOKIASV2_05250  341 LS-ILN-------PNIR-ETFNLVASVGEHAPSPWSVFYFNAM---IPVLLTVPGFYFALRRGNAEDILMIIFVLTLFYF  408 (1327)
+Q Consensus       341 ls-vln-------P~vr-~~~pLvaSVAEH~ps~Ws~fy~~~~---I~ill~~~Giy~~lrr~~~~diflllf~ltslYf  408 (1327)
+                      .. .+.       .... ...+...+++|+++..+..+...++   +.++++++|+.+++++++. .+++++++++++++
+T Consensus       291 ~~y~~~~~~~~~~~~~~~~~~~~~~~i~e~~~~~~~~~~~~~~~~~~~~~l~l~g~~~~~~~~~~-~~~~l~~~~~~~~~  369 (713)
+T 5OGL_A          291 KFYVFKASDVQNLKDAAFMYFNVNETIMEVNTIDPEVFMQRISSSVLVFILSFIGFILLLKDHKS-MLLALPMLALGFMA  369 (713)
+T ss_dssp             HHHTSCCSCCSCCTTTSCCCCCGGGGBGGGCCCCHHHHHHHHHSSHHHHHHHHHHHHHHHTTCGG-GGGGHHHHHHHHHH
+T ss_pred             HHhhcCcccccccccchhccccHHHhHHhhCCCCHHHHHHhccchHHHHHHHHHHHHHHHhcCcc-hHhHHHHHHHHHHH
+Confidence            00 000       0000 1223466788988877655443322   2333445565555444333 45566777777777
+
+
+Q LOKIASV2_05250  409 TGSMIRIILIFTPAINLLAGYALSNLSTALGRIMRKQTRTGSRRKRQVKRVLGRSEAFVAYSLIAILLFVQANHAADYAE  488 (1327)
+Q Consensus       409 A~SmVRL~lllAPavALLAg~~l~~Ll~~~~~il~k~~~~~~krkr~~k~~lg~~~~~ia~~lI~ill~v~~~~~~~ya~  488 (1327)
+                      +....|+..+++|++++++|+++..+.+...+...      + +++.    . +.  .++++++++++.....+.     
+T Consensus       370 ~~~~~Rf~~~~~p~~~i~~~~~l~~~~~~~~~~~~------~-~~~~----~-~~--~~~~~l~~~~~~~~~~~~-----  430 (713)
+T 5OGL_A          370 LRAGLRFTIYAVPVMALGFGYFLYAFFNFLEKKQI------K-LSLR----N-KN--ILLILIAFFSISPALMHI-----  430 (713)
+T ss_dssp             HHHCGGGGGGGHHHHHHHHHHHHHHHHHHHHHTTC------C-CCHH----H-HH--HHHHHHHHHHHHHHHHHH-----
+T ss_pred             HHhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc------c-cchh----H-HH--HHHHHHHHHHHHHHHHHH-----
+Confidence            78889999999999999999999988764332110      0 0000    0 00  001011111111111111     
+
+
+Q LOKIASV2_05250  489 NQLPYADIVSAGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTTIGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSA  568 (1327)
+Q Consensus       489 ~~~~~~~~~s~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~  568 (1327)
+                      ..+.    ..+....++.++++|+++|+|++++|++||||||++.++++|+++.||+.++..+....+..+..  +++..
+T Consensus       431 ~~~~----~~~~~~~~~~~a~~~l~~~~~~~~~v~~~wd~G~~~~~~~~~~~~~dg~~~~~~~~~~~~~~l~~--~~~~~  504 (713)
+T 5OGL_A          431 YYYK----SSTVFTSYEASILNDLKNKAQREDYVVAWWDYGYPIRYYSDVKTLIDGGKHLGKDNFFSSFVLSK--EQIPA  504 (713)
+T ss_dssp             HHCC----CCCSSCHHHHHHHHHHHHHSCTTCEEECCGGGHHHHHHHHCCEESCBTTBCSHHHHHHHHHHHHS--CHHHH
+T ss_pred             Hhhc----CCCCCChhHHHHHHHHHHHCCccCeEEeeccccchhHHcCCCeeEecCCcccCCcchHHHHHhcC--CchHH
+Confidence            1111    12234567899999999999999999999999999999999999999988766666555555544  45555
+
+
+Q LOKIASV2_05250  569 ELFQVLKADYVL  580 (1327)
+Q Consensus       569 ~il~~l~adYVL  580 (1327)
+                      +.++++.++|..
+T Consensus       505 ~~~~~l~~~y~~  516 (713)
+T 5OGL_A          505 ANMARLSVEYTE  516 (713)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHhhh
+Confidence            666777777774
+
+
+No 7
+>2LGZ_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3 (E.C.2.4.1.119); CATALYTIC DOMAIN, OLIGOSACCHARYL TRANSFERASE, MEMBRANE; NMR {Saccharomyces cerevisiae}
+Probab=99.92  E-value=2.8e-30  Score=292.79  Aligned_cols=227  Identities=25%  Similarity=0.398  Sum_probs=190.7  Template_Neff=6.300
+
+Q LOKIASV2_05250  480 ANHAADYAENQLPYADI--------VSAGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTTIGNVTTVNDNGTWNQTR  551 (1327)
+Q Consensus       480 ~~~~~~ya~~~~~~~~~--------~s~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~ignRtTvaDNaT~N~Tq  551 (1327)
+                      ..||++..+.+|++|++        +.....+||.+|+.||++|||++++|++||||||||..+++|++++|+++++.++
+T Consensus        18 ~~~~~~~~~~~ys~psi~~~~~~~~~~~~~~~dw~eAl~WLr~NTp~da~VLSWWDyGy~I~~~a~R~vvad~~t~n~~~   97 (273)
+T 2LGZ_A           18 GSHSTWVTRTAYSSPSVVLPSQTPDGKLALIDDFREAYYWLRMNSDEDSKVAAWWDYGYQIGGMADRTTLVDNNTWNNTH   97 (273)
+T ss_dssp             CSCCHHHHTGGGCCSSCCTTTCCCCCCCHHHHHHHHHHHHHSCCCSSSCHHHHHHHHHHTTCTTTCCCTTTTTHHHHHHH
+T ss_pred             eEechhHHHHhcCCCEEEEeeeCCCCCccccHHHHHHHHHHHHcCCCCCcEEeecchhhHHhHhcCCeeeeCCCCCcchh
+Confidence            36777777777887776        1235688999999999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_05250  552 IGLTGMAMMQNNERYSAELFQVLKADYVLVYFGHLLNGIGGDEGKWPWMVRICNDNTN-KYEKMAAIPEEIKESFYSEDE  630 (1327)
+Q Consensus       552 I~~iG~afms~nE~~a~~il~~l~adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~~-~y~~~~~~~~~~~e~~~~~~~  630 (1327)
+                      +..++++|++ +|++|.++|++++++||++.+++..+++++|++||+||+||+++..+ .+         .+.++++..+
+T Consensus        98 ~~~va~ff~s-~e~eA~~iL~~~~v~YVlv~~~~~~~~~~dDi~Kf~~m~ria~~~~~~~~---------~~~~~~~~~g  167 (273)
+T 2LGZ_A           98 IAIVGKANAS-PEEKSYEILKEHDVDYVLVIFGGLIGFGGDDINKFLWNIRISEGIWPEEI---------KERDFYTAEG  167 (273)
+T ss_dssp             HHHHHHHHHS-SSSCCCTHHHHHHHHHHHHHHSSTTSSSSCSSCSSCCSSCCCCCSCTTHH---------HHHHSCCCSS
+T ss_pred             hHhHHhhccC-CHHHHHHHHHHCCCCEEEEEecccccCCCchhHHHHHHHHHhcCCCchHh---------cccccccCCC
+Confidence            8899999999 99999999999999999999999888889999999999999998864 33         2345554333
+
+
+Q LOKIASV2_05250  631 VFNEANYINSSSGKYRENWFGSTLVKLMFYGEAERINQAGGENQLINYLARQLQGDSEVDPRTDDYGNEWWSYDSIN-GN  709 (1327)
+Q Consensus       631 ~f~e~~y~~~~~g~~~~~~~~stl~klm~yg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~-~~  709 (1327)
+                           ++..  +..+++++++||++||++++.+...                     ..++|+|    .+|+..+++ ..
+T Consensus       168 -----~~~~--~~~~~~~~~~Sll~rL~~~~~s~~~---------------------~~~~g~d----~~r~~~i~~~~~  215 (273)
+T 2LGZ_A          168 -----EYRV--DARASETMRNSLLYKMSYKDFPQLF---------------------NGGQATD----RVRQQMITPLDV  215 (273)
+T ss_dssp             -----SSSS--CCTTHHHHHHHHHHHHHTTTSSCCC---------------------CCTTHHH----HHHHTTSCCCCS
+T ss_pred             -----ceec--cCccCHHHHHcHHHHhhcccchhhc---------------------cCCCccc----ccccccCCCCCC
+Confidence                 3444  5677889999999999999865522                     1245777    777776654 23
+
+
+Q LOKIASV2_05250  710 LELDYFNEAYFSSNHLVKIFEVDYTALNSAFTVKDPYID  748 (1327)
+Q Consensus       710 ~~~~~f~~~~~S~~~~Vkiykidyt~l~~~~~i~~~~~~  748 (1327)
+                      .++++||+||+|++|+||||||++.++++...+++++..
+T Consensus       216 ~~l~~f~lvy~S~~~~VrIYkV~~~~~~~~~~~~~~~~~  254 (273)
+T 2LGZ_A          216 PPLDYFDEVFTSENWNVRIYQLKKDDAQGRTLRDVGELT  254 (273)
+T ss_dssp             SCTTTHHHHHTTSCHHHHHHHHHHHHSSCSCHHHHTTGG
+T ss_pred             CChhheEEEEEeCCceEEEEEecCccccccchhhccccc
+Confidence            579999999999999999999999999999999998875
+
+
+No 8
+>3VU0_B Putative uncharacterized protein (E.C.2.4.1.119); glycotransferase, Asn-glycosylation, membrane, TRANSFERASE; HET: MES; 1.94A {Archaeoglobus fulgidus}
+Probab=99.77  E-value=5.9e-23  Score=217.40  Aligned_cols=150  Identities=23%  Similarity=0.342  Sum_probs=121.2  Template_Neff=7.700
+
+Q LOKIASV2_05250  501 SFHDWEETLTWTKNNLP----------GTTVIVSWWDYGYWLTTIGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAEL  570 (1327)
+Q Consensus       501 ~~~DW~eAL~WiR~NTP----------~dAVV~SWWDYGYWIt~ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~i  570 (1327)
+                      ...+|.+|+.|||+|+|          ++++|++||||||||..+++|++++|+.+.+..   .++.+|.+.+|+++.++
+T Consensus         3 ~~~~~~~Al~WL~~ntp~~~~~~~~~~~~~~Vlswwd~G~~I~~~a~R~~v~~~~~~~~~---~~~~~f~~~~~~~a~~~   79 (162)
+T 3VU0_B            3 MTMDWKEALNWMKENLEAQDYLKAYEKPDYAVLSWWDYGNWILYVAKKAVVCNNFQAGAD---DAAKFFTAQSEEEAMKI   79 (162)
+T ss_dssp             CCHHHHHHHHHHHHHSCCCCSCTTTSCCSCEEECCGGGHHHCCCCCCCCBSCSBTTBSHH---HHHHHHHCSSHHHHHHH
+T ss_pred             CCHHHHHHHHHHHHhCchhHHHHhhcCCCcEEEEecchhhHHHHHcCCeeecCCcccCHH---HHHHHHhcCCHHHHHHH
+Confidence            35789999999999999          899999999999999999999999999876543   45566664489999999
+
+
+Q LOKIASV2_05250  571 FQVLKADYVLVYFGHLLNGIGGDEGKWPWMVRICNDNTNKYEKMAAIPEEIKESFYSEDEVFNEANYINSSSGKYRENWF  650 (1327)
+Q Consensus       571 l~~l~adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~~~y~~~~~~~~~~~e~~~~~~~~f~e~~y~~~~~g~~~~~~~  650 (1327)
+                      |++++++||++....... .++|++||+||+||++.....+                          .   ...++++++
+T Consensus        80 l~~~~v~YV~v~~~~~~~-~~~~~~K~~~~~~~a~~~~~~~--------------------------~---~~~~~~~~~  129 (162)
+T 3VU0_B           80 VEKRKVRYVVTVEELTVK-PETNKTKFIPIMQIAGYSPEYM--------------------------K---NKEIIDFFN  129 (162)
+T ss_dssp             HHHHTEEEEEEEGGGSCC-TTCSCCTHHHHHHHHTCCGGGS--------------------------C---HHHHHHHHT
+T ss_pred             HHHcCCCEEEEecccccC-CcchhhhHHHHHHHHCCCHHHc--------------------------c---cccchHHHH
+Confidence            999999999998776543 6789999999999987652111                          0   113567799
+
+
+Q LOKIASV2_05250  651 GSTLVKLMFYGEAERINQAGGENQLINYLARQLQGDSEVDPRTDDYGNEWWSYDSINGNLELDYFNEAYFSSNHLVKIFE  730 (1327)
+Q Consensus       651 ~stl~klm~yg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~f~~~~~S~~~~Vkiyk  730 (1327)
+                      +|+++||++++.                                               .++++|++||  +++.|||||
+T Consensus       130 ~s~~~rL~~~~~-----------------------------------------------~~~~~f~~V~--e~~~v~IY~  160 (162)
+T 3VU0_B          130 KTMLYKLHVENA-----------------------------------------------TNLTHFRLLK--NFGTVKIFE  160 (162)
+T ss_dssp             TSHHCCCCCTTT-----------------------------------------------TTCSSEEEEE--EETTEEEEE
+T ss_pred             HhHHHHHhhccC-----------------------------------------------CCcccEEEEE--ecCcEEEEE
+Confidence            999999997641                                               2357999996  556999999
+
+
+Q LOKIASV2_05250  731 VD  732 (1327)
+Q Consensus       731 id  732 (1327)
+                      |+
+T Consensus       161 v~  162 (162)
+T 3VU0_B          161 VK  162 (162)
+T ss_dssp             EC
+T ss_pred             eC
+Confidence            85
+
+
+No 9
+>3WAI_A Maltose-binding periplasmic protein, Transmembrane oligosaccharyl; oligosaccharyltransferase, N-glycosylation, MBP fusion, GT-C; 1.897A {Escherichia coli, Archaeoglobus fulgidus}
+Probab=99.69  E-value=6.6e-21  Score=245.25  Aligned_cols=100  Identities=23%  Similarity=0.507  Sum_probs=86.5  Template_Neff=8.100
+
+Q LOKIASV2_05250  501 SFHDWEETLTWTKNNLPGTTV---------------------------IVSWWDYGYWLTTIGNVTTVNDNGT------W  547 (1327)
+Q Consensus       501 ~~~DW~eAL~WiR~NTP~dAV---------------------------V~SWWDYGYWIt~ignRtTvaDNaT------~  547 (1327)
+                      ..++|++++.|||+|+|+++.                           |+|||||||||+.+++|.+++|+++      +
+T Consensus       370 ~~~dw~~a~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~~wwdyg~~~~~~~~~~~~~~~~~~~~~~~~  449 (739)
+T 3WAI_A          370 TNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKY  449 (739)
+T ss_dssp             HHHHHHHHHHHHHHHSSCHHHHHCC-----------------CTTCCEECCCGGGHHHHHHTSCCEESSCSCCCCCCBTT
+T ss_pred             HHHHHHHHHHHHHHhCCCCCcchhhceeccCCCCCCCCCCCCCcccceeEeehHhhHHhhhcccCCCCCCccccCCCCcc
+Confidence            357899999999999999986                           9999999999999999999999544      4
+
+
+Q LOKIASV2_05250  548 NQTRIGLTGMAMMQNNERYSAELFQVLKADYVLVYFGHLLNGIGGDEGKWPWMVRICNDNTN  609 (1327)
+Q Consensus       548 N~TqI~~iG~afms~nE~~a~~il~~l~adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~~  609 (1327)
+                      ++.+++  +.+|++.+|++|.++++++++|||+|.+++.       .+||.||+||+++.++
+T Consensus       450 ~~~~~~--~~~~~~~~e~~a~~~~~~~~~~Yv~v~~~~~-------~~k~~~~~~~~~~~~~  502 (739)
+T 3WAI_A          450 NNVPGA--SSFFTAENESYAEFVAEKLNVKYVVSDIEME-------TGKYYAMAVWAEGDLP  502 (739)
+T ss_dssp             TTBCSH--HHHHTCSSHHHHHHHHHHTTCCEEEEEHHHH-------TTTHHHHHHHHHTSTG
+T ss_pred             CCCCCc--hhhcccCCHHHHHHHHHHcCCCEEEEecccc-------ccchhHhheeccCCCC
+Confidence            455554  5677555899999999999999999998764       3899999999999865
+
+
+No 10
+>3VGP_A Transmembrane oligosaccharyl transferase, putative; glycosyltransferase, cell membrane, TRANSFERASE; 1.75A {Archaeoglobus fulgidus}
+Probab=99.66  E-value=1.8e-20  Score=198.87  Aligned_cols=151  Identities=23%  Similarity=0.341  Sum_probs=119.2  Template_Neff=8.000
+
+Q LOKIASV2_05250  500 GSFHDWEETLTWTKNNLPG----------TTVIVSWWDYGYWLTTIGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAE  569 (1327)
+Q Consensus       500 g~~~DW~eAL~WiR~NTP~----------dAVV~SWWDYGYWIt~ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~  569 (1327)
+                      ...++|.+|+.|||+|+|+          +++|++||||||||..+++|++++|+...+   ...++.++.+.+|+++.+
+T Consensus         3 ~~~~~~~~al~Wl~~ntp~~~~~~~~~~~~~~Vlswwd~G~~i~~~a~r~~~~~~~~~~---~~~v~~~~~~~~~~~a~~   79 (164)
+T 3VGP_A            3 DLTEDWKEALEWMRTSLEEQNYLNPYEKPEYSVMSWWDYGNWILYVSKKAVVANNFQAG---AVDAAKFFTAKSEDEAIK   79 (164)
+T ss_dssp             CCCHHHHHHHHHHHHHHHTCCC-CTTSSCSCSEECCCCHHHHTTTCSTTCSSCSSHHHH---HHHHHHHHTCSSHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHhcccccCCCCcCCCCceEEEecchhhHHHHHcCCeeecCCCccC---HHHHHHHHhCCCHHHHHH
+Confidence            3567899999999999998          799999999999999999999999887653   445666776657899999
+
+
+Q LOKIASV2_05250  570 LFQVLKADYVLVYFGHLLNGIGGDEGKWPWMVRICNDNTNKYEKMAAIPEEIKESFYSEDEVFNEANYINSSSGKYRENW  649 (1327)
+Q Consensus       570 il~~l~adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~~~y~~~~~~~~~~~e~~~~~~~~f~e~~y~~~~~g~~~~~~  649 (1327)
+                      +|++++++||++......  .++|.+||+||+|+++.....+                          .   ...+++++
+T Consensus        80 ~l~~~~v~Yv~v~~~~~~--~~~~~~k~~~i~~~~~~~~~~~--------------------------~---~~~~~~~~  128 (164)
+T 3VGP_A           80 IAKKRGVRYVVTADEITM--KDANNTKFPAIMRIAGYNVDLM--------------------------T---EGEILNFF  128 (164)
+T ss_dssp             HHHHHTCCEEEECGGGTT--SCTTSCSHHHHHHHTTCCGGGS--------------------------C---HHHHHHHH
+T ss_pred             HHHHhCCCEEEEechhhc--CccccccHHHHHHHhCCChhhc--------------------------c---ccccchhc
+Confidence            999999999999755432  4678899999999987553211                          0   12345678
+
+
+Q LOKIASV2_05250  650 FGSTLVKLMFYGEAERINQAGGENQLINYLARQLQGDSEVDPRTDDYGNEWWSYDSINGNLELDYFNEAYFSSNHLVKIF  729 (1327)
+Q Consensus       650 ~~stl~klm~yg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~f~~~~~S~~~~Vkiy  729 (1327)
+                      ++++++||+.++                                               ...+++|++||.++  .|+||
+T Consensus       129 ~~t~~~rl~~~~-----------------------------------------------~~~~~~f~lV~~~~--~v~Iy  159 (164)
+T 3VGP_A          129 NHTVLYRLHMEN-----------------------------------------------AENLTHFRLVKEFG--DVKIF  159 (164)
+T ss_dssp             HTSHHCCCCCTT-----------------------------------------------TTTCSSEEEEEEET--TEEEE
+T ss_pred             HhchHHHhhhcc-----------------------------------------------cccccceeEEEEeC--cEEEE
+Confidence            899999997654                                               11256899997554  99999
+
+
+Q LOKIASV2_05250  730 EVDY  733 (1327)
+Q Consensus       730 kidy  733 (1327)
+                      ||..
+T Consensus       160 ~v~~  163 (164)
+T 3VGP_A          160 EVVG  163 (164)
+T ss_dssp             EETT
+T ss_pred             EEcC
+Confidence            9975
+
+
+No 11
+>2ZAI_C Oligosaccharyl transferase stt3 subunit related; Multi-domain proteins (alpha and beta); 2.7A {Pyrococcus furiosus}
+Probab=99.40  E-value=1.6e-16  Score=191.74  Aligned_cols=100  Identities=27%  Similarity=0.586  Sum_probs=76.2  Template_Neff=4.800
+
+Q LOKIASV2_05250  499 AGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTT--IGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAELFQVLKA  576 (1327)
+Q Consensus       499 ~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~--ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~il~~l~a  576 (1327)
+                      +...++|.+|+.|||+|+|++++|+||||||||+.+  +++|++++||+..+ .+...+++++++ ++++|.++|+++++
+T Consensus        15 p~i~~~wveAL~WLk~NTp~d~vVlSWWDYGY~I~y~~~A~R~TvaDGg~~~-~~~yiiA~~Lts-s~~~A~~iL~k~~v   92 (497)
+T 2ZAI_C           15 EIETSGWEDALKWLRENTPEYSTATSWWDYGYWIESSLLGQRRASADGGHAR-DRDHILALFLAR-DGNISEVDFESWEL   92 (497)
+T ss_dssp             --CTTSHHHHHHHHHTTSCTTCCEECGGGHHHHCCCCCCC----------CC-SHHHHHHHHHTC-CSGGGCCCGGGGTC
+T ss_pred             CCCCchHHHHHHHHHHhCCCCCeeeeccccccceehhhhcCCcccccCCCCC-chhhHHHHHHhC-CcchHHHHHHhCCC
+Confidence            456789999999999999999999999999999999  99999999999765 334455677777 88899999999999
+
+
+Q LOKIASV2_05250  577 DYVLVYFGHLLNGIGGDEGKWPWMVRICNDNT  608 (1327)
+Q Consensus       577 dYVLV~~g~~~~g~ggDegKw~WM~RIa~~~~  608 (1327)
+                      +|+++..        ++++|++||.++++..+
+T Consensus        93 ~Yviv~~--------dmI~Kf~wI~~fG~~~~  116 (497)
+T 2ZAI_C           93 NYFLVYL--------NDWAKFNAISYLGGAIT  116 (497)
+T ss_dssp             CEEEEEG--------GGGGGHHHHHHHTTSSC
+T ss_pred             CEEEEeH--------HHHHhHHHHHHhccccc
+Confidence            9999864        57799999999987543
+
+
+No 12
+>5AZA_A Maltose-binding periplasmic protein,Oligosaccharyl transferase stt3; Fusion protein, SUGAR BINDING PROTEIN; HET: MAL; 2.08A {Escherichia coli}
+Probab=99.38  E-value=2.4e-16  Score=206.52  Aligned_cols=98  Identities=28%  Similarity=0.634  Sum_probs=64.1  Template_Neff=7.400
+
+Q LOKIASV2_05250  499 AGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTT--IGNVTTVNDNGT-WNQTRIGLTGMAMMQNNERYSAELFQVLK  575 (1327)
+Q Consensus       499 ~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~--ignRtTvaDNaT-~N~TqI~~iG~afms~nE~~a~~il~~l~  575 (1327)
+                      +...++|.+|+.|||+|||++++|+|||||||||++  +++|++++||++ ++..++  +++++++ +|+++.+++++++
+T Consensus       384 p~~~~~w~~al~wl~~ntp~~~~vlsWWDyG~~i~~~~~~~R~~~~d~~~~~~~~~~--~a~~~~~-~~~~a~~~~~~~~  460 (872)
+T 5AZA_A          384 AKAAAAWEDALKWLRENTPEYSTATSWWDYGYWIESSLLGQRRASADGGHARDRDHI--LALFLAR-DGNISEVDFESWE  460 (872)
+T ss_dssp             HHHHHHHHHHHHHHHHHSCTTCCEECC-------------------------CHHHH--HHHHHHC-CTGGGCCCTTTTT
+T ss_pred             HHhhHHHHHHHHHHHhcCCCCCcceeeccccceeeeecccCCCCccCCCCCCchhHH--HHHHhcC-CCchHHHHHHhcC
+Confidence            446789999999999999999999999999999999  999999999995 443333  4556676 7889999999999
+
+
+Q LOKIASV2_05250  576 ADYVLVYFGHLLNGIGGDEGKWPWMVRICNDN  607 (1327)
+Q Consensus       576 adYVLV~~g~~~~g~ggDegKw~WM~RIa~~~  607 (1327)
+                      +|||++..        +|++||+||.|+++..
+T Consensus       461 ~~Yviv~~--------~~~~Kf~~i~~~~~~~  484 (872)
+T 5AZA_A          461 LNYFLVYL--------NDWAKFNAISYLGGAI  484 (872)
+T ss_dssp             CCEEEEEG--------GGGGGHHHHHHHTTSS
+T ss_pred             CCEEEEeh--------hHHhhHHHHHHhhccc
+Confidence            99999964        6789999999998853
+
+
+No 13
+>3VU1_A Putative uncharacterized protein PH0242 (E.C.2.4.1.119); glycotransferase, Asn-glycosylation, membrane, TRANSFERASE; 2.7A {Pyrococcus horikoshii}
+Probab=99.30  E-value=1.5e-15  Score=183.22  Aligned_cols=98  Identities=24%  Similarity=0.561  Sum_probs=76.0  Template_Neff=4.600
+
+Q LOKIASV2_05250  499 AGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTT--IGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAELFQVLKA  576 (1327)
+Q Consensus       499 ~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~--ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~il~~l~a  576 (1327)
+                      +...++|.+|+.|||+|+|+++.|+|||||||||.+  +++|++++||+.... ....++.++++ ++.++.+.++++++
+T Consensus         7 p~i~~dwveAL~WLk~NTp~dd~VlSWWDYGY~I~y~~~A~R~TvaDGg~~~~-~~~iaA~fL~s-d~~~ae~~l~~l~v   84 (506)
+T 3VU1_A            7 EIEVTGWEQALKWLRSNTSKYATATSWWDYGYWIESSLLGNRRASADGGHARD-RDHILALFLAR-DGNISEVDFESWEL   84 (506)
+T ss_dssp             CCCCCSHHHHHHHHHHHSCTTCCEEESSCTTTTCCCSCCSCCC--------CC-HHHHHHHHHHC-CSGGGCCCGGGGTC
+T ss_pred             cCCchhHHHHHHHHHHcCCCCCeeeecccccchhhhhhhcCCcccccCCCCCC-chhHHHHHHhc-CCCccHHHHHhCCC
+Confidence            346789999999999999999999999999999999  999999999997532 34445667776 67778889999999
+
+
+Q LOKIASV2_05250  577 DYVLVYFGHLLNGIGGDEGKWPWMVRICND  606 (1327)
+Q Consensus       577 dYVLV~~g~~~~g~ggDegKw~WM~RIa~~  606 (1327)
+                      +|+++.        .++++|++||.++++.
+T Consensus        85 ~YVIVs--------~dmi~KF~aI~~fG~w  106 (506)
+T 3VU1_A           85 NYFIIY--------LNDWAKFNAISYLGGA  106 (506)
+T ss_dssp             CEEEEE--------GGGGGGHHHHHHHTTS
+T ss_pred             CEEEEe--------HhHHhhHHHHHHHhcc
+Confidence            999995        4577999999999773
+
+
+No 14
+>3VU1_B Putative uncharacterized protein PH0242 (E.C.2.4.1.119); glycotransferase, Asn-glycosylation, membrane, TRANSFERASE; 2.7A {Pyrococcus horikoshii}
+Probab=99.30  E-value=1.5e-15  Score=183.22  Aligned_cols=98  Identities=24%  Similarity=0.561  Sum_probs=83.1  Template_Neff=4.600
+
+Q LOKIASV2_05250  499 AGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTT--IGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAELFQVLKA  576 (1327)
+Q Consensus       499 ~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~--ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~il~~l~a  576 (1327)
+                      +...++|.+|+.|||+|+|+++.|+|||||||||.+  +++|++++||+.... ....++.++++ ++.++.+.++++++
+T Consensus         7 p~i~~dwveAL~WLk~NTp~dd~VlSWWDYGY~I~y~~~A~R~TvaDGg~~~~-~~~iaA~fL~s-d~~~ae~~l~~l~v   84 (506)
+T 3VU1_B            7 EIEVTGWEQALKWLRSNTSKYATATSWWDYGYWIESSLLGNRRASADGGHARD-RDHILALFLAR-DGNISEVDFESWEL   84 (506)
+T ss_dssp             CCCCCSHHHHHHHHHHHSCTTCCEEESSCTTTTCCSTTTTCCCCCSSSSSCCH-HHHHHHHHHHC-CSGGGCCCGGGGTC
+T ss_pred             cCCchhHHHHHHHHHHcCCCCCeeeecccccchhhhhhhcCCcccccCCCCCC-chhHHHHHHhc-CCCccHHHHHhCCC
+Confidence            346789999999999999999999999999999999  999999999997532 34445667776 67778889999999
+
+
+Q LOKIASV2_05250  577 DYVLVYFGHLLNGIGGDEGKWPWMVRICND  606 (1327)
+Q Consensus       577 dYVLV~~g~~~~g~ggDegKw~WM~RIa~~  606 (1327)
+                      +|+++.        .++++|++||.++++.
+T Consensus        85 ~YVIVs--------~dmi~KF~aI~~fG~w  106 (506)
+T 3VU1_B           85 NYFIIY--------LNDWAKFNAISYLGGA  106 (506)
+T ss_dssp             CEEEEE--------GGGGGGHHHHHHHTTS
+T ss_pred             CEEEEe--------HhHHhhHHHHHHHhcc
+Confidence            999995        4577999999999773
+
+
+No 15
+>3AAG_A General glycosylation pathway protein; MULTIDOMAIN, TRANSFERASE; 2.8A {Campylobacter jejuni}
+Probab=99.23  E-value=7e-15  Score=170.51  Aligned_cols=81  Identities=22%  Similarity=0.335  Sum_probs=71.4  Template_Neff=7.500
+
+Q LOKIASV2_05250  499 AGSFHDWEETLTWTKNNLPGTTVIVSWWDYGYWLTTIGNVTTVNDNGTWNQTRIGLTGMAMMQNNERYSAELFQVLKADY  578 (1327)
+Q Consensus       499 ~g~~~DW~eAL~WiR~NTP~dAVV~SWWDYGYWIt~ignRtTvaDNaT~N~TqI~~iG~afms~nE~~a~~il~~l~adY  578 (1327)
+                      +...++|.+|+.||++|+|++++|++|||||||+.++++|++++||++++..+...+++++++ +|++|.++++.+ ++|
+T Consensus         9 ~~~~~~~~~al~wl~~ntp~~~~v~sWWDyGy~i~~~a~r~t~~Dg~~~~~~~~~~va~~l~s-~e~~a~~i~~~~-~~~   86 (291)
+T 3AAG_A            9 TVFSQNEASLLNQLKNIANREDYVVTWWDYGYPVRYYSDVKTLVDGGKHLGKDNFFPSFALSK-DEQAAANMARLS-VEY   86 (291)
+T ss_dssp             -----CHHHHHHHHHHHSCTTCEEECCGGGHHHHHHHHCCEESCBTTBCCHHHHHHHHHHHHS-CHHHHHHHHHHH-HHH
+T ss_pred             CCCCHHHHHHHHHHHHHCCCCCeEEeecccchHHHHhcCCeeeecCCCcCCccchhHHHHHcC-CHHHHHHHHHHH-HHH
+Confidence            346789999999999999999999999999999999999999999999999999999999999 899999999887 777
+
+
+Q LOKIASV2_05250  579 VLV  581 (1327)
+Q Consensus       579 VLV  581 (1327)
+                      +..
+T Consensus        87 ~~~   89 (291)
+T 3AAG_A           87 TEK   89 (291)
+T ss_dssp             HHH
+T ss_pred             hhc
+Confidence            753
+
+
+No 16
+>5EZM_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, zinc; HET: EPE, PC, PO4, MPG, DSL; 2.7A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=98.65  E-value=3.8e-11  Score=149.28  Aligned_cols=174  Identities=10%  Similarity=-0.004  Sum_probs=122.7  Template_Neff=10.800
+
+Q LOKIASV2_05250   34 ILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAASFCYWVL  113 (1327)
+Q Consensus        34 iLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~taA~lY~il  113 (1327)
+                      ++++++++++|+.....   ......|+..|...++.+.++|.+.. +..+       |.....++|+..++.+.+++++
+T Consensus        35 ~~~~~~~~~~~~~~~~~---~~~~~~De~~~~~~a~~~~~~~~~~~-~~~~-------~~~~~~~ppl~~~l~~~~~~l~  103 (578)
+T 5EZM_A           35 VLFVAVALVVWFVSLDM---RHLVGPDEGRYAEISREMFASGDWVT-IRYN-------ALKYFEKPPFHMWVTVVGYELF  103 (578)
+T ss_dssp             HHHHHHHHHHHHHGGGS---SCCCTTHHHHHHHHHHHHHHHCCSSS-CEET-------TEECCSSCSHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHhcCC---CCCCCcCHHHHHHHHHHHHHhCCCee-eEeC-------CEecccCCHHHHHHHHHHHHHH
+Confidence            33444455555554321   23356899999999999988663211 1010       1111134577777777776655
+
+
+Q LOKIASV2_05250  114 NGLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPGHMQRTVAGFFDNETVGVFSVLLTFLFF  193 (1327)
+Q Consensus       114 ~~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E~igif~~ll~~lff  193 (1327)
+                      |      ....+.+++++++++++++++|+++|++.+++.+++++++++++|.+...+..  ...|.+..++++++++++
+T Consensus       104 g------~~~~~~rl~~~l~~~l~~~~~y~~~~~~~~~~~a~~a~~l~~~~p~~~~~~~~--~~~d~~~~~~~~l~l~~~  175 (578)
+T 5EZM_A          104 G------LGEWQARLAVALSGLLGIGVSMMAARRWFGARAAAFTGLALLAAPMWSVAAHF--NTLDMTLAGVMSCVLAFM  175 (578)
+T ss_dssp             C------SSHHHHTHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHCHHHHHHHTS--CCHHHHHHHHHHHHHHHH
+T ss_pred             C------CCHHHHHHHHHHHHHHHHHHHHHHHHHHcCHHHHHHHHHHHHHhHHHHHHHhH--HchHHHHHHHHHHHHHHH
+Confidence            4      22457788999999999999999999998888899999999999988766655  446788888888888888
+
+
+Q LOKIASV2_05250  194 IKAVKYGK-----LSNGIFAGISLGFLSLSWGGLTFVY  226 (1327)
+Q Consensus       194 irAlK~~k-----i~~silAGl~lG~l~~sWGG~~fi~  226 (1327)
+                      .+..++++     .++.+++|+++++++++|+...+++
+T Consensus       176 ~~~~~~~~~~~~~~~~~~~~g~~~gl~~l~k~~~~~~~  213 (578)
+T 5EZM_A          176 LMGQHPDASVAARRGWMVACWAAMGVAILTKGLVGIAL  213 (578)
+T ss_dssp             HHHTCTTSCHHHHHHHHHHHHHHHHHHHHHHTTHHHHH
+T ss_pred             HHhhCCCcchhhchHHHHHHHHHHHHHHHhchhHHHHH
+Confidence            87765443     6678889999999999997665543
+
+
+No 17
+>5F15_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, GT-C; HET: EPE, MPG, 5TR; 3.2A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=98.65  E-value=3.8e-11  Score=149.28  Aligned_cols=174  Identities=10%  Similarity=-0.004  Sum_probs=122.7  Template_Neff=10.800
+
+Q LOKIASV2_05250   34 ILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAASFCYWVL  113 (1327)
+Q Consensus        34 iLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~taA~lY~il  113 (1327)
+                      ++++++++++|+.....   ......|+..|...++.+.++|.+.. +..+       |.....++|+..++.+.+++++
+T Consensus        35 ~~~~~~~~~~~~~~~~~---~~~~~~De~~~~~~a~~~~~~~~~~~-~~~~-------~~~~~~~ppl~~~l~~~~~~l~  103 (578)
+T 5F15_A           35 VLFVAVALVVWFVSLDM---RHLVGPDEGRYAEISREMFASGDWVT-IRYN-------ALKYFEKPPFHMWVTVVGYELF  103 (578)
+T ss_dssp             HHHHHHHHHHHHHGGGS---SCCCTTHHHHHHHHHHHHHHHCCCSS-CEET-------TEECTTSCSHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHhcCC---CCCCCcCHHHHHHHHHHHHHhCCCee-eEeC-------CEecccCCHHHHHHHHHHHHHH
+Confidence            33444455555554321   23356899999999999988663211 1010       1111134577777777776655
+
+
+Q LOKIASV2_05250  114 NGLGIPVTHFEVAYYFPAFMGGITVIVMYYLGKEILDRKAGLISAFFLAFSPGHMQRTVAGFFDNETVGVFSVLLTFLFF  193 (1327)
+Q Consensus       114 ~~lG~~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E~igif~~ll~~lff  193 (1327)
+                      |      ....+.+++++++++++++++|+++|++.+++.+++++++++++|.+...+..  ...|.+..++++++++++
+T Consensus       104 g------~~~~~~rl~~~l~~~l~~~~~y~~~~~~~~~~~a~~a~~l~~~~p~~~~~~~~--~~~d~~~~~~~~l~l~~~  175 (578)
+T 5F15_A          104 G------LGEWQARLAVALSGLLGIGVSMMAARRWFGARAAAFTGLALLAAPMWSVAAHF--NTLDMTLAGVMSCVLAFM  175 (578)
+T ss_dssp             C------SSHHHHSHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHCHHHHHHTTS--CSHHHHHHHHHHHHHHHH
+T ss_pred             C------CCHHHHHHHHHHHHHHHHHHHHHHHHHHcCHHHHHHHHHHHHHhHHHHHHHhH--HchHHHHHHHHHHHHHHH
+Confidence            4      22457788999999999999999999998888899999999999988766655  446788888888888888
+
+
+Q LOKIASV2_05250  194 IKAVKYGK-----LSNGIFAGISLGFLSLSWGGLTFVY  226 (1327)
+Q Consensus       194 irAlK~~k-----i~~silAGl~lG~l~~sWGG~~fi~  226 (1327)
+                      .+..++++     .++.+++|+++++++++|+...+++
+T Consensus       176 ~~~~~~~~~~~~~~~~~~~~g~~~gl~~l~k~~~~~~~  213 (578)
+T 5F15_A          176 LMGQHPDASVAARRGWMVACWAAMGVAILTKGLVGIAL  213 (578)
+T ss_dssp             HHHTCTTSCHHHHHHHHHHHHHHHHHHHHHHTTHHHHH
+T ss_pred             HHhhCCCcchhhchHHHHHHHHHHHHHHHhchhHHHHH
+Confidence            87765443     6678889999999999997665543
+
+
+No 18
+>6P25_B Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NAG, NNM, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=97.69  E-value=1.6e-07  Score=123.45  Aligned_cols=183  Identities=14%  Similarity=0.066  Sum_probs=109.2  Template_Neff=8.800
+
+Q LOKIASV2_05250   31 LSIILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAASFCY  110 (1327)
+Q Consensus        31 laLiLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~taA~lY  110 (1327)
+                      +++++++++++++|+..+..   .....+|+..+...++.+.+++.     ++|            .++|+..++.+++.
+T Consensus        66 ~~l~~ll~l~~~~r~~~l~~---~~~~~~De~~~~~~a~~~~~g~~-----~~~------------~~PPL~~ll~~~~~  125 (759)
+T 6P25_B           66 VMPVIFTALALFTRMYKIGI---NNHVVWDEAHFGKFGSYYLRHEF-----YHD------------VHPPLGKMLVGLSG  125 (759)
+T ss_dssp             ----HHHHHHHHHHSSSGGG---SCBCCTTHHHHHHHHHHHHTTBC-----CCC------------SSCTHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHcCC---CCcCccCHHHHHHHHHHHHhCCC-----CcC------------CCCHHHHHHHHHHH
+Confidence            34444556667777776432   22245799999999999888642     111            13466666666666
+
+
+Q LOKIASV2_05250  111 WVLNGLGIP----------VTHFEVAYYFPAFMGGITVIVMYYLGKEIL-DRKAGLISAFFLAFSPGHMQRTVAGFFDNE  179 (1327)
+Q Consensus       111 ~il~~lG~~----------vsl~~v~~~~Pai~GaLtvI~vYfLgkel~-g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E  179 (1327)
+                      .+++..|..          ......++++++++++++++++|+++|++. ++..++++++++++.|.++..+..  ...|
+T Consensus       126 ~l~g~~~~~~~~~~~~~~~~~~~~~~rl~s~l~~~l~~~~ly~i~r~l~~~~~~a~laall~~~~p~~~~~s~~--~~~d  203 (759)
+T 6P25_B          126 YLAGYNGSWDFPSGEIYPDYLDYVKMRLFNASFSALCVPLAYFTAKAIGFSLPTVWLMTVLVLFENSYSTLGRF--ILLD  203 (759)
+T ss_dssp             HTTTCCSCSCCCSSCBCCSSCCHHHHHHHHHHHHHHHHHHHHHHHH------------HHHH-SCHHHHHHTSS--SCSH
+T ss_pred             HHHCCCCCCCCcccccCCCcchHHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHCHHHHHHHhH--HHHH
+Confidence            655422100          012467899999999999999999999998 778999999999999998877665  5578
+
+
+Q LOKIASV2_05250  180 TVGVFSVLLTFLFFIKAVKYGK-------LSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVI  235 (1327)
+Q Consensus       180 ~igif~~ll~~lffirAlK~~k-------i~~silAGl~lG~l~~sWGG~~fi~~li~l~~li  235 (1327)
+                      .+.+++++++++++.+..++++       +++++++|+++|+++++|...++++++++++.++
+T Consensus       204 ~~~~~f~~lal~~l~~~~~~~~~~~~~~~~~~l~l~gl~lgla~~~K~~~l~~~~~i~l~~l~  266 (759)
+T 6P25_B          204 SMLLFFTVASFFSFVMFHNQRSKPFSRKWWKWLLITGISLGCTISVKMVGLFIITMVGIYTVI  266 (759)
+T ss_dssp             HHHHHHH------------HSSSTTSHHHHHHHHHHHHHHHHHHHHCGGGHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHhCCCCCChhHHHHHHHHHHHHHHHHHhchhHHHHHHHHHHHHHH
+Confidence            9999999999999998876432       4678899999999999988876665555444443
+
+
+No 19
+>6P2R_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NNM, CPL, NAG;{Saccharomyces cerevisiae W303}
+Probab=97.50  E-value=5.4e-07  Score=119.46  Aligned_cols=182  Identities=18%  Similarity=0.095  Sum_probs=131.6  Template_Neff=7.300
+
+Q LOKIASV2_05250   32 SIILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAASFCYW  111 (1327)
+Q Consensus        32 aLiLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~taA~lY~  111 (1327)
+                      ++++++++++++|++.+..  +. ...+|+..+...++.+.+++.     ++|            .++|+..++.+++.+
+T Consensus        52 ll~ll~lla~~lrl~~l~~--p~-~~~fDE~~~~~~A~~yi~g~~-----f~d------------~hPPL~klL~al~~~  111 (817)
+T 6P2R_A           52 LVACLAVFTAVIRLHGLAW--PD-SVVFDEVHFGGFASQYIRGTY-----FMD------------VHPPLAKMLYAGVAS  111 (817)
+T ss_dssp             HHHHHHHHHHHHTTTTTTS--SC-BCCTTHHHHHHHHHHHHHCBC-----CCC------------SSCSHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhhcCC--CC-CCCCcHHHHHHHHHHHHhCCC-----Ccc------------CCCHHHHHHHHHHHH
+Confidence            3444456666788876543  22 345899999999999888643     111            245666667777666
+
+
+Q LOKIASV2_05250  112 VLNGLGI-----------PVTHFEVAYYFPAFMGGITVIVMYYLGKEIL-DRKAGLISAFFLAFSPGHMQRTVAGFFDNE  179 (1327)
+Q Consensus       112 il~~lG~-----------~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~-g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E  179 (1327)
+                      ++|+.|.           +.....+++++++++++++++++|+++|+++ ++..|+++++++++.|.++..+..  ...|
+T Consensus       112 L~G~~g~f~f~~ig~~y~~~~~~~~~Rl~~al~g~l~v~llylllr~l~~s~~~Allaallla~~p~~i~~Sr~--il~D  189 (817)
+T 6P2R_A          112 LGGFQGDFDFENIGDSFPSTTPYVLMRFFSASLGALTVILMYMTLRYSGVRMWVALMSAICFAVENSYVTISRY--ILLD  189 (817)
+T ss_dssp             HTCCCSCCCCCSTTCBCCTTSCCHHHHHHHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHSCHHHHHHHHS--SCSH
+T ss_pred             HhcCCCCCCcccccCCCCCCChHHHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHcHHHHHHHHH--HhcH
+Confidence            6553221           0023457899999999999999999999988 568899999999999998877765  4578
+
+
+Q LOKIASV2_05250  180 TVGVFSVLLTFLFFIKAVKYGK-----LSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVI  235 (1327)
+Q Consensus       180 ~igif~~ll~~lffirAlK~~k-----i~~silAGl~lG~l~~sWGG~~fi~~li~l~~li  235 (1327)
+                      .+.++|++++++++.+..++++     +++++++|+++|++++++...++.++.++++.++
+T Consensus       190 ~~llfF~llal~~l~~~~~~~~~~~~~~~~lll~Gl~lGLa~stK~~gl~~i~~v~l~~l~  250 (817)
+T 6P2R_A          190 APLMFFIAAAVYSFKKYEMYPANSLNAYKSLLATGIALGMASSSKWVGLFTVTWVGLLCIW  250 (817)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTSCSSSHHHHHHHHHHHHHHHHHHTTCTTHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHhhCCCCCchHHHHHHHHHHHHHHHHHhhhHHHHHHHHHHHHHHH
+Confidence            9999999999999988765432     5678899999999999977666655544444333
+
+
+No 20
+>6P25_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NNM, NAG, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=97.47  E-value=6.2e-07  Score=118.88  Aligned_cols=182  Identities=18%  Similarity=0.095  Sum_probs=118.0  Template_Neff=7.300
+
+Q LOKIASV2_05250   32 SIILIFILAVLVRLSPRVENTSYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAASFCYW  111 (1327)
+Q Consensus        32 aLiLI~ilA~~IRl~P~i~~~~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~taA~lY~  111 (1327)
+                      ++++++++++++|++.+..  +. ...+|+..+...++.+.+++.     ++|            .++|+..++.+++.+
+T Consensus        52 ilill~~la~~lrl~~l~~--p~-~~~fDE~~~~~~A~~yi~g~~-----f~d------------~hPPL~klL~al~~~  111 (817)
+T 6P25_A           52 LVACLAVFTAVIRLHGLAW--PD-SVVFDEVHFGGFASQYIRGTY-----FMD------------VHPPLAKMLYAGVAS  111 (817)
+T ss_dssp             -----HHHHHHHTTTTTTS--SC-BCCTTHHHHHHHHHHHHHCBC-----CCC------------SSCTHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHcCC--CC-CCCCcHHHHHHHHHHHHhCCC-----Ccc------------CCCHHHHHHHHHHHH
+Confidence            3444456666778776543  22 245899999999999888653     111            245666667777666
+
+
+Q LOKIASV2_05250  112 VLNGLGI-----------PVTHFEVAYYFPAFMGGITVIVMYYLGKEIL-DRKAGLISAFFLAFSPGHMQRTVAGFFDNE  179 (1327)
+Q Consensus       112 il~~lG~-----------~vsl~~v~~~~Pai~GaLtvI~vYfLgkel~-g~~aGLlAAlflAi~Pa~i~RT~aGf~D~E  179 (1327)
+                      ++|+.|.           +.....+++++++++++++++++|+++|+++ ++..|+++++++++.|.++..+..  ...|
+T Consensus       112 L~G~~g~f~f~~ig~~y~~~~~~~~~Rl~sal~g~l~v~llylllr~l~~s~~~AllaalLla~~p~~i~~Sr~--il~D  189 (817)
+T 6P25_A          112 LGGFQGDFDFENIGDSFPSTTPYVLMRFFSASLGALTVILMYMTLRYSGVRMWVALMSAICFAVENSYVTISRY--ILLD  189 (817)
+T ss_dssp             HTCCCSCCCCCSTTCBCCTTSCCHHHHHHHHHHHHHHHHHHHH---HHTTCCHHHHHHHHHHHSCHHHHHHHHS--SCSH
+T ss_pred             HHCCCCCCChhhcCCCCCCCCcHHHHHHHHHHHHHHHHHHHHHHHHHHcCCHHHHHHHHHHHHHCHHHHHhHHH--HHHH
+Confidence            6553221           0023457899999999999999999999988 568899999999999998877765  4578
+
+
+Q LOKIASV2_05250  180 TVGVFSVLLTFLFFIKAVKYGK-----LSNGIFAGISLGFLSLSWGGLTFVYGLIPVLVVI  235 (1327)
+Q Consensus       180 ~igif~~ll~~lffirAlK~~k-----i~~silAGl~lG~l~~sWGG~~fi~~li~l~~li  235 (1327)
+                      .+.++|++++++++.+..++++     +++++++|+++|+++.++...++.+++++++.++
+T Consensus       190 ~~llfF~llal~~l~~~~~~~~~~~~~~~~lll~Gl~lGLa~stK~~gl~~i~~v~l~~l~  250 (817)
+T 6P25_A          190 APLMFFIAAAVYSFKKYEMYPANSLNAYKSLLATGIALGMASSSKWVGLFTVTWVGLLCIW  250 (817)
+T ss_dssp             HHHHHHHHHHHHH---------HH-------HHHHHHHHHHHTTCTTHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHhcCCCCchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            9999999999999988765432     5678899999999999977666655544444333
+
+
+No 21
+>6SNH_X Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (E.C.2.4.1.267); Glycosyltransferase, Glucosyltransferase, GT-C, N-Glycosylation, MEMBRANE; HET: LMH;{Saccharomyces cerevisiae}
+Probab=94.67  E-value=0.0051  Score=79.72  Aligned_cols=186  Identities=12%  Similarity=-0.017  Sum_probs=113.8  Template_Neff=7.300
+
+Q LOKIASV2_05250   32 SIILIFILAVLVRLSPRVENT---SYLIKAFDAWYQFDSFKALTEMGLYDWLHFRDYQFWYPQGVARYNLRPGLLLAASF  108 (1327)
+Q Consensus        32 aLiLI~ilA~~IRl~P~i~~~---~~li~efDPyy~YR~teylvenGl~~~~~w~D~~sWYP~Gr~~~~~~PgL~~taA~  108 (1327)
+                      .+.+++++++++|+......+   +......|...+..+++...+.+.   .+|+... ..+++.   .++|+..+..++
+T Consensus        56 ~~~~il~~alllR~~~~~~~~sg~~~pp~~~D~~~~~~W~~~~~~~p~---~~wY~~~-l~~~~~---dYPPl~~y~~~l  128 (562)
+T 6SNH_X           56 PEYIIFVCAVILRCTIGLGPYSGKGSPPLYGDFEAQRHWMEITQHLPL---SKWYWYD-LQYWGL---DYPPLTAFHSYL  128 (562)
+T ss_dssp             CCTHHHHHHHHHHHHHTTSCCTTTTCCSSCCHHHHHHHHHHHHTTSCG---GGSSSSC-TTSSCC---CSCHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHhcCCCCCCCCCCCCccHHHHHHHHHHHhhCCH---HHhcccc-ccccCC---CChHHHHHHHHH
+Confidence            345556778888987643200   111123566555555555544432   2233210 000111   456777766666
+
+
+Q LOKIASV2_05250  109 CYWVLNGLGIP-----------V---THFEVAYYFPAFMGGITVIV-MYYLGKEILD-----RKAGLISAFFLAFSPGHM  168 (1327)
+Q Consensus       109 lY~il~~lG~~-----------v---sl~~v~~~~Pai~GaLtvI~-vYfLgkel~g-----~~aGLlAAlflAi~Pa~i  168 (1327)
+                      +.++.+.++..           .   .....+++...++..+++++ +|++.+++.+     ++.+.++++++++.|..+
+T Consensus       129 ~~~i~~~~~~~~~~l~~s~g~~s~~~~~~~~~Rl~~il~dll~~~~av~~~~~~~~~~~~~~~~~~~~a~~l~l~~P~lI  208 (562)
+T 6SNH_X          129 LGLIGSFFNPSWFALEKSRGFESPDNGLKTYMRSTVIISDILFYFPAVIYFTKWLGRYRNQSPIGQSIAASAILFQPSLM  208 (562)
+T ss_dssp             HHHHHHHHCSGGGCTTTSTTCCCTTCTTHHHHHHHHHHHHHHHTHHHHHHHHHHHHHHHTCCHHHHHHHHHHHHTCHHHH
+T ss_pred             HHHHHHHcCHhHHHHhccCCCCCCChHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCCCchHHHHHHHHHHhCHHHH
+Confidence            65554322210           0   12446677777777777765 5677766542     456889999999999988
+
+
+Q LOKIASV2_05250  169 QRTVAGFFDNETVGVFSVLLTFLFFIKAVKYGKLSNGIFAGISLGFLSLSWGGLTFVYGLIPVL  232 (1327)
+Q Consensus       169 ~RT~aGf~D~E~igif~~ll~~lffirAlK~~ki~~silAGl~lG~l~~sWGG~~fi~~li~l~  232 (1327)
+                      ..+. ++...|.+..++++++++++.+  +     +.+++++++++++..|....+.++++.++
+T Consensus       209 l~~~-~~gQ~d~i~l~l~llsl~~l~~--~-----~~~la~v~fglal~~K~~~l~~~P~~~~~  264 (562)
+T 6SNH_X          209 LIDH-GHFQYNSVMLGLTAYAINNLLD--E-----YYAMAAVCFVLSICFKQMALYYAPIFFAY  264 (562)
+T ss_dssp             HHHT-TTCCCHHHHHHHHHHHHHHHHT--T-----CHHHHHHHHHHHHHHCGGGGGGHHHHHHH
+T ss_pred             HHhc-cccchHHHHHHHHHHHHHHHHc--c-----ChHHHHHHHHHHHHhhHHHHHHHHHHHHH
+Confidence            6654 3456788999999999988876  1     25778999999999998887766555544
+
+
+No 22
+>5TUG_A Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=83.47  E-value=0.68  Score=49.66  Aligned_cols=72  Identities=21%  Similarity=0.297  Sum_probs=45.5  Template_Neff=7.300
+
+Q LOKIASV2_05250  750 DGNGYAKLTNIGSEDLE-IT--SVGVEDEGNVNF-TIQN--S-----GDPSISPGESRYVWFNAYELPTPLSIATGFNVE  818 (1327)
+Q Consensus       750 ~G~~~~~~~NtG~~~~~-i~--~v~in~~~~~~~-~~~~--~-----~~~~~~~~e~~~vw~~~~~~~~~~~~~~~~~i~  818 (1327)
+                      ...-++.+||+|+..|. +.  +|-++|...+.. ..+.  .     .+..+.|||...|++....   +...+....|+
+T Consensus        46 ~~~l~v~vkNtG~t~l~d~~~~dV~v~g~~~~~~~~~~~~~~~~wt~~~~~w~PGetl~I~v~~~~---~~~~~~~~~V~  122 (135)
+T 5TUG_A           46 SNTVVAYLHNVGETTISYLQNSVVYFGPNGQLQPVGYNSGSSPYWTVTSNSLQPGSVVKIIIYLSS---PLSSNQYYTIQ  122 (135)
+T ss_dssp             SSEEEEEEEECSSSCEECGGGCEEEEEETTCCEEEEETCSSSSEEEESCSEECTTCEEEEEEECSS---CCCTTCCEEEE
+T ss_pred             CCEEEEEEEeCCCceeeccCceEEEEcCCCccccccccCCCCCceEEcCCeeCCCCEEEEEEEeCC---CCCCCceEEEE
+Confidence            35788999999999888 77  888887422211 1111  1     2356899999888876422   22233456666
+
+
+Q LOKIASV2_05250  819 IEAKAG  824 (1327)
+Q Consensus       819 v~a~~~  824 (1327)
+                      |-.+.|
+T Consensus       123 vvt~nG  128 (135)
+T 5TUG_A          123 IVTPNG  128 (135)
+T ss_dssp             EECTTC
+T ss_pred             EEcCCc
+Confidence            666555
+
+
+No 23
+>5TUH_B Flagellar biosynthesis protein FlaG; beta-sandwich fold Archaellum assembly subunit; 1.929A {Sulfolobus acidocaldarius}
+Probab=83.47  E-value=0.68  Score=49.66  Aligned_cols=72  Identities=21%  Similarity=0.297  Sum_probs=45.5  Template_Neff=7.300
+
+Q LOKIASV2_05250  750 DGNGYAKLTNIGSEDLE-IT--SVGVEDEGNVNF-TIQN--S-----GDPSISPGESRYVWFNAYELPTPLSIATGFNVE  818 (1327)
+Q Consensus       750 ~G~~~~~~~NtG~~~~~-i~--~v~in~~~~~~~-~~~~--~-----~~~~~~~~e~~~vw~~~~~~~~~~~~~~~~~i~  818 (1327)
+                      ...-++.+||+|+..|. +.  +|-++|...+.. ..+.  .     .+..+.|||...|++....   +...+....|+
+T Consensus        46 ~~~l~v~vkNtG~t~l~d~~~~dV~v~g~~~~~~~~~~~~~~~~wt~~~~~w~PGetl~I~v~~~~---~~~~~~~~~V~  122 (135)
+T 5TUH_B           46 SNTVVAYLHNVGETTISYLQNSVVYFGPNGQLQPVGYNSGSSPYWTVTSNSLQPGSVVKIIIYLSS---PLSSNQYYTIQ  122 (135)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEETTCCEEEEESCSSSSEEEESCSCBCTTCEEEEEEECSS---CCCTTSCEEEE
+T ss_pred             CCEEEEEEEeCCCceeeccCceEEEEcCCCccccccccCCCCCceEEcCCeeCCCCEEEEEEEeCC---CCCCCceEEEE
+Confidence            35788999999999888 77  888887422211 1111  1     2356899999888876422   22233456666
+
+
+Q LOKIASV2_05250  819 IEAKAG  824 (1327)
+Q Consensus       819 v~a~~~  824 (1327)
+                      |-.+.|
+T Consensus       123 vvt~nG  128 (135)
+T 5TUH_B          123 IVTPNG  128 (135)
+T ss_dssp             EECTTC
+T ss_pred             EEcCCc
+Confidence            666555
+
+
+No 24
+>6NAV_N M9UD72; helical symmetry, archaeal pilus, STRUCTURAL; 4.1A {Sulfolobus islandicus LAL14/1}
+Probab=76.54  E-value=1.7  Score=46.20  Aligned_cols=72  Identities=14%  Similarity=0.232  Sum_probs=52.4  Template_Neff=7.800
+
+Q LOKIASV2_05250  750 DGNGYAKLTNIGSED-LEITSVGVEDEGNVNFTIQNSGDPSISPGE-SRYVWFNAY-ELPTPLSIATGFNVEIEAKAG-D  825 (1327)
+Q Consensus       750 ~G~~~~~~~NtG~~~-~~i~~v~in~~~~~~~~~~~~~~~~~~~~e-~~~vw~~~~-~~~~~~~~~~~~~i~v~a~~~-~  825 (1327)
+                      .|++++.++|+|..+ ..+..+.++|.   ..+    ....|+||+ +..+++... ..+.++..+.+++|++....| .
+T Consensus        50 ~~~l~v~v~N~G~~~i~~i~~~~~~~~---~~~----~~~~l~pG~n~~~i~~~~~~~~~~~l~~G~~y~v~i~~snG~~  122 (131)
+T 6NAV_N           50 TGTLKVTLKNTGATTQVTGAIINGNAA---SVS----GQVTISAGQSTYSISLGGISSSTLQSLVGSTISLTLQLSNGQT  122 (131)
+T ss_dssp             TCEEEECEEESSCCEEEEEEEETTEEE---ECC----SSCEECSSCCCEEEECCSCCHHHHSTTTTSEEEEEEEETTSCE
+T ss_pred             ceEEEEEEEeCCCCceEEEEEEecCCc---eec----cceEEcCCccEEEEEEecccCCCcccCCCcEEEEEEEECCCCE
+Confidence            489999999999999 88888888753   211    246699999 878887653 113456777888888877677 4
+
+
+Q LOKIASV2_05250  826 YTL  828 (1327)
+Q Consensus       826 y~f  828 (1327)
+                      |++
+T Consensus       123 ~~~  125 (131)
+T 6NAV_N          123 VTV  125 (131)
+T ss_dssp             EEE
+T ss_pred             EEE
+Confidence            543
+
+
+No 25
+>5TUG_A Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=75.40  E-value=2  Score=46.25  Aligned_cols=75  Identities=20%  Similarity=0.270  Sum_probs=46.6  Template_Neff=7.300
+
+Q LOKIASV2_05250  998 GTIQIQVENTGQDDLA-LE--YIYANGI-QYDNF--EVITDGTFPPSMANLLEPGDKRTIRATLD-DVERNTPIKVYITA 1070 (1327)
+Q Consensus       998 gt~~~~vkNtG~~~~~-l~--~i~l~~~-~~~~~--~~~~~~~~~~~~~~~l~pge~~~i~~~~~-~~~~N~~i~i~~t~ 1070 (1327)
+                      .++.+.|||+|+..+. ++  .+++.+. .+..+  ....++.|..+ ...++|||...|++..+ +...+.+..|+|..
+T Consensus        47 ~~l~v~vkNtG~t~l~d~~~~dV~v~g~~~~~~~~~~~~~~~~wt~~-~~~w~PGetl~I~v~~~~~~~~~~~~~V~vvt  125 (135)
+T 5TUG_A           47 NTVVAYLHNVGETTISYLQNSVVYFGPNGQLQPVGYNSGSSPYWTVT-SNSLQPGSVVKIIIYLSSPLSSNQYYTIQIVT  125 (135)
+T ss_dssp             SEEEEEEEECSSSCEECGGGCEEEEEETTCCEEEEETCSSSSEEEES-CSEECTTCEEEEEEECSSCCCTTCCEEEEEEC
+T ss_pred             CEEEEEEEeCCCceeeccCceEEEEcCCCccccccccCCCCCceEEc-CCeeCCCCEEEEEEEeCCCCCCCceEEEEEEc
+Confidence            4699999999999998 88  6677663 11111  10011222211 35799999999998754 24445666677755
+
+
+Q LOKIASV2_05250 1071 MNE 1073 (1327)
+Q Consensus      1071 ~~~ 1073 (1327)
+                      ..|
+T Consensus       126 ~nG  128 (135)
+T 5TUG_A          126 PNG  128 (135)
+T ss_dssp             TTC
+T ss_pred             CCc
+Confidence            433
+
+
+No 26
+>5TUH_B Flagellar biosynthesis protein FlaG; beta-sandwich fold Archaellum assembly subunit; 1.929A {Sulfolobus acidocaldarius}
+Probab=75.40  E-value=2  Score=46.25  Aligned_cols=75  Identities=20%  Similarity=0.270  Sum_probs=46.6  Template_Neff=7.300
+
+Q LOKIASV2_05250  998 GTIQIQVENTGQDDLA-LE--YIYANGI-QYDNF--EVITDGTFPPSMANLLEPGDKRTIRATLD-DVERNTPIKVYITA 1070 (1327)
+Q Consensus       998 gt~~~~vkNtG~~~~~-l~--~i~l~~~-~~~~~--~~~~~~~~~~~~~~~l~pge~~~i~~~~~-~~~~N~~i~i~~t~ 1070 (1327)
+                      .++.+.|||+|+..+. ++  .+++.+. .+..+  ....++.|..+ ...++|||...|++..+ +...+.+..|+|..
+T Consensus        47 ~~l~v~vkNtG~t~l~d~~~~dV~v~g~~~~~~~~~~~~~~~~wt~~-~~~w~PGetl~I~v~~~~~~~~~~~~~V~vvt  125 (135)
+T 5TUH_B           47 NTVVAYLHNVGETTISYLQNSVVYFGPNGQLQPVGYNSGSSPYWTVT-SNSLQPGSVVKIIIYLSSPLSSNQYYTIQIVT  125 (135)
+T ss_dssp             TEEEEEEEECSSSCBCCGGGCEEEEEETTCCEEEEESCSSSSEEEES-CSCBCTTCEEEEEEECSSCCCTTSCEEEEEEC
+T ss_pred             CEEEEEEEeCCCceeeccCceEEEEcCCCccccccccCCCCCceEEc-CCeeCCCCEEEEEEEeCCCCCCCceEEEEEEc
+Confidence            4699999999999998 88  6677663 11111  10011222211 35799999999998754 24445666677755
+
+
+Q LOKIASV2_05250 1071 MNE 1073 (1327)
+Q Consensus      1071 ~~~ 1073 (1327)
+                      ..|
+T Consensus       126 ~nG  128 (135)
+T 5TUH_B          126 PNG  128 (135)
+T ss_dssp             TTC
+T ss_pred             CCc
+Confidence            433
+
+
+No 27
+>6NAV_N M9UD72; helical symmetry, archaeal pilus, STRUCTURAL; 4.1A {Sulfolobus islandicus LAL14/1}
+Probab=73.16  E-value=2.5  Score=45.10  Aligned_cols=87  Identities=15%  Similarity=0.225  Sum_probs=62.6  Template_Neff=7.800
+
+Q LOKIASV2_05250 1086 RNQSQMIEILDAFNSMTALFAN-ETLRLVVKNVGSES-IELTEVVLNSTESQNETIMLTNDMVVDGSLDLTPNE-IALLN 1162 (1327)
+Q Consensus      1086 ~~~~~~i~ii~~~~~~~~~~~N-et~~~~ikN~G~~~-itl~~i~ln~t~~~~~~~~~~~~~~~~g~~~l~~~e-~a~~~ 1162 (1327)
+                      ....++++|+..-    ....| -+..+.+||+|..+ .+++.+.+++....             ....|.|-+ -+.+.
+T Consensus        32 ~~~~~~i~iv~~~----~~~~~~~~l~v~v~N~G~~~i~~i~~~~~~~~~~~-------------~~~~l~pG~n~~~i~   94 (131)
+T 6NAV_N           32 FTGQGTVTQVGTA----TLSASTGTLKVTLKNTGATTQVTGAIINGNAASVS-------------GQVTISAGQSTYSIS   94 (131)
+T ss_dssp             HHTTCCEEECSCC----EEETTTCEEEECEEESSCCEEEEEEEETTEEEECC-------------SSCEECSSCCCEEEE
+T ss_pred             hcCcceEEEEEeE----EEecCceEEEEEEEeCCCCceEEEEEEecCCceec-------------cceEEcCCccEEEEE
+Confidence            3335566665431    11113 58899999999999 77888887755421             135588888 88999
+
+
+Q LOKIASV2_05250 1163 IPIS---NFKLNVSSELNVMLHTEAGEVFD 1189 (1327)
+Q Consensus      1163 f~i~---~~~ln~s~~~~v~v~t~~~~~~~ 1189 (1327)
+                      |.++   ...+..+..+.|++.+.+|..++
+T Consensus        95 ~~~~~~~~~~l~~G~~y~v~i~~snG~~~~  124 (131)
+T 6NAV_N           95 LGGISSSTLQSLVGSTISLTLQLSNGQTVT  124 (131)
+T ss_dssp             CCSCCHHHHSTTTTSEEEEEEEETTSCEEE
+T ss_pred             EecccCCCcccCCCcEEEEEEEECCCCEEE
+Confidence            9874   67889999999999998886665
+
+
+No 28
+>5TFY_E Flagellin; cell motility and adhesion, CELL; 3.4A {Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)}
+Probab=71.64  E-value=2.8  Score=46.51  Aligned_cols=113  Identities=14%  Similarity=0.138  Sum_probs=69.9  Template_Neff=7.500
+
+Q LOKIASV2_05250 1073 EETVAADYGYFVPRNQSQMIEILDAFNSMTALF--ANETLRLVVKNV-GSESIELTEVVLNSTESQNETIMLTNDMVVDG 1149 (1327)
+Q Consensus      1073 ~~t~asd~g~~~~~~~~~~i~ii~~~~~~~~~~--~Net~~~~ikN~-G~~~itl~~i~ln~t~~~~~~~~~~~~~~~~g 1149 (1327)
+                      -+.++.+.+.=..-.-..+++|+..+-+....+  .-+.+.+.|||. |.++|.+++..+.=....+......  ...++
+T Consensus        31 ~~~~~~~~~~~~~~~~~t~l~i~~~v~G~~~~~~~~i~~v~i~Vk~~~G~~~Idl~~~~v~~~~~~~~~~~~~--~~~~~  108 (164)
+T 5TFY_E           31 ATQKSQEVTYSGMKQATSNLILDGMIYGSYSKGGSGLAQLYFYVKVPEGGETQDLKYVTYLWTKENKAVTTLT--SITPT  108 (164)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCCEEEEEEEEEECSSSSSEEEEEEEEECCTTSCCEEGGGCEEEEEESSCCCEECC--EETTT
+T ss_pred             hhHhhHHhHHHHHhHhcccEEEEeeEEEEecCCCCcceEEEEEEEcCCCCCccccceeEEEEEcCCCceeeee--eecCC
+Confidence            345566666655556666778776644332222  227889999976 9999999876552111111000000  11346
+
+
+Q LOKIASV2_05250 1150 SLDLTPNEIALLNIPISN-FKLNVSSELNVMLHTEAGEV 1187 (1327)
+Q Consensus      1150 ~~~l~~~e~a~~~f~i~~-~~ln~s~~~~v~v~t~~~~~ 1187 (1327)
+                      +-.|++.|.+.+.++.+. -.|-.++...++|.++.++.
+T Consensus       109 ~~~l~~ge~~~i~I~~~~~~~l~~~~~~ti~i~p~~G~~  147 (164)
+T 5TFY_E          109 NQQLNPGARVKVTITAPTGYKPIAGQKFVLEIKPKTGAS  147 (164)
+T ss_dssp             TCEECTTCEEEEEEECCTTCCCCTTCEEEEEEECSSSCC
+T ss_pred             CCccCCCCEEEEEEECCCCCCCCCCCEEEEEEeCCCCCe
+Confidence            778888888888887763 46777778888888877743
+
+
+No 29
+>5TFY_P Flagellin; cell motility and adhesion, CELL; 3.4A {Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)}
+Probab=71.64  E-value=2.8  Score=46.51  Aligned_cols=113  Identities=14%  Similarity=0.138  Sum_probs=69.9  Template_Neff=7.500
+
+Q LOKIASV2_05250 1073 EETVAADYGYFVPRNQSQMIEILDAFNSMTALF--ANETLRLVVKNV-GSESIELTEVVLNSTESQNETIMLTNDMVVDG 1149 (1327)
+Q Consensus      1073 ~~t~asd~g~~~~~~~~~~i~ii~~~~~~~~~~--~Net~~~~ikN~-G~~~itl~~i~ln~t~~~~~~~~~~~~~~~~g 1149 (1327)
+                      -+.++.+.+.=..-.-..+++|+..+-+....+  .-+.+.+.|||. |.++|.+++..+.=....+......  ...++
+T Consensus        31 ~~~~~~~~~~~~~~~~~t~l~i~~~v~G~~~~~~~~i~~v~i~Vk~~~G~~~Idl~~~~v~~~~~~~~~~~~~--~~~~~  108 (164)
+T 5TFY_P           31 ATQKSQEVTYSGMKQATSNLILDGMIYGSYSKGGSGLAQLYFYVKVPEGGETQDLKYVTYLWTKENKAVTTLT--SITPT  108 (164)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCCEEEEEEEEEECSSSSSEEEEEEEEECCTTSCCEEGGGCEEEEEESSCCCEECC--EETTT
+T ss_pred             hhHhhHHhHHHHHhHhcccEEEEeeEEEEecCCCCcceEEEEEEEcCCCCCccccceeEEEEEcCCCceeeee--eecCC
+Confidence            345566666655556666778776644332222  227889999976 9999999876552111111000000  11346
+
+
+Q LOKIASV2_05250 1150 SLDLTPNEIALLNIPISN-FKLNVSSELNVMLHTEAGEV 1187 (1327)
+Q Consensus      1150 ~~~l~~~e~a~~~f~i~~-~~ln~s~~~~v~v~t~~~~~ 1187 (1327)
+                      +-.|++.|.+.+.++.+. -.|-.++...++|.++.++.
+T Consensus       109 ~~~l~~ge~~~i~I~~~~~~~l~~~~~~ti~i~p~~G~~  147 (164)
+T 5TFY_P          109 NQQLNPGARVKVTITAPTGYKPIAGQKFVLEIKPKTGAS  147 (164)
+T ss_dssp             TCEECTTCEEEEEEECCTTCCCCTTCEEEEEEECSSSCC
+T ss_pred             CCccCCCCEEEEEEECCCCCCCCCCCEEEEEEeCCCCCe
+Confidence            778888888888887763 46777778888888877743
+
+
+No 30
+>5TUG_A Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=62.51  E-value=5.9  Score=42.77  Aligned_cols=39  Identities=28%  Similarity=0.324  Sum_probs=28.6  Template_Neff=7.300
+
+Q LOKIASV2_05250 1089 SQMIEILDAFNSMTALFANETLRLVVKNVGSESIE-LT--EVVLNST 1132 (1327)
+Q Consensus      1089 ~~~i~ii~~~~~~~~~~~Net~~~~ikN~G~~~it-l~--~i~ln~t 1132 (1327)
+                      ..+|+|+..-.  +   ...++.+.|||+|..+|. ++  ++++++.
+T Consensus        33 ~T~i~Ii~~~~--~---~~~~l~v~vkNtG~t~l~d~~~~dV~v~g~   74 (135)
+T 5TUG_A           33 LTQLQIDYATN--T---SSNTVVAYLHNVGETTISYLQNSVVYFGPN   74 (135)
+T ss_dssp             CCSEEEEEEEE--S---SSSEEEEEEEECSSSCEECGGGCEEEEEET
+T ss_pred             cccEEEEEEec--C---CCCEEEEEEEeCCCceeeccCceEEEEcCC
+Confidence            34566665421  1   135889999999999998 88  7899986
+
+
+No 31
+>5TUH_B Flagellar biosynthesis protein FlaG; beta-sandwich fold Archaellum assembly subunit; 1.929A {Sulfolobus acidocaldarius}
+Probab=62.51  E-value=5.9  Score=42.77  Aligned_cols=39  Identities=28%  Similarity=0.324  Sum_probs=28.6  Template_Neff=7.300
+
+Q LOKIASV2_05250 1089 SQMIEILDAFNSMTALFANETLRLVVKNVGSESIE-LT--EVVLNST 1132 (1327)
+Q Consensus      1089 ~~~i~ii~~~~~~~~~~~Net~~~~ikN~G~~~it-l~--~i~ln~t 1132 (1327)
+                      ..+|+|+..-.  +   ...++.+.|||+|..+|. ++  ++++++.
+T Consensus        33 ~T~i~Ii~~~~--~---~~~~l~v~vkNtG~t~l~d~~~~dV~v~g~   74 (135)
+T 5TUH_B           33 LTQLQIDYATN--T---SSNTVVAYLHNVGETTISYLQNSVVYFGPN   74 (135)
+T ss_dssp             CCCEEEEEEEE--E---ETTEEEEEEEECSSSCBCCGGGCEEEEEET
+T ss_pred             cccEEEEEEec--C---CCCEEEEEEEeCCCceeeccCceEEEEcCC
+Confidence            34566665421  1   135889999999999998 88  7899986
+
+
+No 32
+>4ZBH_A CONSERVED FLAGELLAR PROTEIN F; IMMUNOGLOBULIN-LIKE BETA-SANDWICH, stator protein, IMMUNE; 1.5A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=61.30  E-value=6.4  Score=43.26  Aligned_cols=76  Identities=20%  Similarity=0.212  Sum_probs=45.0  Template_Neff=6.600
+
+Q LOKIASV2_05250  997 NGTIQIQVENTGQDDLA-LEYI--YANGI-Q-------Y-DNFEV-----ITDGTFPPSMANLLEPGDKRTIRATLDD-V 1058 (1327)
+Q Consensus       997 Ngt~~~~vkNtG~~~~~-l~~i--~l~~~-~-------~-~~~~~-----~~~~~~~~~~~~~l~pge~~~i~~~~~~-~ 1058 (1327)
+                      ++++.+.|||||...+. ++.+  ++.+. .       + ..+..     ...+.|.. +...++|||+..|++..+. .
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g~~~~~~~~~~~~~~~~~~~~~~~~~g~W~~-~~~~w~PGEtl~I~v~~~~~~  122 (146)
+T 4ZBH_A           44 GSTLNVVLENNGSTNLYDFQGFSVIVQYYANISNISTFNLSLYNYTKNSNPSPYYWTI-NTPLLAPGSQATLTIILPYPP  122 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEEEEEETTEEEEEEEEEEECCCSSCCTTEEEE-SCSCBCTTCEEEEEEECSSCB
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEecCCcccccceEeeeeecccCCCCCCCCcccc-cCCeeCCCCEEEEEEECCCCC
+Confidence            46799999999999887 7764  45441 1       0 11110     01122222 3457999999999997642 3
+
+
+Q LOKIASV2_05250 1059 ERNTPIKVYITAMNE 1073 (1327)
+Q Consensus      1059 ~~N~~i~i~~t~~~~ 1073 (1327)
+                      ..+.+..|.|....|
+T Consensus       123 ~~~~~~~V~Vvt~NG  137 (146)
+T 4ZBH_A          123 YPNTQATVVIVTNYG  137 (146)
+T ss_dssp             CTTCEEEEEEECTTS
+T ss_pred             CCCCcEEEEEEeCCc
+Confidence            334566676655433
+
+
+No 33
+>5TUG_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=61.30  E-value=6.4  Score=43.26  Aligned_cols=76  Identities=20%  Similarity=0.212  Sum_probs=45.0  Template_Neff=6.600
+
+Q LOKIASV2_05250  997 NGTIQIQVENTGQDDLA-LEYI--YANGI-Q-------Y-DNFEV-----ITDGTFPPSMANLLEPGDKRTIRATLDD-V 1058 (1327)
+Q Consensus       997 Ngt~~~~vkNtG~~~~~-l~~i--~l~~~-~-------~-~~~~~-----~~~~~~~~~~~~~l~pge~~~i~~~~~~-~ 1058 (1327)
+                      ++++.+.|||||...+. ++.+  ++.+. .       + ..+..     ...+.|.. +...++|||+..|++..+. .
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g~~~~~~~~~~~~~~~~~~~~~~~~~g~W~~-~~~~w~PGEtl~I~v~~~~~~  122 (146)
+T 5TUG_D           44 GSTLNVVLENNGSTNLYDFQGFSVIVQYYANISNISTFNLSLYNYTKNSNPSPYYWTI-NTPLLAPGSQATLTIILPYPP  122 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEEEEEETTEEEEEEEEEEECSCSSCCTTEEEE-SCSCBCTTCEEEEEEECSSCB
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEecCCcccccceEeeeeecccCCCCCCCCcccc-cCCeeCCCCEEEEEEECCCCC
+Confidence            46799999999999887 7764  45441 1       0 11110     01122222 3457999999999997642 3
+
+
+Q LOKIASV2_05250 1059 ERNTPIKVYITAMNE 1073 (1327)
+Q Consensus      1059 ~~N~~i~i~~t~~~~ 1073 (1327)
+                      ..+.+..|.|....|
+T Consensus       123 ~~~~~~~V~Vvt~NG  137 (146)
+T 5TUG_D          123 YPNTQATVVIVTNYG  137 (146)
+T ss_dssp             CTTCEEEEEEECTTS
+T ss_pred             CCCCcEEEEEEeCCc
+Confidence            334566676655433
+
+
+No 34
+>6PBK_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: PEG, IMD; 2.805A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=61.30  E-value=6.4  Score=43.26  Aligned_cols=76  Identities=20%  Similarity=0.212  Sum_probs=45.0  Template_Neff=6.600
+
+Q LOKIASV2_05250  997 NGTIQIQVENTGQDDLA-LEYI--YANGI-Q-------Y-DNFEV-----ITDGTFPPSMANLLEPGDKRTIRATLDD-V 1058 (1327)
+Q Consensus       997 Ngt~~~~vkNtG~~~~~-l~~i--~l~~~-~-------~-~~~~~-----~~~~~~~~~~~~~l~pge~~~i~~~~~~-~ 1058 (1327)
+                      ++++.+.|||||...+. ++.+  ++.+. .       + ..+..     ...+.|.. +...++|||+..|++..+. .
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g~~~~~~~~~~~~~~~~~~~~~~~~~g~W~~-~~~~w~PGEtl~I~v~~~~~~  122 (146)
+T 6PBK_D           44 GSTLNVVLENNGSTNLYDFQGFSVIVQYYANISNISTFNLSLYNYTKNSNPSPYYWTI-NTPLLAPGSQATLTIILPYPP  122 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEEEEEETTEEEEEEEEEEECCCSSCCTTEEEE-SCSCBCTTCEEEEEEECSSCB
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEecCCcccccceEeeeeecccCCCCCCCCcccc-cCCeeCCCCEEEEEEECCCCC
+Confidence            46799999999999887 7764  45441 1       0 11110     01122222 3457999999999997642 3
+
+
+Q LOKIASV2_05250 1059 ERNTPIKVYITAMNE 1073 (1327)
+Q Consensus      1059 ~~N~~i~i~~t~~~~ 1073 (1327)
+                      ..+.+..|.|....|
+T Consensus       123 ~~~~~~~V~Vvt~NG  137 (146)
+T 6PBK_D          123 YPNTQATVVIVTNYG  137 (146)
+T ss_dssp             CTTCEEEEEEECTTS
+T ss_pred             CCCCcEEEEEEeCCc
+Confidence            334566676655433
+
+
+No 35
+>4ZBH_A CONSERVED FLAGELLAR PROTEIN F; IMMUNOGLOBULIN-LIKE BETA-SANDWICH, stator protein, IMMUNE; 1.5A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=53.04  E-value=11  Score=41.53  Aligned_cols=25  Identities=32%  Similarity=0.203  Sum_probs=19.0  Template_Neff=6.600
+
+Q LOKIASV2_05250  750 DGNGYAKLTNIGSEDLE-IT--SVGVED  774 (1327)
+Q Consensus       750 ~G~~~~~~~NtG~~~~~-i~--~v~in~  774 (1327)
+                      .+.-++.+||||+..|. +.  +|-++|
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g   71 (146)
+T 4ZBH_A           44 GSTLNVVLENNGSTNLYDFQGFSVIVQY   71 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEE
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEec
+Confidence            46778999999999775 44  466776
+
+
+No 36
+>5TUG_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=53.04  E-value=11  Score=41.53  Aligned_cols=25  Identities=32%  Similarity=0.203  Sum_probs=19.0  Template_Neff=6.600
+
+Q LOKIASV2_05250  750 DGNGYAKLTNIGSEDLE-IT--SVGVED  774 (1327)
+Q Consensus       750 ~G~~~~~~~NtG~~~~~-i~--~v~in~  774 (1327)
+                      .+.-++.+||||+..|. +.  +|-++|
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g   71 (146)
+T 5TUG_D           44 GSTLNVVLENNGSTNLYDFQGFSVIVQY   71 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEE
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEec
+Confidence            46778999999999775 44  466776
+
+
+No 37
+>6PBK_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: PEG, IMD; 2.805A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=53.04  E-value=11  Score=41.53  Aligned_cols=25  Identities=32%  Similarity=0.203  Sum_probs=19.0  Template_Neff=6.600
+
+Q LOKIASV2_05250  750 DGNGYAKLTNIGSEDLE-IT--SVGVED  774 (1327)
+Q Consensus       750 ~G~~~~~~~NtG~~~~~-i~--~v~in~  774 (1327)
+                      .+.-++.+||||+..|. +.  +|-++|
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g   71 (146)
+T 6PBK_D           44 GSTLNVVLENNGSTNLYDFQGFSVIVQY   71 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEE
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEec
+Confidence            46778999999999775 44  466776
+
+
+No 38
+>5O4U_K Flagellin; archaellar flagellum glycoprotein helical filament;{Pyrococcus furiosus DSM 3638}
+Probab=50.95  E-value=13  Score=43.18  Aligned_cols=54  Identities=22%  Similarity=0.242  Sum_probs=31.2  Template_Neff=8.100
+
+Q LOKIASV2_05250 1076 VAADYGYFVPRNQSQMIEILDAFNSMTAL--FANETLRLVVK-NVGSESIELTEVVLN 1130 (1327)
+Q Consensus      1076 ~asd~g~~~~~~~~~~i~ii~~~~~~~~~--~~Net~~~~ik-N~G~~~itl~~i~ln 1130 (1327)
+                      .+.+.+.=..-.-+..++|+ .+.+....  -.-+.+++.|| |+|.++|.|+++.+-
+T Consensus        39 ~~~~t~~~~~~~~ss~l~I~-~v~g~~~~~~~~i~~i~i~Vkln~Gs~~Idl~~~~V~   95 (212)
+T 5O4U_K           39 KSQATGRETTQEVASGIKVL-SVVGKTDSNKTYVEKLAIYISPNAGSEGIDLNNTRVV   95 (212)
+T ss_dssp             HHHHHHHHHHHHHHCBEEEE-EEECCCCSSCSSBCEEEEEEEECSSCSCEESSSCEEE
+T ss_pred             HHHHhHHHHHHHHhcCeEEE-EEEEecCCCCCeeeEEEEEEecCCCCCCcccCceEEE
+Confidence            33343433333444556666 33322111  01158899999 999999999876554
+
+
+No 39
+>6NAV_N M9UD72; helical symmetry, archaeal pilus, STRUCTURAL; 4.1A {Sulfolobus islandicus LAL14/1}
+Probab=50.78  E-value=13  Score=39.93  Aligned_cols=66  Identities=18%  Similarity=0.210  Sum_probs=45.1  Template_Neff=7.800
+
+Q LOKIASV2_05250  997 NGTIQIQVENTGQDD-LALEYIYANGIQYDNFEVITDGTFPPSMANLLEPGD-KRTIRATL-----DDVERNTPIKVYIT 1069 (1327)
+Q Consensus       997 Ngt~~~~vkNtG~~~-~~l~~i~l~~~~~~~~~~~~~~~~~~~~~~~l~pge-~~~i~~~~-----~~~~~N~~i~i~~t 1069 (1327)
+                      +|+++++|||+|+.. ..++.+++++...+             ....|+||+ ...++...     ..+.......+.+.
+T Consensus        50 ~~~l~v~v~N~G~~~i~~i~~~~~~~~~~~-------------~~~~l~pG~n~~~i~~~~~~~~~~~l~~G~~y~v~i~  116 (131)
+T 6NAV_N           50 TGTLKVTLKNTGATTQVTGAIINGNAASVS-------------GQVTISAGQSTYSISLGGISSSTLQSLVGSTISLTLQ  116 (131)
+T ss_dssp             TCEEEECEEESSCCEEEEEEEETTEEEECC-------------SSCEECSSCCCEEEECCSCCHHHHSTTTTSEEEEEEE
+T ss_pred             ceEEEEEEEeCCCCceEEEEEEecCCceec-------------cceEEcCCccEEEEEEecccCCCcccCCCcEEEEEEE
+Confidence            388999999999988 88888887542110             124699999 88887764     23555666666665
+
+
+Q LOKIASV2_05250 1070 AMNEET 1075 (1327)
+Q Consensus      1070 ~~~~~t 1075 (1327)
+                      ..+|.+
+T Consensus       117 ~snG~~  122 (131)
+T 6NAV_N          117 LSNGQT  122 (131)
+T ss_dssp             ETTSCE
+T ss_pred             ECCCCE
+Confidence            555544
+
+
+No 40
+>5TUG_A Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=49.61  E-value=14  Score=40.11  Aligned_cols=76  Identities=16%  Similarity=0.109  Sum_probs=47.7  Template_Neff=7.300
+
+Q LOKIASV2_05250  860 NVNVEITIENPTTKPDL-LTNI--TINEN-VIPIADWSS---N---SEPILIGPSSTETLIIDNLDILENITYLDEVEVT  929 (1327)
+Q Consensus       860 ~~~~~l~veN~g~~~~~-l~~f--~i~~~-~~~~~~~~~---~---~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~  929 (1327)
+                      ..++.+.|+|+|.+++. ++++  +++.. .+....+.+   +   ..+-.+.||+...+.+....   +......+.|.
+T Consensus        46 ~~~l~v~vkNtG~t~l~d~~~~dV~v~g~~~~~~~~~~~~~~~~wt~~~~~w~PGetl~I~v~~~~---~~~~~~~~~V~  122 (135)
+T 5TUG_A           46 SNTVVAYLHNVGETTISYLQNSVVYFGPNGQLQPVGYNSGSSPYWTVTSNSLQPGSVVKIIIYLSS---PLSSNQYYTIQ  122 (135)
+T ss_dssp             SSEEEEEEEECSSSCEECGGGCEEEEEETTCCEEEEETCSSSSEEEESCSEECTTCEEEEEEECSS---CCCTTCCEEEE
+T ss_pred             CCEEEEEEEeCCCceeeccCceEEEEcCCCccccccccCCCCCceEEcCCeeCCCCEEEEEEEeCC---CCCCCceEEEE
+Confidence            35888999999999998 8844  55542 122111111   1   12355789999988775332   12223456699
+
+
+Q LOKIASV2_05250  930 VSTRSGTKK  938 (1327)
+Q Consensus       930 v~t~~~~~~  938 (1327)
+                      |.|+||...
+T Consensus       123 vvt~nGv~~  131 (135)
+T 5TUG_A          123 IVTPNGYTV  131 (135)
+T ss_dssp             EECTTCCEE
+T ss_pred             EEcCCceEE
+Confidence            999999874
+
+
+No 41
+>5TUH_B Flagellar biosynthesis protein FlaG; beta-sandwich fold Archaellum assembly subunit; 1.929A {Sulfolobus acidocaldarius}
+Probab=49.61  E-value=14  Score=40.11  Aligned_cols=76  Identities=16%  Similarity=0.109  Sum_probs=47.7  Template_Neff=7.300
+
+Q LOKIASV2_05250  860 NVNVEITIENPTTKPDL-LTNI--TINEN-VIPIADWSS---N---SEPILIGPSSTETLIIDNLDILENITYLDEVEVT  929 (1327)
+Q Consensus       860 ~~~~~l~veN~g~~~~~-l~~f--~i~~~-~~~~~~~~~---~---~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~  929 (1327)
+                      ..++.+.|+|+|.+++. ++++  +++.. .+....+.+   +   ..+-.+.||+...+.+....   +......+.|.
+T Consensus        46 ~~~l~v~vkNtG~t~l~d~~~~dV~v~g~~~~~~~~~~~~~~~~wt~~~~~w~PGetl~I~v~~~~---~~~~~~~~~V~  122 (135)
+T 5TUH_B           46 SNTVVAYLHNVGETTISYLQNSVVYFGPNGQLQPVGYNSGSSPYWTVTSNSLQPGSVVKIIIYLSS---PLSSNQYYTIQ  122 (135)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEETTCCEEEEESCSSSSEEEESCSCBCTTCEEEEEEECSS---CCCTTSCEEEE
+T ss_pred             CCEEEEEEEeCCCceeeccCceEEEEcCCCccccccccCCCCCceEEcCCeeCCCCEEEEEEEeCC---CCCCCceEEEE
+Confidence            35888999999999998 8844  55542 122111111   1   12355789999988775332   12223456699
+
+
+Q LOKIASV2_05250  930 VSTRSGTKK  938 (1327)
+Q Consensus       930 v~t~~~~~~  938 (1327)
+                      |.|+||...
+T Consensus       123 vvt~nGv~~  131 (135)
+T 5TUH_B          123 IVTPNGYTV  131 (135)
+T ss_dssp             EECTTCCEE
+T ss_pred             EEcCCceEE
+Confidence            999999874
+
+
+No 42
+>2CO6_B PUTATIVE OUTER MEMBRANE PROTEIN, PUTATIVE; PILUS SUBUNIT, ADHESION, STRAND COMPLEMENTATION; 2.0A {SALMONELLA TYPHIMURIUM} SCOP: b.1.11.1, b.7.2.1
+Probab=41.86  E-value=22  Score=41.10  Aligned_cols=25  Identities=20%  Similarity=0.211  Sum_probs=20.9  Template_Neff=9.100
+
+Q LOKIASV2_05250 1106 ANETLRLVVKNVGSESIELTEVVLN 1130 (1327)
+Q Consensus      1106 ~Net~~~~ikN~G~~~itl~~i~ln 1130 (1327)
+                      ..+...+.|||+|+..+++..+.++
+T Consensus       149 ~~~~~~l~i~N~Gn~~~~~~~i~i~  173 (221)
+T 2CO6_B          149 VETGNKLKVENPTPFYMNLASVTVG  173 (221)
+T ss_dssp             EEETTEEEEEECSSSCBCEEEEEET
+T ss_pred             EEeCCEEEEEcCCCceEEEEEEEEC
+Confidence            3467899999999999999987664
+
+
+No 43
+>2CO7_B SAFA PILUS SUBUNIT, PUTATIVE FIMBRIAE; PILUS SUBUNIT, CHAPERONE, ADHESION, STRAND; HET: SO4; 1.8A {SALMONELLA TYPHIMURIUM} SCOP: b.7.2.1, b.1.11.1
+Probab=41.86  E-value=22  Score=41.10  Aligned_cols=25  Identities=20%  Similarity=0.211  Sum_probs=20.9  Template_Neff=9.100
+
+Q LOKIASV2_05250 1106 ANETLRLVVKNVGSESIELTEVVLN 1130 (1327)
+Q Consensus      1106 ~Net~~~~ikN~G~~~itl~~i~ln 1130 (1327)
+                      ..+...+.|||+|+..+++..+.++
+T Consensus       149 ~~~~~~l~i~N~Gn~~~~~~~i~i~  173 (221)
+T 2CO7_B          149 VETGNKLKVENPTPFYMNLASVTVG  173 (221)
+T ss_dssp             EEETTEEEEEECSSSCBCEEEEEET
+T ss_pred             EEeCCEEEEEcCCCceEEEEEEEEC
+Confidence            3467899999999999999987664
+
+
+No 44
+>5O4U_K Flagellin; archaellar flagellum glycoprotein helical filament;{Pyrococcus furiosus DSM 3638}
+Probab=41.71  E-value=22  Score=41.30  Aligned_cols=37  Identities=16%  Similarity=0.097  Sum_probs=28.9  Template_Neff=8.100
+
+Q LOKIASV2_05250 1039 MANLLEPGDKRTIRATLD--------DVERNTPIKVYITAMNEET 1075 (1327)
+Q Consensus      1039 ~~~~l~pge~~~i~~~~~--------~~~~N~~i~i~~t~~~~~t 1075 (1327)
+                      ....|+|||+..|.+..+        .+..+++..+.|+...|.+
+T Consensus       149 ~~~~L~~ge~~~I~I~~~~~~~~~~~~l~~~~~~~i~I~p~~G~~  193 (212)
+T 5O4U_K          149 NYPTLNKGDIVVITVKVGEGNGVFGKGIPPRTKITGKVIPEFGAP  193 (212)
+T ss_dssp             TEEEECTTCCEEEEEECCSSSSSSSSCBCSSCCCEEEEECSSSBC
+T ss_pred             CCCccCCCCEEEEEEEeCCCCCccCCCCCCCCEEEEEEECCCCCc
+Confidence            346899999999998875        4677889999998766543
+
+
+No 45
+>5GHU_A Probable fimbrial chaperone YadV; CU chaperone, fimbriae, pilin, CHAPERONE; HET: ACT, PGE; 1.63A {Escherichia coli K-12}
+Probab=41.33  E-value=22  Score=40.57  Aligned_cols=23  Identities=17%  Similarity=0.114  Sum_probs=19.9  Template_Neff=9.800
+
+Q LOKIASV2_05250 1109 TLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1109 t~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      ..++.|+|+|+.-+++.++.+++
+T Consensus       148 ~~~l~i~N~Gn~~~~~~~i~i~~  170 (222)
+T 5GHU_A          148 KASLRVTNPTPYYVSFSSGDLEA  170 (222)
+T ss_dssp             CCEEEEEECSSSCBCEEEEEEEE
+T ss_pred             ceEEEEEeCCCceEEEEEEEEec
+Confidence            56899999999999999877754
+
+
+No 46
+>5Z1L_J Flagellin; Archaellum, archea, flagellum, metal binding;{Methanococcus maripaludis (strain S2 / LL)}
+Probab=39.99  E-value=24  Score=41.07  Aligned_cols=76  Identities=14%  Similarity=0.146  Sum_probs=47.4  Template_Neff=7.700
+
+Q LOKIASV2_05250  998 GTIQIQVE-NTGQDDLALEYIYANGIQYDNFEVI--T--------------------DGTF--------P--PSMANLLE 1044 (1327)
+Q Consensus       998 gt~~~~vk-NtG~~~~~l~~i~l~~~~~~~~~~~--~--------------------~~~~--------~--~~~~~~l~ 1044 (1327)
+                      +.+.+.|| |+|+..+-|+...+.=...+.....  .                    .+.|        +  .++...|+
+T Consensus        77 ~~i~i~Vk~n~G~~~Idl~~~~v~~~~~~~~~~l~y~~~~~~~~~~~~~~~~~~~~~~~~w~~~~~~~~d~s~~~~~~Le  156 (211)
+T 5Z1L_J           77 KLLAIYLAPNAGSSAIDLAQTKVMLDYNGKSVVLGYGGNQDMSSGNSSVFSNDTGATATTFQVNILQDYDDSAVDNAVIN  156 (211)
+T ss_dssp             CEEEEEEECCTTCSCEETTSCCCEEEETTEEEECEEEEEEECCSSCCCGGGSSCCSCSSEEEEEEEECSSCCSSSTTEEC
+T ss_pred             eEEEEEEecCCCCCCccccccEEEEEeCCeEEEeccCCCccccCCCcccccCCCCCCCCeEEEEEeecCCCCccCCCccC
+Confidence            35899999 9999888888876431000111000  0                    0001        0  12345899
+
+
+Q LOKIASV2_05250 1045 PGDKRTIRATLD-----DVERNTPIKVYITAMNE 1073 (1327)
+Q Consensus      1045 pge~~~i~~~~~-----~~~~N~~i~i~~t~~~~ 1073 (1327)
+                      |||+..|.+..+     .+..++...+.|+...|
+T Consensus       157 ~GE~~~I~i~~~~~~~~~l~~~~~~~i~I~p~~G  190 (211)
+T 5Z1L_J          157 KGDAVALIVDVNASFAGEIPERTAISGKVQPEFG  190 (211)
+T ss_dssp             TTCEEEEEEESHHHHTSCCCSSCCCEEECCCSSS
+T ss_pred             CCCEEEEEEEcCCccCCCCCCCceEEEEEEcCCC
+Confidence            999999998765     36778888888876544
+
+
+No 47
+>5Z1L_J Flagellin; Archaellum, archea, flagellum, metal binding;{Methanococcus maripaludis (strain S2 / LL)}
+Probab=37.90  E-value=27  Score=40.65  Aligned_cols=54  Identities=17%  Similarity=0.138  Sum_probs=31.1  Template_Neff=7.700
+
+Q LOKIASV2_05250 1076 VAADYGYFVPRNQSQMIEILDAFNSMTALFANETLRLVVK-NVGSESIELTEVVLN 1130 (1327)
+Q Consensus      1076 ~asd~g~~~~~~~~~~i~ii~~~~~~~~~~~Net~~~~ik-N~G~~~itl~~i~ln 1130 (1327)
+                      .+.+.+.-..-.-..+++|+.. .+....=.-+.+.+.|| |+|.++|.|++..+-
+T Consensus        46 ~~~~~~~~~~~~~~s~i~I~~~-~g~~~~~~~~~i~i~Vk~n~G~~~Idl~~~~v~  100 (211)
+T 5Z1L_J           46 KASTTGKESTEQVASGLLINGI-TGSVGTSDVKLLAIYLAPNAGSSAIDLAQTKVM  100 (211)
+T ss_dssp             HHHHHHHHHHHHHHCCCEEEEE-EEECCSSSCCEEEEEEECCTTCSCEETTSCCCE
+T ss_pred             HHHHHHHHHHHHhhccEEEeee-EEEeCCCCceEEEEEEecCCCCCCccccccEEE
+Confidence            3344444334444555666633 21110001257899999 999999998876554
+
+
+No 48
+>4ZBH_A CONSERVED FLAGELLAR PROTEIN F; IMMUNOGLOBULIN-LIKE BETA-SANDWICH, stator protein, IMMUNE; 1.5A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=37.44  E-value=28  Score=38.51  Aligned_cols=76  Identities=16%  Similarity=0.181  Sum_probs=47.4  Template_Neff=6.600
+
+Q LOKIASV2_05250  860 NVNVEITIENPTTKPDL-LTNITI--NE--NV------I-PIADWS----S--N---SEPILIGPSSTETLIIDNLDILE  918 (1327)
+Q Consensus       860 ~~~~~l~veN~g~~~~~-l~~f~i--~~--~~------~-~~~~~~----~--~---~~~~~~~~~~~~~~~~~~~~~~~  918 (1327)
+                      ..++.+.|+|+|.+.+. ++++.+  +.  +.      + ....+.    .  +   ..+-.+.||+..++.+.....+ 
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g~~~~~~~~~~~~~~~~~~~~~~~~~g~W~~~~~~w~PGEtl~I~v~~~~~~-  122 (146)
+T 4ZBH_A           44 GSTLNVVLENNGSTNLYDFQGFSVIVQYYANISNISTFNLSLYNYTKNSNPSPYYWTINTPLLAPGSQATLTIILPYPP-  122 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEEEEEETTEEEEEEEEEEECCCSSCCTTEEEESCSCBCTTCEEEEEEECSSCB-
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEecCCcccccceEeeeeecccCCCCCCCCcccccCCeeCCCCEEEEEEECCCCC-
+Confidence            46888999999999886 776644  33  21      1 111111    0  1   1245678999998877764321 
+
+
+Q LOKIASV2_05250  919 NITYLDEVEVTVSTRSGTKK  938 (1327)
+Q Consensus       919 ~~~~~~~~~i~v~t~~~~~~  938 (1327)
+                        .....+.|.|.|+||..+
+T Consensus       123 --~~~~~~~V~Vvt~NGv~~  140 (146)
+T 4ZBH_A          123 --YPNTQATVVIVTNYGPSV  140 (146)
+T ss_dssp             --CTTCEEEEEEECTTSCEE
+T ss_pred             --CCCCcEEEEEEeCCcceE
+Confidence              112456799999999864
+
+
+No 49
+>5TUG_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=37.44  E-value=28  Score=38.51  Aligned_cols=76  Identities=16%  Similarity=0.181  Sum_probs=47.4  Template_Neff=6.600
+
+Q LOKIASV2_05250  860 NVNVEITIENPTTKPDL-LTNITI--NE--NV------I-PIADWS----S--N---SEPILIGPSSTETLIIDNLDILE  918 (1327)
+Q Consensus       860 ~~~~~l~veN~g~~~~~-l~~f~i--~~--~~------~-~~~~~~----~--~---~~~~~~~~~~~~~~~~~~~~~~~  918 (1327)
+                      ..++.+.|+|+|.+.+. ++++.+  +.  +.      + ....+.    .  +   ..+-.+.||+..++.+.....+ 
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g~~~~~~~~~~~~~~~~~~~~~~~~~g~W~~~~~~w~PGEtl~I~v~~~~~~-  122 (146)
+T 5TUG_D           44 GSTLNVVLENNGSTNLYDFQGFSVIVQYYANISNISTFNLSLYNYTKNSNPSPYYWTINTPLLAPGSQATLTIILPYPP-  122 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEEEEEETTEEEEEEEEEEECSCSSCCTTEEEESCSCBCTTCEEEEEEECSSCB-
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEecCCcccccceEeeeeecccCCCCCCCCcccccCCeeCCCCEEEEEEECCCCC-
+Confidence            46888999999999886 776644  33  21      1 111111    0  1   1245678999998877764321 
+
+
+Q LOKIASV2_05250  919 NITYLDEVEVTVSTRSGTKK  938 (1327)
+Q Consensus       919 ~~~~~~~~~i~v~t~~~~~~  938 (1327)
+                        .....+.|.|.|+||..+
+T Consensus       123 --~~~~~~~V~Vvt~NGv~~  140 (146)
+T 5TUG_D          123 --YPNTQATVVIVTNYGPSV  140 (146)
+T ss_dssp             --CTTCEEEEEEECTTSCEE
+T ss_pred             --CCCCcEEEEEEeCCcceE
+Confidence              112456799999999864
+
+
+No 50
+>6PBK_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: PEG, IMD; 2.805A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=37.44  E-value=28  Score=38.51  Aligned_cols=76  Identities=16%  Similarity=0.181  Sum_probs=47.4  Template_Neff=6.600
+
+Q LOKIASV2_05250  860 NVNVEITIENPTTKPDL-LTNITI--NE--NV------I-PIADWS----S--N---SEPILIGPSSTETLIIDNLDILE  918 (1327)
+Q Consensus       860 ~~~~~l~veN~g~~~~~-l~~f~i--~~--~~------~-~~~~~~----~--~---~~~~~~~~~~~~~~~~~~~~~~~  918 (1327)
+                      ..++.+.|+|+|.+.+. ++++.+  +.  +.      + ....+.    .  +   ..+-.+.||+..++.+.....+ 
+T Consensus        44 ~~~l~i~VkNtGst~l~d~~~~DV~v~g~~~~~~~~~~~~~~~~~~~~~~~~~g~W~~~~~~w~PGEtl~I~v~~~~~~-  122 (146)
+T 6PBK_D           44 GSTLNVVLENNGSTNLYDFQGFSVIVQYYANISNISTFNLSLYNYTKNSNPSPYYWTINTPLLAPGSQATLTIILPYPP-  122 (146)
+T ss_dssp             TTEEEEEEEECSSSCBCCGGGCEEEEEEEEEETTEEEEEEEEEEECCCSSCCTTEEEESCSCBCTTCEEEEEEECSSCB-
+T ss_pred             CCEEEEEEEeCCCccccccCeEEEEEecCCcccccceEeeeeecccCCCCCCCCcccccCCeeCCCCEEEEEEECCCCC-
+Confidence            46888999999999886 776644  33  21      1 111111    0  1   1245678999998877764321 
+
+
+Q LOKIASV2_05250  919 NITYLDEVEVTVSTRSGTKK  938 (1327)
+Q Consensus       919 ~~~~~~~~~i~v~t~~~~~~  938 (1327)
+                        .....+.|.|.|+||..+
+T Consensus       123 --~~~~~~~V~Vvt~NGv~~  140 (146)
+T 6PBK_D          123 --YPNTQATVVIVTNYGPSV  140 (146)
+T ss_dssp             --CTTCEEEEEEECTTSCEE
+T ss_pred             --CCCCcEEEEEEeCCcceE
+Confidence              112456799999999864
+
+
+No 51
+>5YA6_B Flagellin B1; archaea, flagellum, flagellin, STRUCTURAL PROTEIN; 1.5A {Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)}
+Probab=36.72  E-value=29  Score=40.50  Aligned_cols=49  Identities=14%  Similarity=0.147  Sum_probs=29.4  Template_Neff=7.400
+
+Q LOKIASV2_05250 1077 AADYGYFVPRNQSQMIEILDAFNSMTALF-A-NETLRLVVKN-VGSESIELTE 1126 (1327)
+Q Consensus      1077 asd~g~~~~~~~~~~i~ii~~~~~~~~~~-~-Net~~~~ikN-~G~~~itl~~ 1126 (1327)
+                      ++..+.-..-....+++|+. +-+..... . -+.+.+.||| +|.++|.+++
+T Consensus        35 ~~~~~~~~~~~~~t~i~i~~-v~g~~~~~~~~~~~i~i~Vkn~~G~~~Idl~~   86 (211)
+T 5YA6_B           35 AMATGKESTEQVASGLMCIG-VTGHYDKTLGGIDKLAIYITPNAGSAPIDLKN   86 (211)
+T ss_pred             HHHHhHHHHHHhcCcEEEEE-EEEeecCCCCCeeEEEEEEEcCCCCCCccCCC
+Confidence            33344433445555666664 33222111 1 1577999999 9999999888
+
+
+No 52
+>1L4I_B SfaE protein; periplasmic chaperone, immunoglobulin fold, CHAPERONE; 2.2A {Escherichia coli} SCOP: b.7.2.1, b.1.11.1
+Probab=36.48  E-value=30  Score=39.48  Aligned_cols=22  Identities=14%  Similarity=0.052  Sum_probs=16.5  Template_Neff=9.200
+
+Q LOKIASV2_05250 1109 TLRLVVKNVGSESIELTEVVLN 1130 (1327)
+Q Consensus      1109 t~~~~ikN~G~~~itl~~i~ln 1130 (1327)
+                      ...+.|+|.|+.-+++.++.++
+T Consensus       137 ~~~l~v~N~G~~~~~~~~~~~~  158 (206)
+T 1L4I_B          137 NGGLTLFNPTPYYLTVTDLKAG  158 (206)
+T ss_dssp             ---CEEEECSSSCEEEEEEEET
+T ss_pred             CCEEEEECCCCCeEEEEeeEcC
+Confidence            4689999999999998876654
+
+
+No 53
+>1KLF_G CHAPERONE PROTEIN FIMC/FIMH PROTEIN complex; ADHESIN-CHAPERONE COMPLEX, MANNOSE-BOUND, CHAPERONE-ADHESIN COMPLEX; HET: MAN; 2.79A {Escherichia coli} SCOP: b.7.2.1, b.1.11.1
+Probab=34.60  E-value=33  Score=39.11  Aligned_cols=24  Identities=17%  Similarity=0.126  Sum_probs=20.1  Template_Neff=9.100
+
+Q LOKIASV2_05250 1108 ETLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1108 et~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      +...+.|+|+|+.-+++..+.+++
+T Consensus       136 ~~~~l~i~N~Gn~~~~i~~~~~~~  159 (205)
+T 1KLF_G          136 SANSLTLINPTPYYLTVTELNAGT  159 (205)
+T ss_dssp             CSSEEEEEECSSSCEEEEEEESSS
+T ss_pred             eCCEEEEEcCCCceEEEEEEECCC
+Confidence            346999999999999998877764
+
+
+No 54
+>5TFY_E Flagellin; cell motility and adhesion, CELL; 3.4A {Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)}
+Probab=33.84  E-value=35  Score=38.27  Aligned_cols=75  Identities=13%  Similarity=0.149  Sum_probs=48.4  Template_Neff=7.500
+
+Q LOKIASV2_05250  998 GTIQIQVENT-GQDDLALEYIYANGIQYDNFEVITDG-TFPPSMANLLEPGDKRTIRATLD---DVERNTPIKVYITAMN 1072 (1327)
+Q Consensus       998 gt~~~~vkNt-G~~~~~l~~i~l~~~~~~~~~~~~~~-~~~~~~~~~l~pge~~~i~~~~~---~~~~N~~i~i~~t~~~ 1072 (1327)
+                      +.+.+.|||+ |+..+-++...+.   |..-+..... ....++...|+|||...|++..+   .+..+++..+.|+...
+T Consensus        68 ~~v~i~Vk~~~G~~~Idl~~~~v~---~~~~~~~~~~~~~~~~~~~~l~~ge~~~i~I~~~~~~~l~~~~~~ti~i~p~~  144 (164)
+T 5TFY_E           68 AQLYFYVKVPEGGETQDLKYVTYL---WTKENKAVTTLTSITPTNQQLNPGARVKVTITAPTGYKPIAGQKFVLEIKPKT  144 (164)
+T ss_dssp             EEEEEEEECCTTSCCEEGGGCEEE---EEESSCCCEECCEETTTTCEECTTCEEEEEEECCTTCCCCTTCEEEEEEECSS
+T ss_pred             eEEEEEEEcCCCCCccccceeEEE---EEcCCCceeeeeeecCCCCccCCCCEEEEEEECCCCCCCCCCCEEEEEEeCCC
+Confidence            5699999977 8877777666431   1110000000 01123456899999999998874   5888999999998766
+
+
+Q LOKIASV2_05250 1073 EET 1075 (1327)
+Q Consensus      1073 ~~t 1075 (1327)
+                      |.+
+T Consensus       145 G~~  147 (164)
+T 5TFY_E          145 GAS  147 (164)
+T ss_dssp             SCC
+T ss_pred             CCe
+Confidence            543
+
+
+No 55
+>5TFY_P Flagellin; cell motility and adhesion, CELL; 3.4A {Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1)}
+Probab=33.84  E-value=35  Score=38.27  Aligned_cols=75  Identities=13%  Similarity=0.149  Sum_probs=48.4  Template_Neff=7.500
+
+Q LOKIASV2_05250  998 GTIQIQVENT-GQDDLALEYIYANGIQYDNFEVITDG-TFPPSMANLLEPGDKRTIRATLD---DVERNTPIKVYITAMN 1072 (1327)
+Q Consensus       998 gt~~~~vkNt-G~~~~~l~~i~l~~~~~~~~~~~~~~-~~~~~~~~~l~pge~~~i~~~~~---~~~~N~~i~i~~t~~~ 1072 (1327)
+                      +.+.+.|||+ |+..+-++...+.   |..-+..... ....++...|+|||...|++..+   .+..+++..+.|+...
+T Consensus        68 ~~v~i~Vk~~~G~~~Idl~~~~v~---~~~~~~~~~~~~~~~~~~~~l~~ge~~~i~I~~~~~~~l~~~~~~ti~i~p~~  144 (164)
+T 5TFY_P           68 AQLYFYVKVPEGGETQDLKYVTYL---WTKENKAVTTLTSITPTNQQLNPGARVKVTITAPTGYKPIAGQKFVLEIKPKT  144 (164)
+T ss_dssp             EEEEEEEECCTTSCCEEGGGCEEE---EEESSCCCEECCEETTTTCEECTTCEEEEEEECCTTCCCCTTCEEEEEEECSS
+T ss_pred             eEEEEEEEcCCCCCccccceeEEE---EEcCCCceeeeeeecCCCCccCCCCEEEEEEECCCCCCCCCCCEEEEEEeCCC
+Confidence            5699999977 8877777666431   1110000000 01123456899999999998874   5888999999998766
+
+
+Q LOKIASV2_05250 1073 EET 1075 (1327)
+Q Consensus      1073 ~~t 1075 (1327)
+                      |.+
+T Consensus       145 G~~  147 (164)
+T 5TFY_P          145 GAS  147 (164)
+T ss_dssp             SCC
+T ss_pred             CCe
+Confidence            543
+
+
+No 56
+>2QSV_A Uncharacterized protein; MCSG, structural genomics, Porphyromonas gingivalis; 2.1A {Porphyromonas gingivalis}
+Probab=33.70  E-value=35  Score=37.75  Aligned_cols=51  Identities=14%  Similarity=0.169  Sum_probs=33.7  Template_Neff=11.300
+
+Q LOKIASV2_05250  749 TDGNGYAKLTNIGSEDLEITSVGVEDEGNVNFTIQNSGDPSISPGESRYVWFNAYE  804 (1327)
+Q Consensus       749 ~~G~~~~~~~NtG~~~~~i~~v~in~~~~~~~~~~~~~~~~~~~~e~~~vw~~~~~  804 (1327)
+                      .....+++|+|+|.+++.++-....    ..|.... ....|.||++..+-+....
+T Consensus        19 ~~~~~~~~i~N~~~~~~~~~~~~~~----~~~~~~~-~~~~l~pg~~~~i~i~~~~   69 (220)
+T 2QSV_A           19 DEGVVRLVVNNTDESDLQVAVVSLP----SFVSLDD-RAFRLQAREPRELNLSLAV   69 (220)
+T ss_dssp             CCCEEEEEEEECSSSCEEEEEEECC----TTEECSC-CEEEECSSSCEEEEEEECC
+T ss_pred             CceEEEEEEEcCCCCCEEEEEecCC----Cceecee-CcEEeCCCCCeEEEEEEec
+Confidence            4566789999999999988655432    2333222 3456889998777665544
+
+
+No 57
+>4AY0_A CHAPERONE PROTEIN CAF1M; CHAPERONE, AMINO ACID MOTIFS, BACTERIAL; 1.52A {YERSINIA PESTIS}
+Probab=32.08  E-value=39  Score=38.92  Aligned_cols=23  Identities=13%  Similarity=0.232  Sum_probs=18.6  Template_Neff=9.200
+
+Q LOKIASV2_05250 1109 TLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1109 t~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      ...+.|+|+||.-+.+..+.+.+
+T Consensus       147 ~~~~~v~N~Gn~~~~~~~~~~~~  169 (218)
+T 4AY0_A          147 GGKLIAENPSPFYMNIGELTFGG  169 (218)
+T ss_dssp             TTEEEEEECSSSCEEEEEEEETT
+T ss_pred             CCEEEEEcCCCceEEEEEEEeCC
+Confidence            34899999999999998766543
+
+
+No 58
+>5Z1L_J Flagellin; Archaellum, archea, flagellum, metal binding;{Methanococcus maripaludis (strain S2 / LL)}
+Probab=31.18  E-value=41  Score=39.23  Aligned_cols=38  Identities=11%  Similarity=0.203  Sum_probs=24.5  Template_Neff=7.700
+
+Q LOKIASV2_05250  787 DPSISPGESRYVWFNAYEL-PTPLSIATGFNVEIEAKAG  824 (1327)
+Q Consensus       787 ~~~~~~~e~~~vw~~~~~~-~~~~~~~~~~~i~v~a~~~  824 (1327)
+                      ++.++|||.-.+.++.... +.....++.++|++..+.|
+T Consensus       152 ~~~Le~GE~~~I~i~~~~~~~~~l~~~~~~~i~I~p~~G  190 (211)
+T 5Z1L_J          152 NAVINKGDAVALIVDVNASFAGEIPERTAISGKVQPEFG  190 (211)
+T ss_dssp             TTEECTTCEEEEEEESHHHHTSCCCSSCCCEEECCCSSS
+T ss_pred             CCccCCCCEEEEEEEcCCccCCCCCCCceEEEEEEcCCC
+Confidence            3557888887777776442 1234445777777777766
+
+
+No 59
+>5GHU_A Probable fimbrial chaperone YadV; CU chaperone, fimbriae, pilin, CHAPERONE; HET: ACT, PGE; 1.63A {Escherichia coli K-12}
+Probab=30.03  E-value=45  Score=38.21  Aligned_cols=52  Identities=13%  Similarity=0.039  Sum_probs=33.9  Template_Neff=9.800
+
+Q LOKIASV2_05250  751 GNGYAKLTNIGSEDLEITSVGVEDEGNVNFTI-------QNS-GDPSISPGESRYVWFNAYE  804 (1327)
+Q Consensus       751 G~~~~~~~NtG~~~~~i~~v~in~~~~~~~~~-------~~~-~~~~~~~~e~~~vw~~~~~  804 (1327)
+                      +.++++|+|+|.+++.+..-..+|+.  .+.-       .-+ ..-.|.|||+..|.+....
+T Consensus        17 ~~~~i~V~N~~~~~~~v~~~~~~g~~--~~~~~~~~~~l~~~P~~~~L~pg~~q~vrv~~~~   76 (222)
+T 5GHU_A           17 KSVNVRLENKGNNPLLVQSWLDTGDD--NAEPGSITVPFTATPPVSRIDAKRGQTIKLMYTA   76 (222)
+T ss_dssp             SCEEEEEEECSSSCEEEEEEEESCC----------CCSEEEESSEEEECTTCEEEEEEEECC
+T ss_pred             CeEEEEEEeCCCCcEEEEEEEeCCCC--CCCCccccCCEEEeCCEEEeCCCCceEEEEEEcc
+Confidence            48899999999999998865555432  1210       001 1235789999988887765
+
+
+No 60
+>2QSV_A Uncharacterized protein; MCSG, structural genomics, Porphyromonas gingivalis; 2.1A {Porphyromonas gingivalis}
+Probab=29.23  E-value=47  Score=36.80  Aligned_cols=47  Identities=19%  Similarity=0.292  Sum_probs=28.9  Template_Neff=11.300
+
+Q LOKIASV2_05250  999 TIQIQVENTGQDDLALEYIYANGIQYDNFEVITDGTFPPSMANLLEPGDKRTIRATLD 1056 (1327)
+Q Consensus       999 t~~~~vkNtG~~~~~l~~i~l~~~~~~~~~~~~~~~~~~~~~~~l~pge~~~i~~~~~ 1056 (1327)
+                      +..++|+|+|+..+-+.-....    +.+..      .+. ...|.||++..+.+.+.
+T Consensus        22 ~~~~~i~N~~~~~~~~~~~~~~----~~~~~------~~~-~~~l~pg~~~~i~i~~~   68 (220)
+T 2QSV_A           22 VVRLVVNNTDESDLQVAVVSLP----SFVSL------DDR-AFRLQAREPRELNLSLA   68 (220)
+T ss_dssp             EEEEEEEECSSSCEEEEEEECC----TTEEC------SCC-EEEECSSSCEEEEEEEC
+T ss_pred             EEEEEEEcCCCCCEEEEEecCC----Cceec------eeC-cEEeCCCCCeEEEEEEe
+Confidence            5788999999887755443321    11111      121 24689999998887653
+
+
+No 61
+>6CXH_A Particulate methane monooxygenase, B subunit; copper dependent methane monooxygenase, OXIDOREDUCTASE; HET: CM5; 2.704A {Methylomicrobium alcaliphilum 20Z}
+Probab=28.19  E-value=50  Score=42.27  Aligned_cols=66  Identities=23%  Similarity=0.483  Sum_probs=42.2  Template_Neff=3.800
+
+Q LOKIASV2_05250  992 TYLLENGT--IQIQVENTGQDDLALEYIYANGIQYDNFEVI-TDGTFPP----------SMANLLEPGDKRTIRATLDD 1057 (1327)
+Q Consensus       992 ~y~~~Ngt--~~~~vkNtG~~~~~l~~i~l~~~~~~~~~~~-~~~~~~~----------~~~~~l~pge~~~i~~~~~~ 1057 (1327)
+                      +|.....+  ++++|+|.|+.-+-|.+..-.+.+.-+-+.. .+..|+.          +....+.|||+++++++..|
+T Consensus       290 ~Y~VpgR~l~~~~~VtN~g~~pv~lgEF~tA~vrFln~~~~~~~~~~p~~l~a~~gL~vs~~~pI~PGETrtv~v~a~D  368 (414)
+T 6CXH_A          290 SYRVPGRAMQMTLEITNNGDSAVRLAEFNTASVRFLDADVYEDDTNYPDDLLAEEGLSVSDNSPLAPGETRTVDVTASD  368 (414)
+T ss_dssp             EEEESCSEEEEEEEEEECSSSCEEEEEEEETTEEEECTTTCCCSSCCCTTTEETTCBCCTTCCCBCSEEEEECCEEEEC
+T ss_pred             EEEcCCceEEEEEEEEeCCCCCEEEEEEEeccEEEccccccCCCCCCchhhHhcCCceeCCCCCCCCCCeEEEEEEech
+Confidence            56666666  6779999999999998876444333222211 0111111          22347899999999998766
+
+
+No 62
+>3Q48_A Chaperone CupB2; Ig fold, periplasmic chaperone, CupB1; 2.5A {Pseudomonas aeruginosa}
+Probab=27.72  E-value=52  Score=39.09  Aligned_cols=23  Identities=17%  Similarity=0.086  Sum_probs=17.6  Template_Neff=9.000
+
+Q LOKIASV2_05250 1109 TLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1109 t~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      +..+.|||+||.-+.+..+.+.+
+T Consensus       172 ~~~~~i~N~Gn~~~~~~~l~i~~  194 (257)
+T 3Q48_A          172 KTVVQVNNPTPYYVSFASVELIV  194 (257)
+T ss_dssp             --CEEEEECSSSCEEEEEEEEEE
+T ss_pred             cEEEEEEcCCCcEEEEEEEEEEE
+Confidence            36999999999999998765553
+
+
+No 63
+>5O4U_K Flagellin; archaellar flagellum glycoprotein helical filament;{Pyrococcus furiosus DSM 3638}
+Probab=27.44  E-value=53  Score=38.27  Aligned_cols=38  Identities=13%  Similarity=0.127  Sum_probs=25.8  Template_Neff=8.100
+
+Q LOKIASV2_05250  787 DPSISPGESRYVWFNAYELP----TPLSIATGFNVEIEAKAG  824 (1327)
+Q Consensus       787 ~~~~~~~e~~~vw~~~~~~~----~~~~~~~~~~i~v~a~~~  824 (1327)
+                      ++.|+|||.-.+.++..+..    .....++.++|++..+.|
+T Consensus       150 ~~~L~~ge~~~I~I~~~~~~~~~~~~l~~~~~~~i~I~p~~G  191 (212)
+T 5O4U_K          150 YPTLNKGDIVVITVKVGEGNGVFGKGIPPRTKITGKVIPEFG  191 (212)
+T ss_dssp             EEEECTTCCEEEEEECCSSSSSSSSCBCSSCCCEEEEECSSS
+T ss_pred             CCccCCCCEEEEEEEeCCCCCccCCCCCCCCEEEEEEECCCC
+Confidence            45678888888888765321    345556777888877766
+
+
+No 64
+>4NCD_A Gram-negative pili assembly chaperone, N-terminal; immunoglobulin fold, chaperone; 2.037A {Escherichia coli}
+Probab=27.38  E-value=53  Score=38.74  Aligned_cols=21  Identities=19%  Similarity=0.112  Sum_probs=17.5  Template_Neff=9.000
+
+Q LOKIASV2_05250  862 NVEITIENPTTKPDLLTNITI  882 (1327)
+Q Consensus       862 ~~~l~veN~g~~~~~l~~f~i  882 (1327)
+                      ...++++|+|+....+.....
+T Consensus       161 ~~~~~i~N~Gn~~~~~~~~~~  181 (246)
+T 4NCD_A          161 KKNIIIYNNGNVRAGVKDIYF  181 (246)
+T ss_dssp             SCCCEEEECSSSCEEEEEEEE
+T ss_pred             CceEEEEECCceEEEEeeEEE
+Confidence            577999999999999876654
+
+
+No 65
+>4DJM_D E. coli chaperone DraB; DraB, Chaperone, Pili; 2.52A {Escherichia coli}
+Probab=27.32  E-value=53  Score=38.75  Aligned_cols=24  Identities=21%  Similarity=0.115  Sum_probs=20.4  Template_Neff=8.600
+
+Q LOKIASV2_05250 1108 ETLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1108 et~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      +...+.|||+|+.-+++..+.+++
+T Consensus       168 ~~~~l~i~N~Gn~~~~~~~i~~~~  191 (239)
+T 4DJM_D          168 AGNRLKGVNPTPFYINLSTLTVGG  191 (239)
+T ss_dssp             ETTEEEEEECSSSCBCEEEEEETT
+T ss_pred             eCCEEEEEcCCCeeEEeeEEEECC
+Confidence            467999999999999999876653
+
+
+No 66
+>4DJM_G E. coli chaperone DraB; DraB, Chaperone, Pili; HET: MSE; 2.52A {Escherichia coli}
+Probab=27.32  E-value=53  Score=38.75  Aligned_cols=24  Identities=21%  Similarity=0.115  Sum_probs=20.4  Template_Neff=8.600
+
+Q LOKIASV2_05250 1108 ETLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1108 et~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      +...+.|||+|+.-+++..+.+++
+T Consensus       168 ~~~~l~i~N~Gn~~~~~~~i~~~~  191 (239)
+T 4DJM_G          168 AGNRLKGVNPTPFYINLSTLTVGG  191 (239)
+T ss_dssp             ETTEEEEEECSSSCBCEEEEEETT
+T ss_pred             eCCEEEEEcCCCeeEEeeEEEECC
+Confidence            467999999999999999876653
+
+
+No 67
+>5YA6_B Flagellin B1; archaea, flagellum, flagellin, STRUCTURAL PROTEIN; 1.5A {Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)}
+Probab=26.66  E-value=56  Score=38.31  Aligned_cols=35  Identities=6%  Similarity=0.124  Sum_probs=26.7  Template_Neff=7.400
+
+Q LOKIASV2_05250 1040 ANLLEPGDKRTIRATLDD-----VERNTPIKVYITAMNEE 1074 (1327)
+Q Consensus      1040 ~~~l~pge~~~i~~~~~~-----~~~N~~i~i~~t~~~~~ 1074 (1327)
+                      ...|+|||...|.+..++     +..++...+.|+...|.
+T Consensus       146 ~~~Le~GE~~~I~I~~~~~~~~~l~~~~~~~i~I~p~~Ga  185 (211)
+T 5YA6_B          146 NGVINKGDIAVLLVNANAVFNKAIPTRSEVSGQFQPEFGA  185 (211)
+T ss_pred             CCccCCCCEEEEEEEccCCCCCCCCCCcEEEEEEECCCCC
+Confidence            358899999999988653     67788888888765543
+
+
+No 68
+>3BWU_C FimD (N-Terminal Domain)/Chaperone protein FimC/the; Usher, N-terminal domain, ternary complex; HET: EDO; 1.76A {Escherichia coli} SCOP: b.7.2.1, b.1.11.1
+Probab=26.45  E-value=57  Score=37.33  Aligned_cols=24  Identities=17%  Similarity=0.126  Sum_probs=20.1  Template_Neff=9.100
+
+Q LOKIASV2_05250 1108 ETLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1108 et~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      +...+.|||.|+.-+++..+.+++
+T Consensus       136 ~~~~l~v~N~Gn~~~~i~~~~~~~  159 (205)
+T 3BWU_C          136 SANSLTLINPTPYYLTVTELNAGT  159 (205)
+T ss_pred             eCCEEEEEcCCCceEEEEEEECCC
+Confidence            457999999999999999877653
+
+
+No 69
+>3Q48_A Chaperone CupB2; Ig fold, periplasmic chaperone, CupB1; 2.5A {Pseudomonas aeruginosa}
+Probab=26.13  E-value=58  Score=38.71  Aligned_cols=24  Identities=13%  Similarity=0.210  Sum_probs=16.8  Template_Neff=9.000
+
+Q LOKIASV2_05250  860 NVNVEITIENPTTKPDLLTNITIN  883 (1327)
+Q Consensus       860 ~~~~~l~veN~g~~~~~l~~f~i~  883 (1327)
+                      .....++|+|+|+..+.+..+.+.
+T Consensus       170 ~~~~~~~i~N~Gn~~~~~~~l~i~  193 (257)
+T 3Q48_A          170 GKKTVVQVNNPTPYYVSFASVELI  193 (257)
+T ss_dssp             ----CEEEEECSSSCEEEEEEEEE
+T ss_pred             CccEEEEEEcCCCcEEEEEEEEEE
+Confidence            345789999999999988776654
+
+
+No 70
+>1YEW_A methane monooxygenase, B subunit, methane; membrane protein, methane, beta barrel; 2.801A {Methylococcus capsulatus}
+Probab=26.08  E-value=58  Score=41.31  Aligned_cols=66  Identities=24%  Similarity=0.487  Sum_probs=42.2  Template_Neff=3.700
+
+Q LOKIASV2_05250  992 TYLLENGT--IQIQVENTGQDDLALEYIYANGIQYDNFEVI-TDGTFP----------PSMANLLEPGDKRTIRATLDD 1057 (1327)
+Q Consensus       992 ~y~~~Ngt--~~~~vkNtG~~~~~l~~i~l~~~~~~~~~~~-~~~~~~----------~~~~~~l~pge~~~i~~~~~~ 1057 (1327)
+                      .|.....+  ++++|+|.|+.-+-|.+..-.+...-+-+.. .+..|+          -+....+.|||++++++++.|
+T Consensus       258 ~Y~vpgR~l~~~~~VtN~g~~pv~lgEF~tA~vrFln~~~~~~~~~~p~~l~a~~gL~vs~~~pI~PGETrtv~v~a~D  336 (382)
+T 1YEW_A          258 TYRVPGRAMRMKLTITNHGNSPIRLGEFYTASVRFLDSDVYKDTTGYPEDLLAEDGLSVSDNSPLAPGETRTVDVTASD  336 (382)
+T ss_dssp             EEESSCSEEEEEEEEEECSSSCEEEEEEECSSCEEECTTTCCCCSCCCGGGEETTCEEESCCSCBCTTCEEEEEEEEEC
+T ss_pred             EEEcCCceEEEEEEEEeCCCCCEEEEEEEecceEEecccccCCCCCChHHhhccCCceecCCCCCCCCCeEEEEEEEch
+Confidence            56666666  6779999999999998876444333222211 011111          122347899999999998766
+
+
+No 71
+>6E14_C Type 1 fimbrin D-mannose specific; pili, chaperone, usher, MEMBRANE PROTEIN; 4.0A {Escherichia coli}
+Probab=25.38  E-value=61  Score=38.34  Aligned_cols=22  Identities=18%  Similarity=0.111  Sum_probs=18.9  Template_Neff=8.600
+
+Q LOKIASV2_05250 1109 TLRLVVKNVGSESIELTEVVLN 1130 (1327)
+Q Consensus      1109 t~~~~ikN~G~~~itl~~i~ln 1130 (1327)
+                      .+.+.|+|+|+.-+++..+.++
+T Consensus       173 ~~~l~i~N~Gn~~~~~~~~~~~  194 (241)
+T 6E14_C          173 ANSLTLINPTPYYLTVTELNAG  194 (241)
+T ss_pred             CCEEEEEcCCCceEEEEEEEEC
+Confidence            5799999999999999876555
+
+
+No 72
+>4B0M_M F1 CAPSULE-ANCHORING PROTEIN, F1 CAPSULE; PROTEIN TRANSPORT, CHAPERONE-USHER PATHWAY, PILI; 1.8A {YERSINIA PESTIS}
+Probab=22.94  E-value=73  Score=37.47  Aligned_cols=54  Identities=13%  Similarity=0.171  Sum_probs=31.5  Template_Neff=8.800
+
+Q LOKIASV2_05250  999 TIQIQVENTGQDDLALEYIYANGIQYDNFEVITDG-TFPPSMANLLEPGDKRTIRATLD 1056 (1327)
+Q Consensus       999 t~~~~vkNtG~~~~~l~~i~l~~~~~~~~~~~~~~-~~~~~~~~~l~pge~~~i~~~~~ 1056 (1327)
+                      +-.++|+|+|+...-++ +++.+...+  ....+. .+.|. ...|+|||.+.|++.+.
+T Consensus        29 ~~~i~V~N~~~~~~~v~-v~v~~~~~~--~~~~~~l~v~P~-~~~l~p~~~q~Vrv~~~   83 (235)
+T 4B0M_M           29 GVMVSVKNTQDYPVLIQ-SRIYDENKE--KESEDPFVVTPP-LFRLDAKQQNSLRIAQA   83 (235)
+T ss_dssp             CEEEEEEECSSSCEEEE-EEEECTTSC--CC--CCEEEESS-EEEECTTCEEEEEEEEC
+T ss_pred             eEEEEEEeCCCCcEEEE-EEEecCCCc--cccCCCeEEeCC-EEEeCCCCcceEEEEEc
+Confidence            56788899998776665 444332111  111111 12232 35799999999998753
+
+
+No 73
+>4KTY_B Coagulation factor XIII A chain; transglutaminase, COAGULATION, TRANSFERASE, ACYLTRANSFERASE, ligand; HET: DAS, ABA, NLE, GOL, 1TX; 1.98A {Homo sapiens}
+Probab=22.85  E-value=73  Score=44.41  Aligned_cols=117  Identities=14%  Similarity=0.068  Sum_probs=57.0  Template_Neff=7.200
+
+Q LOKIASV2_05250  996 ENGTIQIQVENTGQDDLALEYIYANGIQYDN-FEVI-TDGTFPPSMANLLEPGDKRTIRATLDD------VERNTPIKVY 1067 (1327)
+Q Consensus       996 ~Ngt~~~~vkNtG~~~~~l~~i~l~~~~~~~-~~~~-~~~~~~~~~~~~l~pge~~~i~~~~~~------~~~N~~i~i~ 1067 (1327)
+                      ++-++.++|+|+++.   ..++.++-...+- |... ............|.||+++++.+.++.      +..+..+.|.
+T Consensus       538 edf~ltvtvkN~S~~---~r~v~v~l~a~sv~YtG~~~~~~~~~~~~~~L~P~~s~~v~l~V~~~eY~~~L~d~~~i~i~  614 (738)
+T 4KTY_B          538 KDFKLSITFRNNSHN---RYTITAYLSANITFYTGVPKAEFKKETFDVTLEPLSFKKEAVLIQAGEYMGQLLEQASLHFF  614 (738)
+T ss_dssp             SCEEEEEEEEECSSS---CEEEEEEEEEEEECTTSCEEEEEEEEEEEEEECTTEEEEEEEEECHHHHHTTCCTTCEEEEE
+T ss_pred             CcEEEEEEEEeCCCC---CeEEEEEEEEEEEEEeCccchhceEEEEEEEeCCCCeEEEEEEEecHHHhccccccCeEEEE
+Confidence            344689999999942   2233322111111 1111 011111222346899999988776532      3223566666
+
+
+Q LOKIASV2_05250 1068 ITAMNEETV----AADYGYFVPRNQSQMIEILDAFNSMTALFANE--TLRLVVKNVGSESIE 1123 (1327)
+Q Consensus      1068 ~t~~~~~t~----asd~g~~~~~~~~~~i~ii~~~~~~~~~~~Ne--t~~~~ikN~G~~~it 1123 (1327)
+                      +.+...+|.    +.+ -+   .-+.|+|+|    +....+-.++  ++.+.++|.|+.+++
+T Consensus       615 v~a~v~et~~~~~~~~-~~---~L~~P~L~I----~v~~~~~vg~~~~v~vsf~Npl~~~Lt  668 (738)
+T 4KTY_B          615 VTARINETRDVLAKQK-ST---VLTIPEIII----KVRGTQVVGSDMTVIVEFTNPLKETLR  668 (738)
+T ss_dssp             EEEEETTTTEEEEEEE-EE---ECBCCCCEE----EEESCCBTTSCEEEEEEEECCSSSCEE
+T ss_pred             EEEEECCCCCEEEEEE-EE---EEeCCceEE----EeCCceeCCCeEEEEEEEECCCCCcce
+Confidence            666543331    111 11   112444442    1112333444  568999999987654
+
+
+No 74
+>4PHZ_A peptide, pmoC, pmoB, pmoA; Bacterial Proteins, Binding Sites, Copper; HET: PGT; 2.59A {Methylocystis sp. ATCC 49242}
+Probab=22.43  E-value=76  Score=40.89  Aligned_cols=66  Identities=27%  Similarity=0.451  Sum_probs=41.5  Template_Neff=3.800
+
+Q LOKIASV2_05250  992 TYLLENGT--IQIQVENTGQDDLALEYIYANGIQYDNFEV-ITDGTFPP---------SMANLLEPGDKRTIRATLDD 1057 (1327)
+Q Consensus       992 ~y~~~Ngt--~~~~vkNtG~~~~~l~~i~l~~~~~~~~~~-~~~~~~~~---------~~~~~l~pge~~~i~~~~~~ 1057 (1327)
+                      +|.....+  ++++|+|.|+.-+-|.+..-.+.+.-+-+. ..+..|+.         -....+.|||+++++++..|
+T Consensus       292 ~Y~VpgR~l~~~~~VtN~g~~pv~lgEF~tA~vrFln~~v~~~~~~~p~~l~a~~gL~v~~~PI~PGETrtv~V~a~D  369 (420)
+T 4PHZ_A          292 VYKVPGRELTINVKVKNNTSQPLRLGEYTAAGLRFLNPDVFTTKPDFPDYLLADRGLSVDATPIAPGEAKEIVVKIQD  369 (420)
+T ss_dssp             EEEESSSEEEEEEEEEEESSSCCEEEEEESSSCEEECTTTCSSCCCCCGGGEESCCCCCCSCCCCSSCEEEEEEEEEC
+T ss_pred             EEEcCCcEEEEEEEEEcCCCCCEEEEEEEecceEEecccccCCCCCCchHHHhcCCeeeCCCCCCCCCeEEEEEEEec
+Confidence            56666666  677999999999999887644433322221 01111111         01236899999999988766
+
+
+No 75
+>4PI0_A peptide, pmoA, pmoC, pmoB; Bacterial Proteins, Binding Sites, Copper; 3.15A {Methylocystis sp. ATCC 49242}
+Probab=22.43  E-value=76  Score=40.89  Aligned_cols=66  Identities=27%  Similarity=0.451  Sum_probs=41.5  Template_Neff=3.800
+
+Q LOKIASV2_05250  992 TYLLENGT--IQIQVENTGQDDLALEYIYANGIQYDNFEV-ITDGTFPP---------SMANLLEPGDKRTIRATLDD 1057 (1327)
+Q Consensus       992 ~y~~~Ngt--~~~~vkNtG~~~~~l~~i~l~~~~~~~~~~-~~~~~~~~---------~~~~~l~pge~~~i~~~~~~ 1057 (1327)
+                      +|.....+  ++++|+|.|+.-+-|.+..-.+.+.-+-+. ..+..|+.         -....+.|||+++++++..|
+T Consensus       292 ~Y~VpgR~l~~~~~VtN~g~~pv~lgEF~tA~vrFln~~v~~~~~~~p~~l~a~~gL~v~~~PI~PGETrtv~V~a~D  369 (420)
+T 4PI0_A          292 VYKVPGRELTINVKVKNNTSQPLRLGEYTAAGLRFLNPDVFTTKPDFPDYLLADRGLSVDATPIAPGEAKEIVVKIQD  369 (420)
+T ss_dssp             EEEESCSEEEEEEEEEEESSSCCEEEEEESSSCEEECTTTCSSCCCCCSTTEESCCCCSCSCCCCSSCEEEEEEEEEC
+T ss_pred             EEEcCCcEEEEEEEEEcCCCCCEEEEEEEecceEEecccccCCCCCCchHHHhcCCeeeCCCCCCCCCeEEEEEEEec
+Confidence            56666666  677999999999999887644433322221 01111111         01236899999999988766
+
+
+No 76
+>3DPA_A PAPD; CHAPERONE PROTEIN; 2.5A {Escherichia coli} SCOP: b.7.2.1, b.1.11.1
+Probab=22.27  E-value=77  Score=36.79  Aligned_cols=23  Identities=4%  Similarity=-0.088  Sum_probs=18.9  Template_Neff=8.900
+
+Q LOKIASV2_05250 1109 TLRLVVKNVGSESIELTEVVLNS 1131 (1327)
+Q Consensus      1109 t~~~~ikN~G~~~itl~~i~ln~ 1131 (1327)
+                      ...+.|+|+|+.-+++..+.+.+
+T Consensus       138 ~~~l~i~N~Gn~~~~~~~~~~~~  160 (218)
+T 3DPA_A          138 SGGYRIENPTPYYVTVIGLGGSE  160 (218)
+T ss_pred             CCeEEEEcCCCCeEEEEecccCc
+Confidence            35799999999999998776654
+
+
+No 77
+>1G0D_A PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE(E.C.2.3.2.13); tissue transglutaminase,acyltransferase, TRANSFERASE; 2.5A {Pagrus major} SCOP: b.1.18.9, b.1.5.1, d.3.1.4
+Probab=21.71  E-value=80  Score=43.70  Aligned_cols=124  Identities=10%  Similarity=-0.006  Sum_probs=59.1  Template_Neff=7.600
+
+Q LOKIASV2_05250  996 ENGTIQIQVENTGQDDLALEYIYANGIQYDN-FEVITD-GTFPPSMANLLEPGDKRTIRATLD--D----VERNTPIKVY 1067 (1327)
+Q Consensus       996 ~Ngt~~~~vkNtG~~~~~l~~i~l~~~~~~~-~~~~~~-~~~~~~~~~~l~pge~~~i~~~~~--~----~~~N~~i~i~ 1067 (1327)
+                      ++.+++++|+|+|+   ...++.++-...+. |..... ..........|.||+++++.+.+.  +    +.....+.|.
+T Consensus       486 ~df~l~v~v~N~s~---~~~~v~v~l~a~sv~Ytg~~~~~~~~~~~~~~l~P~e~~~v~l~I~y~dy~~~l~~~~~i~v~  562 (695)
+T 1G0D_A          486 TDFDVIVEVKNEGG---RDAHAQLTMLAMAVTYNSLRRGECQRKTISVTVPAHKAHKEVMRLHYDDYVRCVSEHHLIRVK  562 (695)
+T ss_dssp             CCEEEEEEEEECSS---SCEEEEEEEEEEEECTTCBCCCCCCEEEEEEEECTTEEEEEEEEECHHHHTTTCCTTCEEEEE
+T ss_pred             CcEEEEEEEEeCCC---CceeEEEEEEEEEEEEecccCCceeEEEEEEEeCCCCeEEEEEEEEcHHHhccccccceEEEE
+Confidence            44468999999994   23333332100011 111100 011122224689999998876543  2    2223355555
+
+
+Q LOKIASV2_05250 1068 ITAMNEET----VAADYGYFVPRNQSQMIEILDAFNSMTALFANE--TLRLVVKNVGSESIELTEVVLN 1130 (1327)
+Q Consensus      1068 ~t~~~~~t----~asd~g~~~~~~~~~~i~ii~~~~~~~~~~~Ne--t~~~~ikN~G~~~itl~~i~ln 1130 (1327)
+                      +.+...+|    .+.+.-.    -+.|+|+    ++....+..++  ++.+.++|.|+.+++==.+.+-
+T Consensus       563 v~~~v~~t~~~~~~~~~~~----l~~P~l~----I~v~~~~~vg~~~~v~vsf~Npl~~~Ltn~~l~vE  623 (695)
+T 1G0D_A          563 ALLDAPGENGPIMTVANIP----LSTPELL----VQVPGKAVVWEPLTAYVSFTNPLPVPLKGGVFTLE  623 (695)
+T ss_dssp             EEEECCC---EEEEEEEEE----CBCCCCE----EECCSCEETTCCEEEEEEEECCSSSCEESCEEEEE
+T ss_pred             EEEEeCCCCCcEEEEEEEE----eeCCceE----EEcCCceeCCCcEEEEEEEEcCCCCCceeEEEEEE
+Confidence            55543333    1111100    1334443    22223345554  5589999999977654434443
+
+
+No 78
+>1F13_A CELLULAR COAGULATION FACTOR XIII ZYMOGEN; COAGULATION, TRANSGLUTAMINASE, TRANSFERASE, ACYLTRANSFERASE, BLOOD; 2.1A {Homo sapiens} SCOP: b.1.18.9, b.1.5.1, d.3.1.4
+Probab=21.37  E-value=82  Score=43.90  Aligned_cols=119  Identities=13%  Similarity=0.065  Sum_probs=57.1  Template_Neff=7.300
+
+Q LOKIASV2_05250  996 ENGTIQIQVENTGQDDLALEYIYANGIQYDN-FEVI-TDGTFPPSMANLLEPGDKRTIRATLDD------VERNTPIKVY 1067 (1327)
+Q Consensus       996 ~Ngt~~~~vkNtG~~~~~l~~i~l~~~~~~~-~~~~-~~~~~~~~~~~~l~pge~~~i~~~~~~------~~~N~~i~i~ 1067 (1327)
+                      ++-++.++|+|+++..   .++.++-...+- |... ............|.||+++++.+.++.      +.-+..+.|.
+T Consensus       531 edf~ltvtv~N~s~~~---r~v~v~l~a~~v~YtG~~~~~~~~~~~~~~l~P~~~~~i~l~I~y~eY~~~l~d~~~i~i~  607 (731)
+T 1F13_A          531 KDFKLSITFRNNSHNR---YTITAYLSANITFYTGVPKAEFKKETFDVTLEPLSFKKEAVLIQAGEYMGQLLEQASLHFF  607 (731)
+T ss_dssp             SCEEEEEEEEECSSCC---EEEEEEEEEEEECTTSCEEEEEEEEEEEEEECTTCCCEEEEEECHHHHTTTCCTTCEEEEE
+T ss_pred             CcEEEEEEEEeCCCCC---eEEEEEEEEEEEEEeCcccccceEEEEEEEeCCCCeEEEEEEEecHHHhccccccceEEEE
+Confidence            3346899999999422   233222110111 1100 001111222346899999988876532      2223566666
+
+
+Q LOKIASV2_05250 1068 ITAMNEETVA---ADYGYFVPRNQSQMIEILDAFNSMTALFANE--TLRLVVKNVGSESIEL 1124 (1327)
+Q Consensus      1068 ~t~~~~~t~a---sd~g~~~~~~~~~~i~ii~~~~~~~~~~~Ne--t~~~~ikN~G~~~itl 1124 (1327)
+                      +.+...+|..   ..--+   .-+.|+|+|    +....+-.++  ++.+.++|.|+.+++=
+T Consensus       608 v~~~v~et~~~~~~~~~~---~L~~P~L~I----~v~~~~~vg~~~~v~vsf~Npl~~~Ltn  662 (731)
+T 1F13_A          608 VTARINETRDVLAKQKST---VLTIPEIII----KVRGTQVVGSDMTVTVEFTNPLKETLRN  662 (731)
+T ss_dssp             EEEEETTTCCEEEEEEEE---ECBCCCCEE----EEEECCBTTSCEEEEEEEECCSSSCEEE
+T ss_pred             EEEEECCCCCEEEEEEeE---EEeCCceEE----EeCCceeCCCEEEEEEEEECCCCCccee
+Confidence            6665444311   10000   112344332    1112333444  5689999999876553
+
+

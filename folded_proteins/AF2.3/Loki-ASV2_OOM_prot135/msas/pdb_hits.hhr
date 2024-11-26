@@ -1,0 +1,158 @@
+Query         LOKIASV2_03190 hypothetical protein
+Match_columns 1362
+No_of_seqs    5 out of 5
+Neff          2.01201
+Searched_HMMs 80799
+Date          Wed Sep 11 23:55:57 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpn7biudhz/query.a3m -o /tmp/tmpn7biudhz/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5IJN_S NUCLEAR PORE COMPLEX PR  14.0 1.6E+02   0.002   38.5   0.0   29 1259-1287  340-370 (599)
+  2 2KNC_B Integrin alpha-IIb, Int  11.5 2.1E+02  0.0026   27.0   0.0   17 1150-1166   13-29  (79)
+  3 4YKC_A Malcavernin; adaptor pr   9.8 2.6E+02  0.0033   31.9   0.0   26 1328-1353    7-32  (164)
+  4 4X86_A Ubiquitin-like protein    8.9   3E+02  0.0037   26.3   0.0   27 1263-1289   25-51  (58)
+  5 2J7A_C CYTOCHROME C NITRITE RE   8.4 3.2E+02   0.004   28.3   0.0   27 1144-1170    5-31  (159)
+  6 2VR0_F CYTOCHROME C NITRITE RE   8.4 3.2E+02   0.004   28.3   0.0   27 1144-1170    5-31  (159)
+  7 1HGZ_A PH75 INOVIRUS MAJOR COA   8.4 3.3E+02   0.004   25.7   0.0   25 1155-1179   16-45  (46)
+  8 1HH0_A PH75 INOVIRUS MAJOR COA   8.4 3.3E+02   0.004   25.7   0.0   25 1155-1179   16-45  (46)
+  9 4WWR_D Ubl4A, Bag6; Endoplasmi   8.1 3.4E+02  0.0042   25.1   0.0   26 1263-1288   22-47  (47)
+ 10 1JQ1_D VOLTAGE-GATED POTASSIUM   7.7 3.6E+02  0.0045   22.1   0.0   23 1146-1168    3-25  (34)
+
+No 1
+>5IJN_S NUCLEAR PORE COMPLEX PROTEIN NUP155; Nuclear pore complex, Nucleocytoplasmic transport; 21.4A {Homo sapiens}
+Probab=13.99  E-value=1.6e+02  Score=38.46  Aligned_cols=29  Identities=14%  Similarity=0.230  Sum_probs=17.7  Template_Neff=5.300
+
+Q LOKIASV2_03190 1259 RRLGDFINQTIKDIQELFTR--QELPERELL 1287 (1362)
+Q Consensus      1259 ~~~~~f~~~t~kd~q~~f~r--~~l~~~e~~ 1287 (1362)
+                      ....+|..++++++.+...+  +.++++|-.
+T Consensus       340 ~~p~eYF~~Lv~efE~qLq~YrqqIEEIE~h  370 (599)
+T 5IJN_S          340 AAPADYFRILVQQFEVQLQQYRQQIEELENH  370 (599)
+T ss_dssp             SSHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             ccHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34566777777777666554  556665543
+
+
+No 2
+>2KNC_B Integrin alpha-IIb, Integrin beta-3; integrin, transmembrane signaling, protein structure; NMR {Homo sapiens}
+Probab=11.49  E-value=2.1e+02  Score=27.05  Aligned_cols=17  Identities=24%  Similarity=0.366  Sum_probs=6.4  Template_Neff=7.700
+
+Q LOKIASV2_03190 1150 KPFLIIIGIALLGVPLL 1166 (1362)
+Q Consensus      1150 ~p~~IiIgIAliGIp~l 1166 (1362)
+                      ....++.||+++|+.++
+T Consensus        13 i~g~vvggiv~l~ll~~   29 (79)
+T 2KNC_B           13 VLLSVMGAILLIGLAAL   29 (79)
+T ss_dssp             -------SHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHH
+Confidence            34466677777776543
+
+
+No 3
+>4YKC_A Malcavernin; adaptor protein; HET: MSE; 2.7A {Homo sapiens}
+Probab=9.80  E-value=2.6e+02  Score=31.86  Aligned_cols=26  Identities=23%  Similarity=0.298  Sum_probs=22.8  Template_Neff=3.400
+
+Q LOKIASV2_03190 1328 DLEILKSSIPKLLQKISKVELRFIKR 1353 (1362)
+Q Consensus      1328 ~~~~l~~~~~~~~~k~~~~el~~~~r 1353 (1362)
+                      ..++|+.-|.+|..||++.|+..|..
+T Consensus         7 ~~elLqDYM~~L~skLs~~EL~qFA~   32 (164)
+T 4YKC_A            7 ATELLQDYMLTLRTKLSSQEIQQFAA   32 (164)
+T ss_dssp             HHHHHHHHHHHHHHHSCHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHhcCCHHHHHHHHH
+Confidence            46789999999999999999987754
+
+
+No 4
+>4X86_A Ubiquitin-like protein 4A/Large proline-rich protein; tail-anchored transmembrane protein biogenesis, quality; HET: SO4, CPS; 1.85A {Homo sapiens}
+Probab=8.94  E-value=3e+02  Score=26.30  Aligned_cols=27  Identities=26%  Similarity=0.345  Sum_probs=23.6  Template_Neff=5.300
+
+Q LOKIASV2_03190 1263 DFINQTIKDIQELFTRQELPERELLAQ 1289 (1362)
+Q Consensus      1263 ~f~~~t~kd~q~~f~r~~l~~~e~~a~ 1289 (1362)
+                      .-+++..||+++-+.+-+||.+|-+|.
+T Consensus        25 ~vl~~f~kd~e~~l~~lSLDDIERLA~   51 (58)
+T 4X86_A           25 RVLEQLQRDYERSLSRLTLDDIERLAS   51 (58)
+T ss_dssp             HHHHHHHHHHHHHHHHCCHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhcCCHHHHHHHHH
+Confidence            456788899999999999999998885
+
+
+No 5
+>2J7A_C CYTOCHROME C NITRITE REDUCTASE NRFA; QUINOL DEHYDROGENASE, CYTOCHROME C NITRITE; HET: ACT, CA, LMT, HEC; 2.3A {DESULFOVIBRIO VULGARIS}
+Probab=8.42  E-value=3.2e+02  Score=28.28  Aligned_cols=27  Identities=26%  Similarity=0.177  Sum_probs=10.8  Template_Neff=8.700
+
+Q LOKIASV2_03190 1144 QISRFWKPFLIIIGIALLGVPLLWKVI 1170 (1362)
+Q Consensus      1144 ~i~kf~~p~~IiIgIAliGIp~l~~~i 1170 (1362)
+                      ++.|..+-+++|++++++|+-+++.+.
+T Consensus         5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~   31 (159)
+T 2J7A_C            5 KSRNGPARLKLVLGGATLGVVALATVA   31 (159)
+T ss_dssp             ---------CCSTTTHHHHHHHHHHHH
+T ss_pred             hhhcchhHHHHHHHHHHHHHHHHHHHH
+Confidence            344444556666666677766544433
+
+
+No 6
+>2VR0_F CYTOCHROME C NITRITE REDUCTASE, CATALYTIC; QUINOL DEHYDROGENASE, OXIDOREDUCTASE, HQNO, NRFH; HET: HEM, HQO; 2.8A {DESULFOVIBRIO VULGARIS}
+Probab=8.42  E-value=3.2e+02  Score=28.28  Aligned_cols=27  Identities=26%  Similarity=0.177  Sum_probs=10.8  Template_Neff=8.700
+
+Q LOKIASV2_03190 1144 QISRFWKPFLIIIGIALLGVPLLWKVI 1170 (1362)
+Q Consensus      1144 ~i~kf~~p~~IiIgIAliGIp~l~~~i 1170 (1362)
+                      ++.|..+-+++|++++++|+-+++.+.
+T Consensus         5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~   31 (159)
+T 2VR0_F            5 KSRNGPARLKLVLGGATLGVVALATVA   31 (159)
+T ss_dssp             ---------CHHHHHHHHHHHHHHHHH
+T ss_pred             hhhcchhHHHHHHHHHHHHHHHHHHHH
+Confidence            344444556666666677766544433
+
+
+No 7
+>1HGZ_A PH75 INOVIRUS MAJOR COAT PROTEIN; VIRUS, VIRUS COAT PROTEIN, HELICAL; 2.4A {BACTERIOPHAGE PH75} SCOP: h.1.4.1
+Probab=8.39  E-value=3.3e+02  Score=25.73  Aligned_cols=25  Identities=36%  Similarity=0.349  Sum_probs=16.2  Template_Neff=1.500
+
+Q LOKIASV2_03190 1155 IIGIALLGVPLLWKV-----IFPYTFDKLK 1179 (1362)
+Q Consensus      1155 iIgIAliGIp~l~~~-----if~~~~~~~~ 1179 (1362)
+                      |-+||..|+++|-+-     .+||..||+|
+T Consensus        16 I~~IA~AGVgvL~LtiGLsAAWrYA~rFLk   45 (46)
+T 1HGZ_A           16 IQAIAAAGVGVLALAIGLSAAWKYAKRFLK   45 (46)
+T ss_dssp             HHHHHHCCCCCTHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHhc
+Confidence            456777777776554     3566666665
+
+
+No 8
+>1HH0_A PH75 INOVIRUS MAJOR COAT PROTEIN; VIRUS, VIRUS COAT PROTEIN, HELICAL; 2.4A {BACTERIOPHAGE PH75} SCOP: h.1.4.1
+Probab=8.39  E-value=3.3e+02  Score=25.73  Aligned_cols=25  Identities=36%  Similarity=0.349  Sum_probs=16.2  Template_Neff=1.500
+
+Q LOKIASV2_03190 1155 IIGIALLGVPLLWKV-----IFPYTFDKLK 1179 (1362)
+Q Consensus      1155 iIgIAliGIp~l~~~-----if~~~~~~~~ 1179 (1362)
+                      |-+||..|+++|-+-     .+||..||+|
+T Consensus        16 I~~IA~AGVgvL~LtiGLsAAWrYA~rFLk   45 (46)
+T 1HH0_A           16 IQAIAAAGVGVLALAIGLSAAWKYAKRFLK   45 (46)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHGGG
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHhc
+Confidence            456777777776554     3566666665
+
+
+No 9
+>4WWR_D Ubl4A, Bag6; Endoplasmic Reticulum, Recombinant Proteins, Human; 2.0A {Homo sapiens}
+Probab=8.12  E-value=3.4e+02  Score=25.06  Aligned_cols=26  Identities=27%  Similarity=0.355  Sum_probs=22.0  Template_Neff=5.200
+
+Q LOKIASV2_03190 1263 DFINQTIKDIQELFTRQELPERELLA 1288 (1362)
+Q Consensus      1263 ~f~~~t~kd~q~~f~r~~l~~~e~~a 1288 (1362)
+                      .-+++..||+++-+.+-+||.+|-+|
+T Consensus        22 ~v~~~f~k~~e~~l~~lSLDDIERlA   47 (47)
+T 4WWR_D           22 RVLEQLQRDYERSLSRLTLDDIERLA   47 (47)
+T ss_pred             HHHHHHHHHHHHHHhhCCHHHHHHhC
+Confidence            35677889999999999999999775
+
+
+No 10
+>1JQ1_D VOLTAGE-GATED POTASSIUM CHANNEL; POTASSIUM CHANNEL, INTEGRAL MEMBRANE PROTEIN; NMR {Streptomyces lividans} SCOP: f.14.1.1
+Probab=7.73  E-value=3.6e+02  Score=22.10  Aligned_cols=23  Identities=17%  Similarity=0.229  Sum_probs=16.7  Template_Neff=7.200
+
+Q LOKIASV2_03190 1146 SRFWKPFLIIIGIALLGVPLLWK 1168 (1362)
+Q Consensus      1146 ~kf~~p~~IiIgIAliGIp~l~~ 1168 (1362)
+                      -|++-.+++++||+++|++.-+.
+T Consensus         3 Gr~~av~l~i~Gi~l~~~~~~~i   25 (34)
+T 1JQ1_D            3 GRCVAVVVMVAGITSFGLVTAAL   25 (34)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHH
+Confidence            36667778888888888776543
+
+
