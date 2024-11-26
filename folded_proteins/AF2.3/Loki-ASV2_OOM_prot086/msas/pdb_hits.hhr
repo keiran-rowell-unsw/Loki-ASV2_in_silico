@@ -1,0 +1,817 @@
+Query         LOKIASV2_36790 hypothetical protein
+Match_columns 1090
+No_of_seqs    303 out of 9789
+Neff          3.87413
+Searched_HMMs 80799
+Date          Wed Sep 11 14:57:17 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpm00vku4p/query.a3m -o /tmp/tmpm00vku4p/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1ULV_A glucodextranase(E.C.3.2  99.9 5.8E-32 7.1E-37  333.7   0.0  216  506-743   770-1018(1020)
+  2 2RHP_A Thrombospondin-2; Extra  95.5  0.0013 1.6E-08   80.3   0.0   35  937-971   252-286 (622)
+  3 2RHP_A Thrombospondin-2; Extra  95.2  0.0021 2.6E-08   78.6   0.0   83  936-1018  192-287 (622)
+  4 3FBY_A Cartilage oligomeric ma  95.2  0.0023 2.8E-08   78.8   0.0   73  936-1016  188-260 (551)
+  5 1YO8_A thrombospondin-2; EGF    95.2  0.0023 2.9E-08   78.7   0.0   35  937-971   255-289 (634)
+  6 1UX6_A THROMBOSPONDIN-1; EXTRA  94.9  0.0033 4.1E-08   73.6   0.0   72  936-1017   40-111 (350)
+  7 1YO8_A thrombospondin-2; EGF    94.9  0.0035 4.4E-08   77.2   0.0   83  936-1018  195-290 (634)
+  8 3FBY_A Cartilage oligomeric ma  94.7  0.0051 6.3E-08   75.9   0.0   83  936-1018  106-201 (551)
+  9 2J42_A C2 TOXIN COMPONENT-II;   93.9   0.012 1.5E-07   74.7   0.0   67  958-1025  185-251 (721)
+ 10 2RHP_A Thrombospondin-2; Extra  93.3   0.023 2.8E-07   70.0   0.0   69  936-1014  312-380 (622)
+ 11 5WTL_A OmpA family protein; pr  92.6   0.038 4.7E-07   61.2   0.0   12  983-994    58-69  (261)
+ 12 1YO8_A thrombospondin-2; EGF    92.0   0.052 6.5E-07   67.4   0.0   66  937-1012  316-381 (634)
+ 13 5WTL_C OmpA family protein; pr  92.0   0.053 6.5E-07   60.1   0.0   11  983-993    58-68  (261)
+ 14 3FBY_A Cartilage oligomeric ma  90.7     0.1 1.3E-06   65.0   0.0   72  936-1017  226-297 (551)
+ 15 3PE9_A Fibronectin(III)-like m  88.0    0.25 3.1E-06   46.4   0.0   86  757-851     3-91  (98)
+ 16 4NAM_A Protective antigen; ant  86.9    0.33 4.1E-06   62.8   0.0   24  998-1021  219-242 (735)
+ 17 3TEW_A Protective antigen; pro  85.7    0.44 5.4E-06   61.6   0.0   26  998-1023  219-244 (715)
+ 18 3TEX_A Protective antigen; pro  85.7    0.44 5.4E-06   61.6   0.0   26  998-1023  219-244 (715)
+ 19 6SJX_A Iron-regulated protein   79.2     1.3 1.6E-05   48.1   0.0   85  935-1020   26-124 (182)
+ 20 3PDG_A 1st Fibronectin(III)-li  75.6     1.9 2.4E-05   40.5   0.0   80  757-846     3-86  (98)
+ 21 3PDD_A Glycoside hydrolase, fa  72.3     2.7 3.3E-05   42.5   0.0   94  749-851    87-183 (190)
+ 22 3FBY_A Cartilage oligomeric ma  62.3       6 7.4E-05   50.3   0.0   74  935-1018   59-142 (551)
+ 23 1I8A_A ENDO-1,4-BETA-XYLANASE   59.4     7.3   9E-05   41.0   0.0   45  543-588    41-86  (189)
+ 24 3PDD_A Glycoside hydrolase, fa  58.6     7.7 9.5E-05   39.4   0.0   76  756-841     2-80  (190)
+ 25 1I8U_A ENDO-1,4-BETA-XYLANASE   54.1      10 0.00013   40.1   0.0   45  543-588    41-86  (189)
+ 26 6PSN_E Protective antigen, Let  48.0      15 0.00018   47.2   0.0   24  997-1020   51-74  (568)
+ 27 3J9C_A Protective antigen PA-6  45.0      18 0.00022   46.5   0.0   24  997-1020   45-68  (562)
+ 28 3HVD_F Protective antigen; Bac  44.5      18 0.00023   46.3   0.0   24  997-1020   51-74  (548)
+ 29 5WTL_A OmpA family protein; pr  42.0      21 0.00026   40.4   0.0   82  937-1018   31-126 (261)
+ 30 6KLO_A PROTEIN; Bacterial bina  40.5      23 0.00029   46.5   0.0   25  996-1020   45-69  (666)
+ 31 5WTL_C OmpA family protein; pr  38.0      27 0.00034   39.6   0.0   81  937-1017   31-125 (261)
+ 32 1UX6_A THROMBOSPONDIN-1; EXTRA  31.2      41 0.00051   41.0   0.0   58  952-1017   18-75  (350)
+ 33 6UWI_d ADP-ribosyltransferase   26.8      55 0.00068   43.4   0.0   23  996-1018   46-68  (667)
+ 34 6UWT_A ADP-ribosyltransferase   26.8      55 0.00068   43.4   0.0   23  996-1018   46-68  (667)
+ 35 2KPN_A Bacillolysin (E.C.3.4.2  26.6      56 0.00069   31.4   0.0   33  820-852    57-89  (103)
+ 36 5WTL_A OmpA family protein; pr  26.4      57  0.0007   37.2   0.0   60  959-1018    3-70  (261)
+ 37 6SJX_A Iron-regulated protein   26.0      58 0.00072   35.9   0.0   79  936-1017    7-99  (182)
+ 38 4L3A_B Internalin K; Leucine r  23.0      72 0.00089   40.3   0.0   33  820-852   486-518 (590)
+ 39 5WTL_C OmpA family protein; pr  22.1      78 0.00096   36.2   0.0   60  959-1018    3-70  (261)
+ 40 4L3A_A Internalin K; Leucine r  21.3      83   0.001   39.8   0.0   33  820-852   486-518 (590)
+ 41 5FQ7_G BT_2263, BT_2264, BT_22  20.4      89  0.0011   35.6   0.0   31  819-849    60-90  (212)
+ 42 5FQ8_G PUTATIVE LIPOPROTEIN, O  20.4      89  0.0011   35.6   0.0   31  819-849    60-90  (212)
+
+No 1
+>1ULV_A glucodextranase(E.C.3.2.1.70); GH family 15, (alpha-alpha)6-barrel, SLH; HET: ACR; 2.42A {Arthrobacter globiformis} SCOP: a.102.1.5, b.1.9.3, b.1.18.2, b.30.5.5
+Probab=99.94  E-value=5.8e-32  Score=333.69  Aligned_cols=216  Identities=26%  Similarity=0.308  Sum_probs=195.6  Template_Neff=8.800
+
+Q LOKIASV2_36790  506 FEPPFTEIFYMEDPHGDELG----IYPTGDAYDGYEMGLTDIWEFNVSVHEFGTQFAFRIN-TTIDPGWGAGNFSHQCFL  580 (1090)
+Q Consensus       506 ~~~~~t~if~M~DP~GDd~G----~YPTn~~F~pf~pGlFDLl~F~V~~d~~~~~F~fkf~-~~~npww~~~GFSHQli~  580 (1090)
+                      ++++++++++++||+|||||    +|||+++|+   +|+|||++|+|++.+++++|+|+|+ .++|||++| |||||+|+
+T Consensus       770 ~~~~~~~~~~~~Dp~gDd~Gpg~y~yP~~~~f~---~g~~Dl~~~~v~~~~~~~~~~~~~~~~~~~~w~~~-gfs~~~~~  845 (1020)
+T 1ULV_A          770 VLYYGSRIGALSDPAGDDNGPGTYRYPTNSAYV---PGAFDLTGVDVYDAGDDYAFVATIAGEVTNPWGGQ-AISHQRVN  845 (1020)
+T ss_dssp             EECCSEEEEEEECCSSCCSTTTTCBCCSSTTSC---TTTTCEEEEEEEEETTEEEEEEEESSCCCCTTCCS-SCSSEEEE
+T ss_pred             EEeCCEEEEEecCCCCCCCCCCcccCCCCCCCC---CCCcceeEEEEEEeCCEEEEEEEEeecccCCCCCC-CcccEEEE
+Confidence            56799999999999999999    999999998   7999999999999999999999996 999999999 99999999
+
+
+Q LOKIASV2_36790  581 VAIDFKEGGSTSALRNVNIEMYPDYAWDYAFYFDGFLH--SFYTPETLADPQSSFEIKVSYRCQNGEHWYSLYVPKEITG  658 (1090)
+Q Consensus       581 VYID~~~GG~t~~l~GaNv~f~p~~~Wd~~Iki~GW~~--~~~~~~~~a~~~~~~~v~v~~~~~~g~~tI~i~VPK~~iG  658 (1090)
+                      ||||+++||++..+||+|++|  +++|||+|+|+||+.  .++.++++.    ..  .+++.|++++|+|+++|||+.||
+T Consensus       846 iy~~~~~~g~~~~~~g~~~~~--~~~W~~~~~~~g~~~~~~~~~~~~~~----~~--~~~~~~~~~~~~i~~~v~~~~l~  917 (1020)
+T 1ULV_A          846 IYLGKGEGGATPGLPGTNINL--EHAWDSVIVTDGRFDGAGVYAPDGTR----TS--AVSLLAVPEARQIVTRVPKAALG  917 (1020)
+T ss_dssp             EEEECSCSSCEECSGGGCCEE--SSCEEEEEEECCSTTCCEEECTTSCE----EE--CCEEEEETTTTEEEEEEEGGGST
+T ss_pred             EEEecCCCCCCCCCCCcceec--CCcCeEEEEEcCCCCCceeeCCCCCe----ee--ceeEEEeCCCCEEEEEEeHHHhC
+Confidence            999999888888999999999  789999999999987  678877765    22  35678899999999999999999
+
+
+Q LOKIASV2_36790  659 DVANESWN--YYGIVGFCD---FNHFRAHNELP----------SEWLLGGGS----------DS-NYDPNYCDILVPIYE  712 (1090)
+Q Consensus       659 d~~~~~W~--YYVlVGs~d---~~~~R~v~~~~----------~eW~fGGG~----------D~-~~dPNViDiLaP~~~  712 (1090)
+                      +.+..+|+  |||++++||   ++++|+|.+++          ++|+||||+          +. +.+|+|||+|+|+++
+T Consensus       918 ~~~~~~~~~~~~v~~~~~d~~~~~~~r~~~~~~~~~~~~~~~~~~~~fgg~~~~~~~~~~~~~~~~~~p~~~d~~~p~~~  997 (1020)
+T 1ULV_A          918 GLDPATARMSVAMFGNAESGEGIGNVRPVYDGAYWEAGDPAWIKEWRFGGGAGVFDGTIPSRDTDTDDPNALDVLVGEGQ  997 (1020)
+T ss_dssp             TCCTTSCEEEEEEEEBCCGGGSGGGBCCEEEHHHHHHTSSTTHHHHSEEEESCCBCTTSTTCBSCCCSCCCSEECCCTTC
+T ss_pred             CCChhcccEEEEEEeecCCCCCCCCeeecccCccccCCCchhcCceeeecCccCCCCCCCCCCCCCCCCceeEEecCCCC
+Confidence            86566675  889889998   67999999887          999999995          23 679999999999987
+
+
+Q LOKIASV2_36790  713 PNAKAIYLQELVSQSYNEESEELGTMMPVGN  743 (1090)
+Q Consensus       713 ~~~~~~~~qe~~L~sy~~~~~~lA~~~pVG~  743 (1090)
+                             +|++||   |++++++|+||+|+-
+T Consensus       998 -------~q~~~l---~~~~~~~~~~~~~~~ 1018 (1020)
+T 1ULV_A          998 -------TQAAVL---DWRAGSPVVVPMLGL 1018 (1020)
+T ss_dssp             -------CHHHHT---CGGGSSSCEECCEEC
+T ss_pred             -------cHHHHh---CCCCCCcceeecccC
+Confidence                   899999   999999999999974
+
+
+No 2
+>2RHP_A Thrombospondin-2; Extracellular matrix, calcium-binding, glycosylated, jelly-roll; HET: NAG, CA; 2.9A {Homo sapiens}
+Probab=95.46  E-value=0.0013  Score=80.34  Aligned_cols=35  Identities=34%  Similarity=0.434  Sum_probs=15.3  Template_Neff=9.100
+
+Q LOKIASV2_36790  937 DSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIE  971 (1090)
+Q Consensus       937 DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~E  971 (1090)
+                      |.|+||+.+..|......++...|+|+||+.|..|
+T Consensus       252 D~D~Dgi~d~~d~~~~~~~~~~~D~D~Dg~~d~~d  286 (622)
+T 2RHP_A          252 DIDGDDVFNERDNCPYVYNTDQRDTDGDGVGDHCD  286 (622)
+T ss_dssp             CTTCSSSCTTTCSSTTSCCTTCCCTTCSSSCGGGC
+T ss_pred             CCCCCcccchhhcCCCCCCcCCCCCCCCCCCCccc
+Confidence            44444544444432222333344555555555443
+
+
+No 3
+>2RHP_A Thrombospondin-2; Extracellular matrix, calcium-binding, glycosylated, jelly-roll; HET: NAG, CA; 2.9A {Homo sapiens}
+Probab=95.22  E-value=0.0021  Score=78.64  Aligned_cols=83  Identities=28%  Similarity=0.398  Sum_probs=49.6  Template_Neff=9.100
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPL-------------EADSDGDGITDQSEVEKFGTNP 1002 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~-------------~aDTDgDGLtDg~Ev~~~GTnP 1002 (1090)
+                      .|+|+||+.|..|......++...|+|+||+.|..+......++.             ..|.|+||+.|..|......+|
+T Consensus       192 ~d~D~Dg~~d~~~~~~~~~~~~~~d~d~dg~~d~~d~~~~~~~~~~~D~D~Dg~~d~~d~D~D~Dgi~d~~d~~~~~~~~  271 (622)
+T 2RHP_A          192 DDDDNDGVTDEKDNCQLLFNPRQADYDKDEVGDRCDNCPYVHNPAQIDTDNNGEGDACSVDIDGDDVFNERDNCPYVYNT  271 (622)
+T ss_dssp             SSTTCSSSCTTTCTTTTSCCTTCCCSSSSSSCGGGCSSTTSCCTTCCCTTCSSSCGGGCSCTTCSSSCTTTCSSTTSCCT
+T ss_pred             CCCCCCCCCcccccccccCCCCccCCCCCCCCCCccCCCCCCCccccCCCCCCCCcccccCCCCCcccchhhcCCCCCCc
+Confidence            356666666655533333445555666666666544221111111             2467777777777754455677
+
+
+Q LOKIASV2_36790 1003 NLIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus      1003 ~~~DSDgDGlsDg~Ev 1018 (1090)
+                      ...|+|+||+.|..|.
+T Consensus       272 ~~~D~D~Dg~~d~~d~  287 (622)
+T 2RHP_A          272 DQRDTDGDGVGDHCDN  287 (622)
+T ss_dssp             TCCCTTCSSSCGGGCS
+T ss_pred             CCCCCCCCCCCCcccC
+Confidence            7889999999998764
+
+
+No 4
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=95.18  E-value=0.0023  Score=78.81  Aligned_cols=73  Identities=36%  Similarity=0.456  Sum_probs=35.7  Template_Neff=7.100
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNLIDSDNDGFTDF 1015 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~~DSDgDGlsDg 1015 (1090)
+                      .|+|+||+.|..+......++...|+|+||+.|..+        ...|+|+||+.|..|....-.+|...|+|+||+.|.
+T Consensus       188 ~DsDgDGvgD~~D~cp~~~n~~~~D~D~Dg~gd~cd--------~d~D~DgDGi~D~~D~cp~~~n~~~~DtD~DG~gD~  259 (551)
+T 3FBY_A          188 KDSDGDGIGDACDNCPQKSNPDQADVDHDFVGDACD--------SDQDQDGDGHQDSRDNCPTVPNSAQEDSDHDGQGDA  259 (551)
+T ss_dssp             CCTTCSSSCGGGCSCTTSCCTTCCCTTCSSSCTTTC--------CCCCTTCSSCCGGGCSSTTSCCTTCCCTTCSSSCTT
+T ss_pred             CCCCCCCCCcccccCCCCCCccccCCCCCCCCCCcc--------cccCCCCCCCCCCcCCCCCCCCCccCCCCCCCCCCC
+Confidence            456666666654433333344444555555554433        123556666666555433333444555555555444
+
+
+Q LOKIASV2_36790 1016 A 1016 (1090)
+Q Consensus      1016 ~ 1016 (1090)
+                      .
+T Consensus       260 ~  260 (551)
+T 3FBY_A          260 C  260 (551)
+T ss_dssp             T
+T ss_pred             C
+Confidence            3
+
+
+No 5
+>1YO8_A thrombospondin-2; EGF  Ca(2+)-binding domains ; HET: CA, MAN, NAG; 2.6A {Homo sapiens}
+Probab=95.15  E-value=0.0023  Score=78.68  Aligned_cols=35  Identities=34%  Similarity=0.434  Sum_probs=15.3  Template_Neff=8.800
+
+Q LOKIASV2_36790  937 DSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIE  971 (1090)
+Q Consensus       937 DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~E  971 (1090)
+                      |.|+||+.|..|......++...|+|+||+.|..+
+T Consensus       255 D~D~Dgi~d~~d~~~~~~~~~~~D~DgDg~~d~~d  289 (634)
+T 1YO8_A          255 DIDGDDVFNERDNCPYVYNTDQRDTDGDGVGDHCD  289 (634)
+T ss_dssp             STTSS---S-SCSSTTSCCTTCCCTTCSSSCGGGC
+T ss_pred             CCCCCCCCcccccCCCCCCCCCCCCCCCCCCCccc
+Confidence            45555555554433223344445566666655544
+
+
+No 6
+>1UX6_A THROMBOSPONDIN-1; EXTRACELLULAR MATRIX, CALCIUM BINDING, L-TYPE; HET: CA; 1.9A {HOMO SAPIENS} SCOP: b.29.1.16, g.75.1.1
+Probab=94.94  E-value=0.0033  Score=73.56  Aligned_cols=72  Identities=35%  Similarity=0.432  Sum_probs=40.0  Template_Neff=6.700
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNLIDSDNDGFTDF 1015 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~~DSDgDGlsDg 1015 (1090)
+                      .|+|+||+.|..+......++...|+|+||+.|..+          .|.|+||+.|..+...+-.+|...|+|+||+.|.
+T Consensus        40 ~D~D~DGi~d~~D~cp~~~n~~~~D~D~DG~gd~cd----------~D~D~DGv~d~~D~cp~~~~~~~~D~d~DGigD~  109 (350)
+T 1UX6_A           40 QDIDEDGHQNNLDNCPYVPNANQADHDKDGKGDACD----------HDDDNDGIPDDKDNCRLVPNPDQKDSDGDGRGDA  109 (350)
+T ss_dssp             CCTTCSSSCGGGCSSTTSCCTTCCCTTCSSSCGGGC----------SSTTCSSSCGGGCTTTTSCCTTCCCTTCSSSCGG
+T ss_pred             CCCCCCCCCcccccCCCCCCccccCCCCCCCCccCC----------CCCCCCCCCCcCCCCCCCCCcccCCCCCCCCCCC
+Confidence            466777777765544333444456666666665432          2566666666555444444455555555555544
+
+
+Q LOKIASV2_36790 1016 AE 1017 (1090)
+Q Consensus      1016 ~E 1017 (1090)
+                      .|
+T Consensus       110 c~  111 (350)
+T 1UX6_A          110 CK  111 (350)
+T ss_dssp             GS
+T ss_pred             Cc
+Confidence            43
+
+
+No 7
+>1YO8_A thrombospondin-2; EGF  Ca(2+)-binding domains ; HET: CA, MAN, NAG; 2.6A {Homo sapiens}
+Probab=94.91  E-value=0.0035  Score=77.21  Aligned_cols=83  Identities=28%  Similarity=0.398  Sum_probs=49.1  Template_Neff=8.800
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPL-------------EADSDGDGITDQSEVEKFGTNP 1002 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~-------------~aDTDgDGLtDg~Ev~~~GTnP 1002 (1090)
+                      .|+|+||+.|..|......++...|+|+||+.|..+......++.             ..|.|+||+.|..|......+|
+T Consensus       195 ~D~D~Dg~~d~~~~~~~~~~~~~~d~D~dg~~d~~d~c~~~~~~~~~D~d~dg~~d~~d~D~D~Dgi~d~~d~~~~~~~~  274 (634)
+T 1YO8_A          195 DDDDNDGVTDEKDNCQLLFNPRQADYDKDEVGDRCDNCPYVHNPAQIDTDNNGEGDACSVDIDGDDVFNERDNCPYVYNT  274 (634)
+T ss_dssp             SSTTSSSSCTTTCSSTTSCCTTCCCSSSSSSCGGGCSSTTSCCTTCCCTTCSSSCGGGCSSTTSS---S-SCSSTTSCCT
+T ss_pred             CCCCCCCCCCCccCCCCCCCCCCCCCCCCCCCccccCCCCCCCCCCCCCCCCCCCcccCcCCCCCCCCcccccCCCCCCC
+Confidence            467777777766644333455566777777776544221111121             2467777777777754456677
+
+
+Q LOKIASV2_36790 1003 NLIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus      1003 ~~~DSDgDGlsDg~Ev 1018 (1090)
+                      ...|+|+||+.|..+.
+T Consensus       275 ~~~D~DgDg~~d~~d~  290 (634)
+T 1YO8_A          275 DQRDTDGDGVGDHCDN  290 (634)
+T ss_dssp             TCCCTTCSSSCGGGCS
+T ss_pred             CCCCCCCCCCCCcccC
+Confidence            8889999999998664
+
+
+No 8
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=94.67  E-value=0.0051  Score=75.88  Aligned_cols=83  Identities=29%  Similarity=0.350  Sum_probs=54.7  Template_Neff=7.100
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPLE-------------ADSDGDGITDQSEVEKFGTNP 1002 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~-------------aDTDgDGLtDg~Ev~~~GTnP 1002 (1090)
+                      .|+|+||+.|..|......++...|+|+||+.|..+.-....++..             .|+|+||+.|..|....-.+|
+T Consensus       106 ~D~D~DGi~d~~d~c~~~~n~~~~DsD~Dg~~d~~d~c~~~~n~~q~D~D~DG~gd~cd~D~D~DGi~d~~d~cp~~~n~  185 (551)
+T 3FBY_A          106 PDADGDGVPNEKDNCPLVRNPDQRNTDEDKWGDACDNCRSQKNDDQKDTDQDGRGDACDDDIDGDRIRNQADNCPRVPNS  185 (551)
+T ss_dssp             TTTTCSSSCGGGCSSSSSCCTTCCCTTCSSSCGGGCSSTTSCCTTCCCTTSSSSCGGGCSSTTCSSSCSTTCSSTTSCCT
+T ss_pred             CCCCCCCCCCcccCCCCCCCCCCCCCCCCCCCcccccCCCCCCCcccCCCCCCCCCcCcCCCCCCCcccccccCCCCCCc
+Confidence            5778888888766544445566678888888876654222222222             366677777766654445667
+
+
+Q LOKIASV2_36790 1003 NLIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus      1003 ~~~DSDgDGlsDg~Ev 1018 (1090)
+                      ...|+|+||+.|..+-
+T Consensus       186 ~~~DsDgDGvgD~~D~  201 (551)
+T 3FBY_A          186 DQKDSDGDGIGDACDN  201 (551)
+T ss_dssp             TCCCTTCSSSCGGGCS
+T ss_pred             ccCCCCCCCCCccccc
+Confidence            8889999999998663
+
+
+No 9
+>2J42_A C2 TOXIN COMPONENT-II; TOXIN, CLOSTRIDIUM BOTULINUM, C2-II; 3.13A {CLOSTRIDIUM BOTULINUM}
+Probab=93.92  E-value=0.012  Score=74.70  Aligned_cols=67  Identities=30%  Similarity=0.359  Sum_probs=45.6  Template_Neff=5.000
+
+Q LOKIASV2_36790  958 LIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNLIDSDNDGFTDFAEITAGSDPL 1025 (1090)
+Q Consensus       958 ~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~~DSDgDGlsDg~Ev~~GTDPl 1025 (1090)
+                      ..|+|+||++|.+|...|.......-.+.|.|....+. .|.++|...+||+|+++|++|+..+.||.
+T Consensus       185 ~~DtD~DgipD~wE~~GYt~~~~~~v~w~d~l~~~g~~-k~~SnP~~~~T~gDpysD~ek~~~~id~~  251 (721)
+T 2J42_A          185 NRDTDRDGIPDEWEINGYTVMNQKAVAWDDKFAANGYK-KYVSNPFKPCTANDPYTDFEKVSGQIDPS  251 (721)
+T ss_dssp             -CCSSCSSSCHHHHHSCEECSTTCEECCHHHHHHHCCC-CCCCCSSCSCTTCSSSCHHHHHHCCSCTT
+T ss_pred             CCCCCCCCCccceeecCccccCceeeccchhHhhCCce-EeecCCCCCCCCCCCCCHHHHHHccCCCc
+Confidence            35667777777777654443333445667777766665 47888888888888888888888766664
+
+
+No 10
+>2RHP_A Thrombospondin-2; Extracellular matrix, calcium-binding, glycosylated, jelly-roll; HET: NAG, CA; 2.9A {Homo sapiens}
+Probab=93.25  E-value=0.023  Score=69.97  Aligned_cols=69  Identities=33%  Similarity=0.448  Sum_probs=36.2  Template_Neff=9.100
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNLIDSDNDGFTD 1014 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~~DSDgDGlsD 1014 (1090)
+                      .|+|+||+.+..|......++...|+|+||+.|..+          .|+|+||+.|..|......+|...|+|+||+.|
+T Consensus       312 ~D~D~DGi~d~~d~~~~~~~~~~~D~D~dg~~d~~d----------~D~D~Dg~~d~~d~~~~~~~~~~~d~d~dG~~d  380 (622)
+T 2RHP_A          312 EDIDDDGHQNNQDNCPYISNANQADHDRDGQGDACD----------PDDDNDGVPDDRDNCRLVFNPDQEDLDGDGRGD  380 (622)
+T ss_dssp             CCTTSSSSCGGGCSSTTSCCTTCCCTTCSSSCGGGC----------SCTTCSSSCGGGCTTTTSCCTTCCCTTCSSSCG
+T ss_pred             cCCCCCCCcccccCCCCCCccccccCCCCCCCCCCC----------CCCCCCCCCCccccCCCCCCccccCCCCCCCCc
+Confidence            366777777766544333344455666666666443          255556665555543333344444444444443
+
+
+No 11
+>5WTL_A OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=92.56  E-value=0.038  Score=61.22  Aligned_cols=12  Identities=58%  Similarity=1.174  Sum_probs=6.1  Template_Neff=8.700
+
+Q LOKIASV2_36790  983 DSDGDGITDQSE  994 (1090)
+Q Consensus       983 DTDgDGLtDg~E  994 (1090)
+                      |+|+||+.|..+
+T Consensus        58 d~dgdg~~d~~d   69 (261)
+T 5WTL_A           58 DTDGDGIPDKDD   69 (261)
+T ss_dssp             CSSCSSSCGGGC
+T ss_pred             CCCCCCCCCccc
+Confidence            555555555443
+
+
+No 12
+>1YO8_A thrombospondin-2; EGF  Ca(2+)-binding domains ; HET: CA, MAN, NAG; 2.6A {Homo sapiens}
+Probab=92.03  E-value=0.052  Score=67.38  Aligned_cols=66  Identities=33%  Similarity=0.464  Sum_probs=31.0  Template_Neff=8.800
+
+Q LOKIASV2_36790  937 DSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNLIDSDNDGF 1012 (1090)
+Q Consensus       937 DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~~DSDgDGl 1012 (1090)
+                      |+|+||+.+..+......++...|+|+||+.|..+          .|.|+||+.|..|......+|...|+|+||+
+T Consensus       316 d~d~Dg~~d~~d~~~~~~~~~~~d~d~dg~~d~~d----------~D~D~Dg~~d~~d~~~~~~~~~~~d~d~dG~  381 (634)
+T 1YO8_A          316 DIDDDGHQNNQDNCPYISNANQADHDRDGQGDACD----------PDDDNDGVPDDRDNCRLVFNPDQEDLDGDGR  381 (634)
+T ss_dssp             CTTSSSSCGGGCSSTTSCCTTCCCTTCSSSCTTTC----------SCTTCSSSCGGGCTTTTSCCTTCCCTTCSSS
+T ss_pred             CCCCCCCCCCCCCCCCCCCcccccCCCCCCCCcCC----------CCCCCCCCCCccCCCCCCCCccccCCCCCCC
+Confidence            56666666655543333334445555555555433          1444555555444322333333344444433
+
+
+No 13
+>5WTL_C OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=92.02  E-value=0.053  Score=60.14  Aligned_cols=11  Identities=64%  Similarity=1.199  Sum_probs=5.3  Template_Neff=8.700
+
+Q LOKIASV2_36790  983 DSDGDGITDQS  993 (1090)
+Q Consensus       983 DTDgDGLtDg~  993 (1090)
+                      |+|+||+.|..
+T Consensus        58 d~d~dg~~d~~   68 (261)
+T 5WTL_C           58 DTDGDGIPDKD   68 (261)
+T ss_dssp             CSSCSSSCGGG
+T ss_pred             CCCCCCCCCcc
+Confidence            44555554443
+
+
+No 14
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=90.68  E-value=0.1  Score=65.02  Aligned_cols=72  Identities=33%  Similarity=0.498  Sum_probs=46.2  Template_Neff=7.100
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNLIDSDNDGFTDF 1015 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~~DSDgDGlsDg 1015 (1090)
+                      .|+|+||+.|..+......++...|+|+||+.|..+          .|.|+||+.|..|......+|...|+|+||+.|.
+T Consensus       226 ~D~DgDGi~D~~D~cp~~~n~~~~DtD~DG~gD~~d----------~D~D~DGi~D~~D~cp~~~~~~~~D~d~DG~gd~  295 (551)
+T 3FBY_A          226 QDQDGDGHQDSRDNCPTVPNSAQEDSDHDGQGDACD----------DDDDNDGVPDSRDNCRLVPNPGQEDADRDGVGDV  295 (551)
+T ss_dssp             CCTTCSSCCGGGCSSTTSCCTTCCCTTCSSSCTTTC----------SSSSCSSSCGGGCSSTTSCCTTCCCSSSSSSCST
+T ss_pred             cCCCCCCCCCCcCCCCCCCCCccCCCCCCCCCCCCC----------CCCCCCCCCCccccCCCCCCCCCcCCCCCCCCCc
+Confidence            467788888766654444455667777777777544          2667777777777555555666666666666555
+
+
+Q LOKIASV2_36790 1016 AE 1017 (1090)
+Q Consensus      1016 ~E 1017 (1090)
+                      .+
+T Consensus       296 ~~  297 (551)
+T 3FBY_A          296 CQ  297 (551)
+T ss_dssp             TT
+T ss_pred             cc
+Confidence            43
+
+
+No 15
+>3PE9_A Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; HET: IOD; 1.69A {Clostridium thermocellum}
+Probab=87.99  E-value=0.25  Score=46.35  Aligned_cols=86  Identities=21%  Similarity=0.179  Sum_probs=54.8  Template_Neff=9.300
+
+Q LOKIASV2_36790  757 NIHDPVNNSIVPVFQGEASTSIELNYTVEDPLDNPYSGIKTVAVYIDEILFTTDHSA--DTEIILNMGDHLIRFTATDML  834 (1090)
+Q Consensus       757 ~i~~~~~~~~~~~~~~~~~~s~~~~~~~~D~~~~~~~~~~~v~~~~d~v~~~~D~~~--~~~i~Ls~G~y~L~itAtD~~  834 (1090)
+                      .|..|.++..+.  .+ .  .+.+.+++++..    ..+++|.++.|......+.+.  ...+.+..|.|.|++.|+|..
+T Consensus         3 ~i~~P~~g~~~~--~~-~--~v~v~~~~~~~~----~~i~~v~~~i~g~~~~~~~~~~~~~~~~~~~G~~~l~~~a~D~~   73 (98)
+T 3PE9_A            3 KLTAPKSNVVAY--GN-E--FLKITATASDSD----GKISRVDFLVDGEVIGSDREAPYEYEWKAVEGNHEISVIAYDDD   73 (98)
+T ss_dssp             EEEECCTTCCEE--TT-S--EEEEEEEECCSS----SCEEEEEEEETTEEEEEECSSSEEEEEECCSEEEEEEEEEEETT
+T ss_pred             EEEcCCCCcEEe--CC-C--eEEEEEEEECCC----CCeEEEEEEECCEEEeeeCCCCEEEEEecCCEEEEEEEEEEeCC
+Confidence            455666666553  22 1  344556665543    336678888877766554332  222334499999999999999
+
+
+Q LOKIASV2_36790  835 GNNKT-VLLAIKVEGFLT  851 (1090)
+Q Consensus       835 GN~~t-~ti~VtVqdttt  851 (1090)
+                      ||... ..++|.|+....
+T Consensus        74 g~~~~s~~~~v~v~~~~~   91 (98)
+T 3PE9_A           74 DAASTPDSVKIFVKQARL   91 (98)
+T ss_dssp             CCBCCCEEEEEEEECCC-
+T ss_pred             CCeEeCEEEEEEEecccc
+Confidence            99875 678887776443
+
+
+No 16
+>4NAM_A Protective antigen; anthrax, toxin, 5-fluorotryptophan, pore; 1.7A {Bacillus anthracis}
+Probab=86.92  E-value=0.33  Score=62.81  Aligned_cols=24  Identities=21%  Similarity=0.599  Sum_probs=15.2  Template_Neff=5.400
+
+Q LOKIASV2_36790  998 FGTNPNLIDSDNDGFTDFAEITAG 1021 (1090)
+Q Consensus       998 ~GTnP~~~DSDgDGlsDg~Ev~~G 1021 (1090)
+                      |.++|...++++|+++|++++..+
+T Consensus       219 y~SnP~~~~T~GDpyTD~eKvtg~  242 (735)
+T 4NAM_A          219 YKSSPEKXSTASDPYSDFEKVTGR  242 (735)
+T ss_dssp             BCCCTTCSSTTSSSSCHHHHHHTC
+T ss_pred             EecCCCCCCCCCCCCCCHHHHHcc
+Confidence            566666666666666666666553
+
+
+No 17
+>3TEW_A Protective antigen; protein transport, toxin; HET: MXE; 1.45A {Bacillus anthracis}
+Probab=85.72  E-value=0.44  Score=61.64  Aligned_cols=26  Identities=23%  Similarity=0.567  Sum_probs=16.2  Template_Neff=5.400
+
+Q LOKIASV2_36790  998 FGTNPNLIDSDNDGFTDFAEITAGSD 1023 (1090)
+Q Consensus       998 ~GTnP~~~DSDgDGlsDg~Ev~~GTD 1023 (1090)
+                      |.++|...++++|+++|++++..+.|
+T Consensus       219 y~SnP~~~~T~GDpytD~eKvt~~iD  244 (715)
+T 3TEW_A          219 YKSSPEKWSTASDPYSDFEKVTGRID  244 (715)
+T ss_dssp             BCCCTTCSSTTSSSSCHHHHHHTCSC
+T ss_pred             EecCccccccCCCCCCCHHHHHhcCC
+Confidence            56666666666666666666665433
+
+
+No 18
+>3TEX_A Protective antigen; protein transport, toxin; 1.7A {Bacillus anthracis}
+Probab=85.72  E-value=0.44  Score=61.64  Aligned_cols=26  Identities=23%  Similarity=0.567  Sum_probs=16.2  Template_Neff=5.400
+
+Q LOKIASV2_36790  998 FGTNPNLIDSDNDGFTDFAEITAGSD 1023 (1090)
+Q Consensus       998 ~GTnP~~~DSDgDGlsDg~Ev~~GTD 1023 (1090)
+                      |.++|...++++|+++|++++..+.|
+T Consensus       219 y~SnP~~~~T~GDpytD~eKvt~~iD  244 (715)
+T 3TEX_A          219 YKSSPEKWSTASDPYSDFEKVTGRID  244 (715)
+T ss_dssp             BCCCTTCSSTTSSSSCHHHHHHTCSC
+T ss_pred             EecCccccccCCCCCCCHHHHHhcCC
+Confidence            56666666666666666666665433
+
+
+No 19
+>6SJX_A Iron-regulated protein FrpA; Repeat in toxin proteins, calcium; HET: CA; NMR {Neisseria meningitidis serogroup C}
+Probab=79.23  E-value=1.3  Score=48.05  Aligned_cols=85  Identities=26%  Similarity=0.376  Sum_probs=54.2  Template_Neff=7.500
+
+Q LOKIASV2_36790  935 GIDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDY-IELFDYHT-------------DPLEADSDGDGITDQSEVEKFGT 1000 (1090)
+Q Consensus       935 ~~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~-~Ev~~~~T-------------DP~~aDTDgDGLtDg~Ev~~~GT 1000 (1090)
+                      ..|.|+||.....|..-....-...|.|+||.-+. .|++....             -....|+|+||..+..+- .+..
+T Consensus        26 ~~D~d~DG~~~~~e~~~~~d~fl~~D~n~DG~I~~~~E~~~~~~~~~~~~~~~~~~~~l~~~D~n~DG~i~~~d~-~~~~  104 (182)
+T 6SJX_A           26 LFDHNRDGIRTATGWVSADDGLLVRDLNGNGIIDNGAELFGDNTKLADGSFAKHGYAALAELDSNGDNIINAADA-AFQS  104 (182)
+T ss_dssp             CCCSSSCSSCCBSEEECTTSEEEECCTTSSSCCCSTTSBSSTTSBCTTSCBCSSGGGGGGGGCSSSSSEEETTST-HHHH
+T ss_pred             eeccCCCCceeecceeccCCeeeEEcCCCCCeecChhHhcccchhhcCCccccchHHHHHHHhhCCCCeechhHH-HHHH
+Confidence            45778888877766542222223357888887776 66542211             012458999998887753 2333
+
+
+Q LOKIASV2_36790 1001 NPNLIDSDNDGFTDFAEITA 1020 (1090)
+Q Consensus      1001 nP~~~DSDgDGlsDg~Ev~~ 1020 (1090)
+                      --...|.|+||+.+..|+..
+T Consensus       105 ~f~~~D~n~DG~~~~~El~~  124 (182)
+T 6SJX_A          105 LRVWQDLNQDGISQANELRT  124 (182)
+T ss_dssp             CEEECCSSCCSCCCGGGEEE
+T ss_pred             hHhHcccCCCCCcCHHHHHH
+Confidence            33567999999999999864
+
+
+No 20
+>3PDG_A 1st Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; 1.78A {Clostridium thermocellum}
+Probab=75.62  E-value=1.9  Score=40.45  Aligned_cols=80  Identities=19%  Similarity=0.245  Sum_probs=49.7  Template_Neff=9.500
+
+Q LOKIASV2_36790  757 NIHDPVNNSIVPVFQGEASTSIELNYTVEDPLDNPYSGIKTVAVYIDEILFTTDHSADTEII---LNMGDHLIRFTATDM  833 (1090)
+Q Consensus       757 ~i~~~~~~~~~~~~~~~~~~s~~~~~~~~D~~~~~~~~~~~v~~~~d~v~~~~D~~~~~~i~---Ls~G~y~L~itAtD~  833 (1090)
+                      .|..|.++..+.  .   ..++.+..++++.     .++.+|.++.|.-.+.+..+......   +..|.|.|++.|+|.
+T Consensus         3 ~i~~p~~~~~~~--~---~~~v~v~~~~~~~-----~~i~~v~~~~dg~~~~~~~~~~~~~~~~~~~~G~~~i~a~a~D~   72 (98)
+T 3PDG_A            3 TIDSPVAGERFE--A---GKDINISATVKSK-----TPVSKVEFYNGDTLISSDTTAPYTAKITGAAVGAYNLKAVAVLS   72 (98)
+T ss_dssp             EEEESCTTCEEE--T---TSCEEEEEEECCS-----SCEEEEEEEETTEEEEEESSSSEEEEETTCCSEEEEEEEEEEET
+T ss_pred             EEECCCCCCEEe--c---CCcEEEEEEEeCC-----CCeeEEEEEECCEEEEecCCCCEEEEeecCCCeEEEEEEEEEeC
+Confidence            445566665553  1   2244566666652     35777888888877665544322222   457999999999999
+
+
+Q LOKIASV2_36790  834 LGNNKT-VLLAIKV  846 (1090)
+Q Consensus       834 ~GN~~t-~ti~VtV  846 (1090)
+                      .||... ..+.|.+
+T Consensus        73 ~g~~~~s~~~~v~~   86 (98)
+T 3PDG_A           73 DGRRIESPVTPVLV   86 (98)
+T ss_dssp             TSCEEECCCEEEEE
+T ss_pred             CCCEEEeceEEEEE
+Confidence            999764 3344433
+
+
+No 21
+>3PDD_A Glycoside hydrolase, family 9; CbhA, beta-sandwich, cellulosome, UNKNOWN FUNCTION; 1.72A {Clostridium thermocellum}
+Probab=72.26  E-value=2.7  Score=42.53  Aligned_cols=94  Identities=20%  Similarity=0.171  Sum_probs=55.2  Template_Neff=11.000
+
+Q LOKIASV2_36790  749 PDSTAPLINIHDPVNNSIVPVFQGEASTSIELNYTVEDPLDNPYSGIKTVAVYIDEILFTTDHSADTE--IILNMGDHLI  826 (1090)
+Q Consensus       749 ~d~~~p~i~i~~~~~~~~~~~~~~~~~~s~~~~~~~~D~~~~~~~~~~~v~~~~d~v~~~~D~~~~~~--i~Ls~G~y~L  826 (1090)
+                      .+...|.+.+..|.++..+.     ....+.+++++.|...    .+.++.++.+......+..+...  .....|.|.+
+T Consensus        87 ~~~~~p~~~~~~~~~~~~~~-----~~~~~~~~~~~~~~~~----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~  157 (190)
+T 3PDD_A           87 KVIVKPTVKLTAPKSNVVAY-----GNEFLKITATASDSDG----KISRVDFLVDGEVIGSDREAPYEYEWKAVEGNHEI  157 (190)
+T ss_dssp             ECCCCCEEEEEECCTTCCCB-----TTSEEEEEEEEECSSS----CEEEEEEEETTEEEEEECSSSEEEEEECCSEEEEE
+T ss_pred             ccCCCCEEEEEeCCCCeEEe-----CCceEEEEEEEECCCC----CeEEEEEEECCEEEEecCCCCeEEEEEcCCeEEEE
+Confidence            34455666555555544331     1344567777777542    23345566665554433222111  1223799999
+
+
+Q LOKIASV2_36790  827 RFTATDMLGNNKT-VLLAIKVEGFLT  851 (1090)
+Q Consensus       827 ~itAtD~~GN~~t-~ti~VtVqdttt  851 (1090)
+                      +++|+|..||... ..+.|+++....
+T Consensus       158 ~v~a~D~~g~~s~~~~~~i~~~~~~~  183 (190)
+T 3PDD_A          158 SVIAYDDDDAASTPDSVKIFVKQARL  183 (190)
+T ss_dssp             EEEEEETTCCBCCCEEEEEEEBCGGG
+T ss_pred             EEEEEcCCCCcccceeEEEEEeccCC
+Confidence            9999999999774 667777776444
+
+
+No 22
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=62.28  E-value=6  Score=50.26  Aligned_cols=74  Identities=30%  Similarity=0.464  Sum_probs=57.0  Template_Neff=7.100
+
+Q LOKIASV2_36790  935 GIDSDGDGLSDYDEIHIH----------ETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNL 1004 (1090)
+Q Consensus       935 ~~DsDgDGL~D~~Ei~l~----------~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~ 1004 (1090)
+                      ..|+|+||++|..+....          ..++...|+|+||+.|..+          .|+|+||+.|..|......+|..
+T Consensus        59 ~~D~D~Dg~~d~~~~c~~~~c~~d~c~~~~~~~~~D~d~DG~gd~cd----------~D~D~DGi~d~~d~c~~~~n~~~  128 (551)
+T 3FBY_A           59 GRDTDLDGFPDEKLRCPERQCRKDNCVTVPNSGQEDVDRDGIGDACD----------PDADGDGVPNEKDNCPLVRNPDQ  128 (551)
+T ss_dssp             EECTTSSSCCSSCCSSCSGGGSCCSSSSSCCTTCCCTTCSSSCGGGC----------TTTTCSSSCGGGCSSSSSCCTTC
+T ss_pred             cCCCCCCCCCCccccCCCCccccccCCCCCCCCCCCCCCCCCCccCC----------CCCCCCCCCCcccCCCCCCCCCC
+Confidence            479999999997543211          1234457999999988643          58999999999886555677888
+
+
+Q LOKIASV2_36790 1005 IDSDNDGFTDFAEI 1018 (1090)
+Q Consensus      1005 ~DSDgDGlsDg~Ev 1018 (1090)
+                      .|+|+||+.|..+.
+T Consensus       129 ~DsD~Dg~~d~~d~  142 (551)
+T 3FBY_A          129 RNTDEDKWGDACDN  142 (551)
+T ss_dssp             CCTTCSSSCGGGCS
+T ss_pred             CCCCCCCCCccccc
+Confidence            99999999998874
+
+
+No 23
+>1I8A_A ENDO-1,4-BETA-XYLANASE A (E.C.3.2.1.8); FAM9-2 CARBOHYDRATE BINDING MODULE, GLUCOSE; HET: BGC; 1.9A {Thermotoga maritima} SCOP: b.1.9.2
+Probab=59.38  E-value=7.3  Score=41.02  Aligned_cols=45  Identities=9%  Similarity=-0.026  Sum_probs=29.3  Template_Neff=9.600
+
+Q LOKIASV2_36790  543 IWEFNVSVHEFGTQFAFRINTTIDPGW-GAGNFSHQCFLVAIDFKEG  588 (1090)
+Q Consensus       543 Ll~F~V~~d~~~~~F~fkf~~~~npww-~~~GFSHQli~VYID~~~G  588 (1090)
+                      =.+|++..+++.++|.+++.... +.. ..+-+..-.|+|||+....
+T Consensus        41 ~~~~~~~~d~~~Ly~~~~v~D~~-~~~~~~~~~~~D~vei~l~~~~~   86 (189)
+T 1I8A_A           41 TAKVRVLWDENYLYVLAIVKDPV-LNKDNSNPWEQDSVEIFIDENNH   86 (189)
+T ss_pred             cEEEEEEEcCCeEEEEEEEEcCC-CCCCCCccccccEEEEEEcCCCC
+Confidence            45788889999999999986211 111 0112445578899987644
+
+
+No 24
+>3PDD_A Glycoside hydrolase, family 9; CbhA, beta-sandwich, cellulosome, UNKNOWN FUNCTION; 1.72A {Clostridium thermocellum}
+Probab=58.65  E-value=7.7  Score=39.38  Aligned_cols=76  Identities=18%  Similarity=0.221  Sum_probs=44.1  Template_Neff=11.000
+
+Q LOKIASV2_36790  756 INIHDPVNNSIVPVFQGEASTSIELNYTVEDPLDNPYSGIKTVAVYIDEILFTTDHSADTE---IILNMGDHLIRFTATD  832 (1090)
+Q Consensus       756 i~i~~~~~~~~~~~~~~~~~~s~~~~~~~~D~~~~~~~~~~~v~~~~d~v~~~~D~~~~~~---i~Ls~G~y~L~itAtD  832 (1090)
+                      |.|..|.++.++.  .   ...+.|++++.|..     ...++.++.+......+......   ..+..|.|.+++.|+|
+T Consensus         2 i~i~~p~~~~~~~--~---~~~~~~~~~~~~~~-----~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~G~~~~~~~a~d   71 (190)
+T 3PDD_A            2 VTIDSPVAGERFE--A---GKDINISATVKSKT-----PVSKVEFYNGDTLISSDTTAPYTAKITGAAVGAYNLKAVAVL   71 (190)
+T ss_dssp             EEEEESCTTCEEE--T---TSCEEEEEEECCSS-----CEEEEEEEETTEEEEEECSSSEEEEECSCCSEEEEEEEEEEE
+T ss_pred             eeEEcCCCCcEEc--C---CCcEEEEEEEeCCC-----CeeEEEEEECCEEeeecCCCCeEEEeecCCCeEEEEEEEEEe
+Confidence            3455666666553  1   12455777777621     23345555554333322222111   2367899999999999
+
+
+Q LOKIASV2_36790  833 MLGNNKTVL  841 (1090)
+Q Consensus       833 ~~GN~~t~t  841 (1090)
+                      ..||.....
+T Consensus        72 ~~g~~~~~~   80 (190)
+T 3PDD_A           72 SDGRRIESP   80 (190)
+T ss_dssp             TTSCEEECC
+T ss_pred             CCCCEEEcC
+Confidence            999976543
+
+
+No 25
+>1I8U_A ENDO-1,4-BETA-XYLANASE A (E.C.3.2.1.8); CBM9-2, CELLULOSE BINDING DOMAIN, HYDROLASE; 1.9A {Thermotoga maritima} SCOP: b.1.9.2
+Probab=54.10  E-value=10  Score=40.06  Aligned_cols=45  Identities=9%  Similarity=-0.073  Sum_probs=29.2  Template_Neff=9.500
+
+Q LOKIASV2_36790  543 IWEFNVSVHEFGTQFAFRINTTIDPGWG-AGNFSHQCFLVAIDFKEG  588 (1090)
+Q Consensus       543 Ll~F~V~~d~~~~~F~fkf~~~~npww~-~~GFSHQli~VYID~~~G  588 (1090)
+                      =.+|++..+++.++|.+++... .+... ..-+..-.|+|||+....
+T Consensus        41 ~~~~~~~~d~~~Ly~~~~v~d~-~~~~~~~~~~~~D~vev~ld~~~~   86 (189)
+T 1I8U_A           41 TAKVRVLWDENYLYVLAIVKDP-VLNKDNSNPWEQDSVEIFIDENNH   86 (189)
+T ss_dssp             EEEEEEEECSSEEEEEEEEECS-SCCCCSSSGGGSSEEEEEEETTCC
+T ss_pred             eEEEEEEEcCCeEEEEEEEECc-ccCCCCCCccccCEEEEEEcCCCC
+Confidence            3578888999999999998631 12110 112345578899997644
+
+
+No 26
+>6PSN_E Protective antigen, Lethal factor; translocase, anthrax toxin, protective antigen; HET: CA; 4.6A {Bacillus anthracis}
+Probab=48.02  E-value=15  Score=47.18  Aligned_cols=24  Identities=25%  Similarity=0.632  Sum_probs=17.2  Template_Neff=3.700
+
+Q LOKIASV2_36790  997 KFGTNPNLIDSDNDGFTDFAEITA 1020 (1090)
+Q Consensus       997 ~~GTnP~~~DSDgDGlsDg~Ev~~ 1020 (1090)
+                      +|-+||..+-|.+|=++|++++..
+T Consensus        51 KYvSnP~~a~TagDPYTD~eKv~g   74 (568)
+T 6PSN_E           51 KYKSSPEKWSTASDPYSDFEKVTG   74 (568)
+T ss_dssp             CBCCCSSCSSTTCSSSCHHHHHHC
+T ss_pred             cccCCccccccCCCCcccHHHHhc
+Confidence            466777777777777777777664
+
+
+No 27
+>3J9C_A Protective antigen PA-63; bacterial toxin, anthrax toxin, protective; 2.9A {Bacillus anthracis}
+Probab=45.02  E-value=18  Score=46.50  Aligned_cols=24  Identities=25%  Similarity=0.632  Sum_probs=16.5  Template_Neff=3.700
+
+Q LOKIASV2_36790  997 KFGTNPNLIDSDNDGFTDFAEITA 1020 (1090)
+Q Consensus       997 ~~GTnP~~~DSDgDGlsDg~Ev~~ 1020 (1090)
+                      +|-+||..+-|.+|=++|++++..
+T Consensus        45 KYvSnP~~a~TagDPYTD~eKv~g   68 (562)
+T 3J9C_A           45 KYKSSPEKWSTASDPYSDFEKVTG   68 (562)
+T ss_dssp             CBCCCTTCSSTTSSSSCHHHHHHC
+T ss_pred             cccCCccccccCCCCCccHHHHHc
+Confidence            456677777777777777777654
+
+
+No 28
+>3HVD_F Protective antigen; Bacillus Anthracis, Anthrax Protective Antigen; HET: CA; 3.209A {Bacillus anthracis}
+Probab=44.48  E-value=18  Score=46.26  Aligned_cols=24  Identities=25%  Similarity=0.632  Sum_probs=16.7  Template_Neff=3.700
+
+Q LOKIASV2_36790  997 KFGTNPNLIDSDNDGFTDFAEITA 1020 (1090)
+Q Consensus       997 ~~GTnP~~~DSDgDGlsDg~Ev~~ 1020 (1090)
+                      +|-+||..+-|.+|=++|++++..
+T Consensus        51 KYvSnP~~a~TagDPYTD~eKv~g   74 (548)
+T 3HVD_F           51 KYKSSPEKWSTASDPYSDFEKVTG   74 (548)
+T ss_dssp             CBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             eecCCccccccCCCCCccHHHHhc
+Confidence            456777777777777777777654
+
+
+No 29
+>5WTL_A OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=42.03  E-value=21  Score=40.44  Aligned_cols=82  Identities=35%  Similarity=0.545  Sum_probs=45.9  Template_Neff=8.700
+
+Q LOKIASV2_36790  937 DSDGDGLSDYDEIHIHETNP----NLIDTDGDGLSDYIELFDYHTDPL----EADSDGDGITDQSEVEKFGTNPN----- 1003 (1090)
+Q Consensus       937 DsDgDGL~D~~Ei~l~~TnP----~~~DTDGDGLsD~~Ev~~~~TDP~----~aDTDgDGLtDg~Ev~~~GTnP~----- 1003 (1090)
+                      |+|+||+.|..+.......+    ...|+|+||+.|..+.-.....+.    -+|+|+||+.|..+.......+.     
+T Consensus        31 d~d~dg~~d~~d~cp~~~~~~~~~~~~d~dgdg~~d~~d~cp~~~~~~~~~gc~d~D~Dgv~d~~d~cp~~~~~~~~~gc  110 (261)
+T 5WTL_A           31 DTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDACPEVAGPKEFNGCPDTDGDGIPDKDDKCPDVAGPAENGGC  110 (261)
+T ss_dssp             CSSCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCSSTTSCCCGGGTTCCCTTCSSSCGGGCSSTTSCCCGGGTTS
+T ss_pred             CCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCccccCCCCCCccccCCCCCCCCCCCCCCCCCCCCCCCCcCCCCC
+Confidence            78889998865532211111    124889999988755311111111    14888999888755321111111     
+
+
+Q LOKIASV2_36790 1004 -LIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus      1004 -~~DSDgDGlsDg~Ev 1018 (1090)
+                       ..|+|+||+.|..+.
+T Consensus       111 ~~~d~d~dgv~d~~d~  126 (261)
+T 5WTL_A          111 PWPDTDGDGVLDKDDL  126 (261)
+T ss_dssp             CCCCSSCSSSCTTTCS
+T ss_pred             CCCCCCCCCccccccC
+Confidence             237888888776543
+
+
+No 30
+>6KLO_A PROTEIN; Bacterial binary toxin, Protein translocation; HET: CA; 2.8A {Clostridium perfringens}
+Probab=40.53  E-value=23  Score=46.54  Aligned_cols=25  Identities=16%  Similarity=0.327  Sum_probs=17.3  Template_Neff=4.300
+
+Q LOKIASV2_36790  996 EKFGTNPNLIDSDNDGFTDFAEITA 1020 (1090)
+Q Consensus       996 ~~~GTnP~~~DSDgDGlsDg~Ev~~ 1020 (1090)
+                      .+|-+||..+-|.+|=++|++++..
+T Consensus        45 ~KyvSnP~~~~T~gDPYtD~eKv~g   69 (666)
+T 6KLO_A           45 KKYVSSYLESNTAGDPYTDYQKASG   69 (666)
+T ss_dssp             CCBCCCTTCSCSSCSSSCHHHHHHT
+T ss_pred             ceeecCcccccCCCCCcccHHHHHc
+Confidence            3466777777777777777777664
+
+
+No 31
+>5WTL_C OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=37.95  E-value=27  Score=39.63  Aligned_cols=81  Identities=36%  Similarity=0.530  Sum_probs=44.8  Template_Neff=8.700
+
+Q LOKIASV2_36790  937 DSDGDGLSDYDEIHIHETNP----NLIDTDGDGLSDYIELFDYHTDP----LEADSDGDGITDQSEVEKFGTNPN----- 1003 (1090)
+Q Consensus       937 DsDgDGL~D~~Ei~l~~TnP----~~~DTDGDGLsD~~Ev~~~~TDP----~~aDTDgDGLtDg~Ev~~~GTnP~----- 1003 (1090)
+                      |+|+||+.|..+......++    ...|+|+||+.|..+.-.....+    .-+|+|+||+.|..+.......+.     
+T Consensus        31 d~d~dg~~d~~d~cp~~~~~~~~~~~~d~d~dg~~d~~d~cp~~~~~~~~~gc~d~D~Dgv~d~~d~cp~~~~~~~~~gc  110 (261)
+T 5WTL_C           31 DTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDACPEVAGPKEFNGCPDTDGDGIPDKDDKCPDVAGPAENGGC  110 (261)
+T ss_dssp             CTTCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCSSTTSCCCGGGTSCCCTTCSSSCTTTCSSTTSCCCTTTTTS
+T ss_pred             CCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCCcCCCCCCCCCccCCCC
+Confidence            78888888865532211111    12488899988875431111111    114888999888765321111111     
+
+
+Q LOKIASV2_36790 1004 -LIDSDNDGFTDFAE 1017 (1090)
+Q Consensus      1004 -~~DSDgDGlsDg~E 1017 (1090)
+                       ..|+|+||+.|..+
+T Consensus       111 ~~~d~d~dgv~d~~d  125 (261)
+T 5WTL_C          111 PWPDTDGDGVLDKDD  125 (261)
+T ss_dssp             CCCCTTCSSCCGGGC
+T ss_pred             CCCCCCCCCcccccc
+Confidence             23778888876654
+
+
+No 32
+>1UX6_A THROMBOSPONDIN-1; EXTRACELLULAR MATRIX, CALCIUM BINDING, L-TYPE; HET: CA; 1.9A {HOMO SAPIENS} SCOP: b.29.1.16, g.75.1.1
+Probab=31.21  E-value=41  Score=41.03  Aligned_cols=58  Identities=31%  Similarity=0.461  Sum_probs=44.4  Template_Neff=6.700
+
+Q LOKIASV2_36790  952 HETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQSEVEKFGTNPNLIDSDNDGFTDFAE 1017 (1090)
+Q Consensus       952 ~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg~Ev~~~GTnP~~~DSDgDGlsDg~E 1017 (1090)
+                      ...+|...|+|+||+.|..+.        ..|+|+||+.|..+......++...|+|+||+.|..+
+T Consensus        18 ~~~np~q~D~D~DgvgD~cd~--------~~D~D~DGi~d~~D~cp~~~n~~~~D~D~DG~gd~cd   75 (350)
+T 1UX6_A           18 LEHNPDQLDSDSDRIGDTCDN--------NQDIDEDGHQNNLDNCPYVPNANQADHDKDGKGDACD   75 (350)
+T ss_dssp             TTTCCSSCCTTSSSBCTTTCC--------CCCTTCSSSCGGGCSSTTSCCTTCCCTTCSSSCGGGC
+T ss_pred             CCCCCCCcCCCCCCCCccCCC--------CCCCCCCCCCcccccCCCCCCccccCCCCCCCCccCC
+Confidence            347888999999999998763        2688999999988865555566667777777776654
+
+
+No 33
+>6UWI_d ADP-ribosyltransferase binding component; Translocase, TOXIN; HET: CA; 3.7A {Clostridioides difficile}
+Probab=26.80  E-value=55  Score=43.38  Aligned_cols=23  Identities=22%  Similarity=0.371  Sum_probs=15.7  Template_Neff=4.100
+
+Q LOKIASV2_36790  996 EKFGTNPNLIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus       996 ~~~GTnP~~~DSDgDGlsDg~Ev 1018 (1090)
+                      .+|-+||..+-|.+|=++|++-+
+T Consensus        46 ~KYvSnP~~a~TagDPYTD~EKv   68 (667)
+T 6UWI_d           46 KKYVSNYLESNTAGDPYTDYEKA   68 (667)
+T ss_pred             ceeecCcccccCCCCCCccHHHH
+Confidence            34667777777777777775444
+
+
+No 34
+>6UWT_A ADP-ribosyltransferase binding component; CDTb, translocase, tetradecamer, TOXIN; HET: CA;{Clostridioides difficile}
+Probab=26.80  E-value=55  Score=43.38  Aligned_cols=23  Identities=22%  Similarity=0.371  Sum_probs=15.7  Template_Neff=4.100
+
+Q LOKIASV2_36790  996 EKFGTNPNLIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus       996 ~~~GTnP~~~DSDgDGlsDg~Ev 1018 (1090)
+                      .+|-+||..+-|.+|=++|++-+
+T Consensus        46 ~KYvSnP~~a~TagDPYTD~EKv   68 (667)
+T 6UWT_A           46 KKYVSNYLESNTAGDPYTDYEKA   68 (667)
+T ss_dssp             CCBCCCSSSSCSSCSSSCHHHHH
+T ss_pred             ceeecCcccccCCCCCCccHHHH
+Confidence            34667777777777777775444
+
+
+No 35
+>2KPN_A Bacillolysin (E.C.3.4.24.28); solution NMR structure, Big_3 domain; HET: CA; NMR {Bacillus cereus ATCC 14579}
+Probab=26.61  E-value=56  Score=31.39  Aligned_cols=33  Identities=21%  Similarity=0.238  Sum_probs=26.7  Template_Neff=9.400
+
+Q LOKIASV2_36790  820 NMGDHLIRFTATDMLGNNKTVLLAIKVEGFLTP  852 (1090)
+Q Consensus       820 s~G~y~L~itAtD~~GN~~t~ti~VtVqdtttP  852 (1090)
+                      ..|.|.++++++|.+||..+..+.+.|.+...|
+T Consensus        57 ~~G~y~v~y~v~d~~Gn~~~~~~~i~V~~~~~~   89 (103)
+T 2KPN_A           57 KAGTYVLTYTVTDSKGHEVTAKQTVTVKVREEV   89 (103)
+T ss_dssp             SCEEEEEEEEEECTTSCEEEEEEEEEEECSSCC
+T ss_pred             CCeEEEEEEEEEcCCCCEEEEEEEEEEEeCCCc
+Confidence            589999999999999998777777777664443
+
+
+No 36
+>5WTL_A OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=26.35  E-value=57  Score=37.21  Aligned_cols=60  Identities=33%  Similarity=0.467  Sum_probs=39.4  Template_Neff=8.700
+
+Q LOKIASV2_36790  959 IDTDGDGLSDYIELFDYHTDPLE----ADSDGDGITDQSEVEKFGTNPN----LIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus       959 ~DTDGDGLsD~~Ev~~~~TDP~~----aDTDgDGLtDg~Ev~~~GTnP~----~~DSDgDGlsDg~Ev 1018 (1090)
+                      .|+|+||+.|..+.......+..    .|+|+||+.|..+....-..+.    -.|+|+||+.|..+-
+T Consensus         3 ~d~d~dg~~d~~d~c~~~~~~~~~~~~~d~d~dg~~d~~d~cp~~~~~~~~~~~~d~dgdg~~d~~d~   70 (261)
+T 5WTL_A            3 KDTDKDGIPDNKDACPEVPGLKEFNGCPDTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDA   70 (261)
+T ss_dssp             -CCSCSSSCSTTCSSTTSCCBGGGTSBCCSSCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCS
+T ss_pred             CCCCCCCCCCccCCCCCCCCchhcCCCCCCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCcccc
+Confidence            58999999998775433333333    3999999999876421111111    249999999998764
+
+
+No 37
+>6SJX_A Iron-regulated protein FrpA; Repeat in toxin proteins, calcium; HET: CA; NMR {Neisseria meningitidis serogroup C}
+Probab=26.00  E-value=58  Score=35.91  Aligned_cols=79  Identities=27%  Similarity=0.388  Sum_probs=50.2  Template_Neff=7.500
+
+Q LOKIASV2_36790  936 IDSDGDGLSDYDEIHIHETNPNLIDTDGDGLSDYIELFDYHTDPLEADSDGDGITDQ-SEVEKFGT-------------N 1001 (1090)
+Q Consensus       936 ~DsDgDGL~D~~Ei~l~~TnP~~~DTDGDGLsD~~Ev~~~~TDP~~aDTDgDGLtDg-~Ev~~~GT-------------n 1001 (1090)
+                      .|-++||+.-... .  .......|.|+||..+..|......--...|.|+||..+. .|+...-.             -
+T Consensus         7 ldl~g~gi~~~~~-~--~~~~~~~D~d~DG~~~~~e~~~~~d~fl~~D~n~DG~I~~~~E~~~~~~~~~~~~~~~~~~~~   83 (182)
+T 6SJX_A            7 LDLDGDGIETVAT-K--GFSGSLFDHNRDGIRTATGWVSADDGLLVRDLNGNGIIDNGAELFGDNTKLADGSFAKHGYAA   83 (182)
+T ss_dssp             ECSSSSCCCEEEC-C--SSTTSCCCSSSCSSCCBSEEECTTSEEEECCTTSSSCCCSTTSBSSTTSBCTTSCBCSSGGGG
+T ss_pred             eCCCCCceeeeec-c--CCCcceeccCCCCceeecceeccCCeeeEEcCCCCCeecChhHhcccchhhcCCccccchHHH
+Confidence            4778888643211 1  1123457999999998877543332244579999998887 88742110             1
+
+
+Q LOKIASV2_36790 1002 PNLIDSDNDGFTDFAE 1017 (1090)
+Q Consensus      1002 P~~~DSDgDGlsDg~E 1017 (1090)
+                      -...|+|+||..+..+
+T Consensus        84 l~~~D~n~DG~i~~~d   99 (182)
+T 6SJX_A           84 LAELDSNGDNIINAAD   99 (182)
+T ss_dssp             GGGGCSSSSSEEETTS
+T ss_pred             HHHHhhCCCCeechhH
+Confidence            1346999999998875
+
+
+No 38
+>4L3A_B Internalin K; Leucine rich repeat, immune system; 2.591A {Listeria monocytogenes}
+Probab=23.04  E-value=72  Score=40.33  Aligned_cols=33  Identities=18%  Similarity=0.159  Sum_probs=0.0  Template_Neff=9.400
+
+Q LOKIASV2_36790  820 NMGDHLIRFTATDMLGNNKTVLLAIKVEGFLTP  852 (1090)
+Q Consensus       820 s~G~y~L~itAtD~~GN~~t~ti~VtVqdtttP  852 (1090)
+                      .+|.|.|+++++|..||..+.+++|+|.+..+|
+T Consensus       486 ~~G~Y~Vt~~v~d~~g~~~~~~~~V~V~~~~~~  518 (590)
+T 4L3A_B          486 KPGKYVVTLNAENDLQKALPVQVMVIVEKETPI  518 (590)
+T ss_dssp             ---------------------------------
+T ss_pred             CCeEEEEEEEEeCCCCccccEEEEEEEeCCCCC
+Confidence            389999999999999999888899998885443
+
+
+No 39
+>5WTL_C OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=22.09  E-value=78  Score=36.20  Aligned_cols=60  Identities=33%  Similarity=0.467  Sum_probs=39.2  Template_Neff=8.700
+
+Q LOKIASV2_36790  959 IDTDGDGLSDYIELFDYHTDPLE----ADSDGDGITDQSEVEKFGTNPN----LIDSDNDGFTDFAEI 1018 (1090)
+Q Consensus       959 ~DTDGDGLsD~~Ev~~~~TDP~~----aDTDgDGLtDg~Ev~~~GTnP~----~~DSDgDGlsDg~Ev 1018 (1090)
+                      .|+|+||+.|..+.......+..    .|+|+||+.|..+....-..+.    -.|+|+||+.|..+-
+T Consensus         3 ~d~d~dg~~d~~d~c~~~~~~~~~~~~~d~d~dg~~d~~d~cp~~~~~~~~~~~~d~d~dg~~d~~d~   70 (261)
+T 5WTL_C            3 KDTDKDGIPDNKDACPEVPGLKEFNGCPDTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDA   70 (261)
+T ss_dssp             CCSSCSSSCGGGCSSTTSCCBTTTTSBCCTTCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCS
+T ss_pred             CCCCCCCCCCccCCCCCCCCchhcCCCCCCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCcccc
+Confidence            58899999997764332223332    3999999999876421111111    249999999998653
+
+
+No 40
+>4L3A_A Internalin K; Leucine rich repeat, immune system; 2.591A {Listeria monocytogenes}
+Probab=21.29  E-value=83  Score=39.85  Aligned_cols=33  Identities=18%  Similarity=0.159  Sum_probs=28.6  Template_Neff=9.400
+
+Q LOKIASV2_36790  820 NMGDHLIRFTATDMLGNNKTVLLAIKVEGFLTP  852 (1090)
+Q Consensus       820 s~G~y~L~itAtD~~GN~~t~ti~VtVqdtttP  852 (1090)
+                      .+|.|.|+++|+|..||..+.+++|+|+...+|
+T Consensus       486 ~~G~Y~Vt~~v~d~~g~~~~~~~~V~V~~~~~~  518 (590)
+T 4L3A_A          486 KPGKYVVTLNAENDLQKALPVQVMVIVEKETPI  518 (590)
+T ss_pred             CCEEEEEEEEEEcCCCCEEEEEEEEEEeCCCCC
+Confidence            489999999999999999888899998885443
+
+
+No 41
+>5FQ7_G BT_2263, BT_2264, BT_2261, BT_2262, PEPTIDE; MEMBRANE PROTEIN, SUGAR BINDING PROTEIN; 3.4A {BACTEROIDES THETAIOTAOMICRON}
+Probab=20.40  E-value=89  Score=35.57  Aligned_cols=31  Identities=19%  Similarity=0.039  Sum_probs=23.7  Template_Neff=7.200
+
+Q LOKIASV2_36790  819 LNMGDHLIRFTATDMLGNNKTVLLAIKVEGF  849 (1090)
+Q Consensus       819 Ls~G~y~L~itAtD~~GN~~t~ti~VtVqdt  849 (1090)
+                      ..+|.|.|+++|+|..||..+...+|.|++.
+T Consensus        60 ~~~G~Y~VtY~vtDs~Gn~at~~rtV~V~~~   90 (212)
+T 5FQ7_G           60 NTPGIYNLVYAAYNEDGFAKTFTRTVYVADN   90 (212)
+T ss_dssp             SCC--CEEEEEEECSSSCEEEEEEEEEC---
+T ss_pred             CCCeEEEEEEEEEcCCCCEEEEEEEEEEecC
+Confidence            3589999999999999999988888888864
+
+
+No 42
+>5FQ8_G PUTATIVE LIPOPROTEIN, OUTER MEMBRANE PROTEIN; MEMBRANE PROTEIN, OUTER MEMBRANE NUTRIENT; HET: KR0, C8E; 2.75A {BACTEROIDES THETAIOTAOMICRON}
+Probab=20.40  E-value=89  Score=35.57  Aligned_cols=31  Identities=19%  Similarity=0.039  Sum_probs=27.6  Template_Neff=7.200
+
+Q LOKIASV2_36790  819 LNMGDHLIRFTATDMLGNNKTVLLAIKVEGF  849 (1090)
+Q Consensus       819 Ls~G~y~L~itAtD~~GN~~t~ti~VtVqdt  849 (1090)
+                      ..+|.|.|+++|+|..||..+...+|.|++.
+T Consensus        60 ~~~G~Y~VtY~vtDs~Gn~at~~rtV~V~~~   90 (212)
+T 5FQ8_G           60 NTPGIYNLVYAAYNEDGFAKTFTRTVYVADN   90 (212)
+T ss_dssp             TSCEEEEEEEEEECTTSCEEEEEEEEEECCC
+T ss_pred             CCCeEEEEEEEEEcCCCCEEEEEEEEEEecC
+Confidence            3589999999999999999988888888864
+
+

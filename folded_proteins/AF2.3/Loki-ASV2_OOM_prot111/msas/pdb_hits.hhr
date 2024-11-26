@@ -1,0 +1,1712 @@
+Query         LOKIASV2_33920 hypothetical protein
+Match_columns 1193
+No_of_seqs    103 out of 184
+Neff          2.11728
+Searched_HMMs 80799
+Date          Wed Sep 11 10:57:12 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpfi04xxym/query.a3m -o /tmp/tmpfi04xxym/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2KUT_A Uncharacterized protein  98.9 9.1E-13 1.1E-17  121.9   0.0   96  249-346     8-115 (122)
+  2 2L0D_A Cell surface protein; S  98.3 1.2E-09 1.5E-14   97.0   0.0  103  240-344     3-105 (114)
+  3 2M8X_A Uncharacterized protein  97.9   3E-08 3.8E-13   86.9   0.0  105  238-346     2-106 (114)
+  4 3IDU_A Uncharacterized protein  97.7 1.9E-07 2.4E-12   85.2   0.0  105  238-346    15-119 (127)
+  5 3PDD_A Glycoside hydrolase, fa  94.3  0.0086 1.1E-07   56.0   0.0   79  876-958    15-95  (190)
+  6 5XYA_A Chemokine protease C; S  89.8    0.14 1.8E-06   65.8   0.0   52  908-962   968-1019(1530)
+  7 5XYR_A Chemokine protease C; S  89.7    0.15 1.9E-06   66.2   0.0   49  909-960  1086-1134(1647)
+  8 5K8G_A Antifreeze protein; Cel  86.9    0.34 4.2E-06   56.3   0.0   71  893-964    64-139 (540)
+  9 3PE9_A Fibronectin(III)-like m  79.0     1.3 1.6E-05   39.9   0.0   60  879-943    18-78  (98)
+ 10 5ZE3_A Lysyl oxidase homolog 2  78.3     1.4 1.7E-05   51.9   0.0   37  313-349   387-423 (457)
+ 11 5ZE3_B Lysyl oxidase homolog 2  78.3     1.4 1.7E-05   51.9   0.0   37  313-349   387-423 (457)
+ 12 3PDG_A 1st Fibronectin(III)-li  71.1       3 3.7E-05   37.5   0.0   62  878-943    17-78  (98)
+ 13 5IRB_A Antifreeze protein; Ice  70.5     3.1 3.9E-05   43.9   0.0   68  895-963    46-119 (321)
+ 14 6HQC_A TasA anchoring/assembly  70.1     3.2   4E-05   42.5   0.0   67  257-325    19-94  (116)
+ 15 5JP0_A Beta-glucosidase BoGH3B  70.1     3.3   4E-05   51.4   0.0   53  255-310   654-716 (772)
+ 16 5XYR_A Chemokine protease C; S  68.4     3.7 4.6E-05   54.3   0.0   99  927-1034  991-1116(1647)
+ 17 2X42_A BETA-GLUCOSIDASE (E.C.3  68.3     3.8 4.7E-05   50.3   0.0   52  256-309   614-675 (721)
+ 18 5IRB_A Antifreeze protein; Ice  65.3     4.8 5.9E-05   42.6   0.0   60  898-958   153-216 (321)
+ 19 3ISY_A Intracellular proteinas  65.3     4.8   6E-05   38.7   0.0   71  254-325    15-103 (120)
+ 20 5XXO_B Periplasmic beta-glucos  63.2     5.6 6.9E-05   49.4   0.0   52  255-309   652-713 (760)
+ 21 5TUG_A Flagellar biosynthesis   63.1     5.6   7E-05   40.1   0.0   14  259-272    47-60  (135)
+ 22 5TUH_B Flagellar biosynthesis   63.1     5.6   7E-05   40.1   0.0   14  259-272    47-60  (135)
+ 23 2X41_A BETA-GLUCOSIDASE (E.C.3  63.1     5.7   7E-05   48.8   0.0   53  256-310   614-676 (721)
+ 24 3PDD_A Glycoside hydrolase, fa  62.6     5.9 7.3E-05   37.8   0.0   69  877-950   108-178 (190)
+ 25 5XYA_A Chemokine protease C; S  61.9     6.1 7.6E-05   51.9   0.0  111  915-1034  860-999 (1530)
+ 26 1L9M_A Protein-glutamine gluta  61.4     6.4 7.9E-05   48.8   0.0   74  251-326   602-677 (692)
+ 27 1L9M_B Protein-glutamine gluta  61.4     6.4 7.9E-05   48.8   0.0   74  251-326   602-677 (692)
+ 28 1L9N_A Protein-glutamine gluta  61.4     6.4 7.9E-05   48.8   0.0   74  251-326   602-677 (692)
+ 29 5WAB_D Estrogen receptor beta;  60.3     6.9 8.5E-05   49.1   0.0   51  256-309   563-623 (751)
+ 30 4P99_C MpAFP_RII tetra-tandeme  59.1     7.5 9.2E-05   42.8   0.0   60  896-956   275-338 (437)
+ 31 6QAY_A TasA anchoring/assembly  59.0     7.5 9.3E-05   41.6   0.0   65  258-325    51-125 (147)
+ 32 5XXL_B Periplasmic beta-glucos  58.3     7.8 9.7E-05   48.2   0.0   51  256-309   653-713 (760)
+ 33 5XXM_A Periplasmic beta-glucos  58.3     7.8 9.7E-05   48.2   0.0   51  256-309   653-713 (760)
+ 34 4ZO6_A Lin1840 protein; TIM ba  57.9       8 9.9E-05   47.8   0.0   53  255-310   620-682 (731)
+ 35 4ZOC_B Lin1840 protein; TIM ba  57.9       8 9.9E-05   47.8   0.0   53  255-310   620-682 (731)
+ 36 4PYG_E Protein-glutamine gamma  57.9     8.1  0.0001   47.9   0.0   72  252-325   596-670 (695)
+ 37 6A8P_C Protein-glutamine gamma  57.9     8.1  0.0001   47.9   0.0   72  252-325   596-670 (695)
+ 38 1G0D_A PROTEIN-GLUTAMINE GAMMA  56.7     8.7 0.00011   47.9   0.0   96  250-353   592-689 (695)
+ 39 2YN3_C PUTATIVE INNER MEMBRANE  56.5     8.8 0.00011   39.7   0.0   48  906-957    41-88  (288)
+ 40 2YN5_A PUTATIVE INNER MEMBRANE  56.5     8.8 0.00011   39.7   0.0   48  906-957    41-88  (288)
+ 41 4KTY_B Coagulation factor XIII  56.2       9 0.00011   48.4   0.0   74  251-326   645-719 (738)
+ 42 2Q3Z_A Transglutaminase 2 (E.C  53.5      11 0.00013   46.8   0.0   72  252-325   596-670 (687)
+ 43 5XYR_A Chemokine protease C; S  52.5      11 0.00014   50.2   0.0   52  909-960  1240-1293(1647)
+ 44 4I3G_A Beta-glucosidase; PA14   52.4      11 0.00014   47.3   0.0   51  256-309   727-788 (829)
+ 45 4I3G_B Beta-glucosidase; PA14   52.4      11 0.00014   47.3   0.0   51  256-309   727-788 (829)
+ 46 5A7M_A BETA-XYLOSIDASE (E.C.3.  52.3      12 0.00014   47.3   0.0   53  256-310   655-718 (766)
+ 47 5A7M_B BETA-XYLOSIDASE (E.C.3.  52.3      12 0.00014   47.3   0.0   53  256-310   655-718 (766)
+ 48 5XYA_A Chemokine protease C; S  52.2      12 0.00014   49.6   0.0   47  907-955  1234-1280(1530)
+ 49 4I8D_B Beta-D-glucoside glucoh  50.9      13 0.00016   46.0   0.0   52  256-310   613-674 (714)
+ 50 1F13_A CELLULAR COAGULATION FA  50.7      13 0.00016   47.0   0.0   74  251-326   638-712 (731)
+ 51 2XZZ_A PROTEIN-GLUTAMINE GAMMA  50.6      13 0.00016   36.1   0.0   74  250-325    13-87  (102)
+ 52 4ZBH_A CONSERVED FLAGELLAR PRO  50.4      13 0.00016   38.7   0.0   14  259-272    45-58  (146)
+ 53 5TUG_D Flagellar biosynthesis   50.4      13 0.00016   38.7   0.0   14  259-272    45-58  (146)
+ 54 6PBK_D Flagellar biosynthesis   50.4      13 0.00016   38.7   0.0   14  259-272    45-58  (146)
+ 55 5FJJ_C BETA-GLUCOSIDASE (E.C.3  49.1      14 0.00017   47.4   0.0   51  256-309   742-800 (842)
+ 56 4P99_C MpAFP_RII tetra-tandeme  48.9      14 0.00017   40.8   0.0   58  899-957    70-131 (437)
+ 57 4OLE_A Next to BRCA1 gene 1; I  48.8      14 0.00018   35.6   0.0   72  252-324    22-99  (122)
+ 58 4OLE_B Next to BRCA1 gene 1; I  48.8      14 0.00018   35.6   0.0   72  252-324    22-99  (122)
+ 59 5YOT_B Glycoside hydrolase fam  48.5      15 0.00018   46.0   0.0   52  255-309   655-717 (765)
+ 60 5YQS_A Isoprimeverose-producin  48.5      15 0.00018   46.0   0.0   52  255-309   655-717 (765)
+ 61 6KJ0_A Beta-D-xylosidase/beta-  47.6      15 0.00019   46.5   0.0   52  257-310   705-764 (809)
+ 62 3ZZ1_A BETA-D-GLUCOSIDE GLUCOH  47.1      16 0.00019   45.3   0.0   52  256-310   612-673 (713)
+ 63 5Z9S_A beta-Glucosidase; Sapon  47.1      16  0.0002   46.1   0.0   51  256-309   687-747 (796)
+ 64 6Q7I_A Exo-1,4-beta-xylosidase  45.1      18 0.00022   45.8   0.0   52  256-309   654-715 (785)
+ 65 6Q7I_B Exo-1,4-beta-xylosidase  45.1      18 0.00022   45.8   0.0   52  256-309   654-715 (785)
+ 66 4IIB_B Beta-glucosidase 1 (E.C  44.6      18 0.00023   46.4   0.0   51  256-309   741-799 (841)
+ 67 2YN3_C PUTATIVE INNER MEMBRANE  43.9      19 0.00024   37.4   0.0   43  913-955   243-286 (288)
+ 68 2YN5_A PUTATIVE INNER MEMBRANE  43.9      19 0.00024   37.4   0.0   43  913-955   243-286 (288)
+ 69 6SZ6_A PROTEIN; Cellulose degr  43.6      19 0.00024   46.0   0.0   50  257-309   740-797 (836)
+ 70 3U48_A JMB19063; TIM Barrel, b  42.6      21 0.00026   44.9   0.0   53  255-310   636-698 (775)
+ 71 5VHV_A alkylpurine DNA glycosy  41.2      22 0.00028   41.6   0.0   83  241-325   252-349 (361)
+ 72 3PE9_A Fibronectin(III)-like m  41.1      23 0.00028   32.3   0.0   37  278-324    34-70  (98)
+ 73 6JBS_A Beta-D-xylosidase/beta-  40.6      23 0.00029   45.0   0.0   52  257-310   705-764 (809)
+ 74 6JBS_D Beta-D-xylosidase/beta-  40.6      23 0.00029   45.0   0.0   52  257-310   705-764 (809)
+ 75 5JU6_B Beta-glucosidase (E.C.3  40.5      23 0.00029   45.5   0.0   51  256-309   755-813 (857)
+ 76 4KDW_A MpAFP_RII monomer; Bact  39.8      24  0.0003   34.3   0.0  102  838-945     9-115 (123)
+ 77 5Z87_A EmGH1; EmGH1, Glucoside  39.1      25 0.00032   44.2   0.0   51  256-309   686-746 (785)
+ 78 3U4A_B JMB19063; TIM Barrel, 3  38.6      26 0.00032   44.1   0.0   53  255-310   636-698 (775)
+ 79 3EIF_A C5a peptidase (E.C.3.4.  37.2      28 0.00035   44.5   0.0   92  846-948   828-930 (936)
+ 80 4P99_C MpAFP_RII tetra-tandeme  35.4      32 0.00039   38.2   0.0   50  907-956   181-234 (437)
+ 81 3LSO_A Putative membrane ancho  35.1      32  0.0004   42.7   0.0   69  250-326   200-269 (489)
+ 82 3PDG_A 1st Fibronectin(III)-li  34.7      33 0.00041   31.1   0.0   59 1055-1114   18-78  (98)
+ 83 5IRB_B Antifreeze protein; Ice  32.8      37 0.00046   36.6   0.0   55  909-963    59-119 (321)
+ 84 5K8G_A Antifreeze protein; Cel  32.1      39 0.00048   40.3   0.0   60  895-959   158-219 (540)
+ 85 5IRB_B Antifreeze protein; Ice  31.1      41 0.00051   36.2   0.0   59  899-958   154-216 (321)
+ 86 5NBS_B Beta-glucosidase (E.C.3  30.6      43 0.00053   43.4   0.0   51  256-309   760-818 (857)
+ 87 4YTB_A Peptidylarginine deimin  30.4      43 0.00054   39.4   0.0   74  968-1041  334-411 (432)
+ 88 4P99_C MpAFP_RII tetra-tandeme  29.6      46 0.00057   37.1   0.0   53  895-948   378-432 (437)
+ 89 5IRB_A Antifreeze protein; Ice  28.8      48  0.0006   35.5   0.0   53  895-948   254-308 (321)
+ 90 5WUG_A beta-glucosidase (E.C.3  26.5      56  0.0007   42.9   0.0   52  256-309   326-388 (955)
+ 91 5XYA_A Chemokine protease C; S  25.8      59 0.00073   43.6   0.0   52  909-960  1123-1176(1530)
+ 92 3PDG_A 1st Fibronectin(III)-li  25.5      60 0.00075   29.5   0.0   38  277-323    32-69  (98)
+ 93 3ABZ_A Beta-glucosidase I (E.C  25.1      62 0.00077   41.8   0.0   51  256-309   734-795 (845)
+ 94 3ABZ_C Beta-glucosidase I (E.C  25.1      62 0.00077   41.8   0.0   51  256-309   734-795 (845)
+ 95 2YN3_C PUTATIVE INNER MEMBRANE  25.0      63 0.00077   33.9   0.0   55  900-955   128-183 (288)
+ 96 2YN5_A PUTATIVE INNER MEMBRANE  25.0      63 0.00077   33.9   0.0   55  900-955   128-183 (288)
+ 97 5K6L_A B-GLUCOSIDASE (E.C.3.2.  25.0      63 0.00078   42.5   0.0   53  256-310   295-357 (921)
+ 98 5K6O_A B-GLUCOSIDASE (E.C.3.2.  25.0      63 0.00078   42.5   0.0   53  256-310   295-357 (921)
+ 99 3PE9_A Fibronectin(III)-like m  24.7      64 0.00079   29.6   0.0   60 1055-1114   18-78  (98)
+100 6JXG_A Beta-glucosidase (E.C.3  23.4      70 0.00087   40.3   0.0   52  256-310   611-672 (722)
+101 6CZJ_A b10; beta barrel, Rosse  23.4      70 0.00087   32.7   0.0   36  981-1016   63-98  (109)
+102 6CZJ_B b10; beta barrel, Rosse  23.4      70 0.00087   32.7   0.0   36  981-1016   63-98  (109)
+103 2P9R_B Alpha-2-macroglobulin;   21.3      82   0.001   28.2   0.0   18  253-270    13-30  (102)
+104 6HFZ_C GDSL-like protein; Este  20.9      85  0.0011   34.9   0.0   11  314-324   341-351 (378)
+105 5XYR_A Chemokine protease C; S  20.9      85  0.0011   42.7   0.0   89  927-1027 1449-1545(1647)
+
+No 1
+>2KUT_A Uncharacterized protein; Structural Genomics, PSI-2, Protein Structure; NMR {Geobacter metallireducens}
+Probab=98.94  E-value=9.1e-13  Score=121.85  Aligned_cols=96  Identities=19%  Similarity=0.182  Sum_probs=80.7  Template_Neff=8.200
+
+Q LOKIASV2_33920  249 NTTDLVADEPAVFSAQIENVGGLGTTDPFIVELYLD-----DQYQSAITVASLASAGSIAIEFPSIGDIT-------AGN  316 (1193)
+Q Consensus       249 SPTSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVD-----GslVGS~TV~SLAAGGStTVSFtSIwtLT-------AGS  316 (1193)
+                      .|..+..|+.++++++|+|.|..+ +..+.|.+|.+     +..++......+++|++.+++++|.+. .       .|.
+T Consensus         8 ~p~~~~~g~~~tv~a~V~N~G~~~-~~~~~V~~y~~~~~~~~~~i~~~~~~~l~~G~~~tv~~~~~~~-~~~~~~~~~G~   85 (122)
+T 2KUT_A            8 SKETPFEGEEITVSARVTNRGAAE-AHNVPVAVYLGNPAQGGVEIGRDTISRIPVGGTGLARVQWKAT-RKLAGRAANPG   85 (122)
+T ss_dssp             CTTSCCTTCEEEEEEEEECCSSSC-BCCCCEEECSSCTTTCCCCCBCCCCSCBCTTCEEECCEEEECC-CCCSSCCSCCC
+T ss_pred             ecCCCCCCCCEEEEEEEEECCCCC-CCCeEEEEEeCCCcCCCcEEEEEEccccCCCCEEEEEEEEecc-ccccccCCCCE
+Confidence            466778899999999999999987 66788999887     455555556678899999999999775 3       689
+
+
+Q LOKIASV2_33920  317 HQIRVVVDASDTNLESDEGNNANTENFSWF  346 (1193)
+Q Consensus       317 HTIKAVVDPtN~I~ESDETNNEkTvTFTWl  346 (1193)
+                      +.+.+.+|+++.+.|.+++||..+..+.|-
+T Consensus        86 ~~l~vvvD~~~~i~E~~e~NN~~s~~~~~~  115 (122)
+T 2KUT_A           86 VPVYAVVDPDNRVAESDKANNVFSRIVKVL  115 (122)
+T ss_dssp             CCCCEEECCTTSSCHHHHTTSCBCCCCCCC
+T ss_pred             EEEEEEECCCCCceecCCcccccccceehh
+Confidence            999999999999999999999998887653
+
+
+No 2
+>2L0D_A Cell surface protein; Structural Genomics, NORTHEAST STRUCTURAL GENOMICS; NMR {Methanosarcina acetivorans}
+Probab=98.31  E-value=1.2e-09  Score=96.96  Aligned_cols=103  Identities=30%  Similarity=0.346  Sum_probs=81.0  Template_Neff=9.500
+
+Q LOKIASV2_33920  240 PDLTCTDVWNTTDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQSAITVASLASAGSIAIEFPSIGDITAGNHQI  319 (1193)
+Q Consensus       240 PDLVVTdIWSPTSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVGS~TV~SLAAGGStTVSFtSIwtLTAGSHTI  319 (1193)
+                      ||+.+..+ .+..+..|+++.+++.|+|.|..+ +..+.+++++++..++.....++++|++.++.++|.+...+|.+.+
+T Consensus         3 pdl~i~~~-~~~~~~~g~~~~v~~~V~N~G~~~-~~~~~v~l~~~g~~~~~~~~~~l~~g~~~~~~~~~~~~~~~G~~~i   80 (114)
+T 2L0D_A            3 PDLVPVSL-TPVTVVPNTVNTMTATIENQGNKD-STSFNVSLLVDGIVVDTQTVTSLESENSTNVDFHWTLDGTANSYTL   80 (114)
+T ss_dssp             CCEEEEEE-ECSEECTTSEEEEEEEEEECSSSC-BCCEEEEEEETTEEEEEEEESCBCBTCEEEEEEEEECCCSCSEEEE
+T ss_pred             CCeEEEec-ccCCCCCCCeEEEEEEEEecCCCC-CCcEEEEEEECCEEeceEEEccCCCCCEEEEEEEEECCCCCeEEEE
+Confidence            56666544 344667789999999999999887 5567888888776655555666888998898888876324889999
+
+
+Q LOKIASV2_33920  320 RVVVDASDTNLESDEGNNANTENFS  344 (1193)
+Q Consensus       320 KAVVDPtN~I~ESDETNNEkTvTFT  344 (1193)
+                      ++++++++.+.|.+++||..+.+++
+T Consensus        81 ~~~i~~~~~~~e~~~~Nn~~~~~~~  105 (114)
+T 2L0D_A           81 TVNVDPENAVNEGNESNNTLTALVG  105 (114)
+T ss_dssp             EEEECTTCSSCCSSGGGSEEEEEEE
+T ss_pred             EEEECCCCCCceeccchhhhhhhhh
+Confidence            9999999888999999999876654
+
+
+No 3
+>2M8X_A Uncharacterized protein; CARDB domain, PFAM 07705, UNKNOWN; NMR {Pyrococcus furiosus}
+Probab=97.92  E-value=3e-08  Score=86.94  Aligned_cols=105  Identities=25%  Similarity=0.359  Sum_probs=85.4  Template_Neff=10.000
+
+Q LOKIASV2_33920  238 PTPDLTCTDVWNTTDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQSAITVASLASAGSIAIEFPSIGDITAGNH  317 (1193)
+Q Consensus       238 PlPDLVVTdIWSPTSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVGS~TV~SLAAGGStTVSFtSIwtLTAGSH  317 (1193)
+                      ..||+.+. +..+..+..|+++.++++|+|.|..+ +..+.++++.++..+...... +++|+...+++++.+. ..|.+
+T Consensus         2 ~~~dl~i~-~~~~~~~~~g~~~~v~~~v~N~g~~~-~~~~~v~l~~~~~~~~~~~~~-~~~g~~~~~~~~~~~~-~~g~~   77 (114)
+T 2M8X_A            2 EFPDLTVE-IKGPDVVGVNKLAEYEVHVKNLGGIG-VPSTKVRVYINGTLYKNWTVS-LGPKEEKVLTFSWTPT-QEGMY   77 (114)
+T ss_dssp             CCCCEEEE-EESCSEEETTCCEEEEEEEEECSSSC-BTTCEEEEEETTEEEEEEECC-BCTTCEEEEEEEECCC-SCEEE
+T ss_pred             CCCCEEEE-EecCCCCCCCCeEEEEEEEEEcCCCC-CCCEEEEEEECCEEEeEEEEe-eCCCCeEEEEEEEcCC-CCeEE
+Confidence            34688887 65577888899999999999999876 445788888877666555555 7888888999999876 68999
+
+
+Q LOKIASV2_33920  318 QIRVVVDASDTNLESDEGNNANTENFSWF  346 (1193)
+Q Consensus       318 TIKAVVDPtN~I~ESDETNNEkTvTFTWl  346 (1193)
+                      .+.+++++++...|.+++||+.++.+++.
+T Consensus        78 ~~~~~i~~~~~~~e~~~~NN~~~~~i~~~  106 (114)
+T 2M8X_A           78 RINATVDEENTVVELNENNNVATFDVSVV  106 (114)
+T ss_dssp             EEEEEESTTCCSCCSCSSSSEEEEEEEEE
+T ss_pred             EEEEEECCCCceeEecCccceeeEEEEEE
+Confidence            99999998888889999999998877654
+
+
+No 4
+>3IDU_A Uncharacterized protein; all beta-protein, Structural Genomics, PSI-2; 1.7A {Pyrococcus furiosus}
+Probab=97.66  E-value=1.9e-07  Score=85.21  Aligned_cols=105  Identities=25%  Similarity=0.355  Sum_probs=84.0  Template_Neff=9.300
+
+Q LOKIASV2_33920  238 PTPDLTCTDVWNTTDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQSAITVASLASAGSIAIEFPSIGDITAGNH  317 (1193)
+Q Consensus       238 PlPDLVVTdIWSPTSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVGS~TV~SLAAGGStTVSFtSIwtLTAGSH  317 (1193)
+                      +.||+.+. +..+..+..|+++.+++.|+|.|..+ +..+.++++.++......... +++|+..+++++|.+. ..|.+
+T Consensus        15 ~~~dl~i~-~~~~~~~~~g~~~~v~v~v~N~G~~~-a~~~~v~l~~~~~~~~~~~~~-i~~g~~~~~t~~~~~~-~~G~~   90 (127)
+T 3IDU_A           15 EFPDLTVE-IKGPDVVGVNKLAEYEVHVKNLGGIG-VPSTKVRVYINGTLYKNWTVS-LGPKEEKVLTFNWTPT-QEGMY   90 (127)
+T ss_pred             CCCCEEEE-EEcCCCCCCCCCEEEEEEEEECCCCC-CCeEEEEEEECCEEEEEEEEE-eCCCCEEEEEEEEeCC-CCeEE
+Confidence            34677776 43466778899999999999999886 446788888876655555555 7888888899999876 68999
+
+
+Q LOKIASV2_33920  318 QIRVVVDASDTNLESDEGNNANTENFSWF  346 (1193)
+Q Consensus       318 TIKAVVDPtN~I~ESDETNNEkTvTFTWl  346 (1193)
+                      .+++++++++...|.+++||..+..+.+.
+T Consensus        91 ~~~v~i~~~~~~~E~~~~NN~~~~~i~~~  119 (127)
+T 3IDU_A           91 RINATVDEENTVVELNENNNVATFDVSVV  119 (127)
+T ss_pred             EEEEEECCCCCeeeeCCccchhhcceEEe
+Confidence            99999998888899999999998877654
+
+
+No 5
+>3PDD_A Glycoside hydrolase, family 9; CbhA, beta-sandwich, cellulosome, UNKNOWN FUNCTION; 1.72A {Clostridium thermocellum}
+Probab=94.25  E-value=0.0086  Score=56.00  Aligned_cols=79  Identities=15%  Similarity=0.156  Sum_probs=53.7  Template_Neff=11.000
+
+Q LOKIASV2_33920  876 VGLTPHFEISPSDDIGLHKVSVRVQNQTYPCFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVFL--TIAIDTT  953 (1193)
+Q Consensus       876 ~~~t~t~e~~PsDdiG~~kI~v~vnn~TY~~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~~--Ti~iDTT  953 (1193)
+                      .+....+....+|+.++.++++..++..+.   ....+.|.+.... ...+.+.+++.|+|.+||.+....  ....|.+
+T Consensus        15 ~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~---~~~~~~~~~~~~~-~~~G~~~~~~~a~d~~g~~~~~~~~~~~~~~~~   90 (190)
+T 3PDD_A           15 AGKDINISATVKSKTPVSKVEFYNGDTLIS---SDTTAPYTAKITG-AAVGAYNLKAVAVLSDGRRIESPVTPVLVKVIV   90 (190)
+T ss_dssp             TTSCEEEEEEECCSSCEEEEEEEETTEEEE---EECSSSEEEEECS-CCSEEEEEEEEEEETTSCEEECCCEEEEEECCC
+T ss_pred             CCCcEEEEEEEeCCCCeeEEEEEECCEEee---ecCCCCeEEEeec-CCCeEEEEEEEEEeCCCCEEEcCcEeEEeccCC
+Confidence            345678888888888888999888877443   2456677776632 223477899999999999876652  3344555
+
+
+Q LOKIASV2_33920  954 CPTII  958 (1193)
+Q Consensus       954 aPtip  958 (1193)
+                      .|.+.
+T Consensus        91 ~p~~~   95 (190)
+T 3PDD_A           91 KPTVK   95 (190)
+T ss_dssp             CCEEE
+T ss_pred             CCEEE
+Confidence            55443
+
+
+No 6
+>5XYA_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: AES, MSE, SO4; 3.0A {Streptococcus pyogenes}
+Probab=89.80  E-value=0.14  Score=65.77  Aligned_cols=52  Identities=17%  Similarity=0.155  Sum_probs=43.1  Template_Neff=9.400
+
+Q LOKIASV2_33920  908 YDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVFLTIAIDTTCPTIIEVNT  962 (1193)
+Q Consensus       908 ~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~~Ti~iDTTaPtiptvn~  962 (1193)
+                      ..+++|+|.+.+.   ..+...++|+++|+|||.+....+..+|+++|..|....
+T Consensus       968 ~~~~~g~~~~~~~---~~g~~~~~v~~~D~AGN~~~~~~~~~id~~~p~~~~~~~ 1019 (1530)
+T 5XYA_A          968 ERQADGSFILPLD---KAKLGDFYYMVEDFAGNVAIAKLGDHLPQTLGKTPIKLK 1019 (1530)
+T ss_dssp             CCCTTSCEECCTT---TSCTTSEEEEEEESSSCEEEEETTSCCSSCTTSSCEEEE
+T ss_pred             eecCCceEEeecc---hhcccceEEEEEeCCCCEEEEEehhcCCccCCCCceeee
+Confidence            3678899999876   334678999999999999998888899999998766543
+
+
+No 7
+>5XYR_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: MSE; 2.8A {Streptococcus pyogenes}
+Probab=89.67  E-value=0.15  Score=66.20  Aligned_cols=49  Identities=18%  Similarity=0.202  Sum_probs=41.2  Template_Neff=9.300
+
+Q LOKIASV2_33920  909 DSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVFLTIAIDTTCPTIIEV  960 (1193)
+Q Consensus       909 dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~~Ti~iDTTaPtiptv  960 (1193)
+                      .+++|+|.+.+.   ..+...++|+++|+|||.+....+..+|+++|..+..
+T Consensus      1086 ~~~~G~~~~~~~---~~g~~~~~v~~~D~AGN~~~~~~~~~id~~~p~~~~~ 1134 (1647)
+T 5XYR_A         1086 RQADGSFILPLD---KAKLGDFYYMVEDFAGNVAIAKLGDHLPQTLGKTPIK 1134 (1647)
+T ss_dssp             CCTTSCBCCCTT---TSCSTTEEEEEEETTSCEEEEETTTTCCSSCSSSCCC
+T ss_pred             ecCCceEEeech---hhccccEEEEEEeCCCCEEEEEecccCCCcCCCCcee
+Confidence            578899999876   3346789999999999999988888999999986653
+
+
+No 8
+>5K8G_A Antifreeze protein; Cell adhesion, peptide binding, Antifreeze; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=86.91  E-value=0.34  Score=56.31  Aligned_cols=71  Identities=18%  Similarity=0.246  Sum_probs=49.8  Template_Neff=8.900
+
+Q LOKIASV2_33920  893 HKVSVRVQNQTYPCFYDSAAGTWKLD-LNLGQ--HITAENLTVIAQDYAGRKSEV--FLTIAIDTTCPTIIEVNTVT  964 (1193)
+Q Consensus       893 ~kI~v~vnn~TY~~~~dnA~GTwKl~-Ln~~~--dl~~enLtVtAtD~AGN~S~~--~~Ti~iDTTaPtiptvn~Vt  964 (1193)
+                      ..|.+.+++..+.+ .-+++|+|.+. ++...  ..+...++|+++|.+||.+..  ..++.+|+++|..+.++.+.
+T Consensus        64 ~~v~v~~~g~~~~~-tv~~~G~ws~~~~~~~~~~~~g~~~~tv~~tD~aGn~s~~~~t~~vt~d~~~p~~~~i~~~~  139 (540)
+T 5K8G_A           64 DVVKMTINNTEYST-TVKAGGIWMIAGVLGSDLAADSEFDVVVTSSDAAGNKVQSIGTSTHSVDLSAEANFSLAEGQ  139 (540)
+T ss_dssp             CEEEEEETTEEEEE-ECCGGGEEEEEEEEHHHHHHCCEEEEEEEEECTTCCEEEEEEEEECEECCEEEEEEEEETTS
+T ss_pred             CEEEEEECCEEEEE-EECCCCeEEEEeechHHhccCCeEEEEEEEECCCCCeEeeeeeeeeEeecCCCCceeecccc
+Confidence            34566677776553 46678999998 65321  223567899999999998765  34567888898777766553
+
+
+No 9
+>3PE9_A Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; HET: IOD; 1.69A {Clostridium thermocellum}
+Probab=79.00  E-value=1.3  Score=39.94  Aligned_cols=60  Identities=17%  Similarity=0.184  Sum_probs=43.3  Template_Neff=9.300
+
+Q LOKIASV2_33920  879 TPHFEISPSDDIG-LHKVSVRVQNQTYPCFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSE  943 (1193)
+Q Consensus       879 t~t~e~~PsDdiG-~~kI~v~vnn~TY~~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~  943 (1193)
+                      ++.+.+..+++.| +.+|++.++++.. +.  ...+.|.+.+...  .+..+|++.|+|.+||.+.
+T Consensus        18 ~v~v~~~~~~~~~~i~~v~~~i~g~~~-~~--~~~~~~~~~~~~~--~G~~~l~~~a~D~~g~~~~   78 (98)
+T 3PE9_A           18 FLKITATASDSDGKISRVDFLVDGEVI-GS--DREAPYEYEWKAV--EGNHEISVIAYDDDDAAST   78 (98)
+T ss_dssp             EEEEEEEECCSSSCEEEEEEEETTEEE-EE--ECSSSEEEEEECC--SEEEEEEEEEEETTCCBCC
+T ss_pred             eEEEEEEEECCCCCeEEEEEEECCEEE-ee--eCCCCEEEEEecC--CEEEEEEEEEEeCCCCeEe
+Confidence            4666666777777 8999999999855 22  2223466665543  4578899999999999875
+
+
+No 10
+>5ZE3_A Lysyl oxidase homolog 2 (E.C.1.4.3.13); OXIDOREDUCTASE; HET: NAG; 2.4A {Homo sapiens}
+Probab=78.35  E-value=1.4  Score=51.92  Aligned_cols=37  Identities=22%  Similarity=0.147  Sum_probs=33.6  Template_Neff=7.400
+
+Q LOKIASV2_33920  313 TAGNHQIRVVVDASDTNLESDEGNNANTENFSWFPGP  349 (1193)
+Q Consensus       313 TAGSHTIKAVVDPtN~I~ESDETNNEkTvTFTWlPGP  349 (1193)
+                      .+|.|.++++++|+..+.|.+.+||.....+...+.+
+T Consensus       387 ~~g~y~~~~~~np~~~~~e~~~~nn~~~~~~~~~~~~  423 (457)
+T 5ZE3_A          387 PPGDYLFQVVINPNFEVAESDYSNNIMKCRSRYDGHR  423 (457)
+T ss_dssp             CSEEEEEEEEESTTCCSCCSCSTTSEEEEEEEECSSC
+T ss_pred             CCceEEEEEEeCCCCceeecCCCCCcceEEEEECCEE
+Confidence            4799999999999999999999999999988888665
+
+
+No 11
+>5ZE3_B Lysyl oxidase homolog 2 (E.C.1.4.3.13); OXIDOREDUCTASE; HET: NAG; 2.4A {Homo sapiens}
+Probab=78.35  E-value=1.4  Score=51.92  Aligned_cols=37  Identities=22%  Similarity=0.147  Sum_probs=33.6  Template_Neff=7.400
+
+Q LOKIASV2_33920  313 TAGNHQIRVVVDASDTNLESDEGNNANTENFSWFPGP  349 (1193)
+Q Consensus       313 TAGSHTIKAVVDPtN~I~ESDETNNEkTvTFTWlPGP  349 (1193)
+                      .+|.|.++++++|+..+.|.+.+||.....+...+.+
+T Consensus       387 ~~g~y~~~~~~np~~~~~e~~~~nn~~~~~~~~~~~~  423 (457)
+T 5ZE3_B          387 PPGDYLFQVVINPNFEVAESDYSNNIMKCRSRYDGHR  423 (457)
+T ss_dssp             CSEEEEEEEEESTTCCSCCSCSTTCEEEEEEEECSSC
+T ss_pred             CCceEEEEEEeCCCCceeecCCCCCcceEEEEECCEE
+Confidence            4799999999999999999999999999988888665
+
+
+No 12
+>3PDG_A 1st Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; 1.78A {Clostridium thermocellum}
+Probab=71.10  E-value=3  Score=37.48  Aligned_cols=62  Identities=15%  Similarity=0.128  Sum_probs=43.9  Template_Neff=9.500
+
+Q LOKIASV2_33920  878 LTPHFEISPSDDIGLHKVSVRVQNQTYPCFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSE  943 (1193)
+Q Consensus       878 ~t~t~e~~PsDdiG~~kI~v~vnn~TY~~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~  943 (1193)
+                      ....+.+..+++.|+.+|++.+++..+ +.  ...+.|.+.+.. ...+-.+|++.|.|.+||.+.
+T Consensus        17 ~~v~v~~~~~~~~~i~~v~~~~dg~~~-~~--~~~~~~~~~~~~-~~~G~~~i~a~a~D~~g~~~~   78 (98)
+T 3PDG_A           17 KDINISATVKSKTPVSKVEFYNGDTLI-SS--DTTAPYTAKITG-AAVGAYNLKAVAVLSDGRRIE   78 (98)
+T ss_dssp             SCEEEEEEECCSSCEEEEEEEETTEEE-EE--ESSSSEEEEETT-CCSEEEEEEEEEEETTSCEEE
+T ss_pred             CcEEEEEEEeCCCCeeEEEEEECCEEE-Ee--cCCCCEEEEeec-CCCeEEEEEEEEEeCCCCEEE
+Confidence            346666677778899999999999855 22  223346665554 223367889999999999876
+
+
+No 13
+>5IRB_A Antifreeze protein; Ice-binding protein, Biofilm-associated protein, RTX-adhesin; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=70.55  E-value=3.1  Score=43.89  Aligned_cols=68  Identities=19%  Similarity=0.334  Sum_probs=43.9  Template_Neff=10.300
+
+Q LOKIASV2_33920  895 VSVRVQNQTYPCFYDSAAGTWKLDLNLGQ--HIT--AENLTVIAQDYAGRKSEVF--LTIAIDTTCPTIIEVNTV  963 (1193)
+Q Consensus       895 I~v~vnn~TY~~~~dnA~GTwKl~Ln~~~--dl~--~enLtVtAtD~AGN~S~~~--~Ti~iDTTaPtiptvn~V  963 (1193)
+                      |.+..++..+... .++.|+|.+.++...  .+.  ..+++|+++|.+||.+...  .++.+|++.|..+.+++.
+T Consensus        46 v~~~~~g~~~~~~-~~~~g~~s~~~~~~~~~~~~~~~~~~~v~~~d~~G~~~~~~~~~~~~~d~~~~~~~~~~~~  119 (321)
+T 5IRB_A           46 VTLVINGVTYSTN-VNPNGTWSVSVAGSDLSADSDRIVDASVVVTNGAGQQGTADSTESFIVKTSSRATIRVNSI  119 (321)
+T ss_dssp             EEEEETTEEEEEE-CCTTSEEEEEEEHHHHHHCTTSEEEEEEEEECTTSCEEEEEEEEECEECCCCCEEEEECCS
+T ss_pred             EEEEECCEEEEEE-ECCCCcEEEEEeHHHhccCCCCeEEEEEEEEcCCCCeeeeccceeEEEecCCCCeeEEccc
+Confidence            3444455444433 557889998876431  112  3568999999999998754  456678877776665544
+
+
+No 14
+>6HQC_A TasA anchoring/assembly protein; TasA, TapA, anchoring, biofilm, PROTEIN; HET: EDO; 1.28A {Bacillus subtilis}
+Probab=70.15  E-value=3.2  Score=42.54  Aligned_cols=67  Identities=19%  Similarity=0.088  Sum_probs=40.0  Template_Neff=4.800
+
+Q LOKIASV2_33920  257 EPAVFSAQIENVGGLGTTDPFIVELYL--D-------DQYQSAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDA  325 (1193)
+Q Consensus       257 DTVTFTVTVKNQGSSgASg~F~VdLYV--D-------GslVGS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDP  325 (1193)
+                      .+..+.++|+|.|..-+.+.+.-+|+-  +       |..+....+.+|..++..++++. .+. .+|.|.+.|.-.+
+T Consensus        19 ~p~~l~a~ikN~G~~m~~s~~~yEv~~~~~~~~P~k~G~ii~~G~I~~l~s~e~~~Lt~~-~~~-k~G~Y~FKvyQ~p   94 (116)
+T 6HQC_A           19 SPFALFAVLENTGEKLKKSKWKWELHKLENARKPLKDGNVIEKGFVSNQIGDSLYKIETK-KKM-KPGIYAFKVYKPA   94 (116)
+T ss_dssp             SSBCCEEEEEECSSCCSSCCCEEEEEEESCCCSSCCCCEEEEEEECCEEEETTEEEEECS-SCB-CSEEEEEEEECCT
+T ss_pred             cCeEEEEEEEeCCcccccCceEEEEEEeccCCCCCCCCCEEeeeeeccccCCcEEEEEEe-cCC-CCeEEEEEEEcCC
+Confidence            345789999999975311222444442  1       23344556677777776665542 234 6899888765543
+
+
+No 15
+>5JP0_A Beta-glucosidase BoGH3B (E.C.3.2.1.21); Glycoside hydrolase, GH3, hydrolase; HET: BGC; 2.3A {Bacteroides ovatus}
+Probab=70.13  E-value=3.3  Score=51.38  Aligned_cols=53  Identities=21%  Similarity=0.329  Sum_probs=35.2  Template_Neff=8.300
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      .++.++|++.|+|.|..+  +.-.|++|+....          .+-..+. |.||++.+++|+...
+T Consensus       654 ~~~~~~vsv~V~NtG~~~--G~eVVqlY~~~~~~~~~~p~~~L~gF~kv~-l~pge~~~v~~~i~~  716 (772)
+T 5JP0_A          654 ADDELIFTVDVTNTGKVA--GKESVLLFSKDLVASSTPDNIRLRNFEKVS-LEPGETKTVTLKLKG  716 (772)
+T ss_dssp             TTCEEEEEEEEEECSSSC--EEEEEEEEEEESSCSSCCCSCEEEEEEEEE-ECTTCEEEEEEEEEG
+T ss_pred             CCCeEEEEEEEEeCCccc--ceEEEEEEEecCCCCCCCcceEEecEEEEE-eCCCCeEEEEEEecH
+Confidence            457889999999999875  3457778775221          1111222 788888888887653
+
+
+No 16
+>5XYR_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: MSE; 2.8A {Streptococcus pyogenes}
+Probab=68.44  E-value=3.7  Score=54.28  Aligned_cols=99  Identities=10%  Similarity=0.103  Sum_probs=58.1  Template_Neff=9.300
+
+Q LOKIASV2_33920  927 AENLTVIAQDYA-GRKSEV-FLTIAIDTTCPTIIEVNTVTTTNM-------------------ITYTAEISDTDLTSVMI  985 (1193)
+Q Consensus       927 ~enLtVtAtD~A-GN~S~~-~~Ti~iDTTaPtiptvn~Vts~dt-------------------Itg~AE~~st~~~~V~i  985 (1193)
+                      .++++|+++|.+ ||.++. ...+.+|+++|.++.+.....+.+                   +.+++++++      .+
+T Consensus       991 ~y~~~v~a~d~~~g~~~~~~~~~~~vD~~~P~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~v 1064 (1647)
+T 5XYR_A          991 YYHYVVSYYPDVVGAKRQEMTFDMILDRQKPVLSQATFDPETNRFKPEPLKDRGLAGVRKDSVFYLERKDNK------PY 1064 (1647)
+T ss_dssp             EEEEEEEEEESSTTCCCEEEEEEEEECCCCCCCCEEEECTTTCCEEECCCCCSSSSCEEEEEEEEECCBTTB------SE
+T ss_pred             EEEEEEEEEeCCCCCCcEEEEEEEEEcCCCCEeeeeEEeCCCCeeccccccccCCCceeeceeEEEEeeCCc------ee
+Confidence            678999999999 777654 347899999999986544322222                   333344444      12
+
+
+Q LOKIASV2_33920  986 HYSWDNNTWATHS------LDQEDTSHWSYQLTIPDGHTSPSYYLVATDQVEQTT 1034 (1193)
+Q Consensus       986 ~~T~~n~T~aT~~------~Dqd~t~~Ws~~l~~~d~ht~p~yyl~~~d~v~~t~ 1034 (1193)
+                      .++...+.+....      ...+..+.|+..+. +|+  .-.+++.+.|..-|+.
+T Consensus      1065 ~v~~~~~~~~~~~~~~~~~~~~~~~G~~~~~~~-~~g--~~~~~v~~~D~AGN~~ 1116 (1647)
+T 5XYR_A         1065 TVTINDSYKYVSVEDNKTFVERQADGSFILPLD-KAK--LGDFYYMVEDFAGNVA 1116 (1647)
+T ss_dssp             EEEEETTTTEEEEEECEEEECCCTTSCBCCCTT-TSC--STTEEEEEEETTSCEE
+T ss_pred             EeeecCceeeEeecCCceeeeecCCceEEeech-hhc--cccEEEEEEeCCCCEE
+Confidence            3333322222110      01245667887765 443  2357788888876654
+
+
+No 17
+>2X42_A BETA-GLUCOSIDASE (E.C.3.2.1.21); HYDROLASE, TIM BARREL FOLD, FIBRONECTIN; HET: GLC; 2.099A {THERMOTOGA NEAPOLITANA}
+Probab=68.31  E-value=3.8  Score=50.27  Aligned_cols=52  Identities=17%  Similarity=0.194  Sum_probs=32.8  Template_Neff=8.500
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|.....          .+-..+..|.+|++.+++++..
+T Consensus       614 ~~~~~v~v~v~N~g~~~--g~evvqly~~~~~~~~~~p~~~L~gf~kv~~l~~g~~~~v~~~i~  675 (721)
+T 2X42_A          614 GETLRVQYRIENTGGRA--GKEVSQVYIKAPKGKIDKPFQELKAFHKTRLLNPGESEEVVLEIP  675 (721)
+T ss_dssp             SSEEEEEEEEEECSSSC--BCCEEEEEEECCCSSSCCCSCEEEEEEECCCBCTTCEEEEEEEEE
+T ss_pred             CCEEEEEEEEEEecCCC--ceeEEEEEecCCCCCCCCchheeEEEEEeeeeCCCCeEEEEEEEe
+Confidence            47789999999999865  3456777764221          1111121267888777777664
+
+
+No 18
+>5IRB_A Antifreeze protein; Ice-binding protein, Biofilm-associated protein, RTX-adhesin; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=65.29  E-value=4.8  Score=42.58  Aligned_cols=60  Identities=20%  Similarity=0.205  Sum_probs=38.3  Template_Neff=10.300
+
+Q LOKIASV2_33920  898 RVQNQTYPCFYDSAAGTWKLDLNLGQH--ITAENLTVIAQDYAGRKSEVF--LTIAIDTTCPTII  958 (1193)
+Q Consensus       898 ~vnn~TY~~~~dnA~GTwKl~Ln~~~d--l~~enLtVtAtD~AGN~S~~~--~Ti~iDTTaPtip  958 (1193)
+                      .+++..+... .+.+|.|.+.+.....  ....+++++++|.+||.+...  .++.+|.++|..+
+T Consensus       153 ~~~~~~~~~~-~~~~g~~~~~~~~~~~~~~g~~~~~~~~~d~~G~~~~~~~~~~~~vd~~~~~~~  216 (321)
+T 5IRB_A          153 TINGTLYTTV-VLANKTWSVGVSGSDLAQDNSFQVSVTGQDSAGNPYAGTTTSTHTVDTSADAGT  216 (321)
+T ss_dssp             EETTEEEEEE-CCTTSEEEEEEEHHHHHHCCEEEEEEEEECTTSCEEEEEEEEECEECCCCCCCE
+T ss_pred             EECCEEEEEE-EcCCCEEEEEEeHHHhccCCeEEEEEEEEcCCCCcccceeceeeEEecCCCCCe
+Confidence            3344434333 4567889887764321  235678899999999988753  3467787777543
+
+
+No 19
+>3ISY_A Intracellular proteinase inhibitor; Intracellular proteinase inhibitor bsupi, beta; HET: PG4; 2.61A {Bacillus subtilis}
+Probab=65.27  E-value=4.8  Score=38.65  Aligned_cols=71  Identities=14%  Similarity=0.149  Sum_probs=43.9  Template_Neff=8.500
+
+Q LOKIASV2_33920  254 VADEPAVFSAQIENVGGLGTTD-------PFIVELYL-DDQYQS----------AITVASLASAGSIAIEFPSIGDITAG  315 (1193)
+Q Consensus       254 sVGDTVTFTVTVKNQGSSgASg-------~F~VdLYV-DGslVG----------S~TV~SLAAGGStTVSFtSIwtLTAG  315 (1193)
+                      ..|+.+.++++|+|.+..+ ..       .+.+.++. +|..+.          ......|.+|++.++.+.|.....+|
+T Consensus        15 ~~g~~~~~~~tv~N~~~~~-~~l~~~~~q~~~~~V~~~~g~~v~~~s~~~~~~~~~~~~~l~pge~~~~~~~w~~~~~~G   93 (120)
+T 3ISY_A           15 QEPEQIKFNMSLKNQSERA-IEFQFSTGQKFELVVYDSEHKERYRYSKEKMFTQAFQNLTLESGETYDFSDVWKEVPEPG   93 (120)
+T ss_dssp             ECSSCEEEEEEEEECSSSC-EEEEESSSCCEEEEEECTTCCEEEETTTTCCCCCCCEEEEECTTCEEEEEEEESSCCCSE
+T ss_pred             eCCCcEEEEEEEEeCCCCe-EEEEecCCCEEEEEEEeCCCCEEEEecCCccceeeeEEEEECCCCEEEEEEEecCCCCCe
+Confidence            4578888889999988765 21       12333332 232110          11123477898888888887422589
+
+
+Q LOKIASV2_33920  316 NHQIRVVVDA  325 (1193)
+Q Consensus       316 SHTIKAVVDP  325 (1193)
+                      .|.+.+.+..
+T Consensus        94 ~Y~v~~~~~~  103 (120)
+T 3ISY_A           94 TYEVKVTFKG  103 (120)
+T ss_dssp             EEEEEEEECC
+T ss_pred             EEEEEEEEEE
+Confidence            9998887765
+
+
+No 20
+>5XXO_B Periplasmic beta-glucosidase; glycoside hydrolase family 3, beta-glucosidase; HET: PG4, BGC; 2.02A {Bacteroides thetaiotaomicron VPI-5482}
+Probab=63.19  E-value=5.6  Score=49.38  Aligned_cols=52  Identities=17%  Similarity=0.225  Sum_probs=32.9  Template_Neff=8.300
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVGGLGTTDPFIVELYLDDQ----------YQSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQGSSgASg~F~VdLYVDGs----------lVGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      .++.++|++.|+|.|..+  +.-.|++|....          ..+-..+ .|.+|++.+|+|+..
+T Consensus       652 ~~~~~~v~v~V~NtG~~~--g~evvqly~~~~~~~~~~p~~~L~~f~kv-~l~pges~~v~~~i~  713 (760)
+T 5XXO_B          652 MTGELTAAVMVTNTGTWP--GSEVVQLYIRDLVGSTTRPVKELKGFQKI-FLEPGQSEIVRFKIA  713 (760)
+T ss_dssp             TTCCEEEEEEEEECSSSC--EEEEEEEEEEESSCSSCCCSCEEEEEEEE-EECTTCEEEEEEEEC
+T ss_pred             CCCcEEEEEEEEecCCCc--eeeEEEEEEEcCCCCCCCcceeeeeEEEE-EeCCCCEEEEEEEEC
+Confidence            357789999999999875  344667776521          1111122 267787777777664
+
+
+No 21
+>5TUG_A Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=63.11  E-value=5.6  Score=40.13  Aligned_cols=14  Identities=29%  Similarity=0.318  Sum_probs=10.6  Template_Neff=7.300
+
+Q LOKIASV2_33920  259 AVFSAQIENVGGLG  272 (1193)
+Q Consensus       259 VTFTVTVKNQGSSg  272 (1193)
+                      -.+.+.|+|.|...
+T Consensus        47 ~~l~v~vkNtG~t~   60 (135)
+T 5TUG_A           47 NTVVAYLHNVGETT   60 (135)
+T ss_dssp             SEEEEEEEECSSSC
+T ss_pred             CEEEEEEEeCCCce
+Confidence            36778888888764
+
+
+No 22
+>5TUH_B Flagellar biosynthesis protein FlaG; beta-sandwich fold Archaellum assembly subunit; 1.929A {Sulfolobus acidocaldarius}
+Probab=63.11  E-value=5.6  Score=40.13  Aligned_cols=14  Identities=29%  Similarity=0.318  Sum_probs=10.6  Template_Neff=7.300
+
+Q LOKIASV2_33920  259 AVFSAQIENVGGLG  272 (1193)
+Q Consensus       259 VTFTVTVKNQGSSg  272 (1193)
+                      -.+.+.|+|.|...
+T Consensus        47 ~~l~v~vkNtG~t~   60 (135)
+T 5TUH_B           47 NTVVAYLHNVGETT   60 (135)
+T ss_dssp             TEEEEEEEECSSSC
+T ss_pred             CEEEEEEEeCCCce
+Confidence            36778888888764
+
+
+No 23
+>2X41_A BETA-GLUCOSIDASE (E.C.3.2.1.21); HYDROLASE, TIM BARREL FOLD, FIBRONECTIN; HET: BGC; 2.05A {THERMOTOGA NEAPOLITANA}
+Probab=63.08  E-value=5.7  Score=48.79  Aligned_cols=53  Identities=17%  Similarity=0.169  Sum_probs=32.8  Template_Neff=8.600
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|.....          .+-..+..|.+|++.+++++...
+T Consensus       614 ~~~~~v~v~v~N~g~~~--g~evvqly~~~~~~~~~~p~k~L~~f~kv~~l~~g~~~~v~~~i~~  676 (721)
+T 2X41_A          614 GETLRVQYRIENTGGRA--GKEVSQVYIKAPKGKIDKPFQELKAFHKTRLLNPGESEEVVLEIPV  676 (721)
+T ss_dssp             SSEEEEEEEEEECSSSC--BCCEEEEEEECCCSSSCCCSCEEEEEEECCCBCTTCEEEEEEEEEG
+T ss_pred             CCEEEEEEEEEEeCCCC--ceeEEEEEecCCCCCCCCCceEEEeEEEeeeeCCCCeEEEEEEEeH
+Confidence            46789999999999865  3456777764221          11111212677877777776643
+
+
+No 24
+>3PDD_A Glycoside hydrolase, family 9; CbhA, beta-sandwich, cellulosome, UNKNOWN FUNCTION; 1.72A {Clostridium thermocellum}
+Probab=62.57  E-value=5.9  Score=37.84  Aligned_cols=69  Identities=16%  Similarity=0.171  Sum_probs=45.5  Template_Neff=11.000
+
+Q LOKIASV2_33920  877 GLTPHFEISPSDDIG-LHKVSVRVQNQTYPCFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSE-VFLTIAI  950 (1193)
+Q Consensus       877 ~~t~t~e~~PsDdiG-~~kI~v~vnn~TY~~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~-~~~Ti~i  950 (1193)
+                      +..+.+.+...|..| +.++++.+++..+.   ....|+|.+.....  .+...++|.++|.+||.+. ...++.+
+T Consensus       108 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---~~~~~~~~~~~~~~--~g~~~~~v~a~D~~g~~s~~~~~~i~~  178 (190)
+T 3PDD_A          108 NEFLKITATASDSDGKISRVDFLVDGEVIG---SDREAPYEYEWKAV--EGNHEISVIAYDDDDAASTPDSVKIFV  178 (190)
+T ss_dssp             TSEEEEEEEEECSSSCEEEEEEEETTEEEE---EECSSSEEEEEECC--SEEEEEEEEEEETTCCBCCCEEEEEEE
+T ss_pred             CceEEEEEEEECCCCCeEEEEEEECCEEEE---ecCCCCeEEEEEcC--CeEEEEEEEEEcCCCCcccceeEEEEE
+Confidence            445666666666654 67888888876443   23456777766544  3467899999999999875 3333333
+
+
+No 25
+>5XYA_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: AES, MSE, SO4; 3.0A {Streptococcus pyogenes}
+Probab=61.89  E-value=6.1  Score=51.94  Aligned_cols=111  Identities=10%  Similarity=0.111  Sum_probs=62.5  Template_Neff=9.400
+
+Q LOKIASV2_33920  915 WKLDLNLGQHIT--AENLTVIAQDYA-GRKSEV-FLTIAIDTTCPTIIEVNTVTTTN-------------------MITY  971 (1193)
+Q Consensus       915 wKl~Ln~~~dl~--~enLtVtAtD~A-GN~S~~-~~Ti~iDTTaPtiptvn~Vts~d-------------------tItg  971 (1193)
+                      |.-.....+.++  .+++.|+++|.+ |+.++. ...+.||+|+|.+..+.....+.                   ++.+
+T Consensus       860 w~g~~~~~~~~~dG~y~~~v~~~d~~~g~~~~~~~~~~~vD~~~P~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  939 (1530)
+T 5XYA_A          860 FSGKSLTGAELPDGYYHYVVSYYPDVVGAKRQEMTFDMILDRQKPVLSQATFDPETNRFKPEPLKDRGLAGVRKDSVFYL  939 (1530)
+T ss_dssp             BCSBCTTSCBCCSEEEEEEEEEEESSTTCCCBCCEEEEEECCSCCCCCEEEEETTTTEEECCSCCCSSSSCEEEEEEEEE
+T ss_pred             eCceeCCCccCCCEEEEEEEEEEeCCCCCCcEEEEEEEEEcCCCCEeeeeEeeCCCCeeccccccccCCCccceeeEEEE
+Confidence            444443344444  568999999999 776554 34789999999988543322111                   2344
+
+
+Q LOKIASV2_33920  972 TAEISDTDLTSVMIHYSWDNNTWATHS------LDQEDTSHWSYQLTIPDGHTSPSYYLVATDQVEQTT 1034 (1193)
+Q Consensus       972 ~AE~~st~~~~V~i~~T~~n~T~aT~~------~Dqd~t~~Ws~~l~~~d~ht~p~yyl~~~d~v~~t~ 1034 (1193)
+                      ++++++      .+.++..++.+...-      ......+.|+..+. .++  .-.+++.+.|..-|+.
+T Consensus       940 ~~~~~~------~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~-~~g--~~~~~v~~~D~AGN~~  999 (1530)
+T 5XYA_A          940 ERKDNK------PYTVTINDSYKYVSVEDNKTFVERQADGSFILPLD-KAK--LGDFYYMVEDFAGNVA  999 (1530)
+T ss_dssp             CCBTTB------SEEEEEETTTTEEEEEECEEECCCCTTSCEECCTT-TSC--TTSEEEEEEESSSCEE
+T ss_pred             EeeCCc------eeeeeecCcceeeeecCCceEeeecCCceEEeecc-hhc--ccceEEEEEeCCCCEE
+Confidence            455444      224444333322210      01245567887766 332  2467788888776653
+
+
+No 26
+>1L9M_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.18.9, d.3.1.4, b.1.5.1
+Probab=61.42  E-value=6.4  Score=48.75  Aligned_cols=74  Identities=11%  Similarity=0.107  Sum_probs=55.1  Template_Neff=7.900
+
+Q LOKIASV2_33920  251 TDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQS--AITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDAS  326 (1193)
+Q Consensus       251 TSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVG--S~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDPt  326 (1193)
+                      ..+..|+++.+++.++|.+..+ ..++.+.+...|....  ...+..+.||++.++.+++.+. .+|..++.+.++..
+T Consensus       602 ~~~~~G~~~~v~v~f~Npl~~~-L~nv~l~veg~Gl~~~~~~i~l~~I~Pg~~~~~~f~~~p~-~~G~~~l~a~f~~~  677 (692)
+T 1L9M_A          602 NEARVRKPVNVQMLFSNPLDEP-VRDCVLMVEGSGLLLGNLKIDVPTLGPKERSRVRFDILPS-RSGTKQLLADFSCN  677 (692)
+T ss_dssp             SCCBTTSCEEEEEEEECCSSSC-BCSEEEEEECTTTCSSCEEEEECCBCTTCEEEEEEEECCC-SCEEEEEEEEEEET
+T ss_pred             CCccCCCcEEEEEEEECCCCCC-eeeEEEEEEcCCceecceEEEcCccCCCCEEEEEEEEEcC-CCCceEEEEEEEeC
+Confidence            3567899999999999999887 5566666554443331  2235668899999999998876 78988888887763
+
+
+No 27
+>1L9M_B Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; 2.1A {Homo sapiens} SCOP: b.1.5.1, d.3.1.4, b.1.18.9
+Probab=61.42  E-value=6.4  Score=48.75  Aligned_cols=74  Identities=11%  Similarity=0.107  Sum_probs=55.1  Template_Neff=7.900
+
+Q LOKIASV2_33920  251 TDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQS--AITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDAS  326 (1193)
+Q Consensus       251 TSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVG--S~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDPt  326 (1193)
+                      ..+..|+++.+++.++|.+..+ ..++.+.+...|....  ...+..+.||++.++.+++.+. .+|..++.+.++..
+T Consensus       602 ~~~~~G~~~~v~v~f~Npl~~~-L~nv~l~veg~Gl~~~~~~i~l~~I~Pg~~~~~~f~~~p~-~~G~~~l~a~f~~~  677 (692)
+T 1L9M_B          602 NEARVRKPVNVQMLFSNPLDEP-VRDCVLMVEGSGLLLGNLKIDVPTLGPKERSRVRFDILPS-RSGTKQLLADFSCN  677 (692)
+T ss_dssp             SCCBTTCCEEEEEEEECCSSSC-BCSEEEEEECTTTSSSCEEEEECCBCTTCEEEEEEEECCC-SCEEEEEEEEEEET
+T ss_pred             CCccCCCcEEEEEEEECCCCCC-eeeEEEEEEcCCceecceEEEcCccCCCCEEEEEEEEEcC-CCCceEEEEEEEeC
+Confidence            3567899999999999999887 5566666554443331  2235668899999999998876 78988888887763
+
+
+No 28
+>1L9N_A Protein-glutamine glutamyltransferase E3 (E.C.2.3.2.13); Activation, Calcium binding, transglutaminase, Transferase; HET: BGL; 2.1A {Homo sapiens} SCOP: d.3.1.4, b.1.5.1, b.1.18.9
+Probab=61.42  E-value=6.4  Score=48.75  Aligned_cols=74  Identities=11%  Similarity=0.107  Sum_probs=55.1  Template_Neff=7.900
+
+Q LOKIASV2_33920  251 TDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQS--AITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDAS  326 (1193)
+Q Consensus       251 TSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVG--S~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDPt  326 (1193)
+                      ..+..|+++.+++.++|.+..+ ..++.+.+...|....  ...+..+.||++.++.+++.+. .+|..++.+.++..
+T Consensus       602 ~~~~~G~~~~v~v~f~Npl~~~-L~nv~l~veg~Gl~~~~~~i~l~~I~Pg~~~~~~f~~~p~-~~G~~~l~a~f~~~  677 (692)
+T 1L9N_A          602 NEARVRKPVNVQMLFSNPLDEP-VRDCVLMVEGSGLLLGNLKIDVPTLGPKERSRVRFDILPS-RSGTKQLLADFSCN  677 (692)
+T ss_dssp             SCCBTTSCEEEEEEEECCSSSC-BCSEEEEEECTTTSSSCEEEEECCBCTTCEEEEEEEECCC-SCEEEEEEEEEECS
+T ss_pred             CCccCCCcEEEEEEEECCCCCC-eeeEEEEEEcCCceecceEEEcCccCCCCEEEEEEEEEcC-CCCceEEEEEEEeC
+Confidence            3567899999999999999887 5566666554443331  2235668899999999998876 78988888887763
+
+
+No 29
+>5WAB_D Estrogen receptor beta; GH3, beta-glucosidase, Bifidobacterium, adolescentis, HYDROLASE; 2.45A {Bifidobacterium adolescentis (strain ATCC 15703 / DSM 20083 / NCTC 11814 / E194a)}
+Probab=60.32  E-value=6.9  Score=49.09  Aligned_cols=51  Identities=20%  Similarity=0.199  Sum_probs=33.5  Template_Neff=7.700
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|+++|+|+|.-+  +.-.|++|+....          .+-..+ .|.+|++.+|+|++.
+T Consensus       563 ~~~~~vsv~V~NtG~~~--g~evvqlY~~~~~~~~~~p~k~L~~F~kv-~l~pges~~v~~~~~  623 (751)
+T 5WAB_D          563 ANTAHVTATVTNTSDVD--AAETVQVYVAPGKAAVARPKHELKGFRKV-FLKAGESAEITFDLD  623 (751)
+T ss_dssp             TTEEEEEEEEEECSSSC--EEEEEEEEEEECSCSSCCCSCEEEEEEEE-EECTTCEEEEEEEEC
+T ss_pred             CCeEEEEEEEecCCCCC--ceEEEEEEecCCCcccCCChhheeeeEeE-EeCCCCeEEEEEEeC
+Confidence            46789999999999865  3456778874321          111122 277898888877654
+
+
+No 30
+>4P99_C MpAFP_RII tetra-tandemer; Ca2+-dependent, bacterial Ig-like fold, ice-binding; HET: BOG, EDO, CA; 1.8A {Marinomonas primoryensis}
+Probab=59.09  E-value=7.5  Score=42.82  Aligned_cols=60  Identities=23%  Similarity=0.356  Sum_probs=37.6  Template_Neff=10.500
+
+Q LOKIASV2_33920  896 SVRVQNQTYPCFYDSAAGTWKLDLNLGQHIT--AENLTVIAQDYAGRKSEV--FLTIAIDTTCPT  956 (1193)
+Q Consensus       896 ~v~vnn~TY~~~~dnA~GTwKl~Ln~~~dl~--~enLtVtAtD~AGN~S~~--~~Ti~iDTTaPt  956 (1193)
+                      .+.++++.+. ...+..|.|.+.++....++  ..+++++++|.+||.+..  ..+..+|.++|.
+T Consensus       275 ~~~~~~~~~~-~~~~~~g~~~~~~~~~~~~~~g~~~~~~~~~d~~G~~~~~~~~~~~~vd~~~~~  338 (437)
+T 4P99_C          275 TLEINGETYT-TTVDANGEWSVDVAGSDLAADTAFDAVVTSSDAAGNTVDTTGSSTHTVDTEATA  338 (437)
+T ss_dssp             EEEETTEEEE-EECCTTSEEEEEEEHHHHHHCCEEEEEEEEECTTCCEEEEEEEEECEECCCCCC
+T ss_pred             EEEECCEEEE-EEECCCCeEEEEEeHHHhhcCCeEEEEEEEEcCCCCeeeeccceeeEEecCCCC
+Confidence            3334444332 23456788998876543223  457888999999998865  335566776664
+
+
+No 31
+>6QAY_A TasA anchoring/assembly protein; TasA, TapA, anchoring, biofilm, PROTEIN; NMR {Bacillus subtilis}
+Probab=59.02  E-value=7.5  Score=41.61  Aligned_cols=65  Identities=20%  Similarity=0.078  Sum_probs=40.0  Template_Neff=4.400
+
+Q LOKIASV2_33920  258 PAVFSAQIENVGGLGTTDP-FIVELYLD---------DQYQSAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDA  325 (1193)
+Q Consensus       258 TVTFTVTVKNQGSSgASg~-F~VdLYVD---------GslVGS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDP  325 (1193)
+                      +..+.++|+|.|..- ... +.-+|+-.         |..+....+.+|..++..+++ ++.+. .+|.|.++|.-.+
+T Consensus        51 p~~l~a~ikN~G~~M-~~stw~yEvy~~~~~gnP~k~G~ii~eG~I~~l~s~e~~~l~-t~~~~-k~G~Y~FKvyQ~p  125 (147)
+T 6QAY_A           51 PFALFAVLENTGEKL-KKSKWKWELHKLENARKPLKDGNVIEKGFVSNQIGDSLYKIE-TKKKM-KPGIYAFKVYKPA  125 (147)
+T ss_dssp             CCCCEEEEEESSSCC-CSSCEEEEEEECSCSSSCCCSSCEEEEEECCCEEETTEEEEE-CSSCC-CSEEEEEEEEEET
+T ss_pred             CeEeEEEEEeCCccc-cccceEEEEEEeccCCCCCCCCCEEeeeeeccccCCceEEEe-EecCC-CCeEEEEEEecCC
+Confidence            457899999999754 322 23344332         233444566667777666654 56665 6899888765543
+
+
+No 32
+>5XXL_B Periplasmic beta-glucosidase; glycoside hydrolase family 3, beta-glucosidase; HET: PG4; 1.6A {Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482)}
+Probab=58.33  E-value=7.8  Score=48.20  Aligned_cols=51  Identities=18%  Similarity=0.227  Sum_probs=32.3  Template_Neff=8.300
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|+....          .+-..+ .|.+|++.+++|+..
+T Consensus       653 ~~~~~v~v~V~NtG~~~--g~evvqly~~~~~~~~~~p~~~L~gF~kv-~l~~ges~~v~~~~~  713 (760)
+T 5XXL_B          653 TGELTAAVMVTNTGTWP--GSEVVQLYIRDLVGSTTRPVKELKGFQKI-FLEPGQSEIVRFKIA  713 (760)
+T ss_dssp             TCCEEEEEEEEECSSSC--EEEEEEEEEEESSCSSCCBSCEEEEEEEE-EECTTCEEEEEEEEC
+T ss_pred             CCeEEEEEEEEecCCCc--eeEEEEEEEEcCCCCCCCCcceeeeEEEE-EeCCCCEEEEEEEEC
+Confidence            46789999999999875  3456777765210          111122 267787777776664
+
+
+No 33
+>5XXM_A Periplasmic beta-glucosidase; glycoside hydrolase family 3, beta-glucosidase; HET: LGC, PG4; 1.7A {Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482)}
+Probab=58.33  E-value=7.8  Score=48.20  Aligned_cols=51  Identities=18%  Similarity=0.227  Sum_probs=32.3  Template_Neff=8.300
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|+....          .+-..+ .|.+|++.+++|+..
+T Consensus       653 ~~~~~v~v~V~NtG~~~--g~evvqly~~~~~~~~~~p~~~L~gF~kv-~l~~ges~~v~~~~~  713 (760)
+T 5XXM_A          653 TGELTAAVMVTNTGTWP--GSEVVQLYIRDLVGSTTRPVKELKGFQKI-FLEPGQSEIVRFKIA  713 (760)
+T ss_dssp             TCCEEEEEEEEECSSSC--EEEEEEEEEEECCCSSCCBSCEEEEEEEE-EECTTCEEEEEEEEC
+T ss_pred             CCeEEEEEEEEecCCCc--eeEEEEEEEEcCCCCCCCCcceeeeEEEE-EeCCCCEEEEEEEEC
+Confidence            46789999999999875  3456777765210          111122 267787777776664
+
+
+No 34
+>4ZO6_A Lin1840 protein; TIM barrel, hydrolase, beta-1, 2-glucan; HET: CBI, GOL, BGC; 2.0A {Listeria innocua serovar 6a (strain CLIP 11262)}
+Probab=57.95  E-value=8  Score=47.82  Aligned_cols=53  Identities=19%  Similarity=0.312  Sum_probs=33.4  Template_Neff=8.400
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      .++.++|++.|+|.|..+  +.-.|++|.....          .+-..+. +.+|++.+++|+...
+T Consensus       620 ~~~~~~v~v~V~Ntg~~~--g~evvqlY~~~~~~~~~~p~~~L~gf~kv~-l~pg~s~~v~~~~~~  682 (731)
+T 4ZO6_A          620 LGESLHVEVTIKNISDIA--GKEVIQVYLQDVTASISRPVKELKAFEKVA-LQAGEEKTVTFELTS  682 (731)
+T ss_dssp             ETCCEEEEEEEEECSSSC--EEEEEEEEEEESSCSSCCCSCEEEEEEEEE-ECTTCEEEEEEEECG
+T ss_pred             CCCeEEEEEEEEeCCCCc--eEEEEEEEeccCCCCCCCcHHhheeeEEEe-eCCCCeEEEEEEEcH
+Confidence            357899999999999765  3456777775211          1111222 677877777776653
+
+
+No 35
+>4ZOC_B Lin1840 protein; TIM barrel, hydrolase, beta-1, 2-glucan; HET: GOL, BGC; 1.79A {Listeria innocua serovar 6a (strain CLIP 11262)}
+Probab=57.95  E-value=8  Score=47.82  Aligned_cols=53  Identities=19%  Similarity=0.312  Sum_probs=33.4  Template_Neff=8.400
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      .++.++|++.|+|.|..+  +.-.|++|.....          .+-..+. +.+|++.+++|+...
+T Consensus       620 ~~~~~~v~v~V~Ntg~~~--g~evvqlY~~~~~~~~~~p~~~L~gf~kv~-l~pg~s~~v~~~~~~  682 (731)
+T 4ZOC_B          620 LGESLHVEVTIKNISDIA--GKEVIQVYLQDVTASISRPVKELKAFEKVA-LQAGEEKTVTFELTS  682 (731)
+T ss_dssp             ETCCEEEEEEEEECSSSC--EEEEEEEEEEESSCSSCCCSCEEEEEEEEE-ECTTCEEEEEEEECG
+T ss_pred             CCCeEEEEEEEEeCCCCc--eEEEEEEEeccCCCCCCCcHHhheeeEEEe-eCCCCeEEEEEEEcH
+Confidence            357899999999999765  3456777775211          1111222 677877777776653
+
+
+No 36
+>4PYG_E Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Protein-GTP complex, Transglutaminase fold, Crosslinking; HET: GTP; 2.8A {Homo sapiens}
+Probab=57.92  E-value=8.1  Score=47.87  Aligned_cols=72  Identities=7%  Similarity=0.100  Sum_probs=53.4  Template_Neff=8.000
+
+Q LOKIASV2_33920  252 DLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQS--AITV-ASLASAGSIAIEFPSIGDITAGNHQIRVVVDA  325 (1193)
+Q Consensus       252 SPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVG--S~TV-~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDP  325 (1193)
+                      .+..|+++.+++.++|.+..+ -.++.+++...|....  .... ..+.||++.++.+.+.+. ..|..++.+..+.
+T Consensus       596 ~~~~G~~~~v~vsf~Npl~~~-Ltn~~l~veg~Gl~~~~~~i~l~~~I~PGe~~~~~~~~~p~-~~G~~~l~a~f~s  670 (695)
+T 4PYG_E          596 EPKQKRKLVAEVSLQNPLPVA-LEGCTFTVEGAGLTEEQKTVEIPDPVEAGEEVKVRMDLLPL-HMGLHKLVVNFES  670 (695)
+T ss_dssp             CCBTTSCEEEEEEEECCSSSC-BCSCEEEEECTTTCSSCEEEECCSCBCSSCEEEEEEEECCC-SCEEEEEEEEEEC
+T ss_pred             CccCCCeEEEEEEEECCCCCc-cccEEEEEEcCCCcccceEEEcCCCcCCCCEEEEEEEEeeC-CCceeEEEEEEEc
+Confidence            467899999999999999886 5556666554443332  2224 558899999999999887 7898888877765
+
+
+No 37
+>6A8P_C Protein-glutamine gamma-glutamyltransferase 2 (E.C.2.3.2.13); Transglutaminase, Complex, Mutant, GTP, TRANSFERASE; HET: GTP; 2.537A {Homo sapiens}
+Probab=57.92  E-value=8.1  Score=47.87  Aligned_cols=72  Identities=7%  Similarity=0.100  Sum_probs=53.4  Template_Neff=8.000
+
+Q LOKIASV2_33920  252 DLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQS--AITV-ASLASAGSIAIEFPSIGDITAGNHQIRVVVDA  325 (1193)
+Q Consensus       252 SPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVG--S~TV-~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDP  325 (1193)
+                      .+..|+++.+++.++|.+..+ -.++.+++...|....  .... ..+.||++.++.+.+.+. ..|..++.+..+.
+T Consensus       596 ~~~~G~~~~v~vsf~Npl~~~-Ltn~~l~veg~Gl~~~~~~i~l~~~I~PGe~~~~~~~~~p~-~~G~~~l~a~f~s  670 (695)
+T 6A8P_C          596 EPKQKRKLVAEVSLQNPLPVA-LEGCTFTVEGAGLTEEQKTVEIPDPVEAGEEVKVRMDLLPL-HMGLHKLVVNFES  670 (695)
+T ss_dssp             CCBTTSCEEEEEEEECCSSSC-BCSCEEEEECTTTCSSCEEEECCSCBCSSCEEEEEEEECCC-SCEEEEEEEEEEC
+T ss_pred             CccCCCeEEEEEEEECCCCCc-cccEEEEEEcCCCcccceEEEcCCCcCCCCEEEEEEEEeeC-CCceeEEEEEEEc
+Confidence            467899999999999999886 5556666554443332  2224 558899999999999887 7898888877765
+
+
+No 38
+>1G0D_A PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE(E.C.2.3.2.13); tissue transglutaminase,acyltransferase, TRANSFERASE; 2.5A {Pagrus major} SCOP: b.1.18.9, b.1.5.1, d.3.1.4
+Probab=56.70  E-value=8.7  Score=47.90  Aligned_cols=96  Identities=13%  Similarity=0.082  Sum_probs=59.4  Template_Neff=7.600
+
+Q LOKIASV2_33920  250 TTDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQS-AITV-ASLASAGSIAIEFPSIGDITAGNHQIRVVVDASD  327 (1193)
+Q Consensus       250 PTSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVG-S~TV-~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDPtN  327 (1193)
+                      +..+..|+++.+++.+.|.+..+ ..++.+.+...|-... .... ..+.+|++.++.+.+.+. ..|..++.+..+.+.
+T Consensus       592 ~~~~~vg~~~~v~vsf~Npl~~~-Ltn~~l~vEG~Gl~~~~~~~~~g~I~pg~s~~~~~~~~P~-~~G~~~L~atf~~~~  669 (695)
+T 1G0D_A          592 PGKAVVWEPLTAYVSFTNPLPVP-LKGGVFTLEGAGLLSATQIHVNGAVAPSGKVSVKLSFSPM-RTGVRKLLVDFDSDR  669 (695)
+T ss_dssp             CSCEETTCCEEEEEEEECCSSSC-EESCEEEEEETTTEEEEEEECSSEECTTCEEEEEEEECCS-SCEEEEEEEEEECSS
+T ss_pred             CCceeCCCcEEEEEEEEcCCCCC-ceeEEEEEEeCCCccceEEEEeCccCCCCeEEEEEEEecC-CCceeEEEEEEEeCC
+Confidence            34567799999999999999887 5555555543332221 1222 568899999999998876 688887777776532
+
+
+Q LOKIASV2_33920  328 TNLESDEGNNANTENFSWFPGPGTIV  353 (1193)
+Q Consensus       328 ~I~ESDETNNEkTvTFTWlPGPDLII  353 (1193)
+                            ..+=..+..+.+...+..+|
+T Consensus       670 ------l~~v~g~~~v~V~~~~~~~~  689 (695)
+T 1G0D_A          670 ------LKDVKGVTTVVVHKKYRSLI  689 (695)
+T ss_dssp             ------CCCEEEEEEEEEECC-----
+T ss_pred             ------CCeEEEEEEEEEEcCCCcce
+Confidence                  11223344555555555444
+
+
+No 39
+>2YN3_C PUTATIVE INNER MEMBRANE PROTEIN; MEMBRANE PROTEIN, BIG-DOMAINS ADHESIN; HET: MSE, CA; 2.12A {SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHIMURIUM}
+Probab=56.54  E-value=8.8  Score=39.71  Aligned_cols=48  Identities=19%  Similarity=0.397  Sum_probs=32.3  Template_Neff=10.600
+
+Q LOKIASV2_33920  906 CFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVFLTIAIDTTCPTI  957 (1193)
+Q Consensus       906 ~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~~Ti~iDTTaPti  957 (1193)
+                      +...++.|+|.+.++..   .+..++++++|.+||.+... +..++...|.+
+T Consensus        41 ~~~~~~~g~~~~~~~~~---~~~~~~~~~~d~ag~~s~~~-~~~~~~~~~~~   88 (288)
+T 2YN3_C           41 TLTVPDNGKWSMAIPYP---SEGKFTITSVDAIGNRSDDV-PLDIMKEVPVI   88 (288)
+T ss_dssp             EEECCTTSEEEEEEECC---GGGEEEEEEECTTCCBCCCE-EEECCCCCCEE
+T ss_pred             EEEcCCCCeEEEeCCCC---CCCEEEEEEEcCCCCccCCc-CeeecCCCCee
+Confidence            34457788999987643   22357899999999988653 44455555543
+
+
+No 40
+>2YN5_A PUTATIVE INNER MEMBRANE PROTEIN; MEMBRANE PROTEIN, BIG-DOMAINS ADHESIN; 1.85A {SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHIMURIUM}
+Probab=56.54  E-value=8.8  Score=39.71  Aligned_cols=48  Identities=19%  Similarity=0.397  Sum_probs=32.3  Template_Neff=10.600
+
+Q LOKIASV2_33920  906 CFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVFLTIAIDTTCPTI  957 (1193)
+Q Consensus       906 ~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~~Ti~iDTTaPti  957 (1193)
+                      +...++.|+|.+.++..   .+..++++++|.+||.+... +..++...|.+
+T Consensus        41 ~~~~~~~g~~~~~~~~~---~~~~~~~~~~d~ag~~s~~~-~~~~~~~~~~~   88 (288)
+T 2YN5_A           41 TLTVPDNGKWSMAIPYP---SEGKFTITSVDAIGNRSDDV-PLDIMKEVPVI   88 (288)
+T ss_dssp             EEECCTTSEEEEEEECC---GGGEEEEEEECTTCCBCCCE-EEECCCCCCEE
+T ss_pred             EEEcCCCCeEEEeCCCC---CCCEEEEEEEcCCCCccCCc-CeeecCCCCee
+Confidence            34457788999987643   22357899999999988653 44455555543
+
+
+No 41
+>4KTY_B Coagulation factor XIII A chain; transglutaminase, COAGULATION, TRANSFERASE, ACYLTRANSFERASE, ligand; HET: DAS, ABA, NLE, GOL, 1TX; 1.98A {Homo sapiens}
+Probab=56.19  E-value=9  Score=48.37  Aligned_cols=74  Identities=8%  Similarity=-0.039  Sum_probs=53.0  Template_Neff=7.200
+
+Q LOKIASV2_33920  251 TDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQ-SAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDAS  326 (1193)
+Q Consensus       251 TSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslV-GS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDPt  326 (1193)
+                      ..+..|++..+++.+.|.+..+ ..++.+.+.-.|-.. ....+..+.+|++.++.+.+.+. ..|..++.+..+..
+T Consensus       645 ~~~~vg~~~~v~vsf~Npl~~~-Ltn~~l~vEG~Gl~~~~~~~ig~I~pges~~~~~~~tP~-~~G~~~L~a~f~s~  719 (738)
+T 4KTY_B          645 GTQVVGSDMTVIVEFTNPLKET-LRNVWVHLDGPGVTRPMKKMFREIRPNSTVQWEEVCRPW-VSGHRKLIASMSSD  719 (738)
+T ss_dssp             SCCBTTSCEEEEEEEECCSSSC-EEEEEEEEEETTTEEEEEEEEEEECTTCEEEEEEEECCC-SCEEEEEEEEEECS
+T ss_pred             CceeCCCeEEEEEEEECCCCCc-ceeEEEEEECCCccccceEEecccCCCCEEEEEEEEecC-CCCceEEEEEEEeC
+Confidence            4556799999999999999887 555555554333221 12234568899999999999886 68888888777653
+
+
+No 42
+>2Q3Z_A Transglutaminase 2 (E.C.2.3.2.13); Transglutaminase 2, tissue transglutaminase, TG2; HET: SO4; 2.0A {Homo sapiens} SCOP: b.1.5.1, b.1.18.9, d.3.1.4
+Probab=53.49  E-value=11  Score=46.82  Aligned_cols=72  Identities=7%  Similarity=0.101  Sum_probs=52.9  Template_Neff=8.000
+
+Q LOKIASV2_33920  252 DLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQS--AITV-ASLASAGSIAIEFPSIGDITAGNHQIRVVVDA  325 (1193)
+Q Consensus       252 SPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslVG--S~TV-~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDP  325 (1193)
+                      .+..|+++.+++.++|.+..+ -.++.+.+...|....  .... ..+.||++.++.+.+.+. ..|..++.+..+.
+T Consensus       596 ~~~~G~~~~v~vsf~Npl~~~-L~n~~l~veg~Gl~~~~~~i~l~~~I~PGe~~~~~f~~~p~-~~G~~~lia~f~s  670 (687)
+T 2Q3Z_A          596 EPKQKRKLVAEVSLQNPLPVA-LEGCTFTVEGAGLTEEQKTVEIPDPVEAGEEVKVRMDLVPL-HMGLHKLVVNFES  670 (687)
+T ss_dssp             CCSSSSCEEEEEEEECCSSSC-BCSEEEEEECTTTCSSCEEEEECSCBCTTCEEEEEEEECCC-SSSCEEEEEEEEC
+T ss_pred             CccCCCeEEEEEEEECCCCCc-cccEEEEEEcCCCcccceEEEeCCCcCCCCEEEEEEEEeeC-CCcccEEEEEEEe
+Confidence            466799999999999999887 5556666554443331  2124 558899999999999887 7888877777765
+
+
+No 43
+>5XYR_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: MSE; 2.8A {Streptococcus pyogenes}
+Probab=52.48  E-value=11  Score=50.16  Aligned_cols=52  Identities=17%  Similarity=0.234  Sum_probs=43.2  Template_Neff=9.300
+
+Q LOKIASV2_33920  909 DSAAGTWKLDLNLGQHIT--AENLTVIAQDYAGRKSEVFLTIAIDTTCPTIIEV  960 (1193)
+Q Consensus       909 dnA~GTwKl~Ln~~~dl~--~enLtVtAtD~AGN~S~~~~Ti~iDTTaPtiptv  960 (1193)
+                      ..+.|+|...+.....+.  -+.++++++|.+||.+....++.+|++.|.+...
+T Consensus      1240 ~~~~g~W~~t~~~g~~l~~G~Y~v~~t~td~~gn~~~~~~~v~vd~~~p~~~~~ 1293 (1647)
+T 5XYR_A         1240 AIESTAWYGITARGSKVMPGDYQYVVTYRDEHGKEHQKQYTISVNDKKPMITQG 1293 (1647)
+T ss_dssp             CGGGGCBCSBCTTSCBCCSEEEEEEEEEECSSSCEEEEEEEEEECCCCCCCCCC
+T ss_pred             ccceEeEeeecCCCcccCCeeEEEEEEECCCCCCccceEEEEEeCCCCCeeEee
+Confidence            457789999887765555  6789999999999999988899999999987543
+
+
+No 44
+>4I3G_A Beta-glucosidase; PA14 Domain, beta-glucosidase, Macrolide antibiotic; HET: SO4, EDO, BGC, MPO; 1.4A {Streptomyces venezuelae}
+Probab=52.38  E-value=11  Score=47.34  Aligned_cols=51  Identities=16%  Similarity=0.153  Sum_probs=33.8  Template_Neff=8.300
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY-----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl-----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|+....           .+-..+. |.+|++.+|+|+..
+T Consensus       727 ~~~~~vsv~V~NtG~~~--G~eVVQlYv~~~~~~~~~~p~k~L~gF~kv~-L~pGes~~V~~~~~  788 (829)
+T 4I3G_A          727 TGGLKVTVTVRNSGKRA--GQEVVQAYLGASPNVTAPQAKKKLVGYTKVS-LAAGEAKTVTVNVD  788 (829)
+T ss_dssp             TSCEEEEEEEEECSSSC--EEEEEEEEEECCTTCCSCCCSEEEEEEEEEE-ECTTCEEEEEEEEC
+T ss_pred             CCcEEEEEEEEEecccC--ceEEEEEEEeCCCCCCCccccceeeeeEEEE-ECCCCeEEEEEEEe
+Confidence            47789999999999875  3456777774211           1111223 77888888877654
+
+
+No 45
+>4I3G_B Beta-glucosidase; PA14 Domain, beta-glucosidase, Macrolide antibiotic; HET: SO4, MPO, EDO, BGC; 1.4A {Streptomyces venezuelae}
+Probab=52.38  E-value=11  Score=47.34  Aligned_cols=51  Identities=16%  Similarity=0.153  Sum_probs=33.8  Template_Neff=8.300
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY-----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl-----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|+....           .+-..+. |.+|++.+|+|+..
+T Consensus       727 ~~~~~vsv~V~NtG~~~--G~eVVQlYv~~~~~~~~~~p~k~L~gF~kv~-L~pGes~~V~~~~~  788 (829)
+T 4I3G_B          727 TGGLKVTVTVRNSGKRA--GQEVVQAYLGASPNVTAPQAKKKLVGYTKVS-LAAGEAKTVTVNVD  788 (829)
+T ss_dssp             TSCEEEEEEEEECSSSC--EEEEEEEEEECCTTCCSCCCSEEEEEEEEEE-ECTTCEEEEEEEEC
+T ss_pred             CCcEEEEEEEEEecccC--ceEEEEEEEeCCCCCCCccccceeeeeEEEE-ECCCCeEEEEEEEe
+Confidence            47789999999999875  3456777774211           1111223 77888888877654
+
+
+No 46
+>5A7M_A BETA-XYLOSIDASE (E.C.3.2.1.37); HYDROLASE, GLYCOSIDE HYDROLASE FAMILY 3; HET: NAG, BMA, ZN, TRS, MAN, GOL, PCA; 1.8A {TRICHODERMA REESEI}
+Probab=52.27  E-value=12  Score=47.28  Aligned_cols=53  Identities=19%  Similarity=0.240  Sum_probs=33.3  Template_Neff=7.800
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY---Q--------SAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl---V--------GS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|+....   .        +-..+..|.+|++.+|+|++..
+T Consensus       655 ~~~~~vsv~V~NtG~~~--G~eVvQlY~~~~~~~~~~~p~k~L~gF~kv~~l~pges~~V~~~i~~  718 (766)
+T 5A7M_A          655 IPVFTFEANIKNSGKTE--SPYTAMLFVRTSNAGPAPYPNKWLVGFDRLADIKPGHSSKLSIPIPV  718 (766)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEEEEEEEEEESSSSSSSCCSCEEEEEEEEEEECTTCEEEEEEEEEH
+T ss_pred             CCeEEEEEEEEeecCCC--ccEEEEEEEEcCCCCCCCCCCeeEEeEEEEeeeCCCCEEEEEEEecH
+Confidence            36789999999999875  3457777774321   0        1111213677887777776653
+
+
+No 47
+>5A7M_B BETA-XYLOSIDASE (E.C.3.2.1.37); HYDROLASE, GLYCOSIDE HYDROLASE FAMILY 3; HET: GOL, PCA, BMA, NAG, TRS, MAN, ZN; 1.8A {TRICHODERMA REESEI}
+Probab=52.27  E-value=12  Score=47.28  Aligned_cols=53  Identities=19%  Similarity=0.240  Sum_probs=33.3  Template_Neff=7.800
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY---Q--------SAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl---V--------GS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|+....   .        +-..+..|.+|++.+|+|++..
+T Consensus       655 ~~~~~vsv~V~NtG~~~--G~eVvQlY~~~~~~~~~~~p~k~L~gF~kv~~l~pges~~V~~~i~~  718 (766)
+T 5A7M_B          655 IPVFTFEANIKNSGKTE--SPYTAMLFVRTSNAGPAPYPNKWLVGFDRLADIKPGHSSKLSIPIPV  718 (766)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEEEEEEEEEESSSSSSSCCSCEEEEEEEEEEECTTCEEEEEEEEEH
+T ss_pred             CCeEEEEEEEEeecCCC--ccEEEEEEEEcCCCCCCCCCCeeEEeEEEEeeeCCCCEEEEEEEecH
+Confidence            36789999999999875  3457777774321   0        1111213677887777776653
+
+
+No 48
+>5XYA_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: AES, MSE, SO4; 3.0A {Streptococcus pyogenes}
+Probab=52.24  E-value=12  Score=49.62  Aligned_cols=47  Identities=15%  Similarity=0.122  Sum_probs=31.3  Template_Neff=9.400
+
+Q LOKIASV2_33920  907 FYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVFLTIAIDTTCP  955 (1193)
+Q Consensus       907 ~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~~Ti~iDTTaP  955 (1193)
+                      +...+.|+|.+.........|+.+  .++|++||.+....+..+++..+
+T Consensus      1234 ~~~l~~G~y~l~~~E~~ap~gY~~--~~~d~agn~~~~~~~~~v~~~~~ 1280 (1530)
+T 5XYA_A         1234 IPKNPDGSYTISKRDGVTLSDYYY--LVEDRAGNVSFATLRDLKAVGKD 1280 (1530)
+T ss_dssp             CCBCTTSCEEECCCTTCCGGGEEE--EEEETTCCEEEEETTGGGSSCSS
+T ss_pred             eCCCCCCcEEEeceeccCccCeEE--EEEecCCCeEEeeeeeeeeeCCC
+Confidence            345677888875543333346666  88899999998776666665544
+
+
+No 49
+>4I8D_B Beta-D-glucoside glucohydrolase (E.C.3.2.1.21); beta-glucosidase, Glycoside hydrolase family 3; HET: MAN, NAG, BMA, BGC; 2.48A {Trichoderma reesei}
+Probab=50.86  E-value=13  Score=46.04  Aligned_cols=52  Identities=17%  Similarity=0.210  Sum_probs=33.9  Template_Neff=8.500
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|.....          .+-..+. |.||++.+++|++..
+T Consensus       613 ~~~~~v~v~V~NtG~~~--g~evvqlY~~~~~~~~~~p~k~L~~f~kv~-l~pges~~v~~~i~~  674 (714)
+T 4I8D_B          613 QNVATVTVDIANSGQVT--GAEVAQLYITYPSSAPRTPPKQLRGFAKLN-LTPGQSGTATFNIRR  674 (714)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEEEEEEEEECCTTSCSCCSCEEEEEEEEE-ECTTCEEEEEEEEEG
+T ss_pred             CcEEEEEEEEEeecCCC--ccEEEEEEeeCCCCCCCCCceeEEeEEEEE-eCCCCeEEEEEEecH
+Confidence            46789999999999875  3456777764211          1111223 778888787776653
+
+
+No 50
+>1F13_A CELLULAR COAGULATION FACTOR XIII ZYMOGEN; COAGULATION, TRANSGLUTAMINASE, TRANSFERASE, ACYLTRANSFERASE, BLOOD; 2.1A {Homo sapiens} SCOP: b.1.18.9, b.1.5.1, d.3.1.4
+Probab=50.70  E-value=13  Score=47.04  Aligned_cols=74  Identities=8%  Similarity=-0.024  Sum_probs=53.6  Template_Neff=7.300
+
+Q LOKIASV2_33920  251 TDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQ-SAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDAS  326 (1193)
+Q Consensus       251 TSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslV-GS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDPt  326 (1193)
+                      ..+..|++..+++.+.|.+..+ ..++.+.+.-.|-.. ....+..+.+|++.++.+.+.+. ..|..++.+.++..
+T Consensus       638 ~~~~vg~~~~v~vsf~Npl~~~-Ltn~~l~vEG~Gl~~~~~~~ig~I~pg~s~~~~~~~tP~-~~G~~~l~atf~~~  712 (731)
+T 1F13_A          638 GTQVVGSDMTVTVEFTNPLKET-LRNVWVHLDGPGVTRPMKKMFREIRPNSTVQWEEVCRPW-VSGHRKLIASMSSD  712 (731)
+T ss_dssp             ECCBTTSCEEEEEEEECCSSSC-EEEEEEEEEETTTEEEEEEEEEEECTTCEEEEEEEECCC-CCEEEEEEEEEECS
+T ss_pred             CceeCCCEEEEEEEEECCCCCc-ceeEEEEEECCCcccccEEEecccCCCCEEEEEEEEecC-CCCeeEEEEEEEeC
+Confidence            4556799999999999999887 555555554333222 12334668899999999999887 78888888887763
+
+
+No 51
+>2XZZ_A PROTEIN-GLUTAMINE GAMMA-GLUTAMYLTRANSFERASE K (E.C.2.3.2.13); TRANSFERASE; 2.3A {HOMO SAPIENS}
+Probab=50.57  E-value=13  Score=36.10  Aligned_cols=74  Identities=9%  Similarity=0.099  Sum_probs=50.9  Template_Neff=7.300
+
+Q LOKIASV2_33920  250 TTDLVADEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQ-SAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDA  325 (1193)
+Q Consensus       250 PTSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYVDGslV-GS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDP  325 (1193)
+                      +..+..|+++.+++.+.|....+ -.+..+.+.-.|-.. .......+++|++.+..+.+.+. ..|..++.+..+.
+T Consensus        13 ~~~~~vg~~~~v~vsf~NPl~~~-Lt~c~l~ieG~Gl~~~~~~~~~~i~p~~~~~~~~~~~P~-~~G~~~l~a~f~~   87 (102)
+T 2XZZ_A           13 LGAAVVGQECEVQIVFKNPLPVT-LTNVVFRLEGSGLQRPKILNVGDIGGNETVTLRQSFVPV-RPGPRQLIASLDS   87 (102)
+T ss_dssp             SSCCCSSSCEEEEEEEECCSSSC-BCSEEEEEEETTTEEEEEEEECCBCTTCEEEEEEEECCC-SCSSCCCEEEEEC
+T ss_pred             CCceecCCeEEEEEEEECCCCCc-ceeEEEEEEcCCccCcEEEEeCccCCCCEEEEEEEEeeC-CCcccEEEEEEEC
+Confidence            44567799999999999998765 334444443332211 12234558899999999988887 7898888877765
+
+
+No 52
+>4ZBH_A CONSERVED FLAGELLAR PROTEIN F; IMMUNOGLOBULIN-LIKE BETA-SANDWICH, stator protein, IMMUNE; 1.5A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=50.42  E-value=13  Score=38.72  Aligned_cols=14  Identities=21%  Similarity=0.399  Sum_probs=10.8  Template_Neff=6.600
+
+Q LOKIASV2_33920  259 AVFSAQIENVGGLG  272 (1193)
+Q Consensus       259 VTFTVTVKNQGSSg  272 (1193)
+                      ..+.+.|+|.|...
+T Consensus        45 ~~l~i~VkNtGst~   58 (146)
+T 4ZBH_A           45 STLNVVLENNGSTN   58 (146)
+T ss_dssp             TEEEEEEEECSSSC
+T ss_pred             CEEEEEEEeCCCcc
+Confidence            56788888988764
+
+
+No 53
+>5TUG_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: EDO, PEG, IMD; 2.47A {Sulfolobus acidocaldarius}
+Probab=50.42  E-value=13  Score=38.72  Aligned_cols=14  Identities=21%  Similarity=0.399  Sum_probs=10.8  Template_Neff=6.600
+
+Q LOKIASV2_33920  259 AVFSAQIENVGGLG  272 (1193)
+Q Consensus       259 VTFTVTVKNQGSSg  272 (1193)
+                      ..+.+.|+|.|...
+T Consensus        45 ~~l~i~VkNtGst~   58 (146)
+T 5TUG_D           45 STLNVVLENNGSTN   58 (146)
+T ss_dssp             TEEEEEEEECSSSC
+T ss_pred             CEEEEEEEeCCCcc
+Confidence            56788888988764
+
+
+No 54
+>6PBK_D Flagellar biosynthesis protein FlaG, Flagellar; beta-sandwich fold Archaellum assembly subunit; HET: PEG, IMD; 2.805A {Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)}
+Probab=50.42  E-value=13  Score=38.72  Aligned_cols=14  Identities=21%  Similarity=0.399  Sum_probs=10.8  Template_Neff=6.600
+
+Q LOKIASV2_33920  259 AVFSAQIENVGGLG  272 (1193)
+Q Consensus       259 VTFTVTVKNQGSSg  272 (1193)
+                      ..+.+.|+|.|...
+T Consensus        45 ~~l~i~VkNtGst~   58 (146)
+T 6PBK_D           45 STLNVVLENNGSTN   58 (146)
+T ss_dssp             TEEEEEEEECSSSC
+T ss_pred             CEEEEEEEeCCCcc
+Confidence            56788888988764
+
+
+No 55
+>5FJJ_C BETA-GLUCOSIDASE (E.C.3.2.1.21); HYDROLASE, N-GLYCOSYLATION, GLUCOSIDASE; HET: BMA, PEG, MAN, NAG; 1.95A {ASPERGILLUS ORYZAE}
+Probab=49.12  E-value=14  Score=47.36  Aligned_cols=51  Identities=14%  Similarity=0.146  Sum_probs=32.5  Template_Neff=7.400
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY--------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl--------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ...+.|++.|+|.|..+  +.-.|++|+.-..        .+-..+. |.+|++.+++++..
+T Consensus       742 ~~~~~vsv~v~N~G~~~--g~evvqlY~~~~~~~~p~~~L~gf~kv~-l~pge~~~v~~~~~  800 (842)
+T 5FJJ_C          742 EDLFRVSVKVKNTGNVA--GDEVPQLYVSLGGPNEPKVVLRKFERIH-LAPSQEAVWTTTLT  800 (842)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEECCEEEEECCSTTSCSCEEEEECCEE-ECTTCEEEEEEEEE
+T ss_pred             CceEEEEEEEEecCCCC--ceEeeEEEeecCCCCCccceEeeEEEEE-eCCCCEEEEEEEEe
+Confidence            46789999999999875  3456777774211        1112233 67787777766554
+
+
+No 56
+>4P99_C MpAFP_RII tetra-tandemer; Ca2+-dependent, bacterial Ig-like fold, ice-binding; HET: BOG, EDO, CA; 1.8A {Marinomonas primoryensis}
+Probab=48.93  E-value=14  Score=40.80  Aligned_cols=58  Identities=26%  Similarity=0.329  Sum_probs=39.5  Template_Neff=10.500
+
+Q LOKIASV2_33920  899 VQNQTYPCFYDSAAGTWKLDLNLGQHI--TAENLTVIAQDYAGRKSEV--FLTIAIDTTCPTI  957 (1193)
+Q Consensus       899 vnn~TY~~~~dnA~GTwKl~Ln~~~dl--~~enLtVtAtD~AGN~S~~--~~Ti~iDTTaPti  957 (1193)
+                      .++..+ +...+.+|+|.+.+.....+  +..+++++++|.+||.+..  ..+..+|+++|..
+T Consensus        70 ~~~~~~-~~~~~~~g~~s~~~~~~~~~~~~~~~~~v~~tD~~G~~~~~~~~~~~~~d~~~p~~  131 (437)
+T 4P99_C           70 INGETY-TTTVDANGEWSVDVAGSDLAADTAFDAVVTSSDAAGNTVDTTGSSTHTVDTEATAG  131 (437)
+T ss_dssp             ETTEEE-EEECCTTSEEEEEEEHHHHHHCCEEEEEEEEECTTCCEEEEEEEEECEECCCCCCC
+T ss_pred             ECCEEE-EEEECCCCeEEEEeeHHHhhcCCcEEEEEEEEcCCCCeeEeecceeEEeeccCCCC
+Confidence            344433 34456789999988754322  3568899999999999764  3456778777743
+
+
+No 57
+>4OLE_A Next to BRCA1 gene 1; Ig-like domain from next to; HET: EDO, SO4; 2.52A {Homo sapiens}
+Probab=48.80  E-value=14  Score=35.61  Aligned_cols=72  Identities=10%  Similarity=0.060  Sum_probs=43.8  Template_Neff=8.600
+
+Q LOKIASV2_33920  252 DLVADEPAVFSAQIENVGGLGTT-DPFIVELYLDDQYQ-----SAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVD  324 (1193)
+Q Consensus       252 SPsVGDTVTFTVTVKNQGSSgAS-g~F~VdLYVDGslV-----GS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVD  324 (1193)
+                      ...+|+.+.+.++|+|.|... = ..+.+.+..+....     .......+.||+..++.+.+.++..+|.|.....+-
+T Consensus        22 ~v~~g~~f~~~w~vkNtG~~~-W~~~~~l~~~~g~~~~~~~~~~~~~~~~v~Pg~~~~~~~~l~aP~~~G~y~~~~~l~   99 (122)
+T 4OLE_A           22 HLQPGTKFIKHWRMKNTGNVK-WSADTKLKFMWGNLTLASTEKKDVLVPCLKAGHVGVVSVEFIAPALEGTYTSHWRLS   99 (122)
+T ss_dssp             EECTTCEEEEEEEEEECSSSC-CCTTEEEEEEEESCEESSCHHHHEECCCCCTTCEEEEEEEEECCSSCEEEEEEEEEE
+T ss_pred             eeCCCCEEEEEEEEEecCCCC-CCCCeEEEEcccCCCccCCCCcEEeCCCcCCCCEEEEEEEEECCCCCeEEEEEEEEc
+Confidence            556789999999999999753 1 12233222111111     112234578899888888876543578877666553
+
+
+No 58
+>4OLE_B Next to BRCA1 gene 1; Ig-like domain from next to; HET: MSE, SO4, EDO; 2.52A {Homo sapiens}
+Probab=48.80  E-value=14  Score=35.61  Aligned_cols=72  Identities=10%  Similarity=0.060  Sum_probs=43.8  Template_Neff=8.600
+
+Q LOKIASV2_33920  252 DLVADEPAVFSAQIENVGGLGTT-DPFIVELYLDDQYQ-----SAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVD  324 (1193)
+Q Consensus       252 SPsVGDTVTFTVTVKNQGSSgAS-g~F~VdLYVDGslV-----GS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVD  324 (1193)
+                      ...+|+.+.+.++|+|.|... = ..+.+.+..+....     .......+.||+..++.+.+.++..+|.|.....+-
+T Consensus        22 ~v~~g~~f~~~w~vkNtG~~~-W~~~~~l~~~~g~~~~~~~~~~~~~~~~v~Pg~~~~~~~~l~aP~~~G~y~~~~~l~   99 (122)
+T 4OLE_B           22 HLQPGTKFIKHWRMKNTGNVK-WSADTKLKFMWGNLTLASTEKKDVLVPCLKAGHVGVVSVEFIAPALEGTYTSHWRLS   99 (122)
+T ss_dssp             EECTTCEEEEEEEEEECSSSC-CCTTEEEEEEEESCEESSCHHHHEECCCCCTTCEEEEEEEEECCSSCEEEEEEEEEE
+T ss_pred             eeCCCCEEEEEEEEEecCCCC-CCCCeEEEEcccCCCccCCCCcEEeCCCcCCCCEEEEEEEEECCCCCeEEEEEEEEc
+Confidence            556789999999999999753 1 12233222111111     112234578899888888876543578877666553
+
+
+No 59
+>5YOT_B Glycoside hydrolase family 3 domain; Metagenome, Glycoside hydrolase family 3; HET: GOL, NAG; 1.98A {Aspergillus oryzae RIB40}
+Probab=48.50  E-value=15  Score=45.99  Aligned_cols=52  Identities=15%  Similarity=0.278  Sum_probs=32.2  Template_Neff=8.400
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVG-GLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQG-SSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      .++.++|++.|+|.| ..+  +.-.|++|.....          .+-..+ .|.||++.+++++..
+T Consensus       655 ~~~~~~v~v~V~NtG~~~~--g~evvqlY~~~~~~~~~~p~k~L~gf~kv-~l~pge~~~v~~~~~  717 (765)
+T 5YOT_B          655 EADTVTVSVDVKNTDATRE--GTEVVQVYVVDEVASVVVPNRLLKGFKKV-VIPAGQTKTVEIPLK  717 (765)
+T ss_dssp             TTCEEEEEEEEEECCSSCC--EEEEEEEEEEECSCSSCCBSCEEEEEEEE-EECTTCEEEEEEEEE
+T ss_pred             CCCeEEEEEEEEeCCCCCc--ceEEEEEEEecCCCCCcccHHHheeeEEE-EeCCCCeEEEEEEeC
+Confidence            356789999999999 443  3456777765221          111122 267787777777654
+
+
+No 60
+>5YQS_A Isoprimeverose-producing enzyme complexed with isoprimeverose; Glycoside hydrolase family 3, HYDROLASE; HET: NAG, GLC, BGC, XYS; 2.4A {Aspergillus oryzae RIB40}
+Probab=48.50  E-value=15  Score=45.99  Aligned_cols=52  Identities=15%  Similarity=0.278  Sum_probs=32.2  Template_Neff=8.400
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVG-GLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQG-SSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      .++.++|++.|+|.| ..+  +.-.|++|.....          .+-..+ .|.||++.+++++..
+T Consensus       655 ~~~~~~v~v~V~NtG~~~~--g~evvqlY~~~~~~~~~~p~k~L~gf~kv-~l~pge~~~v~~~~~  717 (765)
+T 5YQS_A          655 EADTVTVSVDVKNTDATRE--GTEVVQVYVVDEVASVVVPNRLLKGFKKV-VIPAGQTKTVEIPLK  717 (765)
+T ss_dssp             TTCEEEEEEEEEECCSSCC--EEEEEEEEEEECSCSSCCBSCEEEEEEEE-EECTTCEEEEEEEEE
+T ss_pred             CCCeEEEEEEEEeCCCCCc--ceEEEEEEEecCCCCCcccHHHheeeEEE-EeCCCCeEEEEEEeC
+Confidence            356789999999999 443  3456777765221          111122 267787777777654
+
+
+No 61
+>6KJ0_A Beta-D-xylosidase/beta-D-glucosidase; glycoside hydrolases, xylosidases, bifunctional, HYDROLASE; HET: MAN, NAG, XYP, BMA, BKR; 2.27A {Lentinula edodes}
+Probab=47.55  E-value=15  Score=46.48  Aligned_cols=52  Identities=21%  Similarity=0.233  Sum_probs=33.2  Template_Neff=7.900
+
+Q LOKIASV2_33920  257 EPAVFSAQIENVGGLGTTDPFIVELYLDDQY--------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       257 DTVTFTVTVKNQGSSgASg~F~VdLYVDGsl--------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ..++|+++|+|.|..+  +.-.|++|+....        .+-..+..|.+|++.+|+|+...
+T Consensus       705 ~~~~v~v~V~NtG~~~--g~evvqlY~~~~~~~~p~k~L~gF~kv~~l~pGes~~v~~~l~~  764 (809)
+T 6KJ0_A          705 VIFTVFATITNTGNLT--GSEVAQLYISIPGDNQPVRQLRGFDKIKDLPVGDSAVVTFPIRR  764 (809)
+T ss_dssp             EEEEEEEEEEECSSSC--EEEEEEEEEECCSSSCCSCEEEEEEEEEEECTTCEEEEEEEEES
+T ss_pred             eEEEEEEEEEeeCCCC--ceEEEEEEecCCCCCChhheeeceEEEEecCCCCEEEEEEEecH
+Confidence            5678999999999875  3456777774321        11112223678888888776653
+
+
+No 62
+>3ZZ1_A BETA-D-GLUCOSIDE GLUCOHYDROLASE (E.C.3.2.1.21); HYDROLASE; HET: NAG; 2.1A {HYPOCREA JECORINA}
+Probab=47.13  E-value=16  Score=45.34  Aligned_cols=52  Identities=17%  Similarity=0.210  Sum_probs=33.7  Template_Neff=8.400
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.++|+++|+|.|..+  +.-.|++|.....          .+-..+. |.||++.+++|+...
+T Consensus       612 ~~~~~v~v~V~NtG~~~--g~evvqlY~~~~~~~~~~p~k~L~~f~kv~-l~pges~~v~~~i~~  673 (713)
+T 3ZZ1_A          612 QNVATVTVDIANSGQVT--GAEVAQLYITYPSSAPRTPPKQLRGFAKLN-LTPGQSGTATFNIRR  673 (713)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEEEEEEEEECCTTSSSCCSCEEEEEEEEE-ECTTCEEEEEEEEEG
+T ss_pred             CcEEEEEEEEEeecCCC--ccEEEEEEEecCCCCCCCCcceEEeEEEEE-eCCCCEEEEEEEEeH
+Confidence            46789999999999875  3456777775211          1111223 778888777776653
+
+
+No 63
+>5Z9S_A beta-Glucosidase; Saponins, glucosidase, biotransformation, Bifidobacterium longum; HET: BGC; 2.3A {Escherichia coli 'BL21-Gold(DE3)pLysS AG'}
+Probab=47.10  E-value=16  Score=46.15  Aligned_cols=51  Identities=18%  Similarity=0.232  Sum_probs=32.9  Template_Neff=8.100
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|++.|+|.|..+  +.-.|++|.....          .+-..+ .|.+|++.+|+|+..
+T Consensus       687 ~~~~~v~v~V~N~G~~~--g~evvqlY~~~~~~~~~~p~k~L~~F~kv-~l~~ges~~v~~~l~  747 (796)
+T 5Z9S_A          687 TDTVHAEITLTNTGERA--GVEIVQAYIGDIVTSYSWTDRELKAFQRV-ALEPGETKTVAFEIP  747 (796)
+T ss_dssp             TCEEEEEEEEEECSSSC--EEEEEEEEEEESSCSSCCBSCEEEEEEEE-EECTTCEEEEEEEEE
+T ss_pred             CCeEEEEEEEEeccccC--cEEEEEEEeCCcCCCCCCCHHHeeEEEEE-EeCCCCeEEEEEEee
+Confidence            46789999999999875  3446677764211          111122 267888877777665
+
+
+No 64
+>6Q7I_A Exo-1,4-beta-xylosidase xlnD (E.C.3.2.1.37); HYDROLASE; HET: BMA, GOL, EDO, PCA, NAG, MAN; 1.48A {Emericella nidulans}
+Probab=45.07  E-value=18  Score=45.80  Aligned_cols=52  Identities=15%  Similarity=0.255  Sum_probs=32.6  Template_Neff=7.900
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.+.++++|+|.|..+  +.-.|++|+....          .+-..+..|.+|++.+|+++..
+T Consensus       654 ~~~~~vsv~V~NtG~~~--G~eVvQlY~~~~~~~~~~p~k~L~gF~kv~~l~pGes~~V~~~i~  715 (785)
+T 6Q7I_A          654 KTLLNFTATVKNTGERE--SDYTALVYVNTTAGPAPYPKKWVVGFDRLGGLEPGDSQTLTVPVT  715 (785)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEEEEEEEEEESCSSSSCCSCEEEEEEEEEEECTTCEEEEEEEEE
+T ss_pred             CCEEEEEEEEEecCCCC--eEEEEEEEEEcCCCCCCCCcEEEEeeEEEccCCCCCeEEEEEEec
+Confidence            46789999999999875  3456777764221          1111221367787777777654
+
+
+No 65
+>6Q7I_B Exo-1,4-beta-xylosidase xlnD (E.C.3.2.1.37); HYDROLASE; HET: NAG, BMA, EDO, MAN, GOL, PCA; 1.48A {Emericella nidulans}
+Probab=45.07  E-value=18  Score=45.80  Aligned_cols=52  Identities=15%  Similarity=0.255  Sum_probs=32.6  Template_Neff=7.900
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.+.++++|+|.|..+  +.-.|++|+....          .+-..+..|.+|++.+|+++..
+T Consensus       654 ~~~~~vsv~V~NtG~~~--G~eVvQlY~~~~~~~~~~p~k~L~gF~kv~~l~pGes~~V~~~i~  715 (785)
+T 6Q7I_B          654 KTLLNFTATVKNTGERE--SDYTALVYVNTTAGPAPYPKKWVVGFDRLGGLEPGDSQTLTVPVT  715 (785)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEEEEEEEEEECCSSSSCCSCEEEEEEEEEEECTTCEEEEEEEEE
+T ss_pred             CCEEEEEEEEEecCCCC--eEEEEEEEEEcCCCCCCCCcEEEEeeEEEccCCCCCeEEEEEEec
+Confidence            46789999999999875  3456777764221          1111221367787777777654
+
+
+No 66
+>4IIB_B Beta-glucosidase 1 (E.C.3.2.1.21); TIM barrel, Hydrolase, High-mannose N-glycosylations; HET: MRD, NAG, BMA, MAN; 1.8A {Aspergillus aculeatus}
+Probab=44.60  E-value=18  Score=46.39  Aligned_cols=51  Identities=16%  Similarity=0.133  Sum_probs=31.8  Template_Neff=7.400
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQYQ--------SAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGslV--------GS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      .+.+.|+++|+|.|..+  +.-.|++|+.....        +-..+. +.+|++.+++++..
+T Consensus       741 ~~~~~v~v~v~Ntg~~~--g~evvqly~~~~~~~~p~~~L~~f~kv~-l~~g~~~~v~~~~~  799 (841)
+T 4IIB_B          741 DELIRVSVTVKNTGRVA--GDAVPQLYVSLGGPNEPKVVLRKFDRLT-LKPSEETVWTTTLT  799 (841)
+T ss_dssp             CEEEEEEEEEEECSSSC--EEECCEEEEECCSTTSCSCEEEEECCEE-ECTTCEEEEEEEEE
+T ss_pred             CceEEEEEEEEEeCCCC--CeEEEEEEEeeCCCCCCceeEeeEEEEE-eCCCCeEEEEEEEe
+Confidence            46789999999999864  34567777752211        111222 56777766666554
+
+
+No 67
+>2YN3_C PUTATIVE INNER MEMBRANE PROTEIN; MEMBRANE PROTEIN, BIG-DOMAINS ADHESIN; HET: MSE, CA; 2.12A {SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHIMURIUM}
+Probab=43.92  E-value=19  Score=37.41  Aligned_cols=43  Identities=21%  Similarity=0.312  Sum_probs=29.0  Template_Neff=10.600
+
+Q LOKIASV2_33920  913 GTWKLDLNLGQHITAENLTVIAQDYAGRKSEV-FLTIAIDTTCP  955 (1193)
+Q Consensus       913 GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~-~~Ti~iDTTaP  955 (1193)
+                      |.|.+.+.........++++.++|.+||.+.. ..+..+|+++|
+T Consensus       243 ~~~~~~~~~~~~~g~~~~~~~~~d~~g~~~~~~~~~~~vd~~~~  286 (288)
+T 2YN3_C          243 DGWTFTPPAAWNDGNYTLSVTVVDRAGNSQQSASLAVTVDSTVT  286 (288)
+T ss_dssp             TEEEECCSSCCCSEEEEEEEEEEETTCCEEECCCEEEEECCCCC
+T ss_pred             CeEEEeCCcccCCceEEEEEEEEcCCCCCccccceEEEEecccC
+Confidence            44988775431112347888999999998743 34567787777
+
+
+No 68
+>2YN5_A PUTATIVE INNER MEMBRANE PROTEIN; MEMBRANE PROTEIN, BIG-DOMAINS ADHESIN; 1.85A {SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHIMURIUM}
+Probab=43.92  E-value=19  Score=37.41  Aligned_cols=43  Identities=21%  Similarity=0.312  Sum_probs=26.8  Template_Neff=10.600
+
+Q LOKIASV2_33920  913 GTWKLDLNLGQHITAENLTVIAQDYAGRKSEV-FLTIAIDTTCP  955 (1193)
+Q Consensus       913 GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~-~~Ti~iDTTaP  955 (1193)
+                      |.|.+.+.........++++.++|.+||.+.. ..+..+|+++|
+T Consensus       243 ~~~~~~~~~~~~~g~~~~~~~~~d~~g~~~~~~~~~~~vd~~~~  286 (288)
+T 2YN5_A          243 DGWTFTPPAAWNDGNYTLSVTVVDRAGNSQQSASLAVTVDSTVT  286 (288)
+T ss_dssp             TEEEECCSSCCCSEEEEEEEEEEETTCCEEECCCEEEEECC---
+T ss_pred             CeEEEeCCcccCCceEEEEEEEEcCCCCCccccceEEEEecccC
+Confidence            44988775431112347888999999998743 34567787777
+
+
+No 69
+>6SZ6_A PROTEIN; Cellulose degradation, thermophilic fungus, biofuel; HET: NAG, MAN, BMA, BGC; 2.988A {Chaetomium thermophilum}
+Probab=43.61  E-value=19  Score=46.02  Aligned_cols=50  Identities=18%  Similarity=0.176  Sum_probs=31.6  Template_Neff=7.600
+
+Q LOKIASV2_33920  257 EPAVFSAQIENVGGLGTTDPFIVELYLDDQYQ--------SAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       257 DTVTFTVTVKNQGSSgASg~F~VdLYVDGslV--------GS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ..++|+++|+|.|..+  +.-.|++|+.....        +-..+. +.+|++.+++++..
+T Consensus       740 ~~~~vsv~V~NtG~~~--g~evvQly~~~~~~~~p~~~L~gF~kv~-l~pges~~v~~~l~  797 (836)
+T 6SZ6_A          740 VLYTVTADITNTGALE--GDEVVQLYVSLGGPDDPKVMLRDFARLH-IKPGETVKFEGKLT  797 (836)
+T ss_dssp             EEEEEEEEEEECSSSC--EEEEEEEEEECCCTTSCSCEEEEEEEEE-ECTTCEEEEEEEEE
+T ss_pred             eEEEEEEEEEEeCCCC--CeEEEEEEeecCCCCCcceeeeeEEEEE-eCCCCeEEEEEEEc
+Confidence            4689999999999865  34567787753211        111222 66777777666554
+
+
+No 70
+>3U48_A JMB19063; TIM Barrel, beta-d-glucosidase, Hydrolase; HET: BGC; 2.2A {compost metagenome}
+Probab=42.57  E-value=21  Score=44.90  Aligned_cols=53  Identities=21%  Similarity=0.288  Sum_probs=33.5  Template_Neff=8.300
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      .++.+++++.|+|.|..+  ..-.|++|+....          .+-..+ .|.||++.++++++..
+T Consensus       636 ~~~~~~v~v~V~NtG~~~--g~evVqlY~~~~~~~~~~p~~~L~~f~kv-~l~pge~~~v~~~~~~  698 (775)
+T 3U48_A          636 GNQTLTASIELTNSGDYD--GAEVVQLYIRDLVGSTTRPVKELKGFQKV-FLKKGETKTITFKITP  698 (775)
+T ss_dssp             SSCCEEEEEEEEECSSSC--EEEEEEEEEEECCCSSCCCSCEEEEEEEE-EECTTCEEEEEEEECG
+T ss_pred             CCCEEEEEEEEEecccCC--ceEEEEEeecCCCCCCCCcceeeeeEEEE-eeCCCCeEEEEEEeCH
+Confidence            357889999999999865  3456777764211          111122 2677887777776653
+
+
+No 71
+>5VHV_A alkylpurine DNA glycosylase AlkC/DNA Complex; DNA alkylation repair enzyme, HYDROLASE-DNA; HET: GOL, MES, NRI, 9B4; 1.799A {Pseudomonas fluorescens}
+Probab=41.24  E-value=22  Score=41.65  Aligned_cols=83  Identities=13%  Similarity=0.164  Sum_probs=45.5  Template_Neff=7.000
+
+Q LOKIASV2_33920  241 DLTCTDV-WNTTDLVADEPAVFSAQIENVGGLGTTDPFIVELYL-----DDQYQSA---ITVASLASAGSIAIEFP--SI  309 (1193)
+Q Consensus       241 DLVVTdI-WSPTSPsVGDTVTFTVTVKNQGSSgASg~F~VdLYV-----DGslVGS---~TV~SLAAGGStTVSFt--SI  309 (1193)
+                      .+.+..+ ..+..+..|+.+++++.+.|.+..+  ..+.|...+     +|.....   -.-..+++|+...++-.  +.
+T Consensus       252 ~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~--~~~~idy~i~~~k~ng~~~~kvfk~~~~~~~~~~~~~~~k~~~~~  329 (361)
+T 5VHV_A          252 EVKIHHLMVTPAVINLGERINLSFTLESTAPAP--QKLVVDYAIDYVKSTGHGAAKVFKLKAFSLGAGAQQHIRREQHIR  329 (361)
+T ss_dssp             CEEEEEEEEESSEECTTCEEEEEEEEEECSSSC--EEEEEEEEEECBCSSSBCCCEEEEEEEEEECTTCEEEEEEEEECC
+T ss_pred             CeEEEEeEEeCCeeecCCeEEEEEEEEeCCCCC--eEEEEEEEEEEEcCCCCccceeEEEEEEEeCCCCeEEEEEeEece
+Confidence            4444433 1466788899999999999988665  234444332     2332110   01123566665444322  21
+
+
+Q LOKIASV2_33920  310 GDI----TAGNHQIRVVVDA  325 (1193)
+Q Consensus       310 wtL----TAGSHTIKAVVDP  325 (1193)
+                      ...    -+|.|.+.+.|+.
+T Consensus       330 ~~ttr~~y~G~h~~~~~vNG  349 (361)
+T 5VHV_A          330 DMTTRKHYPGRHVVHVLVNG  349 (361)
+T ss_dssp             CBTTBCCCSEEEEEEEEETT
+T ss_pred             eCceeeeeCceeEEEEEECC
+Confidence            110    3788888777754
+
+
+No 72
+>3PE9_A Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; HET: IOD; 1.69A {Clostridium thermocellum}
+Probab=41.08  E-value=23  Score=32.35  Aligned_cols=37  Identities=22%  Similarity=0.304  Sum_probs=19.7  Template_Neff=9.300
+
+Q LOKIASV2_33920  278 IVELYLDDQYQSAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVD  324 (1193)
+Q Consensus       278 ~VdLYVDGslVGS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVD  324 (1193)
+                      .++++.++..++...        .....+.|...  .|.+++++++-
+T Consensus        34 ~v~~~i~g~~~~~~~--------~~~~~~~~~~~--~G~~~l~~~a~   70 (98)
+T 3PE9_A           34 RVDFLVDGEVIGSDR--------EAPYEYEWKAV--EGNHEISVIAY   70 (98)
+T ss_dssp             EEEEEETTEEEEEEC--------SSSEEEEEECC--SEEEEEEEEEE
+T ss_pred             EEEEEECCEEEeeeC--------CCCEEEEEecC--CEEEEEEEEEE
+Confidence            567777765543211        01234455443  67888776653
+
+
+No 73
+>6JBS_A Beta-D-xylosidase/beta-D-glucosidase; glycoside hydrolases, xylosidases, bifunctional, HYDROLASE; HET: NAG, BMA, MAN, TRS; 2.4A {Lentinula edodes}
+Probab=40.64  E-value=23  Score=45.02  Aligned_cols=52  Identities=21%  Similarity=0.233  Sum_probs=32.7  Template_Neff=7.900
+
+Q LOKIASV2_33920  257 EPAVFSAQIENVGGLGTTDPFIVELYLDDQY--------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       257 DTVTFTVTVKNQGSSgASg~F~VdLYVDGsl--------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ..++|+++|+|.|..+  +.-.|++|+....        .+-..+..|.+|++.+++|+...
+T Consensus       705 ~~~~vsv~V~NtG~~~--g~evvqlY~~~~~~~~p~k~L~gF~kv~~l~pGes~~v~~~l~~  764 (809)
+T 6JBS_A          705 VIFTVFATITNTGNLT--GSEVAQLYISIPGDNQPVRQLRGFDKIKDLPVGDSAVVTFPIRR  764 (809)
+T ss_dssp             EEEEEEEEEEECSSSC--EEEEEEEEEECCSTTCCSCEEEEEEEEEEECTTCEEEEEEEEET
+T ss_pred             eEEEEEEEEEEcCCCC--ceEEEEEEecCCCCCChhheecceEEEEecCCCCEEEEEEEEcH
+Confidence            5678999999999875  3456777775321        11112212677877777776653
+
+
+No 74
+>6JBS_D Beta-D-xylosidase/beta-D-glucosidase; glycoside hydrolases, xylosidases, bifunctional, HYDROLASE; HET: NAG, BMA, MAN, TRS; 2.4A {Lentinula edodes}
+Probab=40.64  E-value=23  Score=45.02  Aligned_cols=52  Identities=21%  Similarity=0.233  Sum_probs=32.7  Template_Neff=7.900
+
+Q LOKIASV2_33920  257 EPAVFSAQIENVGGLGTTDPFIVELYLDDQY--------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       257 DTVTFTVTVKNQGSSgASg~F~VdLYVDGsl--------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ..++|+++|+|.|..+  +.-.|++|+....        .+-..+..|.+|++.+++|+...
+T Consensus       705 ~~~~vsv~V~NtG~~~--g~evvqlY~~~~~~~~p~k~L~gF~kv~~l~pGes~~v~~~l~~  764 (809)
+T 6JBS_D          705 VIFTVFATITNTGNLT--GSEVAQLYISIPGDNQPVRQLRGFDKIKDLPVGDSAVVTFPIRR  764 (809)
+T ss_dssp             EEEEEEEEEEECSSSC--EEEEEEEEEECCSTTCCSCEEEEEEEEEEECTTCEEEEEEEEES
+T ss_pred             eEEEEEEEEEEcCCCC--ceEEEEEEecCCCCCChhheecceEEEEecCCCCEEEEEEEEcH
+Confidence            5678999999999875  3456777775321        11112212677877777776653
+
+
+No 75
+>5JU6_B Beta-glucosidase (E.C.3.2.1.21); Beta-glucosidase, Glycoprotein, hydrolase; HET: MAN, NAG, GLC, BMA, BGC; 2.2A {Talaromyces emersonii}
+Probab=40.47  E-value=23  Score=45.54  Aligned_cols=51  Identities=16%  Similarity=0.105  Sum_probs=32.4  Template_Neff=7.500
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY--------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl--------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      +..+.|+++|+|.|..+  +.-.|++|+....        .+-..+. |.+|++.+|+++..
+T Consensus       755 ~~~~~vsv~V~NtG~~~--g~evvQlY~~~~~~~~p~k~L~gF~kv~-l~pge~~~v~~~i~  813 (857)
+T 5JU6_B          755 EPVARVTTIITNTGKVT--GDEVPQLYVSLGGPDDAPKVLRGFDRIT-LAPGQQYLWTTTLT  813 (857)
+T ss_dssp             CEEEEEEEEEEECSSSC--EEECCEEEEECCSSSSCSCEEEEECCEE-ECTTCEEEEEEEEE
+T ss_pred             CCEEEEEEEEEecCCCC--CeEEEEEEEEcCCCCCccceeeecEEEE-eCCCCEEEEEEEEe
+Confidence            35689999999999764  3456777775321        1111222 67788777777654
+
+
+No 76
+>4KDW_A MpAFP_RII monomer; Bacterial Ig-like domain, extender domain; 1.35A {Marinomonas primoryensis}
+Probab=39.80  E-value=24  Score=34.25  Aligned_cols=102  Identities=23%  Similarity=0.279  Sum_probs=43.9  Template_Neff=8.500
+
+Q LOKIASV2_33920  838 HGTAGSNPTLEWDQTAPQLTEADISLTPAYSGGDTDYVVGLTPHFEISPS--D-DIGLHKVSVRVQNQTYPCFYDSAAGT  914 (1193)
+Q Consensus       838 ~gt~~s~PTL~~DqT~Pqln~nDI~lt~~~~~~~t~Y~~~~t~t~e~~Ps--D-diG~~kI~v~vnn~TY~~~~dnA~GT  914 (1193)
+                      |-+++-.|++.-|.+.|.++...+.-........    ...++.+.....  + ..| ..+.+.+++..+. ...++.|+
+T Consensus         9 ~~~~~~~~~~~~~~~~~~i~v~~~~~~~~~~~~~----~~~~~~ltg~~~~~~~~~g-~~v~~~~~g~~~~-~~~~~~g~   82 (123)
+T 4KDW_A            9 HHSSGLVPRGSTEATAGTVTVNAITSDDVINASE----AAGTVAVSGTATGGDIAEG-DTVTLEINGETYT-TTVDANGE   82 (123)
+T ss_dssp             -------------CCCCEEEECCSSTTSEECHHH----HTSEEEEEEEEESTTCCTT-CEEEEEETTEEEE-EECCTTSE
+T ss_pred             cccCCCCCcceeecCCCeeEeccCCCCCeecHhH----hcCceEEEEEEcCCCCCCC-CEEEEEECCEEEE-EEECCCCe
+Confidence            4566677888888888877644332211100000    001222322210  0 011 2334444444443 33466788
+
+
+Q LOKIASV2_33920  915 WKLDLNLGQ--HITAENLTVIAQDYAGRKSEVF  945 (1193)
+Q Consensus       915 wKl~Ln~~~--dl~~enLtVtAtD~AGN~S~~~  945 (1193)
+                      |.+.++...  .....++++.++|.+||.+...
+T Consensus        83 ~t~~~~~~~~~~~g~~~vtv~~td~~Gn~~~~~  115 (123)
+T 4KDW_A           83 WSVDVAGSDLAADTAFDAVVTSSDAAGNTVDTT  115 (123)
+T ss_dssp             EEEEEEHHHHHHCCEEEEEEEEECTTCCEEEEE
+T ss_pred             EEEEeehhhhccCCeEEEEEEEEcCCCCeeecc
+Confidence            998876432  2235678899999999988654
+
+
+No 77
+>5Z87_A EmGH1; EmGH1, Glucoside hydrolase, Erythrobacter marinus; HET: EDO, DTT, PEG, GOL; 2.3A {Erythrobacter marinus}
+Probab=39.05  E-value=25  Score=44.15  Aligned_cols=51  Identities=20%  Similarity=0.274  Sum_probs=30.9  Template_Neff=8.400
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.++|++.|+|+|..+  +.-.|++|.....          .+-..+ .+.+|++.+++|+..
+T Consensus       686 ~~~~~v~v~V~NtG~~~--G~evvqlY~~~~~~~~~~p~k~L~gF~kv-~l~~Ge~~~v~~~~~  746 (785)
+T 5Z87_A          686 QDRLRVSVSVRNTGDRA--GQDVVQLYIRDSIASRARPIKEMRGFQKV-LLEPGEVQVVQFELG  746 (785)
+T ss_dssp             TCCEEEEEEEEECSSSC--EEEEEEEEEEESSCSSCCCSCEEEEEEEE-EECTTCEEEEEEEEC
+T ss_pred             CCeEEEEEEEEECCCCC--cEEEEEEEEeCCCcCCCCCceEEeeEEEE-EeCCCCeEEEEEEEC
+Confidence            46789999999999765  2345666654221          111112 266777777766554
+
+
+No 78
+>3U4A_B JMB19063; TIM Barrel, 3-beta-glucosidase, hydrolase; HET: CBI, BGC; 2.196A {compost metagenome}
+Probab=38.58  E-value=26  Score=44.06  Aligned_cols=53  Identities=21%  Similarity=0.288  Sum_probs=33.3  Template_Neff=8.300
+
+Q LOKIASV2_33920  255 ADEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       255 VGDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      .++.+++++.|+|.|..+  ..-.|++|+....          .+-..+ .|.||++.+++|+...
+T Consensus       636 ~~~~~~v~v~v~NtG~~~--g~evVq~Y~~~~~~~~~~p~~~L~gF~kv-~l~pges~~v~~~~~~  698 (775)
+T 3U4A_B          636 GNQTLTASIELTNSGDYD--GAEVVQLYIRDLVGSTTRPVKELKGFQKV-FLKKGETKTITFKITP  698 (775)
+T ss_dssp             SSCCEEEEEEEEECSSSC--EEEEEEEEEEECSCSSCCCSCEEEEEEEE-EECTTCEEEEEEEECG
+T ss_pred             CCCEEEEEEEEEeCCCCC--ceEEEEEeecCCCCCCCCcceEeeeEEEE-eeCCCCeEEEEEEeCH
+Confidence            346789999999999865  3446677764211          111122 2678887777776653
+
+
+No 79
+>3EIF_A C5a peptidase (E.C.3.4.21.110); Subtilisin-like Cell envelope protease, multi-domain; HET: SO4, EPE; 1.9A {Streptococcus pyogenes}
+Probab=37.23  E-value=28  Score=44.49  Aligned_cols=92  Identities=14%  Similarity=0.190  Sum_probs=52.7  Template_Neff=8.600
+
+Q LOKIASV2_33920  846 TLEWDQTAPQLTEADISLTPAYSGGDTDYVVGLTPHFEISPSDDIGLHKVSVRV-----QNQTYPCFYDSAAGTWKLDLN  920 (1193)
+Q Consensus       846 TL~~DqT~Pqln~nDI~lt~~~~~~~t~Y~~~~t~t~e~~PsDdiG~~kI~v~v-----nn~TY~~~~dnA~GTwKl~Ln  920 (1193)
+                      .+.-|++.|++... ..+++          ..++.++++...+..+..++.|..     .+..+.....++.|++.+.++
+T Consensus       828 ~v~VDt~~P~i~~~-~~~~~----------~~~~~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~g~~~~~~~  896 (936)
+T 3EIF_A          828 DVIVDNTTPEVATS-ATFST----------EDRRLTLASKPKTSQPIYRERIAYTYMDEDLPTTEYISPNEDGTFTLPEE  896 (936)
+T ss_dssp             EEEECCCCCBCCSC-EEEET----------TTTEEEESSCCBCSSCEEEEEEEEEEESSSCEEEEEECCCTTSCEECCSE
+T ss_pred             EEEEeCCCCeeeec-eeeeC----------CCCEEEEEecCCCCCCeeeEEEEEEEecCCCCeeEEEcCCCCCCEecccc
+Confidence            45569999998731 11211          112455555544444444444421     112233445677777777765
+
+
+Q LOKIASV2_33920  921 LGQH------ITAENLTVIAQDYAGRKSEVFLTI  948 (1193)
+Q Consensus       921 ~~~d------l~~enLtVtAtD~AGN~S~~~~Ti  948 (1193)
+                      ....      .+.+.+.|.++|+|||++......
+T Consensus       897 ~~~~~g~~~~~g~~~~~~~~~D~AGN~~~~~~~~  930 (936)
+T 3EIF_A          897 AETMEGGTVPLKMSDFTYVVEDMAGNITYTPVTK  930 (936)
+T ss_dssp             EECTTSCEEECCGGGEEEEEEETTCCEEEEEHHH
+T ss_pred             cccCCCCeeecchheEEEEEEcCCCCeeeeeHHH
+Confidence            4311      247889999999999998766543
+
+
+No 80
+>4P99_C MpAFP_RII tetra-tandemer; Ca2+-dependent, bacterial Ig-like fold, ice-binding; HET: BOG, EDO, CA; 1.8A {Marinomonas primoryensis}
+Probab=35.39  E-value=32  Score=38.25  Aligned_cols=50  Identities=26%  Similarity=0.306  Sum_probs=35.3  Template_Neff=10.500
+
+Q LOKIASV2_33920  907 FYDSAAGTWKLDLNLGQHI--TAENLTVIAQDYAGRKSEV--FLTIAIDTTCPT  956 (1193)
+Q Consensus       907 ~~dnA~GTwKl~Ln~~~dl--~~enLtVtAtD~AGN~S~~--~~Ti~iDTTaPt  956 (1193)
+                      ...+.+|+|.+.++....+  ....++++++|.+||.+..  ..+..+|.++|.
+T Consensus       181 ~~~~~~g~~s~~~~~~~~~~~~~~~~~~~~~d~aGn~~~~~~~~~~~vd~~~~~  234 (437)
+T 4P99_C          181 TTVDANGEWSVDVAGSDLAADTAFDAVVTSSDAAGNTVDTTGSSTHTVDTEATA  234 (437)
+T ss_dssp             EECCTTSEEEEEEEHHHHHHCCEEEEEEEEECTTCCEEEEEEEEECEECCCCCC
+T ss_pred             EEECCCCeEEEEeeHHHhhcCCcEEEEEEEEcCCCCeeeeecceeeEEecccCC
+Confidence            3456789999987643222  2567889999999998754  345667777764
+
+
+No 81
+>3LSO_A Putative membrane anchored protein; MCSG, Corynebacterium diphtheriae, PSI-2, Structural; HET: MLZ, MSE; 2.75A {Corynebacterium diphtheriae}
+Probab=35.12  E-value=32  Score=42.66  Aligned_cols=69  Identities=10%  Similarity=0.074  Sum_probs=36.8  Template_Neff=5.600
+
+Q LOKIASV2_33920  250 TTDLVADEPAVFSAQIENVGG-LGTTDPFIVELYLDDQYQSAITVASLASAGSIAIEFPSIGDITAGNHQIRVVVDAS  326 (1193)
+Q Consensus       250 PTSPsVGDTVTFTVTVKNQGS-SgASg~F~VdLYVDGslVGS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVVDPt  326 (1193)
+                      +..+..|+.+++++.|...+. .+   .-.|+|+.++..++...  .+..++..++..  ... ..|.|.+++.-..+
+T Consensus       200 p~~~~~G~~vtlTAtVt~~~~~~p---tGtVtF~~~g~~iG~~v--~v~~~G~At~t~--t~l-~aGthtITA~YsGd  269 (489)
+T 3LSO_A          200 PESASIKQDVQITATVPEKLNEKM---DGKVQFFVNHIAAGDPV--PVTEDNKASTSI--IFD-TSGSKTITARFIDA  269 (489)
+T ss_dssp             CSCEETTSEEEEEEECCTTTTTTS---CCEEEEEETTEECSSCE--ECCTTSEEEEEE--ECS-SCEEEEEEEEEECS
+T ss_pred             CCCCCCCCcEEEEEEeCCCCCCCc---cEEEEEEECCeeecCCc--ccCCCCeEEEEE--EeC-CCCeEEEEEEEeCC
+Confidence            445667888888888866542 22   34667766654332211  122133333333  322 47888877766543
+
+
+No 82
+>3PDG_A 1st Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; 1.78A {Clostridium thermocellum}
+Probab=34.65  E-value=33  Score=31.10  Aligned_cols=59  Identities=8%  Similarity=0.031  Sum_probs=40.1  Template_Neff=9.500
+
+Q LOKIASV2_33920 1055 KFELTWEIVDYESGLHSVAVSIDDVFLGWFTNSSILLPGK--PLDLTTITLVFYDLAGHNHT 1114 (1193)
+Q Consensus      1055 ~~~~~w~~~d~esg~~~va~~i~d~~~g~~~~~~i~~p~~--p~d~t~i~l~~~d~ag~n~t 1114 (1193)
+                      .+.+..++.+ ..|...|.+++|+..+|.........+..  +....+|++.++|.+|+-..
+T Consensus        18 ~v~v~~~~~~-~~~i~~v~~~~dg~~~~~~~~~~~~~~~~~~~~G~~~i~a~a~D~~g~~~~   78 (98)
+T 3PDG_A           18 DINISATVKS-KTPVSKVEFYNGDTLISSDTTAPYTAKITGAAVGAYNLKAVAVLSDGRRIE   78 (98)
+T ss_dssp             CEEEEEEECC-SSCEEEEEEEETTEEEEEESSSSEEEEETTCCSEEEEEEEEEEETTSCEEE
+T ss_pred             cEEEEEEEeC-CCCeeEEEEEECCEEEEecCCCCEEEEeecCCCeEEEEEEEEEeCCCCEEE
+Confidence            3566666666 57888899999999887654433333332  34567788888999887654
+
+
+No 83
+>5IRB_B Antifreeze protein; Ice-binding protein, Biofilm-associated protein, RTX-adhesin; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=32.83  E-value=37  Score=36.55  Aligned_cols=55  Identities=18%  Similarity=0.318  Sum_probs=37.1  Template_Neff=10.100
+
+Q LOKIASV2_33920  909 DSAAGTWKLDLNLGQ----HITAENLTVIAQDYAGRKSEVF--LTIAIDTTCPTIIEVNTV  963 (1193)
+Q Consensus       909 dnA~GTwKl~Ln~~~----dl~~enLtVtAtD~AGN~S~~~--~Ti~iDTTaPtiptvn~V  963 (1193)
+                      .++.|+|.+.++...    .....+++|+++|.+|+.+...  ..+.+|.+.|..+.+++.
+T Consensus        59 ~~~~g~~t~~~~~~~~~~~~~~~~~~~v~~~d~~G~~~~~~~~~~~~~~~~~~~~~~~~~~  119 (321)
+T 5IRB_B           59 VNPNGTWSVSVAGSDLSADSDRIVDASVVVTNGAGQQGTADSTESFIVKTSSRATIRVNSI  119 (321)
+T ss_dssp             CCTTSEEEEEEEHHHHHHCTTSEEEEEEEEECSSSCEEEEEEEEECEECCCCCEEEEECCS
+T ss_pred             ECCCCeEEEEEeHHHhccCCCCEEEEEEEEEcCCCCeeeeccceeEEEecCCCCeeEEccc
+Confidence            457889998876431    1124568999999999998653  345677777766555543
+
+
+No 84
+>5K8G_A Antifreeze protein; Cell adhesion, peptide binding, Antifreeze; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=32.08  E-value=39  Score=40.34  Aligned_cols=60  Identities=15%  Similarity=0.216  Sum_probs=40.2  Template_Neff=8.900
+
+Q LOKIASV2_33920  895 VSVRVQNQTYPCFYDSAAGTWKLDLNLGQ--HITAENLTVIAQDYAGRKSEVFLTIAIDTTCPTIIE  959 (1193)
+Q Consensus       895 I~v~vnn~TY~~~~dnA~GTwKl~Ln~~~--dl~~enLtVtAtD~AGN~S~~~~Ti~iDTTaPtipt  959 (1193)
+                      +.+.+++.++.   .+++|+|.+.+....  ..+..+++++++|++||.+  ..++.++..+|.+..
+T Consensus       158 v~v~~~~~~~~---~~~~g~ws~~~~~~~~~~~g~~~~tv~~tD~~Gn~s--t~~v~~~~~~p~~~~  219 (540)
+T 5K8G_A          158 EVVTNFGGTIT---LGDDGEYRYDAPVRDHGDAVSDKDSVTVTLEDGRTF--TVNLDIQDSAPVAVD  219 (540)
+T ss_dssp             EEECTTSCEEE---ECTTSCEEEECCCCCTTSSSCCEEEEEEECTTSCEE--EEEEEEECCCCBCCC
+T ss_pred             EEEEECCEEEE---eCCCeEEEEEcCCcCCCCCCCceEEEEEEeCCCCeE--EEEEEecCCCCCccC
+Confidence            44445555443   457888999886542  2235678999999999987  456667777776644
+
+
+No 85
+>5IRB_B Antifreeze protein; Ice-binding protein, Biofilm-associated protein, RTX-adhesin; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=31.14  E-value=41  Score=36.23  Aligned_cols=59  Identities=20%  Similarity=0.227  Sum_probs=36.4  Template_Neff=10.100
+
+Q LOKIASV2_33920  899 VQNQTYPCFYDSAAGTWKLDLNLGQ--HITAENLTVIAQDYAGRKSEVF--LTIAIDTTCPTII  958 (1193)
+Q Consensus       899 vnn~TY~~~~dnA~GTwKl~Ln~~~--dl~~enLtVtAtD~AGN~S~~~--~Ti~iDTTaPtip  958 (1193)
+                      +++..+... .+.+|.|.+.+....  ......++++++|.+|+.+...  .++.+|.++|..+
+T Consensus       154 ~~~~~~~~~-~~~~g~~~~~~~~~~~~~~~~~~~~~~~~d~~G~~~~~~~~~~~~vd~~~~~~~  216 (321)
+T 5IRB_B          154 INGTLYTTV-VLANKTWSVGVSGSDLAQDNSFQVSVTGQDSAGNPYAGTTTSTHTVDTSADAGT  216 (321)
+T ss_dssp             ETTEEEEEE-CCTTSEEEEEEEHHHHHHCSEEEEEEEEECTTSCEEEEEEEEECEEECCCCCCE
+T ss_pred             ECCEEEEEE-EcCCCEEEEEEeHHHhccCCeEEEEEEEEcCCCCcccceeceeeEEecCCCCCe
+Confidence            344433333 346788888776321  1235678888999999987643  3456777776543
+
+
+No 86
+>5NBS_B Beta-glucosidase (E.C.3.2.1.21); Glycoside hydrolase, beta-glucosidase, Biodegradation, Neurospora; HET: MAN, NAG, BMA; 2.25A {Neurospora crassa OR74A}
+Probab=30.55  E-value=43  Score=43.35  Aligned_cols=51  Identities=14%  Similarity=0.123  Sum_probs=31.5  Template_Neff=7.500
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY--------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl--------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      +..++|++.|+|.|..+  +.-.|++|+.-..        .+-..+. +.+|++.++++...
+T Consensus       760 ~~~~~v~v~v~Ntg~~~--g~evvqly~~~~~~~~p~~~L~~f~kv~-l~~ge~~~v~~~~~  818 (857)
+T 5NBS_B          760 DIMYTVTADITNTGKVA--GDEVPQLYVSLGGPEDPKVVLRGFDRLR-VEPGEKVQFKAVLT  818 (857)
+T ss_dssp             CEEEEEEEEEEECSSSC--EEECCEEEEECCSTTSCSCEEEEECCEE-ECTTCEEEEEEEEE
+T ss_pred             CeEEEEEEEEEecCCCC--CeEEEEEEEecCCCCCCceEEeeEEEEE-eCCCCeEEEEEEEc
+Confidence            35689999999999864  3456777775211        1111222 66777766666554
+
+
+No 87
+>4YTB_A Peptidylarginine deiminase (E.C.3.5.3.-), ASP-GLN; Peptidylarginine deiminase, citrullination, hydrolase; HET: GOL, PO4, GLN; 1.4A {Porphyromonas gingivalis}
+Probab=30.42  E-value=43  Score=39.37  Aligned_cols=74  Identities=16%  Similarity=0.299  Sum_probs=52.8  Template_Neff=8.300
+
+Q LOKIASV2_33920  968 MITYTAEIS--D-TDLTSVMIHYSWDNNT-WATHSLDQEDTSHWSYQLTIPDGHTSPSYYLVATDQVEQTTFWDEHAP 1041 (1193)
+Q Consensus       968 tItg~AE~~--s-t~~~~V~i~~T~~n~T-~aT~~~Dqd~t~~Ws~~l~~~d~ht~p~yyl~~~d~v~~t~~~d~~ap 1041 (1193)
+                      .+..+|+.-  . ..+++|.|.|.-..++ |.+..+....+++|+.+|.....-+.-.||+.++|+--++.+.-..||
+T Consensus       334 ~~~i~~~i~s~~~~~~~s~~l~yr~~~~~~~~~~~m~~~~~~~~~atip~~~~~~~ieYYi~a~d~~G~~~t~P~~~~  411 (432)
+T 4YTB_A          334 DYKIEADVVSCANATISPVQCYYRINGSGSFKAADMTMESTGHYTYSFTGLNKNDKVEYYISAADNSGRKETYPFIGE  411 (432)
+T ss_dssp             CCEEEEEEEETTCCCEEEEEEEEEETTCSSCEEEECEEEETTEEEEECCSCCTTCEEEEEEEEEETTSCEEEESTTCT
+T ss_pred             ceEEEEEEEecCCCCeeEEEEEEEEcCCCCeEEEEeeecCCCEEEEEEeCCCCCCeEEEEEEEECCCCCEEEcCCCCC
+Confidence            455555542  2 5678888888887774 554455434677999999877765568999999999888777666664
+
+
+No 88
+>4P99_C MpAFP_RII tetra-tandemer; Ca2+-dependent, bacterial Ig-like fold, ice-binding; HET: BOG, EDO, CA; 1.8A {Marinomonas primoryensis}
+Probab=29.61  E-value=46  Score=37.10  Aligned_cols=53  Identities=25%  Similarity=0.346  Sum_probs=34.9  Template_Neff=10.500
+
+Q LOKIASV2_33920  895 VSVRVQNQTYPCFYDSAAGTWKLDLNLGQHI--TAENLTVIAQDYAGRKSEVFLTI  948 (1193)
+Q Consensus       895 I~v~vnn~TY~~~~dnA~GTwKl~Ln~~~dl--~~enLtVtAtD~AGN~S~~~~Ti  948 (1193)
+                      +.+.++++.+. ..-++.|+|.+.++....+  +..+++|+++|.+||.+....++
+T Consensus       378 v~~~~~g~~~~-~~~~~~g~~t~~~~~~~~~~~g~~~~~v~~~d~~Gn~~~~~~~~  432 (437)
+T 4P99_C          378 VTLEINGETYT-TTVDANGEWSVDVAGSDLAADTAFDAVVTSSDAAGNTVDTTGSS  432 (437)
+T ss_dssp             EEEEETTEEEE-EECCTTSEEEEEEEHHHHHHCCEEEEEEEEECTTCCEEEEEEEE
+T ss_pred             EEEEECCEEEE-EEECCCCeEEEEEeHHHhhcCCeEEEEEEEEcCCCCcceeecce
+Confidence            34444555442 2356678999988755332  35678999999999988665443
+
+
+No 89
+>5IRB_A Antifreeze protein; Ice-binding protein, Biofilm-associated protein, RTX-adhesin; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=28.83  E-value=48  Score=35.55  Aligned_cols=53  Identities=25%  Similarity=0.343  Sum_probs=33.6  Template_Neff=10.300
+
+Q LOKIASV2_33920  895 VSVRVQNQTYPCFYDSAAGTWKLDLNLGQ--HITAENLTVIAQDYAGRKSEVFLTI  948 (1193)
+Q Consensus       895 I~v~vnn~TY~~~~dnA~GTwKl~Ln~~~--dl~~enLtVtAtD~AGN~S~~~~Ti  948 (1193)
+                      |.+.+++..+... .+..|.|.+.++...  .....++++.++|.+||.+....+.
+T Consensus       254 v~v~~~g~~~~~~-~~~~g~~~~~~~~~~~~~~g~~~~~~~~~d~~G~~~~~~~~~  308 (321)
+T 5IRB_A          254 VTLEINGETYTTT-VDANGEWSVDVAGSDLAADTAFDAVVTSSDAAGNTVDTTGSS  308 (321)
+T ss_dssp             EEEEETTEEEEEE-CCTTSEEEEEEEHHHHHHCCEEEEEEEEECTTCCEEEEEEEE
+T ss_pred             EEEEECCEEEEEE-ECCCCeEEEEeeHHHhccCCeEEEEEEEEcCCCCeeeeccce
+Confidence            3344444444333 566788998876431  1224578888999999988765543
+
+
+No 90
+>5WUG_A beta-glucosidase (E.C.3.2.1.21); beta-glucosidase, GH family 3, CBM6; 2.216A {Paenibacillus barengoltzii}
+Probab=26.51  E-value=56  Score=42.89  Aligned_cols=52  Identities=13%  Similarity=0.209  Sum_probs=32.7  Template_Neff=7.500
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGG-LGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGS-SgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      ++.+++++.|+|.|. .+  +.-.|++|.....          .+-..+..|.||++.+++++++
+T Consensus       326 ~~~~~v~v~V~NtG~~~~--G~evvqlY~~~p~~~~~~p~~~L~gF~Kv~~l~pGes~~v~~~~~  388 (955)
+T 5WUG_A          326 DAQLEVQVEVTNTGSEFS--GKEVIQLYYEAPQGVLGKPARALGAFAKTKLLQPGESDVLTLQLP  388 (955)
+T ss_dssp             GCEEEEEEEEEECCSSCC--BCCEEEEEEECCCTTTCCCSCEEEEEEECCCBCTTCEEEEEEEEE
+T ss_pred             CCEEEEEEEEEEcCCCCC--ceEEEEEEEEcCCCCCCCcceEEEEEEeccccCCCCEEEEEEEEe
+Confidence            467899999999996 43  3446677764210          1111122377888888877664
+
+
+No 91
+>5XYA_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: AES, MSE, SO4; 3.0A {Streptococcus pyogenes}
+Probab=25.83  E-value=59  Score=43.61  Aligned_cols=52  Identities=17%  Similarity=0.234  Sum_probs=41.9  Template_Neff=9.400
+
+Q LOKIASV2_33920  909 DSAAGTWKLDLNLGQHIT--AENLTVIAQDYAGRKSEVFLTIAIDTTCPTIIEV  960 (1193)
+Q Consensus       909 dnA~GTwKl~Ln~~~dl~--~enLtVtAtD~AGN~S~~~~Ti~iDTTaPtiptv  960 (1193)
+                      ..+.|+|.........+.  -+.+.++++|++||.+....++.+|+++|.+...
+T Consensus      1123 ~~~~~~W~g~~~~~~~l~~G~Y~~~e~~~d~~gn~~~~~~~~~vd~~~p~~~~~ 1176 (1530)
+T 5XYA_A         1123 AIESTAWYGITARGSKVMPGDYQYVVTYRDEHGKEHQKQYTISVNDKKPMITQG 1176 (1530)
+T ss_dssp             CSGGGCBCSBCTTSCBCCSEEEEEEEEECTTTSSCEECCEEEEECCCCCCCCCC
+T ss_pred             cceeeeeeCcCCCCcccCCceEEEEEEEcCCCCCccceEEEEEeCCCCCeeeee
+Confidence            456678888776554444  6889999999999999988899999999987643
+
+
+No 92
+>3PDG_A 1st Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; 1.78A {Clostridium thermocellum}
+Probab=25.50  E-value=60  Score=29.52  Aligned_cols=38  Identities=24%  Similarity=0.261  Sum_probs=19.4  Template_Neff=9.500
+
+Q LOKIASV2_33920  277 FIVELYLDDQYQSAITVASLASAGSIAIEFPSIGDITAGNHQIRVVV  323 (1193)
+Q Consensus       277 F~VdLYVDGslVGS~TV~SLAAGGStTVSFtSIwtLTAGSHTIKAVV  323 (1193)
+                      ..++++.++.......        .....+.|.+. ..|.+.+++++
+T Consensus        32 ~~v~~~~dg~~~~~~~--------~~~~~~~~~~~-~~G~~~i~a~a   69 (98)
+T 3PDG_A           32 SKVEFYNGDTLISSDT--------TAPYTAKITGA-AVGAYNLKAVA   69 (98)
+T ss_dssp             EEEEEEETTEEEEEES--------SSSEEEEETTC-CSEEEEEEEEE
+T ss_pred             eEEEEEECCEEEEecC--------CCCEEEEeecC-CCeEEEEEEEE
+Confidence            3566776665442111        11234445443 46778777764
+
+
+No 93
+>3ABZ_A Beta-glucosidase I (E.C.3.2.1.21); Glycoside hydrolase family3 beta-glucosidase, PA14; HET: GOL; 2.15A {Kluyveromyces marxianus}
+Probab=25.12  E-value=62  Score=41.79  Aligned_cols=51  Identities=16%  Similarity=0.283  Sum_probs=31.3  Template_Neff=7.800
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGG-LGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGS-SgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      .+.++|+++|+|.|. .+  +.-.|++|+....          .+-..+. |++|++.+++++..
+T Consensus       734 ~~~~~v~v~V~NtG~~~~--g~evvqlY~~~~~~~~~~p~k~L~~F~kv~-l~~ge~~~v~~~~~  795 (845)
+T 3ABZ_A          734 DDKIAISVDVKNTGDKFA--GSEVVQVYFSALNSKVSRPVKELKGFEKVH-LEPGEKKTVNIDLE  795 (845)
+T ss_dssp             SSEEEEEEEEEECCSSCC--EEEEEEEEEEESSCSSCCCSCEEEEEEEEE-ECTTCEEEEEEEEE
+T ss_pred             CCeEEEEEEEEEecCccc--ceEEEEEEEeccCcCCCCChhheeeEEEEE-eCCCCeEEEEEEee
+Confidence            367889999999997 44  2446677764211          1111222 67788777777654
+
+
+No 94
+>3ABZ_C Beta-glucosidase I (E.C.3.2.1.21); Glycoside hydrolase family3 beta-glucosidase, PA14; HET: GOL, MSE; 2.15A {Kluyveromyces marxianus}
+Probab=25.12  E-value=62  Score=41.79  Aligned_cols=51  Identities=16%  Similarity=0.283  Sum_probs=31.3  Template_Neff=7.800
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGG-LGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSI  309 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGS-SgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSI  309 (1193)
+                      .+.++|+++|+|.|. .+  +.-.|++|+....          .+-..+. |++|++.+++++..
+T Consensus       734 ~~~~~v~v~V~NtG~~~~--g~evvqlY~~~~~~~~~~p~k~L~~F~kv~-l~~ge~~~v~~~~~  795 (845)
+T 3ABZ_C          734 DDKIAISVDVKNTGDKFA--GSEVVQVYFSALNSKVSRPVKELKGFEKVH-LEPGEKKTVNIDLE  795 (845)
+T ss_dssp             TTEEEEEEEEEECCSSCC--EEEEEEEEEEESSCSSCCCSCEEEEEEEEE-ECTTCEEEEEEEEC
+T ss_pred             CCeEEEEEEEEEecCccc--ceEEEEEEEeccCcCCCCChhheeeEEEEE-eCCCCeEEEEEEee
+Confidence            367889999999997 44  2446677764211          1111222 67788777777654
+
+
+No 95
+>2YN3_C PUTATIVE INNER MEMBRANE PROTEIN; MEMBRANE PROTEIN, BIG-DOMAINS ADHESIN; HET: MSE, CA; 2.12A {SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHIMURIUM}
+Probab=25.03  E-value=63  Score=33.86  Aligned_cols=55  Identities=25%  Similarity=0.391  Sum_probs=33.5  Template_Neff=10.600
+
+Q LOKIASV2_33920  900 QNQTYPCFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVF-LTIAIDTTCP  955 (1193)
+Q Consensus       900 nn~TY~~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~-~Ti~iDTTaP  955 (1193)
+                      +++.+... .+.+|.|.+.+..........++|+++|.+||.+... .+..+|.+.|
+T Consensus       128 ~g~~~~~~-~~~~g~~~~~~~~~~~~g~~~~~v~~~d~~Gn~~~~~~~~~~~d~~~~  183 (288)
+T 2YN3_C          128 NGTVYNAE-KNADGVWFFTPGTPLADGSYTISVIASDAAGNQKNSLPITVTIDSTLT  183 (288)
+T ss_dssp             TTEEEECE-ECTTSCEEECCSSCCCSEEEEEEEEEEETTCCEEECCCEEEEECCCCC
+T ss_pred             CCEEEEEE-ECCCCcEEEcCCCCCCCcEEEEEEEEEcCCCCccCCCCEEEEEecCCC
+Confidence            44434333 4678899998654322235678999999999997522 2344555443
+
+
+No 96
+>2YN5_A PUTATIVE INNER MEMBRANE PROTEIN; MEMBRANE PROTEIN, BIG-DOMAINS ADHESIN; 1.85A {SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHIMURIUM}
+Probab=25.03  E-value=63  Score=33.86  Aligned_cols=55  Identities=25%  Similarity=0.391  Sum_probs=33.5  Template_Neff=10.600
+
+Q LOKIASV2_33920  900 QNQTYPCFYDSAAGTWKLDLNLGQHITAENLTVIAQDYAGRKSEVF-LTIAIDTTCP  955 (1193)
+Q Consensus       900 nn~TY~~~~dnA~GTwKl~Ln~~~dl~~enLtVtAtD~AGN~S~~~-~Ti~iDTTaP  955 (1193)
+                      +++.+... .+.+|.|.+.+..........++|+++|.+||.+... .+..+|.+.|
+T Consensus       128 ~g~~~~~~-~~~~g~~~~~~~~~~~~g~~~~~v~~~d~~Gn~~~~~~~~~~~d~~~~  183 (288)
+T 2YN5_A          128 NGTVYNAE-KNADGVWFFTPGTPLADGSYTISVIASDAAGNQKNSLPITVTIDSTLT  183 (288)
+T ss_dssp             TTEEEECE-ECTTSCEEECCSSCCCSEEEEEEEEEEETTCCEEECCCEEEEECCCCC
+T ss_pred             CCEEEEEE-ECCCCcEEEcCCCCCCCcEEEEEEEEEcCCCCccCCCCEEEEEecCCC
+Confidence            44434333 4678899998654322235678999999999997522 2344555443
+
+
+No 97
+>5K6L_A B-GLUCOSIDASE (E.C.3.2.1.21); GLYCOSIDE HYDROLASE, METAGENOME, B-GLICOSIDASE, FUNCTIONAL; HET: GOL; 1.83A {metagenome}
+Probab=25.00  E-value=63  Score=42.51  Aligned_cols=53  Identities=11%  Similarity=0.104  Sum_probs=33.9  Template_Neff=7.200
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.+++++.|+|.|..+  +.-.|++|.....          .+-..+..|.||++.++++++..
+T Consensus       295 ~~~~~v~v~V~NtG~~~--g~evVQlY~~~p~~~~~~p~~~L~gF~Kv~~L~pGes~~v~~~i~~  357 (921)
+T 5K6L_A          295 SRTFTASCTVKNTGSVA--GKDVAQFYVSAPQGKLGKPEKVLVAFKKTGILNPGKEEKITVTVPF  357 (921)
+T ss_dssp             TTEEEEEEEEEECSSSC--BCCEEEEEEECCCTTTCCCSCEEEEEEECCCBCTTCEEEEEEEEEG
+T ss_pred             CCEEEEEEEEEecCCCC--cEEEEEEEEeCCCcCCCCCcEEEEEEEEccccCCCCEEEEEEEEeH
+Confidence            47789999999999754  3456677764211          11112223778988888877653
+
+
+No 98
+>5K6O_A B-GLUCOSIDASE (E.C.3.2.1.21); GLYCOSIDE HYDROLASE, METAGENOME, B-GLICOSIDASE, FUNCTIONAL; HET: GAL, SO4; 2.29A {metagenome}
+Probab=25.00  E-value=63  Score=42.51  Aligned_cols=53  Identities=11%  Similarity=0.104  Sum_probs=33.9  Template_Neff=7.200
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.+++++.|+|.|..+  +.-.|++|.....          .+-..+..|.||++.++++++..
+T Consensus       295 ~~~~~v~v~V~NtG~~~--g~evVQlY~~~p~~~~~~p~~~L~gF~Kv~~L~pGes~~v~~~i~~  357 (921)
+T 5K6O_A          295 SRTFTASCTVKNTGSVA--GKDVAQFYVSAPQGKLGKPEKVLVAFKKTGILNPGKEEKITVTVPF  357 (921)
+T ss_dssp             TTEEEEEEEEEECSSSC--BCCEEEEEEECCCTTTCCCSCEEEEEEECCCBCTTCEEEEEEEEEG
+T ss_pred             CCEEEEEEEEEecCCCC--cEEEEEEEEeCCCcCCCCCcEEEEEEEEccccCCCCEEEEEEEEeH
+Confidence            47789999999999754  3456677764211          11112223778988888877653
+
+
+No 99
+>3PE9_A Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; HET: IOD; 1.69A {Clostridium thermocellum}
+Probab=24.71  E-value=64  Score=29.57  Aligned_cols=60  Identities=17%  Similarity=0.140  Sum_probs=38.5  Template_Neff=9.300
+
+Q LOKIASV2_33920 1055 KFELTWEIVDYESGLHSVAVSIDDVFLGWFTNSSILLPGKP-LDLTTITLVFYDLAGHNHT 1114 (1193)
+Q Consensus      1055 ~~~~~w~~~d~esg~~~va~~i~d~~~g~~~~~~i~~p~~p-~d~t~i~l~~~d~ag~n~t 1114 (1193)
+                      .+.+.+++.+...+...|-+++|+..+|........+...+ .-.-+|++.++|.+|+-.+
+T Consensus        18 ~v~v~~~~~~~~~~i~~v~~~i~g~~~~~~~~~~~~~~~~~~~G~~~l~~~a~D~~g~~~~   78 (98)
+T 3PE9_A           18 FLKITATASDSDGKISRVDFLVDGEVIGSDREAPYEYEWKAVEGNHEISVIAYDDDDAAST   78 (98)
+T ss_dssp             EEEEEEEECCSSSCEEEEEEEETTEEEEEECSSSEEEEEECCSEEEEEEEEEEETTCCBCC
+T ss_pred             eEEEEEEEECCCCCeEEEEEEECCEEEeeeCCCCEEEEEecCCEEEEEEEEEEeCCCCeEe
+Confidence            47777777776545788889999998876543322211111 3455777788888887653
+
+
+No 100
+>6JXG_A Beta-glucosidase (E.C.3.2.1.21); glucosidase, glycoside hydrolase, HYDROLASE; HET: NAG, MAN; 1.9A {Chaetomella raphigera}
+Probab=23.43  E-value=70  Score=40.26  Aligned_cols=52  Identities=19%  Similarity=0.226  Sum_probs=32.9  Template_Neff=8.300
+
+Q LOKIASV2_33920  256 DEPAVFSAQIENVGGLGTTDPFIVELYLDDQY----------QSAITVASLASAGSIAIEFPSIG  310 (1193)
+Q Consensus       256 GDTVTFTVTVKNQGSSgASg~F~VdLYVDGsl----------VGS~TV~SLAAGGStTVSFtSIw  310 (1193)
+                      ++.++|+++|+|.|..+  +.-.|++|+....          .+-..+. |.||++.++++++..
+T Consensus       611 ~~~~~v~v~V~NtG~~~--g~evvqlY~~~~~~~~~~p~~~L~gf~kv~-l~pges~~v~~~i~~  672 (722)
+T 6JXG_A          611 DIVATVTAKVTNSGTVS--GAEVAQLYIGLPGSAPASPPKQLRGFDKIS-LKPGKSGTVTFNLRR  672 (722)
+T ss_dssp             SEEEEEEEEEEECSSSC--EEEEEEEEEECCTTSCSCCSCEEEEEEEEE-ECTTCEEEEEEEEEG
+T ss_pred             CcEEEEEEEEEEeCCCC--ceEEEEEEEeCCCCCCCCCCceeeeeEEEE-ECCCCeEEEEEEecH
+Confidence            35789999999999875  3446777764211          1111222 677887777776653
+
+
+No 101
+>6CZJ_A b10; beta barrel, Rossetta, computational, de; HET: SO4; 2.1A {synthetic construct}
+Probab=23.41  E-value=70  Score=32.67  Aligned_cols=36  Identities=25%  Similarity=0.501  Sum_probs=28.6  Template_Neff=1.000
+
+Q LOKIASV2_33920  981 TSVMIHYSWDNNTWATHSLDQEDTSHWSYQLTIPDG 1016 (1193)
+Q Consensus       981 ~~V~i~~T~~n~T~aT~~~Dqd~t~~Ws~~l~~~d~ 1016 (1193)
+                      +.|.|+|+|.||.+||+.+--++...+...++..||
+T Consensus        63 ttvditvtyedgstatgqltvdsptqfkfdmtasdg   98 (109)
+T 6CZJ_A           63 TTVDITVTYEDGSTATGQLTVDSPTQFKFDMTASDG   98 (109)
+T ss_dssp             SEEEEEEEETTSCEEEEEEEEEETTEEEEEEEETTS
+T ss_pred             ceEEEEEEecCCCeeEEEEEecCCceEEEEEecCCC
+Confidence            458899999999999999877777776666665554
+
+
+No 102
+>6CZJ_B b10; beta barrel, Rossetta, computational, de; HET: SO4; 2.1A {synthetic construct}
+Probab=23.41  E-value=70  Score=32.67  Aligned_cols=36  Identities=25%  Similarity=0.501  Sum_probs=28.6  Template_Neff=1.000
+
+Q LOKIASV2_33920  981 TSVMIHYSWDNNTWATHSLDQEDTSHWSYQLTIPDG 1016 (1193)
+Q Consensus       981 ~~V~i~~T~~n~T~aT~~~Dqd~t~~Ws~~l~~~d~ 1016 (1193)
+                      +.|.|+|+|.||.+||+.+--++...+...++..||
+T Consensus        63 ttvditvtyedgstatgqltvdsptqfkfdmtasdg   98 (109)
+T 6CZJ_B           63 TTVDITVTYEDGSTATGQLTVDSPTQFKFDMTASDG   98 (109)
+T ss_dssp             SEEEEEEEETTSCEEEEEEEEEETTEEEEEEEETTS
+T ss_pred             ceEEEEEEecCCCeeEEEEEecCCceEEEEEecCCC
+Confidence            458899999999999999877777776666665554
+
+
+No 103
+>2P9R_B Alpha-2-macroglobulin; human alpha2-macroglobulin, MG2 domain, SIGNALING; 2.3A {Homo sapiens}
+Probab=21.34  E-value=82  Score=28.18  Aligned_cols=18  Identities=6%  Similarity=-0.071  Sum_probs=12.3  Template_Neff=10.200
+
+Q LOKIASV2_33920  253 LVADEPAVFSAQIENVGG  270 (1193)
+Q Consensus       253 PsVGDTVTFTVTVKNQGS  270 (1193)
+                      -.+|+.+.+++.+++...
+T Consensus        13 y~pge~v~~~~~~~~~~~   30 (102)
+T 2P9R_B           13 YKPGQTVKFRVVSMDENF   30 (102)
+T ss_dssp             ECTTCEEEEEEEEESSSS
+T ss_pred             cCCCCEEEEEEEEECCCC
+Confidence            356777888777776543
+
+
+No 104
+>6HFZ_C GDSL-like protein; Esterase, carbohydrate, galactoglucomannan, deacetylation, biomass; HET: MSE, ACT, EPE; 1.75A {Roseburia intestinalis L1-82}
+Probab=20.90  E-value=85  Score=34.94  Aligned_cols=11  Identities=18%  Similarity=0.323  Sum_probs=6.0  Template_Neff=10.000
+
+Q LOKIASV2_33920  314 AGNHQIRVVVD  324 (1193)
+Q Consensus       314 AGSHTIKAVVD  324 (1193)
+                      +|.|++++++.
+T Consensus       341 ~g~h~v~~~~~  351 (378)
+T 6HFZ_C          341 NKVHKVEVRLT  351 (378)
+T ss_pred             CceEEEEEEEc
+Confidence            45565555553
+
+
+No 105
+>5XYR_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: MSE; 2.8A {Streptococcus pyogenes}
+Probab=20.89  E-value=85  Score=42.69  Aligned_cols=89  Identities=10%  Similarity=0.062  Sum_probs=49.2  Template_Neff=9.300
+
+Q LOKIASV2_33920  927 AENLTVIAQDYAGRKSEV--FLTIAIDTTCPTIIEVNTVTTT------NMITYTAEISDTDLTSVMIHYSWDNNTWATHS  998 (1193)
+Q Consensus       927 ~enLtVtAtD~AGN~S~~--~~Ti~iDTTaPtiptvn~Vts~------dtItg~AE~~st~~~~V~i~~T~~n~T~aT~~  998 (1193)
+                      -+++.++++|.+|+....  ..+..+|.+.|...........      -.+++++++++      .+++.-.+|...+..
+T Consensus      1449 ~Y~v~e~~~d~~G~~~~~~~~~~~tvd~~~~~~~i~~~~~~~~~~~~~~~~~g~~l~ga------~f~l~~~~g~~~~~~ 1522 (1647)
+T 5XYR_A         1449 KYTVELLTYDTNAAKLESDKIVSFTLSADNNFQQVTFKMTMLATSQITAHFDHLLPEGS------RVSLKTAQGQLIPLE 1522 (1647)
+T ss_dssp             EEEEEEEEECTTTEEECSCSEEEEEECSSSCEEEEEEEEEECCEEEEEEECSSCCCTTC------CCEEEETTSCEEECC
+T ss_pred             EEEEEEEEcCCCceeccCCCeEEEEECCCCCeEEEEEEeeeccCceEEEEECCCCCCCC------EEEEEeCCCCEEeeE
+Confidence            577889999999997664  3566777777765432111110      13455566665      334444555433322
+
+
+Q LOKIASV2_33920  999 LDQEDTSHWSYQLTIPDGHTSPSYYLVAT 1027 (1193)
+Q Consensus       999 ~Dqd~t~~Ws~~l~~~d~ht~p~yyl~~~ 1027 (1193)
+                      .  ...+.|.....+++|    .|+|+.+
+T Consensus      1523 ~--~~~~g~~~~~~L~~G----~Y~i~e~ 1545 (1647)
+T 5XYR_A         1523 Q--SLYVPKAYGKTVQEG----TYEVVVS 1545 (1647)
+T ss_dssp             B--CSSCTTEEEEEEESS----EEEEECC
+T ss_pred             e--eCCCCeeEecccCCc----EEEEEEe
+Confidence            2  344556665555555    3665543
+
+

@@ -1,0 +1,1807 @@
+Query         LOKIASV2_16770 hypothetical protein
+Match_columns 1259
+No_of_seqs    60 out of 60
+Neff          2.64161
+Searched_HMMs 80799
+Date          Wed Sep 11 12:24:43 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpl0g296gu/query.a3m -o /tmp/tmpl0g296gu/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1R3U_A Hypoxanthine-guanine ph  60.2     6.9 8.6E-05   41.7   0.0   26 1071-1096  117-142 (205)
+  2 4ZFN_B hgxprt (E.C.2.4.2.8); T  57.8     8.1  0.0001   40.2   0.0   25 1071-1095   85-109 (179)
+  3 5BQP_A hgxprt (E.C.2.4.2.8); T  57.8     8.1  0.0001   40.2   0.0   25 1071-1095   85-109 (179)
+  4 1VDM_G purine phosphoribosyltr  56.8     8.7 0.00011   38.2   0.0   25 1071-1095   82-106 (153)
+  5 1VDM_K purine phosphoribosyltr  52.1      12 0.00014   37.4   0.0   25 1071-1095   82-106 (153)
+  6 1L1Q_A adenine phosphoribosylt  48.5      15 0.00018   38.7   0.0   25 1071-1095  116-140 (186)
+  7 5YW2_C Adenine phosphoribosylt  47.2      16 0.00019   37.5   0.0   26 1070-1095  118-143 (179)
+  8 5YW5_C Adenine phosphoribosylt  47.2      16 0.00019   37.5   0.0   26 1070-1095  118-143 (179)
+  9 6FCH_A Adenine phosphoribosylt  46.0      17 0.00021   37.1   0.0   26 1070-1095  116-141 (178)
+ 10 5ZGO_B Adenine phosphoribosylt  45.6      17 0.00021   37.7   0.0   25 1071-1095  119-143 (178)
+ 11 1VCH_D Phosphoribosyltransfera  44.8      18 0.00022   37.3   0.0   26 1071-1096  119-144 (175)
+ 12 5HKL_A Orotate phosphoribosylt  44.6      18 0.00023   38.1   0.0   26 1070-1095  122-147 (190)
+ 13 5KNS_B Hypoxanthine-guanine ph  43.6      19 0.00024   37.7   0.0   25 1071-1095   95-119 (182)
+ 14 5KNX_B Hypoxanthine-guanine ph  43.6      19 0.00024   37.7   0.0   25 1071-1095   95-119 (182)
+ 15 5VN4_A Adenine phosphoribosylt  43.0      20 0.00025   39.5   0.0   26 1070-1095  145-170 (243)
+ 16 1A97_C XANTHINE-GUANINE PHOSPH  42.3      21 0.00026   36.2   0.0   24 1071-1094   78-101 (148)
+ 17 4LZA_B Adenine phosphoribosylt  41.8      22 0.00027   37.8   0.0   26 1070-1095  134-159 (195)
+ 18 4PFQ_C phosphoribosyltransfera  41.6      22 0.00027   38.3   0.0   26 1070-1095  117-142 (207)
+ 19 4RQA_A Hypoxanthine phosphorib  41.2      22 0.00028   37.5   0.0   25 1071-1095   97-121 (186)
+ 20 4RQB_A Hypoxanthine phosphorib  41.2      22 0.00028   37.5   0.0   25 1071-1095   97-121 (186)
+ 21 1WD5_A hypothetical protein TT  40.8      23 0.00028   37.7   0.0   25 1071-1095  119-143 (208)
+ 22 1PZM_B hypoxanthine-guanine ph  40.7      23 0.00028   37.8   0.0   27 1071-1097  117-143 (211)
+ 23 1P4A_B Pur operon repressor; T  40.6      23 0.00029   39.2   0.0   25 1071-1095  195-219 (285)
+ 24 1P4A_C Pur operon repressor; T  40.6      23 0.00029   39.2   0.0   25 1071-1095  195-219 (285)
+ 25 1Y0B_A Xanthine phosphoribosyl  40.6      23 0.00029   37.4   0.0   26 1070-1095  118-143 (197)
+ 26 1Y0B_D Xanthine phosphoribosyl  40.6      23 0.00029   37.4   0.0   26 1070-1095  118-143 (197)
+ 27 1HGX_A HYPOXANTHINE-GUANINE-XA  40.6      23 0.00029   37.0   0.0   25 1071-1095   94-118 (183)
+ 28 3M3H_A ---; Orotate Phosphorib  40.3      24 0.00029   38.7   0.0   26 1070-1095  135-160 (234)
+ 29 4RV4_B Orotate phosphoribosylt  40.3      24 0.00029   38.7   0.0   26 1070-1095  135-160 (234)
+ 30 2JKY_A HYPOXANTHINE-GUANINE PH  40.2      24  0.0003   38.4   0.0   26 1070-1095  100-125 (213)
+ 31 2YZK_A Orotate phosphoribosylt  39.7      24  0.0003   36.4   0.0   25 1071-1095  105-129 (178)
+ 32 2YZK_C Orotate phosphoribosylt  39.7      24  0.0003   36.4   0.0   25 1071-1095  105-129 (178)
+ 33 4M0K_A Adenine phosphoribosylt  39.7      25  0.0003   37.5   0.0   25 1071-1095  138-162 (199)
+ 34 4M0K_D Adenine phosphoribosylt  39.7      25  0.0003   37.5   0.0   25 1071-1095  138-162 (199)
+ 35 2XBU_B HYPOXANTHINE-GUANINE PH  39.5      25 0.00031   38.7   0.0   26 1070-1095  101-126 (221)
+ 36 5ESW_A Purine/pyrimidine phosp  39.5      25 0.00031   37.3   0.0   26 1071-1096  105-130 (197)
+ 37 5ESW_B Purine/pyrimidine phosp  39.5      25 0.00031   37.3   0.0   26 1071-1096  105-130 (197)
+ 38 6FSP_D PRPP-binding protein, a  39.3      25 0.00031   36.3   0.0   25 1071-1095  118-142 (174)
+ 39 2P1Z_B Phosphoribosyltransfera  39.2      25 0.00031   36.3   0.0   26 1070-1095  112-137 (180)
+ 40 1G2Q_A ADENINE PHOSPHORIBOSYLT  38.9      26 0.00032   36.7   0.0   26 1070-1095  120-145 (187)
+ 41 5VJP_B Purine nucleoside phosp  38.9      26 0.00032   36.7   0.0   26 1070-1095  120-145 (187)
+ 42 3O7M_D Hypoxanthine phosphorib  38.9      26 0.00032   36.7   0.0   26 1071-1096   93-118 (186)
+ 43 4QYI_B Hypoxanthine phosphorib  38.9      26 0.00032   36.7   0.0   26 1071-1096   93-118 (186)
+ 44 5B6H_A Adenine phosphoribosylt  38.8      26 0.00032   36.3   0.0   25 1071-1095  116-140 (181)
+ 45 4LYY_A Hypoxanthine phosphorib  38.8      26 0.00032   37.6   0.0   25 1071-1095  112-136 (199)
+ 46 4LYY_D Hypoxanthine phosphorib  38.8      26 0.00032   37.6   0.0   25 1071-1095  112-136 (199)
+ 47 6FD4_A Adenine phosphoribosylt  38.8      26 0.00032   35.8   0.0   26 1070-1095  116-141 (178)
+ 48 1O57_D PURINE OPERON REPRESSOR  38.6      26 0.00032   38.8   0.0   25 1071-1095  195-219 (291)
+ 49 1MZV_A Adenine Phosphoribosylt  38.5      26 0.00033   38.2   0.0   26 1070-1095  137-162 (235)
+ 50 2AEE_A Orotate phosphoribosylt  37.6      28 0.00034   37.0   0.0   26 1070-1095  115-140 (211)
+ 51 2AEE_B Orotate phosphoribosylt  37.6      28 0.00034   37.0   0.0   26 1070-1095  115-140 (211)
+ 52 4P84_A Ancestral PyrR protein   37.5      28 0.00035   36.5   0.0   26 1070-1095   96-121 (180)
+ 53 5HIA_C Hypoxanthine-guanine ph  37.5      28 0.00035   38.0   0.0   27 1070-1096  131-157 (224)
+ 54 1P17_B hypoxanthine phosphorib  37.4      28 0.00035   38.1   0.0   26 1071-1096  103-128 (221)
+ 55 2GEB_A Hypoxanthine-guanine ph  36.7      29 0.00036   36.5   0.0   26 1071-1096   97-122 (185)
+ 56 2JBH_B PHOSPHORIBOSYLTRANSFERA  36.6      29 0.00036   38.0   0.0   26 1071-1096  133-158 (225)
+ 57 1UFR_B pyr mRNA-binding attenu  36.6      30 0.00037   36.7   0.0   25 1071-1095   95-119 (181)
+ 58 3DEZ_A Orotate phosphoribosylt  36.4      30 0.00037   38.4   0.0   25 1071-1095  148-172 (243)
+ 59 6D9Q_A Hypoxanthine phosphorib  36.4      30 0.00037   36.1   0.0   25 1071-1095   94-118 (183)
+ 60 6D9R_A Hypoxanthine phosphorib  36.4      30 0.00037   36.1   0.0   25 1071-1095   94-118 (183)
+ 61 6KP5_A Xanthine phosphoribosyl  36.3      30 0.00037   35.6   0.0   26 1070-1095   80-105 (153)
+ 62 6BNJ_D Hypoxanthine-guanine ph  36.2      30 0.00037   37.7   0.0   26 1071-1096  126-151 (218)
+ 63 4PAW_A HP1257; hypothetical pr  36.0      31 0.00038   37.6   0.0   24 1070-1093  126-149 (225)
+ 64 6IGS_A Hypoxanthine phosphorib  35.9      31 0.00038   35.8   0.0   26 1071-1096   94-119 (177)
+ 65 2WNS_A OROTATE PHOSPHORIBOSYLT  35.6      31 0.00039   36.9   0.0   26 1070-1095  109-134 (205)
+ 66 2WNS_B OROTATE PHOSPHORIBOSYLT  35.6      31 0.00039   36.9   0.0   26 1070-1095  109-134 (205)
+ 67 1QB7_A ADENINE PHOSPHORIBOSYLT  35.4      32 0.00039   37.5   0.0   26 1070-1095  136-161 (236)
+ 68 1QCD_A ADENINE PHOSPHORIBOSYLT  35.4      32 0.00039   37.5   0.0   26 1070-1095  136-161 (236)
+ 69 3OHP_C Hypoxanthine phosphorib  35.2      32  0.0004   35.7   0.0   25 1071-1095   90-114 (177)
+ 70 5JSQ_A Hypoxanthine-guanine ph  34.8      33 0.00041   37.5   0.0   26 1071-1096  111-136 (216)
+ 71 6APS_A Hypoxanthine-guanine ph  34.8      33 0.00041   37.5   0.0   26 1071-1096  111-136 (216)
+ 72 6IGS_B Hypoxanthine phosphorib  34.6      33 0.00041   35.6   0.0   27 1070-1096   93-119 (177)
+ 73 4FYM_A Orotate phosphoribosylt  34.5      34 0.00042   38.7   0.0   25 1071-1095  179-203 (266)
+ 74 4FYM_D Orotate phosphoribosylt  34.5      34 0.00042   38.7   0.0   25 1071-1095  179-203 (266)
+ 75 3N2L_A Orotate phosphoribosylt  34.2      34 0.00042   38.0   0.0   25 1071-1095  141-165 (238)
+ 76 3N2L_G Orotate phosphoribosylt  34.2      34 0.00042   38.0   0.0   25 1071-1095  141-165 (238)
+ 77 4WML_A OMP synthase (E.C.2.4.2  34.2      34 0.00042   37.5   0.0   26 1070-1095  122-147 (231)
+ 78 4QRI_A Hypoxanthine phosphorib  34.1      34 0.00043   37.1   0.0   25 1071-1095  116-140 (207)
+ 79 4QRI_B Hypoxanthine phosphorib  34.1      34 0.00043   37.1   0.0   25 1071-1095  116-140 (207)
+ 80 5ZC7_A Adenine phosphoribosylt  34.0      35 0.00043   35.8   0.0   25 1071-1095  122-146 (187)
+ 81 3H83_C Hypoxanthine phosphorib  33.6      35 0.00044   36.9   0.0   25 1071-1095  115-139 (204)
+ 82 3HVU_C Hypoxanthine phosphorib  33.6      35 0.00044   36.9   0.0   25 1071-1095  115-139 (204)
+ 83 5IAO_B Bifunctional protein Py  33.5      36 0.00044   36.9   0.0   26 1071-1096  111-136 (199)
+ 84 2DY0_B Adenine phosphoribosylt  33.4      36 0.00045   35.6   0.0   26 1070-1095  124-149 (190)
+ 85 1LH0_A OMP synthase (E.C.2.4.2  33.0      37 0.00046   36.4   0.0   24 1072-1095  117-140 (213)
+ 86 1LH0_B OMP synthase (E.C.2.4.2  33.0      37 0.00046   36.4   0.0   24 1072-1095  117-140 (213)
+ 87 3MJD_A Orotate phosphoribosylt  33.0      37 0.00046   37.4   0.0   26 1070-1095  134-159 (232)
+ 88 4P82_A Ancestral PyrR protein   32.8      37 0.00046   35.6   0.0   26 1071-1096   98-123 (183)
+ 89 3KB8_A Hypoxanthine phosphorib  32.7      38 0.00047   36.7   0.0   25 1071-1095  115-139 (204)
+ 90 4OHC_F Orotate phosphoribosylt  32.4      38 0.00047   37.5   0.0   26 1070-1095  129-154 (236)
+ 91 5VOG_A Putative phosphoribosyl  32.3      38 0.00048   35.7   0.0   25 1071-1095   97-121 (183)
+ 92 1TC1_B PROTEIN (HYPOXANTHINE P  31.8      40 0.00049   37.0   0.0   26 1071-1096  102-127 (220)
+ 93 1DQP_A GUANINE PHOSPHORIBOSYLT  31.6      40  0.0005   37.7   0.0   25 1071-1095  117-141 (230)
+ 94 5KNY_B Hypoxanthine-guanine ph  31.5      41  0.0005   36.5   0.0   26 1070-1095  118-143 (207)
+ 95 1FSG_A HYPOXANTHINE-GUANINE PH  31.5      41  0.0005   37.0   0.0   26 1071-1096  141-166 (233)
+ 96 3ACB_A Hypoxanthine-guanine ph  31.0      42 0.00052   35.4   0.0   25 1071-1095   94-118 (181)
+ 97 3ACC_A Hypoxanthine-guanine ph  31.0      42 0.00052   35.4   0.0   25 1071-1095   94-118 (181)
+ 98 3ACD_A Hypoxanthine-guanine ph  31.0      42 0.00052   35.4   0.0   25 1071-1095   94-118 (181)
+ 99 1D6N_B PROTEIN (HYPOXANTHINE-G  30.8      42 0.00053   36.2   0.0   25 1071-1095  122-146 (214)
+100 4TRC_B Adenine phosphoribosylt  30.4      43 0.00054   36.6   0.0   25 1071-1095   87-111 (210)
+101 4TS7_B Sulfolobus solfataricus  30.4      43 0.00054   36.6   0.0   25 1071-1095   87-111 (210)
+102 2PS1_B Orotate phosphoribosylt  30.3      44 0.00054   36.3   0.0   27 1070-1096  123-149 (226)
+103 4RHX_C Hypoxanthine-guanine ph  29.3      47 0.00058   35.8   0.0   25 1071-1095  113-137 (201)
+104 5IPF_A Hypoxanthine-guanine ph  29.1      47 0.00059   37.1   0.0   26 1071-1096  151-176 (250)
+105 1W30_B PYRR BIFUNCTIONAL PROTE  27.8      52 0.00064   35.9   0.0   26 1071-1096  111-136 (201)
+106 6MXC_C Hypoxanthine-guanine ph  27.7      52 0.00064   38.0   0.0   25 1071-1095  177-201 (272)
+107 1V9S_B uracil phosphoribosyltr  26.5      56  0.0007   34.5   0.0   25 1071-1095  122-146 (208)
+108 1V9S_D uracil phosphoribosyltr  26.5      56  0.0007   34.5   0.0   25 1071-1095  122-146 (208)
+109 1AO0_B GLUTAMINE PHOSPHORIBOSY  25.7      60 0.00074   38.8   0.0   26 1071-1096  337-362 (459)
+110 5E38_A Uracil phosphoribosyltr  23.8      68 0.00084   34.7   0.0   25 1071-1095  130-154 (216)
+111 5E38_D Uracil phosphoribosyltr  23.8      68 0.00084   34.7   0.0   25 1071-1095  130-154 (216)
+112 4TWB_A Sulfolobus solfataricus  22.7      74 0.00091   36.5   0.0   23 1071-1093  208-230 (291)
+113 6NFE_B Ribose-phosphate pyroph  22.1      77 0.00096   37.0   0.0   25 1071-1095  220-244 (323)
+114 1UPU_A URACIL PHOSPHORIBOSYLTR  22.0      78 0.00097   34.5   0.0   25 1071-1095  136-160 (224)
+115 1O5O_A Uracil phosphoribosyltr  21.7      80 0.00099   34.6   0.0   25 1071-1095  135-159 (221)
+116 1O5O_B Uracil phosphoribosyltr  21.7      80 0.00099   34.6   0.0   25 1071-1095  135-159 (221)
+117 6CZF_A Amidophosphoribosyltran  21.2      83   0.001   38.5   0.0   26 1071-1096  358-383 (498)
+118 1I5E_A URACIL PHOSPHORIBOSYLTR  20.7      87  0.0011   33.5   0.0   25 1071-1095  123-147 (209)
+119 2EHJ_C Uracil phosphoribosyltr  20.3      89  0.0011   33.5   0.0   25 1071-1095  122-146 (208)
+120 1ECG_B GLUTAMINE PHOSPHORIBOSY  20.1      91  0.0011   38.3   0.0   26 1071-1096  358-383 (504)
+
+No 1
+>1R3U_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); phosphoribosyltransferase, Thermoanaerobacter tengcongensis, purine salvage; 2.5A {Thermoanaerobacter tengcongensis} SCOP: c.61.1.1
+Probab=60.20  E-value=6.9  Score=41.73  Aligned_cols=26  Identities=35%  Similarity=0.463  Sum_probs=21.7  Template_Neff=8.800
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||+.+..+...+-
+T Consensus       117 ~~k~VliVDDvi~tG~Tl~~~i~~L~  142 (205)
+T 1R3U_A          117 EGKDVLIVEDIIDSGLTLAYLRETLL  142 (205)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCCeEEEEEeecCCCHHHHHHHHHHh
+Confidence            46899999999999998887666653
+
+
+No 2
+>4ZFN_B hgxprt (E.C.2.4.2.8); Transferase, HGXPRT, HGPRT, purine phosphoribosyltransferase; HET: SO4, 5GP; 1.901A {Sulfolobus solfataricus P2}
+Probab=57.79  E-value=8.1  Score=40.18  Aligned_cols=25  Identities=32%  Similarity=0.454  Sum_probs=21.0  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||.....+...+
+T Consensus        85 ~~k~vLIVDDi~~TG~Tl~~~~~~L  109 (179)
+T 4ZFN_B           85 EGKKVLVVDDVADTGETLEAVSNVI  109 (179)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEEeeeCccHHHHHHHHHH
+Confidence            5789999999999999877666555
+
+
+No 3
+>5BQP_A hgxprt (E.C.2.4.2.8); Transferase, HGXPRT, HGPRT, purine phosphoribosyltransferase; HET: PG4, PO4, PGE, SO4, 4UO, GOL; 1.7A {Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)}
+Probab=57.79  E-value=8.1  Score=40.18  Aligned_cols=25  Identities=32%  Similarity=0.454  Sum_probs=21.0  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||.....+...+
+T Consensus        85 ~~k~vLIVDDi~~TG~Tl~~~~~~L  109 (179)
+T 5BQP_A           85 EGKKVLVVDDVADTGETLEAVSNVI  109 (179)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEEeeeCccHHHHHHHHHH
+Confidence            5789999999999999877666555
+
+
+No 4
+>1VDM_G purine phosphoribosyltransferase (E.C.2.4.2.-); purine phosphoribosyltransferase, Pyrococcus horikoshii, Structural; 2.5A {Pyrococcus horikoshii} SCOP: c.61.1.1
+Probab=56.77  E-value=8.7  Score=38.24  Aligned_cols=25  Identities=32%  Similarity=0.566  Sum_probs=21.0  Template_Neff=9.700
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+......+
+T Consensus        82 ~~~~vllvDDvi~tG~t~~~~~~~l  106 (153)
+T 1VDM_G           82 KDKRVVIVDDVSDTGKTLEVVIEEV  106 (153)
+T ss_dssp             BTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEEcccCCCHHHHHHHHHH
+Confidence            5789999999999999888666654
+
+
+No 5
+>1VDM_K purine phosphoribosyltransferase (E.C.2.4.2.-); purine phosphoribosyltransferase, Pyrococcus horikoshii, Structural; 2.5A {Pyrococcus horikoshii} SCOP: c.61.1.1
+Probab=52.07  E-value=12  Score=37.38  Aligned_cols=25  Identities=32%  Similarity=0.566  Sum_probs=20.8  Template_Neff=9.700
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+......+
+T Consensus        82 ~~~~VllvDDvi~tG~t~~~~~~~l  106 (153)
+T 1VDM_K           82 KDKRVVIVDDVSDTGKTLEVVIEEV  106 (153)
+T ss_dssp             BTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEEcccCCCHHHHHHHHHH
+Confidence            5789999999999999887666554
+
+
+No 6
+>1L1Q_A adenine phosphoribosyltransferase (E.C.2.4.2.7); adenine, APRTase, Giardia lamblia, purine; HET: SO4, 9DA; 1.85A {Giardia intestinalis} SCOP: c.61.1.1
+Probab=48.49  E-value=15  Score=38.66  Aligned_cols=25  Identities=24%  Similarity=0.449  Sum_probs=21.0  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||.++..+...+
+T Consensus       116 ~gk~VLiVDDvi~tG~Tl~~~~~~L  140 (186)
+T 1L1Q_A          116 PHDVVLLHDDVLATGGTLLAAIELC  140 (186)
+T ss_dssp             TTCCEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCcccCCHHHHHHHHHH
+Confidence            5789999999999999887665544
+
+
+No 7
+>5YW2_C Adenine phosphoribosyltransferase (E.C.2.4.2.7); Transferase; HET: SO4; 2.28A {Francisella tularensis}
+Probab=47.22  E-value=16  Score=37.47  Aligned_cols=26  Identities=19%  Similarity=0.387  Sum_probs=21.5  Template_Neff=9.700
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.||.+...+.+.+
+T Consensus       118 ~~g~~VLlVDDvi~tG~t~~~~~~~l  143 (179)
+T 5YW2_C          118 KVTDEVLVVDDLLATGGTAKATVDLI  143 (179)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             cCCCeEEEEEccccCCHHHHHHHHHH
+Confidence            35689999999999999888766554
+
+
+No 8
+>5YW5_C Adenine phosphoribosyltransferase (E.C.2.4.2.7); Transferase; HET: ADE; 1.9A {Francisella tularensis}
+Probab=47.22  E-value=16  Score=37.47  Aligned_cols=26  Identities=19%  Similarity=0.387  Sum_probs=21.5  Template_Neff=9.700
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.||.+...+.+.+
+T Consensus       118 ~~g~~VLlVDDvi~tG~t~~~~~~~l  143 (179)
+T 5YW5_C          118 KVTDEVLVVDDLLATGGTAKATVDLI  143 (179)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             cCCCeEEEEEccccCCHHHHHHHHHH
+Confidence            35689999999999999888766554
+
+
+No 9
+>6FCH_A Adenine phosphoribosyltransferase (E.C.2.4.2.7); Rossman fold, transferase; HET: PRP; 1.45A {Homo sapiens}
+Probab=46.01  E-value=17  Score=37.11  Aligned_cols=26  Identities=23%  Similarity=0.427  Sum_probs=21.5  Template_Neff=9.800
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||..+......+
+T Consensus       116 ~~g~~vliVDDvv~tG~t~~~~~~~l  141 (178)
+T 6FCH_A          116 EPGQRVVVVDDLLATGGTMNAACELL  141 (178)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEeccccCcHHHHHHHHHH
+Confidence            35789999999999999888666544
+
+
+No 10
+>5ZGO_B Adenine phosphoribosyltransferase; Phosphoribosyltransferase, Thermostable, Enzyme, Nucleic acid; 2.6A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=45.65  E-value=17  Score=37.69  Aligned_cols=25  Identities=24%  Similarity=0.425  Sum_probs=21.5  Template_Neff=9.200
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++.+++|||.+.||+++..+...+
+T Consensus       119 ~~k~vLlVDDvi~TG~T~~~~~~~L  143 (178)
+T 5ZGO_B          119 RGKKVAIVDDVVSTGSTLAGLRELI  143 (178)
+T ss_dssp             TTCEEEEECSEECSSSHHHHHHHHH
+T ss_pred             CCCeEEEEecCCCCCHHHHHHHHHH
+Confidence            5789999999999999988766655
+
+
+No 11
+>1VCH_D Phosphoribosyltransferase-related protein(E.C.2.4.2.7); transferase, Structural Genomics, RIKEN Structural; HET: ACY; 1.94A {Thermus thermophilus} SCOP: c.61.1.1
+Probab=44.78  E-value=18  Score=37.33  Aligned_cols=26  Identities=19%  Similarity=0.386  Sum_probs=22.1  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||++.||++.......+.
+T Consensus       119 ~gk~vLlVDD~~~tG~T~~~~~~~L~  144 (175)
+T 1VCH_D          119 LNQRVVLVSDVVASGETMRAMEKMVL  144 (175)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHHH
+T ss_pred             cCCEEEEEecccCCcHHHHHHHHHHH
+Confidence            47899999999999998887766664
+
+
+No 12
+>5HKL_A Orotate phosphoribosyltransferase (E.C.2.4.2.10); OPRT, de novo pyrimidine nucleotide; 1.899A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+Probab=44.61  E-value=18  Score=38.09  Aligned_cols=26  Identities=15%  Similarity=0.387  Sum_probs=21.3  Template_Neff=9.000
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.+|+++......+
+T Consensus       122 ~~g~~VllVDDvittG~tl~~~~~~l  147 (190)
+T 5HKL_A          122 VTGQRVLVVEDTSTTGNSALTAVHAV  147 (190)
+T ss_dssp             CTTSEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            35789999999999999888665554
+
+
+No 13
+>5KNS_B Hypoxanthine-guanine phosphoribosyltransferase; Acyclic nucleoside phosphonate, EcHPRT, phosphoribosyltransferase; HET: 3L7, EPE; 2.792A {Escherichia coli}
+Probab=43.61  E-value=19  Score=37.66  Aligned_cols=25  Identities=36%  Similarity=0.500  Sum_probs=20.5  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+++..+.+.+
+T Consensus        95 ~~k~VliVDDii~tG~Tl~~~~~~l  119 (182)
+T 5KNS_B           95 RGKDVLIVEDIIDSGNTLSKVREIL  119 (182)
+T ss_dssp             TTSEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEECcCCCCHHHHHHHHHH
+Confidence            4689999999999999887665444
+
+
+No 14
+>5KNX_B Hypoxanthine-guanine phosphoribosyltransferase; Acyclic nucleoside phosphonate, EcHPRT, phosphoribosyltransferase; HET: 6WC; 2.4A {Escherichia coli}
+Probab=43.61  E-value=19  Score=37.66  Aligned_cols=25  Identities=36%  Similarity=0.500  Sum_probs=20.5  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+++..+.+.+
+T Consensus        95 ~~k~VliVDDii~tG~Tl~~~~~~l  119 (182)
+T 5KNX_B           95 RGKDVLIVEDIIDSGNTLSKVREIL  119 (182)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCEEEEEECcCCCCHHHHHHHHHH
+Confidence            4689999999999999887665444
+
+
+No 15
+>5VN4_A Adenine phosphoribosyltransferase, putative (E.C.2.4.2.7); SSGCID, Structural Genomics, Seattle Structural; HET: PPV, HSX, ADE; 1.35A {Trypanosoma brucei brucei (strain 927/4 GUTat10.1)}
+Probab=43.00  E-value=20  Score=39.51  Aligned_cols=26  Identities=31%  Similarity=0.543  Sum_probs=21.3  Template_Neff=8.700
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+++..+...+
+T Consensus       145 ~~gk~VLIVDDvitTG~Tl~~~~~~L  170 (243)
+T 5VN4_A          145 DKNSRVVLIDDVIATGGTMLAGVQLV  170 (243)
+T ss_dssp             CTTCEEEEECSEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEeCcccCCHHHHHHHHHH
+Confidence            35789999999999999888765554
+
+
+No 16
+>1A97_C XANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE, BORIC ACID, GUANOSINE-5'-MONOPHOSPHATE; PHOSPHORIBOSYLTRANSFERASE, TRANSFERASE, PURINE SALVAGE ENZYME; HET: 5GP, BO3; 2.6A {Escherichia coli} SCOP: c.61.1.1
+Probab=42.30  E-value=21  Score=36.21  Aligned_cols=24  Identities=25%  Similarity=0.425  Sum_probs=20.0  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFND 1094 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqE 1094 (1259)
+                      .++++++|||++.||+.+..+...
+T Consensus        78 ~gk~vliVDDii~tG~Tl~~~~~~  101 (148)
+T 1A97_C           78 DGEGFIVIDDLVDTGGTAVAIREM  101 (148)
+T ss_dssp             CCTTEEEEEEEESSSHHHHHHHHH
+T ss_pred             CCCEEEEEEEEcCCCHHHHHHHHH
+Confidence            578999999999999988765543
+
+
+No 17
+>4LZA_B Adenine phosphoribosyltransferase (E.C.2.4.2.7); STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE; 1.84A {Thermoanaerobacter pseudethanolicus}
+Probab=41.78  E-value=22  Score=37.83  Aligned_cols=26  Identities=19%  Similarity=0.459  Sum_probs=21.2  Template_Neff=8.900
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+++......+
+T Consensus       134 ~~g~~VliVDDvitTG~Tl~~~~~~L  159 (195)
+T 4LZA_B          134 LEGQRVVIVDDLLATGGTIYASAKLV  159 (195)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHH-
+T ss_pred             cCCCEEEEEeCcCCCCHHHHHHHHHH
+Confidence            35789999999999999888766654
+
+
+No 18
+>4PFQ_C phosphoribosyltransferase; STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE; HET: MSE, MG; 2.1A {Brachybacterium faecium}
+Probab=41.64  E-value=22  Score=38.33  Aligned_cols=26  Identities=27%  Similarity=0.478  Sum_probs=22.1  Template_Neff=8.700
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+++..+...+
+T Consensus       117 ~~gk~vllVDDii~TG~Tl~~~~~~L  142 (207)
+T 4PFQ_C          117 ITDRNVLIVEDIIDSGLTLKWLLSNL  142 (207)
+T ss_dssp             CTTCEEEEEEEEECSCSHHHHHHHHH
+T ss_pred             CCCCeEEEEeCCCCCCHHHHHHHHHH
+Confidence            35789999999999999888777665
+
+
+No 19
+>4RQA_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); PRTase, NYSGRC, Structural Genomics, PSI-Biology; HET: GOL; 1.48A {Staphylococcus aureus subsp. aureus}
+Probab=41.24  E-value=22  Score=37.45  Aligned_cols=25  Identities=28%  Similarity=0.485  Sum_probs=21.0  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+.+..+...+
+T Consensus        97 ~gk~VLlVDDvi~tG~Tl~~~i~~l  121 (186)
+T 4RQA_A           97 ENKDVLIIEDILETGTTLKSITELL  121 (186)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCceEEEEecccccCHHHHHHHHHH
+Confidence            5789999999999999888666654
+
+
+No 20
+>4RQB_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); PRTase, NYSGRC, Structural Genomics, PSI-Biology; HET: UNL, GOL, SO4; 2.45A {Staphylococcus aureus subsp. aureus}
+Probab=41.24  E-value=22  Score=37.45  Aligned_cols=25  Identities=28%  Similarity=0.485  Sum_probs=21.0  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+.+..+...+
+T Consensus        97 ~gk~VLlVDDvi~tG~Tl~~~i~~l  121 (186)
+T 4RQB_A           97 ENKDVLIIEDILETGTTLKSITELL  121 (186)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCceEEEEecccccCHHHHHHHHHH
+Confidence            5789999999999999888666654
+
+
+No 21
+>1WD5_A hypothetical protein TT1426; structural genomics, hypothetical protein, RIKEN; HET: MES; 2.0A {Thermus thermophilus} SCOP: c.61.1.1
+Probab=40.77  E-value=23  Score=37.72  Aligned_cols=25  Identities=20%  Similarity=0.565  Sum_probs=20.8  Template_Neff=9.200
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+++......+
+T Consensus       119 ~gk~VliVDD~i~tG~T~~~~i~~L  143 (208)
+T 1WD5_A          119 KGRDVVLVDDGVATGASMEAALSVV  143 (208)
+T ss_dssp             TTSEEEEECSCBSSCHHHHHHHHHH
+T ss_pred             CCCEEEEEcCCCCCcHHHHHHHHHH
+Confidence            5789999999999999888665544
+
+
+No 22
+>1PZM_B hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); TRANSFERASE; HET: 5GP; 2.1A {Leishmania tarentolae} SCOP: c.61.1.1
+Probab=40.74  E-value=23  Score=37.80  Aligned_cols=27  Identities=19%  Similarity=0.433  Sum_probs=22.8  Template_Neff=9.200
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLLG 1097 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWFG 1097 (1259)
+                      .++++++|||++.||+.+..+.+.+-.
+T Consensus       117 ~gk~VLiVDDii~tG~Tl~~~~~~l~~  143 (211)
+T 1PZM_B          117 ENRHIMLVEDIVDSAITLQYLMRFMLA  143 (211)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHHHT
+T ss_pred             CCCEEEEEEccCCccHHHHHHHHHHHh
+Confidence            578999999999999998887776643
+
+
+No 23
+>1P4A_B Pur operon repressor; TRANSCRIPTION; HET: PCP; 2.22A {Bacillus subtilis} SCOP: c.61.1.1, a.4.5.40
+Probab=40.61  E-value=23  Score=39.19  Aligned_cols=25  Identities=32%  Similarity=0.526  Sum_probs=21.1  Template_Neff=9.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+++..+...+
+T Consensus       195 ~gk~VLiVDDv~~TG~Tl~~~~~~L  219 (285)
+T 1P4A_B          195 TGSNVLIIDDFMKAGGTINGMINLL  219 (285)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCcccCCHHHHHHHHHH
+Confidence            5789999999999999888766554
+
+
+No 24
+>1P4A_C Pur operon repressor; TRANSCRIPTION; HET: PCP; 2.22A {Bacillus subtilis} SCOP: a.4.5.40, c.61.1.1
+Probab=40.61  E-value=23  Score=39.19  Aligned_cols=25  Identities=32%  Similarity=0.526  Sum_probs=21.1  Template_Neff=9.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+++..+...+
+T Consensus       195 ~gk~VLiVDDv~~TG~Tl~~~~~~L  219 (285)
+T 1P4A_C          195 TGSNVLIIDDFMKAGGTINGMINLL  219 (285)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCcccCCHHHHHHHHHH
+Confidence            5789999999999999888766554
+
+
+No 25
+>1Y0B_A Xanthine phosphoribosyltransferase (E.C.2.4.2.-); xanthine, purine metabolism, phosphoribosyltransferase, structural; HET: MSE, G4P; 1.8A {Bacillus subtilis} SCOP: c.61.1.1
+Probab=40.60  E-value=23  Score=37.38  Aligned_cols=26  Identities=23%  Similarity=0.397  Sum_probs=21.4  Template_Neff=9.200
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      ..++++++|||.+.+|+.+..+...+
+T Consensus       118 ~~gk~vLlVDDvi~tG~Tl~~~~~~L  143 (197)
+T 1Y0B_A          118 SDQDHVLIIDDFLANGQAAHGLVSIV  143 (197)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCCEEEEEECcccCCHHHHHHHHHH
+Confidence            35789999999999999887666554
+
+
+No 26
+>1Y0B_D Xanthine phosphoribosyltransferase (E.C.2.4.2.-); xanthine, purine metabolism, phosphoribosyltransferase, structural; HET: G4P; 1.8A {Bacillus subtilis} SCOP: c.61.1.1
+Probab=40.60  E-value=23  Score=37.38  Aligned_cols=26  Identities=23%  Similarity=0.397  Sum_probs=21.4  Template_Neff=9.200
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      ..++++++|||.+.+|+.+..+...+
+T Consensus       118 ~~gk~vLlVDDvi~tG~Tl~~~~~~L  143 (197)
+T 1Y0B_D          118 SDQDHVLIIDDFLANGQAAHGLVSIV  143 (197)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCCEEEEEECcccCCHHHHHHHHHH
+Confidence            35789999999999999887666554
+
+
+No 27
+>1HGX_A HYPOXANTHINE-GUANINE-XANTHINE PHOSPHORIBOSYLTRANSFERASE, GUANOSINE-5'-MONOPHOSPHATE; TRANSFERASE, GLYCOSYLTRANSFERASE, PURINE SALVAGE, TRANSFERASE; HET: 5GP; 1.9A {Tritrichomonas foetus} SCOP: c.61.1.1
+Probab=40.60  E-value=23  Score=37.05  Aligned_cols=25  Identities=28%  Similarity=0.627  Sum_probs=21.6  Template_Neff=9.100
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.||+.+..+.+.+
+T Consensus        94 ~~k~VLiVDDii~tG~Tl~~~~~~l  118 (183)
+T 1HGX_A           94 EGRHVLVVEDIIDTGLTMYQLLNNL  118 (183)
+T ss_dssp             TTSEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCccCccHHHHHHHHHH
+Confidence            5789999999999999888777665
+
+
+No 28
+>3M3H_A ---; Orotate Phosphoribosyltransferase, Pyrimidine Ribonucleotide Biosynthesis; 1.75A {Bacillus anthracis}
+Probab=40.30  E-value=24  Score=38.70  Aligned_cols=26  Identities=31%  Similarity=0.557  Sum_probs=21.4  Template_Neff=8.800
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.+|+++..+...+
+T Consensus       135 ~~gk~VLIVDDvitTG~Tl~~~i~~L  160 (234)
+T 3M3H_A          135 EKGQKVVVVEDLISTGGSAITCVEAL  160 (234)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEEcccCCchHHHHHHHHH
+Confidence            35789999999999999888665544
+
+
+No 29
+>4RV4_B Orotate phosphoribosyltransferase (E.C.2.4.2.10); PYRIMIDINE RIBONUCLEOTIDE BIOSYNTHESIS, CENTER FOR; HET: PRP; 2.65A {Bacillus anthracis}
+Probab=40.30  E-value=24  Score=38.70  Aligned_cols=26  Identities=31%  Similarity=0.557  Sum_probs=21.4  Template_Neff=8.800
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.+|+++..+...+
+T Consensus       135 ~~gk~VLIVDDvitTG~Tl~~~i~~L  160 (234)
+T 4RV4_B          135 EKGQKVVVVEDLISTGGSAITCVEAL  160 (234)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEEcccCCchHHHHHHHHH
+Confidence            35789999999999999888665544
+
+
+No 30
+>2JKY_A HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE (E.C.2.4.2.8); NUCLEUS, MAGNESIUM, GMP COMPLEX, FLIP; HET: 5GP, SO4; 2.3A {SACCHAROMYCES CEREVISIAE}
+Probab=40.15  E-value=24  Score=38.41  Aligned_cols=26  Identities=19%  Similarity=0.300  Sum_probs=22.0  Template_Neff=8.500
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+.+..+...+
+T Consensus       100 ~~gk~VLIVDDiidTG~Tl~~~~~~L  125 (213)
+T 2JKY_A          100 LVGKNVLIVDEVDDTRTTLHYALSEL  125 (213)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             cCCCEEEEEEccCCCHHHHHHHHHHH
+Confidence            35789999999999999888777655
+
+
+No 31
+>2YZK_A Orotate phosphoribosyltransferase (E.C.2.4.2.10); Rossmann fold, Glycosyltransferase, Magnesium, Pyrimidine; HET: PO4, MSE; 1.8A {Aeropyrum pernix}
+Probab=39.72  E-value=24  Score=36.43  Aligned_cols=25  Identities=24%  Similarity=0.381  Sum_probs=20.8  Template_Neff=9.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||.+.+|+++..+...+
+T Consensus       105 ~~k~vliVDDvi~tG~t~~~~~~~l  129 (178)
+T 2YZK_A          105 PKGRVVVVDDVATTGTSIAKSIEVL  129 (178)
+T ss_dssp             CSSEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            4689999999999999888665544
+
+
+No 32
+>2YZK_C Orotate phosphoribosyltransferase (E.C.2.4.2.10); Rossmann fold, Glycosyltransferase, Magnesium, Pyrimidine; HET: PO4, MSE; 1.8A {Aeropyrum pernix}
+Probab=39.72  E-value=24  Score=36.43  Aligned_cols=25  Identities=24%  Similarity=0.381  Sum_probs=20.8  Template_Neff=9.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||.+.+|+++..+...+
+T Consensus       105 ~~k~vliVDDvi~tG~t~~~~~~~l  129 (178)
+T 2YZK_C          105 PKGRVVVVDDVATTGTSIAKSIEVL  129 (178)
+T ss_dssp             CSSEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            4689999999999999888665544
+
+
+No 33
+>4M0K_A Adenine phosphoribosyltransferase (E.C.2.4.2.7); STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE; HET: AMP, MSE; 1.4A {Rhodothermus marinus}
+Probab=39.68  E-value=25  Score=37.46  Aligned_cols=25  Identities=24%  Similarity=0.365  Sum_probs=21.0  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.+|+++..+...+
+T Consensus       138 ~g~~VLiVDDvi~tG~T~~~~~~~L  162 (199)
+T 4M0K_A          138 PGDRVLIHDDVIATGGTAEATIRLV  162 (199)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCCHHHHHHHHHH
+Confidence            5789999999999999888665554
+
+
+No 34
+>4M0K_D Adenine phosphoribosyltransferase (E.C.2.4.2.7); STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE; HET: MSE, AMP; 1.4A {Rhodothermus marinus}
+Probab=39.68  E-value=25  Score=37.46  Aligned_cols=25  Identities=24%  Similarity=0.365  Sum_probs=21.0  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.+|+++..+...+
+T Consensus       138 ~g~~VLiVDDvi~tG~T~~~~~~~L  162 (199)
+T 4M0K_D          138 PGDRVLIHDDVIATGGTAEATIRLV  162 (199)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCCHHHHHHHHHH
+Confidence            5789999999999999888665554
+
+
+No 35
+>2XBU_B HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE (E.C.2.4.2.8); GLYCOSYLTRANSFERASE, TRANSFERASE, PURINE SALVAGE, FLIP; HET: 5GP; 1.8A {SACCHAROMYCES CEREVISIAE}
+Probab=39.52  E-value=25  Score=38.67  Aligned_cols=26  Identities=19%  Similarity=0.300  Sum_probs=22.3  Template_Neff=8.300
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+.+..+...+
+T Consensus       101 ~~gk~VLIVDDiidTG~Tl~~~~~~L  126 (221)
+T 2XBU_B          101 LVGKNVLIVDEVDDTRTTLHYALSEL  126 (221)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             cCCCEEEEEecccCChHHHHHHHHHH
+Confidence            35789999999999999988887755
+
+
+No 36
+>5ESW_A Purine/pyrimidine phosphoribosyltransferase (E.C.2.4.2.8); hypoxanthine-guanine phosphoribosyltransferase, TRANSFERASE; 2.4A {Legionella pneumophila subsp. pneumophila strain Philadelphia 1}
+Probab=39.51  E-value=25  Score=37.28  Aligned_cols=26  Identities=23%  Similarity=0.482  Sum_probs=21.8  Template_Neff=9.100
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||++.||+.+..+...+-
+T Consensus       105 ~gk~VLlVDDii~tG~Tl~~~~~~l~  130 (197)
+T 5ESW_A          105 AGRTVLVVDDILDGGITLAAIINEIK  130 (197)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCCeEEEEEccCCchHHHHHHHHHHH
+Confidence            46899999999999999887766653
+
+
+No 37
+>5ESW_B Purine/pyrimidine phosphoribosyltransferase (E.C.2.4.2.8); hypoxanthine-guanine phosphoribosyltransferase, TRANSFERASE; 2.4A {Legionella pneumophila subsp. pneumophila strain Philadelphia 1}
+Probab=39.51  E-value=25  Score=37.28  Aligned_cols=26  Identities=23%  Similarity=0.482  Sum_probs=21.8  Template_Neff=9.100
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||++.||+.+..+...+-
+T Consensus       105 ~gk~VLlVDDii~tG~Tl~~~~~~l~  130 (197)
+T 5ESW_B          105 AGRTVLVVDDILDGGITLAAIINEIK  130 (197)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCCeEEEEEccCCchHHHHHHHHHHH
+Confidence            46899999999999999887766653
+
+
+No 38
+>6FSP_D PRPP-binding protein, adenine/guanine phosphoribosyltransferase; TRANSFERASE; 2.7A {Thermus thermophilus}
+Probab=39.28  E-value=25  Score=36.32  Aligned_cols=25  Identities=24%  Similarity=0.425  Sum_probs=21.1  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+.+..+...+
+T Consensus       118 ~~~~vLiVDDvi~tG~T~~~~~~~L  142 (174)
+T 6FSP_D          118 RGKKVAIVDDVVSTGSTLAGLRELI  142 (174)
+T ss_dssp             TTSEEEEEEEEECSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCCHHHHHHHHHH
+Confidence            5789999999999999888766554
+
+
+No 39
+>2P1Z_B Phosphoribosyltransferase (E.C.2.4.2.10); Corynebacterium diphtheriae, Phosphoribosyltransferase, Structural Genomics; 2.44A {Corynebacterium diphtheriae}
+Probab=39.18  E-value=25  Score=36.29  Aligned_cols=26  Identities=23%  Similarity=0.410  Sum_probs=21.7  Template_Neff=9.500
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.+|++...+...+
+T Consensus       112 ~~g~~vliVDDvi~tG~t~~~~i~~l  137 (180)
+T 2P1Z_B          112 VVGKKVLVVEDTTTTGNSPLTAVKAL  137 (180)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEECCCCCChHHHHHHHHH
+Confidence            35789999999999999988766555
+
+
+No 40
+>1G2Q_A ADENINE PHOSPHORIBOSYLTRANSFERASE 1 (E.C. 2.4.2.7); dimer, single domain, catalytic loop; 1.5A {Saccharomyces cerevisiae} SCOP: c.61.1.1
+Probab=38.95  E-value=26  Score=36.68  Aligned_cols=26  Identities=27%  Similarity=0.341  Sum_probs=20.8  Template_Neff=9.300
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+.+..+...+
+T Consensus       120 ~~gk~VliVDDvi~tG~T~~~~~~~l  145 (187)
+T 1G2Q_A          120 PAGSNVIIVDDIIATGGSAAAAGELV  145 (187)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCCeEEEEeCcccCcHHHHHHHHHH
+Confidence            35789999999999999877655443
+
+
+No 41
+>5VJP_B Purine nucleoside phosphorylase (E.C.2.4.2.1); Adenine phosphoribosyltransferase, Transition state analogue; HET: IR9, EDO, ADE; 1.98A {Saccharomyces cerevisiae}
+Probab=38.95  E-value=26  Score=36.68  Aligned_cols=26  Identities=27%  Similarity=0.341  Sum_probs=20.8  Template_Neff=9.300
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+.+..+...+
+T Consensus       120 ~~gk~VliVDDvi~tG~T~~~~~~~l  145 (187)
+T 5VJP_B          120 PAGSNVIIVDDIIATGGSAAAAGELV  145 (187)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCeEEEEeCcccCcHHHHHHHHHH
+Confidence            35789999999999999877655443
+
+
+No 42
+>3O7M_D Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); Hypoxanthine-Guanine Phosphoribosyltransferase, Salvage of nucleosides; HET: GOL, BME, SO4; 1.98A {Bacillus anthracis}
+Probab=38.93  E-value=26  Score=36.74  Aligned_cols=26  Identities=31%  Similarity=0.420  Sum_probs=21.7  Template_Neff=9.200
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||..+..+...+-
+T Consensus        93 ~~k~VLiVDDii~tG~Tl~~~~~~l~  118 (186)
+T 3O7M_D           93 TGKNVIVVEDIIDSGLTLHFLKDHFF  118 (186)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCCEEEEEecccCCcHHHHHHHHHHH
+Confidence            46899999999999998887666553
+
+
+No 43
+>4QYI_B Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); Hypoxanthine-Guanine Phosphoribosyltransferase, Salvage of nucleosides; HET: EPE, CME, PO4; 1.95A {Bacillus anthracis}
+Probab=38.93  E-value=26  Score=36.74  Aligned_cols=26  Identities=31%  Similarity=0.420  Sum_probs=21.7  Template_Neff=9.200
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||..+..+...+-
+T Consensus        93 ~~k~VLiVDDii~tG~Tl~~~~~~l~  118 (186)
+T 4QYI_B           93 TGKNVIVVEDIIDSGLTLHFLKDHFF  118 (186)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCCEEEEEecccCCcHHHHHHHHHHH
+Confidence            46899999999999998887666553
+
+
+No 44
+>5B6H_A Adenine phosphoribosyltransferase (E.C.2.4.2.7); adenine phosphoribosyltransferase, TRANSFERASE; HET: AMP; 1.9A {Yersinia pseudotuberculosis serotype I (strain IP32953)}
+Probab=38.84  E-value=26  Score=36.26  Aligned_cols=25  Identities=20%  Similarity=0.458  Sum_probs=20.9  Template_Neff=9.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.+|++...+...+
+T Consensus       116 ~g~~VliVDDvi~tG~tl~~~~~~l  140 (181)
+T 5B6H_A          116 PGDKVLVVDDLLATGGTIEATVKLI  140 (181)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEECcccCCHHHHHHHHHH
+Confidence            5689999999999999888765554
+
+
+No 45
+>4LYY_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE; HET: PO4; 1.86A {Shewanella pealeana}
+Probab=38.81  E-value=26  Score=37.59  Aligned_cols=25  Identities=32%  Similarity=0.492  Sum_probs=21.6  Template_Neff=8.700
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.+|+++..++..+
+T Consensus       112 ~~~~vliVDDii~TG~Tl~~~~~~L  136 (199)
+T 4LYY_A          112 QGRDVLIVEDLIDSGNTLNKVRDML  136 (199)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEECCCCCCHHHHHHHHHH
+Confidence            4689999999999999988776665
+
+
+No 46
+>4LYY_D Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); STRUCTURAL GENOMICS, PROTEIN STRUCTURE INITIATIVE; HET: PO4, MSE; 1.86A {Shewanella pealeana}
+Probab=38.81  E-value=26  Score=37.59  Aligned_cols=25  Identities=32%  Similarity=0.492  Sum_probs=21.6  Template_Neff=8.700
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.+|+++..++..+
+T Consensus       112 ~~~~vliVDDii~TG~Tl~~~~~~L  136 (199)
+T 4LYY_D          112 QGRDVLIVEDLIDSGNTLNKVRDML  136 (199)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEECCCCCCHHHHHHHHHH
+Confidence            4689999999999999988776665
+
+
+No 47
+>6FD4_A Adenine phosphoribosyltransferase (E.C.2.4.2.7); ROSSMAN FOLD, TRANSFERASE; HET: PRP; 1.5A {Homo sapiens}
+Probab=38.79  E-value=26  Score=35.84  Aligned_cols=26  Identities=23%  Similarity=0.427  Sum_probs=21.2  Template_Neff=9.800
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+++..+...+
+T Consensus       116 ~~g~~VliVDDvi~tG~t~~~~~~~l  141 (178)
+T 6FD4_A          116 EPGQRVVVVDDLLATGGTMNAACELL  141 (178)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEeccccCcHHHHHHHHHH
+Confidence            35789999999999999888666543
+
+
+No 48
+>1O57_D PURINE OPERON REPRESSOR; PURINE OPERON REPRESSOR, HELIX-TURN-HELIX DOMAIN; HET: 1PE, EPE, 2PE, P6G, PG4, SO4; 2.2A {Bacillus subtilis} SCOP: c.61.1.1, a.4.5.40
+Probab=38.57  E-value=26  Score=38.82  Aligned_cols=25  Identities=32%  Similarity=0.526  Sum_probs=20.6  Template_Neff=9.600
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+.+..+...+
+T Consensus       195 ~gk~VliVDDvi~tG~T~~~~~~~l  219 (291)
+T 1O57_D          195 TGSNVLIIDDFMKAGGTINGMINLL  219 (291)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCccCCHHHHHHHHHH
+Confidence            5789999999999999877665543
+
+
+No 49
+>1MZV_A Adenine Phosphoribosyltransferase (E.C.2.4.2.7); alpha/beta structure, TRANSFERASE; HET: AMP; 2.2A {Leishmania tarentolae} SCOP: c.61.1.1
+Probab=38.53  E-value=26  Score=38.20  Aligned_cols=26  Identities=27%  Similarity=0.497  Sum_probs=21.7  Template_Neff=9.000
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+++..+...+
+T Consensus       137 ~~gk~VllVDDvittG~T~~~~~~~L  162 (235)
+T 1MZV_A          137 GKNSRVVLIDDVLATGGTALSGLQLV  162 (235)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCcEEEEEeCCcCCcHHHHHHHHHH
+Confidence            35789999999999999888766555
+
+
+No 50
+>2AEE_A Orotate phosphoribosyltransferase (E.C.2.4.2.10); Structural Genomics, Orotate phosphoribosyltransferase, PSI; HET: SO4, GOL; 1.95A {Streptococcus pyogenes} SCOP: c.61.1.1
+Probab=37.64  E-value=28  Score=37.03  Aligned_cols=26  Identities=23%  Similarity=0.491  Sum_probs=21.0  Template_Neff=9.400
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.||+........+
+T Consensus       115 ~~g~~VllVDDvi~tG~t~~~~~~~l  140 (211)
+T 2AEE_A          115 LKGQKMVIIEDLISTGGSVLDAAAAA  140 (211)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             cCCCEEEEEEcCCCCCHHHHHHHHHH
+Confidence            35789999999999999877665544
+
+
+No 51
+>2AEE_B Orotate phosphoribosyltransferase (E.C.2.4.2.10); Structural Genomics, Orotate phosphoribosyltransferase, PSI; HET: GOL, SO4; 1.95A {Streptococcus pyogenes} SCOP: c.61.1.1
+Probab=37.64  E-value=28  Score=37.03  Aligned_cols=26  Identities=23%  Similarity=0.491  Sum_probs=21.0  Template_Neff=9.400
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.||+........+
+T Consensus       115 ~~g~~VllVDDvi~tG~t~~~~~~~l  140 (211)
+T 2AEE_B          115 LKGQKMVIIEDLISTGGSVLDAAAAA  140 (211)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             cCCCEEEEEEcCCCCCHHHHHHHHHH
+Confidence            35789999999999999877665544
+
+
+No 52
+>4P84_A Ancestral PyrR protein (Plum); RNA binding proteins, reconstructed amino; HET: GOL, SO4; 2.2A {synthetic construct}
+Probab=37.55  E-value=28  Score=36.50  Aligned_cols=26  Identities=27%  Similarity=0.440  Sum_probs=21.3  Template_Neff=9.000
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+.+..+...+
+T Consensus        96 ~~~k~VLlVDDvi~tG~Tl~~~~~~l  121 (180)
+T 4P84_A           96 ITDKKVILVDDVLYTGRTVRAGMDAL  121 (180)
+T ss_dssp             CTTSEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEecCCCCCHHHHHHHHHH
+Confidence            35789999999999999877666554
+
+
+No 53
+>5HIA_C Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); purine salvage, malaria, nuceloside phosphonate; HET: YPG; 1.773A {Homo sapiens}
+Probab=37.46  E-value=28  Score=38.01  Aligned_cols=27  Identities=22%  Similarity=0.421  Sum_probs=22.5  Template_Neff=8.700
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .+++++++|||++.||+++..+...+.
+T Consensus       131 ~~gk~VLIVDDii~TG~Tl~~~i~~L~  157 (224)
+T 5HIA_C          131 LTGKNVLIVEDIIDTGKTMQTLLSLVR  157 (224)
+T ss_dssp             GTTSEEEEEEEEESSSHHHHHHHHHHG
+T ss_pred             cCCCEEEEEEcCCCccHHHHHHHHHHH
+Confidence            357899999999999999887776653
+
+
+No 54
+>1P17_B hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); TRANSFERASE, GLYCOSYLTRANSFERASE, PHOSPHORIBOSYLTRANSFERASE, NUCLEOTIDE METABOLISM; HET: IMP; 2.7A {Trypanosoma cruzi} SCOP: c.61.1.1
+Probab=37.38  E-value=28  Score=38.10  Aligned_cols=26  Identities=15%  Similarity=0.378  Sum_probs=22.4  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||+++..+.+.+-
+T Consensus       103 ~gk~VLIVDDiidtG~Tl~~~~~~L~  128 (221)
+T 1P17_B          103 EGHHVLIVEDIVDTALTLNYLYHMYF  128 (221)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCcEEEEEEeecChhHHHHHHHHHHh
+Confidence            47899999999999999998776654
+
+
+No 55
+>2GEB_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); HGPRT, mutant, inhibitor design, selectivity; 1.7A {Thermoanaerobacter tengcongensis}
+Probab=36.67  E-value=29  Score=36.50  Aligned_cols=26  Identities=35%  Similarity=0.463  Sum_probs=22.3  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++.+++|||++.||+.+..+...+.
+T Consensus        97 ~~~~VllvDD~i~tG~Tl~~~~~~L~  122 (185)
+T 2GEB_A           97 EGKDVLIVEDIIDSGLTLAYLRETLL  122 (185)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCCEEEEEEcccCCChHHHHHHHHHh
+Confidence            46899999999999999887777664
+
+
+No 56
+>2JBH_B PHOSPHORIBOSYLTRANSFERASE DOMAIN-CONTAINING PROTEIN 1 (E.C.2.4.2.8); GLYCOSYLTRANSFERASE, TRANSFERASE, PURINE SALVAGE; HET: 5GP, PO4; 1.7A {HOMO SAPIENS}
+Probab=36.64  E-value=29  Score=37.97  Aligned_cols=26  Identities=19%  Similarity=0.566  Sum_probs=22.3  Template_Neff=8.600
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||+++..+...+-
+T Consensus       133 ~gk~VLIVDDvi~TG~Tl~~~~~~L~  158 (225)
+T 2JBH_B          133 AGKNVLIVEDVVGTGRTMKALLSNIE  158 (225)
+T ss_pred             CCCeEEEEecccCccHHHHHHHHHHH
+Confidence            57899999999999999887776663
+
+
+No 57
+>1UFR_B pyr mRNA-binding attenuation protein; pyrimidine nucleotide biosynthesis, transcriptional attenuation; HET: MSE; 2.6A {Thermus thermophilus} SCOP: c.61.1.1
+Probab=36.60  E-value=30  Score=36.73  Aligned_cols=25  Identities=20%  Similarity=0.421  Sum_probs=21.4  Template_Neff=8.600
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.+|+.+..+...+
+T Consensus        95 ~~k~VLLVDDii~tG~Tl~~~~~~L  119 (181)
+T 1UFR_B           95 TGKAIVLVDDVLYTGRTARAALDAL  119 (181)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEecCCCCCHHHHHHHHHH
+Confidence            5789999999999999888776665
+
+
+No 58
+>3DEZ_A Orotate phosphoribosyltransferase (E.C.2.4.2.10); OROTATE PHOSPHORIBOSYLTRANSFERASE, Glycosyltransferase, Magnesium, Pyrimidine; HET: SO4; 2.4A {Streptococcus mutans}
+Probab=36.41  E-value=30  Score=38.44  Aligned_cols=25  Identities=24%  Similarity=0.542  Sum_probs=21.2  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.+|+.+......+
+T Consensus       148 ~g~~VlIVDDvittG~T~~~~i~~L  172 (243)
+T 3DEZ_A          148 KGQKMVIIEDLISTGGSVLDAVAAA  172 (243)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCcccCcHHHHHHHHHH
+Confidence            5789999999999999888666655
+
+
+No 59
+>6D9Q_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); HPRT, hypoxanthine phosphoribosyltransferase, TRANSFERASE; HET: GOL, SO4; 2.056A {Bacillus anthracis}
+Probab=36.38  E-value=30  Score=36.09  Aligned_cols=25  Identities=20%  Similarity=0.389  Sum_probs=21.2  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.||..+..+.+.+
+T Consensus        94 ~~k~vLlVDD~i~tG~Tl~~~~~~l  118 (183)
+T 6D9Q_A           94 EGRDILIVEDIIDSGLTLSYLVDLF  118 (183)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCEEEEEecccccCchHHHHHHHH
+Confidence            5689999999999999888776654
+
+
+No 60
+>6D9R_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); HPRT, hypoxanthine phosphoribosyltransferase, TRANSFERASE; HET: 9DG, ACT, PEG, EDO, PRP; 1.64A {Bacillus anthracis}
+Probab=36.38  E-value=30  Score=36.09  Aligned_cols=25  Identities=20%  Similarity=0.389  Sum_probs=21.2  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.||..+..+.+.+
+T Consensus        94 ~~k~vLlVDD~i~tG~Tl~~~~~~l  118 (183)
+T 6D9R_A           94 EGRDILIVEDIIDSGLTLSYLVDLF  118 (183)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEecccccCchHHHHHHHH
+Confidence            5689999999999999888776654
+
+
+No 61
+>6KP5_A Xanthine phosphoribosyltransferase (E.C.2.4.2.22); xanthine-guanine phosphoribosyltransferase, Yersinia pestis, TRANSFERASE; HET: SO4; 1.1A {Yersinia pestis}
+Probab=36.31  E-value=30  Score=35.63  Aligned_cols=26  Identities=23%  Similarity=0.313  Sum_probs=20.9  Template_Neff=8.700
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      ..++++++|||++.||+.+..+...+
+T Consensus        80 ~~~k~VlIvDDvi~tG~Tl~~~~~~L  105 (153)
+T 6KP5_A           80 GDGEGFIVIDDLVDTGGTATAIREMY  105 (153)
+T ss_dssp             SCCTTEEEEEEEESSSHHHHHHHHHC
+T ss_pred             CCCCeEEEEEEecCCChHHHHHHHHc
+Confidence            35789999999999999887666444
+
+
+No 62
+>6BNJ_D Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); enzyme, inhibitor, nucleoside phosphonate, purine; HET: WPG; 1.909A {Homo sapiens}
+Probab=36.24  E-value=30  Score=37.71  Aligned_cols=26  Identities=23%  Similarity=0.437  Sum_probs=22.6  Template_Neff=8.600
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||.+.||+++..+...+-
+T Consensus       126 ~gk~VLiVDDii~TG~T~~~~i~~L~  151 (218)
+T 6BNJ_D          126 TGKNVLIVEDIIDTGKTMQTLLSLVR  151 (218)
+T ss_dssp             TTSEEEEEEEEESSSHHHHHHHHHHG
+T ss_pred             CCCEEEEEEcCCCCChHHHHHHHHHH
+Confidence            57899999999999999988877664
+
+
+No 63
+>4PAW_A HP1257; hypothetical protein; HET: PO4; 2.23A {Helicobacter pylori}
+Probab=35.98  E-value=31  Score=37.57  Aligned_cols=24  Identities=21%  Similarity=0.346  Sum_probs=19.8  Template_Neff=8.900
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFN 1093 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILq 1093 (1259)
+                      .+++++++|||++.+|+.+.....
+T Consensus       126 ~~g~~VliVDDvitTG~T~~~~~~  149 (225)
+T 4PAW_A          126 KKNEKILVCEDIITTGKSAMECAK  149 (225)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHH
+T ss_pred             CCCCEEEEEeCcccCChhHHHHHH
+Confidence            457899999999999998775544
+
+
+No 64
+>6IGS_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); hypoxanthine phosphoribosyltransferase, zinc, salvage pathway; HET: SO4; 2.16A {Francisella tularensis}
+Probab=35.85  E-value=31  Score=35.80  Aligned_cols=26  Identities=23%  Similarity=0.459  Sum_probs=21.8  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||.+.||+.+..+...+.
+T Consensus        94 ~~k~vllVDD~i~tG~Tl~~~~~~L~  119 (177)
+T 6IGS_A           94 KDKNIIIIEDIVDTGHTYHKLIEGIG  119 (177)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHHH
+T ss_pred             CCCEEEEEEeccCCCHHHHHHHHHHH
+Confidence            56899999999999998887766653
+
+
+No 65
+>2WNS_A OROTATE PHOSPHORIBOSYLTRANSFERASE (E.C.2.4.2.10); ALTERNATIVE SPLICING, MULTIFUNCTIONAL ENZYME, LYASE; HET: OMP; 1.9A {HOMO SAPIENS}
+Probab=35.56  E-value=31  Score=36.87  Aligned_cols=26  Identities=19%  Similarity=0.371  Sum_probs=21.2  Template_Neff=9.000
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+++......+
+T Consensus       109 ~~g~~VllVDDvi~tG~t~~~~~~~l  134 (205)
+T 2WNS_A          109 NPGETCLIIEDVVTSGSSVLETVEVL  134 (205)
+T ss_dssp             CTTCBEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEECccCCCHHHHHHHHHH
+Confidence            35789999999999999887665554
+
+
+No 66
+>2WNS_B OROTATE PHOSPHORIBOSYLTRANSFERASE (E.C.2.4.2.10); MULTIFUNCTIONAL ENZYME, LYASE, TRANSFERASE, DECARBOXYLASE; HET: OMP; 1.9A {HOMO SAPIENS}
+Probab=35.56  E-value=31  Score=36.87  Aligned_cols=26  Identities=19%  Similarity=0.371  Sum_probs=21.2  Template_Neff=9.000
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.||+++......+
+T Consensus       109 ~~g~~VllVDDvi~tG~t~~~~~~~l  134 (205)
+T 2WNS_B          109 NPGETCLIIEDVVTSGSSVLETVEVL  134 (205)
+T ss_dssp             CTTCBEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEECccCCCHHHHHHHHHH
+Confidence            35789999999999999887665554
+
+
+No 67
+>1QB7_A ADENINE PHOSPHORIBOSYLTRANSFERASE + ADENINE; DINUCLEOTIDE BINDING FOLD, TRANSFERASE; HET: ADE, CIT; 1.5A {Leishmania donovani} SCOP: c.61.1.1
+Probab=35.38  E-value=32  Score=37.53  Aligned_cols=26  Identities=27%  Similarity=0.473  Sum_probs=21.2  Template_Neff=9.100
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.+|+.+..+...+
+T Consensus       136 ~~g~~VllVDDvitTG~Tl~~~i~~L  161 (236)
+T 1QB7_A          136 GKGSRVVLIDDVLATGGTALSGLQLV  161 (236)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCceEEEEeceecCCHHHHHHHHHH
+Confidence            46789999999999999887665544
+
+
+No 68
+>1QCD_A ADENINE PHOSPHORIBOSYLTRANSFERASE; DINUCLEOTIDE BINDING FOLD, TRANSFERASE; HET: SO4; 2.48A {Leishmania donovani} SCOP: c.61.1.1
+Probab=35.38  E-value=32  Score=37.53  Aligned_cols=26  Identities=27%  Similarity=0.473  Sum_probs=21.2  Template_Neff=9.100
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.+|+.+..+...+
+T Consensus       136 ~~g~~VllVDDvitTG~Tl~~~i~~L  161 (236)
+T 1QCD_A          136 GKGSRVVLIDDVLATGGTALSGLQLV  161 (236)
+T ss_dssp             CTTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCceEEEEeceecCCHHHHHHHHHH
+Confidence            46789999999999999887665544
+
+
+No 69
+>3OHP_C Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); Structural Genomics, PSI-2, Protein Structure; 2.04A {Vibrio cholerae}
+Probab=35.24  E-value=32  Score=35.69  Aligned_cols=25  Identities=36%  Similarity=0.498  Sum_probs=20.7  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.+|+.+..+.+.+
+T Consensus        90 ~~~~vliVDDvi~tG~T~~~~~~~l  114 (177)
+T 3OHP_C           90 KGKDVLLVEDIIDTGNTLNKVKEIL  114 (177)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEEccCCCCHHHHHHHHHH
+Confidence            4679999999999999888766544
+
+
+No 70
+>5JSQ_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); inhibitor, complex, dimer, enzyme, TRANSFERASE; HET: PEG, SO4, GOL, 6MS; 1.503A {Trypanosoma brucei brucei}
+Probab=34.82  E-value=33  Score=37.48  Aligned_cols=26  Identities=27%  Similarity=0.454  Sum_probs=22.3  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||..+..+.+.+.
+T Consensus       111 ~gk~VLIVDDii~TG~Tl~~~~~~L~  136 (216)
+T 5JSQ_A          111 RGKHVLVLEDILDTALTLREVVDSLK  136 (216)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCcEEEEEECCcChHHHHHHHHHHHH
+Confidence            57899999999999998888776664
+
+
+No 71
+>6APS_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); Trypanosoma brucei, Purine salvage, acyclic; HET: SV2, TRS, PEG; 1.762A {Trypanosoma brucei brucei}
+Probab=34.82  E-value=33  Score=37.48  Aligned_cols=26  Identities=27%  Similarity=0.454  Sum_probs=22.3  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||..+..+.+.+.
+T Consensus       111 ~gk~VLIVDDii~TG~Tl~~~~~~L~  136 (216)
+T 6APS_A          111 RGKHVLVLEDILDTALTLREVVDSLK  136 (216)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCcEEEEEECCcChHHHHHHHHHHHH
+Confidence            57899999999999998888776664
+
+
+No 72
+>6IGS_B Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); hypoxanthine phosphoribosyltransferase, zinc, salvage pathway; HET: SO4; 2.16A {Francisella tularensis}
+Probab=34.59  E-value=33  Score=35.57  Aligned_cols=27  Identities=22%  Similarity=0.428  Sum_probs=22.2  Template_Neff=9.300
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      ..++++++|||.+.||+.+..+...+.
+T Consensus        93 ~~~k~vliVDD~i~tG~Tl~~~~~~l~  119 (177)
+T 6IGS_B           93 VKDKNIIIIEDIVDTGHTYHKLIEGIG  119 (177)
+T ss_pred             cCCCEEEEEeCccCCCHHHHHHHHHHH
+Confidence            357899999999999998887766653
+
+
+No 73
+>4FYM_A Orotate phosphoribosyltransferase (E.C.2.4.2.10); Rossmann Fold, transferase; HET: SO4; 2.6A {Plasmodium falciparum}
+Probab=34.49  E-value=34  Score=38.74  Aligned_cols=25  Identities=36%  Similarity=0.614  Sum_probs=21.1  Template_Neff=8.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||.+.+|+++......+
+T Consensus       179 ~gk~VLIVDDvi~TG~Tl~~~i~~L  203 (266)
+T 4FYM_A          179 EKKNIIIIDDVFTCGTALTEILAKL  203 (266)
+T ss_dssp             CCEEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEEcccCCCHHHHHHHHHH
+Confidence            5789999999999999888665554
+
+
+No 74
+>4FYM_D Orotate phosphoribosyltransferase (E.C.2.4.2.10); Rossmann Fold, transferase; HET: SO4; 2.6A {Plasmodium falciparum}
+Probab=34.49  E-value=34  Score=38.74  Aligned_cols=25  Identities=36%  Similarity=0.614  Sum_probs=21.1  Template_Neff=8.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||.+.+|+++......+
+T Consensus       179 ~gk~VLIVDDvi~TG~Tl~~~i~~L  203 (266)
+T 4FYM_D          179 EKKNIIIIDDVFTCGTALTEILAKL  203 (266)
+T ss_dssp             CCEEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEEcccCCCHHHHHHHHHH
+Confidence            5789999999999999888665554
+
+
+No 75
+>3N2L_A Orotate phosphoribosyltransferase (E.C.2.4.2.10); Orotate Phosphoribosyltransferase, Pyrimidine Ribonucleotide Biosynthesis; 2.1A {Vibrio cholerae}
+Probab=34.21  E-value=34  Score=37.99  Aligned_cols=25  Identities=20%  Similarity=0.367  Sum_probs=20.3  Template_Neff=8.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.+|+++..+...+
+T Consensus       141 ~g~~VLIVDDvitTG~Tl~~~~~~l  165 (238)
+T 3N2L_A          141 LEGRVMLVDDVITAGTAIRESMELI  165 (238)
+T ss_dssp             CCSEEEEECSCCSSSHHHHHHHHHH
+T ss_pred             CCCEEEEEechhhcCHHHHHHHHHH
+Confidence            3579999999999999887665544
+
+
+No 76
+>3N2L_G Orotate phosphoribosyltransferase (E.C.2.4.2.10); Orotate Phosphoribosyltransferase, Pyrimidine Ribonucleotide Biosynthesis; 2.1A {Vibrio cholerae}
+Probab=34.21  E-value=34  Score=37.99  Aligned_cols=25  Identities=20%  Similarity=0.367  Sum_probs=17.5  Template_Neff=8.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.+|+++..+...+
+T Consensus       141 ~g~~VLIVDDvitTG~Tl~~~~~~l  165 (238)
+T 3N2L_G          141 LEGRVMLVDDVITAGTAIRESMELI  165 (238)
+T ss_dssp             CCSEEEEECSCCCC---CHHHHHHH
+T ss_pred             CCCEEEEEechhhcCHHHHHHHHHH
+Confidence            3579999999999999887665544
+
+
+No 77
+>4WML_A OMP synthase (E.C.2.4.2.10); TRANSFERASE; HET: PPC; 1.73A {Saccharomyces cerevisiae}
+Probab=34.21  E-value=34  Score=37.47  Aligned_cols=26  Identities=23%  Similarity=0.503  Sum_probs=21.2  Template_Neff=8.800
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||.+.||+........+
+T Consensus       122 ~~g~~VliVDDvittG~Tl~~~i~~l  147 (231)
+T 4WML_A          122 LENKRILIIDDVMTAGTAINEAFEII  147 (231)
+T ss_dssp             CTTCEEEEECSCCSSCHHHHHHHHHH
+T ss_pred             cCCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            35789999999999999887665554
+
+
+No 78
+>4QRI_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); hypoxanthine-guanine-xanthine phosphoribosyltransferase, Leptospira interrogans serovar; HET: SO4, PEG; 2.35A {Leptospira interrogans serovar Copenhageni}
+Probab=34.09  E-value=34  Score=37.10  Aligned_cols=25  Identities=24%  Similarity=0.503  Sum_probs=21.6  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+..+.+.+
+T Consensus       116 ~gk~VLlVDDii~TG~Tl~~~~~~L  140 (207)
+T 4QRI_A          116 SDRHVIIVEDILDTGFTLQYLVRHI  140 (207)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             cCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            5789999999999999888776665
+
+
+No 79
+>4QRI_B Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); hypoxanthine-guanine-xanthine phosphoribosyltransferase, Leptospira interrogans serovar; HET: SO4, PEG; 2.35A {Leptospira interrogans serovar Copenhageni}
+Probab=34.09  E-value=34  Score=37.10  Aligned_cols=25  Identities=24%  Similarity=0.503  Sum_probs=21.6  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+..+.+.+
+T Consensus       116 ~gk~VLlVDDii~TG~Tl~~~~~~L  140 (207)
+T 4QRI_B          116 SDRHVIIVEDILDTGFTLQYLVRHI  140 (207)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             cCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            5789999999999999888776665
+
+
+No 80
+>5ZC7_A Adenine phosphoribosyltransferase (E.C.2.4.2.7); adenine phosphoribosyltransferase, metal mediated assembly; HET: ADE; 2.0A {Yersinia pseudotuberculosis serotype I (strain IP32953)}
+Probab=33.98  E-value=35  Score=35.77  Aligned_cols=25  Identities=20%  Similarity=0.458  Sum_probs=21.2  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.+|..+..+...+
+T Consensus       122 ~gk~VLiVDD~i~tG~tl~~~~~~l  146 (187)
+T 5ZC7_A          122 PGDKVLVVDDLLATGGTIEATVKLI  146 (187)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEeCcccCCHHHHHHHHHH
+Confidence            5789999999999999887666655
+
+
+No 81
+>3H83_C Hypoxanthine phosphoribosyltransferase; Hypoxanthine-Guanine Phosphoribosyltransferase, Structural Genomics, Infectious; HET: PO4, SUC; 2.06A {Bacillus anthracis str. 'Ames Ancestor'}
+Probab=33.62  E-value=35  Score=36.93  Aligned_cols=25  Identities=20%  Similarity=0.389  Sum_probs=21.2  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+.+..+...+
+T Consensus       115 ~~k~VLIVDDvi~TG~Tl~~~~~~L  139 (204)
+T 3H83_C          115 EGRDILIVEDIIDSGLTLSYLVDLF  139 (204)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEeCcCCCchHHHHHHHHH
+Confidence            5689999999999999888776654
+
+
+No 82
+>3HVU_C Hypoxanthine phosphoribosyltransferase; Hypoxanthine-guanine Phosphoribosyltransferase, 2-(N-morpholino)ethanesulfonic acid (MES); HET: MES; 1.95A {Bacillus anthracis str. 'Ames Ancestor'}
+Probab=33.62  E-value=35  Score=36.93  Aligned_cols=25  Identities=20%  Similarity=0.389  Sum_probs=21.2  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+.+..+...+
+T Consensus       115 ~~k~VLIVDDvi~TG~Tl~~~~~~L  139 (204)
+T 3HVU_C          115 EGRDILIVEDIIDSGLTLSYLVDLF  139 (204)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEeCcCCCchHHHHHHHHH
+Confidence            5689999999999999888776654
+
+
+No 83
+>5IAO_B Bifunctional protein PyrR (E.C.2.4.2.9); Uracil phosphoribosyltransferase (UPRTase), TRANSFERASE; HET: URF; 2.598A {Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra)}
+Probab=33.46  E-value=36  Score=36.94  Aligned_cols=26  Identities=27%  Similarity=0.419  Sum_probs=22.2  Template_Neff=8.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||++.||+++..+.+.+.
+T Consensus       111 ~gk~VLlVDDii~TG~Tl~~~i~~L~  136 (199)
+T 5IAO_B          111 DDALVILVDDVLYSGRSVRSALDALR  136 (199)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCcHHHHHHHHHHH
+Confidence            57899999999999999988766653
+
+
+No 84
+>2DY0_B Adenine phosphoribosyltransferase (E.C.2.4.2.7); structural genomics, NPPSFA, National Project; 1.25A {Escherichia coli K12}
+Probab=33.35  E-value=36  Score=35.64  Aligned_cols=26  Identities=19%  Similarity=0.414  Sum_probs=20.8  Template_Neff=9.400
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      ..++++++|||.+.+|+.+..+...+
+T Consensus       124 ~~g~~VliVDDvi~tG~T~~~~~~~l  149 (190)
+T 2DY0_B          124 KPGDKVLVVDDLLATGGTIEATVKLI  149 (190)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCCEEEEEeCcccCCHHHHHHHHHH
+Confidence            35789999999999999877655443
+
+
+No 85
+>1LH0_A OMP synthase (E.C.2.4.2.10); loop closure, monomer closure, orotate; HET: ORO, PRP; 2.0A {Salmonella typhimurium} SCOP: c.61.1.1
+Probab=33.03  E-value=37  Score=36.41  Aligned_cols=24  Identities=21%  Similarity=0.418  Sum_probs=19.5  Template_Neff=9.200
+
+Q LOKIASV2_16770 1072 KKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1072 ddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      ++++++|||++.||+++......+
+T Consensus       117 ~~~vllVDDvi~tG~t~~~~~~~l  140 (213)
+T 1LH0_A          117 QGRVMLVDDVITAGTAIRESMEII  140 (213)
+T ss_dssp             CSEEEEECSCCSSSCHHHHHHHHH
+T ss_pred             CCeEEEEeCccccCHHHHHHHHHH
+Confidence            359999999999999887665544
+
+
+No 86
+>1LH0_B OMP synthase (E.C.2.4.2.10); loop closure, monomer closure, orotate; HET: ORO, PRP; 2.0A {Salmonella typhimurium} SCOP: c.61.1.1
+Probab=33.03  E-value=37  Score=36.41  Aligned_cols=24  Identities=21%  Similarity=0.418  Sum_probs=19.5  Template_Neff=9.200
+
+Q LOKIASV2_16770 1072 KKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1072 ddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      ++++++|||++.||+++......+
+T Consensus       117 ~~~vllVDDvi~tG~t~~~~~~~l  140 (213)
+T 1LH0_B          117 QGRVMLVDDVITAGTAIRESMEII  140 (213)
+T ss_dssp             CSEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCeEEEEeCccccCHHHHHHHHHH
+Confidence            359999999999999887665544
+
+
+No 87
+>3MJD_A Orotate phosphoribosyltransferase (E.C.2.4.2.10); Orotate, Phosphoribosyltransferase, idp02311, CSGID, TRANSFERASE; 1.9A {Francisella tularensis}
+Probab=32.96  E-value=37  Score=37.43  Aligned_cols=26  Identities=31%  Similarity=0.588  Sum_probs=21.0  Template_Neff=8.600
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.+|++.......+
+T Consensus       134 ~~g~~VLIVDDvittG~Tl~~~~~~l  159 (232)
+T 3MJD_A          134 MTNKKVLLIDDVMTAGTAFYESYNKL  159 (232)
+T ss_dssp             CTTCEEEEECSCCSSSHHHHHHHHHH
+T ss_pred             CCCCEEEEEEecccCChHHHHHHHHH
+Confidence            36789999999999999877555544
+
+
+No 88
+>4P82_A Ancestral PyrR protein (Plum); RNA binding proteins, reconstructed amino; 1.3A {Bacillus subtilis}
+Probab=32.80  E-value=37  Score=35.62  Aligned_cols=26  Identities=23%  Similarity=0.450  Sum_probs=21.9  Template_Neff=9.100
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||..+..+.+.+.
+T Consensus        98 ~~k~VLlVDDvi~TG~Tl~~~~~~l~  123 (183)
+T 4P82_A           98 TDQKVILVDDVLYTGRTVRAGMDALV  123 (183)
+T ss_dssp             TTSEEEEEEEEESSSHHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCcHHHHHHHHHHH
+Confidence            46899999999999998887766654
+
+
+No 89
+>3KB8_A Hypoxanthine phosphoribosyltransferase (E.C.2.4.2.8); Hypoxanthine-Guanine Phosphoribosyltransferase, Structural Genomics, Infectious; HET: 5GP, PO4, SUC, GOL; 2.09A {Bacillus anthracis str.}
+Probab=32.66  E-value=38  Score=36.66  Aligned_cols=25  Identities=20%  Similarity=0.389  Sum_probs=17.3  Template_Neff=8.600
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.||+.+..+...+
+T Consensus       115 ~~k~VLiVDDvi~tG~Tl~~~~~~L  139 (204)
+T 3KB8_A          115 EGRDILIVEDIIDSGLTLSYLVDLF  139 (204)
+T ss_dssp             -----EEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCcHHHHHHHHHH
+Confidence            5689999999999999888776654
+
+
+No 90
+>4OHC_F Orotate phosphoribosyltransferase (E.C.2.4.2.10); Structural Genomics, NIAID, National Institute; HET: EDO, ACT; 1.85A {Burkholderia cenocepacia}
+Probab=32.37  E-value=38  Score=37.49  Aligned_cols=26  Identities=15%  Similarity=0.268  Sum_probs=21.2  Template_Neff=8.500
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .+++++++|||++.+|+++......+
+T Consensus       129 ~~g~~VliVDDvi~tG~T~~~~~~~l  154 (236)
+T 4OHC_F          129 EEGSRVLLVEDLTTDSRSKINFVNAL  154 (236)
+T ss_dssp             CTTCBEEEEEEEESSSTTHHHHHHHH
+T ss_pred             cCCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            35789999999999999888665544
+
+
+No 91
+>5VOG_A Putative phosphoribosyltransferase; SSGCID, ppGpp, possible Phosphoribosyltransferase, Structural; HET: G4P; 1.5A {Neisseria gonorrhoeae}
+Probab=32.32  E-value=38  Score=35.72  Aligned_cols=25  Identities=20%  Similarity=0.307  Sum_probs=20.9  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+..+...+
+T Consensus        97 ~~k~VLlVDDvi~TG~Tl~~~i~~L  121 (183)
+T 5VOG_A           97 RGKNVLVVDEVDDSRVTMEFCLKEL  121 (183)
+T ss_dssp             TTCCEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCCHHHHHHHHHH
+Confidence            4689999999999999887666655
+
+
+No 92
+>1TC1_B PROTEIN (HYPOXANTHINE PHOSPHORIBOSYLTRANSFERASE) (2.4.2.8); TRANSFERASE, PHOSPHORIBOSYLTRANSFERASE, PURINE SALVAGE, NUCLEOTIDE; HET: FMB, MES; 1.41A {Trypanosoma cruzi} SCOP: c.61.1.1
+Probab=31.77  E-value=40  Score=36.99  Aligned_cols=26  Identities=15%  Similarity=0.378  Sum_probs=22.2  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||.+.||.++..+...+.
+T Consensus       102 ~gk~VLIVDDiidTG~Tl~~~~~~L~  127 (220)
+T 1TC1_B          102 EGHHVLIVEDIVDTALTLNYLYHMYF  127 (220)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHHHHH
+T ss_pred             CCCEEEEEEeecCChHHHHHHHHHHh
+Confidence            57899999999999999988776654
+
+
+No 93
+>1DQP_A GUANINE PHOSPHORIBOSYLTRANSFERASE (E.C.2.4.2.8); protein-inhibitor complex, immucillinG, 9-deazaguanine, TRANSFERASE; HET: IMG; 1.75A {Giardia intestinalis} SCOP: c.61.1.1
+Probab=31.57  E-value=40  Score=37.68  Aligned_cols=25  Identities=24%  Similarity=0.635  Sum_probs=21.6  Template_Neff=7.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+..+.+.+
+T Consensus       117 ~gk~VLIVDDiidTG~Tl~~~~~~L  141 (230)
+T 1DQP_A          117 EKREVVLIDEYVDSGHTIFSIQEQI  141 (230)
+T ss_dssp             HCSSEEEECSEESSCHHHHHHHHHS
+T ss_pred             ccCEEEEEEccCCCCHHHHHHHHHH
+Confidence            5789999999999999888776655
+
+
+No 94
+>5KNY_B Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); Phosphoribosyltransferase, Inhibitor, Complex, pyrrolidne nucleoside; HET: YPG; 2.91A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+Probab=31.49  E-value=41  Score=36.51  Aligned_cols=26  Identities=23%  Similarity=0.381  Sum_probs=21.5  Template_Neff=8.600
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      ..++++++|||++.||+.+..+...+
+T Consensus       118 ~~gk~VLIVDDvi~TG~Tl~~~~~~L  143 (207)
+T 5KNY_B          118 IHGRDVLIVEDVVDSGLTLSWLSRNL  143 (207)
+T ss_dssp             CTTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             cCCCEEEEEECCCCCCHHHHHHHHHH
+Confidence            35789999999999999888766655
+
+
+No 95
+>1FSG_A HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE; GLYCOSYLTRANSFERASE, PURINE SALVAGE, TRANSFERASE; HET: 9DG, PRP; 1.05A {Toxoplasma gondii} SCOP: c.61.1.1
+Probab=31.46  E-value=41  Score=36.97  Aligned_cols=26  Identities=27%  Similarity=0.438  Sum_probs=21.9  Template_Neff=8.800
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .++++++|||++.||..+..+...+.
+T Consensus       141 ~gk~VLIVDDii~tG~Tl~~~~~~l~  166 (233)
+T 1FSG_A          141 RDKHVLIVEDIVDTGFTLTEFGERLK  166 (233)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHHH
+T ss_pred             CCCEEEEEEeccCCCHHHHHHHHHHH
+Confidence            47899999999999998887766653
+
+
+No 96
+>3ACB_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); Rossmann fold, Structural Genomics, NPPSFA; HET: DIO; 2.06A {Thermus thermophilus}
+Probab=30.99  E-value=42  Score=35.40  Aligned_cols=25  Identities=24%  Similarity=0.436  Sum_probs=21.2  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.||+.+..+...+
+T Consensus        94 ~~~~VllvDD~i~TG~Tl~~~~~~l  118 (181)
+T 3ACB_A           94 HGRDVIVVEDIVDTGLTLSYLLDYL  118 (181)
+T ss_dssp             TTCEEEEEEEEESSCHHHHHHHHHH
+T ss_pred             CCCeEEEEEeecCcChHHHHHHHHH
+Confidence            5789999999999999887666655
+
+
+No 97
+>3ACC_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); Rossmann fold, Structural Genomics, NPPSFA; HET: DIO, 5GP; 2.16A {Thermus thermophilus}
+Probab=30.99  E-value=42  Score=35.40  Aligned_cols=25  Identities=24%  Similarity=0.436  Sum_probs=21.2  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.||+.+..+...+
+T Consensus        94 ~~~~VllvDD~i~TG~Tl~~~~~~l  118 (181)
+T 3ACC_A           94 HGRDVIVVEDIVDTGLTLSYLLDYL  118 (181)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCeEEEEEeecCcChHHHHHHHHH
+Confidence            5789999999999999887666655
+
+
+No 98
+>3ACD_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); Rossmann fold, Structural Genomics, NPPSFA; HET: DIO, IMP; 1.89A {Thermus thermophilus}
+Probab=30.99  E-value=42  Score=35.40  Aligned_cols=25  Identities=24%  Similarity=0.436  Sum_probs=21.2  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||.+.||+.+..+...+
+T Consensus        94 ~~~~VllvDD~i~TG~Tl~~~~~~l  118 (181)
+T 3ACD_A           94 HGRDVIVVEDIVDTGLTLSYLLDYL  118 (181)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCeEEEEEeecCcChHHHHHHHHH
+Confidence            5789999999999999887666655
+
+
+No 99
+>1D6N_B PROTEIN (HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE) (2.4.2.8) MUTANT; HGPRTASE, TRANSFERASE; HET: PRP, PPO; 2.7A {Homo sapiens} SCOP: c.61.1.1
+Probab=30.77  E-value=42  Score=36.19  Aligned_cols=25  Identities=24%  Similarity=0.484  Sum_probs=21.5  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+..+...+
+T Consensus       122 ~gk~VliVDDii~tG~T~~~~~~~l  146 (214)
+T 1D6N_B          122 TGKNVLIVEDIIDTGKTMQTLLSLV  146 (214)
+T ss_dssp             SSSEEECCCSEESSSHHHHHHHHHT
+T ss_pred             CCCEEEEEeCCCCCChhHHHHHHHH
+Confidence            4789999999999999888776655
+
+
+No 100
+>4TRC_B Adenine phosphoribosyltransferase from Sulfolobus solfataricus; Sulfolobus, solfataricus, adenine, phosphoribosyltransferase, transferase; HET: PO4, ADE; 2.4A {Sulfolobus solfataricus}
+Probab=30.43  E-value=43  Score=36.55  Aligned_cols=25  Identities=24%  Similarity=0.360  Sum_probs=21.3  Template_Neff=8.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||..+..+.+.+
+T Consensus        87 ~gk~VLIVDDiidTG~Tl~~~~~~l  111 (210)
+T 4TRC_B           87 SDKNVLIIDDITDTGDSIELARKYV  111 (210)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCeEEEEEcCCCCcHHHHHHHHHH
+Confidence            5789999999999999888776655
+
+
+No 101
+>4TS7_B Sulfolobus solfataricus adenine phosphoribosyltransferase; Transferase; HET: PO4, ADP; 2.8A {Sulfolobus solfataricus}
+Probab=30.43  E-value=43  Score=36.55  Aligned_cols=25  Identities=24%  Similarity=0.360  Sum_probs=21.3  Template_Neff=8.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||..+..+.+.+
+T Consensus        87 ~gk~VLIVDDiidTG~Tl~~~~~~l  111 (210)
+T 4TS7_B           87 SDKNVLIIDDITDTGDSIELARKYV  111 (210)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCeEEEEEcCCCCcHHHHHHHHHH
+Confidence            5789999999999999888776655
+
+
+No 102
+>2PS1_B Orotate phosphoribosyltransferase 1 (E.C.2.4.2.10); ALPHA BETA, OPRTase-OA-PRPP complex, TRANSFERASE; HET: PRP, ORO; 1.75A {Saccharomyces cerevisiae}
+Probab=30.28  E-value=44  Score=36.29  Aligned_cols=27  Identities=22%  Similarity=0.459  Sum_probs=22.0  Template_Neff=9.100
+
+Q LOKIASV2_16770 1070 YKKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1070 ~eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      .+++++++|||++.+|+.+......+-
+T Consensus       123 ~~g~~VliVDDvi~tG~t~~~~~~~l~  149 (226)
+T 2PS1_B          123 LENKRILIIDDVMTAGTAINEAFEIIS  149 (226)
+T ss_dssp             CTTSEEEEEEEEESSSHHHHHHHHHHH
+T ss_pred             cCCCEEEEEECCCCCCHHHHHHHHHHH
+Confidence            357899999999999998887665553
+
+
+No 103
+>4RHX_C Hypoxanthine-guanine phosphoribosyltransferase; 6-oxopurine phosphoribosyltransferase, Cytoplasmic, transferase-transferase inhibitor; HET: 3QF; 2.0322A {N/A}
+Probab=29.29  E-value=47  Score=35.82  Aligned_cols=25  Identities=24%  Similarity=0.405  Sum_probs=21.3  Template_Neff=8.700
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.+|+.+..+...+
+T Consensus       113 ~gk~vLiVDDvi~TG~Tl~~~~~~L  137 (201)
+T 4RHX_C          113 HGRDVLIVEDVVDSGLTLSWLSRNL  137 (201)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEECCCCCChHHHHHHHHH
+Confidence            4689999999999999888776665
+
+
+No 104
+>5IPF_A Hypoxanthine-guanine phosphoribosyltransferase (E.C.2.4.2.8); Hypoxanthine-guanine phosphoribosyltransferase, enzyme, TRANSFERASE; HET: IMP; 2.8A {Schistosoma mansoni}
+Probab=29.06  E-value=47  Score=37.13  Aligned_cols=26  Identities=27%  Similarity=0.509  Sum_probs=22.2  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||++.||+++......+-
+T Consensus       151 ~gk~VLIVDDii~TG~Tl~~~~~~L~  176 (250)
+T 5IPF_A          151 KDKNVLVVEDIIDTGKTITKLISHLD  176 (250)
+T ss_dssp             TTSEEEEEEEEESSSHHHHHHHHHHT
+T ss_pred             CCCeEEEEEeecCccHHHHHHHHHHH
+Confidence            57899999999999998887776654
+
+
+No 105
+>1W30_B PYRR BIFUNCTIONAL PROTEIN (E.C.2.4.2.9); PYRR, TRANSFERASE, GLYCOSYLTRANSFERASE, PSI, PROTEIN; 1.9A {MYCOBACTERIUM TUBERCULOSIS} SCOP: c.61.1.1
+Probab=27.75  E-value=52  Score=35.93  Aligned_cols=26  Identities=27%  Similarity=0.419  Sum_probs=21.8  Template_Neff=8.200
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++.+++|||++.||+.+..+...+.
+T Consensus       111 ~g~~VLIVDDii~TG~Tl~~~~~~L~  136 (201)
+T 1W30_B          111 DDALVILVDDVLYSGRSVRSALDALR  136 (201)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCccCCHHHHHHHHHHH
+Confidence            57899999999999998887766553
+
+
+No 106
+>6MXC_C Hypoxanthine-guanine phosphoribosyltransferase; 6-oxopurine PRTs, Trypanosoma brucei, Purine; HET: MG, 5GP; 1.993A {Trypanosoma brucei brucei (strain 927/4 GUTat10.1)}
+Probab=27.65  E-value=52  Score=37.97  Aligned_cols=25  Identities=20%  Similarity=0.469  Sum_probs=21.5  Template_Neff=7.600
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||+.+..+...+
+T Consensus       177 ~Gk~VLIVDDvidTG~Tl~~a~~~L  201 (272)
+T 6MXC_C          177 TGKHVLIMEDIADTGRTMKLLVEKI  201 (272)
+T ss_pred             CCCEEEEEcCCCCChHHHHHHHHHH
+Confidence            5789999999999999888776655
+
+
+No 107
+>1V9S_B uracil phosphoribosyltransferase (E.C.2.4.2.9); pyrimidine salvage, oligomerization, structural genomics; HET: SO4, MSE; 2.1A {Thermus thermophilus} SCOP: c.61.1.1
+Probab=26.48  E-value=56  Score=34.49  Aligned_cols=25  Identities=16%  Similarity=0.389  Sum_probs=21.5  Template_Neff=9.700
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++.+++|||.+.||+++...++.+
+T Consensus       122 ~~~~VllvDd~i~tG~t~~~~i~~L  146 (208)
+T 1V9S_B          122 AERRAFLLDPMLATGGSASLALSLL  146 (208)
+T ss_dssp             GGSCEEEECSEESSSHHHHHHHHHH
+T ss_pred             ccCEEEEEeCeecChHHHHHHHHHH
+Confidence            3679999999999999999877655
+
+
+No 108
+>1V9S_D uracil phosphoribosyltransferase (E.C.2.4.2.9); pyrimidine salvage, oligomerization, structural genomics; HET: SO4, MSE; 2.1A {Thermus thermophilus} SCOP: c.61.1.1
+Probab=26.48  E-value=56  Score=34.49  Aligned_cols=25  Identities=16%  Similarity=0.389  Sum_probs=21.5  Template_Neff=9.700
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++.+++|||.+.||+++...++.+
+T Consensus       122 ~~~~VllvDd~i~tG~t~~~~i~~L  146 (208)
+T 1V9S_D          122 AERRAFLLDPMLATGGSASLALSLL  146 (208)
+T ss_dssp             GGSCEEEECSEESSSHHHHHHHHHH
+T ss_pred             ccCEEEEEeCeecChHHHHHHHHHH
+Confidence            3679999999999999999877655
+
+
+No 109
+>1AO0_B GLUTAMINE PHOSPHORIBOSYLPYROPHOSPHATE AMIDOTRANSFERASE, IRON/SULFUR CLUSTER; TRANSFERASE, GLUTAMINE AMIDOTRANSFERASE, PRTASE, PURINE; HET: SF4, ADP, 5GP; 2.8A {Bacillus subtilis} SCOP: c.61.1.1, d.153.1.1
+Probab=25.66  E-value=60  Score=38.81  Aligned_cols=26  Identities=27%  Similarity=0.385  Sum_probs=21.7  Template_Neff=9.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||++.||+.+..+...+-
+T Consensus       337 ~gk~VllVDD~i~tG~T~~~~~~~L~  362 (459)
+T 1AO0_B          337 EGKRVVMVDDSIVRGTTSRRIVTMLR  362 (459)
+T ss_dssp             TTCEEEEEESCCSSSHHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCCHHHHHHHHHHH
+Confidence            57899999999999998887665554
+
+
+No 110
+>5E38_A Uracil phosphoribosyltransferase (E.C.2.4.2.9); uracil phosphoribosyltransferase, Mycobacterium tuberculosis, mutants; 3.0A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+Probab=23.84  E-value=68  Score=34.69  Aligned_cols=25  Identities=20%  Similarity=0.417  Sum_probs=21.0  Template_Neff=9.100
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++.+++|||++.||+.+...++.+
+T Consensus       130 ~~~~VlivDdii~TG~t~~~~i~~L  154 (216)
+T 5E38_A          130 TDVPVMVLDPMVATGGSMTHTLGLL  154 (216)
+T ss_dssp             SSCCEEEECSEECSSHHHHHHHHHH
+T ss_pred             cCCcEEEEeCccCChHHHHHHHHHH
+Confidence            3679999999999999888777654
+
+
+No 111
+>5E38_D Uracil phosphoribosyltransferase (E.C.2.4.2.9); uracil phosphoribosyltransferase, Mycobacterium tuberculosis, mutants; 3.0A {Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)}
+Probab=23.84  E-value=68  Score=34.69  Aligned_cols=25  Identities=20%  Similarity=0.417  Sum_probs=21.0  Template_Neff=9.100
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++.+++|||++.||+.+...++.+
+T Consensus       130 ~~~~VlivDdii~TG~t~~~~i~~L  154 (216)
+T 5E38_D          130 TDVPVMVLDPMVATGGSMTHTLGLL  154 (216)
+T ss_dssp             SSCCEEEECSEECSSHHHHHHHHHH
+T ss_pred             cCCcEEEEeCccCChHHHHHHHHHH
+Confidence            3679999999999999888777654
+
+
+No 112
+>4TWB_A Sulfolobus solfataricus ribose-phosphate pyrophosphokinase; Transferase; HET: AMP, SO4; 2.802A {Sulfolobus solfataricus}
+Probab=22.74  E-value=74  Score=36.51  Aligned_cols=23  Identities=39%  Similarity=0.660  Sum_probs=19.5  Template_Neff=8.500
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFN 1093 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILq 1093 (1259)
+                      +++++++|||++.||+.+.....
+T Consensus       208 ~gk~vliVDDii~tG~T~~~~~~  230 (291)
+T 4TWB_A          208 KGKDVVIIDDIISTGGTIVQATR  230 (291)
+T ss_dssp             TTSEEEEEEEEESSCHHHHHHHH
+T ss_pred             CCCEEEEEeCccCCCHHHHHHHH
+Confidence            57899999999999998876554
+
+
+No 113
+>6NFE_B Ribose-phosphate pyrophosphokinase (E.C.2.7.6.1); SSGCID, phosphorylation, AMP, ADP, Ribose-5-Phosphate; HET: HSX, EDO, ADP, AMP; 1.75A {Legionella pneumophila}
+Probab=22.12  E-value=77  Score=36.97  Aligned_cols=25  Identities=32%  Similarity=0.569  Sum_probs=20.3  Template_Neff=8.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.+|+.+......+
+T Consensus       220 ~gk~vlIVDDii~TG~Tl~~~~~~L  244 (323)
+T 6NFE_B          220 ANKNCIIVDDIVDTAGTLCTAAHEL  244 (323)
+T ss_dssp             TTCEEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCeEEEEecchhhhHHHHHHHHHH
+Confidence            5789999999999999777555443
+
+
+No 114
+>1UPU_A URACIL PHOSPHORIBOSYLTRANSFERASE, URIDINE-5'-MONOPHOSPHATE; TRANSFERASE, GLYCOSYLTRANSFERASE, PHOSPHORIBOSYLTRANSFERASE; HET: PO4, U5P; 2.5A {Toxoplasma gondii} SCOP: c.61.1.1
+Probab=22.00  E-value=78  Score=34.54  Aligned_cols=25  Identities=16%  Similarity=0.409  Sum_probs=21.3  Template_Neff=9.000
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++.+++|||++.||+.+...++.+
+T Consensus       136 ~~~~VlivDdii~TG~Tl~~~i~~l  160 (224)
+T 1UPU_A          136 RERWVMLLDPMCATAGSVCKAIEVL  160 (224)
+T ss_dssp             GGSEEEEECSEESSCHHHHHHHHHH
+T ss_pred             cCCEEEEEeCCccCHHHHHHHHHHH
+Confidence            3679999999999999888777654
+
+
+No 115
+>1O5O_A Uracil phosphoribosyltransferase (E.C.2.4.2.9); TM0721, URACIL PHOSPHORIBOSYLTRANSFERASE, STRUCTURAL GENOMICS; HET: U5P, SO4; 2.3A {Thermotoga maritima} SCOP: c.61.1.1
+Probab=21.71  E-value=80  Score=34.58  Aligned_cols=25  Identities=20%  Similarity=0.356  Sum_probs=21.4  Template_Neff=8.800
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||..+...++.+
+T Consensus       135 ~~~~VlIvDdii~TG~T~~~~i~~L  159 (221)
+T 1O5O_A          135 DDKEVFLLDPMLATGVSSIKAIEIL  159 (221)
+T ss_dssp             TTCEEEEECSEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCChHHHHHHHHHH
+Confidence            4679999999999999998877655
+
+
+No 116
+>1O5O_B Uracil phosphoribosyltransferase (E.C.2.4.2.9); TM0721, URACIL PHOSPHORIBOSYLTRANSFERASE, STRUCTURAL GENOMICS; HET: U5P, SO4; 2.3A {Thermotoga maritima} SCOP: c.61.1.1
+Probab=21.71  E-value=80  Score=34.58  Aligned_cols=25  Identities=20%  Similarity=0.356  Sum_probs=21.4  Template_Neff=8.800
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++++++|||++.||..+...++.+
+T Consensus       135 ~~~~VlIvDdii~TG~T~~~~i~~L  159 (221)
+T 1O5O_B          135 DDKEVFLLDPMLATGVSSIKAIEIL  159 (221)
+T ss_dssp             TTCEEEEECSEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCChHHHHHHHHHH
+Confidence            4679999999999999998877655
+
+
+No 117
+>6CZF_A Amidophosphoribosyltransferase (E.C.2.4.2.14); PurF, ppGpp, TRANSFERASE; HET: G4P; 1.949A {Escherichia coli (strain K12)}
+Probab=21.21  E-value=83  Score=38.53  Aligned_cols=26  Identities=23%  Similarity=0.382  Sum_probs=22.1  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      +++++++|||.+.||+++..+...+-
+T Consensus       358 ~gk~VllVDDvi~tG~T~~~~~~~L~  383 (498)
+T 6CZF_A          358 RDKNVLLVDDSIVRGTTSEQIIEMAR  383 (498)
+T ss_dssp             TTCCEEEEESCCSSSHHHHHHHHHHH
+T ss_pred             CCCEEEEEeCCCCCCccHHHHHHHHH
+Confidence            57899999999999999887766554
+
+
+No 118
+>1I5E_A URACIL PHOSPHORIBOSYLTRANSFERASE (E.C.2.4.2.9); uracil phosphoribosyltransferase, salvage pathway, bacillus; HET: U5P; 3.0A {Bacillus caldolyticus} SCOP: c.61.1.1
+Probab=20.66  E-value=87  Score=33.49  Aligned_cols=25  Identities=20%  Similarity=0.557  Sum_probs=21.0  Template_Neff=9.400
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      .++++++|||++.||+.+...++.+
+T Consensus       123 ~~~~VlivDdvi~tG~t~~~~i~~l  147 (209)
+T 1I5E_A          123 EERDFIIVDPMLATGGSAVAAIDAL  147 (209)
+T ss_dssp             TTSEEEEECSEESSSHHHHHHHHHH
+T ss_pred             cCCeEEEEeCCcCChHHHHHHHHHH
+Confidence            3679999999999999888776555
+
+
+No 119
+>2EHJ_C Uracil phosphoribosyltransferase (E.C.2.4.2.9); uracil phosphoribosyl transferase, Structural Genomics; HET: SO4; 2.8A {Escherichia coli}
+Probab=20.32  E-value=89  Score=33.48  Aligned_cols=25  Identities=16%  Similarity=0.510  Sum_probs=20.9  Template_Neff=9.300
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDL 1095 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEW 1095 (1259)
+                      +++.+++|||++.||+.+...++.+
+T Consensus       122 ~~~~VllvDdvi~tG~t~~~~i~~L  146 (208)
+T 2EHJ_C          122 DERMALIVDPMLATGGSVIATIDLL  146 (208)
+T ss_dssp             GGSCEEEEEEEESSSHHHHHHHHHH
+T ss_pred             CCCEEEEEcCccCCcHHHHHHHHHH
+Confidence            3679999999999999888777655
+
+
+No 120
+>1ECG_B GLUTAMINE PHOSPHORIBOSYLPYROPHOSPHATE AMIDOTRANSFERASE, 5-OXO-L-NORLEUCINE, PIPERAZINE-N,N'-BIS(2-ETHANESULFONIC; PURINE BIOSYNTHESIS, TRANSFERASE, GLYCOSYLTRANSFERASE, GLUTAMINE; HET: PIN, ONL; 2.3A {Escherichia coli} SCOP: c.61.1.1, d.153.1.1
+Probab=20.09  E-value=91  Score=38.28  Aligned_cols=26  Identities=23%  Similarity=0.382  Sum_probs=22.0  Template_Neff=8.900
+
+Q LOKIASV2_16770 1071 KKKHVIFIDDNIGSGGQLMTVFNDLL 1096 (1259)
+Q Consensus      1071 eddPIIFVDDfIGSGSQaidILqEWF 1096 (1259)
+                      ++++|++|||.+.||+.+..+...+-
+T Consensus       358 ~gk~VllVDDvi~tG~Tl~~~~~~L~  383 (504)
+T 1ECG_B          358 RDKNVLLVDDSIVRGTTSEQIIEMAR  383 (504)
+T ss_dssp             TTCCEEEEESCCSSSHHHHHHHHHHH
+T ss_pred             CCCeEEEEeccCCCCHHHHHHHHHHH
+Confidence            57899999999999998887766554
+
+

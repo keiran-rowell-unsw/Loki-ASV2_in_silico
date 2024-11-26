@@ -1,0 +1,190 @@
+Query         LOKIASV2_18390 hypothetical protein
+Match_columns 1030
+No_of_seqs    1 out of 1
+Neff          1
+Searched_HMMs 80799
+Date          Tue Sep 10 11:36:46 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpj969hbjn/query.a3m -o /tmp/tmpj969hbjn/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2IXS_B SDAI RESTRICTION ENDONU  24.0      67 0.00083   36.1   0.0   32  147-180    85-116 (323)
+  2 4AV2_X TYPE IV PILUS BIOGENESI  15.1 1.4E+02  0.0018   30.0   0.0   29  508-538     6-34  (181)
+  3 3K7C_D Putative NTF2-like tran  13.8 1.6E+02   0.002   24.0   0.0   22  515-536     1-22  (114)
+  4 5UZ9_F CRISPR-associated prote  13.3 1.7E+02  0.0021   33.3   0.0   92  815-923   209-306 (341)
+  5 6VQX_I CRISPR system single-st  13.3 1.7E+02  0.0021   33.6   0.0   92  815-923   228-325 (360)
+  6 1SF8_D Chaperone protein htpG;  12.4 1.9E+02  0.0023   27.5   0.0   39  536-574    69-107 (126)
+  7 1SF8_G Chaperone protein htpG;  12.4 1.9E+02  0.0023   27.5   0.0   39  536-574    69-107 (126)
+  8 4BGP_A NUCLEOPROTEIN; VIRAL PR  10.4 2.4E+02   0.003   31.1   0.0   62  287-351    66-132 (236)
+  9 4BHH_F NUCLEOPROTEIN; VIRAL PR  10.4 2.4E+02   0.003   31.1   0.0   62  287-351    66-132 (236)
+ 10 4TRG_B SidC 1-542; SidC, SNL,   10.0 2.6E+02  0.0032   34.1   0.0   76   97-188   250-342 (542)
+
+No 1
+>2IXS_B SDAI RESTRICTION ENDONUCLEASE (E.C.3.1.21.4); RESTRICTION ENDONUCLEASE, SDAI, HYDROLASE, ENDONUCLEASE; HET: SO4, EPE, TRS; 2.0A {STREPTOMYCES DIASTATICUS}
+Probab=24.00  E-value=67  Score=36.12  Aligned_cols=32  Identities=31%  Similarity=0.305  Sum_probs=25.1  Template_Neff=4.700
+
+Q LOKIASV2_18390  147 RQVTLHQLREAGLLDYVVDEDTFATYKNNPTYCY  180 (1030)
+Q Consensus       147 rqvtlhqlreaglldyvvdedtfatyknnptycy  180 (1030)
+                      |.-|+||+.++|++.|-.|...-+|  |.|.+||
+T Consensus        85 Rr~tlhqfv~ag~v~~n~d~p~rpt--NSpk~~Y  116 (323)
+T 2IXS_B           85 RKKTLRQWVDNGFAVLNPDNLNIAT--NSQLNEY  116 (323)
+T ss_dssp             CCCCCHHHHHHTSEEECTTCCSCCT--TCTTCCE
+T ss_pred             chhcHHHHHHcceEEeCCCCCCCCC--CCCCcee
+Confidence            6779999999999988776655554  6777777
+
+
+No 2
+>4AV2_X TYPE IV PILUS BIOGENESIS AND; PROTEIN TRANSPORT, OUTER MEMBRANE PROTEIN; 26.0A {NEISSERIA MENINGITIDIS MC58}
+Probab=15.08  E-value=1.4e+02  Score=30.04  Aligned_cols=29  Identities=10%  Similarity=0.187  Sum_probs=0.0  Template_Neff=6.800
+
+Q LOKIASV2_18390  508 TGFITALLAGCDMDSSDAALQRYVSAVGQLT  538 (1030)
+Q Consensus       508 tgfitallagcdmdssdaalqryvsavgqlt  538 (1030)
+                      ..+.+++|+||.-  ....|++|+..+.+-.
+T Consensus         6 ~l~~~~lL~gC~~--~~~dL~~~~~~~~~~~   34 (181)
+T 4AV2_X            6 LLISFLALSACSQ--GSEDLNEWMAQTRREA   34 (181)
+T ss_dssp             -------------------------------
+T ss_pred             HHHHHHHHHhcCC--CcHHHHHHHHHHHHhc
+Confidence            4577899999933  6677999988776543
+
+
+No 3
+>3K7C_D Putative NTF2-like transpeptidase; Putative NTF2-like transpeptidase, Structural Genomics; HET: MSE, PEG, PGE; 2.0A {Campylobacter jejuni}
+Probab=13.79  E-value=1.6e+02  Score=23.97  Aligned_cols=22  Identities=0%  Similarity=0.004  Sum_probs=11.8  Template_Neff=10.600
+
+Q LOKIASV2_18390  515 LAGCDMDSSDAALQRYVSAVGQ  536 (1030)
+Q Consensus       515 lagcdmdssdaalqryvsavgq  536 (1030)
+                      |+||..++..+++++|..++.+
+T Consensus         1 ~~~c~~~~~~~~~~~~~~a~~~   22 (114)
+T 3K7C_D            1 GMAYGSSNPEDLAKNFTKDLYS   22 (114)
+T ss_dssp             ------CCHHHHHHHHHHHHHH
+T ss_pred             CCCCCCCCHHHHHHHHHHHHHc
+Confidence            5788777777888888876643
+
+
+No 4
+>5UZ9_F CRISPR-associated protein Csy1, CRISPR-associated protein; CRISPR RNA-recognition-motif (RRM), pseudo-helical, Type;{Pseudomonas aeruginosa (strain UCBPP-PA14)}
+Probab=13.34  E-value=1.7e+02  Score=33.31  Aligned_cols=92  Identities=26%  Similarity=0.381  Sum_probs=57.0  Template_Neff=4.900
+
+Q LOKIASV2_18390  815 LTSVTAEAQFGTASVADLTFAQKLLILKEILMEDADGEIAAAMKSLAVDPAMEAYFADQLEKNIFDREGNYIVTAEDWVA  894 (1030)
+Q Consensus       815 ltsvtaeaqfgtasvadltfaqkllilkeilmedadgeiaaamkslavdpameayfadqleknifdregnyivtaedwva  894 (1030)
+                      +-.|+|.+++|.  -.+.-+.|.+..=+.    +..|+-...+-.+..-++|..    |       .=||-|-|-+||-.
+T Consensus       209 ~l~V~A~~~~G~--gQEVyPSQe~v~dk~----~~k~~kSK~Ly~v~~~Aamhs----Q-------KIGNAlRtIDtWY~  271 (341)
+T 5UZ9_F          209 LLEVVAFARIGD--GQEVFPSQELILDKG----DKKGQKSKTLYSVRDAAAIHS----Q-------KIGNALRTIDTWYP  271 (341)
+T ss_dssp             EEEEEEEEECCT--TCBCCCCBCCCTTST----TTTSSEEECBCEETTEEEECH----H-------HHHHHHTCCCCCCS
+T ss_pred             EEEEEEEEEECC--CCeeccceeeeccCC----CCCCCccceeEEecCeEeech----h-------HHHHHHhhhcccCC
+Confidence            345777777776  445666666543333    344444443333333233332    2       35999999999998
+
+
+Q LOKIASV2_18390  895 VGED----IMRGWGVDPARSLAYRHPE--NYGYGL  923 (1030)
+Q Consensus       895 vged----imrgwgvdparslayrhpe--nygygl  923 (1030)
+                      ..++    -..-+|.+..+..|||+|.  +--|.|
+T Consensus       272 ~~~~~~PIaVepYGavt~~g~A~R~pk~k~DFYtL  306 (341)
+T 5UZ9_F          272 DEDGLGPIAVEPYGSVTSQGKAYRQPKQKLDFYTL  306 (341)
+T ss_dssp             SCSSSCCCCCCSSCEETTTTEECSCTTTTCSHHHH
+T ss_pred             CcCCCCceecccccEEcccceEEcCCCCCCCHHHH
+Confidence            5443    2346899999999999997  444544
+
+
+No 5
+>6VQX_I CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1; CRISPR, Type I-F, Csy, AcrF6; 3.15A {Pseudomonas aeruginosa}
+Probab=13.27  E-value=1.7e+02  Score=33.58  Aligned_cols=92  Identities=26%  Similarity=0.381  Sum_probs=57.3  Template_Neff=4.700
+
+Q LOKIASV2_18390  815 LTSVTAEAQFGTASVADLTFAQKLLILKEILMEDADGEIAAAMKSLAVDPAMEAYFADQLEKNIFDREGNYIVTAEDWVA  894 (1030)
+Q Consensus       815 ltsvtaeaqfgtasvadltfaqkllilkeilmedadgeiaaamkslavdpameayfadqleknifdregnyivtaedwva  894 (1030)
+                      +-.|+|.+++|.  -.+.-+.|.+..=|.    +..|+-...+-.+..-++|-.    |       .=||-|-|-+||-.
+T Consensus       228 ~l~V~A~~~~G~--gQEVyPSQe~v~dk~----~~k~~kSK~Ly~v~~~Aamhs----Q-------KIGNALRTIDtWYp  290 (360)
+T 6VQX_I          228 LLEVVAFARIGD--GQEVFPSQELILDKG----DKKGQKSKTLYSVRDAAAIHS----Q-------KIGNALRTIDTWYP  290 (360)
+T ss_dssp             EEEEEEEEECCS--SCEECCCBCEESSCC----CTTTCCCSCBCEETTEEEECH----H-------HHHHHHTCCBCCCS
+T ss_pred             EEEEEEEEEeCC--CCeeccceeeeccCC----CCCCCccceeEEecCEEeech----h-------HHHHHHhhhcccCC
+Confidence            445777777776  445666666544333    344554444333333233332    2       35999999999998
+
+
+Q LOKIASV2_18390  895 VGED----IMRGWGVDPARSLAYRHPE--NYGYGL  923 (1030)
+Q Consensus       895 vged----imrgwgvdparslayrhpe--nygygl  923 (1030)
+                      ..++    -..-+|.+..+..|||+|.  +--|.|
+T Consensus       291 ~~~~~~PIaVEpYGavt~~g~A~R~Pk~k~DFYtL  325 (360)
+T 6VQX_I          291 DEDGLGPIAVEPYGSVTSQGKAYRQPKQKLDFYTL  325 (360)
+T ss_dssp             SCCSSCSBCCCTTCEETTTTEECSCTTTTCCHHHH
+T ss_pred             CcCCCCceecccccEEcccceEEcCCCCCCCHHHH
+Confidence            5443    2346899999999999997  444544
+
+
+No 6
+>1SF8_D Chaperone protein htpG; four helix bundle dimerization interface; HET: MSE; 2.6A {Escherichia coli} SCOP: d.271.1.1
+Probab=12.40  E-value=1.9e+02  Score=27.52  Aligned_cols=39  Identities=31%  Similarity=0.441  Sum_probs=27.5  Template_Neff=7.000
+
+Q LOKIASV2_18390  536 QLTDNPDHALAKRLDRSPNAETFADVGDVLLWEDLLLHG  574 (1030)
+Q Consensus       536 qltdnpdhalakrldrspnaetfadvgdvllwedlllhg  574 (1030)
+                      .|.=||+|.+.++|....+.+.+.++...|...-+|..|
+T Consensus        69 ~LEINp~HplIkkL~~~~~~~~~~~~~~~Lyd~AlL~~G  107 (126)
+T 1SF8_D           69 IFELNPDHVLVKRAADTEDEAKFSEWVELLLDQALLAER  107 (126)
+T ss_dssp             EEEECTTSHHHHHHHTCCCHHHHHHHHHHHHHHHHHHHH
+T ss_pred             EEEECCCCHHHHHHHhcCChHHHHHHHHHHHHHHHHhCC
+Confidence            466799999999997765566666776666555555444
+
+
+No 7
+>1SF8_G Chaperone protein htpG; four helix bundle dimerization interface; 2.6A {Escherichia coli} SCOP: d.271.1.1
+Probab=12.40  E-value=1.9e+02  Score=27.52  Aligned_cols=39  Identities=31%  Similarity=0.441  Sum_probs=27.5  Template_Neff=7.000
+
+Q LOKIASV2_18390  536 QLTDNPDHALAKRLDRSPNAETFADVGDVLLWEDLLLHG  574 (1030)
+Q Consensus       536 qltdnpdhalakrldrspnaetfadvgdvllwedlllhg  574 (1030)
+                      .|.=||+|.+.++|....+.+.+.++...|...-+|..|
+T Consensus        69 ~LEINp~HplIkkL~~~~~~~~~~~~~~~Lyd~AlL~~G  107 (126)
+T 1SF8_G           69 IFELNPDHVLVKRAADTEDEAKFSEWVELLLDQALLAER  107 (126)
+T ss_dssp             EEEECTTCHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHH
+T ss_pred             EEEECCCCHHHHHHHhcCChHHHHHHHHHHHHHHHHhCC
+Confidence            466799999999997765566666776666555555444
+
+
+No 8
+>4BGP_A NUCLEOPROTEIN; VIRAL PROTEIN, ORTHOBUNYAVIRUS, NUCLEOPROTEIN; HET: SO4; 1.8A {LA CROSSE VIRUS}
+Probab=10.43  E-value=2.4e+02  Score=31.10  Aligned_cols=62  Identities=26%  Similarity=0.362  Sum_probs=36.9  Template_Neff=4.200
+
+Q LOKIASV2_18390  287 EGVWEIPIVRNHFTQLRTATWVE--FIIARLEA---KGIYHWYGGWSKKAVEKDVKLMWETEILPEAARL  351 (1030)
+Q Consensus       287 egvweipivrnhftqlrtatwve--fiiarlea---kgiyhwyggwskkavekdvklmweteilpeaarl  351 (1030)
+                      =|-|++|||.|||.+.|.-....  +-+.||..   +-++.-|-.-   .-|..-..+|.+-|.|.|...
+T Consensus        66 FG~~~v~vvNnh~p~~~~n~v~d~dlTlhRlSGylAr~~le~~~~~---~~~~~~~~i~~~iinPiAes~  132 (236)
+T 4BGP_A           66 FGEWQVEVINNHFPGNRNNPIGNNDLTIHRLSGYLARWVLDQYNEN---DDESQHELIRTTIINPIAESN  132 (236)
+T ss_dssp             ETTEECCEECCCSGGGTTSCCCTTCCCHHHHHHHHHHHHHHHHHHC---CCHHHHHHHHHHCCCHHHHHT
+T ss_pred             cCcEEEEEEcCCCCCCCCCCCCCCCchHHHHHHHHHHHHHHHHHhC---CchHHHHHHHhhccchhHHHc
+Confidence            37799999999999988776555  55666542   1111111111   112333456777788887654
+
+
+No 9
+>4BHH_F NUCLEOPROTEIN; VIRAL PROTEIN-RNA COMPLEX, RNA-BINDING, GENOME; 3.4A {LA CROSSE VIRUS}
+Probab=10.43  E-value=2.4e+02  Score=31.10  Aligned_cols=62  Identities=26%  Similarity=0.362  Sum_probs=36.9  Template_Neff=4.200
+
+Q LOKIASV2_18390  287 EGVWEIPIVRNHFTQLRTATWVE--FIIARLEA---KGIYHWYGGWSKKAVEKDVKLMWETEILPEAARL  351 (1030)
+Q Consensus       287 egvweipivrnhftqlrtatwve--fiiarlea---kgiyhwyggwskkavekdvklmweteilpeaarl  351 (1030)
+                      =|-|++|||.|||.+.|.-....  +-+.||..   +-++.-|-.-   .-|..-..+|.+-|.|.|...
+T Consensus        66 FG~~~v~vvNnh~p~~~~n~v~d~dlTlhRlSGylAr~~le~~~~~---~~~~~~~~i~~~iinPiAes~  132 (236)
+T 4BHH_F           66 FGEWQVEVINNHFPGNRNNPIGNNDLTIHRLSGYLARWVLDQYNEN---DDESQHELIRTTIINPIAESN  132 (236)
+T ss_dssp             ETTEECCEECCCSGGGTTCCCCTTCCCHHHHHHHHHHHHHHHHHHC---CCHHHHHHHHHHCCCHHHHTT
+T ss_pred             cCcEEEEEEcCCCCCCCCCCCCCCCchHHHHHHHHHHHHHHHHHhC---CchHHHHHHHhhccchhHHHc
+Confidence            37799999999999988776555  55666542   1111111111   112333456777788887654
+
+
+No 10
+>4TRG_B SidC 1-542; SidC, SNL, ubiquitin, ligase; 2.59A {Legionella pneumophila}
+Probab=10.01  E-value=2.6e+02  Score=34.08  Aligned_cols=76  Identities=29%  Similarity=0.469  Sum_probs=50.8  Template_Neff=3.200
+
+Q LOKIASV2_18390   97 GRQAEIMTQLKQKLVALLLQIDP---TRELTLS------DYDHI--------APSVPESWIEGELEDRQVTLHQLREAGL  159 (1030)
+Q Consensus        97 grqaeimtqlkqklvalllqidp---treltls------dydhi--------apsvpeswiegeledrqvtlhqlreagl  159 (1030)
+                      +.-.++.+|+.++++.-|+.+||   .-.++-+      .++.|        .++-|..||+                .|
+T Consensus       250 e~ir~~l~~~~~e~~~al~~id~~~~~i~~t~~~~~~pi~q~yi~d~~m~~~~dsT~~dyid----------------AL  313 (542)
+T 4TRG_B          250 EKLNELITNLQNELVKELVKSDPQYSKLSLSKDPRGKEINYDYLVNSLMLVDNDSEIGDWID----------------TI  313 (542)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHTTCGGGGGCCSSBCTTCCBCCHHCCCCCSCCCCTTCCHHHHHH----------------HH
+T ss_pred             HHHHHHHHHHHHHHHHHHhcCCcchhccccccCCCCCccCHHHHHHhhccCCCCCchHHHHH----------------HH
+Confidence            45556777777888888888987   2222211      22333        3334444443                48
+
+
+Q LOKIASV2_18390  160 LDYVVDEDTFATYKNNPTYCYPGVIEVDG  188 (1030)
+Q Consensus       160 ldyvvdedtfatyknnptycypgvievdg  188 (1030)
+                      |.|.+|.+-|.+-...|-|+-+-.+..+.
+T Consensus       314 L~~c~~~~~w~~~~~SPFy~i~~~~~~~~  342 (542)
+T 4TRG_B          314 LDATVDSTVWVAQASSPFYDGAKEISSDR  342 (542)
+T ss_dssp             HHHHCCGGGGCCCCCCTTCCSCSEECSHH
+T ss_pred             HHHhcChhhhcccCCCCcccccccCCCcc
+Confidence            88999999999999999999887765554
+
+
