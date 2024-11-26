@@ -6,7 +6,7 @@ Supporting Information files for *Cultivation of a novel Asgard archaeon from an
 ## Links
 **DOI**: TBD \
 **Zenodo Link**: TBD \
-**ModelArchive entry**: TBD \ 
+**ModelArchive entry**: TBD  
 
 ## Folder structure
 ```
