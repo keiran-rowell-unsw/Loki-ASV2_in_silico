@@ -1,0 +1,980 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-G4T4R7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-G4T4R7-F1-model_v4 Bifunctional alpha-galactosidase/sucrose kinase AgaSK	0.291	215	139	13	209	720	934	7.790E-15	494
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4U220-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4U220-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	4.619E-11	327
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67413-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67413-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	4.343E-11	325
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2RJB4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2RJB4-F1-model_v4 Uridine kinase	0.212	185	139	27	203	1	185	2.653E-11	324
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5ZBE2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5ZBE2-F1-model_v4 Uridine kinase	0.242	184	132	27	201	3	186	4.343E-11	324
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0M9M0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0M9M0-F1-model_v4 Uridine kinase	0.207	185	140	27	204	3	187	4.913E-11	323
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0MCM8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0MCM8-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	6.286E-11	323
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3K1N1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3K1N1-F1-model_v4 Uridine kinase	0.203	186	140	27	203	1	186	5.225E-11	323
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q74KI9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q74KI9-F1-model_v4 Uridine kinase	0.231	188	136	26	203	1	188	2.346E-11	323
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DH37-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DH37-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	5.225E-11	321
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2IPS2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2IPS2-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	7.111E-11	319
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CR90-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CR90-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	7.563E-11	319
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04KA9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04KA9-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	8.554E-11	318
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8E0A8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8E0A8-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	9.098E-11	317
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CKV4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CKV4-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	9.098E-11	317
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5LZ98-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5LZ98-F1-model_v4 Uridine kinase	0.187	186	143	27	203	1	186	8.043E-11	316
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0ZAS6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0ZAS6-F1-model_v4 Uridine kinase	0.214	184	137	29	203	2	185	6.286E-11	313
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67414-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67414-F1-model_v4 Uridine kinase	0.192	186	142	27	203	1	186	8.554E-11	312
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8E5Y5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8E5Y5-F1-model_v4 Uridine kinase	0.208	186	139	27	203	1	186	1.584E-10	311
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CEH1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CEH1-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	1.584E-10	311
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZQ77-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZQ77-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	9.676E-11	311
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1AIX1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1AIX1-F1-model_v4 Uridine kinase	0.231	186	135	26	201	1	186	4.913E-11	310
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8P0F8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8P0F8-F1-model_v4 Uridine kinase	0.198	185	140	29	204	3	187	1.584E-10	310
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XM21-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XM21-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	1.400E-10	310
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CF21-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CF21-F1-model_v4 Uridine kinase	0.230	185	136	27	203	1	185	5.911E-11	308
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8FFL8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8FFL8-F1-model_v4 Uridine kinase	0.223	186	137	27	203	1	186	9.676E-11	308
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HQC9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HQC9-F1-model_v4 Uridine kinase	0.165	186	148	27	204	1	186	2.438E-10	308
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9DSN2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9DSN2-F1-model_v4 Uridine kinase	0.203	186	140	27	203	1	186	1.906E-10	307
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1C7H7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1C7H7-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	2.438E-10	307
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VKU8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VKU8-F1-model_v4 Uridine kinase	0.208	186	139	27	203	5	190	1.685E-10	307
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9DNJ4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9DNJ4-F1-model_v4 Uridine kinase	0.214	184	137	29	203	2	185	1.238E-10	306
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88WR0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88WR0-F1-model_v4 Uridine kinase	0.216	187	139	26	203	4	190	9.098E-11	306
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q03K46-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q03K46-F1-model_v4 Uridine kinase	0.186	187	144	27	204	1	187	2.293E-10	306
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1WTY6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1WTY6-F1-model_v4 Uridine kinase	0.218	187	138	26	203	3	189	7.563E-11	306
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9E6Y9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9E6Y9-F1-model_v4 Uridine kinase	0.210	184	137	29	203	2	185	1.489E-10	305
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O32033-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O32033-F1-model_v4 Uridine kinase	0.215	189	141	27	206	1	189	1.400E-10	305
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q634G4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q634G4-F1-model_v4 Uridine kinase	0.248	187	133	26	203	1	187	1.317E-10	305
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2RDZ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2RDZ9-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	2.438E-10	304
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8GC40-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8GC40-F1-model_v4 Uridine kinase	0.206	190	140	26	202	3	192	3.120E-10	304
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6HDE5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6HDE5-F1-model_v4 Uridine kinase	0.248	187	133	26	203	1	187	1.400E-10	303
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2G882-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2G882-F1-model_v4 Uridine kinase	0.203	186	140	27	203	5	190	1.685E-10	303
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9PQF9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9PQF9-F1-model_v4 Uridine kinase	0.239	186	133	26	201	1	186	2.438E-10	302
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67415-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67415-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	2.933E-10	302
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8YU29-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8YU29-F1-model_v4 Uridine kinase	0.242	192	141	26	212	3	194	1.317E-10	302
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0RIZ3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0RIZ3-F1-model_v4 Uridine kinase	0.250	190	135	26	206	1	190	1.400E-10	302
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IC10-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IC10-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	3.753E-10	302
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DH36-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DH36-F1-model_v4 Uridine kinase	0.197	186	141	27	203	1	186	3.318E-10	301
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7GT59-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7GT59-F1-model_v4 Uridine kinase	0.233	187	136	26	203	1	187	2.027E-10	301
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HA47-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HA47-F1-model_v4 Uridine-cytidine kinase 1	0.174	195	146	26	203	18	212	2.495E-11	301
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1FSX6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1FSX6-F1-model_v4 Uridine kinase	0.210	184	137	29	203	2	185	2.933E-10	300
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7GGE1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7GGE1-F1-model_v4 Uridine kinase	0.221	184	136	29	203	2	185	2.758E-10	300
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IJ68-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IJ68-F1-model_v4 Uridine kinase	0.215	184	137	29	203	2	185	2.933E-10	300
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6QHF2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6QHF2-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	2.156E-10	300
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M3V0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M3V0-F1-model_v4 Uridine kinase	0.187	186	143	27	203	1	186	3.529E-10	300
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HQD8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HQD8-F1-model_v4 Uridine kinase	0.250	190	135	26	206	1	190	1.685E-10	300
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P44533-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P44533-F1-model_v4 Uridine kinase	0.242	195	141	26	212	1	195	1.164E-10	300
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6GG92-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6GG92-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	2.156E-10	299
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67412-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67412-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	2.156E-10	299
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8CSB2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8CSB2-F1-model_v4 Uridine kinase	0.221	184	136	29	203	2	185	2.933E-10	298
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HNT9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HNT9-F1-model_v4 Uridine kinase	0.221	184	136	29	203	2	185	2.758E-10	298
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5ITD6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5ITD6-F1-model_v4 Uridine kinase	0.223	184	135	29	203	2	185	2.593E-10	298
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q730F4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q730F4-F1-model_v4 Uridine kinase	0.248	187	133	26	203	1	187	2.293E-10	298
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9IYE5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9IYE5-F1-model_v4 Uridine kinase	0.248	187	133	26	203	1	187	2.293E-10	298
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1KXA7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1KXA7-F1-model_v4 Uridine kinase	0.215	184	137	29	203	2	185	3.753E-10	297
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3L140-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3L140-F1-model_v4 Uridine kinase	0.215	184	137	29	203	2	185	3.992E-10	297
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q817Z5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q817Z5-F1-model_v4 Uridine kinase	0.238	187	135	26	203	1	187	2.593E-10	297
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3L5Y6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3L5Y6-F1-model_v4 Uridine kinase	0.250	190	135	26	206	1	190	2.438E-10	297
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67410-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67410-F1-model_v4 Uridine kinase	0.230	185	136	27	203	1	185	1.489E-10	296
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DTG1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DTG1-F1-model_v4 Uridine kinase	0.191	187	143	27	204	1	187	5.108E-10	296
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1MXP1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1MXP1-F1-model_v4 Uridine kinase	0.226	185	134	30	203	4	188	5.108E-10	296
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5D4Y5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5D4Y5-F1-model_v4 Uridine kinase	0.203	186	140	27	203	1	186	3.992E-10	296
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4QP55-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4QP55-F1-model_v4 Uridine kinase	0.242	195	141	26	212	1	195	1.095E-10	296
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6G8V8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6G8V8-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	3.318E-10	295
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1ESS5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1ESS5-F1-model_v4 Uridine kinase	0.248	187	133	26	203	1	187	2.933E-10	295
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7Z727-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7Z727-F1-model_v4 Uridine kinase	0.222	183	135	30	203	4	186	5.777E-10	294
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q81LK8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q81LK8-F1-model_v4 Uridine kinase	0.250	190	135	26	206	1	190	3.318E-10	294
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q896E3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q896E3-F1-model_v4 Uridine kinase	0.206	186	140	27	203	1	186	2.758E-10	293
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q71ZH3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q71ZH3-F1-model_v4 Uridine kinase	0.187	186	143	27	203	1	186	7.862E-10	293
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5UFT8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5UFT8-F1-model_v4 Uridine kinase	0.242	195	141	26	212	1	195	1.400E-10	293
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0I2Y9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0I2Y9-F1-model_v4 Uridine kinase	0.232	195	143	26	212	1	195	2.156E-10	293
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8Z4E9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8Z4E9-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	4.515E-10	292
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TR08-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TR08-F1-model_v4 Uridine kinase	0.214	183	136	30	203	3	185	4.246E-10	292
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65GT3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65GT3-F1-model_v4 Uridine kinase	0.226	186	137	26	203	1	186	2.593E-10	292
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EDX4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EDX4-F1-model_v4 Uridine kinase	0.216	190	138	26	202	1	190	6.535E-10	292
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HE15-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HE15-F1-model_v4 Uridine kinase	0.239	190	137	26	206	1	190	3.529E-10	292
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2FGB5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2FGB5-F1-model_v4 Uridine kinase	0.226	185	136	27	203	1	185	2.933E-10	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HFF1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HFF1-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	4.515E-10	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7X320-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7X320-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	4.802E-10	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2YT67-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2YT67-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	4.515E-10	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67411-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67411-F1-model_v4 Uridine kinase	0.230	185	136	27	203	1	185	2.593E-10	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0Q140-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0Q140-F1-model_v4 Uridine kinase	0.216	183	136	30	203	3	185	1.751E-09	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1KVE4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1KVE4-F1-model_v4 Uridine kinase	0.187	186	143	27	203	1	186	1.006E-09	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7IYN4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7IYN4-F1-model_v4 Uridine kinase	0.239	190	137	26	206	1	190	3.992E-10	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4WCB6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4WCB6-F1-model_v4 Uridine kinase	0.211	190	139	26	202	3	192	5.432E-10	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6PA79-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6PA79-F1-model_v4 Uridine-cytidine kinase 1-A	0.182	197	145	26	203	10	206	6.286E-11	291
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2FXW6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2FXW6-F1-model_v4 Uridine kinase	0.225	182	133	31	203	4	185	5.432E-10	290
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5XBI8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5XBI8-F1-model_v4 Uridine kinase	0.196	187	142	27	204	1	187	9.458E-10	290
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Y727-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Y727-F1-model_v4 Uridine kinase	0.187	186	143	27	203	1	186	1.070E-09	290
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5KWV3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5KWV3-F1-model_v4 Uridine kinase	0.213	186	139	27	203	1	186	4.802E-10	290
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q081H5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q081H5-F1-model_v4 Uridine kinase	0.220	195	145	26	212	1	195	2.933E-10	290
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3P969-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3P969-F1-model_v4 Uridine kinase	0.250	190	135	26	206	1	190	4.246E-10	290
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2VFR1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2VFR1-F1-model_v4 Uridine kinase	0.201	190	141	26	202	3	192	1.138E-09	290
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7GIU0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7GIU0-F1-model_v4 Uridine kinase	0.213	186	139	27	203	1	186	5.777E-10	289
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5UB17-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5UB17-F1-model_v4 Uridine kinase	0.232	195	143	26	212	1	195	1.906E-10	289
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6U280-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6U280-F1-model_v4 Uridine kinase	0.230	185	136	27	203	1	185	3.318E-10	288
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8DE13-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8DE13-F1-model_v4 Uridine kinase	0.191	186	143	26	203	1	186	1.138E-09	288
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7JP70-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7JP70-F1-model_v4 Uridine kinase	0.248	187	133	26	203	1	187	6.145E-10	288
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CM85-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CM85-F1-model_v4 Uridine kinase	0.218	190	138	26	202	4	193	6.145E-10	288
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q17413-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q17413-F1-model_v4 Probable uridine-cytidine kinase	0.145	198	151	26	203	1	198	4.802E-10	288
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92BL6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92BL6-F1-model_v4 Uridine kinase	0.191	186	143	26	203	1	186	1.210E-09	287
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9Z7H0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9Z7H0-F1-model_v4 Uridine kinase	0.215	190	141	26	206	1	190	6.535E-10	287
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02XK6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02XK6-F1-model_v4 Uridine kinase	0.216	185	138	27	203	1	185	8.043E-11	286
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KDD8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KDD8-F1-model_v4 Uridine kinase	0.168	190	154	27	212	1	190	2.438E-10	286
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99PM9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99PM9-F1-model_v4 Uridine-cytidine kinase 2	0.184	200	152	26	212	15	214	5.911E-11	285
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AWT2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AWT2-F1-model_v4 Uridine kinase	0.189	190	150	27	212	1	190	4.802E-10	284
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4IR72-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4IR72-F1-model_v4 Uridine kinase	0.213	186	139	27	203	1	186	8.362E-10	284
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5R0B5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5R0B5-F1-model_v4 Uridine kinase	0.210	195	147	26	212	3	197	6.950E-10	284
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37101-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37101-F1-model_v4 Phosphoribulokinase	0.167	182	147	26	202	3	184	3.120E-10	284
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q12MJ0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q12MJ0-F1-model_v4 Uridine kinase	0.205	195	148	26	212	1	195	5.777E-10	283
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1S796-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1S796-F1-model_v4 Uridine kinase	0.220	195	145	26	212	1	195	6.950E-10	283
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q49Y49-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q49Y49-F1-model_v4 Uridine kinase	0.213	185	139	27	203	1	185	1.070E-09	282
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5PDX6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5PDX6-F1-model_v4 Uridine kinase	0.198	191	142	26	203	3	193	3.992E-10	282
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4SXV3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4SXV3-F1-model_v4 Uridine kinase	0.215	186	135	30	202	7	192	2.535E-09	282
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C6DCI6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C6DCI6-F1-model_v4 Uridine kinase	0.186	195	151	26	212	3	197	1.070E-09	282
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1H116-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1H116-F1-model_v4 Uridine-cytidine kinase 2	0.189	195	143	27	203	15	209	1.792E-10	282
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9GNF0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9GNF0-F1-model_v4 Uridine-cytidine kinase D	0.227	202	154	4	205	83	282	2.107E-09	282
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0AIU6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0AIU6-F1-model_v4 Uridine kinase	0.191	186	143	26	203	1	186	2.107E-09	281
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0UT65-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0UT65-F1-model_v4 Uridine kinase	0.233	190	135	26	202	1	190	9.458E-10	281
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P52623-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P52623-F1-model_v4 Uridine-cytidine kinase 1	0.164	195	148	26	203	18	212	1.400E-10	281
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9VI01-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9VI01-F1-model_v4 Uridine kinase	0.238	190	137	26	206	1	190	7.392E-10	280
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9L4F4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9L4F4-F1-model_v4 Uridine kinase	0.220	195	145	26	212	1	195	1.006E-09	280
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4T9T4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4T9T4-F1-model_v4 Uridine kinase	0.206	190	140	26	202	3	192	1.647E-09	280
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F7-F1-model_v4 Uridine kinase	0.194	190	142	26	202	3	192	4.246E-10	280
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66I71-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66I71-F1-model_v4 Uridine-cytidine kinase 1	0.152	197	152	24	203	10	206	1.029E-10	280
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67408-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67408-F1-model_v4 Uridine kinase	0.205	195	148	26	212	3	197	7.862E-10	279
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8T154-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8T154-F1-model_v4 Uridine-cytidine kinase B	0.180	186	144	28	204	12	197	5.432E-10	279
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CXN1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CXN1-F1-model_v4 Uridine kinase	0.176	183	143	30	203	6	188	2.107E-09	278
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1RIY2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1RIY2-F1-model_v4 Uridine kinase	0.220	195	145	26	212	1	195	1.138E-09	278
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8E960-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8E960-F1-model_v4 Uridine kinase	0.220	195	145	26	212	1	195	1.138E-09	278
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6GPD9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6GPD9-F1-model_v4 Uridine-cytidine kinase 1-B	0.169	193	147	26	203	14	206	2.438E-10	278
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9C9B9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9C9B9-F1-model_v4 Inorganic pyrophosphatase TTM1	0.192	201	161	4	203	39	239	5.777E-10	278
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HJN4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HJN4-F1-model_v4 Uridine kinase	0.215	195	146	26	212	1	195	1.210E-09	277
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3D5E3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3D5E3-F1-model_v4 Uridine kinase	0.215	195	146	26	212	1	195	1.070E-09	277
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67409-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P67409-F1-model_v4 Uridine kinase	0.210	195	147	26	212	3	197	1.287E-09	277
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5EXV0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5EXV0-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	1.369E-09	276
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2JZK5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2JZK5-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	8.362E-10	276
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5BF73-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5BF73-F1-model_v4 Uridine kinase	0.206	190	140	26	202	3	192	2.241E-09	276
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O65583-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O65583-F1-model_v4 Uridine kinase-like protein 4	0.156	184	148	28	203	46	229	1.369E-09	276
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0SS52-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0SS52-F1-model_v4 Uridine kinase	0.192	184	141	29	203	2	185	1.981E-09	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1SUY9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1SUY9-F1-model_v4 Uridine kinase	0.230	195	143	26	212	1	195	1.070E-09	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MM12-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MM12-F1-model_v4 Uridine kinase	0.211	190	139	26	202	2	191	3.902E-09	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0Q1G0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0Q1G0-F1-model_v4 Uridine kinase	0.210	195	147	26	212	3	197	1.647E-09	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7FJJ4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7FJJ4-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	8.893E-10	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65S71-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65S71-F1-model_v4 Uridine kinase	0.225	188	135	28	202	6	193	5.432E-10	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VL27-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VL27-F1-model_v4 Uridine kinase	0.223	194	143	28	212	6	199	1.548E-09	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9QYG8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9QYG8-F1-model_v4 Uridine-cytidine kinase 2	0.183	201	152	26	212	14	214	1.489E-10	275
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0TJ03-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0TJ03-F1-model_v4 Uridine kinase	0.200	195	148	27	212	1	195	1.369E-09	274
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TBG6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TBG6-F1-model_v4 Uridine kinase	0.200	191	146	30	212	7	197	1.751E-09	274
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8D8F4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8D8F4-F1-model_v4 Uridine kinase	0.215	190	138	26	202	2	191	3.050E-09	274
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4LEX3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4LEX3-F1-model_v4 Uridine kinase	0.190	185	139	31	202	8	192	6.388E-09	274
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0P5A4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0P5A4-F1-model_v4 Uridine-cytidine kinase 1	0.169	195	147	26	203	18	212	2.933E-10	274
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O74427-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O74427-F1-model_v4 Uridine kinase	0.218	188	138	28	204	18	205	1.400E-10	274
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4L6V8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4L6V8-F1-model_v4 Uridine kinase	0.211	183	136	30	203	3	185	2.867E-09	273
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q38VV6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q38VV6-F1-model_v4 Uridine kinase	0.220	186	138	26	203	3	188	1.548E-09	273
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TNH9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TNH9-F1-model_v4 Uridine kinase	0.210	195	146	27	212	3	197	1.287E-09	273
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MHG8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MHG8-F1-model_v4 Uridine kinase	0.219	195	145	26	212	3	197	6.950E-10	273
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CGU6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CGU6-F1-model_v4 Uridine kinase	0.225	195	144	26	212	3	197	1.548E-09	273
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P27515-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P27515-F1-model_v4 Uridine kinase	0.180	197	145	26	203	44	240	9.458E-10	273
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8XJI6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8XJI6-F1-model_v4 Uridine kinase	0.192	184	141	29	203	2	185	3.243E-09	272
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HVY0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HVY0-F1-model_v4 Uridine kinase	0.210	195	147	26	212	1	195	1.751E-09	272
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57MN1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57MN1-F1-model_v4 Uridine kinase	0.205	195	148	26	212	3	197	1.369E-09	272
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5FMU1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5FMU1-F1-model_v4 Uridine kinase	0.205	195	148	26	212	3	197	1.070E-09	272
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1JPY6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1JPY6-F1-model_v4 Uridine kinase	0.220	195	145	26	212	3	197	2.107E-09	271
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0I1U8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0I1U8-F1-model_v4 Pantothenate kinase	0.185	243	161	11	208	69	311	1.029E-10	271
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6D7B4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6D7B4-F1-model_v4 Uridine kinase	0.186	195	151	26	212	3	197	2.383E-09	270
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F4-F1-model_v4 Uridine kinase	0.200	195	149	26	212	3	197	1.863E-09	270
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NUC7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NUC7-F1-model_v4 Uridine kinase	0.194	191	143	26	203	3	193	5.310E-09	270
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4SML3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4SML3-F1-model_v4 Uridine kinase	0.201	195	149	26	212	3	197	2.107E-09	270
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97RH6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97RH6-F1-model_v4 Pantothenate kinase	0.166	241	164	12	209	61	301	6.286E-11	269
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8NRQ2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8NRQ2-F1-model_v4 Pantothenate kinase	0.150	247	170	12	212	66	312	5.557E-11	269
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FKS0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FKS0-F1-model_v4 Uridine kinase-like protein 1, chloroplastic	0.165	188	148	26	203	57	244	5.777E-10	269
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XPC8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XPC8-F1-model_v4 Uridine kinase	0.196	195	150	26	212	3	197	1.863E-09	268
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P75217-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P75217-F1-model_v4 Uridine kinase	0.214	186	138	27	202	1	186	9.458E-10	268
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EPT5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EPT5-F1-model_v4 Uridine kinase	0.216	187	139	26	203	1	187	3.669E-09	267
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7ZV79-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7ZV79-F1-model_v4 Uridine-cytidine kinase 2-B	0.169	196	151	30	212	21	216	4.515E-10	267
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AX56-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AX56-F1-model_v4 Pantothenate kinase	0.137	241	170	12	209	61	301	1.685E-10	267
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P47622-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P47622-F1-model_v4 Uridine kinase	0.203	185	139	27	202	1	185	2.867E-09	266
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CDI6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CDI6-F1-model_v4 Pantothenate kinase	0.158	241	166	12	209	61	301	7.563E-11	266
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8H3V4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8H3V4-F1-model_v4 Uridine kinase	0.200	195	149	26	212	1	195	3.669E-09	265
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LV30-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LV30-F1-model_v4 Uridine kinase	0.200	195	148	27	212	3	197	7.862E-10	265
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9R2M5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9R2M5-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	2.383E-09	265
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KKF8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KKF8-F1-model_v4 Uridine kinase	0.200	195	149	26	212	3	197	7.392E-10	265
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P11664-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P11664-F1-model_v4 Uncharacterized protein YggC	0.137	221	174	7	209	15	235	4.246E-10	265
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2KE63-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2KE63-F1-model_v4 Pantothenate kinase	0.178	247	161	12	208	78	324	1.164E-10	265
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N7M0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N7M0-F1-model_v4 Uridine kinase	0.205	195	148	26	212	3	197	3.050E-09	264
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZFZ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZFZ9-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	2.535E-09	264
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0TPI4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0TPI4-F1-model_v4 Uridine kinase	0.197	184	140	29	203	2	185	5.647E-09	263
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F5-F1-model_v4 Uridine kinase	0.195	195	150	26	212	3	197	1.070E-09	263
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9BZX2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9BZX2-F1-model_v4 Uridine-cytidine kinase 2	0.172	213	175	1	212	2	214	5.108E-10	263
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7SYM0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7SYM0-F1-model_v4 Uridine-cytidine kinase 2-A	0.183	202	154	24	212	15	216	3.992E-10	263
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0UV22-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0UV22-F1-model_v4 Pantothenate kinase	0.178	247	163	11	209	69	315	2.027E-10	263
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KT67-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KT67-F1-model_v4 Uridine kinase	0.200	195	149	26	212	2	196	3.243E-09	262
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5E3L1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5E3L1-F1-model_v4 Pantothenate kinase	0.158	241	166	12	209	61	301	1.095E-10	262
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9RXZ5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9RXZ5-F1-model_v4 Uridine kinase	0.188	186	143	26	202	2	187	4.992E-09	261
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6WP54-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6WP54-F1-model_v4 Uridine kinase	0.209	195	147	26	212	1	195	1.138E-09	261
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7N6J4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7N6J4-F1-model_v4 Uridine kinase	0.216	195	146	26	212	3	197	2.241E-09	261
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66C70-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66C70-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	3.449E-09	261
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9LTY6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9LTY6-F1-model_v4 Uridine kinase-like protein 5	0.170	183	144	30	203	28	210	4.992E-09	261
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4Y7K6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4Y7K6-F1-model_v4 Uridine kinase	0.219	195	145	26	212	1	195	2.696E-09	260
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4ESY8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4ESY8-F1-model_v4 Uridine kinase	0.201	195	149	26	212	3	197	2.696E-09	260
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7VLX0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7VLX0-F1-model_v4 Uridine kinase	0.205	195	148	26	212	2	196	1.287E-09	260
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1C9T6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1C9T6-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	4.150E-09	260
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8EBM0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8EBM0-F1-model_v4 Pantothenate kinase	0.141	249	171	10	209	67	315	2.293E-10	260
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q55EL3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q55EL3-F1-model_v4 Uridine-cytidine kinase A	0.210	186	145	29	212	69	254	1.548E-09	260
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4TKM7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4TKM7-F1-model_v4 Uridine kinase	0.215	195	146	26	212	3	197	4.414E-09	259
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A8F6-F1-model_v4 Uridine kinase	0.200	195	149	26	212	3	197	4.992E-09	258
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MVE7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MVE7-F1-model_v4 Uridine kinase	0.199	195	149	26	212	2	196	1.369E-09	258
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6NI48-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6NI48-F1-model_v4 Pantothenate kinase	0.173	246	165	12	212	63	308	1.584E-10	258
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q73WG0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q73WG0-F1-model_v4 Pantothenate kinase	0.139	243	170	11	208	63	305	1.029E-10	258
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q47LM9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q47LM9-F1-model_v4 Pantothenate kinase	0.145	242	168	12	208	66	307	3.529E-10	258
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9LK34-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9LK34-F1-model_v4 Uridine kinase-like protein 2, chloroplastic	0.176	187	145	27	203	58	244	1.210E-09	258
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1JTX4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1JTX4-F1-model_v4 Uridine kinase	0.210	195	147	26	212	3	197	5.310E-09	257
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5FG51-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5FG51-F1-model_v4 Uridine kinase	0.196	194	149	27	212	5	198	7.685E-09	257
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IB08-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IB08-F1-model_v4 Pantothenate kinase	0.165	241	164	12	209	61	301	4.619E-11	257
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1MKN0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1MKN0-F1-model_v4 Pantothenate kinase	0.168	236	163	12	208	68	303	1.792E-10	257
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3DA75-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3DA75-F1-model_v4 Pantothenate kinase	0.145	249	170	10	209	67	315	2.156E-10	257
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65QG5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65QG5-F1-model_v4 Pantothenate kinase	0.183	246	162	11	209	70	315	5.777E-10	257
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CJS8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CJS8-F1-model_v4 Pantothenate kinase	0.165	241	164	12	209	61	301	4.343E-11	256
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3PWH7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3PWH7-F1-model_v4 Pantothenate kinase	0.196	247	158	12	208	78	324	1.792E-10	256
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8VYB2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8VYB2-F1-model_v4 Uridine kinase-like protein 3	0.170	188	147	26	203	39	226	9.458E-10	256
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6WHR3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6WHR3-F1-model_v4 Pantothenate kinase	0.145	249	170	10	209	67	315	3.529E-10	255
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0RFX5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0RFX5-F1-model_v4 Pantothenate kinase	0.166	247	163	12	208	69	315	4.802E-10	255
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9NWZ5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9NWZ5-F1-model_v4 Uridine-cytidine kinase-like 1	0.223	190	138	26	204	93	282	3.669E-09	255
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04L73-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04L73-F1-model_v4 Pantothenate kinase	0.165	241	164	12	209	61	301	6.286E-11	254
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CS52-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CS52-F1-model_v4 Pantothenate kinase	0.159	244	166	12	209	58	301	6.686E-11	254
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EK83-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EK83-F1-model_v4 Pantothenate kinase	0.145	242	167	10	205	67	308	2.027E-10	254
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P57967-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P57967-F1-model_v4 Pantothenate kinase	0.164	244	164	11	207	68	311	3.120E-10	254
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63808-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63808-F1-model_v4 Pantothenate kinase	0.166	247	163	12	208	69	315	5.432E-10	254
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1MNG0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1MNG0-F1-model_v4 Pantothenate kinase	0.184	247	160	12	208	78	324	2.027E-10	254
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KW26-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KW26-F1-model_v4 Uridine kinase	0.204	195	148	26	212	1	195	2.383E-09	253
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1S203-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1S203-F1-model_v4 Pantothenate kinase	0.169	237	157	13	202	65	301	2.933E-10	253
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1RE99-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1RE99-F1-model_v4 Pantothenate kinase	0.153	249	169	10	209	67	315	3.318E-10	253
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6VKH8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6VKH8-F1-model_v4 Pantothenate kinase	0.155	246	167	11	209	70	315	4.246E-10	253
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VT45-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VT45-F1-model_v4 Pantothenate kinase	0.166	247	163	12	208	69	315	6.145E-10	253
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0I0C1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0I0C1-F1-model_v4 Pantothenate kinase	0.157	242	164	10	205	67	308	3.992E-10	252
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4YBZ8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4YBZ8-F1-model_v4 Pantothenate kinase	0.149	249	169	10	209	67	315	3.992E-10	252
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8HYS9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8HYS9-F1-model_v4 Pantothenate kinase	0.147	256	171	11	212	65	320	8.362E-10	252
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9M9S1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9M9S1-F1-model_v4 Pantothenate kinase	0.166	247	163	12	208	69	315	6.535E-10	252
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8G8N0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8G8N0-F1-model_v4 Uridine kinase	0.176	186	145	27	203	1	186	1.712E-08	251
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RBW3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RBW3-F1-model_v4 Uridine kinase	0.204	195	148	26	212	3	197	5.310E-09	251
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4VVB5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4VVB5-F1-model_v4 Pantothenate kinase	0.183	240	160	12	208	61	300	5.777E-10	251
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1C6H3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1C6H3-F1-model_v4 Pantothenate kinase	0.169	241	164	12	209	61	301	1.095E-10	251
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1A2X7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1A2X7-F1-model_v4 Pantothenate kinase	0.146	241	168	11	208	63	303	7.862E-10	251
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63809-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63809-F1-model_v4 Pantothenate kinase	0.166	247	163	12	208	69	315	7.392E-10	251
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FQR2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FQR2-F1-model_v4 Pantothenate kinase	0.151	252	170	12	212	77	328	1.685E-10	251
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9WCC8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9WCC8-F1-model_v4 Uridine kinase	0.181	186	144	27	203	1	186	2.060E-08	250
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8P0V9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8P0V9-F1-model_v4 Pantothenate kinase	0.131	236	170	13	209	66	301	1.138E-09	250
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4JU68-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4JU68-F1-model_v4 Pantothenate kinase	0.143	246	171	12	212	63	308	3.529E-10	250
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CN90-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CN90-F1-model_v4 Pantothenate kinase	0.171	246	163	11	208	65	310	2.535E-09	250
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5E8E3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5E8E3-F1-model_v4 Pantothenate kinase	0.159	246	165	12	208	66	311	3.529E-10	250
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2S986-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2S986-F1-model_v4 Pantothenate kinase	0.170	247	163	12	208	69	315	7.862E-10	250
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5ZV89-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5ZV89-F1-model_v4 Pantothenate kinase	0.184	247	160	12	208	78	324	4.802E-10	250
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3SWF3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3SWF3-F1-model_v4 Pantothenate kinase	0.145	243	165	12	205	66	308	8.893E-10	249
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q721P1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q721P1-F1-model_v4 Pantothenate kinase	0.186	241	161	11	209	61	301	8.362E-10	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DQC7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DQC7-F1-model_v4 Pantothenate kinase	0.165	241	164	12	209	61	301	1.164E-10	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KRK9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KRK9-F1-model_v4 Pantothenate kinase	0.165	242	163	10	205	67	308	3.992E-10	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9R361-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9R361-F1-model_v4 Pantothenate kinase	0.171	246	163	11	208	65	310	3.243E-09	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9KW87-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9KW87-F1-model_v4 Pantothenate kinase	0.145	249	170	10	209	67	315	5.777E-10	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6WX50-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6WX50-F1-model_v4 Pantothenate kinase	0.160	247	165	12	208	69	315	4.246E-10	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9JG63-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9JG63-F1-model_v4 Pantothenate kinase	0.168	247	163	12	208	78	324	3.529E-10	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P26302-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P26302-F1-model_v4 Phosphoribulokinase, chloroplastic	0.154	198	148	27	202	54	251	3.902E-09	248
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q87N09-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q87N09-F1-model_v4 Uridine kinase	0.195	195	150	26	212	2	196	1.210E-09	247
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9VC99-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9VC99-F1-model_v4 Uridine-cytidine kinase	0.150	199	156	28	212	24	222	3.050E-09	247
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3CMP3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3CMP3-F1-model_v4 Pantothenate kinase	0.143	237	165	12	205	61	297	1.685E-10	247
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DD30-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DD30-F1-model_v4 Pantothenate kinase	0.172	245	162	12	208	57	301	3.120E-10	247
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0BRA6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0BRA6-F1-model_v4 Pantothenate kinase	0.168	250	165	11	209	65	314	1.006E-09	247
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8UJ92-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8UJ92-F1-model_v4 Pantothenate kinase	0.176	247	162	12	208	69	315	3.120E-10	247
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q59190-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q59190-F1-model_v4 Uridine kinase	0.188	180	140	31	204	2	181	2.478E-08	246
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5E3Z9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5E3Z9-F1-model_v4 Uridine kinase	0.192	194	149	27	212	5	198	2.478E-08	246
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6EIY7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6EIY7-F1-model_v4 Uridine kinase	0.190	194	150	27	212	5	198	4.694E-09	246
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3K1D6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3K1D6-F1-model_v4 Pantothenate kinase	0.154	239	166	11	207	61	299	6.145E-10	246
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4W1L8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4W1L8-F1-model_v4 Pantothenate kinase	0.172	239	161	12	207	61	299	1.070E-09	246
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3PFC1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3PFC1-F1-model_v4 Pantothenate kinase	0.155	233	164	13	207	68	300	1.138E-09	246
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1UKP2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1UKP2-F1-model_v4 Pantothenate kinase	0.156	243	166	11	208	63	305	3.753E-10	246
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q48TD0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q48TD0-F1-model_v4 Pantothenate kinase	0.135	236	170	13	209	66	301	1.287E-09	245
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZNP1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZNP1-F1-model_v4 Pantothenate kinase	0.165	241	164	12	209	61	301	1.489E-10	245
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HNV3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HNV3-F1-model_v4 Pantothenate kinase	0.165	242	163	10	205	67	308	6.145E-10	245
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q07UR1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q07UR1-F1-model_v4 Pantothenate kinase	0.152	244	164	12	205	66	309	5.777E-10	245
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2YQY6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2YQY6-F1-model_v4 Pantothenate kinase	0.164	247	164	12	208	69	315	7.392E-10	245
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O86779-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O86779-F1-model_v4 Pantothenate kinase	0.168	249	162	12	207	75	323	6.145E-10	245
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q662Z7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q662Z7-F1-model_v4 Uridine kinase	0.186	179	140	31	203	2	180	5.520E-08	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8CPI6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8CPI6-F1-model_v4 Uridine kinase	0.183	195	152	26	212	1	195	1.369E-09	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9FRP1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9FRP1-F1-model_v4 Pantothenate kinase	0.145	240	165	12	205	60	299	7.862E-10	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1AYH1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1AYH1-F1-model_v4 Pantothenate kinase	0.164	236	164	12	208	68	303	1.138E-09	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q089R9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q089R9-F1-model_v4 Pantothenate kinase	0.160	244	162	12	205	65	308	4.515E-10	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q98CS9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q98CS9-F1-model_v4 Pantothenate kinase	0.150	245	164	12	205	66	310	5.108E-10	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0CJI8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0CJI8-F1-model_v4 Pantothenate kinase	0.166	247	163	12	208	69	315	1.647E-09	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4QCW5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4QCW5-F1-model_v4 Pantothenate kinase	0.142	240	168	12	208	77	316	3.992E-10	244
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1QYG8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1QYG8-F1-model_v4 Uridine kinase	0.190	180	140	31	204	2	181	5.520E-08	243
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2RK41-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2RK41-F1-model_v4 Pantothenate kinase	0.168	240	163	12	208	60	299	2.933E-10	243
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0S4A2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0S4A2-F1-model_v4 Pantothenate kinase	0.149	241	168	11	208	63	303	1.287E-09	243
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5YQ72-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5YQ72-F1-model_v4 Pantothenate kinase	0.149	241	168	11	208	63	303	9.458E-10	243
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9X795-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9X795-F1-model_v4 Pantothenate kinase	0.137	242	169	11	207	63	304	7.862E-10	243
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7FNJ3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7FNJ3-F1-model_v4 Pantothenate kinase	0.164	244	162	11	205	65	308	3.902E-09	243
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57AH1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57AH1-F1-model_v4 Pantothenate kinase	0.166	247	163	12	208	69	315	1.647E-09	243
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XLR5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XLR5-F1-model_v4 Pantothenate kinase	0.127	236	171	13	209	66	301	1.287E-09	242
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1J6D9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1J6D9-F1-model_v4 Pantothenate kinase	0.127	236	171	13	209	66	301	8.362E-10	242
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1KHN2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1KHN2-F1-model_v4 Pantothenate kinase	0.137	243	170	11	208	63	305	1.210E-09	242
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1B4E6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1B4E6-F1-model_v4 Pantothenate kinase	0.152	243	167	11	208	63	305	6.950E-10	242
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2K103-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2K103-F1-model_v4 Pantothenate kinase	0.162	246	165	11	208	65	310	4.694E-09	242
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MYE7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MYE7-F1-model_v4 Pantothenate kinase	0.182	246	161	11	208	65	310	2.241E-09	242
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZAN6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZAN6-F1-model_v4 Pantothenate kinase	0.171	246	163	11	208	65	310	5.647E-09	242
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99ZH1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99ZH1-F1-model_v4 Pantothenate kinase	0.127	236	171	13	209	66	301	1.006E-09	241
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DA41-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DA41-F1-model_v4 Pantothenate kinase	0.131	236	170	13	209	66	301	8.362E-10	241
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1JGM0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1JGM0-F1-model_v4 Pantothenate kinase	0.127	236	171	13	209	66	301	1.369E-09	241
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0PKS1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0PKS1-F1-model_v4 Pantothenate kinase	0.143	243	169	11	208	63	305	8.362E-10	241
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6JCG7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6JCG7-F1-model_v4 Pantothenate kinase	0.157	243	163	12	205	66	308	5.777E-10	241
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7HSG6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7HSG6-F1-model_v4 Pantothenate kinase	0.148	248	166	14	209	73	320	6.535E-10	241
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7J0V4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7J0V4-F1-model_v4 Uridine kinase	0.183	180	141	31	204	2	181	5.190E-08	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DA40-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DA40-F1-model_v4 Pantothenate kinase	0.127	236	171	13	209	66	301	1.138E-09	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CFM3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CFM3-F1-model_v4 Pantothenate kinase	0.164	240	164	12	208	60	299	3.992E-10	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M079-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M079-F1-model_v4 Pantothenate kinase	0.145	240	168	12	208	61	300	1.070E-09	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q82DL5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q82DL5-F1-model_v4 Pantothenate kinase	0.165	248	164	12	208	75	322	8.362E-10	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3MBB9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3MBB9-F1-model_v4 Pantothenate kinase	0.177	245	159	12	205	78	322	1.006E-09	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54R62-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54R62-F1-model_v4 Uridine-cytidine kinase C	0.195	192	142	2	193	23	200	9.245E-09	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q91YL3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q91YL3-F1-model_v4 Uridine-cytidine kinase-like 1	0.220	189	138	26	203	93	281	4.992E-09	240
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1WRY7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1WRY7-F1-model_v4 Pantothenate kinase	0.135	237	170	12	209	64	300	3.753E-10	239
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5XBZ4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5XBZ4-F1-model_v4 Pantothenate kinase	0.127	236	171	13	209	66	301	1.863E-09	239
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4TR20-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4TR20-F1-model_v4 Pantothenate kinase	0.171	246	163	11	208	65	310	8.173E-09	239
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4K6Z7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4K6Z7-F1-model_v4 Pantothenate kinase	0.195	246	159	11	208	65	310	7.392E-10	239
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1D9X8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1D9X8-F1-model_v4 Pantothenate kinase	0.186	246	160	12	208	65	310	7.392E-10	239
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2J338-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2J338-F1-model_v4 Pantothenate kinase	0.161	243	162	12	205	66	308	1.210E-09	239
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1JBK2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1JBK2-F1-model_v4 Pantothenate kinase	0.135	236	170	13	209	66	301	1.138E-09	238
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8CNB7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8CNB7-F1-model_v4 Pantothenate kinase	0.160	244	162	12	205	65	308	1.138E-09	238
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1L1J5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1L1J5-F1-model_v4 Pantothenate kinase	0.186	241	161	11	209	61	301	2.867E-09	237
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8DEL2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8DEL2-F1-model_v4 Pantothenate kinase	0.186	241	161	11	209	61	301	3.050E-09	237
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2S1K4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2S1K4-F1-model_v4 Uridine kinase	0.206	179	137	31	203	2	180	7.511E-08	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1JLI4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1JLI4-F1-model_v4 Pantothenate kinase	0.127	236	171	13	209	66	301	2.696E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0AH37-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0AH37-F1-model_v4 Pantothenate kinase	0.182	241	162	11	209	61	301	1.548E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92D94-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92D94-F1-model_v4 Pantothenate kinase	0.176	232	157	11	202	61	292	2.241E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63811-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63811-F1-model_v4 Pantothenate kinase	0.153	242	165	12	207	63	304	1.863E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2HT62-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2HT62-F1-model_v4 Pantothenate kinase	0.148	243	168	11	208	63	305	1.456E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1UU59-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1UU59-F1-model_v4 Pantothenate kinase	0.158	247	165	12	208	61	307	1.981E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0TM27-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0TM27-F1-model_v4 Pantothenate kinase	0.148	244	164	12	205	65	308	1.210E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1C2D3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1C2D3-F1-model_v4 Pantothenate kinase	0.162	246	165	11	208	65	310	8.173E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q21CJ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q21CJ9-F1-model_v4 Pantothenate kinase	0.149	243	164	12	205	65	307	1.456E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92TB5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92TB5-F1-model_v4 Pantothenate kinase	0.169	245	160	12	205	78	322	1.369E-09	236
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9LED5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9LED5-F1-model_v4 Uridine kinase	0.180	186	144	27	203	1	186	4.880E-08	235
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P44793-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P44793-F1-model_v4 Pantothenate kinase	0.178	242	162	11	208	64	305	1.070E-09	235
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPA7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPA7-F1-model_v4 Pantothenate kinase	0.137	242	169	11	207	63	304	2.696E-09	235
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8G1G2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8G1G2-F1-model_v4 Pantothenate kinase	0.156	244	163	12	205	65	308	2.107E-09	235
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q13E42-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q13E42-F1-model_v4 Pantothenate kinase	0.164	244	161	12	205	66	309	1.070E-09	235
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P09559-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P09559-F1-model_v4 Phosphoribulokinase, chloroplastic	0.154	198	148	27	202	52	249	1.712E-08	235
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0SPE9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0SPE9-F1-model_v4 Uridine kinase	0.186	179	140	31	203	2	180	1.391E-07	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q72L53-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q72L53-F1-model_v4 Uridine kinase	0.200	190	149	26	212	1	190	2.981E-08	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P12033-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P12033-F1-model_v4 Phosphoribulokinase 1	0.174	205	143	27	200	1	205	1.513E-08	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q03L30-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q03L30-F1-model_v4 Pantothenate kinase	0.142	240	168	12	208	61	300	1.751E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MGQ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MGQ9-F1-model_v4 Pantothenate kinase	0.165	243	161	12	205	57	299	1.369E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8GYW1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8GYW1-F1-model_v4 Pantothenate kinase	0.152	244	164	12	205	65	308	2.107E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1JJI8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1JJI8-F1-model_v4 Pantothenate kinase	0.171	246	163	11	208	65	310	1.338E-08	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1KMZ8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1KMZ8-F1-model_v4 Pantothenate kinase	0.155	244	163	12	205	65	308	2.241E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3Q953-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3Q953-F1-model_v4 Pantothenate kinase	0.160	244	162	12	205	66	309	1.070E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6ND01-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6ND01-F1-model_v4 Pantothenate kinase	0.160	244	162	12	205	66	309	1.070E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q89WM2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q89WM2-F1-model_v4 Pantothenate kinase	0.152	244	164	12	205	66	309	1.863E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1QRW8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1QRW8-F1-model_v4 Pantothenate kinase	0.140	244	166	12	205	66	309	1.981E-09	234
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1AM86-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1AM86-F1-model_v4 Pantothenate kinase	0.137	242	169	11	207	63	304	3.449E-09	233
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0R2V9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0R2V9-F1-model_v4 Pantothenate kinase	0.150	243	167	11	208	63	305	1.210E-09	233
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N0I2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N0I2-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	3.669E-09	233
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Y8I0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Y8I0-F1-model_v4 Pantothenate kinase	0.186	241	161	11	209	61	301	4.694E-09	232
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KV38-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KV38-F1-model_v4 Pantothenate kinase	0.177	243	159	12	205	62	304	6.006E-09	232
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q12SX3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q12SX3-F1-model_v4 Pantothenate kinase	0.152	243	164	12	205	63	305	1.863E-09	232
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6UEK1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6UEK1-F1-model_v4 Pantothenate kinase	0.146	245	165	12	205	78	322	9.458E-10	232
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02YD2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02YD2-F1-model_v4 Pantothenate kinase	0.168	240	163	12	208	60	299	1.138E-09	231
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9C664-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9C664-F1-model_v4 Inorganic pyrophosphatase TTM2	0.197	195	144	4	198	39	218	6.794E-09	231
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DU31-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DU31-F1-model_v4 Pantothenate kinase	0.138	239	168	12	207	61	299	3.449E-09	230
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M4T8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M4T8-F1-model_v4 Pantothenate kinase	0.142	240	168	12	208	61	300	2.535E-09	230
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VLY5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VLY5-F1-model_v4 Pantothenate kinase	0.142	241	169	11	208	60	300	3.449E-09	230
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MQP3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MQP3-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	3.902E-09	230
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19824-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19824-F1-model_v4 Phosphoribulokinase, chloroplastic	0.169	199	146	26	202	31	229	7.685E-09	230
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5SKR5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5SKR5-F1-model_v4 Uridine kinase	0.200	190	149	26	212	1	190	5.190E-08	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UTC5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UTC5-F1-model_v4 Putative uridine kinase C227.14	0.150	231	176	5	212	2	232	6.388E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63812-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63812-F1-model_v4 Pantothenate kinase	0.164	234	162	13	207	66	299	1.287E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63813-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63813-F1-model_v4 Pantothenate kinase	0.169	239	163	11	207	61	299	1.210E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZSH3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZSH3-F1-model_v4 Pantothenate kinase	0.137	242	169	11	207	63	304	3.243E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TCR5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TCR5-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	6.006E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8G8D9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8G8D9-F1-model_v4 Pantothenate kinase	0.167	246	164	11	208	65	310	4.992E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3Q967-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3Q967-F1-model_v4 Pantothenate kinase	0.128	245	170	12	207	65	309	1.287E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5FPY5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5FPY5-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	5.647E-09	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66FR1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66FR1-F1-model_v4 Pantothenate kinase	0.171	246	163	11	208	65	310	2.330E-08	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P27774-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P27774-F1-model_v4 Phosphoribulokinase, chloroplastic	0.172	200	147	25	202	45	244	2.330E-08	229
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPA6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPA6-F1-model_v4 Pantothenate kinase	0.157	242	164	12	207	63	304	4.150E-09	228
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1JIH1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1JIH1-F1-model_v4 Pantothenate kinase	0.170	246	164	11	208	65	310	2.060E-08	228
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9L9K3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9L9K3-F1-model_v4 Pantothenate kinase	0.158	246	165	12	208	65	310	7.225E-09	228
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5BJP4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5BJP4-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	6.388E-09	228
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6AD31-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6AD31-F1-model_v4 Pantothenate kinase	0.157	242	165	12	208	74	315	2.867E-09	228
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5U1D9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5U1D9-F1-model_v4 Pantothenate kinase	0.141	242	168	11	207	63	304	3.902E-09	227
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Z318-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Z318-F1-model_v4 Pantothenate kinase	0.154	246	167	11	208	65	310	1.046E-08	227
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4YJV7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4YJV7-F1-model_v4 Pantothenate kinase	0.152	245	165	12	207	66	310	2.535E-09	227
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3GYJ4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3GYJ4-F1-model_v4 Pantothenate kinase	0.160	244	164	14	209	71	314	6.794E-09	226
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57H79-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57H79-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	8.173E-09	226
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VPK9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VPK9-F1-model_v4 Pantothenate kinase	0.149	250	168	11	209	65	314	1.981E-09	226
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8A778-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8A778-F1-model_v4 Pantothenate kinase	0.166	246	164	11	208	65	310	6.006E-09	225
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6I4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6I4-F1-model_v4 Pantothenate kinase	0.166	246	164	11	208	65	310	6.388E-09	225
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q839J7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q839J7-F1-model_v4 Pantothenate kinase	0.152	247	168	12	210	60	306	3.050E-09	224
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9K8X7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9K8X7-F1-model_v4 Pantothenate kinase	0.160	252	168	12	212	65	316	1.981E-09	224
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9JXX1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9JXX1-F1-model_v4 Pantothenate kinase	0.161	246	164	12	208	78	323	3.669E-09	224
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4T0Y0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4T0Y0-F1-model_v4 Pantothenate kinase	0.158	246	165	12	208	65	310	1.258E-08	223
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5F0V8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5F0V8-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	1.112E-08	223
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1R8P8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1R8P8-F1-model_v4 Pantothenate kinase	0.145	246	168	12	208	71	316	6.006E-09	223
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2GEA0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2GEA0-F1-model_v4 Pantothenate kinase	0.184	241	161	11	208	60	300	1.863E-09	222
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1TE33-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1TE33-F1-model_v4 Pantothenate kinase	0.151	243	167	11	208	63	305	4.150E-09	222
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3N2G1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3N2G1-F1-model_v4 Pantothenate kinase	0.158	240	163	14	208	71	310	9.245E-09	222
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1T0P0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1T0P0-F1-model_v4 Pantothenate kinase	0.164	244	162	11	205	71	314	4.150E-09	222
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1SF33-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1SF33-F1-model_v4 Pantothenate kinase	0.134	247	170	12	208	76	322	3.902E-09	222
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23015-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23015-F1-model_v4 Phosphoribulokinase	0.136	204	149	30	202	4	207	9.036E-08	221
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2G996-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2G996-F1-model_v4 Pantothenate kinase	0.139	239	168	11	206	60	298	1.183E-08	221
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RLM3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RLM3-F1-model_v4 Uridine kinase	0.192	179	139	31	203	2	180	2.141E-07	220
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AKV0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AKV0-F1-model_v4 Pantothenate kinase	0.157	246	165	12	208	64	309	6.006E-09	220
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XYG3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XYG3-F1-model_v4 Pantothenate kinase	0.157	246	166	11	208	65	310	1.112E-08	220
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TQI6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TQI6-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	1.423E-08	220
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7M726-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7M726-F1-model_v4 Pantothenate kinase	0.153	246	167	11	208	65	310	7.685E-09	219
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P54556-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P54556-F1-model_v4 Pantothenate kinase	0.130	248	171	12	208	65	312	3.243E-09	219
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0Q2Q8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0Q2Q8-F1-model_v4 Pantothenate kinase	0.153	246	166	12	208	65	310	7.685E-09	218
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1XBY1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1XBY1-F1-model_v4 Pantothenate kinase	0.165	246	164	12	208	65	310	9.245E-09	218
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0TA86-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0TA86-F1-model_v4 Pantothenate kinase	0.153	246	167	11	208	65	310	9.245E-09	218
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P58347-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P58347-F1-model_v4 Phosphoribulokinase	0.140	205	151	27	202	1	205	1.087E-07	217
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0M9A7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0M9A7-F1-model_v4 Pantothenate kinase	0.147	236	167	13	209	66	301	6.006E-09	217
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2REA6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2REA6-F1-model_v4 Pantothenate kinase	0.135	236	170	13	209	66	301	2.981E-08	217
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C6DHQ6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C6DHQ6-F1-model_v4 Pantothenate kinase	0.159	246	166	11	208	65	310	4.992E-09	217
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RFK9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RFK9-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	65	310	1.712E-08	217
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0MG55-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0MG55-F1-model_v4 Pantothenate kinase	0.148	235	166	13	208	66	300	5.647E-09	216
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q38ZE2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q38ZE2-F1-model_v4 Pantothenate kinase	0.172	236	161	13	208	67	302	7.225E-09	216
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LA72-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LA72-F1-model_v4 Pantothenate kinase	0.161	246	165	11	208	65	310	1.338E-08	216
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TGN1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TGN1-F1-model_v4 Pantothenate kinase	0.154	246	166	12	208	65	310	1.258E-08	216
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7Z6C4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7Z6C4-F1-model_v4 Pantothenate kinase	0.130	248	171	12	208	65	312	3.243E-09	215
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3YV06-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3YV06-F1-model_v4 Pantothenate kinase	0.162	244	163	11	205	65	308	6.388E-09	214
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7MIW5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7MIW5-F1-model_v4 Pantothenate kinase	0.165	246	164	11	208	65	310	7.225E-09	214
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5QXR5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5QXR5-F1-model_v4 Pantothenate kinase	0.161	246	164	12	208	65	310	1.338E-08	214
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7NR61-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7NR61-F1-model_v4 Pantothenate kinase	0.165	246	164	11	208	65	310	7.225E-09	214
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6A6T7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6A6T7-F1-model_v4 Pantothenate kinase	0.150	240	165	14	208	81	320	5.647E-09	214
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4U2S2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4U2S2-F1-model_v4 Pantothenate kinase	0.148	235	166	13	208	66	300	9.245E-09	213
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q03PP4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q03PP4-F1-model_v4 Pantothenate kinase	0.143	237	168	11	207	63	299	9.832E-09	213
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88Y75-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88Y75-F1-model_v4 Pantothenate kinase	0.151	239	168	10	208	64	302	9.245E-09	213
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5PK80-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5PK80-F1-model_v4 Pantothenate kinase	0.158	246	165	12	208	65	310	3.814E-08	213
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1R5X9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1R5X9-F1-model_v4 Pantothenate kinase	0.153	246	167	11	208	65	310	8.692E-09	213
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6I3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6I3-F1-model_v4 Pantothenate kinase	0.153	246	167	11	208	65	310	1.610E-08	213
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9KD67-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9KD67-F1-model_v4 Pantothenate kinase	0.148	241	166	13	208	71	311	1.258E-08	213
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56887-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56887-F1-model_v4 Phosphoribulokinase	0.135	205	151	27	202	1	205	1.479E-07	212
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3W953-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3W953-F1-model_v4 Pantothenate kinase	0.131	238	170	12	208	64	301	2.478E-08	212
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7NFR9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7NFR9-F1-model_v4 Pantothenate kinase	0.165	246	164	12	208	65	310	1.712E-08	211
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q31U19-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q31U19-F1-model_v4 Pantothenate kinase	0.165	246	164	12	208	65	310	1.821E-08	210
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7ZUJ0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7ZUJ0-F1-model_v4 Pantothenate kinase	0.165	246	164	11	208	65	310	1.112E-08	210
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7MR65-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7MR65-F1-model_v4 Pantothenate kinase	0.165	246	164	11	208	65	310	1.183E-08	210
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RQJ8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5RQJ8-F1-model_v4 Uridine kinase	0.175	179	142	31	203	2	180	2.141E-07	209
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LUM3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LUM3-F1-model_v4 Pantothenate kinase	0.166	244	161	12	205	65	308	9.245E-09	209
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2TWG4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2TWG4-F1-model_v4 Pantothenate kinase	0.157	246	165	12	208	65	310	1.821E-08	209
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4W599-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4W599-F1-model_v4 Pantothenate kinase	0.151	243	165	11	205	65	307	2.190E-08	209
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LNT0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LNT0-F1-model_v4 Pantothenate kinase	0.161	246	164	12	208	65	310	2.478E-08	208
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q83PC5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q83PC5-F1-model_v4 Pantothenate kinase	0.157	246	165	12	208	65	310	2.478E-08	208
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UUH3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UUH3-F1-model_v4 Uncharacterized kinase mug58	0.133	277	173	9	208	1	277	2.141E-07	207
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6I5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6I5-F1-model_v4 Pantothenate kinase	0.153	246	167	11	208	65	310	2.330E-08	206
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7UNV0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7UNV0-F1-model_v4 Pantothenate kinase	0.153	246	167	11	208	65	310	2.060E-08	206
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6DAN8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6DAN8-F1-model_v4 Pantothenate kinase	0.158	246	165	12	208	65	310	1.513E-08	206
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2VG89-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2VG89-F1-model_v4 Pantothenate kinase	0.142	246	169	11	208	65	310	3.814E-08	206
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q83EV9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q83EV9-F1-model_v4 Pantothenate kinase	0.153	246	166	12	208	66	311	2.478E-08	206
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NWS4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NWS4-F1-model_v4 Pantothenate kinase	0.154	246	167	11	208	65	310	3.814E-08	205
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AIF2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AIF2-F1-model_v4 Pantothenate kinase	0.157	246	166	11	208	65	310	1.821E-08	204
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9NAJ3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9NAJ3-F1-model_v4 Pantothenate kinase	0.149	246	167	12	208	66	311	1.513E-08	204
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5A0R9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5A0R9-F1-model_v4 Pantothenate kinase	0.162	244	163	11	205	65	308	2.330E-08	203
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q32AF0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q32AF0-F1-model_v4 Pantothenate kinase	0.161	246	164	12	208	65	310	4.314E-08	203
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23010-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23010-F1-model_v4 Phosphoribulokinase 2	0.161	207	147	27	202	1	207	2.739E-07	199
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q036Y4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q036Y4-F1-model_v4 Pantothenate kinase	0.138	238	169	12	208	64	301	2.803E-08	199
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6J596-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6J596-F1-model_v4 Pantothenate kinase	0.150	246	167	12	208	66	311	1.821E-08	199
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6J2J7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6J2J7-F1-model_v4 Pantothenate kinase	0.145	241	167	13	208	71	311	2.190E-08	198
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7IHN7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7IHN7-F1-model_v4 Pantothenate kinase	0.139	250	166	12	205	65	314	6.244E-08	196
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q944I4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q944I4-F1-model_v4 D-glycerate 3-kinase, chloroplastic	0.139	264	164	17	208	190	453	6.641E-08	195
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19923-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19923-F1-model_v4 Phosphoribulokinase, chromosomal	0.138	207	151	27	202	1	207	3.099E-07	193
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0Z7P4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0Z7P4-F1-model_v4 Pantothenate kinase	0.134	248	170	12	208	66	313	9.036E-08	193
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19924-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19924-F1-model_v4 Phosphoribulokinase, plasmid	0.119	207	154	27	202	1	207	5.738E-07	191
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37100-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37100-F1-model_v4 Phosphoribulokinase	0.138	207	151	27	202	1	207	1.636E-06	186
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEX5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEX5-F1-model_v4 Probable phosphoribulokinase	0.138	206	151	27	202	1	206	1.808E-05	152
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5DNG5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5DNG5-F1-model_v4 ATP-dependent kinase YFH7	0.115	334	168	7	197	2	335	9.766E-06	145
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEX6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEX6-F1-model_v4 Probable phosphoribulokinase	0.138	206	151	27	202	1	206	5.483E-05	142
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5VI33-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5VI33-F1-model_v4 ATP-dependent kinase YFH7	0.103	349	174	8	202	1	349	1.080E-04	129
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43591-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43591-F1-model_v4 ATP-dependent kinase YFH7	0.101	349	174	8	202	1	349	3.273E-04	120
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7A245-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7A245-F1-model_v4 ATP-dependent kinase YFH7	0.103	349	174	8	202	1	349	2.894E-04	120
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C7GYB3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C7GYB3-F1-model_v4 ATP-dependent kinase YFH7	0.103	349	174	8	202	1	349	4.188E-04	118
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04YY2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04YY2-F1-model_v4 Thymidylate kinase	0.154	181	150	26	203	1	181	2.000E-04	109
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04UJ2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04UJ2-F1-model_v4 Thymidylate kinase	0.149	181	151	26	203	1	181	2.721E-04	108
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0U447-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0U447-F1-model_v4 Thymidylate kinase	0.147	176	149	31	206	9	184	4.454E-04	108
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2I7G4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2I7G4-F1-model_v4 Thymidylate kinase	0.147	176	149	31	206	9	184	5.359E-04	107
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8U1S1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8U1S1-F1-model_v4 Putative adenylate kinase	0.167	170	108	33	202	2	132	2.894E-04	105
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4UPG4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4UPG4-F1-model_v4 Thymidylate kinase	0.152	176	148	31	206	9	184	6.447E-04	104
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NHE3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NHE3-F1-model_v4 Probable thymidylate kinase	0.140	173	146	33	203	2	174	1.055E-03	103
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UX83-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UX83-F1-model_v4 Adenylate kinase	0.130	166	139	32	197	2	162	3.078E-04	103
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q11HZ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q11HZ9-F1-model_v4 Thymidylate kinase	0.111	194	159	27	206	1	194	3.078E-04	103
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8F7Y6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8F7Y6-F1-model_v4 Thymidylate kinase	0.166	186	154	26	211	1	186	1.662E-04	102
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0R1X1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0R1X1-F1-model_v4 Thymidylate kinase	0.130	182	156	30	211	2	181	3.938E-04	101
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5V3I6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5V3I6-F1-model_v4 Thymidylate kinase	0.101	187	156	30	203	2	188	3.078E-04	101
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9YDD2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9YDD2-F1-model_v4 Adenylate kinase	0.121	182	154	27	202	1	182	5.699E-04	100
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8UFA0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8UFA0-F1-model_v4 Thymidylate kinase	0.093	193	161	26	203	1	193	5.359E-04	99
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C8Z7U0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C8Z7U0-F1-model_v4 ATP-dependent kinase YFH7	0.113	325	167	8	196	1	325	1.194E-03	99
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3NEG7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3NEG7-F1-model_v4 Adenylate kinase	0.133	166	139	32	197	2	162	4.738E-04	98
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3N5V1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3N5V1-F1-model_v4 Adenylate kinase	0.133	166	139	32	197	2	162	4.738E-04	98
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5WWU9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5WWU9-F1-model_v4 Thymidylate kinase	0.138	192	155	26	206	1	192	2.351E-03	98
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3MVK2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3MVK2-F1-model_v4 Adenylate kinase	0.133	166	139	32	197	2	162	5.039E-04	97
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4KHI0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4KHI0-F1-model_v4 Adenylate kinase	0.133	166	139	32	197	2	162	5.039E-04	97
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3NH85-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3NH85-F1-model_v4 Adenylate kinase	0.133	166	139	32	197	2	162	5.039E-04	97
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5ZVP1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5ZVP1-F1-model_v4 Thymidylate kinase	0.141	192	155	26	206	1	192	2.829E-03	97
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3MQ83-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3MQ83-F1-model_v4 Adenylate kinase	0.133	166	139	32	197	2	162	6.062E-04	96
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5A1K2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5A1K2-F1-model_v4 Probable thymidylate kinase	0.129	184	150	31	203	2	185	5.039E-04	96
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4FXE7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4FXE7-F1-model_v4 Adenylate kinase	0.078	173	159	30	202	2	174	1.123E-03	95
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6UP41-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6UP41-F1-model_v4 Adenylate kinase	0.103	168	141	30	197	2	159	9.331E-04	95
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43409-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43409-F1-model_v4 Adenylate kinase	0.151	168	133	30	197	2	159	2.721E-04	95
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2S5K6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2S5K6-F1-model_v4 Thymidylate kinase	0.114	191	156	30	206	2	192	1.625E-03	95
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q72NL9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q72NL9-F1-model_v4 Thymidylate kinase	0.173	186	153	26	211	1	186	2.721E-04	94
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5CHP2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C5CHP2-F1-model_v4 Thymidylate kinase	0.107	184	154	33	206	2	185	1.270E-03	94
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23919-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23919-F1-model_v4 Thymidylate kinase	0.118	183	159	26	206	1	183	6.447E-04	94
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6N643-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6N643-F1-model_v4 Thymidylate kinase	0.119	196	159	26	206	8	203	4.188E-04	94
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6FZU8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6FZU8-F1-model_v4 Thymidylate kinase	0.117	189	153	30	203	2	190	1.954E-03	93
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6JEC6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6JEC6-F1-model_v4 Thymidylate kinase	0.127	195	157	26	206	8	202	1.194E-03	93
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q47DZ5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q47DZ5-F1-model_v4 Thymidylate kinase	0.084	186	161	30	206	2	187	1.728E-03	92
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5X5G6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5X5G6-F1-model_v4 Thymidylate kinase	0.120	192	158	26	206	1	192	1.728E-03	92
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5IBP1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5IBP1-F1-model_v4 Thymidylate kinase	0.146	190	152	26	204	1	190	2.660E-03	92
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8F8Z5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8F8Z5-F1-model_v4 Thymidylate kinase	0.102	187	155	30	203	2	188	1.436E-03	91
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0RIW8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0RIW8-F1-model_v4 Thymidylate kinase	0.121	188	152	30	203	2	189	2.079E-03	91
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3QKH1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3QKH1-F1-model_v4 Thymidylate kinase	0.124	196	158	26	206	8	203	6.857E-04	91
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AVP9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AVP9-F1-model_v4 Thymidylate kinase	0.142	190	155	30	211	3	192	1.123E-03	90
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2Y981-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2Y981-F1-model_v4 Thymidylate kinase	0.120	187	155	30	206	2	188	1.055E-03	90
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4YUL6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4YUL6-F1-model_v4 Thymidylate kinase	0.115	194	158	25	203	6	199	1.123E-03	90
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43411-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43411-F1-model_v4 Adenylate kinase	0.117	168	139	30	197	2	159	8.773E-04	89
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VQD7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5VQD7-F1-model_v4 Thymidylate kinase	0.114	191	156	30	206	2	192	3.403E-03	89
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8YH15-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8YH15-F1-model_v4 Thymidylate kinase	0.118	191	155	30	206	2	192	2.829E-03	89
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5FUU6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5FUU6-F1-model_v4 Thymidylate kinase	0.121	193	157	27	206	1	193	9.924E-04	89
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43408-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43408-F1-model_v4 Adenylate kinase	0.118	173	152	30	202	2	174	8.249E-04	88
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3DM71-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3DM71-F1-model_v4 Probable thymidylate kinase	0.131	181	156	27	206	1	181	2.660E-03	88
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AYF8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8AYF8-F1-model_v4 Thymidylate kinase	0.100	192	163	30	211	3	194	3.403E-03	88
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0Q3M5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0Q3M5-F1-model_v4 Thymidylate kinase	0.125	188	152	30	204	3	190	9.331E-04	87
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q214D4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q214D4-F1-model_v4 Thymidylate kinase	0.106	194	159	28	206	10	203	1.123E-03	87
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O67099-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O67099-F1-model_v4 Thymidylate kinase	0.157	173	143	33	203	2	174	1.954E-03	86
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6AJE2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6AJE2-F1-model_v4 Thymidylate kinase	0.136	167	140	29	191	2	168	2.079E-03	86
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3P9H5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3P9H5-F1-model_v4 Thymidylate kinase	0.148	187	147	30	203	2	188	1.123E-03	86
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8DAU8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8DAU8-F1-model_v4 Thymidylate kinase	0.135	190	152	30	206	2	191	9.924E-04	86
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5EJ24-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5EJ24-F1-model_v4 Thymidylate kinase	0.118	194	157	25	203	6	199	1.350E-03	86
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9MB09-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9MB09-F1-model_v4 Thymidylate kinase	0.118	191	155	30	206	2	192	5.571E-03	85
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6LYG0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6LYG0-F1-model_v4 Adenylate kinase	0.085	173	157	30	202	2	174	1.436E-03	84
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3CT21-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3CT21-F1-model_v4 Adenylate kinase	0.098	173	155	30	202	2	174	1.954E-03	84
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65JT8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65JT8-F1-model_v4 Adenylyl-sulfate kinase	0.149	197	166	1	197	1	196	1.563E-04	84
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Y3Y6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8Y3Y6-F1-model_v4 Thymidylate kinase	0.142	190	151	30	206	2	191	1.270E-03	84
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6LPM3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6LPM3-F1-model_v4 Thymidylate kinase	0.121	189	160	30	212	3	191	1.194E-03	84
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8G0U3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8G0U3-F1-model_v4 Thymidylate kinase	0.118	191	155	30	206	2	192	5.238E-03	84
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43410-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P43410-F1-model_v4 Adenylate kinase	0.087	173	157	30	202	2	174	1.350E-03	83
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5LES5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5LES5-F1-model_v4 Adenylyl-sulfate kinase	0.204	173	123	1	173	1	156	3.078E-04	83
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7ISU0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7ISU0-F1-model_v4 Thymidylate kinase	0.148	187	147	30	203	2	188	1.728E-03	83
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q927E8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q927E8-F1-model_v4 Thymidylate kinase	0.133	190	153	30	206	2	191	1.625E-03	83
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q55593-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q55593-F1-model_v4 Thymidylate kinase	0.100	192	156	30	203	2	193	3.849E-03	83
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0CGE4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0CGE4-F1-model_v4 Thymidylate kinase	0.128	191	153	30	206	2	192	2.351E-03	83
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6VFX9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6VFX9-F1-model_v4 Adenylate kinase	0.095	173	156	30	202	2	174	1.954E-03	82
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6UW35-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6UW35-F1-model_v4 Adenylate kinase	0.104	168	141	30	197	2	159	2.079E-03	82
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9INL0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9INL0-F1-model_v4 Thymidylate kinase	0.102	185	158	27	203	1	185	3.403E-03	82
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q81JB5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q81JB5-F1-model_v4 Thymidylate kinase	0.158	187	146	30	203	2	188	1.728E-03	82
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0AM28-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0AM28-F1-model_v4 Thymidylate kinase	0.123	190	154	30	206	2	191	1.838E-03	82
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3SSL6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3SSL6-F1-model_v4 Thymidylate kinase	0.118	197	163	26	211	8	204	5.238E-03	82
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3PLG0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3PLG0-F1-model_v4 Thymidylate kinase	0.104	185	158	26	202	2	186	3.619E-03	81
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1KZP7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1KZP7-F1-model_v4 Thymidylate kinase	0.142	190	151	30	206	2	191	1.838E-03	81
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9RQJ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9RQJ9-F1-model_v4 Thymidylate kinase	0.095	188	159	30	206	3	190	3.008E-03	81
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HIJ8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HIJ8-F1-model_v4 Thymidylate kinase	0.144	187	148	30	203	2	188	3.200E-03	81
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7WA31-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7WA31-F1-model_v4 Thymidylate kinase	0.085	185	161	27	203	1	185	2.351E-03	80
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7WJ63-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7WJ63-F1-model_v4 Thymidylate kinase	0.080	185	162	27	203	1	185	5.238E-03	80
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1QLT8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1QLT8-F1-model_v4 Thymidylate kinase	0.097	193	161	28	206	10	202	3.008E-03	80
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4XHH4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4XHH4-F1-model_v4 Thymidylate kinase	0.147	180	147	30	202	2	181	3.008E-03	79
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8LRW0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8LRW0-F1-model_v4 Thymidylate kinase	0.127	189	155	27	204	1	189	3.619E-03	79
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0R8A3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0R8A3-F1-model_v4 Thymidylate kinase	0.143	187	148	30	203	2	188	3.008E-03	79
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7GJU2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7GJU2-F1-model_v4 Thymidylate kinase	0.119	193	160	30	212	2	194	4.094E-03	79
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3CR61-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B3CR61-F1-model_v4 Thymidylate kinase	0.111	191	157	26	203	2	192	2.211E-03	79
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3J0G1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3J0G1-F1-model_v4 Thymidylate kinase	0.120	193	155	27	203	1	193	6.302E-03	79
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q89LM5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q89LM5-F1-model_v4 Thymidylate kinase	0.123	195	157	25	204	6	200	4.631E-03	79
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1MQB3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1MQB3-F1-model_v4 Thymidylate kinase	0.107	191	154	33	206	2	192	3.619E-03	78
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02PC5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02PC5-F1-model_v4 Thymidylate kinase	0.111	185	154	30	203	2	186	4.631E-03	78
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O29953-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O29953-F1-model_v4 Probable adenylyl-sulfate kinase	0.141	143	108	31	173	2	128	1.954E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2T3K5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2T3K5-F1-model_v4 Adenylyl-sulfate kinase	0.197	149	107	26	174	1	134	1.625E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9AAR7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9AAR7-F1-model_v4 Adenylate kinase	0.090	173	157	30	202	2	174	3.403E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56861-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56861-F1-model_v4 Adenylyl-sulfate kinase	0.173	146	100	26	171	19	140	2.829E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VXD2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VXD2-F1-model_v4 Thymidylate kinase	0.085	185	161	27	203	1	185	3.619E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HPU1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7HPU1-F1-model_v4 Thymidylate kinase	0.144	187	148	30	203	2	188	4.925E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P97930-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P97930-F1-model_v4 Thymidylate kinase	0.144	183	153	27	206	1	183	4.925E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7NRQ7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7NRQ7-F1-model_v4 Thymidylate kinase	0.110	188	158	26	203	3	190	7.128E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q98MV4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q98MV4-F1-model_v4 Thymidylate kinase	0.109	193	158	29	206	2	194	3.200E-03	77
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0JL16-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0JL16-F1-model_v4 Adenylyl-sulfate kinase	0.152	152	115	27	178	1	137	3.200E-03	76
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q64VR1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q64VR1-F1-model_v4 Adenylyl-sulfate kinase	0.202	173	124	1	173	1	156	6.062E-04	76
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KCT0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9KCT0-F1-model_v4 Probable adenylyl-sulfate kinase	0.160	183	147	20	195	18	200	8.773E-04	76
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92203-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92203-F1-model_v4 Adenylyl-sulfate kinase	0.160	204	165	1	197	1	204	2.405E-04	76
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9VN43-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9VN43-F1-model_v4 Thymidylate kinase	0.148	187	147	30	203	2	188	4.925E-03	76
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5G863-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5G863-F1-model_v4 Adenylyl-sulfate kinase	0.154	196	162	2	197	6	198	6.857E-04	76
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4IJA6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4IJA6-F1-model_v4 Thymidylate kinase	0.083	187	159	30	203	2	188	1.167E-02	76
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q71W79-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q71W79-F1-model_v4 Thymidylate kinase	0.133	189	158	30	212	2	190	2.351E-03	75
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0L8T5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0L8T5-F1-model_v4 Thymidylate kinase	0.116	191	160	30	211	2	192	5.925E-03	75
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6MP28-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6MP28-F1-model_v4 Thymidylate kinase	0.142	195	159	27	212	1	195	1.097E-02	75
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5CDS9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5CDS9-F1-model_v4 Thymidylate kinase	0.116	188	156	26	202	2	189	3.403E-03	75
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q73FH8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q73FH8-F1-model_v4 Thymidylate kinase	0.148	187	147	30	203	2	188	6.302E-03	74
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2A1V7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2A1V7-F1-model_v4 Thymidylate kinase	0.125	187	159	30	212	2	188	5.571E-03	74
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0RAE3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0RAE3-F1-model_v4 Thymidylate kinase	0.111	188	156	30	206	2	189	7.128E-03	74
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O49196-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O49196-F1-model_v4 Adenylyl-sulfate kinase 2, chloroplastic	0.173	166	114	1	166	91	229	2.501E-03	74
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q606M0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q606M0-F1-model_v4 Thymidylate kinase	0.095	185	158	29	204	2	186	1.097E-02	73
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q28SW8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q28SW8-F1-model_v4 Thymidylate kinase	0.119	185	152	30	203	2	186	7.581E-03	73
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7NE29-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7NE29-F1-model_v4 Thymidylate kinase	0.125	187	159	30	212	2	188	7.128E-03	73
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4IW74-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4IW74-F1-model_v4 Thymidylate kinase	0.124	187	159	30	212	2	188	6.702E-03	73
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5NIF5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5NIF5-F1-model_v4 Thymidylate kinase	0.125	187	159	30	212	2	188	6.302E-03	73
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q14JV8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q14JV8-F1-model_v4 Thymidylate kinase	0.125	187	159	30	212	2	188	6.302E-03	73
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56858-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56858-F1-model_v4 Probable adenylyl-sulfate kinase	0.179	168	135	30	195	2	169	2.501E-03	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CVW7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CVW7-F1-model_v4 Adenylyl-sulfate kinase	0.173	146	100	26	171	8	129	6.702E-03	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4K2K8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4K2K8-F1-model_v4 Thymidylate kinase	0.104	185	158	26	202	2	186	1.320E-02	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88X60-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88X60-F1-model_v4 Adenylyl-sulfate kinase	0.177	197	161	1	197	1	197	3.481E-04	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9IZB3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9IZB3-F1-model_v4 Thymidylate kinase	0.146	187	148	30	203	2	188	8.575E-03	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1ES32-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1ES32-F1-model_v4 Thymidylate kinase	0.148	187	147	30	203	2	188	7.128E-03	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6HPY6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6HPY6-F1-model_v4 Thymidylate kinase	0.148	187	147	30	203	2	188	8.063E-03	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0Q893-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0Q893-F1-model_v4 Thymidylate kinase	0.125	187	159	30	212	2	188	7.128E-03	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9KKV1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B9KKV1-F1-model_v4 Thymidylate kinase	0.116	190	153	30	203	4	193	1.241E-02	72
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1XN05-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1XN05-F1-model_v4 Adenylyl-sulfate kinase	0.133	167	142	30	196	4	168	3.849E-03	71
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EQN3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8EQN3-F1-model_v4 Adenylyl-sulfate kinase	0.141	197	166	1	197	4	197	1.270E-03	71
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8GTB0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8GTB0-F1-model_v4 Thymidylate kinase	0.120	185	155	26	202	2	186	1.241E-02	71
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0BKK1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0BKK1-F1-model_v4 Thymidylate kinase	0.130	187	158	30	212	2	188	8.063E-03	71
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q30YW1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q30YW1-F1-model_v4 Thymidylate kinase	0.122	189	149	33	203	2	190	8.575E-03	71
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2JUC0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2JUC0-F1-model_v4 Adenylyl-sulfate kinase	0.147	170	138	30	192	2	171	4.631E-03	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1IYI1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1IYI1-F1-model_v4 Adenylyl-sulfate kinase	0.177	152	111	23	174	5	140	3.403E-03	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4SRG6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4SRG6-F1-model_v4 Adenylyl-sulfate kinase	0.166	196	160	1	196	1	193	1.838E-03	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02196-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q02196-F1-model_v4 Adenylyl-sulfate kinase	0.147	192	161	1	192	1	190	1.350E-03	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5EXE3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5EXE3-F1-model_v4 Thymidylate kinase	0.112	197	147	30	196	2	198	1.493E-02	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1I2K4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1I2K4-F1-model_v4 Adenylyl-sulfate kinase	0.164	174	126	1	174	1	152	1.954E-03	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2SF22-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2SF22-F1-model_v4 Thymidylate kinase	0.125	187	159	30	212	2	188	1.097E-02	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5L3W9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5L3W9-F1-model_v4 Thymidylate kinase	0.125	187	151	31	204	7	193	8.063E-03	70
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2JLM3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2JLM3-F1-model_v4 Adenylyl-sulfate kinase	0.144	170	144	27	195	1	170	4.631E-03	69
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7K5B1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7K5B1-F1-model_v4 Adenylyl-sulfate kinase	0.183	170	137	27	195	1	170	4.094E-03	69
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8AAQ1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8AAQ1-F1-model_v4 Adenylyl-sulfate kinase	0.188	196	156	1	196	1	193	6.857E-04	69
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DJ87-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DJ87-F1-model_v4 Adenylyl-sulfate kinase	0.142	193	162	3	195	15	204	1.625E-03	69
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97R91-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97R91-F1-model_v4 Thymidylate kinase	0.102	188	156	29	203	2	189	1.167E-02	69
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q82SW5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q82SW5-F1-model_v4 Thymidylate kinase	0.123	184	152	30	203	3	186	1.796E-02	69
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P57702-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P57702-F1-model_v4 Adenylyl-sulfate kinase	0.176	152	112	20	171	13	149	1.032E-02	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97MT8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97MT8-F1-model_v4 Adenylyl-sulfate kinase	0.141	194	166	1	194	5	198	3.008E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8A3M9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8A3M9-F1-model_v4 Adenylyl-sulfate kinase	0.163	196	162	2	197	3	197	1.436E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4ZZQ4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4ZZQ4-F1-model_v4 Adenylyl-sulfate kinase	0.139	197	167	1	197	3	197	1.528E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XV31-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XV31-F1-model_v4 Adenylyl-sulfate kinase	0.154	196	164	2	197	3	197	1.350E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1XCS6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1XCS6-F1-model_v4 Adenylyl-sulfate kinase	0.139	197	167	1	197	3	197	1.528E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3SIM9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3SIM9-F1-model_v4 Thymidylate kinase	0.093	188	162	27	206	1	188	2.941E-02	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6KXG9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6KXG9-F1-model_v4 Adenylyl-sulfate kinase	0.164	173	129	1	173	1	155	3.619E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q58711-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q58711-F1-model_v4 Polyribonucleotide 5'-hydroxyl-kinase MJ1315	0.094	181	155	1	172	1	181	3.619E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q60967-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q60967-F1-model_v4 Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1	0.144	170	140	32	195	53	222	1.625E-03	68
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8D0S4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8D0S4-F1-model_v4 Adenylyl-sulfate kinase	0.151	171	143	26	195	1	171	3.619E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6J2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6J2-F1-model_v4 Adenylyl-sulfate kinase	0.161	180	150	18	197	18	197	2.351E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AEU4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AEU4-F1-model_v4 Adenylyl-sulfate kinase	0.139	197	167	1	197	3	197	1.436E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0TEA8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0TEA8-F1-model_v4 Adenylyl-sulfate kinase	0.139	197	167	1	197	3	197	1.625E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8EZQ1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8EZQ1-F1-model_v4 Thymidylate kinase	0.117	183	155	26	202	2	184	3.763E-02	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4G4Y1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4G4Y1-F1-model_v4 Thymidylate kinase	0.086	182	158	30	203	3	184	3.538E-02	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1RGG0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1RGG0-F1-model_v4 Adenylyl-sulfate kinase	0.167	197	161	1	197	1	194	1.194E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KTI5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0KTI5-F1-model_v4 Adenylyl-sulfate kinase	0.158	205	165	1	197	1	205	2.501E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0CAX3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0CAX3-F1-model_v4 Adenylyl-sulfate kinase	0.154	197	164	1	197	4	198	1.838E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5QZ32-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5QZ32-F1-model_v4 Thymidylate kinase	0.113	187	156	30	206	2	188	2.161E-02	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DE75-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DE75-F1-model_v4 Adenylyl-sulfate kinase	0.152	195	161	2	196	7	197	1.838E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04KZ0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04KZ0-F1-model_v4 Thymidylate kinase	0.102	188	156	29	203	2	189	1.493E-02	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZP37-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B8ZP37-F1-model_v4 Thymidylate kinase	0.107	188	155	29	203	2	189	1.404E-02	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IBA2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IBA2-F1-model_v4 Thymidylate kinase	0.098	188	157	29	203	2	189	1.493E-02	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CK20-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CK20-F1-model_v4 Thymidylate kinase	0.102	188	156	29	203	2	189	1.404E-02	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FLE2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FLE2-F1-model_v4 Protein CLP1 homolog 5	0.113	222	158	13	191	91	312	3.008E-03	67
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1S9N4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1S9N4-F1-model_v4 Adenylyl-sulfate kinase	0.167	197	161	1	197	1	194	1.728E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LXG2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LXG2-F1-model_v4 Adenylyl-sulfate kinase	0.163	196	162	2	197	3	197	1.625E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7UHG9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7UHG9-F1-model_v4 Adenylyl-sulfate kinase	0.154	196	164	2	197	3	197	1.838E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TD42-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6TD42-F1-model_v4 Adenylyl-sulfate kinase	0.138	197	167	1	197	3	197	1.528E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LQ71-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LQ71-F1-model_v4 Adenylyl-sulfate kinase	0.158	196	163	2	197	3	197	1.954E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q31XB2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q31XB2-F1-model_v4 Adenylyl-sulfate kinase	0.163	196	162	2	197	3	197	1.625E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IUS9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IUS9-F1-model_v4 Adenylyl-sulfate kinase	0.139	197	167	1	197	3	197	1.528E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VE24-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VE24-F1-model_v4 Adenylyl-sulfate kinase	0.144	197	166	1	197	4	198	4.094E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6SZH9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6SZH9-F1-model_v4 Thymidylate kinase	0.086	186	162	29	206	2	187	2.765E-02	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q07Y94-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q07Y94-F1-model_v4 Adenylyl-sulfate kinase	0.163	197	162	1	197	1	194	1.528E-03	66
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q13ZJ7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q13ZJ7-F1-model_v4 Adenylyl-sulfate kinase	0.150	148	112	26	173	1	133	1.689E-02	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4T460-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4T460-F1-model_v4 Adenylyl-sulfate kinase	0.141	197	165	1	197	5	197	5.238E-03	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q83JX9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q83JX9-F1-model_v4 Adenylyl-sulfate kinase	0.149	197	165	1	197	3	197	2.351E-03	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q49UM5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q49UM5-F1-model_v4 Adenylyl-sulfate kinase	0.137	185	156	13	197	16	197	3.849E-03	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8H0A6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8H0A6-F1-model_v4 Adenylyl-sulfate kinase	0.154	205	166	1	197	1	205	2.079E-03	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P36590-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P36590-F1-model_v4 Thymidylate kinase	0.147	186	154	26	206	1	186	1.493E-02	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CDT1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CDT1-F1-model_v4 Thymidylate kinase	0.102	188	156	29	203	2	189	1.910E-02	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2IP90-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2IP90-F1-model_v4 Thymidylate kinase	0.098	188	157	29	203	2	189	2.298E-02	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CRV9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C1CRV9-F1-model_v4 Thymidylate kinase	0.102	188	156	29	203	2	189	2.032E-02	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0PYR0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0PYR0-F1-model_v4 DnaA regulatory inactivator Hda	0.164	208	162	1	195	14	221	2.351E-03	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O49204-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O49204-F1-model_v4 Adenylyl-sulfate kinase, chloroplastic	0.159	177	142	28	197	132	308	5.238E-03	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9MB58-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9MB58-F1-model_v4 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase	0.107	202	179	1	202	313	514	3.849E-03	65
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7K8N5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7K8N5-F1-model_v4 Adenylyl-sulfate kinase	0.163	171	141	27	195	1	171	4.354E-03	64
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7N6Y0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7N6Y0-F1-model_v4 Adenylyl-sulfate kinase	0.139	197	167	1	197	3	197	2.501E-03	64
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3YYB2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3YYB2-F1-model_v4 Adenylyl-sulfate kinase	0.158	196	163	2	197	3	197	1.954E-03	64
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5Z3B2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5Z3B2-F1-model_v4 Adenylyl-sulfate kinase	0.134	197	168	1	197	3	197	2.079E-03	64
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7NT94-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7NT94-F1-model_v4 Adenylyl-sulfate kinase	0.154	196	164	2	197	3	197	2.660E-03	64
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FEJ2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FEJ2-F1-model_v4 Adenylyl-sulfate kinase	0.139	197	167	1	197	3	197	1.838E-03	64
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2LUB1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2LUB1-F1-model_v4 Thymidylate kinase	0.136	191	149	31	203	2	192	1.241E-02	64
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5N960-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5N960-F1-model_v4 Adenylyl-sulfate kinase	0.157	156	108	16	171	17	145	7.128E-03	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LEG8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LEG8-F1-model_v4 Adenylyl-sulfate kinase	0.134	197	168	1	197	3	197	2.079E-03	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LWK5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LWK5-F1-model_v4 Adenylyl-sulfate kinase	0.154	196	164	2	197	3	197	2.829E-03	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6I6E0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6I6E0-F1-model_v4 Adenylyl-sulfate kinase	0.163	196	162	2	197	3	197	2.660E-03	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MJ70-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7MJ70-F1-model_v4 Adenylyl-sulfate kinase	0.159	182	151	16	197	17	197	3.008E-03	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9C2Y6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9C2Y6-F1-model_v4 Adenylyl-sulfate kinase	0.158	172	120	1	172	1	143	4.925E-03	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1TSN1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1TSN1-F1-model_v4 Thymidylate kinase	0.091	179	153	27	195	1	179	4.526E-02	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9V290-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9V290-F1-model_v4 Polyribonucleotide 5'-hydroxyl-kinase PYRAB01840	0.100	198	175	2	196	6	203	6.702E-03	63
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P72940-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P72940-F1-model_v4 Probable adenylyl-sulfate kinase	0.152	168	141	27	193	1	168	1.241E-02	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2VG00-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B2VG00-F1-model_v4 Adenylyl-sulfate kinase	0.152	197	165	1	197	3	197	4.631E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63890-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63890-F1-model_v4 Adenylyl-sulfate kinase	0.140	196	167	2	197	3	197	8.063E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7ZQJ4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7ZQJ4-F1-model_v4 Adenylyl-sulfate kinase	0.134	197	168	1	197	3	197	2.501E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63889-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63889-F1-model_v4 Adenylyl-sulfate kinase	0.144	196	166	2	197	3	197	7.581E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6J1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0A6J1-F1-model_v4 Adenylyl-sulfate kinase	0.134	197	168	1	197	3	197	2.501E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7MYQ5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7MYQ5-F1-model_v4 Adenylyl-sulfate kinase	0.149	196	165	2	197	3	197	3.200E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N2Y3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N2Y3-F1-model_v4 DnaA regulatory inactivator Hda	0.156	204	163	1	194	14	217	4.631E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q84JF0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q84JF0-F1-model_v4 Adenylyl-sulfate kinase 4, chloroplastic	0.145	212	168	1	197	86	297	2.211E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P14576-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P14576-F1-model_v4 Signal recognition particle 54 kDa protein	0.154	140	118	16	155	80	219	3.538E-02	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SCX6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SCX6-F1-model_v4 Disease resistance protein RPS4	0.126	169	137	9	166	203	371	5.238E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9XGM3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9XGM3-F1-model_v4 Disease resistance protein RPS4	0.108	200	165	9	194	203	402	2.501E-03	62
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N2D7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N2D7-F1-model_v4 Adenylyl-sulfate kinase	0.144	196	166	2	197	3	197	8.063E-03	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TTW4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TTW4-F1-model_v4 Adenylyl-sulfate kinase	0.141	197	165	1	197	5	197	9.120E-03	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5F414-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5F414-F1-model_v4 Adenylyl-sulfate kinase	0.144	196	166	2	197	3	197	8.063E-03	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5QW21-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5QW21-F1-model_v4 Adenylyl-sulfate kinase	0.141	197	165	1	197	5	197	9.120E-03	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HFM7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0HFM7-F1-model_v4 Adenylyl-sulfate kinase	0.163	205	164	1	197	1	205	3.403E-03	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SRW7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SRW7-F1-model_v4 Adenylyl-sulfate kinase 3	0.171	184	149	16	196	19	202	5.571E-03	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54520-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54520-F1-model_v4 Tyrosine-protein kinase CpsD	0.106	191	158	8	185	6	196	1.241E-02	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P51332-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P51332-F1-model_v4 ATP-dependent Clp protease ATP-binding subunit ClpA homolog	0.126	196	164	14	202	522	717	8.773E-04	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SCX7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SCX7-F1-model_v4 Inactive disease resistance protein RPS4	0.110	193	162	12	194	210	402	3.008E-03	61
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0TWY5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B0TWY5-F1-model_v4 Thymidylate kinase	0.111	186	161	31	212	2	187	4.256E-02	60
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04663-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q04663-F1-model_v4 Tyrosine-protein kinase CpsD	0.105	181	145	10	172	15	195	3.763E-02	60
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0WW55-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0WW55-F1-model_v4 Thymidylate kinase	0.125	205	159	28	210	56	260	7.128E-03	60
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57565-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q57565-F1-model_v4 Signal recognition particle 54 kDa protein	0.121	205	170	16	209	79	283	1.689E-02	60
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8A2Y8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8A2Y8-F1-model_v4 DnaA regulatory inactivator Hda	0.162	208	163	1	195	6	213	9.700E-03	59
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CK37-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CK37-F1-model_v4 DnaA regulatory inactivator Hda	0.160	201	163	1	195	8	208	6.702E-03	59
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6LX03-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6LX03-F1-model_v4 Signal recognition particle 54 kDa protein	0.114	205	171	16	209	79	283	1.689E-02	59
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O07309-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O07309-F1-model_v4 Bifunctional enzyme NodQ	0.133	183	158	13	195	449	631	9.120E-03	59
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P13442-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P13442-F1-model_v4 Bifunctional enzyme NodQ	0.149	186	157	13	197	449	634	8.063E-03	59
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0PXB0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C0PXB0-F1-model_v4 Adenylyl-sulfate kinase	0.141	197	165	1	197	5	197	8.575E-03	58
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HGF8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HGF8-F1-model_v4 Adenylyl-sulfate kinase	0.129	192	165	1	192	1	190	7.581E-03	58
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZBP3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZBP3-F1-model_v4 Adenylyl-sulfate kinase	0.151	197	165	1	197	15	209	2.351E-03	58
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q67JB0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q67JB0-F1-model_v4 Thymidylate kinase	0.117	188	159	31	211	2	189	7.410E-02	58
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6AYB5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6AYB5-F1-model_v4 Signal recognition particle 54 kDa protein	0.123	205	169	16	209	80	284	2.600E-02	58
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9RMZ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9RMZ9-F1-model_v4 Uncharacterized protein pXO2-33/BXB0032/GBAA_pXO2_0032	0.086	176	153	7	174	1	176	3.326E-02	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TFX0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4TFX0-F1-model_v4 Adenylyl-sulfate kinase	0.148	196	165	2	197	3	197	7.581E-03	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XNQ6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5XNQ6-F1-model_v4 DnaA regulatory inactivator Hda	0.165	204	159	5	195	2	205	1.167E-02	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LNE6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LNE6-F1-model_v4 DnaA regulatory inactivator Hda	0.163	207	162	2	195	7	213	1.320E-02	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q43295-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q43295-F1-model_v4 Adenylyl-sulfate kinase 1, chloroplastic	0.150	191	160	7	197	84	272	9.700E-03	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P27414-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P27414-F1-model_v4 Signal recognition particle receptor FtsY	0.105	214	176	12	209	143	356	1.404E-02	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6VHE0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A6VHE0-F1-model_v4 Signal recognition particle 54 kDa protein	0.114	205	171	16	209	79	283	2.600E-02	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7ZVN5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7ZVN5-F1-model_v4 Signal recognition particle 54 kDa protein	0.128	205	168	16	209	80	284	2.765E-02	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CB16-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CB16-F1-model_v4 Putative disease resistance protein At4g19050	0.147	196	150	1	177	1	196	2.298E-02	57
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8ANW4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8ANW4-F1-model_v4 Adenylyl-sulfate kinase	0.148	196	165	2	197	3	197	7.581E-03	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9MF25-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9MF25-F1-model_v4 Adenylyl-sulfate kinase	0.144	196	166	2	197	3	197	1.910E-02	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8W586-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8W586-F1-model_v4 GPN-loop GTPase QQT2	0.107	253	169	14	203	15	267	3.849E-03	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8EQT0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8EQT0-F1-model_v4 Chromosomal replication initiator protein DnaA	0.101	218	170	2	191	93	310	2.298E-02	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9A9B0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9A9B0-F1-model_v4 Signal recognition particle 54 kDa protein	0.125	205	169	16	209	79	283	1.689E-02	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5SY16-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5SY16-F1-model_v4 Polynucleotide 5'-hydroxyl-kinase NOL9	0.120	198	150	6	177	275	472	4.814E-02	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8CQ88-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8CQ88-F1-model_v4 ATP-dependent Clp protease ATP-binding subunit ClpC	0.118	193	166	14	202	518	710	2.660E-03	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FHF0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FHF0-F1-model_v4 Disease resistance protein RPS4B	0.137	219	170	1	198	196	414	1.097E-02	56
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4FVX4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4FVX4-F1-model_v4 Signal recognition particle 54 kDa protein	0.121	205	170	16	209	79	283	2.161E-02	55
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UU96-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9UU96-F1-model_v4 Polynucleotide 5'-hydroxyl-kinase grc3	0.096	185	154	7	177	308	492	6.551E-02	55
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HRM8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HRM8-F1-model_v4 ATP-dependent Clp protease ATP-binding subunit ClpC	0.119	193	166	14	202	518	710	3.008E-03	55
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63287-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63287-F1-model_v4 Chaperone protein ClpB	0.145	173	143	11	183	581	748	1.528E-03	55
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4EY85-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4EY85-F1-model_v4 DnaA regulatory inactivator Hda	0.169	201	161	1	195	21	221	2.298E-02	54
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4QQE0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4QQE0-F1-model_v4 mRNA cleavage and polyadenylation factor CLP1	0.087	208	152	12	178	96	303	4.814E-02	54
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPD1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPD1-F1-model_v4 Chaperone protein ClpB	0.145	173	143	11	183	581	748	2.211E-03	54
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8YJ91-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8YJ91-F1-model_v4 Chaperone protein ClpB	0.126	181	151	10	183	578	758	1.436E-03	54
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FI14-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FI14-F1-model_v4 Disease resistance protein TAO1	0.159	211	163	2	196	207	417	4.256E-02	54
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1R7U1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1R7U1-F1-model_v4 Adenylyl-sulfate kinase	0.134	197	168	1	197	3	197	1.241E-02	53
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZCC1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8ZCC1-F1-model_v4 DnaA regulatory inactivator Hda	0.160	201	163	1	195	12	212	2.032E-02	53
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPD0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WPD0-F1-model_v4 Chaperone protein ClpB	0.145	173	143	11	183	581	748	2.351E-03	53
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FKN7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FKN7-F1-model_v4 Protein DA1-related 4	0.164	135	108	12	141	171	305	2.444E-02	53
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5EDB2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5EDB2-F1-model_v4 Urease accessory protein UreG 1	0.129	195	168	17	211	3	196	3.326E-02	52
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7UIM1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7UIM1-F1-model_v4 Thymidylate kinase	0.107	167	140	31	188	48	214	5.792E-02	52
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O84783-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O84783-F1-model_v4 Primosomal protein N'	0.133	202	142	1	202	207	371	1.097E-02	52
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HCN4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HCN4-F1-model_v4 GPN-loop GTPase 1	0.118	244	166	15	203	2	245	2.444E-02	51
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2T9U1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2T9U1-F1-model_v4 Signal recognition particle 54 kDa protein	0.128	205	168	16	209	80	284	4.526E-02	51
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5R4R6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5R4R6-F1-model_v4 Signal recognition particle 54 kDa protein	0.130	195	161	16	201	80	274	4.814E-02	51
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q98G96-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q98G96-F1-model_v4 Chaperone protein ClpB	0.129	179	148	12	182	579	757	3.008E-03	51
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4B7M7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4B7M7-F1-model_v4 Disease resistance protein RPS4	0.125	172	144	1	166	200	371	3.763E-02	51
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P46577-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P46577-F1-model_v4 GPN-loop GTPase 1	0.135	138	112	27	156	26	163	5.792E-02	50
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54N48-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54N48-F1-model_v4 Protein CLP1 homolog	0.112	187	143	12	173	120	306	9.481E-02	50
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37106-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37106-F1-model_v4 Signal recognition particle 54 kDa protein 1	0.128	209	170	16	211	80	288	1.008E-01	50
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9K4V0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9K4V0-F1-model_v4 Nitric oxide reductase transcription regulator NorR1	0.105	148	126	1	142	181	328	3.128E-02	50
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P05445-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P05445-F1-model_v4 Primosomal protein N'	0.115	181	132	7	187	226	375	9.700E-03	50
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7CEG6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7CEG6-F1-model_v4 Chaperone protein ClpB	0.126	180	150	10	182	578	757	4.354E-03	50
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JT80-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JT80-F1-model_v4 Disease resistance protein RPP2B	0.133	210	159	12	195	195	404	3.326E-02	50
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O15821-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O15821-F1-model_v4 Signal recognition particle 54 kDa protein	0.113	205	171	16	209	80	284	8.915E-02	49
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P31539-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P31539-F1-model_v4 Heat shock protein 104	0.124	179	147	14	182	588	766	1.910E-02	49
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0A290U7C4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A0A290U7C4-F1-model_v4 Disease resistance protein Roq1	0.133	193	153	5	182	183	375	8.915E-02	49
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O57936-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O57936-F1-model_v4 Polyribonucleotide 5'-hydroxyl-kinase PH0197	0.128	197	170	1	196	14	210	7.881E-02	48
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WNM5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WNM5-F1-model_v4 Bifunctional enzyme CysN/CysC	0.150	197	159	1	197	427	614	2.444E-02	48
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9PLE5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9PLE5-F1-model_v4 Primosomal protein N'	0.117	202	147	1	202	207	373	4.002E-02	48
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q73IE4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q73IE4-F1-model_v4 Chaperone protein ClpB	0.136	177	149	10	183	577	753	6.302E-03	48
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4KLF3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4KLF3-F1-model_v4 Protein KTI12 homolog	0.126	179	140	33	211	3	163	6.551E-02	47
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NE47-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NE47-F1-model_v4 Signal recognition particle 54 kDa protein	0.098	202	170	20	209	80	281	1.008E-01	47
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P10576-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P10576-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.093	246	185	1	205	134	379	6.551E-02	47
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63745-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P63745-F1-model_v4 ESX-5 secretion system protein EccA5	0.089	224	186	6	210	316	539	5.792E-02	47
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CI09-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CI09-F1-model_v4 ATP-dependent Clp protease ATP-binding subunit ClpE	0.109	189	161	14	202	458	639	1.689E-02	47
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JNA9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JNA9-F1-model_v4 Disease resistance protein RPP4	0.187	159	123	12	163	188	346	2.389E-01	47
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O67174-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O67174-F1-model_v4 Probable bifunctional SAT/APS kinase	0.127	145	107	22	166	363	486	2.389E-01	46
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-E1BPN0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-E1BPN0-F1-model_v4 Polynucleotide 5'-hydroxyl-kinase NOL9	0.106	166	139	1	157	262	427	3.911E-01	46
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3TZX8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3TZX8-F1-model_v4 Polynucleotide 5'-hydroxyl-kinase NOL9	0.105	163	140	1	157	289	451	1.756E-01	46
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FT77-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FT77-F1-model_v4 Disease resistance protein RLM3	0.142	221	160	12	198	184	404	6.551E-02	46
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O51974-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O51974-F1-model_v4 ORC1-type DNA replication protein 9	0.140	192	160	4	195	23	209	5.792E-02	45
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9K4U8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9K4U8-F1-model_v4 Nitric oxide reductase transcription regulator NorR2	0.105	147	126	1	142	188	334	7.881E-02	45
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9D1R2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9D1R2-F1-model_v4 Protein KTI12 homolog	0.103	144	111	33	176	3	127	1.756E-01	44
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MSY2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MSY2-F1-model_v4 Chromosomal replication initiator protein DnaA	0.105	206	171	7	198	111	316	1.552E-01	44
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1Y547-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1Y547-F1-model_v4 Chromosomal replication initiator protein DnaA	0.128	201	163	7	194	184	384	1.867E-01	44
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P54931-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P54931-F1-model_v4 Nif-specific regulatory protein	0.125	146	123	1	142	225	370	7.881E-02	44
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JT78-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JT78-F1-model_v4 Disease resistance protein RPP2A	0.162	197	154	12	196	186	382	1.072E-01	44
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5AHA0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5AHA0-F1-model_v4 Histidine protein kinase 1	0.194	103	82	5	107	683	785	1.651E-01	44
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HXF5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HXF5-F1-model_v4 Chromosomal replication initiator protein DnaA	0.137	200	158	8	191	112	311	2.246E-01	43
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VH57-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7VH57-F1-model_v4 Chromosomal replication initiator protein DnaA	0.109	215	172	1	194	111	325	1.552E-01	43
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q10299-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q10299-F1-model_v4 mRNA cleavage and polyadenylation factor clp1	0.083	229	164	13	192	84	312	1.008E-01	43
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P73930-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P73930-F1-model_v4 Signal recognition particle receptor FtsY	0.116	214	174	12	209	278	491	1.213E-01	43
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N0D7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9N0D7-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.177	155	116	1	142	174	328	8.382E-02	43
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JWM0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4JWM0-F1-model_v4 Disease resistance-like protein DSC2	0.150	224	166	1	196	228	451	1.867E-01	43
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54NK8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54NK8-F1-model_v4 GPN-loop GTPase 3	0.116	235	162	29	212	1	235	8.382E-02	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4GGT6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4GGT6-F1-model_v4 Protein CLP1 homolog	0.103	206	163	13	195	94	299	1.459E-01	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8PB32-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8PB32-F1-model_v4 Protein CLP1 homolog	0.099	208	161	13	192	100	307	1.552E-01	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LQ27-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1LQ27-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.144	136	109	15	142	193	328	1.141E-01	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q43965-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q43965-F1-model_v4 Phenol regulator MopR	0.101	180	147	3	182	243	406	5.445E-02	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19323-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P19323-F1-model_v4 Formate hydrogenlyase transcriptional activator FhlA	0.114	178	143	5	182	381	542	6.160E-02	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P24004-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P24004-F1-model_v4 Peroxisomal ATPase PEX1	0.109	202	132	1	202	429	577	5.792E-02	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O49471-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O49471-F1-model_v4 Probable disease resistance protein At4g19530	0.122	229	170	1	195	200	428	8.915E-02	42
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P55500-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P55500-F1-model_v4 Putative insertion sequence ATP-binding protein y4iQ/y4nD/y4sD	0.139	176	146	8	177	89	264	1.072E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1VX79-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1VX79-F1-model_v4 Chromosomal replication initiator protein DnaA	0.129	200	159	8	191	112	311	2.703E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5DJW8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5DJW8-F1-model_v4 mRNA cleavage and polyadenylation factor CLP1	0.099	226	158	13	188	124	349	1.459E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5F363-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5F363-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.165	155	118	1	142	174	328	1.213E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CL46-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CL46-F1-model_v4 Formate hydrogenlyase transcriptional activator	0.109	179	144	4	182	380	542	9.481E-02	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q383A1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q383A1-F1-model_v4 ATP-dependent DNA helicase PIF3	0.127	142	122	1	141	216	357	1.459E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HJH8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5HJH8-F1-model_v4 Type-1 restriction enzyme R protein	0.124	164	141	3	166	465	626	1.986E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CAK1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CAK1-F1-model_v4 Disease resistance protein RML1B	0.142	141	118	4	141	185	325	3.251E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WI64-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P9WI64-F1-model_v4 Serine/threonine-protein kinase PknK	0.124	148	117	7	141	345	492	1.867E-01	41
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5I0L7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5I0L7-F1-model_v4 Protein KTI12 homolog	0.109	124	91	33	156	3	105	5.323E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q148I5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q148I5-F1-model_v4 Protein KTI12 homolog	0.092	123	94	33	155	3	106	4.160E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4JAS8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4JAS8-F1-model_v4 ORC1-type DNA replication protein 1	0.116	223	172	2	197	25	247	3.251E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HKG3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HKG3-F1-model_v4 ORC1-type DNA replication protein 2	0.155	256	162	3	195	23	278	1.552E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q30UP9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q30UP9-F1-model_v4 Chromosomal replication initiator protein DnaA	0.128	201	168	1	194	93	293	1.459E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q17ZQ6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q17ZQ6-F1-model_v4 Chromosomal replication initiator protein DnaA	0.105	196	168	7	195	117	312	3.251E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6JP23-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B6JP23-F1-model_v4 Chromosomal replication initiator protein DnaA	0.087	210	177	1	195	103	312	1.867E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9PKE4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9PKE4-F1-model_v4 Chromosomal replication initiator protein DnaA 1	0.105	224	180	2	203	109	332	3.057E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LW25-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LW25-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.144	148	121	1	142	181	328	1.552E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5Z370-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5Z370-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.144	136	109	15	142	193	328	1.459E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IUX0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1IUX0-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.138	153	120	3	142	176	328	1.213E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FEN6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FEN6-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.127	157	123	1	142	172	328	1.008E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0CEZ9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0CEZ9-F1-model_v4 mRNA cleavage and polyadenylation factor clp1	0.095	188	140	13	168	130	317	1.459E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P45512-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P45512-F1-model_v4 Glycerol metabolism operon regulatory protein	0.099	192	138	11	202	340	493	3.128E-02	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P71229-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P71229-F1-model_v4 DNA-binding transcriptional activator HyfR	0.121	181	144	2	182	344	508	6.967E-02	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P31540-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P31540-F1-model_v4 Heat shock protein hsp98	0.108	191	164	12	202	610	794	8.382E-02	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4KHI3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4KHI3-F1-model_v4 Protein VARIATION IN COMPOUND TRIGGERED ROOT growth response	0.138	238	170	1	198	176	413	2.541E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q866F4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q866F4-F1-model_v4 Adenylate cyclase type 10	0.144	109	90	1	109	480	585	3.911E-01	40
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M4W5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M4W5-F1-model_v4 Thymidine kinase	0.250	36	26	31	66	2	37	1.941E+00	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66KF6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q66KF6-F1-model_v4 GPN-loop GTPase 2	0.132	152	124	16	159	2	153	1.756E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37344-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P37344-F1-model_v4 Psp operon transcriptional activator	0.122	146	124	2	143	4	149	1.986E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8KA77-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8KA77-F1-model_v4 Signal recognition particle receptor FtsY	0.124	189	154	16	204	128	304	4.424E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8X9U4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A8X9U4-F1-model_v4 Protein clpf-1	0.117	209	161	10	192	95	303	2.112E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5Z9E3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5Z9E3-F1-model_v4 Chromosomal replication initiator protein DnaA	0.096	210	175	1	195	103	312	2.246E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O26057-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O26057-F1-model_v4 Chromosomal replication initiator protein DnaA	0.104	196	168	7	195	119	314	3.911E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q823E6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q823E6-F1-model_v4 Chromosomal replication initiator protein DnaA 2	0.125	221	172	7	204	114	334	3.251E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7N6T9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7N6T9-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.144	136	109	15	142	193	328	1.651E-01	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-E1WAA4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-E1WAA4-F1-model_v4 Formate hydrogenlyase transcriptional activator	0.128	179	141	4	182	380	542	8.382E-02	39
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M0B8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5M0B8-F1-model_v4 Thymidine kinase	0.225	40	30	31	70	2	41	1.614E+00	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7ZAW7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A7ZAW7-F1-model_v4 Chromosomal replication initiator protein DnaA	0.104	185	153	7	191	110	281	3.251E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6MC93-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6MC93-F1-model_v4 Chromosomal replication initiator protein DnaA 1	0.097	158	128	1	143	91	248	2.703E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9KPP1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A9KPP1-F1-model_v4 Chromosomal replication initiator protein DnaA	0.113	185	155	7	191	122	297	2.112E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9ZJ96-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9ZJ96-F1-model_v4 Chromosomal replication initiator protein DnaA	0.105	210	174	1	195	105	314	3.678E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0T1D4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0T1D4-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.152	148	120	1	142	181	328	2.874E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q31X73-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q31X73-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.163	157	118	1	142	172	328	1.986E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P54930-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P54930-F1-model_v4 Nif-specific regulatory protein	0.117	180	144	3	182	202	365	1.213E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2UEA6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2UEA6-F1-model_v4 mRNA cleavage and polyadenylation factor clp1	0.206	62	48	13	74	132	192	1.186E+00	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-D5ARW9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-D5ARW9-F1-model_v4 Nif-specific regulatory protein	0.118	182	146	1	182	222	387	1.141E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q53206-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q53206-F1-model_v4 Nif-specific regulatory protein	0.160	179	137	4	182	250	413	1.213E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2FV74-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2FV74-F1-model_v4 ATP-dependent Clp protease ATP-binding subunit ClpL	0.131	174	150	10	183	430	603	5.120E-02	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q52999-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q52999-F1-model_v4 Uncharacterized protein R02095	0.225	61	45	7	67	232	290	1.825E+00	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P74442-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P74442-F1-model_v4 Uncharacterized WD repeat-containing protein slr0143	0.122	260	170	1	195	8	267	1.651E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8IVG5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8IVG5-F1-model_v4 Sterile alpha motif domain-containing protein 9-like	0.104	194	163	3	196	707	889	2.112E-01	38
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99ZP6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99ZP6-F1-model_v4 Thymidine kinase	0.222	36	27	31	66	2	37	2.335E+00	37
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5XC70-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5XC70-F1-model_v4 Thymidine kinase	0.222	36	27	31	66	2	37	2.484E+00	37
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6BU98-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6BU98-F1-model_v4 mRNA cleavage and polyadenylation factor CLP1	0.094	224	159	12	188	129	352	2.389E-01	37
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O31551-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O31551-F1-model_v4 Acetoin dehydrogenase operon transcriptional activator AcoR	0.115	177	133	11	187	308	458	5.445E-02	37
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P76016-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P76016-F1-model_v4 PTS-dependent dihydroxyacetone kinase operon regulatory protein	0.101	192	138	11	202	340	493	8.382E-02	37
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54MH9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q54MH9-F1-model_v4 Probable replication factor C subunit 1	0.112	171	119	1	171	859	993	6.160E-02	37
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DB96-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DB96-F1-model_v4 Thymidine kinase	0.195	41	32	31	71	2	42	2.065E+00	36
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6PUR6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6PUR6-F1-model_v4 GPN-loop GTPase 2	0.113	241	165	26	212	5	245	2.246E-01	36
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4P4H2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B4P4H2-F1-model_v4 Protein CLP1 homolog	0.102	204	165	13	197	92	295	5.661E-01	36
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q59ST8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q59ST8-F1-model_v4 mRNA cleavage and polyadenylation factor CLP1	0.109	223	157	12	188	123	345	2.246E-01	36
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7UHC1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7UHC1-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.142	153	120	2	142	176	328	3.057E-01	36
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P59402-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P59402-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.132	168	135	15	182	193	348	1.756E-01	36
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8E5C2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8E5C2-F1-model_v4 Thymidine kinase	0.205	39	30	31	69	2	40	2.810E+00	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q48TL1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q48TL1-F1-model_v4 Thymidine kinase	0.205	39	30	31	69	2	40	2.810E+00	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P77546-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P77546-F1-model_v4 Uncharacterized protein YdaV	0.126	193	101	4	196	75	191	1.372E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P47581-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P47581-F1-model_v4 Protein RecA	0.101	200	171	3	202	35	225	3.458E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1VDD6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B1VDD6-F1-model_v4 Protein RecA	0.102	202	176	1	202	37	233	2.703E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AFU5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AFU5-F1-model_v4 Transcriptional regulatory protein QseF	0.113	180	145	3	182	134	297	3.251E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LEC0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B7LEC0-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.147	136	108	15	142	193	328	4.160E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3YYF5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3YYF5-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.140	182	151	1	182	172	348	1.459E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8NYL9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8NYL9-F1-model_v4 Type-1 restriction enzyme R protein	0.113	171	145	2	166	456	626	4.424E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6GCT1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6GCT1-F1-model_v4 Type-1 restriction enzyme R protein	0.108	171	146	2	166	456	626	3.458E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SZ66-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9SZ66-F1-model_v4 Disease resistance-like protein DSC1	0.150	136	110	12	141	190	325	7.243E-01	35
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DB97-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DB97-F1-model_v4 Thymidine kinase	0.222	36	27	31	66	2	37	3.595E+00	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5WB52-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5WB52-F1-model_v4 Thymidine kinase	0.222	36	27	31	66	2	37	3.823E+00	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CRG8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q1CRG8-F1-model_v4 Chromosomal replication initiator protein DnaA	0.079	196	173	7	195	117	312	1.261E+00	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4ZYV4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4ZYV4-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.146	157	120	1	142	172	328	4.424E-01	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AEP9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AEP9-F1-model_v4 Anaerobic nitric oxide reductase transcription regulator NorR	0.137	155	122	1	142	174	328	4.706E-01	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O82387-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-O82387-F1-model_v4 Cell division control protein 6 homolog	0.116	169	141	1	161	121	289	5.005E-01	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5BH19-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5BH19-F1-model_v4 mRNA cleavage and polyadenylation factor clp1	0.095	188	140	13	168	128	315	4.424E-01	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DKH5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DKH5-F1-model_v4 Disease resistance protein RRS1	0.125	130	112	12	141	154	282	6.021E-01	34
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FPD3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8FPD3-F1-model_v4 Protein RecA	0.092	202	178	1	202	38	234	4.160E-01	33
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88RJ6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88RJ6-F1-model_v4 Alginate biosynthesis transcriptional regulatory protein AlgB	0.151	179	138	4	182	145	308	4.160E-01	33
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23747-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P23747-F1-model_v4 Alginate biosynthesis transcriptional regulatory protein AlgB	0.151	179	138	4	182	145	308	3.911E-01	33
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56266-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P56266-F1-model_v4 Nif-specific regulatory protein	0.100	181	148	2	182	209	373	3.057E-01	33
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3K118-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3K118-F1-model_v4 Thymidine kinase	0.222	36	27	31	66	2	37	4.892E+00	32
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97R22-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97R22-F1-model_v4 Thymidine kinase	0.205	39	30	31	69	2	40	3.823E+00	32
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9APD9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9APD9-F1-model_v4 Transcriptional regulatory protein ZraR	0.151	176	136	7	182	142	302	4.160E-01	32
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HU19-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9HU19-F1-model_v4 C4-dicarboxylate transport transcriptional regulatory protein DctD	0.090	177	147	6	182	152	313	5.005E-01	32
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P03027-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P03027-F1-model_v4 Nif-specific regulatory protein	0.106	181	147	2	182	209	373	2.541E-01	32
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99741-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99741-F1-model_v4 Cell division control protein 6 homolog	0.105	220	172	1	193	143	362	1.986E-01	32
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-E1B328-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-E1B328-F1-model_v4 Disease resistance protein RRS1	0.116	181	157	12	192	154	332	8.714E-01	32
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AFU4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AFU4-F1-model_v4 Transcriptional regulatory protein GlrR	0.098	180	147	3	182	134	297	6.403E-01	31
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P32641-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P32641-F1-model_v4 Checkpoint protein RAD24	0.105	149	124	2	141	75	223	6.021E-01	31
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DKH6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0DKH6-F1-model_v4 Disease resistance protein RPS6	0.109	151	125	1	141	181	331	7.703E-01	31
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99338-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q99338-F1-model_v4 Insertion sequence IS232 putative ATP-binding protein	0.127	195	130	8	202	84	233	9.857E-01	30
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4QEW3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A4QEW3-F1-model_v4 Protein RecA	0.089	202	179	1	202	40	236	8.193E-01	30
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3LNJ3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A3LNJ3-F1-model_v4 mRNA cleavage and polyadenylation factor CLP1	0.107	224	161	8	188	115	338	1.186E+00	30
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CY94-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CY94-F1-model_v4 Nif-specific regulatory protein	0.123	174	138	9	182	230	387	6.403E-01	30
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4B7M6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C4B7M6-F1-model_v4 Disease resistance protein RRS1	0.125	188	158	9	190	147	334	1.186E+00	30
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3PGY9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-C3PGY9-F1-model_v4 Protein RecA	0.094	202	178	1	202	38	234	2.703E-01	29
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P24116-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P24116-F1-model_v4 Chromosomal replication initiator protein DnaA	0.113	197	114	8	204	119	247	3.057E-01	29
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q96PN6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q96PN6-F1-model_v4 Adenylate cyclase type 10	0.105	202	144	1	202	480	641	6.403E-01	29
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q38WJ3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q38WJ3-F1-model_v4 Thymidine kinase	0.119	114	100	31	144	2	115	1.261E+00	28
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DPZ6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DPZ6-F1-model_v4 Thymidine kinase	0.205	39	30	31	69	2	40	7.080E+00	28
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q96YK7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q96YK7-F1-model_v4 ORC1-type DNA replication protein 3	0.127	185	148	1	185	27	196	1.716E+00	28
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97WM8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q97WM8-F1-model_v4 ORC1-type DNA replication protein 3	0.125	185	148	1	185	28	197	1.115E+00	28
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0CMB0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0CMB0-F1-model_v4 ATP-dependent RNA helicase rok1	0.066	192	167	15	194	268	459	7.703E-01	28
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4KHH8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-F4KHH8-F1-model_v4 Disease resistance protein RPS6	0.144	160	108	7	166	187	313	9.857E-01	28
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9I472-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9I472-F1-model_v4 Corrinoid adenosyltransferase	0.126	192	146	10	177	9	200	1.261E+00	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5GBX4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5GBX4-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.107	198	121	6	203	3	138	5.005E-01	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q39QC5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q39QC5-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.089	195	120	6	200	3	135	5.661E-01	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P29570-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P29570-F1-model_v4 ORC1-type DNA replication protein	0.153	141	114	1	141	19	154	1.115E+00	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P14375-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P14375-F1-model_v4 Transcriptional regulatory protein ZraR	0.139	167	133	16	182	147	302	1.048E+00	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2QAB5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A2QAB5-F1-model_v4 ATP-dependent RNA helicase rok1	0.097	189	162	15	194	255	443	9.268E-01	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4WRH5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4WRH5-F1-model_v4 ATP-dependent RNA helicase rok1	0.096	189	164	15	196	264	452	6.403E-01	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9L4M7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9L4M7-F1-model_v4 HTH-type transcriptional regulator AlkS	0.089	173	154	26	195	40	212	5.323E-01	27
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88UT1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q88UT1-F1-model_v4 Thymidine kinase	0.171	76	46	31	87	2	77	2.484E+00	26
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MVV7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7MVV7-F1-model_v4 Thymidine kinase	0.113	134	113	28	155	14	147	4.066E+00	26
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5ED57-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-B5ED57-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.074	196	123	5	200	2	135	8.193E-01	26
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q58211-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q58211-F1-model_v4 Uncharacterized ATP-binding protein MJ0801	0.118	281	167	7	196	3	283	1.614E+00	26
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7S2N9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7S2N9-F1-model_v4 ATP-dependent RNA helicase has-1	0.094	191	118	16	206	165	295	2.196E+00	26
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5R4I9-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5R4I9-F1-model_v4 Probable ATP-dependent RNA helicase DDX5	0.133	185	132	11	195	324	476	1.261E+00	26
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEF2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEF2-F1-model_v4 DNA replication protein DnaC	0.120	200	139	7	206	76	234	9.857E-01	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8KA79-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8KA79-F1-model_v4 DNA replication protein DnaC	0.126	193	104	4	196	72	191	1.614E+00	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AUS1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1AUS1-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.096	224	168	10	196	26	249	6.403E-01	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FHI7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9FHI7-F1-model_v4 Probable disease resistance protein At5g45490	0.182	176	132	1	162	40	215	9.268E-01	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P48288-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P48288-F1-model_v4 Protein RecA	0.109	202	175	1	202	39	235	6.403E-01	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6MUM7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6MUM7-F1-model_v4 Chromosomal replication initiator protein DnaA	0.123	180	107	7	186	117	239	1.048E+00	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4IPI1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q4IPI1-F1-model_v4 ATP-dependent RNA helicase ROK1	0.061	188	168	15	194	230	417	1.341E+00	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P38935-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P38935-F1-model_v4 DNA-binding protein SMUBP-2	0.126	202	143	1	202	186	350	6.403E-01	25
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8P126-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8P126-F1-model_v4 Thymidine kinase	0.135	114	98	31	144	2	115	2.484E+00	24
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEF3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEF3-F1-model_v4 DNA replication protein DnaC	0.118	188	131	3	190	72	221	1.048E+00	24
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q91XU0-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q91XU0-F1-model_v4 ATPase WRNIP1	0.134	227	162	17	204	248	474	1.048E+00	24
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1D1E3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A1D1E3-F1-model_v4 ATP-dependent RNA helicase rok1	0.077	157	139	15	171	263	414	1.614E+00	24
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P17051-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P17051-F1-model_v4 HTH-type transcriptional regulator AlkS	0.089	173	154	26	195	39	211	1.261E+00	24
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q61656-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q61656-F1-model_v4 Probable ATP-dependent RNA helicase DDX5	0.116	189	138	7	195	320	476	3.178E+00	23
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CHX5-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q9CHX5-F1-model_v4 Thymidine kinase	0.100	173	123	31	203	2	139	1.261E+00	22
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DU63-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8DU63-F1-model_v4 Thymidine kinase	0.102	118	105	27	144	1	118	3.595E+00	22
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEF1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0AEF1-F1-model_v4 DNA replication protein DnaC	0.120	194	104	3	196	72	190	2.065E+00	22
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q74GW7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q74GW7-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.076	199	126	5	203	2	138	9.857E-01	22
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65TL6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q65TL6-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.108	211	165	10	195	21	231	3.178E+00	21
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7V987-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7V987-F1-model_v4 tRNA(Ile)-lysidine synthase	0.182	88	69	1	85	3	90	3.380E+00	21
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q757U8-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q757U8-F1-model_v4 ATP-dependent RNA helicase DBP10	0.107	159	105	16	174	175	293	7.080E+00	21
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5IGL1-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5IGL1-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.061	234	176	7	194	4	237	3.595E+00	20
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P47664-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P47664-F1-model_v4 Probable ATP-dependent RNA helicase MG425	0.083	160	134	12	171	54	200	4.066E+00	20
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5BET6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q5BET6-F1-model_v4 ATP-dependent RNA helicase rok1	0.079	189	168	15	197	262	450	2.988E+00	20
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7L014-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q7L014-F1-model_v4 Probable ATP-dependent RNA helicase DDX46	0.102	189	140	7	195	598	754	5.885E+00	20
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0E2Q3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q0E2Q3-F1-model_v4 Putative eukaryotic initiation factor 4A-2	0.112	204	126	7	210	266	408	8.517E+00	19
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NXR3-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2NXR3-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.080	219	171	10	196	29	247	4.892E+00	18
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6CUI6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q6CUI6-F1-model_v4 ATP-dependent RNA helicase DBP9	0.105	172	132	15	186	74	221	9.059E+00	18
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5A6J2-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-A5A6J2-F1-model_v4 Probable ATP-dependent RNA helicase DDX5	0.142	185	130	11	195	324	476	8.008E+00	18
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2HCV7-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q2HCV7-F1-model_v4 ATP-dependent RNA helicase ROK1	0.069	199	167	15	194	251	449	4.325E+00	18
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3BMF4-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q3BMF4-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.081	232	170	10	195	29	260	5.885E+00	17
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8PEW6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q8PEW6-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.076	229	171	10	195	32	260	6.259E+00	17
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q501J6-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q501J6-F1-model_v4 Probable ATP-dependent RNA helicase DDX17	0.148	189	133	7	195	318	474	8.517E+00	17
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92841-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-Q92841-F1-model_v4 Probable ATP-dependent RNA helicase DDX17	0.148	189	133	7	195	397	553	9.634E+00	16
+LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CF22-F1-model_v4	LOKIASV2_1903_ESMFold_hypothetical_protein	AF-P0CF22-F1-model_v4 Putative truncated L-serine dehydratase SDL1	0.096	131	99	11	141	26	135	9.634E+00	14

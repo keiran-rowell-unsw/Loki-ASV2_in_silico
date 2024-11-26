@@ -1,0 +1,997 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34961-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34961-F1-model_v4 Uncharacterized symporter YjmB	0.255	483	340	1	483	1	457	4.131E-21	1103
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94488-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94488-F1-model_v4 Uncharacterized symporter YnaJ	0.256	464	326	19	482	10	448	2.591E-20	1024
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9L7R4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9L7R4-F1-model_v4 Putative sulfoquinovose importer	0.242	473	340	11	483	2	451	9.046E-20	974
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34368-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34368-F1-model_v4 Probable glucitol transport protein GutA	0.205	470	351	14	483	18	459	2.708E-18	970
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32136-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32136-F1-model_v4 Putative sulfoquinovose importer	0.231	465	337	19	483	12	450	1.020E-18	965
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O33814-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O33814-F1-model_v4 Lactose permease	0.221	467	348	16	482	3	450	4.161E-18	936
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9L7R5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9L7R5-F1-model_v4 Putative 2,3-dihydroxypropane-1-sulfonate exporter	0.229	464	339	19	482	14	454	2.142E-18	925
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96792-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96792-F1-model_v4 Isoprimeverose transporter	0.227	483	362	1	483	2	470	1.832E-18	901
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32137-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32137-F1-model_v4 Putative 2,3-dihydroxypropane-1-sulfonate exporter	0.228	482	350	1	482	1	455	1.195E-17	886
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31435-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31435-F1-model_v4 Inner membrane symporter YicJ	0.208	465	346	19	483	7	444	1.065E-16	843
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P75683-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P75683-F1-model_v4 Putative glycoside/cation symporter YagG	0.212	472	358	19	490	5	459	2.152E-16	825
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0CE45-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0CE45-F1-model_v4 Glucuronide carrier protein	0.244	464	330	19	482	6	442	1.633E-17	817
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O07366-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O07366-F1-model_v4 Melibiose carrier protein	0.216	472	358	19	490	4	461	1.914E-16	806
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9DA75-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9DA75-F1-model_v4 Sodium-dependent lysophosphatidylcholine symporter 1	0.183	487	393	1	482	25	511	5.287E-16	797
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0CE44-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0CE44-F1-model_v4 Glucuronide carrier protein homolog	0.243	464	330	19	482	6	442	3.858E-17	792
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P02921-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P02921-F1-model_v4 Melibiose carrier protein	0.216	463	347	19	481	4	447	4.702E-16	784
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q02581-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q02581-F1-model_v4 Melibiose carrier protein	0.221	463	345	19	481	4	447	2.426E-15	763
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NA29-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NA29-F1-model_v4 Sodium-dependent lysophosphatidylcholine symporter 1	0.173	497	398	1	482	24	520	3.448E-15	758
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6DEJ6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6DEJ6-F1-model_v4 Sodium-dependent lysophosphatidylcholine symporter 1-B	0.168	498	400	1	482	7	504	2.244E-15	751
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P30878-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P30878-F1-model_v4 Melibiose carrier protein	0.213	463	349	19	481	4	447	2.523E-15	744
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P23936-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P23936-F1-model_v4 Lactose permease	0.170	462	378	21	482	9	465	8.807E-15	721
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5U3U7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5U3U7-F1-model_v4 Sodium-dependent lysophosphatidylcholine symporter 1-A	0.185	485	390	3	482	27	511	1.582E-14	674
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4IH46-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4IH46-F1-model_v4 Major facilitator superfamily domain-containing protein 2B	0.163	464	388	19	482	34	497	3.738E-14	661
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3T9M1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3T9M1-F1-model_v4 Major facilitator superfamily domain-containing protein 2B	0.166	483	399	1	483	9	487	6.211E-14	647
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P74168-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P74168-F1-model_v4 Uncharacterized symporter sll1374	0.207	534	374	11	482	3	536	1.715E-13	614
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0IHM1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0IHM1-F1-model_v4 Sodium-dependent lysophosphatidylcholine symporter 1	0.170	481	391	11	482	25	505	4.213E-13	613
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6NFX1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6NFX1-F1-model_v4 Major facilitator superfamily domain-containing protein 2B	0.175	464	375	19	482	40	494	7.001E-13	597
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P22733-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P22733-F1-model_v4 Lactose permease	0.197	462	363	21	482	6	458	3.205E-13	594
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7WTB2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7WTB2-F1-model_v4 Lactose permease	0.167	484	399	11	490	2	485	4.566E-12	537
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P43466-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P43466-F1-model_v4 Raffinose carrier protein	0.173	461	376	21	481	11	466	1.363E-11	491
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q14CX5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q14CX5-F1-model_v4 Transmembrane protein 180	0.133	490	399	22	482	15	504	6.765E-11	486
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6PDE8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6PDE8-F1-model_v4 Transmembrane protein 180	0.128	492	401	22	482	15	506	5.787E-11	486
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5ZKJ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5ZKJ5-F1-model_v4 Transmembrane protein 180	0.138	494	402	22	488	14	507	6.257E-11	480
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q58CT4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q58CT4-F1-model_v4 Transmembrane protein 180	0.122	490	404	22	482	15	504	1.124E-10	479
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q48624-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q48624-F1-model_v4 Lactose permease	0.193	480	378	2	481	1	470	1.367E-10	455
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3U481-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3U481-F1-model_v4 Major facilitator superfamily domain-containing protein 12	0.152	469	394	7	472	5	473	2.456E-10	440
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A3Q2HW92-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A3Q2HW92-F1-model_v4 Major facilitator superfamily domain-containing protein 12	0.155	461	385	15	471	14	474	3.774E-10	432
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-F1PZV2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-F1PZV2-F1-model_v4 Major facilitator superfamily domain-containing protein 12	0.161	454	378	11	464	10	460	4.771E-10	432
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6NUT3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6NUT3-F1-model_v4 Major facilitator superfamily domain-containing protein 12	0.150	450	381	15	464	14	462	7.052E-10	424
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74852-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74852-F1-model_v4 Uncharacterized MFS-type transporter C18.02	0.132	439	366	21	459	15	437	1.270E-08	366
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77549-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77549-F1-model_v4 Uncharacterized MFS-type transporter YfcJ	0.150	449	320	22	470	16	392	2.288E-07	365
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0Q855-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0Q855-F1-model_v4 Multidrug resistance protein MdtG	0.169	453	328	12	464	2	397	8.616E-08	365
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P26171-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P26171-F1-model_v4 Bacteriochlorophyll synthase 44.5 kDa chain	0.150	441	344	19	459	4	409	1.273E-07	360
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4T2Y5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4T2Y5-F1-model_v4 Multidrug resistance protein MdtG	0.162	453	331	12	464	2	397	1.548E-07	358
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-E3GC98-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-E3GC98-F1-model_v4 Multidrug resistance protein MdtG	0.167	470	330	21	490	12	408	1.324E-07	351
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q180E3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q180E3-F1-model_v4 Riboflavin transporter RibZ	0.130	451	388	21	471	6	452	6.061E-08	350
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42306-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42306-F1-model_v4 Uncharacterized MFS-type transporter YxiO	0.154	471	359	15	485	2	426	4.986E-08	349
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NWQ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NWQ5-F1-model_v4 Quinolone resistance protein NorB	0.154	463	388	11	473	2	461	1.373E-08	347
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q99W36-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q99W36-F1-model_v4 Putative proline/betaine transporter	0.182	448	337	21	468	15	427	3.793E-08	344
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40760-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40760-F1-model_v4 Uncharacterized MFS-type transporter YuxJ	0.126	439	332	26	464	2	382	1.273E-07	342
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZNB8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZNB8-F1-model_v4 Uncharacterized MFS-type transporter YfcJ	0.137	463	337	8	470	2	392	4.445E-07	341
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P59194-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P59194-F1-model_v4 Uncharacterized MFS-type transporter YfcJ	0.145	450	321	21	470	17	392	6.570E-07	340
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BBD5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BBD5-F1-model_v4 Multidrug resistance protein MdtG	0.157	453	333	12	464	2	397	2.573E-07	339
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2YY45-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2YY45-F1-model_v4 Quinolone resistance protein NorB	0.164	455	376	19	473	11	461	3.120E-08	339
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6QGY6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6QGY6-F1-model_v4 Quinolone resistance protein NorB	0.151	455	382	19	473	11	461	5.606E-08	333
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7X2C6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7X2C6-F1-model_v4 Quinolone resistance protein NorB	0.157	455	379	19	473	11	461	3.244E-08	332
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX1-F1-model_v4 Uncharacterized MFS-type transporter Rv2456c	0.123	455	351	23	477	11	411	2.116E-07	331
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HRH0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HRH0-F1-model_v4 Putative proline/betaine transporter	0.158	463	371	21	483	9	450	1.007E-07	329
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34691-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34691-F1-model_v4 Putative niacin/nicotinamide transporter NaiP	0.126	456	341	13	468	2	392	9.339E-07	327
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4LE88-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4LE88-F1-model_v4 Membrane-associated transporter protein	0.095	499	406	21	470	33	531	3.008E-07	327
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q99U52-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q99U52-F1-model_v4 Quinolone resistance protein NorB	0.149	450	378	19	468	12	456	5.185E-08	326
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GGX2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GGX2-F1-model_v4 Quinolone resistance protein NorB	0.153	455	384	15	468	2	456	3.000E-08	325
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GJ96-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GJ96-F1-model_v4 Putative proline/betaine transporter	0.190	448	334	21	468	15	427	7.663E-08	325
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O06481-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O06481-F1-model_v4 Uncharacterized MFS-type transporter YfnC	0.125	457	338	22	478	22	408	3.252E-07	324
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5U419-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5U419-F1-model_v4 Major facilitator superfamily domain-containing protein 3	0.137	452	350	23	474	5	411	3.516E-07	324
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5ISW7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5ISW7-F1-model_v4 Quinolone resistance protein NorB	0.159	455	378	19	473	11	461	3.944E-08	324
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7A771-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7A771-F1-model_v4 Putative proline/betaine transporter	0.191	448	333	21	468	15	427	9.687E-08	324
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q57LY2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q57LY2-F1-model_v4 Uncharacterized MFS-type transporter YfcJ	0.140	459	332	12	470	6	392	1.135E-06	323
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2FYJ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2FYJ5-F1-model_v4 Quinolone resistance protein NorB	0.156	449	377	25	473	14	461	4.986E-08	323
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58355-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58355-F1-model_v4 Membrane-associated transporter protein	0.110	499	401	19	470	31	529	2.892E-07	323
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96664-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96664-F1-model_v4 Uncharacterized MFS-type transporter YdeG	0.139	446	336	21	466	34	424	2.379E-07	322
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7A5M0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7A5M0-F1-model_v4 Quinolone resistance protein NorB	0.148	450	378	19	468	12	456	6.303E-08	321
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GPQ3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GPQ3-F1-model_v4 Major facilitator superfamily domain-containing protein 8	0.123	499	423	1	483	11	509	7.369E-08	321
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34546-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34546-F1-model_v4 Uncharacterized MFS-type transporter YttB	0.134	462	339	21	482	3	394	3.252E-07	320
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6G9C6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6G9C6-F1-model_v4 Quinolone resistance protein NorB	0.148	450	378	19	468	12	456	5.606E-08	320
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C0L7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C0L7-F1-model_v4 Proline/betaine transporter	0.154	438	349	21	458	25	437	1.377E-07	320
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HIA2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HIA2-F1-model_v4 Putative proline/betaine transporter	0.191	448	333	21	468	15	427	1.133E-07	319
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03411-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03411-F1-model_v4 Sucrose transport protein	0.139	479	387	21	471	35	513	1.273E-07	319
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BIV7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BIV7-F1-model_v4 Proton-associated sugar transporter A	0.117	679	422	1	479	66	744	5.404E-07	318
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4L3Q4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4L3Q4-F1-model_v4 Putative proline/betaine transporter	0.178	463	359	21	483	18	455	2.116E-07	317
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96MC6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96MC6-F1-model_v4 Hippocampus abundant transcript 1 protein	0.149	460	363	23	482	37	464	1.273E-07	317
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NXW9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NXW9-F1-model_v4 Putative proline/betaine transporter	0.185	448	336	21	468	15	427	1.133E-07	316
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40862-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40862-F1-model_v4 Proline/betaine transporter	0.159	462	369	21	482	25	464	7.968E-08	315
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8Z415-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8Z415-F1-model_v4 Quinolone resistance protein NorB	0.148	450	378	19	468	12	456	9.316E-08	314
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6U1Q6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6U1Q6-F1-model_v4 Quinolone resistance protein NorB	0.155	444	373	25	468	14	456	6.554E-08	313
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9KWK6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9KWK6-F1-model_v4 Putative proline/betaine transporter	0.184	448	336	21	468	15	427	1.741E-07	313
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0VA82-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0VA82-F1-model_v4 Major facilitator superfamily domain-containing protein 8	0.138	474	400	22	486	31	504	7.369E-08	313
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q944W2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q944W2-F1-model_v4 Sucrose transport protein SUT3	0.136	504	405	1	470	1	504	8.959E-08	313
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96656-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96656-F1-model_v4 Uncharacterized MFS-type transporter YddS	0.144	479	369	4	482	2	433	6.815E-08	312
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GBR4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GBR4-F1-model_v4 Putative proline/betaine transporter	0.180	448	335	21	468	18	427	1.741E-07	312
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A3MMF8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A3MMF8-F1-model_v4 Uncharacterized MFS-type transporter BMA10247_1907	0.149	472	336	11	482	6	401	3.802E-07	311
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O35018-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O35018-F1-model_v4 Lincomycin resistance protein LmrB	0.135	476	406	1	470	1	476	4.111E-07	311
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A3NCV3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A3NCV3-F1-model_v4 Uncharacterized MFS-type transporter BURPS668_3162	0.157	451	329	7	457	2	392	1.741E-07	310
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93SM8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93SM8-F1-model_v4 Uncharacterized MFS-type transporter BPSL2729	0.154	451	330	7	457	2	392	2.200E-07	310
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2W8R0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2W8R0-F1-model_v4 Magnetosome protein MamH	0.144	470	354	21	490	14	428	1.273E-07	310
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K4-F1-model_v4 Multi-drug resistance efflux pump PmrA	0.177	445	320	22	466	8	397	9.711E-07	309
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2FH03-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2FH03-F1-model_v4 Quinolone resistance protein NorB	0.156	450	376	19	468	11	456	1.324E-07	309
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6NE63-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6NE63-F1-model_v4 Magnetosome protein MamH	0.140	470	353	21	490	11	421	2.116E-07	308
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HFY7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HFY7-F1-model_v4 Quinolone resistance protein NorB	0.150	444	376	25	468	14	456	9.316E-08	308
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P70187-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P70187-F1-model_v4 Hippocampus abundant transcript 1 protein	0.145	462	367	18	479	32	461	2.200E-07	308
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LKH3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LKH3-F1-model_v4 Sucrose transport protein SUT1	0.139	494	403	6	474	36	529	2.675E-07	308
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62I47-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62I47-F1-model_v4 Uncharacterized MFS-type transporter BMA2043	0.151	461	323	22	482	21	401	4.111E-07	307
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9C8X2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9C8X2-F1-model_v4 Sucrose transport protein SUC5	0.158	484	392	5	471	16	499	1.741E-07	307
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9MJ53-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9MJ53-F1-model_v4 Uncharacterized MFS-type transporter YfcJ	0.137	461	333	1	461	1	387	2.040E-06	306
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q47421-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q47421-F1-model_v4 Glycine betaine/proline/ectoine/pipecolic acid transporter OusA	0.157	438	347	21	458	26	438	1.957E-07	306
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4SZP4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4SZP4-F1-model_v4 Uncharacterized MFS-type transporter YfcJ	0.133	455	335	11	465	5	391	1.181E-06	305
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z4Z9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z4Z9-F1-model_v4 Uncharacterized MFS-type transporter YfcJ	0.134	457	336	8	464	2	390	1.814E-06	305
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NHS3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NHS3-F1-model_v4 Major facilitator superfamily domain-containing protein 8	0.135	508	420	1	486	11	518	2.782E-07	305
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WKA1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WKA1-F1-model_v4 Major facilitator superfamily multidrug transporter mfsC	0.142	496	420	1	490	3	498	3.252E-07	305
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG86-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG86-F1-model_v4 Uncharacterized MFS-type transporter MT1289	0.130	489	409	1	471	1	489	6.570E-07	305
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2S9N6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2S9N6-F1-model_v4 Uncharacterized MFS-type transporter BMA10229_A2703	0.151	461	323	22	482	21	401	4.998E-07	304
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P54559-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P54559-F1-model_v4 Uncharacterized MFS-type transporter YqjV	0.152	462	332	22	483	10	401	7.988E-07	304
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A166Z003-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A166Z003-F1-model_v4 MFS-type transporter ppzB	0.126	463	393	21	471	18	480	8.285E-08	304
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6V6H6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6V6H6-F1-model_v4 Uncharacterized MFS-type transporter PSPA7_3302	0.147	443	313	22	464	22	389	2.116E-07	303
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7VAB2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7VAB2-F1-model_v4 Uncharacterized MFS-type transporter PLES_33301	0.149	449	323	22	470	22	402	2.379E-07	303
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4EYY4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4EYY4-F1-model_v4 Multidrug resistance protein MdtG	0.170	442	318	21	462	12	395	7.104E-07	303
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C0L8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C0L8-F1-model_v4 Proline/betaine transporter	0.153	462	372	21	482	25	464	7.968E-08	302
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K5-F1-model_v4 Multi-drug resistance efflux pump PmrA	0.177	445	320	22	466	8	397	1.552E-06	301
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1V1V6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1V1V6-F1-model_v4 Uncharacterized MFS-type transporter BMASAVP1_A0869	0.158	449	327	9	457	4	392	3.128E-07	301
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX5-F1-model_v4 Uncharacterized MFS-type transporter Rv0849	0.125	467	354	16	482	8	412	4.998E-07	301
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RKF6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RKF6-F1-model_v4 Putative transporter AmpG 3	0.134	457	355	11	467	5	415	2.675E-07	301
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9RQ29-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9RQ29-F1-model_v4 Fatty acid resistance protein FarB	0.149	486	383	21	471	13	498	3.128E-07	301
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39886-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39886-F1-model_v4 Tetracenomycin C resistance and export protein	0.120	521	414	1	472	1	521	3.008E-07	301
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y2W3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y2W3-F1-model_v4 Proton-associated sugar transporter A	0.126	658	401	19	478	117	774	7.988E-07	301
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3JPB5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3JPB5-F1-model_v4 Uncharacterized MFS-type transporter BURPS1710b_3216	0.155	447	326	11	457	6	392	4.275E-07	299
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BFQ6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BFQ6-F1-model_v4 Solute carrier family 49 member 4	0.137	464	366	22	485	54	478	4.445E-07	299
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A0E4AZP4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A0E4AZP4-F1-model_v4 MFS transporter fsa7	0.142	461	377	18	478	65	504	1.135E-06	299
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q02LE0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q02LE0-F1-model_v4 Uncharacterized MFS-type transporter PA14_38730	0.158	449	320	22	470	22	402	3.008E-07	298
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96BI1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96BI1-F1-model_v4 Solute carrier family 22 member 18	0.134	441	333	21	461	25	409	6.076E-07	297
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76269-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76269-F1-model_v4 Uncharacterized transporter YebQ	0.127	444	380	20	463	15	450	1.092E-06	297
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FCN5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FCN5-F1-model_v4 Uncharacterized MFS-type transporter YhhS	0.163	450	316	22	471	18	395	8.981E-07	296
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J8-F1-model_v4 Antiseptic resistance protein	0.132	509	407	8	477	3	511	1.228E-06	296
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P50080-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P50080-F1-model_v4 Azole resistance protein 1	0.127	554	402	9	469	53	606	9.339E-07	296
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9I2B6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9I2B6-F1-model_v4 Uncharacterized MFS-type transporter PA1993	0.147	449	324	22	470	22	402	3.252E-07	295
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GNV7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GNV7-F1-model_v4 Solute carrier family 49 member 4 homolog	0.133	461	365	22	482	32	453	9.339E-07	295
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X6P4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X6P4-F1-model_v4 Uncharacterized MFS-type transporter YhhS	0.175	468	317	22	489	18	402	9.339E-07	294
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36021-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36021-F1-model_v4 Monocarboxylate transporter 8	0.134	480	378	11	490	85	521	2.892E-07	294
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8K999-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8K999-F1-model_v4 Uncharacterized transporter BUsg_450	0.148	450	327	19	468	7	391	5.858E-06	293
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX4-F1-model_v4 Putative uncharacterized MFS-type transporter MT0872	0.133	470	354	16	485	8	416	6.318E-07	293
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0WVE9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0WVE9-F1-model_v4 Probable plastidic glucose transporter 1	0.151	482	396	1	482	51	518	1.957E-07	293
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5UFU0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5UFU0-F1-model_v4 Probable sugar efflux transporter	0.134	441	319	22	462	15	383	3.812E-06	292
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76197-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76197-F1-model_v4 Inner membrane transport protein YdiM	0.124	467	346	20	486	6	401	4.622E-07	292
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O84548-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O84548-F1-model_v4 Probable hexose phosphate transport protein	0.133	455	365	23	477	33	454	6.832E-07	292
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9UMX9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9UMX9-F1-model_v4 Membrane-associated transporter protein	0.118	499	398	19	470	31	529	1.135E-06	292
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8K1P8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8K1P8-F1-model_v4 Monocarboxylate transporter 8	0.130	490	388	1	490	81	527	3.008E-07	292
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34724-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34724-F1-model_v4 Uncharacterized MFS-type transporter YceJ	0.143	461	326	22	482	4	384	6.334E-06	291
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A089FRP6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A089FRP6-F1-model_v4 MFS transporter prlG	0.164	466	365	21	486	35	472	7.988E-07	291
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8RWN2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8RWN2-F1-model_v4 Protein ZINC INDUCED FACILITATOR 1	0.117	474	410	6	470	11	484	2.782E-07	291
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39637-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39637-F1-model_v4 Uncharacterized MFS-type transporter YwfA	0.146	474	346	9	482	6	411	7.988E-07	290
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P59845-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P59845-F1-model_v4 Probable vesicular acetylcholine transporter-B	0.131	456	348	21	476	40	441	8.981E-07	290
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O32182-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O32182-F1-model_v4 Uncharacterized MFS-type transporter YusP	0.152	524	394	25	490	18	541	3.954E-07	290
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37621-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37621-F1-model_v4 Uncharacterized MFS-type transporter YhhS	0.164	451	316	22	472	18	396	1.327E-06	289
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10R54-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10R54-F1-model_v4 Sucrose transport protein SUT1	0.137	492	405	8	477	38	529	3.954E-07	289
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y5Y0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y5Y0-F1-model_v4 Feline leukemia virus subgroup C receptor-related protein 1	0.164	470	354	20	489	108	531	2.379E-07	289
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZCG7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZCG7-F1-model_v4 Putative transporter AmpG 3	0.141	462	352	21	482	5	415	2.892E-07	288
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q503P5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q503P5-F1-model_v4 Solute carrier family 49 member A3	0.129	467	374	24	490	41	470	4.111E-07	288
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2RXV4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2RXV4-F1-model_v4 Feline leukemia virus subgroup C receptor-related protein 1	0.134	470	374	21	490	106	538	7.387E-07	288
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZK55-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZK55-F1-model_v4 Uncharacterized MFS-type transporter STM4428	0.138	444	323	21	464	11	386	2.040E-06	287
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34502-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34502-F1-model_v4 Uncharacterized MFS-type transporter YvkA	0.138	459	374	21	479	8	442	8.981E-07	287
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7CJL1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7CJL1-F1-model_v4 Putative multidrug resistance protein MdtD	0.143	450	384	21	470	10	458	1.228E-06	287
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1C5L8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1C5L8-F1-model_v4 Putative multidrug resistance protein MdtD	0.143	450	384	21	470	10	458	1.276E-06	287
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-G1UB37-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-G1UB37-F1-model_v4 Major facilitator superfamily multidrug transporter FLU1	0.141	461	382	18	478	159	604	6.076E-07	287
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-D3Z5L6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-D3Z5L6-F1-model_v4 MFS-type transporter SLC18B1	0.148	462	348	21	482	35	443	8.637E-07	286
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q39231-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q39231-F1-model_v4 Sucrose transport protein SUC2	0.137	490	406	1	471	10	499	6.318E-07	286
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7N7A8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7N7A8-F1-model_v4 Lysophospholipid transporter LplT	0.132	458	343	11	468	3	398	2.121E-06	285
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92EE1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92EE1-F1-model_v4 Lincomycin resistance protein LmrB	0.118	467	409	6	470	2	468	6.570E-07	285
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FE59-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FE59-F1-model_v4 Sucrose transport protein SUC4	0.148	485	396	6	471	22	506	3.802E-07	285
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q59XM0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q59XM0-F1-model_v4 MFS antiporter QDR3	0.116	551	403	20	476	145	695	3.382E-07	285
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7M562-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7M562-F1-model_v4 Multidrug resistance protein MdtL	0.157	447	318	25	471	3	380	1.552E-06	284
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P23462-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P23462-F1-model_v4 Protein PucC	0.150	446	355	21	466	34	452	3.954E-07	284
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Y9K8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Y9K8-F1-model_v4 Lincomycin resistance protein LmrB	0.123	450	393	22	470	19	468	4.111E-07	284
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96SL1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96SL1-F1-model_v4 Solute carrier family 49 member 4	0.139	464	365	22	485	54	478	1.135E-06	284
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FG00-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FG00-F1-model_v4 Sucrose transport protein SUC9	0.139	478	397	7	468	14	491	4.275E-07	284
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J9-F1-model_v4 Antiseptic resistance protein	0.135	492	394	22	477	20	511	1.092E-06	284
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ES43-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ES43-F1-model_v4 Feline leukemia virus subgroup C receptor-related protein 1	0.129	462	368	21	482	106	529	1.010E-06	284
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LY91-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LY91-F1-model_v4 Lysophospholipid transporter LplT	0.112	464	350	1	464	1	395	6.586E-06	283
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1JSD2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1JSD2-F1-model_v4 Putative multidrug resistance protein MdtD	0.143	450	384	21	470	10	458	1.492E-06	283
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3YY22-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3YY22-F1-model_v4 Lysophospholipid transporter LplT	0.109	456	350	9	464	2	395	7.122E-06	282
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4UK37-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4UK37-F1-model_v4 Putative transporter AmpG 3	0.147	462	350	21	482	5	415	7.988E-07	282
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q501I9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q501I9-F1-model_v4 Solute carrier family 49 member 4 homolog	0.129	468	381	15	482	15	453	1.614E-06	282
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9N1F2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9N1F2-F1-model_v4 Feline leukemia virus subgroup C receptor-related protein 1	0.152	470	361	21	490	113	539	2.200E-07	282
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O17444-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O17444-F1-model_v4 Vesicular acetylcholine transporter	0.133	470	377	21	490	33	468	8.637E-07	282
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q667F2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q667F2-F1-model_v4 Lysophospholipid transporter LplT	0.131	473	347	14	486	7	406	1.614E-06	281
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6CUZ1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6CUZ1-F1-model_v4 Autophagy-related protein 22	0.127	466	401	21	480	20	485	1.814E-06	281
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74829-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74829-F1-model_v4 Uncharacterized MFS-type transporter C530.15c	0.131	456	373	21	476	80	509	3.516E-07	281
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8W4E7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8W4E7-F1-model_v4 Solute carrier family 40 member 3, chloroplastic	0.152	459	378	22	480	148	594	5.844E-07	281
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2JZ74-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2JZ74-F1-model_v4 Lysophospholipid transporter LplT	0.130	473	347	14	486	7	406	1.492E-06	280
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O25788-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O25788-F1-model_v4 Putative glucose/galactose transporter	0.114	448	349	25	472	12	406	4.121E-06	280
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BF67-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BF67-F1-model_v4 Putative multidrug resistance protein MdtD	0.118	454	399	21	474	10	462	1.552E-06	279
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VCV9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VCV9-F1-model_v4 Sodium-dependent glucose transporter 1A	0.121	450	364	27	476	2	416	5.844E-07	278
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P44776-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P44776-F1-model_v4 L-fucose-proton symporter	0.094	439	369	21	459	16	423	1.678E-06	278
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66H95-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66H95-F1-model_v4 Solute carrier family 49 member 4	0.129	464	369	22	485	54	478	7.104E-07	278
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5BIZ0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5BIZ0-F1-model_v4 Major facilitator superfamily domain-containing protein 4A	0.118	471	407	20	482	15	485	1.178E-07	278
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SA71-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SA71-F1-model_v4 Putative glycerol-3-phosphate transporter 3	0.143	465	390	22	486	36	491	6.076E-07	278
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BH31-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BH31-F1-model_v4 Major facilitator superfamily domain-containing protein 8	0.143	484	399	2	467	21	504	9.711E-07	278
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A6H2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A6H2-F1-model_v4 Multidrug resistance protein MdtL	0.153	447	319	25	471	3	380	1.228E-06	277
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6D2A9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6D2A9-F1-model_v4 Putative multidrug resistance protein MdtD	0.133	451	386	21	471	9	454	2.579E-06	277
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-F2T0J9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-F2T0J9-F1-model_v4 MFS-type efflux pump MFS2	0.147	466	386	18	483	63	516	1.814E-06	277
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5BKX6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5BKX6-F1-model_v4 Solute carrier family 45 member 4	0.101	698	431	11	490	40	737	5.858E-06	277
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q68VW8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q68VW8-F1-model_v4 Putative transporter AmpG 3	0.149	462	346	21	482	5	412	9.339E-07	276
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92GA9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92GA9-F1-model_v4 Putative transporter AmpG 3	0.150	462	347	21	482	16	424	4.111E-07	276
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WKX3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WKX3-F1-model_v4 MFS-type transporter AFUA_1G00970	0.131	473	371	7	479	2	429	9.711E-07	276
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9QZU7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9QZU7-F1-model_v4 Putative multidrug resistance protein MdtD	0.135	450	388	21	470	10	458	2.579E-06	276
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5EXV9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5EXV9-F1-model_v4 Putative multidrug resistance protein MdtD	0.115	454	400	21	474	10	462	1.380E-06	276
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42670-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42670-F1-model_v4 Puromycin resistance protein pur8	0.125	500	428	1	490	3	502	1.435E-06	276
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7CH99-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7CH99-F1-model_v4 Uncharacterized MFS-type transporter YPO1221/y2967/YP_0917	0.145	459	323	1	459	1	379	3.525E-06	275
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NF27-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NF27-F1-model_v4 Multidrug resistance protein MdtL	0.154	442	315	25	466	3	375	1.745E-06	275
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A3W9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A3W9-F1-model_v4 Lysophospholipid transporter LplT	0.107	456	351	9	464	2	395	1.053E-05	275
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1CFA8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1CFA8-F1-model_v4 Lysophospholipid transporter LplT	0.131	475	351	12	486	2	406	2.579E-06	275
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3U9N9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3U9N9-F1-model_v4 Monocarboxylate transporter 10	0.141	472	366	11	482	56	482	1.050E-06	275
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NVY1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NVY1-F1-model_v4 Lysophospholipid transporter LplT	0.119	444	332	21	464	18	395	3.260E-06	274
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1XDP1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1XDP1-F1-model_v4 Lysophospholipid transporter LplT	0.104	444	338	21	464	18	395	7.405E-06	274
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P45123-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P45123-F1-model_v4 Bicyclomycin resistance protein homolog	0.141	446	323	21	466	13	389	1.492E-06	274
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P52067-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P52067-F1-model_v4 Fosmidomycin resistance protein	0.125	443	324	21	463	29	399	1.887E-06	274
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4T9U3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4T9U3-F1-model_v4 Putative multidrug resistance protein MdtD	0.115	454	400	21	474	10	462	2.294E-06	274
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FYG3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FYG3-F1-model_v4 Probable plastidic glucose transporter 2	0.131	466	381	21	486	53	492	8.306E-07	274
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P12681-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P12681-F1-model_v4 Phosphoglycerate transporter protein	0.128	462	369	21	482	29	452	1.010E-06	273
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P6J0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P6J0-F1-model_v4 Uncharacterized transporter C1683.12	0.114	483	398	1	483	1	450	8.637E-07	273
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96JT2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96JT2-F1-model_v4 Solute carrier family 45 member 3	0.115	534	408	22	483	17	550	3.812E-06	273
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4QN56-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4QN56-F1-model_v4 Sodium-dependent glucose transporter 1	0.124	463	383	11	473	60	497	5.620E-07	273
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7CGZ2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7CGZ2-F1-model_v4 Lysophospholipid transporter LplT	0.121	475	355	12	486	2	406	3.390E-06	272
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4SXW2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4SXW2-F1-model_v4 Putative multidrug resistance protein MdtD	0.117	454	399	21	474	10	462	2.900E-06	272
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A1U9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A1U9-F1-model_v4 Putative multidrug resistance protein MdtD	0.123	450	393	21	470	10	458	2.900E-06	272
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94BZ1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94BZ1-F1-model_v4 Protein ZINC INDUCED FACILITATOR-LIKE 1	0.127	453	387	16	468	31	474	6.570E-07	272
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3EAQ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3EAQ5-F1-model_v4 Probable peptide/nitrate transporter At3g43790	0.132	464	395	14	477	28	483	5.620E-07	272
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2TYQ6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2TYQ6-F1-model_v4 Lysophospholipid transporter LplT	0.110	456	350	9	464	2	395	9.362E-06	271
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7FFD2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7FFD2-F1-model_v4 Lysophospholipid transporter LplT	0.121	475	355	12	486	2	406	3.135E-06	271
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9N7L0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9N7L0-F1-model_v4 Putative multidrug resistance protein MdtD	0.119	450	395	21	470	10	458	2.480E-06	271
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q80T22-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q80T22-F1-model_v4 Sodium-dependent glucose transporter 1	0.107	460	381	21	480	41	468	3.382E-07	271
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1AHP3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1AHP3-F1-model_v4 Multidrug resistance protein MdtL	0.148	449	326	25	473	3	386	2.385E-06	270
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q32LQ6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q32LQ6-F1-model_v4 Major facilitator superfamily domain-containing protein 1	0.127	467	375	1	467	12	441	1.814E-06	270
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1JQC1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1JQC1-F1-model_v4 Major facilitator superfamily domain-containing protein 1	0.131	461	364	22	482	48	467	2.579E-06	270
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P54585-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P54585-F1-model_v4 Uncharacterized MFS-type transporter YhcA	0.129	521	413	16	490	8	528	7.988E-07	270
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59814-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59814-F1-model_v4 Uncharacterized transporter C794.04c	0.128	451	376	21	471	111	542	2.294E-06	270
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NAP9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NAP9-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.129	451	323	21	471	6	377	4.121E-06	269
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0TDZ7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0TDZ7-F1-model_v4 Lysophospholipid transporter LplT	0.109	456	350	9	464	2	395	1.556E-05	269
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FMU8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FMU8-F1-model_v4 Putative multidrug resistance protein MdtD	0.123	454	396	21	474	10	462	2.206E-06	269
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z5F5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z5F5-F1-model_v4 Putative multidrug resistance protein MdtD	0.122	450	393	21	470	10	458	2.788E-06	268
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8GHR1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8GHR1-F1-model_v4 Putative multidrug resistance protein MdtD	0.118	450	395	21	470	11	459	2.480E-06	268
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32369-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32369-F1-model_v4 Bile acid transporter	0.140	475	396	12	472	2	476	1.962E-06	268
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8K0H7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8K0H7-F1-model_v4 Solute carrier family 45 member 3	0.123	534	404	22	483	17	550	3.666E-06	268
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LK52-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LK52-F1-model_v4 Multidrug resistance protein MdtL	0.158	447	317	25	471	3	379	2.385E-06	267
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZK41-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZK41-F1-model_v4 Putative glucose/galactose transporter	0.119	444	344	25	468	12	402	4.456E-06	267
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q752I1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q752I1-F1-model_v4 Probable transporter MCH1	0.107	447	371	21	467	31	446	1.181E-06	267
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94574-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94574-F1-model_v4 Uncharacterized MFS-type transporter YwoD	0.158	442	366	21	462	9	444	2.480E-06	267
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1X7H3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1X7H3-F1-model_v4 Putative multidrug resistance protein MdtD	0.123	450	393	21	470	10	458	3.963E-06	267
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A3G1DJE2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A3G1DJE2-F1-model_v4 MFS transporter L2	0.130	525	412	1	474	57	581	9.711E-07	267
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1CAS7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1CAS7-F1-model_v4 Lysophospholipid transporter LplT	0.127	475	353	12	486	2	406	3.390E-06	266
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5PDW9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5PDW9-F1-model_v4 Putative multidrug resistance protein MdtD	0.118	450	395	21	470	10	458	2.385E-06	266
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5XPB7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5XPB7-F1-model_v4 Putative multidrug resistance protein MdtD	0.130	454	393	21	474	10	462	3.260E-06	266
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8ACM0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8ACM0-F1-model_v4 Multidrug resistance protein MdtL	0.145	462	330	21	482	3	389	4.634E-06	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1IX28-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1IX28-F1-model_v4 Multidrug resistance protein MdtL	0.155	442	314	25	466	3	375	2.480E-06	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LNJ1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LNJ1-F1-model_v4 Lysophospholipid transporter LplT	0.104	444	338	21	464	18	395	9.362E-06	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8YB48-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8YB48-F1-model_v4 Glucose/galactose transporter	0.123	452	349	9	460	12	410	5.010E-06	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37948-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37948-F1-model_v4 Glycerol-3-phosphate transporter	0.146	449	346	20	468	31	436	8.306E-07	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1CK62-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1CK62-F1-model_v4 Putative multidrug resistance protein MdtD	0.148	450	382	21	470	10	458	3.260E-06	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4TNI8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4TNI8-F1-model_v4 Putative multidrug resistance protein MdtD	0.115	454	400	21	474	10	462	4.818E-06	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NQA9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NQA9-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	450	394	21	470	10	458	4.634E-06	265
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q31UW4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q31UW4-F1-model_v4 Multidrug resistance protein MdtL	0.151	442	316	25	466	3	375	4.818E-06	264
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LRC4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LRC4-F1-model_v4 Probable sugar efflux transporter	0.143	452	328	21	472	13	396	1.231E-05	264
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4TLD2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4TLD2-F1-model_v4 Lysophospholipid transporter LplT	0.130	475	351	12	486	2	406	4.121E-06	264
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q02443-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q02443-F1-model_v4 Protein PucC	0.126	445	370	20	464	28	451	1.962E-06	264
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2TXG1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2TXG1-F1-model_v4 MFS-type transporter oryN	0.127	448	374	18	465	63	491	1.181E-06	264
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6UZY0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6UZY0-F1-model_v4 Probable sugar efflux transporter	0.134	460	339	11	470	3	395	2.045E-05	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37597-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37597-F1-model_v4 Inner membrane transport protein YdhC	0.131	441	328	19	459	4	382	3.390E-06	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1JPE9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1JPE9-F1-model_v4 Lysophospholipid transporter LplT	0.144	438	331	14	451	7	394	5.210E-06	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1JQC2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1JQC2-F1-model_v4 Lysophospholipid transporter LplT	0.130	475	351	12	486	2	406	4.634E-06	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1LNW4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1LNW4-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	450	394	21	470	10	458	6.586E-06	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O24723-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O24723-F1-model_v4 Probable 1-hydroxy-2-naphthoate transporter	0.132	475	384	15	489	17	459	3.135E-06	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-F4KGN5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-F4KGN5-F1-model_v4 Solute carrier family 40 member 2	0.100	491	428	6	482	21	511	2.294E-06	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AEJ0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AEJ0-F1-model_v4 Multidrug export protein EmrB	0.133	497	391	19	470	9	505	3.135E-06	263
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5XUP3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5XUP3-F1-model_v4 Lysophospholipid transporter LplT	0.112	456	347	9	464	2	393	1.384E-05	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9R2S0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9R2S0-F1-model_v4 Lysophospholipid transporter LplT	0.125	475	354	12	486	2	406	4.818E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77726-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77726-F1-model_v4 Inner membrane transport protein YajR	0.130	450	330	21	470	10	389	6.334E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5R0C2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5R0C2-F1-model_v4 Putative multidrug resistance protein MdtD	0.116	450	396	21	470	10	458	4.634E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X7I3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X7I3-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	450	394	21	470	10	458	5.418E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7M460-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7M460-F1-model_v4 Putative multidrug resistance protein MdtD	0.127	450	391	21	470	10	458	5.858E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-G3XSI4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-G3XSI4-F1-model_v4 Efflux pump aunC	0.119	491	398	21	473	29	519	5.418E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-G0R6T1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-G0R6T1-F1-model_v4 Major facilitator-type transporter sor6	0.148	464	394	21	483	71	534	2.385E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q95KI5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q95KI5-F1-model_v4 Solute carrier family 45 member 3	0.108	534	411	22	483	17	550	5.210E-06	262
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NR12-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NR12-F1-model_v4 Multidrug resistance protein MdtL	0.150	447	318	25	471	3	377	3.963E-06	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0TAZ8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0TAZ8-F1-model_v4 Multidrug resistance protein MdtL	0.156	446	314	21	466	3	375	5.418E-06	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1AF46-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1AF46-F1-model_v4 Lysophospholipid transporter LplT	0.114	444	334	21	464	18	395	1.138E-05	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0Q135-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0Q135-F1-model_v4 Uncharacterized MFS-type transporter YhhS	0.166	450	314	22	471	18	395	8.007E-06	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0LNN5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0LNN5-F1-model_v4 L-lactate transporter	0.139	437	336	22	458	10	400	4.634E-06	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9PJJ8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9PJJ8-F1-model_v4 Probable hexose phosphate transport protein	0.131	456	362	22	477	37	454	3.812E-06	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZNQ0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZNQ0-F1-model_v4 Putative multidrug resistance protein MdtD	0.120	450	394	21	470	10	458	4.818E-06	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UTB5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UTB5-F1-model_v4 Putative multidrug resistance protein MdtD	0.122	450	393	21	470	10	458	3.812E-06	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08777-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08777-F1-model_v4 Riboflavin transporter MCH5	0.121	444	360	19	462	103	512	9.711E-07	261
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z2N9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z2N9-F1-model_v4 Multidrug resistance protein MdtL	0.132	465	339	25	489	3	393	4.818E-06	260
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P28246-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P28246-F1-model_v4 Bicyclomycin resistance protein	0.138	459	339	13	471	2	395	2.040E-06	260
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MZD4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MZD4-F1-model_v4 Lysophospholipid transporter LplT	0.106	444	337	21	464	18	395	1.384E-05	260
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1IYZ7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1IYZ7-F1-model_v4 Putative multidrug resistance protein MdtD	0.128	450	391	21	470	10	458	2.900E-06	260
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10084-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10084-F1-model_v4 Uncharacterized transporter mfs2	0.136	465	384	16	480	98	542	4.121E-06	260
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WGE2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WGE2-F1-model_v4 Siderochrome iron transporter 2	0.137	498	384	22	467	89	586	5.620E-07	260
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4SYB3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4SYB3-F1-model_v4 Multidrug resistance protein MdtL	0.143	469	334	21	489	3	393	2.385E-06	259
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1IRT2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1IRT2-F1-model_v4 Probable sugar efflux transporter	0.134	453	331	21	473	13	395	1.682E-05	259
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NCB3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NCB3-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	450	394	21	470	10	458	6.849E-06	259
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7MHI9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7MHI9-F1-model_v4 Putative multidrug resistance protein MdtD	0.126	454	395	21	474	10	462	3.390E-06	259
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O43000-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O43000-F1-model_v4 Pantothenate transporter liz1	0.105	463	373	21	483	35	452	1.962E-06	259
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY5-F1-model_v4 Uncharacterized MFS-type transporter EfpA	0.110	490	428	1	482	34	523	4.634E-06	259
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36172-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36172-F1-model_v4 Vacuolar basic amino acid transporter 5	0.137	551	403	17	484	31	581	1.887E-06	259
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MGD1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MGD1-F1-model_v4 Multidrug resistance protein MdtL	0.159	451	316	21	471	4	380	3.666E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P55647-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P55647-F1-model_v4 Uncharacterized MFS-type transporter y4rN	0.134	442	328	22	463	18	397	6.586E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6D108-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6D108-F1-model_v4 Lysophospholipid transporter LplT	0.112	471	355	12	482	2	402	1.094E-05	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q51330-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q51330-F1-model_v4 Oxalate:formate antiporter	0.136	465	357	12	476	4	417	3.525E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Z7N9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Z7N9-F1-model_v4 Probable hexose phosphate transport protein	0.131	458	366	23	480	33	454	5.633E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6TBH6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6TBH6-F1-model_v4 Putative multidrug resistance protein MdtD	0.128	454	394	21	474	10	462	3.963E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0T353-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0T353-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	450	394	21	470	10	458	7.700E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FG02-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FG02-F1-model_v4 Putative multidrug resistance protein MdtD	0.131	450	389	21	470	10	458	3.812E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36554-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36554-F1-model_v4 Putative multidrug resistance protein MdtD	0.123	450	393	21	470	10	458	7.405E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8NJG7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8NJG7-F1-model_v4 Leporins efflux protein lepC	0.128	463	402	1	462	1	463	2.682E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q63344-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q63344-F1-model_v4 Monocarboxylate transporter 2	0.139	483	377	1	483	4	442	5.010E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8NU03-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8NU03-F1-model_v4 MFS-type transporter lnaF	0.114	482	401	1	482	32	485	8.007E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9MZD1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9MZD1-F1-model_v4 Sialin	0.132	462	399	1	462	17	477	4.634E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O80905-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O80905-F1-model_v4 Solute carrier family 40 member 1	0.104	501	426	14	490	23	523	2.206E-06	258
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L9V0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L9V0-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	450	394	21	470	10	458	8.326E-06	257
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94422-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94422-F1-model_v4 Uncharacterized MFS-type transporter YcnB	0.140	474	402	1	474	1	468	3.015E-06	257
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P26176-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P26176-F1-model_v4 Uncharacterized protein in puhA-bchM intergenic region	0.141	452	372	21	472	31	464	1.814E-06	257
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4HNS1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4HNS1-F1-model_v4 Facilitated trehalose transporter Tret1-2 homolog	0.134	483	408	1	483	1	472	1.814E-06	257
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P52600-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P52600-F1-model_v4 Probable multidrug resistance protein EmrY	0.150	486	384	21	473	22	507	1.962E-06	257
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A1D8PN12-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A1D8PN12-F1-model_v4 Glycerophosphodiester transporter GIT2	0.125	470	402	21	490	57	516	6.586E-06	257
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q57R33-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q57R33-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.117	451	327	21	471	6	376	1.053E-05	256
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7MR37-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7MR37-F1-model_v4 Lysophospholipid transporter LplT	0.107	453	349	12	464	2	393	1.556E-05	256
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2TYA6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2TYA6-F1-model_v4 Putative multidrug resistance protein MdtD	0.126	450	392	21	470	10	458	5.418E-06	256
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SB41-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SB41-F1-model_v4 Putative glycerol-3-phosphate transporter 2	0.145	444	373	21	464	36	472	3.390E-06	256
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0DPR7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0DPR7-F1-model_v4 Colistin resistance protein EmrB	0.113	490	395	21	466	18	507	2.788E-06	256
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-V6F4W4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-V6F4W4-F1-model_v4 Magnetosome protein MamZ	0.122	444	355	16	459	19	423	2.040E-06	256
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FN15-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FN15-F1-model_v4 Multidrug resistance protein MdtL	0.151	465	331	25	489	3	393	2.900E-06	255
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5R8G5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5R8G5-F1-model_v4 Major facilitator superfamily domain-containing protein 1	0.125	461	367	22	482	45	464	2.900E-06	255
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q323D8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q323D8-F1-model_v4 Putative multidrug resistance protein MdtD	0.126	450	392	21	470	10	458	4.456E-06	255
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5YUD5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5YUD5-F1-model_v4 Putative multidrug resistance protein MdtD	0.120	450	394	21	470	10	458	5.418E-06	255
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P3V5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P3V5-F1-model_v4 Uncharacterized transporter C1348.05	0.144	452	377	21	472	43	483	1.050E-06	255
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2UPC1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2UPC1-F1-model_v4 MFS efflux transporter aclA	0.105	512	419	1	469	4	515	4.121E-06	255
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UMH7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UMH7-F1-model_v4 Multidrug resistance protein MdtL	0.153	446	315	21	466	3	375	7.700E-06	254
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1R9Z4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1R9Z4-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	450	394	21	470	10	458	9.734E-06	254
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4FV52-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4FV52-F1-model_v4 Vesicular glutamate transporter 1	0.128	470	400	21	490	61	520	4.818E-06	254
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5PGH4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5PGH4-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.120	451	326	21	471	6	377	7.405E-06	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3YWK3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3YWK3-F1-model_v4 Multidrug resistance protein MdtL	0.157	442	314	25	466	3	375	5.010E-06	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q57HZ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q57HZ5-F1-model_v4 Multidrug resistance protein MdtL	0.157	446	315	21	466	3	377	2.682E-06	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4WE10-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4WE10-F1-model_v4 Lysophospholipid transporter LplT	0.111	444	334	21	464	19	395	1.819E-05	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4ZY49-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4ZY49-F1-model_v4 Probable sugar efflux transporter	0.127	460	339	20	479	13	401	1.012E-05	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2SWM2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2SWM2-F1-model_v4 Protein spinster homolog 2	0.130	467	388	22	488	57	503	8.637E-07	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8N468-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8N468-F1-model_v4 Major facilitator superfamily domain-containing protein 4A	0.118	492	414	21	490	16	507	7.387E-07	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74923-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74923-F1-model_v4 Uncharacterized transporter C757.13	0.107	448	358	20	467	77	478	4.456E-06	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q04301-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q04301-F1-model_v4 Vacuolar basic amino acid transporter 1	0.125	560	421	1	482	1	560	1.492E-06	253
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZYY8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZYY8-F1-model_v4 Multidrug resistance protein MdtL	0.157	442	314	25	466	3	375	5.418E-06	252
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O51798-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O51798-F1-model_v4 Probable 4-methylmuconolactone transporter	0.138	470	353	21	490	12	422	6.334E-06	252
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FKV1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FKV1-F1-model_v4 Probable anion transporter 5	0.142	443	352	20	462	14	424	5.210E-06	252
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O35304-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O35304-F1-model_v4 Vesicular acetylcholine transporter	0.130	468	398	21	488	34	491	8.326E-06	252
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P2U7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P2U7-F1-model_v4 Vesicular glutamate transporter 1	0.124	470	402	21	490	61	520	8.007E-06	252
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7N4V3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7N4V3-F1-model_v4 Probable sugar efflux transporter	0.136	455	331	10	464	2	385	1.891E-05	251
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0SPB2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0SPB2-F1-model_v4 Putative metabolite transport protein YwtG	0.156	470	371	20	489	11	451	9.711E-07	251
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59698-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59698-F1-model_v4 Uncharacterized transporter C36.01c	0.144	445	364	21	465	141	566	5.418E-06	251
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZQD2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZQD2-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.119	451	326	21	471	6	376	1.231E-05	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q320K4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q320K4-F1-model_v4 Probable sugar efflux transporter	0.134	455	332	10	464	2	385	2.045E-05	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31122-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31122-F1-model_v4 Sugar efflux transporter	0.134	455	332	10	464	2	385	2.299E-05	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9DC37-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9DC37-F1-model_v4 Major facilitator superfamily domain-containing protein 1	0.136	459	359	21	479	44	460	3.390E-06	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P75366-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P75366-F1-model_v4 Uncharacterized protein MG294 homolog	0.137	478	399	6	483	2	464	4.286E-06	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8MKK4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8MKK4-F1-model_v4 Facilitated trehalose transporter Tret1-2 homolog	0.132	487	418	2	488	1	482	1.092E-06	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9XIH7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9XIH7-F1-model_v4 Putative polyol transporter 1	0.126	489	420	1	482	2	490	2.788E-06	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AEJ1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AEJ1-F1-model_v4 Multidrug export protein EmrB	0.129	488	392	21	471	14	501	7.122E-06	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8GSD9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8GSD9-F1-model_v4 Inorganic phosphate transporter 1-2	0.107	506	410	20	479	22	527	7.122E-06	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3TXX4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3TXX4-F1-model_v4 Vesicular glutamate transporter 1	0.125	470	402	21	490	61	520	9.734E-06	250
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5F150-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5F150-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.124	452	326	19	470	4	376	8.007E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0PXT4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C0PXT4-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.120	453	327	19	471	4	376	1.138E-05	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P33449-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P33449-F1-model_v4 Multidrug resistance protein 1	0.115	454	336	23	476	8	388	1.439E-05	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31436-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31436-F1-model_v4 Sugar efflux transporter C	0.134	449	329	21	469	14	394	1.439E-05	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FUB8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FUB8-F1-model_v4 Lysophospholipid transporter LplT	0.118	456	347	9	464	2	395	2.688E-05	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P07661-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P07661-F1-model_v4 Citrate-proton symporter	0.135	448	351	20	467	11	417	7.700E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76350-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76350-F1-model_v4 Shikimate transporter	0.144	437	349	21	457	22	430	9.362E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5AUY2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5AUY2-F1-model_v4 MFS-type transporter dbaD	0.121	454	355	9	462	39	443	2.045E-05	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H3U5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H3U5-F1-model_v4 Major facilitator superfamily domain-containing protein 1	0.126	461	366	22	482	45	464	4.286E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7ME89-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7ME89-F1-model_v4 Putative multidrug resistance protein MdtD	0.122	450	393	21	470	10	458	5.858E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B6HYS2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B6HYS2-F1-model_v4 Putative multidrug resistance protein MdtD	0.128	450	391	21	470	10	458	6.091E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5Z922-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5Z922-F1-model_v4 Solute carrier family 40 member 1	0.112	474	416	13	482	6	479	1.814E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BGC3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BGC3-F1-model_v4 Monocarboxylate transporter 12	0.119	463	374	17	479	13	438	2.294E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5A6K2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5A6K2-F1-model_v4 Autophagy-related protein 22	0.111	463	402	21	483	47	499	5.418E-06	249
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7FJX9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7FJX9-F1-model_v4 Uncharacterized MFS-type transporter YpsIP31758_2592	0.136	453	323	21	473	6	380	5.647E-05	248
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0SYP9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0SYP9-F1-model_v4 Multidrug resistance protein MdtL	0.157	442	314	25	466	3	375	6.849E-06	248
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5PKV6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5PKV6-F1-model_v4 Multidrug resistance protein MdtL	0.139	466	338	25	490	3	395	8.007E-06	248
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FHE6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FHE6-F1-model_v4 Probable sugar efflux transporter	0.130	455	333	10	464	2	385	2.907E-05	248
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1JKW8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1JKW8-F1-model_v4 Putative multidrug resistance protein MdtD	0.132	450	389	21	470	6	454	9.734E-06	248
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6UXD7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6UXD7-F1-model_v4 Solute carrier family 49 member A3	0.139	469	375	22	490	31	467	5.858E-06	248
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q658H5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q658H5-F1-model_v4 SPX domain-containing membrane protein Os06g0129400	0.120	451	395	18	468	246	695	6.586E-06	248
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2VKI2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2VKI2-F1-model_v4 Probable sugar efflux transporter	0.131	443	322	22	464	14	385	3.821E-05	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1XEB5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1XEB5-F1-model_v4 Probable sugar efflux transporter	0.134	453	331	21	473	13	395	3.268E-05	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37498-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37498-F1-model_v4 Uncharacterized MFS-type transporter YybF	0.146	459	337	17	475	6	401	2.294E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P95656-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P95656-F1-model_v4 Protein PucC	0.142	400	323	21	420	35	412	2.900E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1ACT2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1ACT2-F1-model_v4 Putative multidrug resistance protein MdtD	0.124	450	392	21	470	10	458	7.700E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZNQ0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZNQ0-F1-model_v4 Putative multidrug resistance protein MdtD	0.126	450	392	21	470	10	458	7.122E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P45598-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P45598-F1-model_v4 Arabinose-proton symporter	0.131	439	366	21	459	21	442	3.812E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6BN11-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6BN11-F1-model_v4 Probable transporter MCH1	0.120	446	388	21	462	28	473	4.286E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C6DTH3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C6DTH3-F1-model_v4 Probable triacylglyceride transporter TBMG_02570	0.142	491	385	21	470	4	494	3.135E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R070-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R070-F1-model_v4 Glucose-6-phosphate exchanger SLC37A1	0.112	498	416	21	490	27	524	5.633E-06	247
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31675-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31675-F1-model_v4 Sugar efflux transporter A	0.119	448	333	22	469	14	392	2.126E-05	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2YIJ8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2YIJ8-F1-model_v4 Glucose/galactose transporter	0.126	460	357	1	460	2	410	9.003E-06	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q86WB7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q86WB7-F1-model_v4 Protein unc-93 homolog A	0.118	461	381	22	482	4	436	3.963E-06	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4ZYQ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4ZYQ5-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 7	0.138	474	404	21	490	25	498	3.812E-06	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q16572-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q16572-F1-model_v4 Vesicular acetylcholine transporter	0.124	465	398	21	485	34	488	9.734E-06	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25297-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25297-F1-model_v4 Inorganic phosphate transporter PHO84	0.135	522	407	18	489	58	579	4.286E-06	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7TSF2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7TSF2-F1-model_v4 Vesicular glutamate transporter 3	0.128	468	388	21	488	81	526	3.666E-06	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2W8K5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2W8K5-F1-model_v4 Magnetosome protein MamZ	0.143	449	347	17	465	16	421	9.003E-06	246
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9MJT5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9MJT5-F1-model_v4 Multidrug resistance protein MdtL	0.151	464	328	21	484	7	393	5.633E-06	245
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZLY4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZLY4-F1-model_v4 Probable sugar efflux transporter	0.134	455	332	10	464	2	385	2.795E-05	245
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8GII5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8GII5-F1-model_v4 Lysophospholipid transporter LplT	0.125	445	341	9	453	2	392	1.967E-05	245
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AE25-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AE25-F1-model_v4 Arabinose-proton symporter	0.126	459	385	1	459	1	442	8.007E-06	245
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03263-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03263-F1-model_v4 Uncharacterized transporter YMR279C	0.126	500	424	1	486	40	539	8.658E-06	245
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6INC8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6INC8-F1-model_v4 Vesicular glutamate transporter 1	0.120	467	397	21	487	61	512	1.094E-05	245
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MUT7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MUT7-F1-model_v4 Probable sugar efflux transporter	0.132	455	332	10	464	2	385	2.907E-05	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O07563-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O07563-F1-model_v4 Glucose/mannose transporter GlcP	0.125	461	346	21	481	5	400	1.012E-05	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q83QZ0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q83QZ0-F1-model_v4 Putative multidrug resistance protein MdtD	0.126	450	392	21	470	10	458	1.183E-05	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4QBN3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4QBN3-F1-model_v4 Facilitated trehalose transporter Tret1-2 homolog	0.131	482	409	2	483	1	472	2.294E-06	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6AWX0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6AWX0-F1-model_v4 D-xylose-proton symporter-like 2	0.141	479	408	1	479	25	500	4.456E-06	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C8V3Y8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C8V3Y8-F1-model_v4 MFS efflux pump atnC	0.131	451	379	21	471	59	495	2.206E-06	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P34698-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P34698-F1-model_v4 Uncharacterized MFS-type transporter SACE_5813	0.117	473	403	21	477	26	498	6.849E-06	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6ZSM3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6ZSM3-F1-model_v4 Monocarboxylate transporter 12	0.123	472	381	19	490	45	479	2.579E-06	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O01735-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O01735-F1-model_v4 Uncharacterized MFS-type transporter C09D4.1	0.129	479	378	11	489	138	572	8.637E-07	244
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J6-F1-model_v4 Quinolone resistance protein NorA	0.146	441	318	21	461	3	375	9.362E-06	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L855-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L855-F1-model_v4 Multidrug resistance protein MdtL	0.154	447	319	25	471	3	380	1.053E-05	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZWU5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZWU5-F1-model_v4 Probable sugar efflux transporter	0.134	455	332	10	464	2	385	3.143E-05	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C105-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C105-F1-model_v4 Glucose/galactose transporter	0.137	459	351	2	460	3	410	1.384E-05	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q710D3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q710D3-F1-model_v4 Protein unc-93 homolog A	0.125	461	379	22	482	4	437	2.040E-06	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8AEE4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8AEE4-F1-model_v4 Putative multidrug resistance protein MdtD	0.126	450	392	21	470	10	458	9.362E-06	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LHQ6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LHQ6-F1-model_v4 Organic cation/carnitine transporter 4	0.123	469	405	21	483	55	523	2.579E-06	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62666-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62666-F1-model_v4 Vesicular acetylcholine transporter	0.123	469	406	21	489	34	497	7.700E-06	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY4-F1-model_v4 Uncharacterized MFS-type transporter EfpA	0.106	494	430	1	482	30	523	1.231E-05	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59738-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59738-F1-model_v4 Uncharacterized transporter C530.02	0.136	460	374	21	480	104	537	1.231E-05	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P13090-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P13090-F1-model_v4 Aminotriazole resistance protein	0.098	477	415	1	461	46	522	1.094E-05	243
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BBQ8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BBQ8-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.125	451	324	21	471	6	376	1.439E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58529-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58529-F1-model_v4 Probable sugar efflux transporter	0.130	455	333	10	464	2	385	4.296E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7URQ4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7URQ4-F1-model_v4 Probable sugar efflux transporter	0.131	464	342	10	473	2	395	3.674E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6TDH1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6TDH1-F1-model_v4 Lysophospholipid transporter LplT	0.137	456	337	9	464	2	393	1.967E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0K843-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0K843-F1-model_v4 Probable sulfoacetate transporter SauU	0.121	452	357	21	472	14	420	1.231E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LV41-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LV41-F1-model_v4 Putative multidrug resistance protein MdtD	0.132	451	388	21	471	10	457	1.053E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3Z0C7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3Z0C7-F1-model_v4 Putative multidrug resistance protein MdtD	0.124	450	392	21	470	10	458	1.053E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A4Q4NJ90-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A4Q4NJ90-F1-model_v4 MFS-type transporter MFS19	0.145	459	374	18	476	45	483	7.405E-06	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-F4KIL8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-F4KIL8-F1-model_v4 Probable folate-biopterin transporter 5	0.123	463	384	20	482	43	481	2.900E-06	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SQN2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SQN2-F1-model_v4 Probable folate-biopterin transporter 3	0.130	460	379	28	487	48	484	3.015E-06	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2CER7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2CER7-F1-model_v4 Protein spinster homolog 3	0.138	470	384	21	490	51	496	4.121E-06	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25621-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25621-F1-model_v4 Pantothenate transporter FEN2	0.118	468	400	23	490	37	491	2.294E-06	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-F1R0H0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-F1R0H0-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 10	0.125	473	404	21	483	9	481	7.405E-06	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WGS5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WGS5-F1-model_v4 Siderophore iron transporter 1	0.123	532	405	17	479	45	576	1.331E-05	242
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZKY1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZKY1-F1-model_v4 Multidrug resistance protein MdtL	0.145	465	333	25	489	3	393	1.012E-05	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BIM0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BIM0-F1-model_v4 Multidrug resistance protein MdtL	0.149	465	332	25	489	3	393	8.326E-06	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A081-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8A081-F1-model_v4 Probable sugar efflux transporter	0.134	455	332	10	464	2	385	3.534E-05	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1ABA7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1ABA7-F1-model_v4 Probable sugar efflux transporter	0.132	455	332	10	464	2	385	3.821E-05	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AE24-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AE24-F1-model_v4 Arabinose-proton symporter	0.129	464	390	21	484	21	469	8.326E-06	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03567-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03567-F1-model_v4 Uncharacterized transporter slc-17.2	0.124	453	395	21	473	18	469	6.334E-06	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2V4B9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2V4B9-F1-model_v4 Probable plastidic glucose transporter 3	0.132	462	377	21	482	58	492	4.818E-06	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5FV41-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5FV41-F1-model_v4 Probable folate-biopterin transporter 2	0.131	489	421	4	488	2	490	2.206E-06	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5TF39-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5TF39-F1-model_v4 Sodium-dependent glucose transporter 1	0.109	458	373	26	483	2	421	3.963E-06	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BFU8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BFU8-F1-model_v4 Vesicular glutamate transporter 3	0.126	470	404	21	490	94	556	3.525E-06	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0P5V9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0P5V9-F1-model_v4 Solute carrier family 45 member 4	0.096	703	423	2	470	32	734	3.674E-05	241
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4TN28-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A4TN28-F1-model_v4 Uncharacterized MFS-type transporter YPDSF_2315	0.132	451	321	21	471	6	376	3.973E-05	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34663-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34663-F1-model_v4 Uncharacterized MFS-type transporter YbcL	0.118	457	336	21	477	7	388	1.183E-05	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L8K7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L8K7-F1-model_v4 Probable sugar efflux transporter	0.134	455	332	10	464	2	385	3.821E-05	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MMZ1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MMZ1-F1-model_v4 Probable sugar efflux transporter	0.132	455	332	10	464	2	385	3.973E-05	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A3NYL8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A3NYL8-F1-model_v4 Uncharacterized MFS-type transporter BURPS1106A_3201	0.161	436	311	22	457	21	392	4.634E-06	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AA78-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AA78-F1-model_v4 Hexuronate transporter	0.139	464	356	21	484	14	427	1.678E-06	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A2G4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A2G4-F1-model_v4 Citrate-proton symporter	0.141	476	363	14	489	8	431	1.231E-05	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A2G3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A2G3-F1-model_v4 Citrate-proton symporter	0.147	456	353	12	467	6	420	2.126E-05	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42205-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42205-F1-model_v4 Probable glucarate transporter	0.133	448	356	22	469	16	427	1.556E-05	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1KIJ9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1KIJ9-F1-model_v4 Probable triacylglyceride transporter BCG_1471c	0.137	491	387	21	470	4	494	5.010E-06	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7U042-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7U042-F1-model_v4 Probable triacylglyceride transporter Mb1445c	0.136	495	391	21	473	4	498	5.210E-06	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9UPI3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9UPI3-F1-model_v4 Feline leukemia virus subgroup C receptor-related protein 2	0.145	469	369	22	490	90	522	5.844E-07	240
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LYK2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LYK2-F1-model_v4 High affinity nitrate transporter 2.7	0.137	458	380	1	458	4	444	2.121E-06	239
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9ZSY3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9ZSY3-F1-model_v4 Facilitated trehalose transporter Tret1	0.133	488	420	1	488	20	504	3.963E-06	239
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C1AN55-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C1AN55-F1-model_v4 Probable triacylglyceride transporter JTY_1446	0.137	488	385	21	467	4	491	5.858E-06	239
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59833-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O59833-F1-model_v4 Uncharacterized transporter C965.13	0.135	468	384	21	488	90	534	9.003E-06	239
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A140JWS3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A140JWS3-F1-model_v4 MFS-type transporter ptmT	0.127	500	406	2	467	33	532	1.053E-05	239
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4TD28-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4TD28-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.123	453	326	19	471	4	376	1.384E-05	238
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AEX3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AEX3-F1-model_v4 Alpha-ketoglutarate permease	0.140	447	360	12	458	3	422	7.405E-06	238
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11551-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11551-F1-model_v4 L-fucose-proton symporter	0.133	452	357	20	471	25	437	1.496E-05	238
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q00538-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q00538-F1-model_v4 Methylenomycin A resistance protein	0.140	451	381	21	471	17	460	6.849E-06	238
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MWZ0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MWZ0-F1-model_v4 Putative multidrug resistance protein MdtD	0.132	450	389	21	470	10	458	1.183E-05	238
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RBN9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RBN9-F1-model_v4 Probable sugar efflux transporter	0.132	455	332	10	464	2	385	4.645E-05	237
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-S0ECK8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-S0ECK8-F1-model_v4 Fujikurins efflux protein FFUJ_12242	0.132	442	328	21	462	74	452	1.138E-05	237
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36032-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36032-F1-model_v4 Probable transporter MCH2	0.137	457	362	21	477	43	462	7.405E-06	237
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q91514-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q91514-F1-model_v4 Vesicular acetylcholine transporter	0.108	470	408	21	490	37	494	1.682E-05	237
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2X8A7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2X8A7-F1-model_v4 SPX domain-containing membrane protein OsI_08463	0.110	457	405	12	467	237	693	6.091E-06	237
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AA79-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AA79-F1-model_v4 Hexuronate transporter	0.131	466	362	21	486	14	430	2.206E-06	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q503M4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q503M4-F1-model_v4 Monocarboxylate transporter 12-B	0.136	489	391	1	489	1	453	5.210E-06	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6CPY8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6CPY8-F1-model_v4 Probable transporter MCH1	0.106	467	406	17	483	21	475	3.525E-06	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2U0J8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2U0J8-F1-model_v4 MFS-type transporter hepF	0.131	466	382	18	483	38	478	1.819E-05	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03064-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q03064-F1-model_v4 Monocarboxylate transporter 1	0.133	465	386	22	486	21	466	7.700E-06	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08280-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08280-F1-model_v4 Bypass of stop codon protein 6	0.113	454	366	21	474	83	496	1.138E-05	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O94572-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O94572-F1-model_v4 Uncharacterized transporter C1773.15	0.129	448	352	20	467	52	456	5.210E-06	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG88-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG88-F1-model_v4 Multidrug resistance protein B homolog	0.111	498	417	21	490	43	540	1.331E-05	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07824-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07824-F1-model_v4 Polyamine transporter 1	0.126	462	383	18	479	140	578	2.045E-05	236
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FQ40-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5FQ40-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.117	453	329	19	471	4	377	3.143E-05	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P09836-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P09836-F1-model_v4 Membrane sensor protein UhpC	0.137	444	343	21	464	34	432	1.819E-05	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2VE54-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2VE54-F1-model_v4 Protein unc-93 homolog A	0.139	472	387	19	490	1	450	5.858E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11545-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11545-F1-model_v4 Methylenomycin A resistance protein	0.118	445	387	15	459	19	458	7.122E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q28FF3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q28FF3-F1-model_v4 Solute carrier family 49 member A3	0.154	462	361	22	483	46	473	1.384E-05	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0CU11-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0CU11-F1-model_v4 Uncharacterized transporter SPBPB2B2.16c	0.139	452	379	21	472	43	483	4.818E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P28568-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P28568-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.111	468	412	21	488	15	479	6.334E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10097-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10097-F1-model_v4 Uncharacterized transporter C11D3.18C	0.110	447	354	21	467	65	463	5.633E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9ZSY2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9ZSY2-F1-model_v4 Facilitated trehalose transporter Tret1	0.127	487	409	1	487	20	488	1.231E-05	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5LGM7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5LGM7-F1-model_v4 Facilitated trehalose transporter Tret1	0.145	479	398	11	489	27	493	3.135E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9XIH6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9XIH6-F1-model_v4 Putative polyol transporter 2	0.141	489	413	1	482	2	490	9.734E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5WM93-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5WM93-F1-model_v4 Probable triacylglyceride transporter TBFG_11439	0.137	491	387	21	470	4	494	7.405E-06	235
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5R8I5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5R8I5-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.115	451	327	21	471	6	376	2.795E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34929-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O34929-F1-model_v4 Uncharacterized MFS-type transporter YfkF	0.140	453	324	20	472	7	384	2.211E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0T4K1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0T4K1-F1-model_v4 Probable sugar efflux transporter	0.137	444	321	21	464	13	385	5.223E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2U167-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2U167-F1-model_v4 Probable sugar efflux transporter	0.134	455	332	10	464	2	385	5.872E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96709-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96709-F1-model_v4 Uncharacterized MFS-type transporter YdgK	0.149	450	324	20	469	15	396	2.480E-06	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P08194-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P08194-F1-model_v4 Glycerol-3-phosphate transporter	0.133	463	364	20	482	31	451	6.091E-06	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53986-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53986-F1-model_v4 Monocarboxylate transporter 1	0.133	462	377	22	483	21	456	1.094E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FDU9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FDU9-F1-model_v4 Sialic acid transporter NanT 2	0.129	479	405	1	479	8	473	5.858E-06	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8L6Z8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8L6Z8-F1-model_v4 D-xylose-proton symporter-like 1	0.132	479	414	1	479	23	500	7.405E-06	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7RVX9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7RVX9-F1-model_v4 Repressible high-affinity phosphate permease	0.115	503	414	15	483	40	542	3.398E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5W8I7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5W8I7-F1-model_v4 Vesicular glutamate transporter 2.2	0.129	467	395	21	487	69	523	1.183E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92341-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92341-F1-model_v4 Siderophore iron transporter 3	0.100	543	423	20	490	85	627	2.211E-05	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0JAW2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0JAW2-F1-model_v4 SPX domain-containing membrane protein Os04g0573000	0.123	450	392	18	467	245	692	8.658E-06	234
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39352-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39352-F1-model_v4 Putative metabolite transport protein YjhB	0.162	459	323	21	479	15	400	2.045E-05	233
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53988-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53988-F1-model_v4 Monocarboxylate transporter 2	0.123	473	384	11	483	3	441	1.682E-05	233
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08C75-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08C75-F1-model_v4 Probable vesicular acetylcholine transporter-A	0.120	464	371	21	484	40	462	1.749E-05	233
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8W0H5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8W0H5-F1-model_v4 Probable anion transporter 3, chloroplastic	0.146	442	347	21	462	101	507	9.362E-06	233
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y7Q9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y7Q9-F1-model_v4 Probable metabolite transporter C2H8.02	0.130	572	425	1	489	1	572	7.122E-06	233
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4TRS9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4TRS9-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.114	451	329	21	471	6	377	3.268E-05	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NIN3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NIN3-F1-model_v4 Probable sugar efflux transporter	0.136	454	331	20	473	12	395	4.830E-05	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P44699-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P44699-F1-model_v4 Putative metabolite transport protein HI_0418	0.123	461	380	6	466	5	438	5.872E-05	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P70786-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P70786-F1-model_v4 Putative tartrate transporter	0.132	452	352	20	471	37	442	6.849E-06	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94JG1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94JG1-F1-model_v4 High-affinity nitrate transporter 2.3	0.143	463	367	21	483	50	478	5.010E-06	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG91-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG91-F1-model_v4 Multidrug resistance protein Stp	0.118	505	415	19	489	2	506	6.586E-06	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10046-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10046-F1-model_v4 Potential vesicular glutamate transporter vglu-3	0.150	469	394	14	482	36	500	4.121E-06	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NP59-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NP59-F1-model_v4 Solute carrier family 40 member 1	0.114	541	409	20	482	26	566	3.260E-06	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P07921-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P07921-F1-model_v4 Lactose permease	0.127	479	403	21	483	75	553	1.331E-05	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2V4F9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2V4F9-F1-model_v4 SPX domain-containing membrane protein At1g63010	0.120	452	396	16	467	243	693	1.138E-05	232
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31679-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31679-F1-model_v4 Putative metabolite transport protein YaaU	0.138	442	349	18	459	12	417	1.384E-05	231
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3MHW6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3MHW6-F1-model_v4 Monocarboxylate transporter 1	0.120	465	388	19	483	16	457	1.053E-05	231
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07904-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07904-F1-model_v4 Thiamine pathway transporter THI73	0.130	445	343	22	466	89	483	9.003E-06	231
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5A1L6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5A1L6-F1-model_v4 Major glycerophosphoinositol permease GIT3	0.141	463	379	23	485	57	498	1.384E-05	231
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG89-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG89-F1-model_v4 Multidrug resistance protein B homolog	0.113	491	415	21	489	43	533	2.126E-05	231
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5RB09-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5RB09-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 9	0.137	483	412	12	489	46	528	5.210E-06	231
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HHX4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5HHX4-F1-model_v4 Quinolone resistance protein NorA	0.138	441	321	21	461	3	375	2.585E-05	230
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J7-F1-model_v4 Quinolone resistance protein NorA	0.140	441	320	21	461	3	375	1.891E-05	230
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A0J5-F1-model_v4 Quinolone resistance protein NorA	0.150	441	316	21	461	3	375	2.126E-05	230
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8H6G7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8H6G7-F1-model_v4 Probable inorganic phosphate transporter 1-9	0.103	514	416	20	484	21	534	1.331E-05	230
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6C8F0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6C8F0-F1-model_v4 Citrate exporter 1	0.125	541	421	1	482	35	575	1.384E-05	230
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6EPQ3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6EPQ3-F1-model_v4 SPX domain-containing membrane protein Os02g45520	0.112	455	402	14	468	241	694	1.331E-05	230
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93ZQ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93ZQ5-F1-model_v4 SPX domain-containing membrane protein At4g22990	0.120	451	395	18	468	247	696	1.384E-05	230
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77389-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77389-F1-model_v4 Inner membrane transport protein YdhP	0.131	470	334	21	490	5	389	3.821E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5XZP2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5XZP2-F1-model_v4 Multidrug resistance protein MdtL	0.141	460	333	25	484	3	391	1.967E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW7-F1-model_v4 Uncharacterized MFS-type transporter Rv2994	0.121	468	352	16	483	4	405	1.967E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW6-F1-model_v4 Uncharacterized MFS-type transporter MT3072	0.118	462	342	22	483	17	405	1.556E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2UAZ7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2UAZ7-F1-model_v4 MFS-type transporter ppsE	0.120	485	404	1	485	31	490	7.405E-06	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8GXR2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8GXR2-F1-model_v4 Probable polyol transporter 6	0.129	464	402	21	484	21	482	1.749E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53987-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53987-F1-model_v4 Monocarboxylate transporter 1	0.138	466	377	19	484	16	453	1.682E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O94491-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O94491-F1-model_v4 Uncharacterized transporter C417.10	0.128	463	363	21	483	68	484	5.633E-06	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B0WC46-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B0WC46-F1-model_v4 Facilitated trehalose transporter Tret1	0.130	481	405	9	489	40	506	8.658E-06	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VHD6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VHD6-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 10	0.120	496	400	21	476	11	506	1.138E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0D135-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0D135-F1-model_v4 Probable quinate permease	0.124	474	403	18	478	17	490	1.384E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8IVW8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8IVW8-F1-model_v4 Protein spinster homolog 2	0.138	468	383	21	488	104	548	5.210E-06	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62634-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62634-F1-model_v4 Vesicular glutamate transporter 1	0.127	470	395	21	490	68	520	1.819E-05	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q559K0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q559K0-F1-model_v4 Folate-like transporter DDB_G0272544	0.147	465	336	23	487	100	494	6.849E-06	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q17NV8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q17NV8-F1-model_v4 Facilitated trehalose transporter Tret1	0.130	463	385	21	483	347	789	8.007E-06	229
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4T132-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4T132-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.123	453	326	19	471	4	376	3.143E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GIU7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6GIU7-F1-model_v4 Quinolone resistance protein NorA	0.138	441	321	21	461	3	375	1.819E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94AA1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94AA1-F1-model_v4 UNC93-like protein 3	0.127	483	380	1	483	8	443	6.334E-06	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-D4A734-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-D4A734-F1-model_v4 Monocarboxylate transporter 12	0.122	487	394	1	487	1	450	7.700E-06	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53985-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P53985-F1-model_v4 Monocarboxylate transporter 1	0.117	462	385	22	483	21	457	1.618E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9US37-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9US37-F1-model_v4 Uncharacterized transporter C1039.04	0.125	484	409	1	484	35	502	9.003E-06	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25346-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25346-F1-model_v4 Glycerophosphoinositol transporter 1	0.138	482	405	1	482	2	472	3.821E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5U2B2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A5U2B2-F1-model_v4 Probable triacylglyceride transporter MRA_1419	0.136	491	388	21	470	4	494	1.280E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY2-F1-model_v4 Probable triacylglyceride transporter MT1454	0.138	491	387	21	470	4	494	1.556E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2YDU8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2YDU8-F1-model_v4 Protein spinster homolog 1	0.152	469	377	21	489	60	505	1.012E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JHI9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JHI9-F1-model_v4 Solute carrier family 40 member 1	0.115	537	406	20	479	26	562	5.858E-06	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P34644-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P34644-F1-model_v4 Probable vesicular glutamate transporter eat-4	0.112	488	428	1	488	38	520	1.682E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q05B21-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q05B21-F1-model_v4 Vesicular glutamate transporter 1	0.121	469	394	21	489	68	516	1.384E-05	228
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58352-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58352-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.103	462	406	21	482	14	467	1.891E-05	227
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WLI2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WLI2-F1-model_v4 Uncharacterized protein MT2265	0.107	449	358	9	457	5	406	2.486E-05	227
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5XGK0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5XGK0-F1-model_v4 Protein spinster homolog 1	0.136	470	383	21	490	61	504	7.122E-06	227
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VZ80-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VZ80-F1-model_v4 Polyol transporter 5	0.109	476	416	12	479	21	496	1.280E-05	227
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4GAP7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4GAP7-F1-model_v4 Facilitated trehalose transporter Tret1	0.113	469	397	21	489	410	858	1.012E-05	227
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9N7X0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9N7X0-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.118	453	328	19	471	4	376	3.268E-05	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94CI6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94CI6-F1-model_v4 Sugar transporter ERD6-like 18	0.119	463	381	21	483	37	470	2.211E-05	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8CA03-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8CA03-F1-model_v4 Thymic stromal cotransporter protein	0.125	477	411	7	483	8	478	3.812E-06	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O70451-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O70451-F1-model_v4 Monocarboxylate transporter 2	0.139	467	363	17	483	15	437	1.682E-05	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07376-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07376-F1-model_v4 Probable transporter MCH1	0.137	462	387	21	482	34	483	9.734E-06	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q55721-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q55721-F1-model_v4 Folate-biopterin transporter	0.140	468	365	21	488	34	458	6.091E-06	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RHU3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RHU3-F1-model_v4 ADP,ATP carrier protein 2	0.157	484	396	13	483	24	507	5.633E-06	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG90-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WG90-F1-model_v4 Multidrug resistance protein Stp	0.124	517	413	19	490	2	518	1.012E-05	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8AT51-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8AT51-F1-model_v4 SPX domain-containing membrane protein OsI_17046	0.138	450	385	18	467	245	692	8.326E-06	226
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5QYP8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5QYP8-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.125	453	326	19	471	4	377	4.131E-05	225
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96675-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96675-F1-model_v4 Uncharacterized MFS-type transporter YdeR	0.134	458	339	8	465	2	393	4.131E-05	225
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AGC2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AGC2-F1-model_v4 Hexose-6-phosphate:phosphate antiporter	0.139	462	363	22	483	31	453	1.496E-05	225
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q49411-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q49411-F1-model_v4 Uncharacterized protein MG294	0.146	482	395	2	483	1	463	1.496E-05	225
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M1I2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M1I2-F1-model_v4 Protein NRT1/ PTR FAMILY 5.4	0.132	539	397	19	476	15	553	5.210E-06	225
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42432-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P42432-F1-model_v4 Nitrate transporter	0.142	440	317	21	460	13	382	4.830E-05	224
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74901-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74901-F1-model_v4 Uncharacterized protein CC613.01	0.144	467	377	1	467	49	489	9.362E-06	224
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6PXP3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6PXP3-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 7	0.136	496	416	9	490	3	498	1.439E-05	224
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R0G7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R0G7-F1-model_v4 Protein spinster homolog 1	0.151	462	371	21	482	60	497	1.231E-05	224
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A1D8PN14-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A1D8PN14-F1-model_v4 Glycerophosphocholine permease GIT4	0.146	465	375	21	485	54	493	1.682E-05	224
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2QNK7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2QNK7-F1-model_v4 Solute carrier family 40 member 2, chloroplastic	0.124	479	418	8	486	112	589	7.405E-06	224
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7ZWG6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7ZWG6-F1-model_v4 Proton-coupled folate transporter	0.112	483	404	1	483	17	472	1.967E-05	223
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0R5K5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0R5K5-F1-model_v4 Multidrug efflux pump LfrA	0.137	503	413	1	479	1	503	9.003E-06	223
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31381-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31381-F1-model_v4 Nucleoside transporter FUN26	0.126	462	368	1	422	47	508	1.496E-05	223
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9JTG4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9JTG4-F1-model_v4 Major facilitator superfamily domain-containing protein 4B	0.118	471	407	21	482	16	486	6.091E-06	223
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2QQV6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2QQV6-F1-model_v4 Probable quinate permease	0.121	518	415	18	490	17	534	1.749E-05	223
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4LPX5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4LPX5-F1-model_v4 Facilitated trehalose transporter Tret1	0.112	469	400	21	489	449	900	1.280E-05	223
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6X7E7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6X7E7-F1-model_v4 Riboflavin transporter RfnT	0.146	451	329	21	471	9	394	2.299E-05	222
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39589-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39589-F1-model_v4 Uncharacterized transporter YwbF	0.103	470	353	21	490	5	398	6.602E-05	222
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77228-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77228-F1-model_v4 Putative transporter YdfJ	0.142	425	336	33	457	2	394	4.645E-05	222
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q53P54-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q53P54-F1-model_v4 Probable anion transporter 6	0.146	442	351	21	462	9	420	1.618E-05	222
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P27669-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P27669-F1-model_v4 Membrane sensor protein UhpC	0.132	446	347	21	466	34	434	3.674E-05	222
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q569T7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q569T7-F1-model_v4 Sodium-dependent glucose transporter 1	0.127	447	346	36	482	2	398	9.734E-06	222
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C8Z6M6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C8Z6M6-F1-model_v4 Alpha-glucosides permease MPH3	0.132	446	379	22	459	96	541	3.268E-05	222
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9I6Q3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9I6Q3-F1-model_v4 4-hydroxybenzoate transporter PcaK	0.114	439	366	21	459	30	443	2.795E-05	221
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A089FNE5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A089FNE5-F1-model_v4 MFS transporter prlL	0.122	467	378	21	487	60	490	7.122E-06	221
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9CCP7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9CCP7-F1-model_v4 Probable triacylglyceride transporter ML0556	0.116	491	397	21	470	6	496	2.299E-05	221
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AA80-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AA80-F1-model_v4 Probable galactarate transporter	0.150	469	369	1	469	2	436	1.819E-05	220
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q68WZ7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q68WZ7-F1-model_v4 ADP,ATP carrier protein 2	0.164	483	390	13	479	24	506	5.633E-06	220
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9D232-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9D232-F1-model_v4 Protein spinster homolog 3	0.130	489	403	1	489	24	487	1.384E-05	220
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7PIR5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7PIR5-F1-model_v4 Facilitated trehalose transporter Tret1	0.112	469	398	21	489	334	782	1.967E-05	220
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77589-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P77589-F1-model_v4 3-(3-hydroxy-phenyl)propionate transporter	0.118	444	329	21	464	19	392	1.186E-04	219
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P44610-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P44610-F1-model_v4 Putative metabolite transport protein HI_0281	0.162	464	365	12	475	2	437	4.296E-05	219
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P21906-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P21906-F1-model_v4 Glucose facilitated diffusion protein	0.150	463	391	21	481	10	472	1.496E-05	219
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6MYX6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6MYX6-F1-model_v4 Probable quinate permease	0.122	473	404	18	478	17	489	3.973E-05	219
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FM20-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FM20-F1-model_v4 Protein NRT1/ PTR FAMILY 4.7	0.108	528	404	19	472	59	586	4.456E-06	219
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2QWW7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2QWW7-F1-model_v4 Probable anion transporter 7	0.136	450	371	13	462	2	431	1.556E-05	218
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5NC32-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5NC32-F1-model_v4 Monocarboxylate transporter 11	0.117	455	355	17	471	9	411	9.758E-05	218
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96335-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P96335-F1-model_v4 Glycerol-3-phosphate transporter	0.107	466	404	21	486	26	478	6.091E-06	218
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47842-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47842-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.108	463	410	21	483	14	474	1.331E-05	218
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZDF2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZDF2-F1-model_v4 ADP,ATP carrier protein 2	0.152	484	396	12	479	23	506	1.231E-05	218
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6FTB1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6FTB1-F1-model_v4 Multidrug transporter TPO1_1	0.128	456	373	21	476	132	560	2.688E-05	218
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZUM0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZUM0-F1-model_v4 Protein TsgA	0.101	459	344	21	479	6	389	1.334E-04	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q89A23-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q89A23-F1-model_v4 Uncharacterized transporter bbp_532	0.137	449	329	21	469	22	403	3.398E-05	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q51955-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q51955-F1-model_v4 4-hydroxybenzoate transporter PcaK	0.132	444	353	21	464	30	437	7.719E-05	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SFG0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SFG0-F1-model_v4 Sugar transport protein 6	0.107	482	429	1	481	1	482	3.674E-05	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8WGF7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8WGF7-F1-model_v4 Protein spinster homolog 1	0.134	470	383	21	490	62	504	1.138E-05	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08DX7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q08DX7-F1-model_v4 Protein spinster homolog 1	0.146	470	383	21	490	57	505	1.618E-05	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66GI9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66GI9-F1-model_v4 Probable anion transporter 4, chloroplastic	0.142	442	347	21	462	117	521	1.819E-05	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2U2Y9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q2U2Y9-F1-model_v4 Probable quinate permease	0.113	498	412	18	483	17	514	2.907E-05	217
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37662-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37662-F1-model_v4 Uncharacterized MFS-type transporter YhjX	0.121	450	331	21	470	14	391	7.139E-05	216
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY1-F1-model_v4 Uncharacterized MFS-type transporter Rv0037c	0.111	469	383	1	469	6	437	1.618E-05	216
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9XIQ7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9XIQ7-F1-model_v4 Probable folate-biopterin transporter 7	0.135	479	379	1	479	2	440	3.268E-05	216
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K7-F1-model_v4 Tetracycline resistance protein	0.131	464	385	21	484	14	457	3.534E-05	216
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0IZQ3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0IZQ3-F1-model_v4 Probable anion transporter 5, chloroplastic	0.156	372	303	97	468	98	457	2.486E-05	216
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q04733-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q04733-F1-model_v4 Cephamycin export protein CmcT	0.125	470	403	21	490	25	486	2.795E-05	216
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6FV98-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6FV98-F1-model_v4 Multidrug transporter TPO1_2	0.133	456	371	21	476	142	570	2.795E-05	216
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4L523-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4L523-F1-model_v4 Proton-coupled antiporter flippase LtaA	0.138	455	335	11	465	2	391	4.131E-05	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q28722-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q28722-F1-model_v4 Sodium-dependent phosphate transport protein 1	0.122	455	391	8	462	3	448	1.749E-05	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47843-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47843-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.106	470	415	21	490	14	478	2.126E-05	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7ZU13-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7ZU13-F1-model_v4 Protein spinster homolog 1	0.151	451	368	21	471	49	482	6.586E-06	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4ULY0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4ULY0-F1-model_v4 ADP,ATP carrier protein 2	0.157	484	396	13	483	24	507	6.849E-06	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P14142-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P14142-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 4	0.132	467	400	21	487	28	489	5.431E-05	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4U3U4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4U3U4-F1-model_v4 Quinate permease	0.122	484	414	18	489	17	500	3.398E-05	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WC50-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WC50-F1-model_v4 Major facilitator superfamily transporter mfsA	0.112	498	415	20	487	19	516	8.326E-06	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q69T94-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q69T94-F1-model_v4 Probable inorganic phosphate transporter 1-10	0.105	510	420	21	490	22	531	1.496E-05	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JI12-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JI12-F1-model_v4 Vesicular glutamate transporter 2	0.124	448	371	21	468	76	499	1.967E-05	215
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P59269-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P59269-F1-model_v4 Protein TsgA	0.108	459	342	21	479	6	389	1.141E-04	214
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VXY7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VXY7-F1-model_v4 Equilibrative nucleotide transporter 1	0.132	402	334	21	422	63	448	8.679E-05	214
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07647-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q07647-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.118	463	400	21	483	14	468	2.585E-05	214
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8GDZ4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8GDZ4-F1-model_v4 Dipeptide and tripeptide permease A	0.135	503	416	1	482	1	503	1.280E-05	214
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW8-F1-model_v4 Drug efflux pump JefA	0.115	494	396	19	467	2	495	4.296E-05	214
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40474-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40474-F1-model_v4 Quinidine resistance protein 2	0.112	499	421	8	482	42	540	3.268E-05	214
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1D2R3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1D2R3-F1-model_v4 Probable quinate permease	0.123	521	414	18	490	17	537	2.045E-05	214
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z810-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8Z810-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.122	450	322	21	470	6	373	5.223E-05	213
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P23910-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P23910-F1-model_v4 Putative transporter AraJ	0.114	470	344	21	490	3	391	4.830E-05	213
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P27670-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P27670-F1-model_v4 Hexose-6-phosphate:phosphate antiporter	0.123	462	370	22	483	31	453	4.830E-05	213
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B0JZE1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B0JZE1-F1-model_v4 Protein spinster homolog 2	0.136	479	389	1	479	41	491	9.362E-06	213
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11636-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11636-F1-model_v4 Quinate permease	0.126	484	412	18	489	17	500	3.821E-05	213
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q31VS4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q31VS4-F1-model_v4 Protein TsgA	0.114	459	339	21	479	6	389	9.384E-05	212
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P60779-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P60779-F1-model_v4 Protein TsgA	0.110	459	341	21	479	6	389	1.442E-04	212
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q44470-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q44470-F1-model_v4 Putative tartrate transporter	0.121	452	360	20	471	20	429	1.618E-05	212
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0JCR9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0JCR9-F1-model_v4 Sugar transport protein MST1	0.104	475	418	19	486	23	497	1.618E-05	212
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SRI2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SRI2-F1-model_v4 Protein NRT1/ PTR FAMILY 5.9	0.143	557	400	12	479	4	560	4.634E-06	212
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JIF3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JIF3-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 8	0.140	483	406	1	483	5	477	4.467E-05	211
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q67YF8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q67YF8-F1-model_v4 Sucrose transport protein SUC7	0.114	461	395	22	468	31	491	3.534E-05	211
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O62787-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O62787-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.112	469	406	21	489	14	471	4.645E-05	211
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5R608-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5R608-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.117	473	414	21	490	14	486	1.819E-05	211
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P64954-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P64954-F1-model_v4 Uncharacterized protein Mb2232	0.114	450	356	8	457	4	406	2.486E-05	211
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q851G4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q851G4-F1-model_v4 Sugar transport protein MST2	0.120	475	405	20	480	24	498	2.585E-05	211
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74713-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74713-F1-model_v4 High-affinity glucose transporter	0.110	466	412	21	484	33	498	2.907E-05	211
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0P5M9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0P5M9-F1-model_v4 Major facilitator superfamily domain-containing protein 10	0.117	466	389	1	466	6	446	1.186E-04	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5SZA1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5SZA1-F1-model_v4 Sodium-dependent phosphate transport protein 3	0.126	460	398	7	462	2	461	1.384E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92I98-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92I98-F1-model_v4 ADP,ATP carrier protein 2	0.142	486	400	13	479	21	506	2.211E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LSF0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LSF0-F1-model_v4 Protein NRT1/ PTR FAMILY 4.1	0.132	490	386	19	464	24	513	1.012E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q06221-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q06221-F1-model_v4 Glucose transporter 1B/1C/1D/1F/2B	0.124	513	427	1	489	11	523	3.398E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6Z401-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6Z401-F1-model_v4 Sugar transport protein MST6	0.131	491	407	21	489	25	515	1.891E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P15325-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P15325-F1-model_v4 Quinate permease	0.115	491	411	18	482	17	507	4.467E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-M9M5N8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-M9M5N8-F1-model_v4 MFS-type efflux pump MMF1	0.117	481	394	21	467	25	505	3.674E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O94342-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O94342-F1-model_v4 Probable metabolite transport protein C1271.09	0.153	459	353	21	479	76	493	5.647E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O14091-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O14091-F1-model_v4 General alpha-glucoside permease	0.105	522	401	11	459	24	545	8.679E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6QLI1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6QLI1-F1-model_v4 Vesicular glutamate transporter 2	0.107	470	412	21	490	76	537	1.749E-05	210
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31141-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P31141-F1-model_v4 Chloramphenicol resistance protein	0.122	453	338	19	471	2	387	5.872E-05	209
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7M1R7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7M1R7-F1-model_v4 Protein TsgA	0.114	459	339	21	479	6	389	1.186E-04	209
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32037-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P32037-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.102	466	413	21	486	14	474	4.830E-05	209
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJW9-F1-model_v4 Drug efflux pump JefA	0.119	494	395	19	467	2	495	4.830E-05	209
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q923U9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q923U9-F1-model_v4 Solute carrier family 40 member 1	0.116	526	413	20	487	26	551	1.682E-05	209
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UMY7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UMY7-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.120	454	328	19	472	4	377	1.055E-04	208
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1LJW4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1LJW4-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.120	453	327	19	471	4	376	1.015E-04	208
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX8-F1-model_v4 Multidrug efflux pump Tap	0.117	470	356	20	489	10	413	1.500E-04	208
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C8VJW1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C8VJW1-F1-model_v4 Major facilitator-type transporter hxnP	0.109	483	407	1	483	14	471	2.795E-05	208
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R090-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R090-F1-model_v4 Chromaffin granule amine transporter	0.137	477	325	11	487	119	496	2.211E-05	208
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P3K8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P3K8-F1-model_v4 Probable transporter mch1	0.105	541	406	21	475	55	595	5.223E-05	208
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5R2C3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5R2C3-F1-model_v4 Protein TsgA	0.097	468	349	21	488	6	392	1.334E-04	207
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39398-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39398-F1-model_v4 Probable L-galactonate transporter	0.127	452	355	21	472	44	451	6.349E-05	207
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92HQ3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92HQ3-F1-model_v4 Putative transporter AmpG 1	0.152	446	348	19	464	3	413	1.896E-04	206
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94AF9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q94AF9-F1-model_v4 Sugar transporter ERD6-like 11	0.131	472	388	11	482	19	465	8.027E-05	206
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O60669-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O60669-F1-model_v4 Monocarboxylate transporter 2	0.126	470	380	17	486	14	449	9.758E-05	206
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LEV7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LEV7-F1-model_v4 Probable folate-biopterin transporter 6	0.098	456	388	19	474	54	484	4.131E-05	206
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H2V7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H2V7-F1-model_v4 Protein spinster homolog 1	0.152	469	375	21	489	62	504	2.907E-05	206
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q86VW1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q86VW1-F1-model_v4 Solute carrier family 22 member 16	0.104	436	366	48	483	141	549	4.645E-05	206
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q01334-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q01334-F1-model_v4 Uncharacterized 29.9 kDa protein in crtE 3'region	0.179	233	185	251	483	42	267	1.237E-03	205
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-G3XMC9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-G3XMC9-F1-model_v4 Efflux pump azaK	0.100	465	383	19	483	40	465	9.758E-05	205
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4U3U6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4U3U6-F1-model_v4 Quinate permease	0.123	491	407	18	482	17	507	6.349E-05	205
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3T9X0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3T9X0-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 9	0.112	488	429	7	490	22	509	3.674E-05	205
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6ZX88-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6ZX88-F1-model_v4 Alpha-glucosides permease MPH3	0.130	488	406	22	489	96	583	4.296E-05	205
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-G4N2A8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-G4N2A8-F1-model_v4 MFS-type transporter 1	0.085	538	422	9	470	78	615	1.015E-04	205
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NDX4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NDX4-F1-model_v4 Protein TsgA	0.108	459	342	21	479	6	389	2.397E-04	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1R5R8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1R5R8-F1-model_v4 Protein TsgA	0.112	459	340	21	479	6	389	1.559E-04	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NY64-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NY64-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 8	0.142	464	386	20	483	27	477	5.023E-05	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FRL3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FRL3-F1-model_v4 Sugar transporter ERD6-like 6	0.126	459	379	21	479	50	484	1.097E-04	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8TDB8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8TDB8-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 14	0.108	467	412	21	487	38	500	5.223E-05	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7RTT9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7RTT9-F1-model_v4 Equilibrative nucleoside transporter 4	0.127	452	364	21	438	72	523	4.645E-05	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B0XQS8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B0XQS8-F1-model_v4 Probable quinate permease	0.123	473	403	18	478	17	489	6.865E-05	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96290-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96290-F1-model_v4 Monosaccharide-sensing protein 1	0.088	724	427	22	490	7	730	2.397E-04	204
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0T8J4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0T8J4-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.124	453	326	19	471	4	376	1.387E-04	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1X712-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1X712-F1-model_v4 Protein TsgA	0.102	438	334	21	458	6	378	1.559E-04	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5NCM1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5NCM1-F1-model_v4 Probable small intestine urate exporter	0.136	442	376	21	462	40	475	1.280E-05	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-D0ZXQ3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-D0ZXQ3-F1-model_v4 Methyl viologen resistance protein SmvA	0.125	482	404	21	483	10	491	3.268E-05	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11169-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P11169-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 3	0.110	464	409	21	484	14	473	4.645E-05	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R139-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R139-F1-model_v4 Equilibrative nucleoside transporter 4	0.125	448	369	21	443	72	519	6.106E-05	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SKZ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SKZ5-F1-model_v4 Folate-biopterin transporter 1, chloroplastic	0.118	462	380	21	482	125	556	2.486E-05	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4KR05-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B4KR05-F1-model_v4 Facilitated trehalose transporter Tret1	0.125	469	392	21	489	404	852	3.821E-05	203
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5SPF7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5SPF7-F1-model_v4 Protein unc-93 homolog A	0.112	438	376	22	459	4	427	1.891E-05	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6PDF3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6PDF3-F1-model_v4 Putative transporter SVOPL	0.124	449	380	21	469	49	483	1.334E-04	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P43427-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P43427-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 5	0.122	463	402	21	483	19	477	5.431E-05	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7XJR2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7XJR2-F1-model_v4 Probable anion transporter 3, chloroplastic	0.146	449	354	14	462	90	505	1.015E-04	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1CPX0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1CPX0-F1-model_v4 Probable quinate permease	0.116	495	412	18	484	17	511	7.719E-05	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q90632-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q90632-F1-model_v4 Monocarboxylate transporter 3	0.117	459	388	1	459	1	440	8.347E-05	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25596-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25596-F1-model_v4 Glutathione exchanger 1	0.126	504	389	21	466	62	565	4.467E-05	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93380-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93380-F1-model_v4 Putative potassium channel regulatory protein unc-93	0.103	461	397	21	481	243	686	3.674E-05	202
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L4N9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7L4N9-F1-model_v4 Protein TsgA	0.123	459	336	21	479	6	389	1.500E-04	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0SZV2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0SZV2-F1-model_v4 Protein TsgA	0.117	459	338	21	479	6	389	1.823E-04	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZLK7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8ZLK7-F1-model_v4 Protein TsgA	0.104	468	346	21	488	6	392	1.283E-04	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-D0ZHC6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-D0ZHC6-F1-model_v4 Multidrug transporter MdfA	0.119	472	352	11	482	4	403	1.559E-04	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A5C2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A5C2-F1-model_v4 Uncharacterized MFS-type transporter Mb0038c	0.112	448	361	22	469	31	437	3.821E-05	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NLB7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NLB7-F1-model_v4 Gentisate transporter	0.132	472	358	11	482	22	435	1.500E-04	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1KKV8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1KKV8-F1-model_v4 Molybdate-anion transporter	0.113	475	385	12	486	32	466	3.821E-05	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LNV3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9LNV3-F1-model_v4 Sugar transport protein 2	0.118	461	405	20	479	24	484	1.186E-04	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P6J7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P6J7-F1-model_v4 Uncharacterized MFS-type transporter C1683.03c	0.109	471	414	20	490	49	514	4.830E-05	201
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZYK2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZYK2-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.121	453	328	19	471	4	377	1.823E-04	200
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1X838-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1X838-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.120	452	327	19	470	4	376	1.559E-04	200
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1AGP8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1AGP8-F1-model_v4 Protein TsgA	0.107	459	342	21	479	6	389	2.914E-04	200
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NMD3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NMD3-F1-model_v4 Protein TsgA	0.114	459	339	21	479	6	389	2.305E-04	200
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9WV38-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9WV38-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 5	0.125	482	421	7	488	2	483	2.907E-05	200
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7RTX9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7RTX9-F1-model_v4 Monocarboxylate transporter 14	0.127	498	420	1	482	8	505	5.872E-05	200
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O04249-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O04249-F1-model_v4 Sugar transport protein 7	0.146	463	394	21	483	29	490	2.211E-05	200
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZJW9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7ZJW9-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.117	451	328	21	471	6	377	1.559E-04	199
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5F8I5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5F8I5-F1-model_v4 Protein TsgA	0.097	468	349	21	488	6	392	2.305E-04	199
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-G5E8K6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-G5E8K6-F1-model_v4 Monocarboxylate transporter 6	0.115	469	381	22	490	19	449	1.234E-04	199
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10917-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q10917-F1-model_v4 Putative transporter B0252.3	0.125	462	382	21	482	43	479	2.126E-05	199
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZQ24-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-C4ZQ24-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.120	454	328	19	472	4	377	2.050E-04	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RDV7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RDV7-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.118	452	327	21	472	6	377	1.686E-04	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJX9-F1-model_v4 Multidrug efflux pump Tap	0.121	470	354	20	489	10	413	2.217E-04	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-I3R635-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-I3R635-F1-model_v4 Probable nitrate transporter	0.126	457	357	21	477	11	419	9.025E-05	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9BY10-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9BY10-F1-model_v4 Thymic stromal cotransporter homolog	0.105	471	417	1	471	2	468	4.467E-05	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O61369-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O61369-F1-model_v4 Putative inorganic phosphate cotransporter	0.125	470	404	21	490	2	464	5.023E-05	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9V7S5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9V7S5-F1-model_v4 Putative inorganic phosphate cotransporter	0.129	470	406	20	489	45	511	5.872E-05	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P15686-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P15686-F1-model_v4 H(+)/hexose cotransporter 1	0.139	491	399	20	483	26	516	9.384E-05	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NRM0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NRM0-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 9	0.134	471	406	21	490	58	528	2.688E-05	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1AT66-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1AT66-F1-model_v4 Monocarboxylate transporter 7	0.110	467	410	17	483	103	564	3.821E-05	198
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0TJF2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0TJF2-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.123	451	325	21	471	6	377	1.823E-04	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-E0T2N0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-E0T2N0-F1-model_v4 Multidrug transporter MdfA	0.119	472	352	11	482	4	403	1.097E-04	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WJY0-F1-model_v4 Uncharacterized MFS-type transporter MT0042	0.113	448	360	22	469	31	437	3.268E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q46916-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q46916-F1-model_v4 Probable glucarate transporter	0.142	471	382	1	471	1	446	2.050E-04	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K6-F1-model_v4 Tetracycline resistance protein	0.121	464	389	21	484	14	457	3.534E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74902-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74902-F1-model_v4 Uncharacterized MFS-type transporter C613.02	0.138	468	380	1	468	49	490	6.349E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q12519-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q12519-F1-model_v4 Uncharacterized MFS-type transporter C330.07c	0.139	447	349	21	467	87	492	2.299E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8NM75-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B8NM75-F1-model_v4 Efflux pump ustT	0.140	463	395	10	469	45	507	1.384E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q27115-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q27115-F1-model_v4 Glucose transporter HT1	0.110	493	420	1	473	11	503	8.027E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9I9R3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9I9R3-F1-model_v4 Solute carrier family 40 member 1	0.119	511	390	20	463	23	533	3.534E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5VF36-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5VF36-F1-model_v4 Alpha-glucosides permease MPH3	0.128	446	381	22	459	96	541	1.500E-04	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36173-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36173-F1-model_v4 Glutathione exchanger 2	0.128	504	388	21	466	62	565	6.602E-05	197
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3Z3M2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3Z3M2-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.115	451	328	21	471	6	377	2.592E-04	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q32E16-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q32E16-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.125	451	325	21	471	6	377	1.753E-04	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X4S4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X4S4-F1-model_v4 Protein TsgA	0.112	459	340	21	479	6	389	2.802E-04	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UK75-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7UK75-F1-model_v4 Protein TsgA	0.112	459	340	21	479	6	389	2.914E-04	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37594-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37594-F1-model_v4 Methyl viologen resistance protein SmvA	0.126	491	406	19	483	1	491	5.431E-05	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6ZMD2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6ZMD2-F1-model_v4 Protein spinster homolog 3	0.131	489	402	1	489	20	483	5.872E-05	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q39609-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q39609-F1-model_v4 Nitrate transporter 2.2	0.132	456	365	16	471	28	448	2.907E-05	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74849-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74849-F1-model_v4 High-affinity fructose transporter ght6	0.132	477	400	21	482	10	486	2.486E-05	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M1E2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M1E2-F1-model_v4 Protein NRT1/ PTR FAMILY 2.7	0.102	553	432	1	482	5	557	3.973E-05	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4IM48-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4IM48-F1-model_v4 Probable transporter MCH1	0.111	551	409	1	461	7	557	9.025E-05	196
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1LHG5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B1LHG5-F1-model_v4 Protein TsgA	0.112	459	340	21	479	6	389	3.030E-04	195
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3YWQ7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3YWQ7-F1-model_v4 Protein TsgA	0.116	459	339	21	479	6	389	2.695E-04	195
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62795-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q62795-F1-model_v4 Sodium-dependent phosphate transport protein 1	0.132	441	365	22	462	27	448	3.674E-05	195
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BP49-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B5BP49-F1-model_v4 Uncharacterized transporter C460.05	0.134	439	341	21	459	92	486	2.045E-05	195
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P21503-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P21503-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.123	452	325	21	472	6	377	1.896E-04	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q45632-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q45632-F1-model_v4 Maltose permease	0.135	450	330	15	464	4	385	1.823E-04	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P64784-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P64784-F1-model_v4 Multidrug efflux pump Tap	0.123	470	353	20	489	10	413	2.132E-04	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37514-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37514-F1-model_v4 Putative metabolite transport protein YyaJ	0.153	468	375	1	468	1	444	1.283E-04	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q90592-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q90592-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 2	0.108	493	410	20	480	22	514	1.055E-04	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6AYY8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6AYY8-F1-model_v4 Acetyl-coenzyme A transporter 1	0.124	464	399	23	478	75	538	6.865E-05	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M175-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M175-F1-model_v4 Protein NRT1/ PTR FAMILY 2.3	0.106	551	427	1	479	1	551	2.126E-05	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0WSZ6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0WSZ6-F1-model_v4 Protein NRT1/ PTR FAMILY 5.13	0.134	524	390	20	470	33	556	4.131E-05	194
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8EA87-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8EA87-F1-model_v4 Multidrug resistance protein MdtL	0.140	452	333	25	476	3	390	5.872E-05	193
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AGF5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AGF5-F1-model_v4 D-xylose-proton symporter	0.138	466	396	20	479	11	476	1.753E-04	193
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q59Q30-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q59Q30-F1-model_v4 Glycerophosphoinositol permease 1	0.119	472	398	19	490	44	496	7.719E-05	193
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MHL0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MHL0-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.120	454	328	19	472	4	377	2.914E-04	192
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94131-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P94131-F1-model_v4 Cis,cis-muconate transport protein	0.150	453	332	20	472	21	411	1.896E-04	192
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q46909-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q46909-F1-model_v4 Inner membrane metabolite transport protein YgcS	0.110	468	377	21	488	20	444	1.015E-04	192
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1A9E1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1A9E1-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.127	452	325	19	470	4	376	2.802E-04	191
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P13924-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P13924-F1-model_v4 Tetracycline resistance protein	0.127	462	386	21	482	14	456	7.423E-05	191
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O31563-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O31563-F1-model_v4 Uncharacterized MFS-type transporter YfiU	0.107	494	396	21	464	13	506	5.872E-05	191
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0D1P6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0D1P6-F1-model_v4 Efflux pump terG	0.115	501	426	1	482	26	526	1.186E-04	191
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M1E1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M1E1-F1-model_v4 Protein NRT1/ PTR FAMILY 2.6	0.119	556	426	1	484	1	556	4.131E-05	191
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MS16-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7MS16-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.114	452	329	21	472	6	377	2.397E-04	190
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X625-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8X625-F1-model_v4 Inner membrane transport protein YdhP	0.122	470	337	21	490	5	389	1.334E-04	190
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZD69-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZD69-F1-model_v4 Putative transporter AmpG 1	0.164	449	367	20	468	4	443	5.223E-05	190
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-F4I5Q2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-F4I5Q2-F1-model_v4 Probable folate-biopterin transporter 8, chloroplastic	0.123	469	372	21	489	90	514	4.296E-05	190
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8AII1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A8AII1-F1-model_v4 Uncharacterized MFS-type transporter CKO_02171	0.127	452	325	19	470	4	376	3.030E-04	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q83RZ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q83RZ5-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.117	451	327	21	471	6	376	3.151E-04	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FJC1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8FJC1-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.125	453	326	19	471	4	377	3.830E-04	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47159-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47159-F1-model_v4 Uncharacterized membrane protein YJR124C	0.127	461	379	19	479	13	447	1.097E-04	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36890-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P36890-F1-model_v4 Tetracycline resistance protein	0.120	464	388	21	484	16	457	5.872E-05	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0A4K8-F1-model_v4 Tetracycline resistance protein	0.125	464	388	21	484	14	457	1.234E-04	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q32LF0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q32LF0-F1-model_v4 Sodium-dependent phosphate transport protein 3	0.127	461	398	6	462	2	462	5.223E-05	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WEZ6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WEZ6-F1-model_v4 MFS-type transporter oryC	0.120	461	403	19	479	17	475	2.132E-04	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66KG0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66KG0-F1-model_v4 Solute carrier family 22 member 16	0.113	407	331	54	460	141	514	2.132E-04	189
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8XEB7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8XEB7-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.123	450	324	21	470	6	376	2.592E-04	188
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NM77-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7NM77-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.123	450	324	21	470	6	376	2.592E-04	188
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Z8J2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Z8J2-F1-model_v4 ADP,ATP carrier protein 1	0.139	513	420	1	489	1	513	1.819E-05	188
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P34272-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P34272-F1-model_v4 Uncharacterized transporter slc-17.3	0.106	499	419	21	490	20	518	7.423E-05	188
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2KWH5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B2KWH5-F1-model_v4 MFS siderochrome iron transporter 1	0.112	497	409	21	482	56	552	3.821E-05	188
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q04602-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q04602-F1-model_v4 Vacuolar basic amino acid transporter 4	0.113	511	410	21	483	250	760	7.423E-05	188
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9MHY5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9MHY5-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.113	451	329	21	471	6	377	5.236E-04	187
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NCK7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8NCK7-F1-model_v4 Monocarboxylate transporter 11	0.127	459	358	1	459	13	423	3.276E-04	187
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AGF4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0AGF4-F1-model_v4 D-xylose-proton symporter	0.130	466	399	20	479	11	476	2.802E-04	187
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SBA7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SBA7-F1-model_v4 Sugar transport protein 8	0.119	507	431	1	490	1	507	1.283E-04	187
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q83W27-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q83W27-F1-model_v4 ADP,ATP carrier protein 4	0.161	470	387	21	482	39	508	1.496E-05	187
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O77504-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O77504-F1-model_v4 Solute carrier family 22 member 1	0.139	442	351	48	489	135	543	3.398E-05	187
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C0K2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P0C0K2-F1-model_v4 Uncharacterized protein mhp246	0.123	439	376	21	459	28	457	7.719E-05	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZD47-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZD47-F1-model_v4 ADP,ATP carrier protein 4	0.155	470	390	21	482	39	508	1.556E-05	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SX48-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9SX48-F1-model_v4 Sugar transport protein 9	0.120	487	421	1	479	2	488	6.602E-05	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O22780-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O22780-F1-model_v4 Probable folate-biopterin transporter 9, chloroplastic	0.104	473	398	11	483	69	513	7.719E-05	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BLE7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BLE7-F1-model_v4 Vesicular glutamate transporter 2	0.129	485	409	2	486	50	520	1.971E-04	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B9FGV7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B9FGV7-F1-model_v4 Solute carrier family 40 member 3, chloroplastic	0.122	456	389	22	477	147	590	2.391E-05	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H1C4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H1C4-F1-model_v4 Protein unc-93 homolog B1	0.108	465	410	21	485	62	522	1.896E-04	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O24381-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O24381-F1-model_v4 Plastidic ATP/ADP-transporter	0.137	505	421	1	489	92	596	1.231E-05	186
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3E9A0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3E9A0-F1-model_v4 Probable anion transporter 6, chloroplastic	0.143	462	368	1	462	75	504	1.384E-05	185
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O95907-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O95907-F1-model_v4 Monocarboxylate transporter 3	0.112	448	372	17	464	13	432	4.478E-04	184
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M173-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M173-F1-model_v4 Protein NRT1/ PTR FAMILY 2.4	0.119	526	408	19	482	19	544	5.223E-05	184
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q497L8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q497L8-F1-model_v4 Solute carrier family 22 member 16	0.135	407	324	54	460	148	522	1.055E-04	184
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37593-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37593-F1-model_v4 Nitrate/nitrite transporter NarU	0.123	451	370	22	472	38	460	5.647E-05	183
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8IZD6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8IZD6-F1-model_v4 Solute carrier family 22 member 15	0.122	495	410	23	490	27	521	1.186E-04	183
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LN63-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B7LN63-F1-model_v4 Uncharacterized MFS-type transporter YcaD	0.119	450	326	21	470	6	376	2.802E-04	182
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9C0U9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9C0U9-F1-model_v4 Uncharacterized transporter PB1C11.03	0.127	461	365	23	483	110	528	1.055E-04	181
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VCW4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VCW4-F1-model_v4 Protein unc-93 homolog B1	0.104	461	406	21	481	65	518	1.442E-04	181
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O15375-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O15375-F1-model_v4 Monocarboxylate transporter 6	0.120	465	366	19	483	10	426	3.151E-04	180
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q53WP9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q53WP9-F1-model_v4 Probable anion transporter 2, chloroplastic	0.140	447	341	21	467	129	525	2.592E-04	180
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M171-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M171-F1-model_v4 Protein NRT1/ PTR FAMILY 2.1	0.111	536	412	1	465	1	536	2.486E-05	180
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q497L9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q497L9-F1-model_v4 Solute carrier family 22 (Organic cation transporter), member 14	0.132	397	310	61	457	185	542	1.896E-04	179
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9RA45-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9RA45-F1-model_v4 Probable nitrate/nitrite antiporter NarK2	0.119	453	364	21	473	28	441	3.830E-04	178
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P57787-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P57787-F1-model_v4 Monocarboxylate transporter 4	0.136	472	356	19	490	19	431	6.365E-04	178
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VZE2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VZE2-F1-model_v4 Protein NRT1/ PTR FAMILY 5.14	0.136	519	388	19	468	32	550	2.217E-04	178
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47307-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P47307-F1-model_v4 Major facilitator superfamily transporter MG061	0.133	518	388	21	468	10	527	1.500E-04	178
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58354-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P58354-F1-model_v4 Solute carrier family 2, facilitated glucose transporter member 8	0.137	483	412	1	483	1	478	2.802E-04	177
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q63089-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q63089-F1-model_v4 Solute carrier family 22 member 1	0.124	441	357	48	488	136	543	5.023E-05	177
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O08966-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O08966-F1-model_v4 Solute carrier family 22 member 1	0.128	430	344	54	483	143	538	5.647E-05	177
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y115-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y115-F1-model_v4 UNC93-like protein	0.112	482	427	1	482	12	493	7.139E-05	176
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40885-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40885-F1-model_v4 Hexose transporter HXT9	0.104	469	415	22	485	62	530	3.151E-04	176
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q17QN9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q17QN9-F1-model_v4 Solute carrier family 22 member 16	0.115	435	357	48	482	141	544	4.467E-05	176
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6FWD4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6FWD4-F1-model_v4 Probable transporter MCH1	0.101	461	412	21	481	27	485	9.384E-05	174
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6DG19-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6DG19-F1-model_v4 Molybdate-anion transporter	0.123	467	381	21	487	44	479	4.842E-04	173
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6NKX4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6NKX4-F1-model_v4 Putative solute carrier family 22 member 31	0.140	431	347	49	479	118	522	3.542E-04	173
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0WQ63-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0WQ63-F1-model_v4 Sugar transporter ERD6-like 8	0.126	479	396	1	479	14	467	5.035E-04	172
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y267-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y267-F1-model_v4 Solute carrier family 22 member 14	0.127	418	344	66	483	186	580	3.276E-04	172
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RIG3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RIG3-F1-model_v4 ADP,ATP carrier protein 4	0.149	470	392	21	482	48	517	2.907E-05	171
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6NUB3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6NUB3-F1-model_v4 Solute carrier family 22 member 15	0.123	480	412	20	490	19	498	4.142E-04	171
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Z2I7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Z2I7-F1-model_v4 Synaptic vesicle 2-related protein	0.150	439	354	21	459	89	505	4.142E-04	171
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P57788-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P57788-F1-model_v4 Monocarboxylate transporter 4	0.141	467	361	19	485	19	439	8.700E-04	170
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-S0AU91-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-S0AU91-F1-model_v4 MFS transporter fsdG	0.127	464	383	21	484	69	508	2.397E-04	170
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WLW9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4WLW9-F1-model_v4 MFS transporter fmqE	0.106	460	409	23	482	58	515	5.661E-04	170
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7MBE0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7MBE0-F1-model_v4 Solute carrier family 22 member 1	0.128	457	335	23	479	144	528	2.486E-05	170
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1JMG4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1JMG4-F1-model_v4 Uncharacterized MFS-type transporter YE1530	0.142	451	317	21	471	6	376	7.738E-04	169
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q91WU2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q91WU2-F1-model_v4 Solute carrier family 22 member 7	0.111	418	342	66	483	149	534	3.407E-04	169
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q01441-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q01441-F1-model_v4 Membrane transporter D2	0.126	468	353	23	490	152	556	7.139E-05	169
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q39002-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q39002-F1-model_v4 ADP,ATP carrier protein 1, chloroplastic	0.130	513	425	1	489	87	599	9.758E-05	169
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9USW4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9USW4-F1-model_v4 Uncharacterized protein C21B10.09	0.101	489	432	1	482	27	515	3.030E-04	168
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6QLW8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A6QLW8-F1-model_v4 Solute carrier family 22 member 7	0.124	426	346	65	490	149	544	1.442E-04	167
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q652N5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q652N5-F1-model_v4 Probable anion transporter 4, chloroplastic	0.147	462	360	1	462	161	583	1.896E-04	167
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76242-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P76242-F1-model_v4 2-nitroimidazole transporter	0.147	442	315	22	463	18	387	5.035E-04	166
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8GX78-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8GX78-F1-model_v4 Ascorbate transporter, chloroplastic	0.156	462	358	1	462	109	533	6.121E-04	166
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BFT9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8BFT9-F1-model_v4 Synaptic vesicle 2-related protein	0.133	439	361	21	459	89	505	9.047E-04	166
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q59MJ2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q59MJ2-F1-model_v4 Probable transporter MCH1	0.110	449	364	19	467	20	429	3.407E-04	165
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93YP9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q93YP9-F1-model_v4 Sugar transporter ERD6-like 4	0.119	474	400	6	479	31	485	1.058E-03	165
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y2C5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9Y2C5-F1-model_v4 Probable small intestine urate exporter	0.125	442	382	21	462	43	480	2.695E-04	165
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4UL85-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4UL85-F1-model_v4 ADP,ATP carrier protein 3	0.129	466	400	21	480	30	495	8.027E-05	164
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92HP9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92HP9-F1-model_v4 ADP,ATP carrier protein 3	0.116	468	406	21	480	28	495	1.097E-04	163
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q504N2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q504N2-F1-model_v4 Solute carrier family 22 member 15	0.130	460	344	23	482	110	505	1.234E-04	163
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5AXV1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5AXV1-F1-model_v4 Probable transporter mch1	0.097	534	416	21	482	79	612	9.782E-04	162
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O32084-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O32084-F1-model_v4 Uncharacterized MFS-type transporter YubD	0.125	470	406	21	490	9	473	1.563E-03	161
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4ULJ8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4ULJ8-F1-model_v4 ADP,ATP carrier protein 4	0.165	470	385	21	482	39	508	9.025E-05	161
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WKR4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WKR4-F1-model_v4 Uncharacterized protein MT0899	0.125	452	366	22	473	119	537	6.121E-04	161
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P51574-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P51574-F1-model_v4 Solute carrier family 15 member 1	0.106	687	417	22	489	15	701	6.121E-04	160
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O45166-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O45166-F1-model_v4 Folate-like transporter 2	0.120	444	360	19	462	1	410	2.217E-04	159
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q68WQ3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q68WQ3-F1-model_v4 ADP,ATP carrier protein 3	0.131	466	399	21	480	30	495	7.423E-05	159
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RPP5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RPP5-F1-model_v4 Solute carrier family 22 member 7	0.119	412	334	65	476	149	528	6.882E-04	159
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0CEJ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0CEJ5-F1-model_v4 Autophagy-related protein 22-1	0.129	572	408	19	488	31	602	3.542E-04	159
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O00624-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O00624-F1-model_v4 Sodium-dependent phosphate transport protein 3	0.116	415	359	21	427	22	436	5.661E-04	157
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O84068-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O84068-F1-model_v4 ADP,ATP carrier protein 1	0.129	504	419	1	482	1	504	1.334E-04	157
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9CAT6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9CAT6-F1-model_v4 Organic cation/carnitine transporter 1	0.109	472	411	21	482	63	534	9.782E-04	157
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZD67-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9ZD67-F1-model_v4 ADP,ATP carrier protein 3	0.121	466	403	21	480	30	495	1.097E-04	156
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RK92-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q1RK92-F1-model_v4 ADP,ATP carrier protein 5	0.116	468	403	21	477	32	499	7.139E-05	155
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H015-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9H015-F1-model_v4 Solute carrier family 22 member 4	0.133	430	341	48	477	129	522	1.058E-03	155
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WKR5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WKR5-F1-model_v4 Uncharacterized protein Rv0876c	0.134	444	357	21	464	117	529	3.151E-04	155
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40886-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40886-F1-model_v4 Hexose transporter HXT8	0.124	462	399	21	477	68	529	1.237E-03	155
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37482-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P37482-F1-model_v4 Uncharacterized transporter YycB	0.118	456	340	21	476	15	401	2.701E-03	154
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7Z118-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7Z118-F1-model_v4 Putative transporter B0361.11	0.128	452	383	20	459	52	503	5.444E-04	154
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5EXK5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5EXK5-F1-model_v4 3-hydroxybenzoate transporter MhbT	0.133	451	356	21	471	27	438	6.619E-04	153
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8N4V2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8N4V2-F1-model_v4 Synaptic vesicle 2-related protein	0.139	470	387	21	490	89	539	9.047E-04	153
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8IVM8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8IVM8-F1-model_v4 Solute carrier family 22 member 9	0.099	440	368	48	487	132	540	1.503E-03	153
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96QE2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96QE2-F1-model_v4 Proton myo-inositol cotransporter	0.122	524	402	21	479	84	607	1.828E-03	153
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A2R9TD79-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A0A2R9TD79-F1-model_v4 Peptide transporter YePEPT	0.108	505	422	9	482	2	506	9.407E-04	152
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92HV4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q92HV4-F1-model_v4 ADP,ATP carrier protein 4	0.153	470	390	21	482	39	508	2.305E-04	152
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O15245-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O15245-F1-model_v4 Solute carrier family 22 member 1	0.128	468	343	23	490	147	540	1.622E-04	151
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O33057-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O33057-F1-model_v4 Uncharacterized protein ML2143	0.129	458	380	22	479	139	575	1.058E-03	151
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1DG37-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1DG37-F1-model_v4 Autophagy-related protein 22-1	0.098	570	428	16	490	22	591	1.286E-03	151
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9CB25-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A9CB25-F1-model_v4 Solute carrier family 22 member 4	0.131	443	356	48	490	129	539	9.782E-04	150
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VCA0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VCA0-F1-model_v4 Solute carrier family 22 member 19	0.151	435	345	48	482	132	538	9.047E-04	150
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JIP7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JIP7-F1-model_v4 Solute carrier family 15 member 1	0.112	696	424	11	489	3	698	1.390E-03	150
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q13286-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q13286-F1-model_v4 Battenin	0.122	402	346	21	422	36	430	1.286E-03	149
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96TW9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96TW9-F1-model_v4 Probable transporter MCH1	0.110	472	417	14	482	17	488	5.887E-04	149
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5RLM2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5RLM2-F1-model_v4 Solute carrier family 22 member 7	0.112	417	341	66	482	149	533	1.690E-03	149
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O75751-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O75751-F1-model_v4 Solute carrier family 22 member 3	0.131	449	349	42	490	150	552	7.157E-04	149
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9WTW5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9WTW5-F1-model_v4 Solute carrier family 22 member 3	0.145	461	330	21	481	148	534	2.802E-04	148
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P13865-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P13865-F1-model_v4 Probable transport protein	0.127	465	345	25	489	156	551	4.842E-04	148
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1C5W7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1C5W7-F1-model_v4 Autophagy-related protein 22-2	0.113	577	420	16	489	22	598	2.055E-03	148
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O32859-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O32859-F1-model_v4 Multidrug efflux pump Tap	0.131	460	345	21	480	9	406	3.284E-03	147
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FLG8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9FLG8-F1-model_v4 Probable sphingolipid transporter spinster homolog 2	0.121	451	377	22	472	38	467	8.367E-04	147
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9PKX5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9PKX5-F1-model_v4 ADP,ATP carrier protein 1	0.122	504	422	1	482	1	504	4.657E-04	147
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6DBX0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q6DBX0-F1-model_v4 Major facilitator superfamily domain-containing protein 6-like	0.118	513	424	1	482	1	513	4.152E-03	147
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3ZAV1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q3ZAV1-F1-model_v4 Solute carrier family 22 member 12	0.122	432	350	54	485	139	538	1.563E-03	147
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0CL24-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0CL24-F1-model_v4 Autophagy-related protein 22-2	0.111	587	434	1	489	1	587	2.498E-03	147
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66J54-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q66J54-F1-model_v4 Solute carrier family 22 member 6-A	0.125	444	377	47	490	125	556	7.738E-04	146
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q63ZE4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q63ZE4-F1-model_v4 Solute carrier family 22 member 10	0.125	435	355	48	482	132	538	3.840E-03	145
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8WMX5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8WMX5-F1-model_v4 Solute carrier family 15 member 1	0.106	690	425	11	486	3	692	2.222E-03	145
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74921-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O74921-F1-model_v4 Uncharacterized MFS-type transporter C757.11c	0.124	470	371	19	488	47	471	2.132E-04	144
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O00400-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O00400-F1-model_v4 Acetyl-coenzyme A transporter 1	0.122	473	405	17	478	65	537	2.403E-03	144
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q863T6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q863T6-F1-model_v4 Solute carrier family 22 member 1	0.136	394	340	97	490	147	540	5.035E-04	144
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9D9E0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9D9E0-F1-model_v4 Solute carrier family 22 member 17	0.112	384	324	97	480	9	374	4.152E-03	141
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0CS59-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q0CS59-F1-model_v4 MFS acetylaranotin efflux transporter ataA	0.121	458	380	33	490	17	449	7.442E-04	141
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P290-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9P290-F1-model_v4 Solute carrier family 22 member 17	0.141	430	347	61	490	97	501	1.901E-03	141
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8SUG0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8SUG0-F1-model_v4 ADP,ATP carrier protein 3	0.123	486	404	21	482	48	533	5.035E-04	141
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P46059-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P46059-F1-model_v4 Solute carrier family 15 member 1	0.105	674	413	22	483	15	688	3.415E-03	141
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P91679-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P91679-F1-model_v4 Peptide transporter family 1	0.139	368	294	1	343	13	380	3.158E-03	140
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M0Y1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M0Y1-F1-model_v4 Equilibrative nucleotide transporter 5	0.111	412	364	15	424	2	413	5.901E-03	139
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7KAM9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A7KAM9-F1-model_v4 Autophagy-related protein 22-1	0.124	559	413	9	480	2	560	2.222E-03	138
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M174-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9M174-F1-model_v4 Putative protein NRT1/ PTR FAMILY 2.2	0.105	509	391	1	438	1	509	1.901E-03	137
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40441-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P40441-F1-model_v4 Putative hexose transporter 12	0.129	422	363	61	482	2	419	8.066E-03	136
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8MJI6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8MJI6-F1-model_v4 Solute carrier family 22 member 2	0.133	469	343	21	489	147	543	3.030E-04	135
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O15244-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O15244-F1-model_v4 Solute carrier family 22 member 2	0.128	467	341	21	487	148	539	6.365E-04	134
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2QFJ9-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A2QFJ9-F1-model_v4 Autophagy-related protein 22-1	0.111	570	420	16	489	28	597	8.066E-03	134
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q99P65-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q99P65-F1-model_v4 Equilibrative nucleoside transporter 3	0.110	422	360	21	425	53	474	1.289E-02	131
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9R0W2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9R0W2-F1-model_v4 Solute carrier family 22 member 2	0.125	425	343	66	490	156	548	2.809E-03	131
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8N4F4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8N4F4-F1-model_v4 Steroid transmembrane transporter SLC22A24	0.138	435	347	48	482	132	535	6.136E-03	130
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q21219-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q21219-F1-model_v4 Peptide transporter family 1	0.128	397	298	1	343	17	413	4.489E-03	129
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R3N2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8R3N2-F1-model_v4 Major facilitator superfamily domain-containing protein 6-like	0.117	556	413	16	484	5	560	1.060E-02	128
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q17758-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q17758-F1-model_v4 Peptide transporter family 2	0.147	355	274	22	343	33	387	4.152E-03	127
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O43826-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O43826-F1-model_v4 Glucose-6-phosphate exchanger SLC37A4	0.102	451	369	22	472	16	427	6.635E-03	126
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8WUG5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8WUG5-F1-model_v4 Solute carrier family 22 member 17	0.133	430	366	61	490	97	519	5.675E-03	126
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4U2R8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q4U2R8-F1-model_v4 Solute carrier family 22 member 6	0.113	444	365	47	490	120	532	2.598E-03	126
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7SG38-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q7SG38-F1-model_v4 Autophagy-related protein 22	0.131	535	403	16	480	153	687	7.174E-03	126
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VC69-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8VC69-F1-model_v4 Solute carrier family 22 member 6	0.114	436	361	48	483	115	522	4.152E-03	125
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8MK48-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8MK48-F1-model_v4 Solute carrier family 22 member 6	0.113	436	361	48	483	121	528	4.489E-03	125
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q80UJ1-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q80UJ1-F1-model_v4 Solute carrier family 22 member 20	0.098	414	349	70	483	143	530	4.489E-03	125
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q944N8-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q944N8-F1-model_v4 Equilibrative nucleotide transporter 6	0.129	422	359	8	429	2	414	8.722E-03	122
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O70577-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O70577-F1-model_v4 Solute carrier family 22 member 2	0.127	466	351	25	490	146	548	8.700E-04	122
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NSA0-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9NSA0-F1-model_v4 Solute carrier family 22 member 11	0.099	430	360	54	483	136	536	4.489E-03	121
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P14551-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P14551-F1-model_v4 Tetracycline resistance determinant	0.135	342	279	149	490	5	328	4.317E-03	120
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25594-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P25594-F1-model_v4 Vacuolar basic amino acid transporter 3	0.141	445	366	56	482	12	456	4.152E-03	118
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O35956-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O35956-F1-model_v4 Solute carrier family 22 member 6	0.110	401	325	59	459	136	501	1.192E-02	114
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9BZD2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9BZD2-F1-model_v4 Equilibrative nucleoside transporter 3	0.111	422	358	21	424	52	473	3.560E-02	113
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5RCH6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5RCH6-F1-model_v4 Solute carrier family 22 member 6	0.101	436	366	48	483	121	528	9.431E-03	113
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1A5C7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1A5C7-F1-model_v4 Solute carrier family 22 member 23	0.137	418	349	60	477	232	636	1.507E-02	111
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O00476-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O00476-F1-model_v4 Sodium-dependent phosphate transport protein 4	0.119	385	335	82	462	19	403	2.316E-02	106
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q80WK7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q80WK7-F1-model_v4 Equilibrative nucleoside transporter 3	0.121	418	355	21	425	57	474	4.162E-02	106
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O02713-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O02713-F1-model_v4 Solute carrier family 22 member 2	0.134	467	341	23	489	149	543	2.701E-03	106
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-O28178-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-O28178-F1-model_v4 Uncharacterized protein AF_2102	0.180	234	170	227	460	6	213	1.195E-01	88
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9X8S2-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9X8S2-F1-model_v4 Polyamine aminopropyltransferase 2	0.158	214	175	22	235	35	243	2.328E+00	60
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-B6IDH3-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-B6IDH3-F1-model_v4 Protein root UVB sensitive 5	0.120	200	173	22	221	131	328	2.721E+00	59
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WGE4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P9WGE4-F1-model_v4 Polyamine aminopropyltransferase	0.143	195	152	21	215	21	198	3.577E+00	52
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q82EU4-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q82EU4-F1-model_v4 Polyamine aminopropyltransferase	0.100	221	189	263	483	31	241	7.227E+00	48
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5R8F6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q5R8F6-F1-model_v4 RUS family member 1	0.108	232	186	228	459	69	278	3.868E+00	44
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9K1H6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9K1H6-F1-model_v4 Zinc transporter ZupT	0.136	258	204	246	482	1	258	4.338E-01	43
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96GQ5-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q96GQ5-F1-model_v4 RUS family member 1	0.082	232	192	228	459	69	278	4.182E+00	43
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JX23-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q9JX23-F1-model_v4 Zinc transporter ZupT	0.143	258	202	246	482	1	258	5.703E-01	41
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1KRK6-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-A1KRK6-F1-model_v4 Zinc transporter ZupT	0.136	258	204	246	482	1	258	6.667E-01	40
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8YFD7-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q8YFD7-F1-model_v4 Probable multidrug resistance protein NorM	0.133	482	407	1	482	1	470	1.841E+00	37
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q58119-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-Q58119-F1-model_v4 Uncharacterized transporter MJ0709	0.116	429	354	22	422	14	442	2.942E+00	34
+LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39277-F1-model_v4	LOKIASV2_1938_ESMFold_MFS_transporter	AF-P39277-F1-model_v4 L-methionine/branched-chain amino acid exporter YjeH	0.121	449	354	24	472	10	413	3.440E+00	21
