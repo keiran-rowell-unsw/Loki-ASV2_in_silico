@@ -1,0 +1,998 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SX43-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SX43-F1-model_v4 Ras-related GTP-binding protein A	0.186	309	243	1	309	4	302	4.821E-19	574
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q80X95-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q80X95-F1-model_v4 Ras-related GTP-binding protein A	0.180	311	246	1	311	4	304	2.841E-19	572
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5VZM2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5VZM2-F1-model_v4 Ras-related GTP-binding protein B	0.170	326	255	2	309	38	363	4.331E-20	572
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7L523-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7L523-F1-model_v4 Ras-related GTP-binding protein A	0.191	308	240	2	309	5	302	4.287E-19	570
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63487-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63487-F1-model_v4 Ras-related GTP-binding protein B	0.173	326	254	2	309	38	363	9.298E-20	565
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6NTA4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6NTA4-F1-model_v4 Ras-related GTP-binding protein B	0.176	326	253	2	309	38	363	2.246E-19	559
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63486-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63486-F1-model_v4 Ras-related GTP-binding protein A	0.181	309	244	1	309	4	302	1.164E-18	556
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54IK1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54IK1-F1-model_v4 Ras-related GTP-binding protein A	0.207	306	236	4	309	2	300	1.310E-18	545
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O74824-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O74824-F1-model_v4 GTP-binding protein gtr1	0.155	307	248	4	310	2	296	3.354E-18	521
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q00582-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q00582-F1-model_v4 GTP-binding protein GTR1	0.170	305	251	4	308	6	309	1.845E-17	480
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9NQL2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9NQL2-F1-model_v4 Ras-related GTP-binding protein D	0.153	311	262	1	310	60	370	5.578E-16	449
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O74544-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O74544-F1-model_v4 GTP-binding protein gtr2	0.195	307	243	5	311	4	306	6.654E-16	428
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7TT45-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7TT45-F1-model_v4 Ras-related GTP-binding protein D	0.167	311	257	1	310	109	419	4.365E-15	420
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HB90-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HB90-F1-model_v4 Ras-related GTP-binding protein C	0.173	311	252	1	311	58	363	2.033E-15	412
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q99K70-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q99K70-F1-model_v4 Ras-related GTP-binding protein C	0.170	310	252	2	311	58	362	1.270E-15	406
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P53290-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P53290-F1-model_v4 GTP-binding protein GTR2	0.175	319	252	1	307	6	324	3.415E-14	395
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P39110-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P39110-F1-model_v4 GTP-binding protein CIN4	0.205	168	130	3	170	15	179	3.651E-09	304
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-F4IZ82-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-F4IZ82-F1-model_v4 ADP-ribosylation factor-like protein 8d	0.174	169	128	2	170	9	164	1.115E-08	269
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63055-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63055-F1-model_v4 ADP-ribosylation factor-related protein 1	0.197	179	142	1	179	14	191	4.619E-09	263
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8BXL7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8BXL7-F1-model_v4 ADP-ribosylation factor-related protein 1	0.207	177	139	3	179	16	191	5.195E-09	262
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R579-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R579-F1-model_v4 ADP-ribosylation factor-related protein 1	0.189	177	142	3	179	16	191	8.817E-09	255
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q02804-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q02804-F1-model_v4 ADP-ribosylation factor-like protein 3	0.223	165	124	3	167	16	175	1.183E-08	252
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q09654-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q09654-F1-model_v4 E3 ubiquitin-protein ligase arc-1	0.201	196	134	2	197	367	535	4.355E-09	252
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CR31-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CR31-F1-model_v4 Small COPII coat GTPase SAR1	0.207	162	124	1	162	17	173	4.311E-08	233
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q18510-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q18510-F1-model_v4 ADP-ribosylation factor-like protein 6	0.198	162	121	1	162	14	165	3.794E-07	231
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P20606-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P20606-F1-model_v4 Small COPII coat GTPase SAR1	0.219	160	119	3	162	22	174	7.760E-08	230
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6CWR7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6CWR7-F1-model_v4 Small COPII coat GTPase SAR1	0.203	160	121	3	162	22	174	1.767E-07	230
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q755D7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q755D7-F1-model_v4 Small COPII coat GTPase SAR1	0.195	160	122	3	162	22	174	9.816E-08	230
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O88848-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O88848-F1-model_v4 ADP-ribosylation factor-like protein 6	0.180	167	128	1	167	14	170	1.571E-07	226
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P52885-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P52885-F1-model_v4 GTP-binding protein SAR1	0.165	165	134	3	164	19	183	1.571E-07	222
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54HK2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54HK2-F1-model_v4 ADP-ribosylation factor F	0.200	173	125	3	175	24	180	5.398E-07	218
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6FUZ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6FUZ9-F1-model_v4 Small COPII coat GTPase SAR1	0.222	160	118	3	162	21	173	1.481E-07	217
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q007T2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q007T2-F1-model_v4 Cell division control protein 42 homolog	0.155	179	150	3	180	2	180	1.666E-07	210
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q60Z38-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q60Z38-F1-model_v4 ADP-ribosylation factor-like protein 6	0.202	161	120	2	162	15	165	6.439E-07	208
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2KJ93-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2KJ93-F1-model_v4 Cell division control protein 42 homolog	0.155	179	150	3	180	2	180	2.108E-07	208
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4R4R6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4R4R6-F1-model_v4 Cell division control protein 42 homolog	0.155	179	150	3	180	2	180	2.999E-07	204
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9P8J9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9P8J9-F1-model_v4 GTP-binding protein Rho3	0.166	179	148	1	179	14	191	2.514E-07	202
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P60953-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P60953-F1-model_v4 Cell division control protein 42 homolog	0.142	179	152	3	180	2	180	2.108E-07	200
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P60952-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P60952-F1-model_v4 Cell division control protein 42 homolog	0.155	179	150	3	180	2	180	5.398E-07	198
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B6JM65-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B6JM65-F1-model_v4 GTPase Der	0.170	169	127	5	173	9	162	3.148E-06	195
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q17031-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q17031-F1-model_v4 Cdc42 homolog	0.165	179	148	3	180	2	180	6.439E-07	194
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q17WL7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q17WL7-F1-model_v4 GTPase Der	0.173	166	124	5	170	9	159	3.339E-06	193
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9J7W1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9J7W1-F1-model_v4 GTPase Der	0.130	196	167	2	194	203	398	5.090E-07	192
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6G5J7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6G5J7-F1-model_v4 GTPase Der	0.154	195	162	3	194	203	397	4.526E-07	191
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05062-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05062-F1-model_v4 Cell division control protein 42 homolog	0.154	175	146	3	177	2	175	6.439E-07	188
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P57729-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P57729-F1-model_v4 Ras-related protein Rab-38	0.180	160	125	3	162	8	161	3.148E-06	188
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q68W59-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q68W59-F1-model_v4 GTPase Der	0.182	196	155	4	194	179	374	3.373E-07	187
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8QZZ8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8QZZ8-F1-model_v4 Ras-related protein Rab-38	0.181	159	124	3	161	8	160	3.541E-06	186
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O25505-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O25505-F1-model_v4 GTPase Der	0.165	183	146	5	187	9	184	1.159E-06	186
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JJL4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JJL4-F1-model_v4 Rho-related GTP-binding protein RhoQ	0.137	180	154	1	180	6	185	9.717E-07	185
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P17081-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P17081-F1-model_v4 Rho-related GTP-binding protein RhoQ	0.137	180	154	1	180	6	185	9.717E-07	185
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q14088-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q14088-F1-model_v4 Ras-related protein Rab-33A	0.179	194	149	1	194	33	214	6.439E-07	185
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2USZ4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2USZ4-F1-model_v4 GTPase Der	0.165	183	146	5	187	9	184	1.229E-06	185
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2K5L2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2K5L2-F1-model_v4 GTPase Der	0.135	196	166	2	194	200	395	3.794E-07	185
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6WW65-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6WW65-F1-model_v4 GTPase Der	0.162	196	161	2	194	209	404	4.800E-07	185
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34148-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34148-F1-model_v4 Rho-related protein racB	0.171	189	154	3	191	2	188	1.159E-06	184
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8R527-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8R527-F1-model_v4 Rho-related GTP-binding protein RhoQ	0.137	180	154	1	180	6	185	1.159E-06	184
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2V5W6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2V5W6-F1-model_v4 GTPase Der	0.174	190	145	5	194	2	177	1.383E-06	184
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7V8X0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7V8X0-F1-model_v4 GTPase Der	0.169	196	160	2	194	175	370	8.146E-07	184
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P91580-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P91580-F1-model_v4 Putative Ras-related protein Rab-33	0.201	165	123	3	167	14	168	7.243E-07	183
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8EZN9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8EZN9-F1-model_v4 GTPase Der	0.151	197	162	3	194	178	374	4.024E-07	183
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9JZQ5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9JZQ5-F1-model_v4 GTPase Der	0.148	196	164	2	194	201	396	1.481E-07	183
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4GFJ8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4GFJ8-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	4.480E-06	182
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CZE3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CZE3-F1-model_v4 Ras-related protein Rab-32	0.194	167	128	3	169	22	181	1.555E-06	182
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q64008-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q64008-F1-model_v4 Ras-related protein Rab-34	0.198	154	118	3	156	51	198	3.339E-06	182
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P96128-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P96128-F1-model_v4 GTPase Der	0.152	194	161	4	194	197	390	1.031E-06	182
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4LY29-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4LY29-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	5.039E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q10133-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q10133-F1-model_v4 GTP-binding protein rho2	0.172	174	142	1	174	5	177	5.039E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O13928-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O13928-F1-model_v4 GTP-binding protein rho3	0.172	174	139	1	174	10	178	2.639E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O93856-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O93856-F1-model_v4 Ras-like protein	0.191	173	129	1	173	5	164	6.010E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7L0Q8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7L0Q8-F1-model_v4 Rho-related GTP-binding protein RhoU	0.173	169	138	3	171	48	215	1.855E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3QZ96-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3QZ96-F1-model_v4 GTPase Der	0.197	181	134	4	184	2	169	3.148E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CT35-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CT35-F1-model_v4 GTPase Der	0.175	189	149	5	193	9	189	1.649E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7ZBS1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7ZBS1-F1-model_v4 GTPase Der	0.175	191	147	5	195	2	180	1.159E-06	181
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3NZR4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3NZR4-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	5.344E-06	180
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q874R1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q874R1-F1-model_v4 GTP-binding protein rho4	0.155	183	151	1	180	11	193	5.344E-06	180
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AZ65-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AZ65-F1-model_v4 GTPase Der	0.170	197	160	1	194	174	370	1.093E-06	180
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q35638-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q35638-F1-model_v4 Rac-like GTP-binding protein RHO1	0.162	178	147	3	180	5	181	2.213E-06	179
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0QT02-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0QT02-F1-model_v4 GTPase Der	0.173	194	159	4	197	182	374	2.108E-07	179
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VFY6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VFY6-F1-model_v4 GTPase Der	0.165	186	146	5	190	2	177	2.639E-06	179
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4HKC7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4HKC7-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	6.760E-06	178
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34145-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34145-F1-model_v4 Rho-related protein rac1B	0.178	185	146	3	181	2	186	1.649E-06	178
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9SBJ6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9SBJ6-F1-model_v4 Rac-like GTP-binding protein ARAC6	0.164	178	147	3	180	5	181	1.649E-06	178
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q38903-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q38903-F1-model_v4 Rac-like GTP-binding protein ARAC2	0.154	181	151	1	181	3	182	2.489E-06	178
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5VNV9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5VNV9-F1-model_v4 GTPase Der	0.165	196	160	2	194	209	404	3.794E-07	178
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q24816-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q24816-F1-model_v4 Rho-related protein racC	0.154	173	145	1	173	4	175	4.480E-06	177
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P51539-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P51539-F1-model_v4 Ras-like protein RAS1	0.183	169	126	3	171	8	162	4.224E-06	177
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R7A4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R7A4-F1-model_v4 Ras-related protein Rab-7L1	0.179	167	130	3	169	6	164	5.344E-06	177
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q06AU4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q06AU4-F1-model_v4 Ras-related protein Rab-34	0.187	157	120	2	158	50	198	7.603E-06	177
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q135K8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q135K8-F1-model_v4 GTPase Der	0.116	195	169	3	194	187	381	1.649E-06	177
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8G2E8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8G2E8-F1-model_v4 GTPase Der	0.163	196	161	2	194	209	404	4.800E-07	177
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O04369-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O04369-F1-model_v4 Rac-like GTP-binding protein RAC1	0.163	180	149	1	180	3	181	7.169E-06	176
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HDY0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HDY0-F1-model_v4 Ypt/Rab-type GTPase ypt71	0.176	169	133	3	171	7	169	1.947E-05	176
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q13637-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q13637-F1-model_v4 Ras-related protein Rab-32	0.194	167	128	3	169	24	183	3.148E-06	176
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ZL09-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ZL09-F1-model_v4 GTPase Der	0.168	182	134	5	186	9	170	6.760E-06	176
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9IQH4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9IQH4-F1-model_v4 GTPase Der	0.142	194	165	3	196	202	394	1.383E-06	176
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8YFH2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8YFH2-F1-model_v4 GTPase Der	0.171	196	159	2	194	209	404	4.267E-07	176
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4NJ72-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4NJ72-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	8.552E-06	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q295X7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q295X7-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	9.070E-06	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P83831-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P83831-F1-model_v4 Ras-like protein 1	0.194	171	126	3	173	2	158	9.619E-06	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3M185-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3M185-F1-model_v4 Ras-like protein 1	0.196	159	116	3	161	2	146	4.751E-06	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01112-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01112-F1-model_v4 GTPase HRas	0.194	171	126	3	173	2	158	1.020E-05	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O88931-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O88931-F1-model_v4 Ras-related C3 botulinum toxin substrate 2	0.167	180	147	3	180	2	181	5.344E-06	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q24817-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q24817-F1-model_v4 Rho-related protein racD	0.169	173	142	2	174	6	177	3.541E-06	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9H4E5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9H4E5-F1-model_v4 Rho-related GTP-binding protein RhoJ	0.119	177	154	1	177	18	193	3.339E-06	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9EQT3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9EQT3-F1-model_v4 Rho-related GTP-binding protein RhoU	0.181	174	141	1	174	49	221	8.639E-07	175
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P19073-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P19073-F1-model_v4 Cell division control protein 42	0.134	175	150	3	177	2	175	2.969E-06	174
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3Q9V3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3Q9V3-F1-model_v4 GTPase Der	0.132	196	167	2	194	185	380	3.148E-06	174
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5Z7J9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5Z7J9-F1-model_v4 GTPase Der	0.162	188	150	5	192	9	188	1.304E-06	174
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9Z762-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9Z762-F1-model_v4 GTPase Der	0.161	173	132	5	177	2	159	5.667E-06	174
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1R5C7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1R5C7-F1-model_v4 GTPase Der	0.157	171	132	1	171	50	206	1.031E-06	174
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q61411-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q61411-F1-model_v4 GTPase HRas	0.194	171	126	3	173	2	158	1.217E-05	173
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q68Y52-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q68Y52-F1-model_v4 Rac-like GTP-binding protein 2	0.180	173	139	2	174	5	174	7.603E-06	173
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0RH89-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0RH89-F1-model_v4 GTPase Der	0.166	196	160	2	194	209	404	6.439E-07	173
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5RD87-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5RD87-F1-model_v4 GTPase NRas	0.179	169	126	3	171	2	156	1.290E-05	172
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01116-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01116-F1-model_v4 GTPase KRas	0.184	169	126	3	171	2	156	1.290E-05	172
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0P5N6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0P5N6-F1-model_v4 ADP-ribosylation factor-like protein 16	0.139	166	139	5	170	24	185	2.065E-05	172
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6N586-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6N586-F1-model_v4 GTPase Der	0.119	196	169	2	194	185	380	1.304E-06	172
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P79800-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P79800-F1-model_v4 GTPase KRas	0.185	195	147	3	197	2	182	9.070E-06	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P79737-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P79737-F1-model_v4 GTPase NRas	0.168	169	127	3	171	2	155	1.451E-05	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08646-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08646-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	1.369E-05	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08642-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08642-F1-model_v4 GTPase HRas	0.194	171	126	3	173	2	158	1.451E-05	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P62998-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P62998-F1-model_v4 Ras-related C3 botulinum toxin substrate 1	0.172	175	143	3	177	2	175	2.489E-06	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63481-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63481-F1-model_v4 Ras-related protein Rab-7L1	0.163	169	134	3	171	6	166	1.082E-05	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZHV1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZHV1-F1-model_v4 Ras-related protein Rab-33B	0.173	168	129	3	170	30	186	2.213E-06	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9XWR6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9XWR6-F1-model_v4 Ras-related protein Rab-28	0.179	172	133	3	174	34	196	7.169E-06	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3PVJ6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3PVJ6-F1-model_v4 GTPase Der	0.128	196	167	2	194	200	395	1.749E-06	171
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q91806-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q91806-F1-model_v4 GTPase NRas	0.173	169	127	3	171	2	156	1.633E-05	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04970-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04970-F1-model_v4 GTPase NRas	0.173	169	127	3	171	2	156	1.633E-05	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P83832-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P83832-F1-model_v4 Ras-like protein 1	0.194	171	126	3	173	2	158	1.539E-05	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P32883-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P32883-F1-model_v4 GTPase KRas	0.184	169	126	3	171	2	156	1.539E-05	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q38937-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q38937-F1-model_v4 Rac-like GTP-binding protein ARAC5	0.180	178	144	3	180	5	181	4.480E-06	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12526-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12526-F1-model_v4 Ras-like protein	0.188	173	129	1	173	5	164	1.082E-05	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8D279-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8D279-F1-model_v4 GTPase Obg	0.114	173	148	1	173	160	327	6.374E-06	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q640N2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q640N2-F1-model_v4 ADP-ribosylation factor-like protein 13B	0.165	258	199	2	259	19	257	1.242E-07	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1RK21-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1RK21-F1-model_v4 GTPase Der	0.157	196	160	4	194	184	379	6.439E-07	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GJ79-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GJ79-F1-model_v4 GTPase Der	0.157	197	163	1	194	174	370	5.344E-06	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q89MZ0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q89MZ0-F1-model_v4 GTPase Der	0.122	196	168	3	194	186	381	4.480E-06	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P9WNL2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P9WNL2-F1-model_v4 GTPase Der	0.113	195	171	1	194	196	390	5.667E-06	170
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O14966-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O14966-F1-model_v4 Ras-related protein Rab-7L1	0.179	167	130	3	169	6	164	1.217E-05	169
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P63320-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P63320-F1-model_v4 Ras-related protein Ral-A	0.149	194	152	1	194	11	190	3.983E-06	169
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6Z808-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6Z808-F1-model_v4 Rac-like GTP-binding protein 3	0.173	180	147	1	180	5	183	5.344E-06	169
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P51157-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P51157-F1-model_v4 Ras-related protein Rab-28	0.186	169	129	3	171	11	170	2.190E-05	169
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9YH38-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9YH38-F1-model_v4 GTPase KRas	0.183	192	145	3	194	2	179	1.290E-05	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01111-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01111-F1-model_v4 GTPase NRas	0.173	169	127	3	171	2	156	1.947E-05	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q15669-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q15669-F1-model_v4 Rho-related GTP-binding protein RhoH	0.156	174	139	1	174	1	166	6.760E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q91YQ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q91YQ1-F1-model_v4 Ras-related protein Rab-7L1	0.157	189	152	3	191	6	186	1.020E-05	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JIW9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JIW9-F1-model_v4 Ras-related protein Ral-B	0.137	194	155	1	194	11	191	9.070E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P63321-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P63321-F1-model_v4 Ras-related protein Ral-A	0.148	193	152	2	194	12	190	8.552E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P11234-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P11234-F1-model_v4 Ras-related protein Ral-B	0.167	194	152	1	194	11	194	4.480E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P97950-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P97950-F1-model_v4 Ras-related protein Rab-33A	0.182	194	148	1	194	33	214	1.304E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3QLF4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3QLF4-F1-model_v4 GTPase Der	0.161	158	122	4	161	2	147	7.603E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9M8F4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9M8F4-F1-model_v4 GTPase Der	0.165	196	160	2	194	209	404	6.829E-07	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0CK66-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0CK66-F1-model_v4 GTPase Der	0.175	196	158	2	194	209	404	1.159E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P57812-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P57812-F1-model_v4 GTPase Der	0.150	195	164	1	194	218	412	8.064E-06	168
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O42277-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O42277-F1-model_v4 GTPase KRas	0.183	192	145	3	194	2	179	1.451E-05	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08644-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08644-F1-model_v4 GTPase KRas	0.184	169	126	3	171	2	156	2.190E-05	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P20171-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P20171-F1-model_v4 GTPase HRas	0.194	171	126	3	173	2	158	2.323E-05	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08556-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08556-F1-model_v4 GTPase NRas	0.173	169	127	3	171	2	156	2.190E-05	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q94124-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q94124-F1-model_v4 Ras-related protein rac-2	0.160	182	149	3	180	2	183	5.039E-06	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q41640-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q41640-F1-model_v4 Ras-related protein Rab7	0.162	165	132	3	167	7	165	3.983E-06	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P87018-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P87018-F1-model_v4 Ras-like protein	0.175	171	130	1	171	5	162	1.451E-05	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2A4M9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2A4M9-F1-model_v4 GTPase Der	0.179	195	140	1	195	1	171	2.999E-07	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q986D9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q986D9-F1-model_v4 GTPase Der	0.155	192	161	3	194	206	396	1.466E-06	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2S9M3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2S9M3-F1-model_v4 GTPase Der	0.168	196	160	2	194	209	404	1.159E-06	167
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4PUP5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4PUP5-F1-model_v4 Ras-like protein 1	0.198	159	115	3	161	2	146	6.010E-06	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4JFU8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4JFU8-F1-model_v4 Ras-like protein 1	0.190	169	125	3	171	2	156	2.190E-05	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P32253-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P32253-F1-model_v4 Ras-like protein rasC	0.184	184	144	1	184	1	177	1.633E-05	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q99KL7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q99KL7-F1-model_v4 Ras-related protein Rab-28	0.180	169	130	3	171	11	170	2.771E-05	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O51461-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O51461-F1-model_v4 GTPase Der	0.174	194	156	1	190	1	194	7.243E-07	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AI13-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AI13-F1-model_v4 GTPase Der	0.174	197	159	1	194	174	370	4.751E-06	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q46H20-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q46H20-F1-model_v4 GTPase Der	0.145	195	163	3	194	176	370	3.983E-06	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2BPL9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2BPL9-F1-model_v4 GTPase Der	0.170	196	159	2	194	174	369	5.039E-06	166
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5EFX7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5EFX7-F1-model_v4 GTPase KRas	0.183	192	145	3	194	2	179	1.836E-05	165
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6IP71-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6IP71-F1-model_v4 Ras-related protein ralB-B	0.133	194	156	1	194	11	191	1.217E-05	165
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C6C0G0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C6C0G0-F1-model_v4 GTPase Der	0.152	165	131	6	170	4	158	1.147E-05	165
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0JFL6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0JFL6-F1-model_v4 GTPase Der	0.115	194	168	4	194	176	369	1.082E-05	165
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6AGF6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6AGF6-F1-model_v4 GTPase Der	0.135	192	164	4	194	220	411	2.213E-06	165
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5Z0Y0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5Z0Y0-F1-model_v4 GTPase Der	0.143	192	163	4	194	202	393	3.756E-06	165
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2MJK3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2MJK3-F1-model_v4 GTPase NRas	0.177	171	128	3	173	2	158	3.117E-05	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P48555-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P48555-F1-model_v4 Ras-related protein Ral-a	0.155	192	154	3	194	10	192	2.613E-05	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9GPS0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9GPS0-F1-model_v4 Rho-related protein racG	0.173	195	159	3	197	2	194	3.756E-06	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P35292-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P35292-F1-model_v4 Ras-related protein Rab-17	0.148	174	136	1	174	16	176	1.539E-05	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O82481-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O82481-F1-model_v4 Rac-like GTP-binding protein ARAC10	0.173	192	155	3	194	7	194	4.751E-06	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R615-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R615-F1-model_v4 Ras-related protein Rab-33B	0.179	170	130	1	170	30	188	3.339E-06	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9Z1Y0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9Z1Y0-F1-model_v4 Rho-related GTP-binding protein RhoV	0.130	195	169	3	197	30	224	9.070E-06	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7NN19-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7NN19-F1-model_v4 tRNA modification GTPase MnmE	0.135	200	165	5	196	217	416	2.347E-06	164
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q07983-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q07983-F1-model_v4 GTPase KRas	0.175	192	149	3	194	2	182	1.020E-05	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34726-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34726-F1-model_v4 Ras-like protein 2	0.174	187	142	1	187	2	174	1.290E-05	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q96L33-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q96L33-F1-model_v4 Rho-related GTP-binding protein RhoV	0.130	195	169	3	197	30	224	9.619E-06	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8VDU1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8VDU1-F1-model_v4 Rho-related GTP-binding protein RhoV	0.130	195	169	3	197	30	224	8.064E-06	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01120-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P01120-F1-model_v4 Ras-like protein 2	0.186	193	146	2	194	8	187	5.039E-06	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HW81-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HW81-F1-model_v4 GTPase Der	0.188	158	115	5	162	2	144	8.064E-06	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1QMP4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1QMP4-F1-model_v4 GTPase Der	0.120	196	169	2	194	186	381	7.169E-06	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0A6P6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0A6P6-F1-model_v4 GTPase Der	0.146	193	161	4	196	202	391	1.082E-05	163
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08647-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08647-F1-model_v4 Ras-like protein 1	0.198	194	146	1	194	5	187	1.020E-05	162
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2IXA7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2IXA7-F1-model_v4 GTPase Der	0.116	195	169	3	194	186	380	7.603E-06	162
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q740D6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q740D6-F1-model_v4 GTPase Der	0.142	173	136	1	173	26	184	2.323E-05	162
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q47WC5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q47WC5-F1-model_v4 GTPase Der	0.152	192	161	4	194	212	403	9.619E-06	162
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05147-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05147-F1-model_v4 GTPase KRas	0.189	192	145	3	194	2	181	1.633E-05	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2HJG3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2HJG3-F1-model_v4 Rho-related GTP-binding protein RhoH	0.151	174	140	1	174	1	166	2.065E-05	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q969Q5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q969Q5-F1-model_v4 Ras-related protein Rab-24	0.181	194	143	4	197	7	181	7.603E-06	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q06AU5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q06AU5-F1-model_v4 Ras-related protein Rab-32	0.168	185	151	3	184	26	210	1.229E-06	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SMZ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SMZ9-F1-model_v4 GTPase Der	0.178	194	159	1	194	1	194	2.969E-06	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0ICK8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0ICK8-F1-model_v4 GTPase Der	0.179	195	157	3	194	176	370	6.374E-06	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JV46-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JV46-F1-model_v4 GTPase Der	0.128	169	136	3	171	2	158	9.619E-06	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1TA72-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1TA72-F1-model_v4 GTPase Der	0.143	160	124	2	161	29	174	1.731E-05	161
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q95ME4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q95ME4-F1-model_v4 GTPase NRas	0.176	169	127	3	171	2	156	2.464E-05	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05058-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05058-F1-model_v4 24 kDa Ras-like protein	0.168	171	131	1	171	7	164	5.290E-05	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O35963-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O35963-F1-model_v4 Ras-related protein Rab-33B	0.171	161	124	1	161	30	179	3.983E-06	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-G4N1S3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-G4N1S3-F1-model_v4 Ras-like protein 1	0.155	178	145	1	173	4	181	2.939E-05	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ULW5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ULW5-F1-model_v4 Ras-related protein Rab-26	0.166	180	142	4	183	63	233	6.760E-06	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9IVM6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9IVM6-F1-model_v4 GTPase Der	0.174	172	130	3	174	2	159	2.613E-05	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AQ22-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AQ22-F1-model_v4 GTPase Der	0.147	187	136	4	190	2	162	4.751E-06	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SYD7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SYD7-F1-model_v4 GTPase Der	0.158	194	162	2	194	178	371	1.020E-05	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2C0J7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2C0J7-F1-model_v4 GTPase Der	0.143	197	165	1	194	174	370	4.480E-06	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3JCW1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3JCW1-F1-model_v4 GTPase Der	0.149	195	164	1	194	173	367	1.539E-05	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3J2Y1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3J2Y1-F1-model_v4 GTPase Der	0.153	194	161	4	194	202	395	1.031E-06	160
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q58124-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q58124-F1-model_v4 Uncharacterized protein MJ0714	0.155	127	97	181	307	2	117	2.168E-04	159
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ER71-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ER71-F1-model_v4 Rho-related GTP-binding protein RhoJ	0.119	177	154	1	177	18	193	1.539E-05	159
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4YKT4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4YKT4-F1-model_v4 Ras-like protein 1	0.143	260	201	1	260	1	236	6.439E-07	159
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GPH5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GPH5-F1-model_v4 GTPase Der	0.133	197	166	3	194	178	374	1.967E-06	159
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7H4Z1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7H4Z1-F1-model_v4 GTPase Der	0.171	190	146	5	194	2	178	9.070E-06	159
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0QH59-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0QH59-F1-model_v4 GTPase Der	0.124	173	138	1	173	26	184	1.147E-05	159
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3B1B4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3B1B4-F1-model_v4 tRNA modification GTPase MnmE	0.121	195	168	5	196	231	425	8.064E-06	159
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9H082-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9H082-F1-model_v4 Ras-related protein Rab-33B	0.178	168	128	3	170	32	188	1.020E-05	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1ZXE7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1ZXE7-F1-model_v4 Ras-related protein RabZ	0.187	175	128	3	177	49	207	8.064E-06	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7Z444-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7Z444-F1-model_v4 GTPase ERas	0.130	171	134	1	171	38	192	1.633E-05	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ZCP6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9ZCP6-F1-model_v4 GTPase Der	0.165	197	159	3	194	178	374	2.213E-06	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2S3S8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2S3S8-F1-model_v4 GTPase Der	0.123	195	168	3	194	196	390	1.855E-06	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2YM98-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2YM98-F1-model_v4 GTPase Der	0.170	196	159	2	194	209	404	2.213E-06	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8LHW1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8LHW1-F1-model_v4 GTPase Der	0.170	194	158	4	194	202	395	1.229E-06	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q828Y7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q828Y7-F1-model_v4 GTPase Der	0.180	172	131	3	174	51	211	7.603E-06	158
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P12825-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P12825-F1-model_v4 GTPase NRas	0.176	169	127	3	171	2	156	3.305E-05	157
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5D7J5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5D7J5-F1-model_v4 Rho-related GTP-binding protein RhoU	0.175	169	138	3	171	45	212	3.148E-06	157
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1MDD6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1MDD6-F1-model_v4 GTPase Der	0.145	196	164	2	194	200	395	1.967E-06	157
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7JGY9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7JGY9-F1-model_v4 GTPase Der	0.174	172	130	3	174	2	159	3.717E-05	156
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2G718-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2G718-F1-model_v4 GTPase Der	0.175	178	137	3	180	2	168	1.217E-05	156
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8MH56-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8MH56-F1-model_v4 GTPase Der	0.196	181	133	1	181	1	167	3.505E-05	156
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7U8G2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7U8G2-F1-model_v4 GTPase Der	0.164	197	161	1	194	174	370	6.760E-06	156
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UY19-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UY19-F1-model_v4 tRNA modification GTPase MnmE	0.137	197	165	5	196	217	413	2.086E-06	156
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5L4W4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5L4W4-F1-model_v4 GTPase Der	0.162	169	130	5	173	2	157	4.988E-05	156
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P05774-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P05774-F1-model_v4 Ras-like protein	0.180	188	148	3	190	2	182	1.451E-05	155
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54E92-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54E92-F1-model_v4 Ras-related protein RabG1	0.180	179	142	2	180	4	177	1.731E-05	155
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q01387-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q01387-F1-model_v4 Protein ras-2	0.165	187	151	3	184	7	193	1.947E-05	155
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2SRR7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2SRR7-F1-model_v4 GTPase Der	0.167	194	137	1	194	1	165	5.039E-06	155
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SL66-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SL66-F1-model_v4 GTPase Der	0.153	194	163	2	194	173	366	8.552E-06	155
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5LR04-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5LR04-F1-model_v4 GTPase Der	0.148	194	162	4	194	202	395	4.480E-06	155
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P38976-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P38976-F1-model_v4 Ras-like protein RAS2	0.201	162	118	1	162	5	153	3.305E-05	154
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9GPR2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9GPR2-F1-model_v4 Rho-related protein racI	0.155	163	135	1	161	2	164	2.323E-05	154
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7TN89-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7TN89-F1-model_v4 GTPase ERas	0.168	193	146	2	194	39	215	9.619E-06	154
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6T310-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6T310-F1-model_v4 Ras-like protein family member 11A	0.172	170	137	2	171	24	189	2.323E-05	154
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q73AZ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q73AZ1-F1-model_v4 GTPase Der	0.174	160	120	3	162	2	147	2.613E-05	154
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1XLH8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1XLH8-F1-model_v4 GTPase Der	0.113	194	169	4	194	176	369	5.667E-06	154
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BTQ8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BTQ8-F1-model_v4 GTPase Der	0.163	192	159	4	194	217	408	1.947E-05	154
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P03967-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P03967-F1-model_v4 Ras-like protein rasD	0.187	189	144	3	191	2	179	3.943E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22126-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22126-F1-model_v4 Protein ras-1	0.185	194	143	1	194	5	181	1.731E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C3L9F4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C3L9F4-F1-model_v4 GTPase Der	0.174	172	130	3	174	2	159	5.290E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6HL51-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6HL51-F1-model_v4 GTPase Der	0.174	160	120	3	162	2	147	2.771E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8EWH6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8EWH6-F1-model_v4 GTPase Der	0.142	195	164	3	197	171	362	2.464E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O51881-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O51881-F1-model_v4 GTPase Der	0.153	193	162	3	194	186	378	3.305E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5N167-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5N167-F1-model_v4 GTPase Der	0.149	194	162	4	194	177	370	2.799E-06	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0C1P2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0C1P2-F1-model_v4 GTPase Der	0.113	196	170	2	194	174	369	1.539E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1D5X5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1D5X5-F1-model_v4 GTPase Der	0.141	194	163	4	194	182	375	1.369E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PIB6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PIB6-F1-model_v4 GTPase Der	0.173	190	146	5	194	2	178	1.020E-05	153
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O94103-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O94103-F1-model_v4 Cell division control protein 42 homolog	0.163	180	147	1	180	2	178	1.369E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CQ43-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CQ43-F1-model_v4 Ras-like protein	0.169	171	130	1	171	6	163	7.097E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q29RR0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q29RR0-F1-model_v4 Ras-related protein Rab-26	0.198	158	116	4	161	63	208	1.290E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q59XU5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q59XU5-F1-model_v4 Ras-like protein 1	0.143	260	201	1	260	1	236	1.229E-06	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CHH6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CHH6-F1-model_v4 GTPase Der	0.151	179	144	3	181	2	172	1.290E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8KBK3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8KBK3-F1-model_v4 GTPase Der	0.190	183	139	4	186	2	173	2.190E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4XIQ6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4XIQ6-F1-model_v4 GTPase Der	0.140	193	163	5	197	180	369	4.224E-06	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q21DG1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q21DG1-F1-model_v4 tRNA modification GTPase MnmE	0.172	193	156	5	194	218	410	4.751E-06	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5EI59-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5EI59-F1-model_v4 GTPase Der	0.148	196	164	2	194	182	377	1.539E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q30YQ7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q30YQ7-F1-model_v4 tRNA modification GTPase MnmE	0.163	166	125	5	170	227	376	3.117E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q30TK8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q30TK8-F1-model_v4 GTPase Der	0.137	193	166	2	194	232	424	1.731E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3H0R7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3H0R7-F1-model_v4 GTPase Der	0.163	192	159	4	194	217	408	3.117E-05	152
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22981-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22981-F1-model_v4 Ras protein let-60	0.171	159	119	3	161	2	146	5.610E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9V4L4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9V4L4-F1-model_v4 NF-kappa-B inhibitor-interacting Ras-like protein	0.156	165	133	3	167	8	166	2.939E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-G4MZY8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-G4MZY8-F1-model_v4 Ras-like protein 2	0.163	171	131	1	171	6	163	7.982E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O42785-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O42785-F1-model_v4 Ras-like protein	0.170	193	145	1	193	5	180	1.947E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q71Y78-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q71Y78-F1-model_v4 GTPase Der	0.158	180	141	1	180	1	168	2.771E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63US9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63US9-F1-model_v4 GTPase Der	0.133	197	169	3	198	178	374	1.836E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GXR7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GXR7-F1-model_v4 GTPase Der	0.147	197	163	3	194	183	379	3.541E-06	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4YUE1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4YUE1-F1-model_v4 GTPase Der	0.115	195	169	3	194	183	377	2.323E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9L7G9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9L7G9-F1-model_v4 GTPase Der	0.147	193	163	2	194	196	387	1.082E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5ZYX3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5ZYX3-F1-model_v4 GTPase Der	0.145	196	164	2	194	200	395	2.639E-06	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3MZC1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3MZC1-F1-model_v4 GTPase Der	0.163	192	159	4	194	217	408	2.613E-05	151
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8CWY9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8CWY9-F1-model_v4 GTPase Der	0.140	196	165	3	195	176	371	1.836E-05	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31KP9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31KP9-F1-model_v4 GTPase Der	0.145	194	162	4	194	177	370	6.010E-06	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q07LA7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q07LA7-F1-model_v4 GTPase Der	0.118	195	168	3	194	187	381	2.613E-05	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P9WNL3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P9WNL3-F1-model_v4 GTPase Der	0.106	195	173	1	194	196	390	2.464E-05	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0KPJ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0KPJ1-F1-model_v4 GTPase Der	0.135	193	165	3	194	191	383	4.988E-05	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1IWF0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1IWF0-F1-model_v4 GTPase Der	0.146	193	161	4	196	202	391	3.943E-05	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5RCY8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5RCY8-F1-model_v4 GTPase Der	0.148	192	162	4	194	202	393	1.369E-05	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9XCI8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9XCI8-F1-model_v4 GTPase Der	0.135	192	164	4	194	202	393	4.703E-05	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q55G45-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q55G45-F1-model_v4 Probable mitochondrial Rho GTPase gemA	0.151	209	168	1	199	1	209	5.667E-06	150
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6IMA3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6IMA3-F1-model_v4 Ras-like protein family member 11A	0.174	169	135	3	171	26	189	3.717E-05	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P51156-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P51156-F1-model_v4 Ras-related protein Rab-26	0.225	158	112	4	161	64	209	3.305E-05	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O51830-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O51830-F1-model_v4 tRNA modification GTPase MnmE	0.150	194	163	5	197	217	410	8.064E-06	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0PSX2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0PSX2-F1-model_v4 GTPase Der	0.123	192	167	4	194	202	393	1.451E-05	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6MB45-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6MB45-F1-model_v4 GTPase Der	0.140	264	188	1	264	1	220	1.093E-06	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7N699-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7N699-F1-model_v4 GTPase Der	0.143	192	163	4	194	202	393	3.505E-05	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O59781-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O59781-F1-model_v4 Mitochondrial Rho GTPase 1	0.149	242	204	3	244	2	242	6.439E-07	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8RXF8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8RXF8-F1-model_v4 Mitochondrial Rho GTPase 1	0.106	195	173	1	195	14	208	9.070E-06	149
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O08989-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O08989-F1-model_v4 Ras-related protein M-Ras	0.181	192	149	1	192	10	192	1.836E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1EN01-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1EN01-F1-model_v4 GTPase Der	0.174	172	130	3	174	2	159	8.978E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1JNC4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1JNC4-F1-model_v4 GTPase Der	0.171	190	133	1	190	1	161	6.374E-06	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1XU78-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1XU78-F1-model_v4 GTPase Der	0.150	192	162	4	194	180	371	2.771E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q87B41-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q87B41-F1-model_v4 GTPase Der	0.145	193	163	3	194	177	369	3.117E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0V4V6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0V4V6-F1-model_v4 GTPase Der	0.114	191	167	5	194	177	367	4.703E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q11KI3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q11KI3-F1-model_v4 GTPase Der	0.162	196	161	2	194	196	391	5.667E-06	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2SMI8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2SMI8-F1-model_v4 tRNA modification GTPase MnmE	0.123	193	167	5	195	233	425	9.070E-06	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1Q7V4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1Q7V4-F1-model_v4 tRNA modification GTPase MnmE	0.140	241	199	5	245	231	462	2.213E-06	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0T208-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0T208-F1-model_v4 GTPase Der	0.138	192	164	4	194	202	393	3.943E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1DE52-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1DE52-F1-model_v4 GTPase Der	0.112	193	170	3	194	194	386	3.717E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4EZS9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4EZS9-F1-model_v4 GTPase Der	0.148	192	162	4	194	208	399	2.939E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P44536-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P44536-F1-model_v4 GTPase Der	0.168	192	158	4	194	215	406	3.505E-05	148
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34729-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P34729-F1-model_v4 Ras-like protein 1	0.190	185	138	3	187	2	172	3.305E-05	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O14807-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O14807-F1-model_v4 Ras-related protein M-Ras	0.174	192	150	1	192	10	192	2.065E-05	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9H0T7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9H0T7-F1-model_v4 Ras-related protein Rab-17	0.140	192	144	3	194	18	186	4.434E-05	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8NU18-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8NU18-F1-model_v4 24 kDa Ras-like protein	0.169	171	130	1	171	7	164	1.277E-04	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CY32-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CY32-F1-model_v4 Ras-like protein 1	0.140	260	202	1	260	1	236	2.639E-06	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1ANY6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1ANY6-F1-model_v4 GTPase Der	0.118	192	168	4	194	199	390	2.065E-05	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2W7M7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2W7M7-F1-model_v4 GTPase Der	0.115	195	169	3	194	193	387	1.451E-05	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9EWW8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9EWW8-F1-model_v4 GTPase Der	0.162	199	160	3	194	25	223	4.480E-06	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0B8S9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0B8S9-F1-model_v4 GTPase Der	0.173	166	126	6	171	2	154	1.010E-04	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8F4X7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8F4X7-F1-model_v4 GTPase Der	0.168	192	158	4	194	215	406	4.181E-05	147
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4KB60-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4KB60-F1-model_v4 Ras-like protein 1	0.195	184	135	3	186	2	170	1.147E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P15064-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P15064-F1-model_v4 Ras-like protein rasG	0.192	160	118	3	162	2	148	6.310E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P32254-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P32254-F1-model_v4 Ras-like protein rasS	0.175	191	145	4	194	3	179	4.434E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q504M8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q504M8-F1-model_v4 Ras-related protein Rab-26	0.180	177	139	4	180	67	237	6.374E-06	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8KH12-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8KH12-F1-model_v4 GTPase Der	0.143	188	136	3	190	2	161	2.939E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q81SW9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q81SW9-F1-model_v4 GTPase Der	0.179	174	130	1	174	1	159	3.943E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9AH00-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9AH00-F1-model_v4 GTPase Der	0.150	197	166	3	198	178	374	2.464E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GR60-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GR60-F1-model_v4 GTPase Der	0.129	195	166	3	194	175	369	9.619E-06	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5CDT2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5CDT2-F1-model_v4 GTPase Der	0.160	194	160	4	194	187	380	8.552E-06	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1IHC2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1IHC2-F1-model_v4 tRNA modification GTPase MnmE	0.130	192	154	5	196	222	399	1.369E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VDI8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VDI8-F1-model_v4 GTPase Der	0.136	195	165	3	194	176	370	1.020E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FKH3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FKH3-F1-model_v4 GTPase Der	0.182	190	144	5	194	2	178	2.065E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2I7V0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2I7V0-F1-model_v4 GTPase Der	0.136	193	165	3	194	177	369	4.703E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4X692-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4X692-F1-model_v4 GTPase Der	0.160	187	133	4	190	24	182	1.967E-06	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q92UK6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q92UK6-F1-model_v4 GTPase Der	0.139	196	165	2	194	202	397	2.464E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1IEH7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1IEH7-F1-model_v4 GTPase Der	0.127	197	170	3	198	191	387	1.731E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9N205-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9N205-F1-model_v4 GTPase Der	0.147	192	162	4	194	202	393	3.117E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2TXT6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2TXT6-F1-model_v4 GTPase Der	0.147	192	162	4	194	202	393	3.117E-05	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8NQK6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8NQK6-F1-model_v4 GTPase Der	0.155	190	135	1	190	78	238	8.552E-06	146
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4R9D4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4R9D4-F1-model_v4 Ras-related protein Rap-1b	0.180	178	138	3	180	2	170	1.204E-04	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JKM7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JKM7-F1-model_v4 Ras-related protein Rab-37	0.191	194	156	4	197	29	222	1.020E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q00245-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q00245-F1-model_v4 GTP-binding protein RHO3	0.157	194	146	1	174	13	206	4.703E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q55E31-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q55E31-F1-model_v4 Ras-related protein Rab-32B	0.150	168	137	2	169	55	216	4.703E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7HL14-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7HL14-F1-model_v4 GTPase Der	0.174	160	120	3	162	2	147	6.310E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7GWZ2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7GWZ2-F1-model_v4 GTPase Der	0.144	193	163	2	194	194	385	1.836E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1KJD0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1KJD0-F1-model_v4 GTPase Der	0.114	195	171	1	194	196	390	1.147E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C3MG60-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C3MG60-F1-model_v4 GTPase Der	0.138	193	165	2	194	202	393	1.539E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4FPR8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4FPR8-F1-model_v4 tRNA modification GTPase MnmE	0.153	234	191	5	238	231	457	2.489E-06	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Z4P6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Z4P6-F1-model_v4 GTPase Der	0.135	192	164	4	194	202	393	7.097E-05	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VM29-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VM29-F1-model_v4 GTPase Der	0.159	192	160	4	194	219	410	1.136E-04	145
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P04388-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P04388-F1-model_v4 Ras-like protein 2	0.180	180	142	1	180	2	175	3.305E-05	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2IRW4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2IRW4-F1-model_v4 GTPase Der	0.167	186	143	1	186	1	173	2.613E-05	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JM09-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JM09-F1-model_v4 GTPase Der	0.127	170	137	5	174	4	161	4.703E-05	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q28QC6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q28QC6-F1-model_v4 GTPase Der	0.162	194	159	4	194	190	383	1.749E-06	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5R578-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5R578-F1-model_v4 GTPase Der	0.152	192	161	4	194	202	393	3.717E-05	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q725L9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q725L9-F1-model_v4 GTPase Der	0.142	192	163	4	194	226	417	1.633E-05	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54N72-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54N72-F1-model_v4 Probable nucleolar GTP-binding protein 1	0.145	196	162	5	194	169	364	3.717E-05	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4PB75-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4PB75-F1-model_v4 Mitochondrial Rho GTPase 1	0.147	201	169	1	199	1	201	1.539E-05	144
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O13950-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O13950-F1-model_v4 Signal recognition particle receptor subunit beta	0.131	186	148	1	171	34	219	3.305E-05	143
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6F1R7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6F1R7-F1-model_v4 GTPase Der	0.208	186	134	1	186	1	170	1.204E-04	143
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1I462-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1I462-F1-model_v4 GTPase Der	0.141	171	134	1	171	1	157	7.097E-05	143
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5U372-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5U372-F1-model_v4 GTPase Der	0.103	192	170	4	194	199	390	3.117E-05	143
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8UD28-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8UD28-F1-model_v4 GTPase Der	0.125	245	197	2	227	202	446	1.749E-06	143
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7UGV7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7UGV7-F1-model_v4 GTPase Der	0.146	192	162	4	194	202	393	3.117E-05	143
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6LU45-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6LU45-F1-model_v4 GTPase Der	0.144	193	163	3	194	203	395	1.010E-04	143
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O67683-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O67683-F1-model_v4 Uncharacterized protein aq_1822	0.138	132	107	178	309	11	135	1.136E-04	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08645-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08645-F1-model_v4 Ras-related protein Rap1	0.186	178	136	3	180	2	169	1.524E-04	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5XJW0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5XJW0-F1-model_v4 GTPase Der	0.171	190	133	1	190	1	161	1.369E-05	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IMD9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IMD9-F1-model_v4 GTPase Der	0.163	158	122	5	162	2	148	1.731E-05	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7WHN4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7WHN4-F1-model_v4 GTPase Der	0.144	195	165	1	194	182	376	2.771E-05	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6APY7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6APY7-F1-model_v4 tRNA modification GTPase MnmE	0.153	156	119	5	160	226	366	4.703E-05	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0C8N9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0C8N9-F1-model_v4 tRNA modification GTPase MnmE	0.135	199	165	5	196	223	421	2.323E-05	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0QA05-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0QA05-F1-model_v4 GTPase Der	0.157	195	161	3	194	186	380	3.505E-05	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6L6E8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6L6E8-F1-model_v4 tRNA modification GTPase MnmE	0.154	154	122	5	158	257	401	4.181E-05	142
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5E9J4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5E9J4-F1-model_v4 Intraflagellar transport protein 22 homolog	0.180	172	120	3	149	2	173	1.649E-06	141
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9VMB3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9VMB3-F1-model_v4 GTPase Der	0.184	162	119	1	162	1	147	8.465E-05	141
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q030L6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q030L6-F1-model_v4 GTPase Der	0.155	200	168	3	202	2	201	8.064E-06	141
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2J1L2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2J1L2-F1-model_v4 GTPase Der	0.151	194	161	4	194	176	369	2.213E-06	141
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72D51-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72D51-F1-model_v4 tRNA modification GTPase MnmE	0.152	166	124	5	170	221	367	5.290E-05	141
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0M2N6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0M2N6-F1-model_v4 tRNA modification GTPase MnmE	0.121	198	168	5	196	222	419	5.949E-05	141
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0TEX4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0TEX4-F1-model_v4 GTPase Der	0.150	192	162	4	194	202	393	4.181E-05	141
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P62836-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P62836-F1-model_v4 Ras-related protein Rap-1A	0.175	178	139	3	180	2	170	1.437E-04	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6MTJ6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6MTJ6-F1-model_v4 GTPase Der	0.167	194	137	1	194	1	165	3.305E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04AY6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04AY6-F1-model_v4 GTPase Der	0.128	188	139	3	190	2	161	4.703E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q92A71-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q92A71-F1-model_v4 GTPase Der	0.168	195	159	3	194	174	368	4.703E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5M5X5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5M5X5-F1-model_v4 GTPase Der	0.146	181	147	1	181	1	173	2.771E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P64058-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P64058-F1-model_v4 GTPase Der	0.111	192	169	4	194	199	390	2.613E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9TLX6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9TLX6-F1-model_v4 Probable tRNA modification GTPase MnmE	0.165	193	155	5	197	222	408	1.020E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4UUM0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4UUM0-F1-model_v4 GTPase Der	0.125	192	166	4	194	178	369	1.524E-04	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Y3H5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Y3H5-F1-model_v4 tRNA modification GTPase MnmE	0.153	163	118	7	146	234	396	3.943E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6G0H5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6G0H5-F1-model_v4 GTPase Der	0.128	249	199	3	231	204	452	1.383E-06	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TCD0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TCD0-F1-model_v4 GTPase Der	0.153	192	161	4	194	204	395	7.982E-05	140
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22278-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22278-F1-model_v4 Ras-like protein 1	0.175	162	122	1	162	7	155	8.978E-05	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q057R5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q057R5-F1-model_v4 GTPase Era	0.153	267	205	2	244	5	271	2.489E-06	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0AK49-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0AK49-F1-model_v4 GTPase Der	0.158	195	161	3	194	174	368	5.290E-05	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5ZBM9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5ZBM9-F1-model_v4 GTPase Der	0.174	186	131	5	190	2	161	4.480E-06	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72VY6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72VY6-F1-model_v4 tRNA modification GTPase MnmE	0.119	192	168	4	195	220	411	2.190E-05	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5WBB6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5WBB6-F1-model_v4 tRNA modification GTPase MnmE	0.132	195	164	5	194	217	411	2.939E-05	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8HSJ3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8HSJ3-F1-model_v4 tRNA modification GTPase MnmE	0.170	192	154	5	196	223	408	2.190E-05	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PG37-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PG37-F1-model_v4 GTPase Der	0.150	193	162	3	194	177	369	7.097E-05	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P75590-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P75590-F1-model_v4 Translation initiation factor IF-2	0.119	310	240	1	310	118	390	2.999E-07	139
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9YH37-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9YH37-F1-model_v4 Ras-related protein Rap-1b	0.175	178	139	3	180	2	170	1.616E-04	138
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8IYK8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8IYK8-F1-model_v4 GTP-binding protein REM 2	0.136	159	127	3	161	113	260	6.692E-05	138
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SDB8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SDB8-F1-model_v4 GTPase Der	0.128	188	140	4	191	2	163	1.217E-05	138
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3M929-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3M929-F1-model_v4 GTPase Der	0.144	194	163	4	194	176	369	7.603E-06	138
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1GYZ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1GYZ9-F1-model_v4 tRNA modification GTPase MnmE	0.168	241	185	5	245	218	440	2.213E-06	138
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VYA6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VYA6-F1-model_v4 GTPase Der	0.173	190	146	5	194	2	178	3.305E-05	138
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3ANQ3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3ANQ3-F1-model_v4 tRNA modification GTPase MnmE	0.106	197	171	5	196	229	425	2.613E-05	138
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5RDM6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5RDM6-F1-model_v4 Ras-related protein Rap-1b	0.170	178	139	3	180	2	170	1.818E-04	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7SZ59-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7SZ59-F1-model_v4 Ras-like protein family member 12	0.130	172	139	3	174	22	182	1.928E-04	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FJQ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FJQ1-F1-model_v4 GTPase Obg	0.168	170	136	7	170	161	330	1.437E-04	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8YV35-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8YV35-F1-model_v4 GTPase Der	0.141	203	173	1	203	1	202	2.613E-05	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5VJK4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5VJK4-F1-model_v4 GTPase Der	0.194	189	129	3	191	2	162	3.505E-05	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39FR3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39FR3-F1-model_v4 GTPase Der	0.157	197	164	3	198	178	374	1.147E-05	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VNF8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VNF8-F1-model_v4 GTPase Der	0.137	199	170	1	198	176	374	5.610E-05	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2SUV8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2SUV8-F1-model_v4 tRNA modification GTPase MnmE	0.130	192	158	5	196	217	399	1.451E-05	137
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q96AX2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q96AX2-F1-model_v4 Ras-related protein Rab-37	0.169	194	160	4	197	29	222	8.552E-06	136
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54Z85-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54Z85-F1-model_v4 Rho-related protein racO	0.136	262	191	1	262	1	222	2.489E-06	136
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5KXT0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5KXT0-F1-model_v4 GTPase Der	0.163	184	130	3	186	2	157	5.610E-05	136
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q17ZA7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q17ZA7-F1-model_v4 tRNA modification GTPase MnmE	0.156	192	161	5	196	214	405	1.451E-05	136
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8LYU3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8LYU3-F1-model_v4 GTPase Der	0.134	197	165	4	194	24	220	4.224E-06	136
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1Y0F6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1Y0F6-F1-model_v4 tRNA modification GTPase MnmE	0.128	205	167	5	197	231	435	2.190E-05	136
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22279-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P22279-F1-model_v4 Ras-like protein 2	0.175	195	153	1	195	8	193	3.717E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1A8T3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1A8T3-F1-model_v4 GTPase Der	0.103	198	173	1	194	170	367	1.147E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P64062-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P64062-F1-model_v4 GTPase Der	0.149	203	171	1	203	1	202	1.539E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P64063-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P64063-F1-model_v4 GTPase Der	0.149	203	171	1	203	1	202	1.369E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q03MB1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q03MB1-F1-model_v4 GTPase Der	0.160	181	144	1	181	1	173	3.505E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q65I15-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q65I15-F1-model_v4 GTPase Der	0.160	194	138	1	194	1	165	3.117E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8DBY9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8DBY9-F1-model_v4 GTPase Der	0.165	158	120	1	158	1	145	1.355E-04	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2NX54-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2NX54-F1-model_v4 tRNA modification GTPase MnmE	0.120	192	160	5	196	217	399	1.539E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3IK56-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3IK56-F1-model_v4 tRNA modification GTPase MnmE	0.177	161	116	5	146	217	377	4.181E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8G3A3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8G3A3-F1-model_v4 GTPase Der	0.136	278	208	3	244	175	452	8.552E-06	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39BQ4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39BQ4-F1-model_v4 tRNA modification GTPase MnmE	0.135	192	163	5	196	227	415	2.613E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5LG80-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5LG80-F1-model_v4 tRNA modification GTPase MnmE	0.115	192	167	5	196	221	410	4.703E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8FTK5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8FTK5-F1-model_v4 GTPase Der	0.159	196	160	3	193	88	283	2.771E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9SV59-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9SV59-F1-model_v4 Translocase of chloroplast 101, chloroplastic	0.119	179	138	1	158	283	461	5.290E-05	135
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9DAI2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9DAI2-F1-model_v4 Intraflagellar transport protein 22 homolog	0.174	168	120	3	148	2	169	1.369E-05	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5FKF4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5FKF4-F1-model_v4 GTPase Der	0.151	203	171	1	203	1	202	3.505E-05	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8CP62-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8CP62-F1-model_v4 GTPase Der	0.159	195	161	3	194	174	368	1.277E-04	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9K8E0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9K8E0-F1-model_v4 GTPase Der	0.147	157	124	5	161	2	147	4.434E-05	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P74120-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P74120-F1-model_v4 GTPase Der	0.165	188	134	3	190	2	163	2.464E-05	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1U7J3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1U7J3-F1-model_v4 tRNA modification GTPase MnmE	0.181	120	97	5	123	217	336	1.714E-04	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9KFN5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9KFN5-F1-model_v4 GTPase Der	0.173	188	147	5	192	2	180	7.526E-05	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1BCU6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1BCU6-F1-model_v4 tRNA modification GTPase MnmE	0.127	195	167	5	196	233	427	3.505E-05	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BAF8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BAF8-F1-model_v4 GTPase Der	0.171	165	126	6	170	2	154	4.139E-04	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8BG51-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8BG51-F1-model_v4 Mitochondrial Rho GTPase 1	0.157	243	199	1	243	14	250	1.290E-05	134
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P62833-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P62833-F1-model_v4 Ras-related protein Rap-1A	0.175	178	139	3	180	2	170	3.085E-04	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5FVJ7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5FVJ7-F1-model_v4 Intraflagellar transport protein 22 homolog	0.162	167	119	3	145	2	168	8.552E-06	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q18246-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q18246-F1-model_v4 Ras-related protein Rap-1	0.175	159	120	3	161	2	147	1.437E-04	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q74JL6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q74JL6-F1-model_v4 GTPase Der	0.164	199	165	5	202	4	202	5.290E-05	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1KWN7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1KWN7-F1-model_v4 GTPase Der	0.163	195	160	3	194	174	368	1.277E-04	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9X1F8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9X1F8-F1-model_v4 GTPase Der	0.159	198	162	1	194	177	374	1.836E-05	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6SZW6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6SZW6-F1-model_v4 GTPase Der	0.134	194	166	2	194	178	371	7.982E-05	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0VKU8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0VKU8-F1-model_v4 tRNA modification GTPase MnmE	0.184	123	96	5	123	219	341	1.818E-04	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39PQ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39PQ9-F1-model_v4 tRNA modification GTPase MnmE	0.109	193	168	5	197	222	410	5.039E-06	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7MVZ2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7MVZ2-F1-model_v4 tRNA modification GTPase MnmE	0.145	154	127	5	158	228	376	2.743E-04	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q32LU1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q32LU1-F1-model_v4 Mitochondrial Rho GTPase 2	0.146	199	167	1	196	1	199	4.434E-05	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-F4J0W4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-F4J0W4-F1-model_v4 Mitochondrial Rho GTPase 2	0.141	199	161	1	199	12	200	2.939E-05	133
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5VQB6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5VQB6-F1-model_v4 GTP-binding protein YPT11	0.100	250	149	1	167	87	336	4.434E-05	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7HHQ7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7HHQ7-F1-model_v4 GTPase Der	0.172	185	129	3	187	2	158	7.982E-05	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8ZMH4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8ZMH4-F1-model_v4 GTPase Der	0.155	202	170	1	202	1	202	2.613E-05	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1BHZ8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1BHZ8-F1-model_v4 GTPase Der	0.177	188	133	4	191	2	163	7.097E-05	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8FM51-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8FM51-F1-model_v4 GTPase Der	0.142	195	164	3	194	172	366	5.610E-05	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2SHB1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2SHB1-F1-model_v4 GTPase Der	0.139	197	168	3	198	178	374	7.526E-05	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9KLX9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9KLX9-F1-model_v4 tRNA modification GTPase MnmE	0.170	192	150	5	196	222	403	8.552E-06	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q15MS9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q15MS9-F1-model_v4 tRNA modification GTPase MnmE	0.135	192	163	5	196	223	412	4.181E-05	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8G6A8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8G6A8-F1-model_v4 GTPase Der	0.143	262	186	5	266	27	244	1.749E-06	132
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZHX1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZHX1-F1-model_v4 Ras-related protein Rap-1b	0.170	178	139	3	180	2	170	3.470E-04	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q94694-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q94694-F1-model_v4 Ras-related protein Rap-1	0.170	179	140	2	180	3	172	3.470E-04	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0DA90-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0DA90-F1-model_v4 GTPase Der	0.160	190	134	1	190	1	161	2.939E-05	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5WSF0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5WSF0-F1-model_v4 tRNA modification GTPase MnmE	0.201	124	97	5	128	216	338	2.743E-04	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5GTT5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5GTT5-F1-model_v4 tRNA modification GTPase MnmE	0.125	193	160	5	197	217	400	2.464E-05	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7KHD2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7KHD2-F1-model_v4 GTPase Der	0.120	194	167	4	194	176	369	3.943E-05	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9WKE3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9WKE3-F1-model_v4 tRNA modification GTPase MnmE	0.109	192	168	5	196	215	404	3.117E-05	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SWH5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SWH5-F1-model_v4 tRNA modification GTPase MnmE	0.148	129	102	5	133	219	339	9.521E-05	131
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P61224-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P61224-F1-model_v4 Ras-related protein Rap-1b	0.184	178	137	3	180	2	170	4.139E-04	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3WE80-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3WE80-F1-model_v4 GTPase Der	0.169	179	138	1	179	1	167	1.818E-04	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8DS90-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8DS90-F1-model_v4 GTPase Der	0.156	190	135	1	190	1	161	5.290E-05	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q64NV3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q64NV3-F1-model_v4 GTPase Der	0.166	188	133	4	191	2	162	5.949E-05	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IIK3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IIK3-F1-model_v4 tRNA modification GTPase MnmE	0.201	124	97	5	128	216	338	3.272E-04	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VWL4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VWL4-F1-model_v4 GTPase Der	0.136	195	167	1	194	182	376	5.610E-05	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q119L7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q119L7-F1-model_v4 GTPase Der	0.144	196	164	2	194	174	369	1.633E-05	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5QUQ5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5QUQ5-F1-model_v4 tRNA modification GTPase MnmE	0.153	193	160	5	194	217	409	4.434E-05	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q02DE1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q02DE1-F1-model_v4 tRNA modification GTPase MnmE	0.218	126	97	5	129	217	342	2.168E-04	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31CE7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31CE7-F1-model_v4 GTPase Der	0.143	268	189	1	268	1	221	1.383E-06	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q67J33-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q67J33-F1-model_v4 tRNA modification GTPase MnmE	0.107	192	167	5	196	222	409	2.613E-05	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0RT56-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0RT56-F1-model_v4 GTPase Der	0.133	192	165	4	194	178	369	1.355E-04	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1WSU0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1WSU0-F1-model_v4 tRNA modification GTPase MnmE	0.119	215	167	5	195	230	444	2.771E-05	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5F3E6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5F3E6-F1-model_v4 GTPase Der	0.145	194	164	2	194	203	396	4.937E-04	130
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IZG5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IZG5-F1-model_v4 GTPase Der	0.171	194	158	4	194	171	364	7.526E-05	129
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0RBV9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0RBV9-F1-model_v4 GTPase Der	0.119	195	168	3	194	174	368	4.988E-05	129
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7Z636-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7Z636-F1-model_v4 GTPase Der	0.164	195	138	1	195	1	166	6.310E-05	129
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5M1D9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5M1D9-F1-model_v4 GTPase Der	0.155	190	135	1	190	1	161	4.434E-05	129
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q65VC3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q65VC3-F1-model_v4 tRNA modification GTPase MnmE	0.143	192	162	5	196	217	406	6.310E-05	129
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SGR9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SGR9-F1-model_v4 tRNA modification GTPase MnmE	0.129	195	166	5	196	231	425	1.836E-05	129
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0C441-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0C441-F1-model_v4 GTPase Der	0.148	198	164	1	194	225	422	1.369E-05	129
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6TEN1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6TEN1-F1-model_v4 Ras-related protein Rap-1b	0.184	178	137	3	180	2	170	3.085E-04	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5M8K8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5M8K8-F1-model_v4 Intraflagellar transport protein 22 homolog	0.152	168	122	3	147	2	169	3.505E-05	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q640R7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q640R7-F1-model_v4 Ras-related protein Rap-1b	0.184	178	137	3	180	2	170	2.909E-04	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O67749-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O67749-F1-model_v4 GTPase Der	0.182	277	183	5	281	3	227	2.086E-06	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0LJ92-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0LJ92-F1-model_v4 GTPase Der	0.118	197	170	1	194	175	371	4.181E-05	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9MFY0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9MFY0-F1-model_v4 GTPase Der	0.148	197	166	3	198	178	374	1.437E-04	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1X0B0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1X0B0-F1-model_v4 GTPase Der	0.135	188	139	3	190	2	163	3.117E-05	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8HVL5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8HVL5-F1-model_v4 GTPase Der	0.148	192	162	4	194	186	377	2.771E-05	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q663S6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q663S6-F1-model_v4 tRNA modification GTPase MnmE	0.163	161	118	5	146	217	377	1.616E-04	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0CBB0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0CBB0-F1-model_v4 tRNA modification GTPase MnmE	0.126	193	163	5	197	221	408	8.465E-05	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0RQK2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0RQK2-F1-model_v4 GTPase Der	0.140	251	207	5	255	2	243	5.344E-06	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4JJ44-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4JJ44-F1-model_v4 tRNA modification GTPase MnmE	0.127	192	164	5	196	227	415	3.943E-05	128
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7ZXH7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7ZXH7-F1-model_v4 Ras-related protein Rap-1b	0.170	178	139	3	180	2	170	3.085E-04	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q62636-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q62636-F1-model_v4 Ras-related protein Rap-1b	0.170	178	139	3	180	2	170	5.553E-04	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9WTY2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9WTY2-F1-model_v4 GTP-binding protein REM 2	0.110	159	131	3	161	114	261	8.978E-05	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5G692-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5G692-F1-model_v4 GTPase Der	0.137	199	168	3	198	174	372	4.988E-05	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04XE4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04XE4-F1-model_v4 tRNA modification GTPase MnmE	0.134	192	165	4	195	220	411	8.978E-05	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VER5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VER5-F1-model_v4 tRNA modification GTPase MnmE	0.149	166	124	5	170	221	367	1.136E-04	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q49884-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q49884-F1-model_v4 GTPase Der	0.139	191	163	5	194	198	388	4.181E-05	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2RFI8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2RFI8-F1-model_v4 tRNA modification GTPase MnmE	0.100	238	200	5	242	221	443	2.065E-05	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3BTW0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3BTW0-F1-model_v4 GTPase Der	0.129	192	165	4	194	178	369	2.909E-04	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2HRU9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2HRU9-F1-model_v4 GTPase Der	0.113	244	202	4	232	202	445	1.451E-05	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4K4J2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4K4J2-F1-model_v4 GTPase Der	0.150	192	162	4	194	209	400	2.439E-04	127
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9NYN1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9NYN1-F1-model_v4 Ras-like protein family member 12	0.121	172	141	3	174	19	179	2.044E-04	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3LPD8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3LPD8-F1-model_v4 GTP-binding protein YPT11	0.119	250	146	1	167	87	336	6.310E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GGT6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GGT6-F1-model_v4 GTPase Der	0.144	195	163	3	194	174	368	5.610E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5X0M3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5X0M3-F1-model_v4 tRNA modification GTPase MnmE	0.191	124	99	5	128	216	338	2.909E-04	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1GXL7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1GXL7-F1-model_v4 tRNA modification GTPase MnmE	0.125	192	162	5	196	216	401	7.526E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12AC2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12AC2-F1-model_v4 GTPase Der	0.118	307	220	1	307	176	425	1.290E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P57132-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P57132-F1-model_v4 tRNA modification GTPase MnmE	0.136	191	163	5	194	216	406	3.717E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5F485-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5F485-F1-model_v4 tRNA modification GTPase MnmE	0.166	161	118	5	146	216	376	7.526E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39ZT0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39ZT0-F1-model_v4 tRNA modification GTPase MnmE	0.125	239	171	5	243	221	416	2.771E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0JVV0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0JVV0-F1-model_v4 tRNA modification GTPase MnmE	0.123	192	163	5	196	223	409	1.071E-04	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2STM2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2STM2-F1-model_v4 tRNA modification GTPase MnmE	0.126	197	168	5	197	227	423	6.692E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PLM3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PLM3-F1-model_v4 GTPase Der	0.175	193	158	3	194	225	417	1.204E-04	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O84709-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O84709-F1-model_v4 GTPase Der	0.176	165	125	6	170	2	154	4.389E-04	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6XHB2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6XHB2-F1-model_v4 Probable serine/threonine-protein kinase roco4	0.116	306	256	3	308	369	659	1.451E-05	126
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3KKZ6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3KKZ6-F1-model_v4 tRNA modification GTPase MnmE	0.136	192	155	5	196	217	396	2.065E-05	125
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9IK66-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9IK66-F1-model_v4 GTPase Der	0.141	193	164	3	194	184	376	1.071E-04	125
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9NBA7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9NBA7-F1-model_v4 tRNA modification GTPase MnmE	0.135	192	162	5	196	217	404	1.836E-05	125
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04W28-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04W28-F1-model_v4 tRNA modification GTPase MnmE	0.134	192	165	4	195	220	411	1.136E-04	125
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2BV51-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2BV51-F1-model_v4 GTPase Der	0.119	266	194	3	268	2	222	3.339E-06	125
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3BLZ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3BLZ9-F1-model_v4 tRNA modification GTPase MnmE	0.120	192	160	5	196	217	399	5.949E-05	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q21W32-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q21W32-F1-model_v4 GTPase Der	0.152	196	165	4	198	179	374	1.010E-04	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7M559-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7M559-F1-model_v4 tRNA modification GTPase MnmE	0.185	160	114	5	145	217	376	1.204E-04	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5PKU1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5PKU1-F1-model_v4 tRNA modification GTPase MnmE	0.191	160	113	5	145	217	376	1.524E-04	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P97043-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P97043-F1-model_v4 tRNA modification GTPase MnmE	0.108	193	171	3	195	219	411	6.692E-05	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q13SH7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q13SH7-F1-model_v4 tRNA modification GTPase MnmE	0.121	192	165	5	196	227	415	5.949E-05	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3NPX5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3NPX5-F1-model_v4 tRNA modification GTPase MnmE	0.121	197	169	5	197	227	423	8.465E-05	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9SY65-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9SY65-F1-model_v4 Translocase of chloroplast 108, chloroplastic	0.124	179	138	1	158	359	537	1.616E-04	124
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3EMI7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3EMI7-F1-model_v4 GTPase Der	0.153	194	161	4	194	175	368	1.071E-04	123
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0Q2L4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0Q2L4-F1-model_v4 tRNA modification GTPase MnmE	0.143	193	162	5	194	217	409	6.692E-05	123
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5QZJ5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5QZJ5-F1-model_v4 tRNA modification GTPase MnmE	0.132	192	164	5	196	221	410	7.097E-05	123
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SNY5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SNY5-F1-model_v4 tRNA modification GTPase MnmE	0.194	191	152	5	195	223	412	6.692E-05	123
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1K0Y2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1K0Y2-F1-model_v4 tRNA modification GTPase MnmE	0.140	192	162	5	196	227	415	7.526E-05	123
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2HJF8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2HJF8-F1-model_v4 Mitochondrial Rho GTPase 1	0.148	308	229	1	308	14	283	9.619E-06	123
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54EW9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54EW9-F1-model_v4 Ras-related protein RabU	0.137	171	145	1	171	9	177	3.470E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R541-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5R541-F1-model_v4 GTP-binding protein GEM	0.130	189	161	3	191	74	259	1.714E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1MYB5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1MYB5-F1-model_v4 GTPase Der	0.163	190	134	1	190	1	161	1.616E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2THQ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2THQ9-F1-model_v4 GTPase Der	0.168	195	159	3	194	175	369	1.524E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7MQK6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7MQK6-F1-model_v4 tRNA modification GTPase MnmE	0.169	161	117	5	146	216	376	1.524E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1MS56-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1MS56-F1-model_v4 GTPase Der	0.156	307	210	4	310	189	438	3.983E-06	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q329B1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q329B1-F1-model_v4 tRNA modification GTPase MnmE	0.179	160	115	5	145	217	376	1.714E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9MJT6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9MJT6-F1-model_v4 tRNA modification GTPase MnmE	0.140	192	163	5	196	217	406	7.982E-05	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6VF44-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6VF44-F1-model_v4 tRNA modification GTPase MnmE	0.159	194	159	5	194	217	410	1.010E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9BE09-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9BE09-F1-model_v4 GTPase Der	0.122	279	200	3	281	2	230	1.649E-06	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72WU3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72WU3-F1-model_v4 tRNA modification GTPase MnmE	0.128	192	165	5	196	221	410	3.505E-05	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2C018-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2C018-F1-model_v4 tRNA modification GTPase MnmE	0.150	232	174	5	236	227	432	9.070E-06	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q662I5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q662I5-F1-model_v4 tRNA modification GTPase MnmE	0.202	152	113	5	156	223	365	2.299E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1V7D3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1V7D3-F1-model_v4 tRNA modification GTPase MnmE	0.121	197	169	5	197	227	423	1.071E-04	122
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3B5U3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3B5U3-F1-model_v4 GTPase Der	0.128	261	189	4	264	2	219	4.751E-06	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q879S5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q879S5-F1-model_v4 tRNA modification GTPase MnmE	0.131	192	153	5	196	221	397	2.613E-05	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9MX84-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9MX84-F1-model_v4 tRNA modification GTPase MnmE	0.191	160	113	5	145	217	376	1.928E-04	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7V2S6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7V2S6-F1-model_v4 GTPase Der	0.116	274	198	3	276	2	226	1.383E-06	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KBN1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KBN1-F1-model_v4 tRNA modification GTPase MnmE	0.150	194	163	5	197	227	420	9.521E-05	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1BSF9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1BSF9-F1-model_v4 tRNA modification GTPase MnmE	0.147	191	161	5	194	227	417	1.071E-04	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q46HI4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q46HI4-F1-model_v4 tRNA modification GTPase MnmE	0.144	232	175	5	236	227	432	1.633E-05	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8IXI1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8IXI1-F1-model_v4 Mitochondrial Rho GTPase 2	0.139	310	233	1	310	1	272	6.374E-06	121
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8DY73-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8DY73-F1-model_v4 GTPase Der	0.160	190	134	1	190	1	161	5.949E-05	120
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4SED0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4SED0-F1-model_v4 GTPase Der	0.141	276	194	4	279	2	228	1.539E-05	120
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0AE55-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0AE55-F1-model_v4 tRNA modification GTPase MnmE	0.152	192	159	5	196	216	403	1.437E-04	120
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3K429-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3K429-F1-model_v4 tRNA modification GTPase MnmE	0.135	198	166	5	197	217	414	1.010E-04	120
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JSU8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JSU8-F1-model_v4 tRNA modification GTPase MnmE	0.162	193	156	5	197	226	412	2.586E-04	120
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7HZI3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7HZI3-F1-model_v4 GTPase Der	0.146	251	207	5	255	2	244	9.070E-06	120
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39T85-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q39T85-F1-model_v4 GTPase Der	0.119	199	172	3	198	174	372	1.010E-04	119
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4Z0C8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4Z0C8-F1-model_v4 GTPase Der	0.162	190	136	1	190	1	163	1.437E-04	119
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9WYA4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9WYA4-F1-model_v4 tRNA modification GTPase MnmE	0.130	193	166	4	196	211	402	5.949E-05	119
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9KBS9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9KBS9-F1-model_v4 tRNA modification GTPase MnmE	0.133	192	162	5	196	217	404	5.949E-05	119
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9KVY5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9KVY5-F1-model_v4 tRNA modification GTPase MnmE	0.172	161	117	5	146	216	376	1.818E-04	119
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8ZKY3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8ZKY3-F1-model_v4 tRNA modification GTPase MnmE	0.177	161	116	5	146	217	377	1.818E-04	119
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4F0U0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4F0U0-F1-model_v4 tRNA modification GTPase MnmE	0.180	161	116	5	146	217	377	1.277E-04	119
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6KXK1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6KXK1-F1-model_v4 GTPase Der	0.179	188	131	4	191	2	162	5.610E-05	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6LNG7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6LNG7-F1-model_v4 GTPase Der	0.131	241	196	2	227	177	417	4.703E-05	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6ND14-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6ND14-F1-model_v4 tRNA modification GTPase MnmE	0.111	192	157	5	196	219	396	1.071E-04	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2WBH0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2WBH0-F1-model_v4 tRNA modification GTPase MnmE	0.115	192	155	5	196	215	390	1.204E-04	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PLM9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PLM9-F1-model_v4 tRNA modification GTPase MnmE	0.147	192	147	5	196	217	389	2.464E-05	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5YXB0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5YXB0-F1-model_v4 tRNA modification GTPase MnmE	0.156	193	160	5	194	217	409	9.521E-05	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7MAX1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7MAX1-F1-model_v4 tRNA modification GTPase MnmE	0.178	161	116	5	146	217	377	1.524E-04	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q89A14-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q89A14-F1-model_v4 GTPase Der	0.163	309	208	1	309	197	446	8.064E-06	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3MS17-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3MS17-F1-model_v4 tRNA modification GTPase MnmE	0.120	194	166	5	194	227	420	3.085E-04	118
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3Q8A8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3Q8A8-F1-model_v4 tRNA modification GTPase MnmE	0.140	192	152	5	196	219	396	8.465E-05	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9P9U3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9P9U3-F1-model_v4 tRNA modification GTPase MnmE	0.145	192	150	5	196	221	397	4.988E-05	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4TN11-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4TN11-F1-model_v4 tRNA modification GTPase MnmE	0.161	193	159	5	194	217	409	8.465E-05	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8G7P7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8G7P7-F1-model_v4 tRNA modification GTPase MnmE	0.207	123	96	5	126	217	339	1.264E-03	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0A176-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0A176-F1-model_v4 tRNA modification GTPase MnmE	0.137	198	166	5	197	217	414	1.616E-04	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3PBA9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3PBA9-F1-model_v4 GTPase Der	0.136	268	190	1	268	1	221	1.082E-05	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JIE6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2JIE6-F1-model_v4 tRNA modification GTPase MnmE	0.140	193	160	5	197	226	412	3.272E-04	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1YQJ5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1YQJ5-F1-model_v4 tRNA modification GTPase MnmE	0.134	192	163	5	196	227	415	1.204E-04	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O83561-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O83561-F1-model_v4 tRNA modification GTPase MnmE	0.092	225	174	5	197	224	448	1.010E-04	117
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3ER55-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3ER55-F1-model_v4 GTPase Obg	0.162	162	129	1	162	159	313	3.680E-04	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6U1U3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6U1U3-F1-model_v4 GTPase Der	0.137	195	165	3	194	174	368	1.355E-04	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05FY9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q05FY9-F1-model_v4 tRNA modification GTPase MnmE	0.176	168	125	3	170	209	361	6.624E-04	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5D1U6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5D1U6-F1-model_v4 GTPase Der	0.165	195	159	3	194	175	369	2.613E-05	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UD71-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UD71-F1-model_v4 tRNA modification GTPase MnmE	0.138	241	191	5	245	215	436	1.290E-05	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2S6M6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2S6M6-F1-model_v4 tRNA modification GTPase MnmE	0.153	192	160	5	196	217	406	1.204E-04	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0KRC0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0KRC0-F1-model_v4 tRNA modification GTPase MnmE	0.152	197	162	5	196	217	413	4.988E-05	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0C8P1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0C8P1-F1-model_v4 tRNA modification GTPase MnmE	0.138	199	165	5	196	223	421	7.526E-05	116
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q20365-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q20365-F1-model_v4 Ras-related protein Rab-33	0.142	244	177	3	246	99	305	2.771E-05	115
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4XHX9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4XHX9-F1-model_v4 GTPase Der	0.161	195	159	4	194	2	196	5.290E-05	115
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4VS81-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4VS81-F1-model_v4 tRNA modification GTPase MnmE	0.139	191	161	5	192	217	407	6.310E-05	115
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5E8Z9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5E8Z9-F1-model_v4 tRNA modification GTPase MnmE	0.182	161	115	5	146	218	378	1.355E-04	115
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0K5N4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0K5N4-F1-model_v4 tRNA modification GTPase MnmE	0.141	191	161	6	196	224	412	7.097E-05	115
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0BAQ4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0BAQ4-F1-model_v4 tRNA modification GTPase MnmE	0.146	194	164	5	197	227	420	1.714E-04	115
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q08AT1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q08AT1-F1-model_v4 Ras-like protein family member 12	0.111	172	142	3	174	19	179	8.380E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8G2P9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8G2P9-F1-model_v4 GTPase Der	0.141	204	173	1	202	1	204	2.299E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9Z768-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9Z768-F1-model_v4 tRNA modification GTPase MnmE	0.125	192	157	5	196	216	395	4.434E-05	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5P4P5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5P4P5-F1-model_v4 tRNA modification GTPase MnmE	0.137	157	119	5	161	221	359	1.524E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SYP6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SYP6-F1-model_v4 tRNA modification GTPase MnmE	0.144	193	162	5	194	217	409	6.692E-05	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4SYB2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4SYB2-F1-model_v4 tRNA modification GTPase MnmE	0.171	161	117	5	146	217	377	2.044E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5RFY2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5RFY2-F1-model_v4 tRNA modification GTPase MnmE	0.160	161	118	5	146	217	377	2.743E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2A470-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2A470-F1-model_v4 tRNA modification GTPase MnmE	0.121	192	166	5	196	221	410	1.355E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O25991-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O25991-F1-model_v4 tRNA modification GTPase MnmE	0.146	192	163	5	196	225	416	4.703E-05	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7FPM0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7FPM0-F1-model_v4 tRNA modification GTPase MnmE	0.175	192	156	5	196	224	413	5.610E-05	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2S8D8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2S8D8-F1-model_v4 tRNA modification GTPase MnmE	0.116	197	170	5	197	227	423	2.299E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q121L2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q121L2-F1-model_v4 tRNA modification GTPase MnmE	0.139	201	164	5	195	232	432	1.524E-04	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2S3E2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2S3E2-F1-model_v4 tRNA modification GTPase MnmE	0.107	226	169	5	194	224	449	6.310E-05	114
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5XNH1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5XNH1-F1-model_v4 GTPase Era	0.124	266	211	3	244	7	272	2.190E-05	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8R9J1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8R9J1-F1-model_v4 GTPase Der	0.168	189	135	3	191	2	164	9.425E-04	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O84704-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O84704-F1-model_v4 tRNA modification GTPase MnmE	0.131	192	156	5	196	217	396	5.610E-05	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1KCP8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1KCP8-F1-model_v4 tRNA modification GTPase MnmE	0.115	193	165	5	197	221	408	8.465E-05	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0URU2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0URU2-F1-model_v4 tRNA modification GTPase MnmE	0.153	241	186	5	245	216	436	2.939E-05	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KQZ6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KQZ6-F1-model_v4 tRNA modification GTPase MnmE	0.151	192	160	5	196	216	405	1.010E-04	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7NR09-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7NR09-F1-model_v4 tRNA modification GTPase MnmE	0.150	192	161	5	196	217	406	1.818E-04	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1LH94-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1LH94-F1-model_v4 tRNA modification GTPase MnmE	0.121	204	166	7	196	223	426	2.743E-04	113
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72K85-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q72K85-F1-model_v4 tRNA modification GTPase MnmE	0.129	192	149	5	196	219	390	1.437E-04	112
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8GW34-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8GW34-F1-model_v4 tRNA modification GTPase MnmE	0.103	238	200	5	242	213	436	6.692E-05	112
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7N0X8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7N0X8-F1-model_v4 tRNA modification GTPase MnmE	0.146	192	161	5	196	216	405	2.299E-04	112
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0V5S5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0V5S5-F1-model_v4 tRNA modification GTPase MnmE	0.116	192	164	5	196	220	406	7.982E-05	112
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9R5S1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9R5S1-F1-model_v4 tRNA modification GTPase MnmE	0.182	161	115	5	146	217	377	3.272E-04	112
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2K868-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2K868-F1-model_v4 tRNA modification GTPase MnmE	0.134	234	187	5	238	217	433	8.465E-05	112
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31CZ2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31CZ2-F1-model_v4 tRNA modification GTPase MnmE	0.123	190	160	5	194	228	410	1.264E-03	112
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4RD04-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4RD04-F1-model_v4 tRNA modification GTPase MnmE	0.099	234	189	5	238	214	424	1.714E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6VQS6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6VQS6-F1-model_v4 tRNA modification GTPase MnmE	0.152	241	187	5	245	215	436	3.943E-05	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2Y5A9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2Y5A9-F1-model_v4 tRNA modification GTPase MnmE	0.116	192	166	5	196	216	404	1.524E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1KQ64-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1KQ64-F1-model_v4 tRNA modification GTPase MnmE	0.173	161	117	5	146	216	376	4.937E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12HM9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12HM9-F1-model_v4 tRNA modification GTPase MnmE	0.149	192	161	5	196	216	405	2.743E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CCJ3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CCJ3-F1-model_v4 tRNA modification GTPase MnmE	0.166	161	118	5	146	217	377	3.903E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5BIL9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5BIL9-F1-model_v4 tRNA modification GTPase MnmE	0.136	192	163	5	196	217	406	2.168E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HT07-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HT07-F1-model_v4 tRNA modification GTPase MnmE	0.148	194	161	5	194	217	410	1.355E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CRH7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CRH7-F1-model_v4 tRNA modification GTPase MnmE	0.137	192	165	5	196	225	416	7.526E-05	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0I6N5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0I6N5-F1-model_v4 tRNA modification GTPase MnmE	0.105	193	172	5	197	228	420	3.470E-04	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8IXI2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8IXI2-F1-model_v4 Mitochondrial Rho GTPase 1	0.152	308	228	1	308	1	270	3.117E-05	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZM73-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZM73-F1-model_v4 Mitochondrial Rho GTPase 1	0.146	308	230	1	308	1	270	2.771E-05	111
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8HQE1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8HQE1-F1-model_v4 GTPase Der	0.118	264	192	3	266	2	220	1.836E-05	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3YWA7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3YWA7-F1-model_v4 tRNA modification GTPase MnmE	0.148	193	161	5	194	217	409	7.097E-05	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1JT87-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1JT87-F1-model_v4 tRNA modification GTPase MnmE	0.144	234	185	5	238	217	433	5.610E-05	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7FPC2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7FPC2-F1-model_v4 tRNA modification GTPase MnmE	0.137	234	186	5	238	217	433	6.310E-05	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1X9T5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1X9T5-F1-model_v4 tRNA modification GTPase MnmE	0.160	161	118	5	146	217	377	2.743E-04	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1QS99-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1QS99-F1-model_v4 tRNA modification GTPase MnmE	0.121	192	166	5	196	221	410	1.524E-04	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5I816-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5I816-F1-model_v4 tRNA modification GTPase MnmE	0.177	192	156	5	196	224	413	5.949E-05	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q62EM6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q62EM6-F1-model_v4 tRNA modification GTPase MnmE	0.121	197	169	5	197	227	423	4.655E-04	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5E9M9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5E9M9-F1-model_v4 Mitochondrial Rho GTPase 2	0.129	308	234	1	308	1	270	2.323E-05	110
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TS39-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TS39-F1-model_v4 GTPase Der	0.168	190	134	1	190	1	162	1.908E-03	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8I442-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8I442-F1-model_v4 GTPase Der	0.134	205	175	1	203	1	205	1.928E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CAX2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0CAX2-F1-model_v4 tRNA modification GTPase MnmE	0.095	192	169	5	196	213	400	3.470E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3QJT0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3QJT0-F1-model_v4 tRNA modification GTPase MnmE	0.150	192	161	5	194	216	407	3.903E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8DDI1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8DDI1-F1-model_v4 tRNA modification GTPase MnmE	0.152	192	160	5	196	216	405	1.818E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4TSL0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4TSL0-F1-model_v4 tRNA modification GTPase MnmE	0.127	234	189	5	238	217	433	1.437E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4WGH1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4WGH1-F1-model_v4 tRNA modification GTPase MnmE	0.163	193	158	5	194	217	409	2.044E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2NQ72-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2NQ72-F1-model_v4 tRNA modification GTPase MnmE	0.144	192	162	5	194	217	408	1.277E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1T0N0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1T0N0-F1-model_v4 tRNA modification GTPase MnmE	0.167	161	117	5	146	218	378	1.071E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1LTV8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1LTV8-F1-model_v4 tRNA modification GTPase MnmE	0.160	193	159	5	194	219	411	1.928E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6W3V0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6W3V0-F1-model_v4 tRNA modification GTPase MnmE	0.141	192	162	5	196	222	411	3.085E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GPA1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GPA1-F1-model_v4 tRNA modification GTPase MnmE	0.105	193	170	5	197	227	417	4.389E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0SJ24-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0SJ24-F1-model_v4 tRNA modification GTPase MnmE	0.122	195	168	4	195	222	416	3.085E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1WWE4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1WWE4-F1-model_v4 tRNA modification GTPase MnmE	0.112	158	128	5	162	231	375	8.887E-04	109
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P55041-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P55041-F1-model_v4 GTP-binding protein GEM	0.115	257	193	3	259	73	291	1.355E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P55040-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P55040-F1-model_v4 GTP-binding protein GEM	0.107	258	192	3	260	74	289	8.978E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1APR9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1APR9-F1-model_v4 GTPase Der	0.128	199	170	3	198	174	372	4.389E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q602M5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q602M5-F1-model_v4 tRNA modification GTPase MnmE	0.115	192	162	5	196	218	401	1.355E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P94612-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P94612-F1-model_v4 tRNA modification GTPase MnmE	0.136	192	162	5	196	217	404	1.071E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1JRQ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1JRQ1-F1-model_v4 tRNA modification GTPase MnmE	0.137	234	186	5	238	217	433	7.526E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2VCE7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2VCE7-F1-model_v4 tRNA modification GTPase MnmE	0.134	234	187	5	238	217	433	7.097E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P25522-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P25522-F1-model_v4 tRNA modification GTPase MnmE	0.152	193	160	5	194	217	409	7.526E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1C0B3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1C0B3-F1-model_v4 tRNA modification GTPase MnmE	0.137	234	186	5	238	217	433	7.526E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6LW56-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6LW56-F1-model_v4 tRNA modification GTPase MnmE	0.175	161	116	5	146	218	378	1.524E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5G9V3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5G9V3-F1-model_v4 tRNA modification GTPase MnmE	0.170	192	149	5	196	221	400	2.743E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8R6K8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8R6K8-F1-model_v4 tRNA modification GTPase MnmE	0.142	192	162	5	196	223	412	7.982E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3PAQ7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3PAQ7-F1-model_v4 tRNA modification GTPase MnmE	0.127	190	159	5	194	228	410	5.553E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VQV3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VQV3-F1-model_v4 tRNA modification GTPase MnmE	0.142	246	202	5	240	220	465	1.451E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VUS4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VUS4-F1-model_v4 tRNA modification GTPase MnmE	0.134	201	165	5	195	232	432	1.928E-04	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZM83-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5ZM83-F1-model_v4 Mitochondrial Rho GTPase 2	0.147	308	229	1	308	1	270	4.434E-05	108
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6G1K8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6G1K8-F1-model_v4 tRNA modification GTPase MnmE	0.156	148	118	5	145	215	362	1.124E-03	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0T6E0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0T6E0-F1-model_v4 tRNA modification GTPase MnmE	0.129	194	165	5	198	213	403	3.470E-04	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q477Q5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q477Q5-F1-model_v4 tRNA modification GTPase MnmE	0.124	193	162	5	197	215	400	1.928E-04	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JXL4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JXL4-F1-model_v4 tRNA modification GTPase MnmE	0.117	192	163	5	196	217	402	4.937E-04	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AVY3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AVY3-F1-model_v4 tRNA modification GTPase MnmE	0.123	232	172	5	236	223	419	7.526E-05	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q87TR6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q87TR6-F1-model_v4 tRNA modification GTPase MnmE	0.132	192	164	5	196	216	405	6.310E-05	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6CYQ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6CYQ9-F1-model_v4 tRNA modification GTPase MnmE	0.152	234	183	5	238	217	433	4.181E-05	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1JFV3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1JFV3-F1-model_v4 tRNA modification GTPase MnmE	0.157	197	161	5	196	217	413	1.714E-04	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q24M98-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q24M98-F1-model_v4 tRNA modification GTPase MnmE	0.147	192	157	5	196	220	404	4.655E-04	107
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8VEL9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8VEL9-F1-model_v4 GTP-binding protein REM 2	0.104	158	131	4	161	115	261	6.624E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0AKE8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0AKE8-F1-model_v4 tRNA modification GTPase MnmE	0.148	159	127	4	153	215	373	7.025E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5L4W0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5L4W0-F1-model_v4 tRNA modification GTPase MnmE	0.134	192	155	5	196	216	395	1.204E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UID5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UID5-F1-model_v4 tRNA modification GTPase MnmE	0.151	234	183	5	238	215	431	2.190E-05	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TG09-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TG09-F1-model_v4 tRNA modification GTPase MnmE	0.141	193	162	5	194	217	409	5.610E-05	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5XZP4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5XZP4-F1-model_v4 tRNA modification GTPase MnmE	0.138	193	163	5	194	217	409	2.168E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1AHP0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1AHP0-F1-model_v4 tRNA modification GTPase MnmE	0.164	160	117	5	145	217	376	6.246E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1IX32-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1IX32-F1-model_v4 tRNA modification GTPase MnmE	0.164	160	117	5	145	217	376	5.553E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7N211-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7N211-F1-model_v4 tRNA modification GTPase MnmE	0.144	193	162	5	194	217	409	2.439E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VJY2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VJY2-F1-model_v4 tRNA modification GTPase MnmE	0.120	228	182	5	232	224	431	1.616E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q21QM5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q21QM5-F1-model_v4 tRNA modification GTPase MnmE	0.144	201	153	5	184	233	433	5.610E-05	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7V491-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7V491-F1-model_v4 tRNA modification GTPase MnmE	0.121	239	178	5	243	228	430	3.272E-04	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8JZN7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8JZN7-F1-model_v4 Mitochondrial Rho GTPase 2	0.139	308	232	1	308	1	270	4.434E-05	106
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0K3E4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0K3E4-F1-model_v4 GTPase Der	0.172	195	158	3	194	175	369	8.380E-04	105
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CLQ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CLQ1-F1-model_v4 tRNA modification GTPase MnmE	0.147	241	189	5	245	215	436	2.323E-05	105
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q83PL3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q83PL3-F1-model_v4 tRNA modification GTPase MnmE	0.143	193	162	5	194	217	409	1.277E-04	105
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0A175-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P0A175-F1-model_v4 tRNA modification GTPase MnmE	0.141	198	165	5	197	217	414	2.299E-04	105
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0SAE4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0SAE4-F1-model_v4 tRNA modification GTPase MnmE	0.122	195	168	4	195	222	416	5.236E-04	105
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0B8S4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0B8S4-F1-model_v4 tRNA modification GTPase MnmE	0.147	192	153	5	196	217	396	1.204E-04	104
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q44633-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q44633-F1-model_v4 tRNA modification GTPase MnmE	0.122	239	203	3	241	217	448	7.526E-05	104
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1IHR9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1IHR9-F1-model_v4 tRNA modification GTPase MnmE	0.168	192	157	5	196	224	413	7.982E-05	104
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3DAS7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3DAS7-F1-model_v4 tRNA modification GTPase MnmE	0.150	192	161	5	196	216	405	4.139E-04	103
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3M8Y8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3M8Y8-F1-model_v4 tRNA modification GTPase MnmE	0.127	192	162	5	196	220	406	8.978E-05	103
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q256D0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q256D0-F1-model_v4 tRNA modification GTPase MnmE	0.135	192	155	5	196	216	395	2.909E-04	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BAF3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BAF3-F1-model_v4 tRNA modification GTPase MnmE	0.128	238	181	5	242	217	425	5.290E-05	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5F529-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5F529-F1-model_v4 tRNA modification GTPase MnmE	0.137	167	130	5	156	217	383	8.887E-04	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7L851-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7L851-F1-model_v4 tRNA modification GTPase MnmE	0.161	193	159	5	194	217	409	1.714E-04	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2TUS2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2TUS2-F1-model_v4 tRNA modification GTPase MnmE	0.164	160	117	5	145	217	376	9.425E-04	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8FBV3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8FBV3-F1-model_v4 tRNA modification GTPase MnmE	0.139	193	163	5	194	217	409	2.299E-04	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P73839-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P73839-F1-model_v4 tRNA modification GTPase MnmE	0.118	193	168	5	197	222	413	5.553E-04	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4WN24-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4WN24-F1-model_v4 Mitochondrial Rho GTPase 1	0.116	308	240	4	311	3	275	2.190E-05	102
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0K8N3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0K8N3-F1-model_v4 GTPase Der	0.165	195	159	3	194	175	369	7.025E-04	101
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9CHB2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9CHB2-F1-model_v4 tRNA modification GTPase MnmE	0.145	158	125	5	151	220	377	1.264E-03	101
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1L9N6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1L9N6-F1-model_v4 tRNA modification GTPase MnmE	0.120	241	196	5	245	212	435	1.136E-04	101
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7U344-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7U344-F1-model_v4 tRNA modification GTPase MnmE	0.141	234	186	5	238	215	431	1.928E-04	101
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8XB41-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8XB41-F1-model_v4 tRNA modification GTPase MnmE	0.134	192	164	5	196	217	406	5.553E-04	101
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1R4M8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1R4M8-F1-model_v4 tRNA modification GTPase MnmE	0.148	193	161	5	194	217	409	2.044E-04	101
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5WI36-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5WI36-F1-model_v4 tRNA modification GTPase MnmE	0.137	200	165	5	196	218	417	6.246E-04	101
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7UMH3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7UMH3-F1-model_v4 tRNA modification GTPase MnmE	0.143	193	162	5	194	217	409	1.928E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7NF24-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7NF24-F1-model_v4 tRNA modification GTPase MnmE	0.143	193	162	5	194	217	409	2.044E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31UW0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31UW0-F1-model_v4 tRNA modification GTPase MnmE	0.156	193	160	5	194	217	409	2.439E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C6DK97-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C6DK97-F1-model_v4 tRNA modification GTPase MnmE	0.152	234	183	5	238	217	433	1.714E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Z9U2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Z9U2-F1-model_v4 tRNA modification GTPase MnmE	0.145	234	185	5	238	217	433	1.714E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0TB01-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0TB01-F1-model_v4 tRNA modification GTPase MnmE	0.139	193	163	5	194	217	409	3.470E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1I2H5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1I2H5-F1-model_v4 tRNA modification GTPase MnmE	0.157	197	161	5	196	217	413	3.085E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6F6L1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6F6L1-F1-model_v4 tRNA modification GTPase MnmE	0.125	234	186	5	238	228	441	1.204E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2CDC4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2CDC4-F1-model_v4 tRNA modification GTPase MnmE	0.135	239	170	5	243	228	425	1.524E-04	100
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CVG4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1CVG4-F1-model_v4 tRNA modification GTPase MnmE	0.104	192	158	5	196	219	395	8.887E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5CVJ3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5CVJ3-F1-model_v4 tRNA modification GTPase MnmE	0.192	159	117	5	150	217	375	7.901E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3N2D8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3N2D8-F1-model_v4 tRNA modification GTPase MnmE	0.137	234	186	5	238	215	431	1.136E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q07VS7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q07VS7-F1-model_v4 tRNA modification GTPase MnmE	0.143	234	185	5	238	216	432	1.277E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KR31-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KR31-F1-model_v4 tRNA modification GTPase MnmE	0.131	234	188	5	238	216	432	1.355E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8A6G8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8A6G8-F1-model_v4 tRNA modification GTPase MnmE	0.156	193	160	5	194	217	409	1.714E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4ZYY4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4ZYY4-F1-model_v4 tRNA modification GTPase MnmE	0.152	193	160	5	194	217	409	2.044E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7MGC8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7MGC8-F1-model_v4 tRNA modification GTPase MnmE	0.152	193	160	5	194	217	409	1.714E-04	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2LSF6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2LSF6-F1-model_v4 tRNA modification GTPase MnmE	0.122	238	191	5	242	220	438	7.982E-05	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1KUB2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1KUB2-F1-model_v4 tRNA modification GTPase MnmE	0.168	192	157	5	196	224	413	8.978E-05	99
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7U3V6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7U3V6-F1-model_v4 tRNA modification GTPase MnmE	0.116	232	173	5	236	222	418	3.272E-04	98
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8D3I9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8D3I9-F1-model_v4 tRNA modification GTPase MnmE	0.159	240	195	5	244	217	449	1.204E-04	98
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FP41-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FP41-F1-model_v4 tRNA modification GTPase MnmE	0.134	234	187	5	238	216	432	4.389E-04	98
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q57HZ6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q57HZ6-F1-model_v4 tRNA modification GTPase MnmE	0.141	193	162	5	194	217	409	1.524E-04	98
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7ZTR2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7ZTR2-F1-model_v4 tRNA modification GTPase MnmE	0.161	193	159	5	194	217	409	2.743E-04	98
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3J6L9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3J6L9-F1-model_v4 tRNA modification GTPase MnmE	0.106	234	190	5	238	225	437	2.586E-04	98
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q75N62-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q75N62-F1-model_v4 GTPase IMAP family member 8	0.133	174	148	2	173	282	455	2.560E-03	98
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9KX19-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9KX19-F1-model_v4 tRNA modification GTPase MnmE	0.114	234	191	5	238	216	432	3.470E-04	97
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1AV43-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1AV43-F1-model_v4 tRNA modification GTPase MnmE	0.126	190	165	5	194	221	410	1.818E-04	97
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P59569-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P59569-F1-model_v4 tRNA modification GTPase MnmE	0.120	237	173	4	240	219	416	4.655E-04	97
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8HAH9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8HAH9-F1-model_v4 tRNA modification GTPase MnmE	0.129	234	188	5	238	216	432	2.743E-04	96
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4GAN2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4GAN2-F1-model_v4 tRNA modification GTPase MnmE	0.110	192	167	5	196	225	413	6.624E-04	96
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3N480-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3N480-F1-model_v4 tRNA modification GTPase MnmE	0.128	201	165	5	194	227	427	1.616E-04	96
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P53129-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P53129-F1-model_v4 Vacuolar fusion protein MON1	0.107	133	114	183	311	340	472	2.003E-02	96
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5SJS7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5SJS7-F1-model_v4 tRNA modification GTPase MnmE	0.125	236	165	5	240	218	406	3.085E-04	95
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2K2S0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2K2S0-F1-model_v4 tRNA modification GTPase MnmE	0.140	158	127	5	153	217	374	1.264E-03	95
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0RNG2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0RNG2-F1-model_v4 tRNA modification GTPase MnmE	0.148	191	155	5	195	212	394	7.982E-05	95
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4J3P1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4J3P1-F1-model_v4 GTPase Der	0.131	295	205	1	295	1	237	1.136E-04	95
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3DE77-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3DE77-F1-model_v4 GTPase Der	0.138	308	216	1	308	1	252	8.978E-05	95
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VE01-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VE01-F1-model_v4 tRNA modification GTPase MnmE	0.131	240	164	5	244	227	416	3.680E-04	95
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5N451-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5N451-F1-model_v4 tRNA modification GTPase MnmE	0.151	192	153	5	196	224	404	1.616E-04	95
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q60529-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q60529-F1-model_v4 GTPase HRas	0.245	100	70	3	102	2	95	8.797E-03	94
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JWB7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JWB7-F1-model_v4 tRNA modification GTPase MnmE	0.118	234	185	5	238	217	427	1.437E-04	94
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8F732-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8F732-F1-model_v4 tRNA modification GTPase MnmE	0.152	234	165	4	237	213	408	2.909E-04	94
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6Q4R8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6Q4R8-F1-model_v4 GTPase Der	0.168	260	196	5	264	2	237	1.928E-04	94
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8Z608-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8Z608-F1-model_v4 GTPase Der	0.140	305	213	5	309	175	423	5.949E-05	93
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9M0N5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9M0N5-F1-model_v4 tRNA modification GTPase MnmE	0.117	241	190	5	245	217	432	1.524E-04	93
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Z2N8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8Z2N8-F1-model_v4 tRNA modification GTPase MnmE	0.146	193	161	5	194	217	409	2.743E-04	93
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4ZL12-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4ZL12-F1-model_v4 tRNA modification GTPase MnmE	0.177	163	116	5	146	217	379	9.425E-04	93
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q13E22-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q13E22-F1-model_v4 tRNA modification GTPase MnmE	0.124	197	167	5	196	219	415	4.139E-04	93
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6T4D6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6T4D6-F1-model_v4 tRNA modification GTPase MnmE	0.107	192	168	5	196	224	412	1.799E-03	93
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0BWA8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0BWA8-F1-model_v4 tRNA modification GTPase MnmE	0.186	149	117	5	149	219	367	1.422E-03	92
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HUK3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HUK3-F1-model_v4 tRNA modification GTPase MnmE	0.116	192	159	5	196	215	395	1.341E-03	92
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7GYZ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7GYZ1-F1-model_v4 tRNA modification GTPase MnmE	0.119	241	198	5	245	219	444	1.616E-04	92
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P41901-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P41901-F1-model_v4 Sporulation-regulated protein 3	0.115	190	164	3	192	108	293	9.425E-04	92
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q821L2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q821L2-F1-model_v4 tRNA modification GTPase MnmE	0.103	239	168	5	243	216	403	4.655E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1KW66-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1KW66-F1-model_v4 tRNA modification GTPase MnmE	0.118	234	185	5	238	217	427	1.818E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AGU7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3AGU7-F1-model_v4 tRNA modification GTPase MnmE	0.095	193	164	5	197	222	403	8.887E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31DJ0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q31DJ0-F1-model_v4 tRNA modification GTPase MnmE	0.117	190	165	5	194	218	405	6.246E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0I0Z2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0I0Z2-F1-model_v4 tRNA modification GTPase MnmE	0.152	241	187	5	245	216	436	7.526E-05	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4YCM1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4YCM1-F1-model_v4 tRNA modification GTPase MnmE	0.140	234	186	5	238	216	432	2.439E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B6I3T9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B6I3T9-F1-model_v4 tRNA modification GTPase MnmE	0.152	193	160	5	194	217	409	6.624E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4Y199-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4Y199-F1-model_v4 tRNA modification GTPase MnmE	0.155	197	162	5	197	217	413	8.380E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4XN51-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4XN51-F1-model_v4 tRNA modification GTPase MnmE	0.182	190	155	5	194	221	410	1.341E-03	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q87TS2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q87TS2-F1-model_v4 tRNA modification GTPase MnmE	0.144	198	164	5	197	217	414	5.889E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4K396-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4K396-F1-model_v4 tRNA modification GTPase MnmE	0.137	198	166	5	197	217	414	7.901E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4K7P4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C4K7P4-F1-model_v4 tRNA modification GTPase MnmE	0.142	193	162	5	194	219	411	8.380E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6MFA3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6MFA3-F1-model_v4 tRNA modification GTPase MnmE	0.129	192	160	5	196	226	410	4.389E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0KFG6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0KFG6-F1-model_v4 tRNA modification GTPase MnmE	0.125	215	165	5	194	221	435	3.470E-04	91
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7WDI4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7WDI4-F1-model_v4 tRNA modification GTPase MnmE	0.123	190	163	5	194	220	406	3.085E-04	90
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q48BF3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q48BF3-F1-model_v4 tRNA modification GTPase MnmE	0.141	198	165	5	197	217	414	5.236E-04	90
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8ZU05-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8ZU05-F1-model_v4 GTPase Der	0.124	292	205	4	295	2	236	1.136E-04	90
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2BNY4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A2BNY4-F1-model_v4 tRNA modification GTPase MnmE	0.120	240	170	5	244	228	421	7.450E-04	90
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0BW92-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0BW92-F1-model_v4 tRNA modification GTPase MnmE	0.110	237	190	5	241	215	428	1.136E-04	89
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7LK49-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B7LK49-F1-model_v4 tRNA modification GTPase MnmE	0.141	193	162	5	194	217	409	2.439E-04	89
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SPQ3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0SPQ3-F1-model_v4 tRNA modification GTPase MnmE	0.153	192	157	5	196	225	410	4.139E-04	89
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3JXI0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3JXI0-F1-model_v4 tRNA modification GTPase MnmE	0.110	197	171	5	197	227	423	7.901E-04	89
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4RRB9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B4RRB9-F1-model_v4 tRNA modification GTPase MnmE	0.120	234	185	5	238	217	427	3.903E-04	87
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VSR5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7VSR5-F1-model_v4 tRNA modification GTPase MnmE	0.125	190	163	5	194	220	406	2.586E-04	87
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P43730-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P43730-F1-model_v4 tRNA modification GTPase MnmE	0.154	241	187	5	245	215	436	1.818E-04	87
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8ACL8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8ACL8-F1-model_v4 tRNA modification GTPase MnmE	0.135	193	163	5	194	217	409	3.272E-04	87
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2GC37-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2GC37-F1-model_v4 tRNA modification GTPase MnmE	0.174	85	64	6	84	225	309	3.206E-02	86
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9IJ97-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9IJ97-F1-model_v4 tRNA modification GTPase MnmE	0.130	192	157	5	196	222	403	1.600E-03	86
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7MN03-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7MN03-F1-model_v4 tRNA modification GTPase MnmE	0.172	193	156	5	194	217	409	1.124E-03	86
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8RHA2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8RHA2-F1-model_v4 tRNA modification GTPase MnmE	0.136	241	170	5	245	220	417	8.887E-04	86
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PRC7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PRC7-F1-model_v4 tRNA modification GTPase MnmE	0.175	157	122	4	152	214	370	1.508E-03	85
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5VA82-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5VA82-F1-model_v4 tRNA modification GTPase MnmE	0.154	94	74	3	90	228	321	2.124E-02	85
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9RVL1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9RVL1-F1-model_v4 tRNA modification GTPase MnmE	0.106	192	156	5	196	225	400	3.054E-03	85
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1AXR3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1AXR3-F1-model_v4 tRNA modification GTPase MnmE	0.180	190	153	5	191	217	406	7.450E-04	85
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q494C0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q494C0-F1-model_v4 tRNA modification GTPase MnmE	0.152	243	199	5	240	219	461	2.743E-04	85
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1J154-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1J154-F1-model_v4 tRNA modification GTPase MnmE	0.112	193	156	6	198	222	398	1.264E-03	84
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4T0N1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4T0N1-F1-model_v4 tRNA modification GTPase MnmE	0.130	191	165	5	195	221	411	9.995E-04	84
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q47U36-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q47U36-F1-model_v4 tRNA modification GTPase MnmE	0.102	241	207	5	245	224	455	9.995E-04	84
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0QXH9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0QXH9-F1-model_v4 tRNA modification GTPase MnmE	0.137	237	176	4	240	227	431	3.085E-04	83
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63YV9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q63YV9-F1-model_v4 tRNA modification GTPase MnmE	0.137	194	163	5	194	227	420	1.264E-03	83
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2N6I9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2N6I9-F1-model_v4 tRNA modification GTPase MnmE	0.191	88	66	3	84	211	298	2.253E-02	82
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1UQU6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1UQU6-F1-model_v4 tRNA modification GTPase MnmE	0.152	156	128	5	156	215	370	5.183E-03	82
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PNX9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9PNX9-F1-model_v4 tRNA modification GTPase MnmE	0.123	192	158	5	196	215	395	2.715E-03	82
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SF39-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3SF39-F1-model_v4 tRNA modification GTPase MnmE	0.134	152	122	5	146	221	372	6.557E-03	82
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q058F5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q058F5-F1-model_v4 tRNA modification GTPase MnmE	0.131	243	194	3	245	215	438	3.085E-04	82
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0R405-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0R405-F1-model_v4 tRNA modification GTPase MnmE	0.129	164	131	3	153	216	379	9.894E-03	81
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5INR0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5INR0-F1-model_v4 Sensor protein kinase WalK	0.099	223	168	91	313	15	201	1.192E-03	80
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4FNR7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4FNR7-F1-model_v4 tRNA modification GTPase MnmE	0.162	241	178	5	245	215	427	4.389E-04	79
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2KTI2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2KTI2-F1-model_v4 tRNA modification GTPase MnmE	0.114	187	164	5	190	220	406	1.192E-03	79
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7A215-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7A215-F1-model_v4 Sensor protein kinase WalK	0.102	223	167	91	313	15	201	7.450E-04	79
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7W2J0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7W2J0-F1-model_v4 tRNA modification GTPase MnmE	0.125	190	163	5	194	220	406	8.887E-04	78
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GW82-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5GW82-F1-model_v4 tRNA modification GTPase MnmE	0.117	164	132	5	155	225	388	5.183E-03	78
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54QE8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54QE8-F1-model_v4 Heat shock protein DDB_G0283913	0.116	192	138	2	158	145	336	1.908E-03	78
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FM10-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8FM10-F1-model_v4 tRNA modification GTPase MnmE	0.123	191	160	5	195	215	398	2.024E-03	77
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GKS6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GKS6-F1-model_v4 Sensor protein kinase WalK	0.106	223	166	91	313	15	201	1.696E-03	77
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HJX6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HJX6-F1-model_v4 Sensor protein kinase WalK	0.089	251	179	63	313	5	201	1.060E-03	75
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6QD58-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6QD58-F1-model_v4 Sensor protein kinase WalK	0.082	251	180	63	313	5	201	1.422E-03	74
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BR82-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0BR82-F1-model_v4 tRNA modification GTPase MnmE	0.154	234	183	5	238	215	431	1.600E-03	73
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7A8E0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7A8E0-F1-model_v4 Sensor protein kinase WalK	0.109	223	166	91	313	15	201	1.600E-03	73
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7A305-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7A305-F1-model_v4 Sensor protein kinase WalK	0.114	223	165	91	313	15	201	1.124E-03	72
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1ZWP5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1ZWP5-F1-model_v4 tRNA modification GTPase MnmE	0.084	192	171	5	196	217	404	1.180E-02	71
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TXG9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6TXG9-F1-model_v4 Sensor protein kinase WalK	0.117	223	164	91	313	15	201	2.276E-03	71
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2FKN7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2FKN7-F1-model_v4 Sensor protein kinase WalK	0.091	251	178	63	313	5	201	1.341E-03	71
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4A159-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4A159-F1-model_v4 Sensor protein kinase WalK	0.127	223	163	91	313	15	202	2.024E-03	71
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7WWQ7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7WWQ7-F1-model_v4 Sensor protein kinase WalK	0.082	251	180	63	313	5	201	2.879E-03	70
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7H372-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7H372-F1-model_v4 tRNA modification GTPase MnmE	0.122	241	184	5	245	215	425	4.887E-03	69
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GD71-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GD71-F1-model_v4 Sensor protein kinase WalK	0.096	251	177	63	313	5	201	1.341E-03	69
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8I264-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8I264-F1-model_v4 tRNA modification GTPase MnmE	0.126	144	124	5	148	220	362	1.408E-02	68
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9HE16-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9HE16-F1-model_v4 tRNA modification GTPase MnmE	0.110	152	132	5	153	221	372	4.056E-02	68
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P48010-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P48010-F1-model_v4 Septin homolog spn5	0.154	167	119	3	144	117	283	4.561E-02	68
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2YUQ2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2YUQ2-F1-model_v4 Sensor protein kinase WalK	0.120	223	164	91	313	15	201	2.879E-03	67
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2G2U4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2G2U4-F1-model_v4 Sensor protein kinase WalK	0.094	245	172	69	313	11	201	3.239E-03	67
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8CU87-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8CU87-F1-model_v4 Sensor protein kinase WalK	0.114	223	167	91	313	15	203	5.183E-03	67
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4LAJ8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4LAJ8-F1-model_v4 Sensor protein kinase WalK	0.142	223	159	91	313	15	200	4.608E-03	66
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8YYU2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8YYU2-F1-model_v4 Sensor protein kinase WalK	0.120	223	164	91	313	15	201	3.863E-03	65
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q30T75-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q30T75-F1-model_v4 tRNA modification GTPase MnmE	0.102	234	186	5	238	216	423	6.182E-03	64
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HK19-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HK19-F1-model_v4 Sensor protein kinase WalK	0.096	251	179	63	313	5	203	4.345E-03	64
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6FNM7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6FNM7-F1-model_v4 Mediator of RNA polymerase II transcription subunit 13	0.100	410	279	2	312	907	1316	4.097E-03	62
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9NFN6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9NFN6-F1-model_v4 Heat-inducible transcription repressor HrcA	0.202	86	63	231	310	252	337	9.235E-02	61
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CYS6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CYS6-F1-model_v4 Uncharacterized protein C2orf72 homolog	0.067	165	142	4	168	33	185	5.771E-02	59
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IXJ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5IXJ1-F1-model_v4 tRNA modification GTPase MnmE	0.140	193	154	4	196	218	397	1.908E-03	59
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CGZ0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CGZ0-F1-model_v4 Heat-inducible transcription repressor HrcA	0.128	150	129	163	312	186	334	2.534E-02	52
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O44712-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O44712-F1-model_v4 Aryl hydrocarbon receptor protein 1	0.104	120	95	200	306	287	406	9.794E-02	52
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1GP64-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1GP64-F1-model_v4 tRNA modification GTPase MnmE	0.095	213	165	5	187	198	410	2.389E-02	51
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6NCS6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A6NCS6-F1-model_v4 Uncharacterized protein C2orf72	0.058	162	149	7	168	35	193	3.173E-01	50
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q02ZQ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q02ZQ9-F1-model_v4 Heat-inducible transcription repressor HrcA	0.128	150	129	163	312	186	334	5.441E-02	49
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P23545-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P23545-F1-model_v4 Alkaline phosphatase synthesis sensor protein PhoR	0.094	215	169	92	306	178	364	8.211E-02	49
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04850-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q04850-F1-model_v4 Nitrogen regulation protein NtrY	0.089	234	198	93	310	321	554	4.301E-02	49
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q756F6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q756F6-F1-model_v4 Mediator of RNA polymerase II transcription subunit 13	0.111	410	276	2	313	919	1328	1.781E-02	47
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8L3A0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8L3A0-F1-model_v4 Heat-inducible transcription repressor HrcA	0.115	180	125	133	312	198	339	2.688E-02	46
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8X8Q3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8X8Q3-F1-model_v4 Diguanylate cyclase DgcM	0.094	108	89	194	292	8	115	5.079E-01	45
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q75L42-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q75L42-F1-model_v4 CBL-interacting protein kinase 17	0.087	110	82	199	308	334	424	3.173E-01	45
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q96LT7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q96LT7-F1-model_v4 Guanine nucleotide exchange C9orf72	0.078	112	99	198	305	25	136	5.079E-01	44
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P77302-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P77302-F1-model_v4 Diguanylate cyclase DgcM	0.078	106	89	194	290	8	113	6.425E-01	43
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9F1W4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9F1W4-F1-model_v4 Heat-inducible transcription repressor HrcA	0.112	91	80	220	310	249	339	7.226E-01	42
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P77334-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P77334-F1-model_v4 Cyclic di-GMP phosphodiesterase PdeR	0.136	140	104	178	298	98	237	4.515E-01	42
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P30855-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P30855-F1-model_v4 Sensor protein EvgS	0.087	306	278	1	306	404	708	4.056E-02	42
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0JMH2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0JMH2-F1-model_v4 UPF0565 protein C2orf69 homolog	0.089	142	127	15	156	183	322	2.821E-01	41
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6DFW0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6DFW0-F1-model_v4 Guanine nucleotide exchange C9orf72 homolog	0.084	112	98	198	305	25	136	5.712E-01	41
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54NK8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q54NK8-F1-model_v4 GPN-loop GTPase 3	0.067	237	207	3	239	2	224	2.230E-01	40
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q66HC3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q66HC3-F1-model_v4 Guanine nucleotide exchange C9orf72 homolog	0.084	112	98	198	305	25	136	6.425E-01	40
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q719I0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q719I0-F1-model_v4 Putative activator of 90 kDa heat shock protein ATPase homolog 2	0.094	74	61	237	304	219	292	2.365E-01	39
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GGK7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q6GGK7-F1-model_v4 Sensor protein SrrB	0.074	214	163	93	306	197	373	2.992E-01	39
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q757Y7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q757Y7-F1-model_v4 Protein LST4	0.076	91	74	233	313	111	201	7.664E-01	39
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1VAB8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1VAB8-F1-model_v4 Heat-inducible transcription repressor HrcA	0.133	181	117	132	312	203	338	1.239E-01	38
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2FY80-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2FY80-F1-model_v4 Sensor protein SrrB	0.084	242	164	65	306	194	373	2.821E-01	38
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O34638-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O34638-F1-model_v4 Sensor histidine kinase YkoH	0.113	145	127	165	308	23	167	2.821E-01	37
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HFT1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5HFT1-F1-model_v4 Sensor protein SrrB	0.081	215	159	92	306	200	373	4.515E-01	37
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q88N45-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q88N45-F1-model_v4 Methyl-accepting chemotaxis protein McpG	0.102	128	109	185	312	171	292	1.090E+00	37
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P58402-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P58402-F1-model_v4 Sensor protein EvgS	0.082	306	279	1	306	404	708	1.239E-01	37
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P40330-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P40330-F1-model_v4 Virulence sensor protein BvgS	0.094	310	279	2	310	412	721	1.239E-01	37
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CCJ1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9CCJ1-F1-model_v4 Sensor histidine kinase MtrB	0.135	148	125	165	312	85	230	7.226E-01	36
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q86AT9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q86AT9-F1-model_v4 Hybrid signal transduction histidine kinase I	0.097	124	98	198	307	171	294	1.645E+00	36
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1XD95-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1XD95-F1-model_v4 Uncharacterized sensor-like histidine kinase ycf26	0.073	224	170	89	312	33	216	6.425E-01	35
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5FR64-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5FR64-F1-model_v4 5'-nucleotidase SurE	0.094	169	141	5	161	2	170	6.425E-01	34
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9P896-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9P896-F1-model_v4 Two-component system protein A	0.105	141	111	174	298	153	293	1.156E+00	33
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9SHG0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9SHG0-F1-model_v4 Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 3	0.100	168	146	6	168	185	352	1.463E+00	33
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1L8R9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1L8R9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.098	102	82	94	195	41	132	8.128E-01	32
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3ZXG5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3ZXG5-F1-model_v4 5'-nucleotidase SurE	0.098	169	141	5	161	2	170	8.620E-01	32
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1ILH4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B1ILH4-F1-model_v4 tRNA-specific 2-thiouridylase MnmA 1	0.076	164	113	102	265	15	137	1.567E-01	32
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O32193-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-O32193-F1-model_v4 Sensor histidine kinase CssS	0.096	151	131	165	310	30	180	6.425E-01	32
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HW93-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9HW93-F1-model_v4 Methyl-accepting chemotaxis protein PctC	0.049	114	101	199	312	194	300	1.301E+00	32
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P41178-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P41178-F1-model_v4 Granaticin polyketide synthase bifunctional cyclase/dehydratase	0.057	69	61	247	312	76	144	3.533E+00	31
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GUZ9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GUZ9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.176	102	73	94	195	41	129	1.645E+00	30
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8RGS0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8RGS0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.104	103	76	92	194	43	128	1.963E+00	30
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q88KP1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q88KP1-F1-model_v4 Methyl-accepting chemotaxis protein McpA	0.097	128	103	185	312	190	304	3.331E+00	30
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9WIH6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9WIH6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.060	148	113	95	242	42	162	8.620E-01	29
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9LAL7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9LAL7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.060	148	113	95	242	42	162	8.620E-01	29
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0ZAN2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C0ZAN2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.078	102	81	94	195	41	129	1.226E+00	29
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9WZ45-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9WZ45-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.064	150	116	94	243	44	168	8.620E-01	29
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0AX14-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0AX14-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	97	80	94	190	41	128	2.208E+00	29
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9BUL6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A9BUL6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.091	106	81	90	195	42	131	3.974E+00	28
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9MFQ0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B9MFQ0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.072	107	84	89	195	45	135	4.214E+00	28
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08401-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-P08401-F1-model_v4 Sensor protein CreC	0.088	178	132	167	312	22	199	1.645E+00	28
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q01TY0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q01TY0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.098	148	112	95	242	42	166	1.226E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5ZP76-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5ZP76-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	89	77	89	173	43	131	5.331E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q183P3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q183P3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.101	156	109	86	241	39	160	1.851E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SKG7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4SKG7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.093	149	110	94	242	41	162	1.379E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1WM26-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1WM26-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.062	109	86	86	194	38	130	4.470E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1TKE3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1TKE3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.072	107	84	89	195	41	131	4.740E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4QNM4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4QNM4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.065	149	116	94	242	41	165	1.156E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UGD0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UGD0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.065	149	116	94	242	41	165	1.301E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UAH6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5UAH6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.065	149	116	94	242	41	165	1.156E+00	27
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8G4I8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8G4I8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.067	148	112	95	242	42	162	1.645E+00	26
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8CXG4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8CXG4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.072	152	115	94	245	41	165	1.552E+00	26
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q081N7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q081N7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.093	149	110	94	242	41	162	1.745E+00	26
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12EK7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q12EK7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.068	171	130	89	259	41	181	2.341E+00	26
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VSS8-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A1VSS8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.103	106	83	90	195	39	131	2.633E+00	26
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-G3XD24-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-G3XD24-F1-model_v4 Methyl-accepting chemotaxis protein PctA	0.102	126	107	185	310	176	295	5.331E+00	26
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KWL7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0KWL7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.093	149	110	94	242	41	162	2.208E+00	25
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8EA73-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8EA73-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.096	154	111	89	242	39	162	3.747E+00	25
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C5BQT6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C5BQT6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.092	154	121	92	245	44	177	2.082E+00	25
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3GY41-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B3GY41-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.094	148	108	95	242	42	161	1.963E+00	25
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8F5G6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B8F5G6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.085	149	113	94	242	41	165	1.963E+00	25
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5LNT6-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5LNT6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.112	98	77	94	191	40	127	4.214E+00	24
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3ZZK5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q3ZZK5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.064	149	115	94	242	41	164	2.793E+00	24
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8EEF1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q8EEF1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.093	149	110	94	242	41	162	2.793E+00	24
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0HUY9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0HUY9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.093	149	110	94	242	41	162	3.141E+00	24
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JYV1-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JYV1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.087	168	121	94	261	45	178	2.082E+00	24
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9M000-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9M000-F1-model_v4 Scarecrow-like protein 22	0.100	329	242	15	284	294	622	8.620E-01	24
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0TF68-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B0TF68-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.061	98	82	94	191	41	128	5.654E+00	23
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q57N99-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q57N99-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.073	149	112	94	242	41	162	3.141E+00	23
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5FA76-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5FA76-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.108	101	78	94	194	45	132	5.027E+00	23
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3NZ65-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A3NZ65-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	101	79	95	195	41	128	4.740E+00	23
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C5CNG5-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C5CNG5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.055	149	124	94	242	43	174	3.331E+00	23
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5V884-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5V884-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.062	150	116	94	243	41	165	2.483E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5NR76-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5NR76-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.076	149	109	94	242	41	159	2.633E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4T026-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4T026-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.097	103	83	89	191	37	129	5.997E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7UAE7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q7UAE7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.067	149	112	94	242	41	161	3.974E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7N1J2-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7N1J2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.098	154	121	92	245	39	173	2.793E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5F762-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5F762-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	152	119	94	245	41	173	2.962E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JTU3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q9JTU3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.108	101	78	94	194	45	132	6.360E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q62HA7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q62HA7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	101	79	95	195	41	128	5.997E+00	22
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GM81-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GM81-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.107	102	79	94	195	41	129	7.153E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0A5Q4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0A5Q4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.079	149	113	95	243	42	165	3.974E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5G2L4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A5G2L4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.030	97	84	94	190	45	132	7.153E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1F130-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-C1F130-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.101	101	78	94	194	48	135	4.740E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2SH69-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B2SH69-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	149	111	94	242	40	161	4.740E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q14IH0-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q14IH0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	149	111	94	242	40	161	4.740E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5BH57-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-B5BH57-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.085	148	113	94	241	41	164	3.747E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4K7D7-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q4K7D7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.079	149	111	94	242	41	161	5.997E+00	21
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0C5W4-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q0C5W4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.041	97	83	94	190	45	132	8.532E+00	20
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0Q6P9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A0Q6P9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	149	111	94	242	40	161	5.654E+00	20
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7NBV3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A7NBV3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	149	111	94	242	40	161	5.654E+00	20
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2A3Q9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q2A3Q9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	149	111	94	242	40	161	5.654E+00	20
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4IY87-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A4IY87-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.066	149	113	94	242	40	161	6.360E+00	20
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5NH18-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q5NH18-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	149	111	94	242	40	161	5.654E+00	20
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q09573-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q09573-F1-model_v4 Potassium/chloride cotransporter 3	0.054	203	132	3	205	671	811	3.331E+00	20
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1GWB3-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-Q1GWB3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.083	94	76	94	187	41	124	6.745E+00	18
+LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GFI9-F1-model_v4	LOKIASV2_1147_ESMFold_hypothetical_protein	AF-A8GFI9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.092	149	109	94	242	41	161	5.331E+00	18
