@@ -3,12 +3,12 @@ In Silico protein structure data for Loki-ASV2 paper - raw files, data tables, r
 
 Supporting Information files for *Cultivation of a novel Asgard archaeon from an early Earth analog environment* [working title].
 
-##Links##
+## Links
 **DOI**: TBD \
 **Zenodo Link**: TBD \
 **ModelArchive entry**: TBD \ 
 
-##Folder structure##
+## Folder structure
 ```
 TBD
  |
@@ -19,7 +19,7 @@ TBD
    ---TBD
 ```
 
-##BibTex entry##
+## BibTeX entry
 ```
 @article{,
   title={},
