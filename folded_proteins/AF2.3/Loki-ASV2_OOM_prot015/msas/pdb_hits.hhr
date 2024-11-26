@@ -1,0 +1,1381 @@
+Query         LOKIASV2_22100 hypothetical protein
+Match_columns 900
+No_of_seqs    313 out of 1008
+Neff          5.92084
+Searched_HMMs 80799
+Date          Mon Sep  9 09:22:55 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpaj089t_z/query.a3m -o /tmp/tmpaj089t_z/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5IKU_A Collagenase; Calcium-bi  99.4   2E-16 2.5E-21  165.9   0.0  219  585-817     7-239 (240)
+  2 5IKU_A Collagenase; Calcium-bi  99.3 1.9E-15 2.4E-20  158.6   0.0  219   29-250     5-239 (240)
+  3 5IKU_A Collagenase; Calcium-bi  99.3 3.1E-15 3.8E-20  157.1   0.0  216  143-363     8-239 (240)
+  4 5IKU_A Collagenase; Calcium-bi  99.1   8E-14 9.9E-19  146.5   0.0  218  478-707     8-239 (240)
+  5 3JQW_C ColH protein (E.C.3.4.2  98.0   2E-08 2.5E-13   95.1   0.0  106  711-817     5-116 (121)
+  6 1NQJ_B CLASS 1 COLLAGENASE (E.  97.8 5.5E-08 6.9E-13   92.1   0.0  104  711-817     7-118 (119)
+  7 3JQW_C ColH protein (E.C.3.4.2  97.8 6.3E-08 7.7E-13   91.8   0.0  110  254-365     5-118 (121)
+  8 3JQW_C ColH protein (E.C.3.4.2  97.8 6.5E-08 8.1E-13   91.7   0.0  109   32-141     4-117 (121)
+  9 4HPK_A Collagenase; Beta-sandw  97.7 1.1E-07 1.3E-12   88.6   0.0  102  713-817     3-112 (113)
+ 10 5SV5_A Adenosylhomocysteinase   97.6 2.9E-07 3.6E-12   85.2   0.0   98  718-817     1-105 (105)
+ 11 1NQJ_B CLASS 1 COLLAGENASE (E.  97.6 3.8E-07 4.7E-12   86.4   0.0  107   31-139     5-117 (119)
+ 12 4HPK_A Collagenase; Beta-sandw  97.5 6.3E-07 7.8E-12   83.5   0.0  104   35-140     3-112 (113)
+ 13 3JQW_C ColH protein (E.C.3.4.2  97.5   7E-07 8.7E-12   84.7   0.0  108  144-251     5-117 (121)
+ 14 1NQJ_B CLASS 1 COLLAGENASE (E.  97.4 9.5E-07 1.2E-11   83.8   0.0  106  254-363     7-118 (119)
+ 15 4HPK_A Collagenase; Beta-sandw  97.4 1.1E-06 1.4E-11   81.9   0.0  104  256-363     3-112 (113)
+ 16 5SV5_A Adenosylhomocysteinase   97.3 1.3E-06 1.6E-11   80.9   0.0   99  261-362     1-104 (105)
+ 17 5SV5_A Adenosylhomocysteinase   97.1 4.2E-06 5.2E-11   77.6   0.0   98  151-249     1-104 (105)
+ 18 1NQJ_B CLASS 1 COLLAGENASE (E.  97.1 5.5E-06 6.9E-11   78.6   0.0  105  144-249     7-117 (119)
+ 19 4HPK_A Collagenase; Beta-sandw  97.1 6.3E-06 7.8E-11   76.9   0.0  104  146-250     3-112 (113)
+ 20 5SV5_A Adenosylhomocysteinase   97.0 6.7E-06 8.3E-11   76.2   0.0   98   40-139     1-104 (105)
+ 21 4DZG_A PliG; lysozyme inhibito  96.2 0.00019 2.4E-09   69.3   0.0   90  730-819    18-114 (114)
+ 22 4DZG_A PliG; lysozyme inhibito  96.1 0.00023 2.8E-09   68.8   0.0   89  273-364    19-113 (114)
+ 23 4DY3_B Inhibitor of g-type lys  95.6 0.00091 1.1E-08   64.5   0.0   89  730-819    16-111 (111)
+ 24 4G9S_B Goose-type lysozyme, In  95.6 0.00091 1.1E-08   64.5   0.0   89  730-819    16-111 (111)
+ 25 4DZG_A PliG; lysozyme inhibito  94.5  0.0062 7.7E-08   59.0   0.0   84  164-250    20-112 (114)
+ 26 4DZG_A PliG; lysozyme inhibito  94.5  0.0063 7.8E-08   58.9   0.0   84   54-140    20-112 (114)
+ 27 4DY3_B Inhibitor of g-type lys  94.1   0.011 1.3E-07   57.3   0.0   88  273-364    17-110 (111)
+ 28 4G9S_B Goose-type lysozyme, In  94.1   0.011 1.3E-07   57.3   0.0   88  273-364    17-110 (111)
+ 29 2LUW_A Metalloprotease; anti-p  93.4   0.021 2.6E-07   52.7   0.0   76  507-584    19-100 (101)
+ 30 4DY3_B Inhibitor of g-type lys  92.4   0.041   5E-07   53.3   0.0   83  618-707    19-109 (111)
+ 31 4G9S_B Goose-type lysozyme, In  92.4   0.041   5E-07   53.3   0.0   83  618-707    19-109 (111)
+ 32 4DY3_B Inhibitor of g-type lys  92.4   0.042 5.2E-07   53.2   0.0   83   54-140    18-109 (111)
+ 33 4G9S_B Goose-type lysozyme, In  92.4   0.042 5.2E-07   53.2   0.0   83   54-140    18-109 (111)
+ 34 2LUW_A Metalloprotease; anti-p  91.9   0.057 7.1E-07   49.8   0.0   78  737-816    17-99  (101)
+ 35 2LUW_A Metalloprotease; anti-p  90.6    0.11 1.3E-06   48.0   0.0   78   59-138    17-98  (101)
+ 36 3AFG_B Subtilisin-like serine   90.1    0.13 1.6E-06   63.4   0.0   56  761-818   459-515 (539)
+ 37 3AFG_B Subtilisin-like serine   82.5    0.79 9.8E-06   56.8   0.0   77   64-140   437-514 (539)
+ 38 3AFG_B Subtilisin-like serine   77.1     1.6   2E-05   54.1   0.0   75  510-584   437-514 (539)
+ 39 1WMD_A protease (E.C.3.4.21.-)  74.2     2.2 2.8E-05   50.7   0.0   13  793-805   408-420 (434)
+ 40 3AFG_B Subtilisin-like serine   71.8     2.8 3.5E-05   52.1   0.0   79  284-363   436-514 (539)
+ 41 1WME_A protease (E.C.3.4.21.-)  70.7     3.1 3.8E-05   49.5   0.0   13  793-805   408-420 (434)
+ 42 2LUW_A Metalloprotease; anti-p  69.1     3.5 4.4E-05   38.1   0.0   78  624-705    17-98  (101)
+ 43 1WMD_A protease (E.C.3.4.21.-)  40.4      23 0.00029   42.4   0.0   21  110-130   400-420 (434)
+ 44 1WME_A protease (E.C.3.4.21.-)  35.8      31 0.00038   41.4   0.0   21  110-130   400-420 (434)
+ 45 1WMD_A protease (E.C.3.4.21.-)  34.0      35 0.00043   41.0   0.0   44  531-574   365-420 (434)
+ 46 1WME_A protease (E.C.3.4.21.-)  33.2      36 0.00045   40.8   0.0   44  531-574   365-420 (434)
+ 47 5AZW_A Transmembrane emp24 dom  31.5      40  0.0005   31.3   0.0   43  762-805    38-80  (96)
+ 48 5AZW_B Transmembrane emp24 dom  31.5      40  0.0005   31.3   0.0   43  762-805    38-80  (96)
+ 49 5AG9_B GINGIPAIN R2 (E.C.3.4.2  28.7      49  0.0006   34.9   0.0   35  764-804   117-151 (162)
+ 50 5AZX_A Transmembrane emp24 dom  27.9      51 0.00064   31.2   0.0   18  788-805    67-84  (103)
+ 51 5AZX_D Transmembrane emp24 dom  27.9      51 0.00064   31.2   0.0   18  788-805    67-84  (103)
+ 52 4P3W_C Filamin-A, Filamin-bind  26.1      58 0.00072   33.4   0.0   16  680-695    54-69  (182)
+ 53 3D33_A Domain of Unknown Funct  25.8      59 0.00073   32.0   0.0   42  196-238    49-95  (108)
+ 54 3D33_A Domain of Unknown Funct  25.4      61 0.00075   32.0   0.0   11  685-695    85-95  (108)
+ 55 1WMD_A protease (E.C.3.4.21.-)  24.4      65 0.00081   38.7   0.0   17  336-352   404-420 (434)
+ 56 4G5A_A Uncharacterized protein  24.3      66 0.00082   31.1   0.0   12  228-239    78-89  (99)
+ 57 5AZW_A Transmembrane emp24 dom  22.8      74 0.00091   29.6   0.0   70   59-129     9-79  (96)
+ 58 5AZW_B Transmembrane emp24 dom  22.8      74 0.00091   29.6   0.0   70   59-129     9-79  (96)
+ 59 4G5A_A Uncharacterized protein  22.5      75 0.00093   30.7   0.0   43   87-129    44-89  (99)
+ 60 4G5A_A Uncharacterized protein  22.3      77 0.00095   30.7   0.0   12  793-804    78-89  (99)
+ 61 5AZW_A Transmembrane emp24 dom  21.6      80 0.00099   29.3   0.0   67  284-352    13-80  (96)
+ 62 5AZW_B Transmembrane emp24 dom  21.6      80 0.00099   29.3   0.0   67  284-352    13-80  (96)
+ 63 4G5A_A Uncharacterized protein  20.7      87  0.0011   30.3   0.0   12  340-351    78-89  (99)
+ 64 3D33_A Domain of Unknown Funct  20.1      91  0.0011   30.8   0.0   43   86-128    49-95  (108)
+
+No 1
+>5IKU_A Collagenase; Calcium-binding protein Collagen-binding protein, PROTEIN; 1.9A {Clostridium histolyticum}
+Probab=99.39  E-value=2e-16  Score=165.93  Aligned_cols=219  Identities=14%  Similarity=0.136  Sum_probs=174.6  Template_Neff=10.700
+
+Q LOKIASV2_22100  585 FEEDDVYENNDHMYEAT-PISVSSEAIRKTIAEIEMRVLIAKDEDWYTFQGLSGYLTQITLDLSLNT-RYEEYQMNIYDS  662 (900)
+Q Consensus       585 ~~~~d~~e~nD~~~~At-p~~~~~~~~~~t~~~~~~~~~~~~d~dw~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~lyd~  662 (900)
+                      .++..+.|+|+.++.|+ ++..+..+        .+.+...+|.|||+|++++++.++  +.+.... ...++.|+..++
+T Consensus         7 ~~~~~~~e~n~~~~~A~~~l~~~~~~--------~g~~~~~~d~d~y~~~~~~~~~~~--~~~~~~~~~~~~~~l~~~~~   76 (240)
+T 5IKU_A            7 TPITKEMEPNDDIKEANGPIVEGVTV--------KGDLNGSDDADTFYFDVKEDGDVT--IELPYSGSSNFTWLVYKEGD   76 (240)
+T ss_dssp             CCCSBCCSCCCSGGGCBCCCCTTCCE--------EEEEETTCCEEEEEEEECSSEEEE--EEEEEEECSCEEEEEEETTB
+T ss_pred             CCCCCCCCCCCChhhcCCCccCCCeE--------EEecCCCCCceEEEEEECCCceEE--EEeecCCCCCeEEEEEEeCC
+Confidence            35788999999999999 99888888        888988899999999999999988  7766544 456778888877
+
+
+Q LOKIASV2_22100  663 KGNLLSDPINRTDNSELKVSFHQDEVIFIQIKGIS--NSIQYSLGFEFG--KIEDNYEENDGFLAAFPV-E-SSFYPN-L  735 (900)
+Q Consensus       663 ~g~~l~~~~~~~~~~~~~~~~~~~~~~~i~v~g~~--~~~~y~l~~~~~--~~~d~~e~n~~~~~a~~~-~-~~~~~~-l  735 (900)
+                      .|+++..+...+....+.+.+ .+|+|||+|.++.  ..+.|+|++...  +..++.|+|+++.+|..+ . ++++.+ +
+T Consensus        77 ~g~~~~~~~~~~~~~~~~~~~-~~GtY~i~v~~~~~~~~~~y~l~v~~~~~~~~~~~e~nd~~~~a~~i~~~~~~~~g~i  155 (240)
+T 5IKU_A           77 DQNHIASGIDKNNSKVGTFKS-TKGRHYVFIYKHDSASNISYSLNIKGLGNEKLKEKENNDSSDKATVIPNFNTTMQGSL  155 (240)
+T ss_dssp             SSSCSEECEEETTEEEEEEEE-CSEEEEEEEEESCTTCEEEEEEEEECCCCEEEECCSCCCSGGGCEECCSSSEEEEEEE
+T ss_pred             CCCeEEeccccCCeeEEEEec-CCCCEEEEEEEeecCCCeEEEEEEEeCCccccccccCCCCcccceeccCCCCeeEEEe
+Confidence            677776554443334556777 8999999999876  678899999865  467788999999999877 6 777788 8
+
+
+Q LOKIASV2_22100  736 -TSLDEDWFQIWIPSNYSLKVETTSY--YDVDIYLYSDDY--VSLDYSAGFSGNETVVWNMTTAGLIIFNIRGFGNVLGF  810 (900)
+Q Consensus       736 -~~~d~Dwf~~~~~~~~~l~i~~~~~--~d~d~~Ly~~~~--~~~~~s~g~~~~e~v~~~~~~~g~y~~~v~~~~~~~~~  810 (900)
+                       ..++.|||+|++++++.++|.+...  ....+.|++.++  ..+.+.+..+++....+.+ ++|+|+|+|.++..  .+
+T Consensus       156 ~~~~d~d~y~f~~~~~~~~~i~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~-~~GtY~i~v~~~~~--~g  232 (240)
+T 5IKU_A          156 LGDDSRDYYSFEVKEEGEVNIELDKKDEFGVTWTLHPESNINDRITYGQVDGNKVSNKVKL-RPGKYYLLVYKYSG--SG  232 (240)
+T ss_dssp             CTTCCEEEEEEEESSCEEEEEEEEESSCCEEEEEEEETTCTTSCCEECEEETTEEEEEEEE-CSEEEEEEEEEEES--CE
+T ss_pred             cCCCCceEEEEEeCCCceEEEEEecCCCCCcEEEEEeCccCCceeeEcccCCCeEEeEEec-CCeEEEEEEEEeec--Ce
+Confidence             8999999999999999999988876  367788887764  4444444444455666778 89999999998754  57
+
+
+Q LOKIASV2_22100  811 PYSLNIS  817 (900)
+Q Consensus       811 ~y~l~~~  817 (900)
+                      .|+|+|+
+T Consensus       233 ~Y~l~v~  239 (240)
+T 5IKU_A          233 NYELRVN  239 (240)
+T ss_dssp             EEEEEEE
+T ss_pred             eEEEEEe
+Confidence            8999886
+
+
+No 2
+>5IKU_A Collagenase; Calcium-binding protein Collagen-binding protein, PROTEIN; 1.9A {Clostridium histolyticum}
+Probab=99.29  E-value=1.9e-15  Score=158.58  Aligned_cols=219  Identities=15%  Similarity=0.236  Sum_probs=163.9  Template_Neff=10.700
+
+Q LOKIASV2_22100   29 QALPSDDNFEENDTFESAY-LISAGQ-YPN-LV-GQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYL--YNVNRTLLNT  102 (900)
+Q Consensus        29 ~~~~~DD~fEpNDt~~sA~-~L~~G~-~~~-L~-~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~L--yD~~gtll~s  102 (900)
+                      .+++..+++||||.++.|. +++.+. +.+ +. ..|.|||+|++++++.+++.+.... ....++.|  .+..|+.+..
+T Consensus         5 ~~~~~~~~~e~n~~~~~A~~~l~~~~~~~g~~~~~~d~d~y~~~~~~~~~~~~~~~~~~-~~~~~~~l~~~~~~g~~~~~   83 (240)
+T 5IKU_A            5 TTTPITKEMEPNDDIKEANGPIVEGVTVKGDLNGSDDADTFYFDVKEDGDVTIELPYSG-SSNFTWLVYKEGDDQNHIAS   83 (240)
+T ss_dssp             CCCCCSBCCSCCCSGGGCBCCCCTTCCEEEEEETTCCEEEEEEEECSSEEEEEEEEEEE-CSCEEEEEEETTBSSSCSEE
+T ss_pred             CCCCCCCCCCCCCChhhcCCCccCCCeEEEecCCCCCceEEEEEECCCceEEEEeecCC-CCCeEEEEEEeCCCCCeEEe
+Confidence            3567899999999999999 998888 888 77 8899999999999999999887543 33456666  4445677665
+
+
+Q LOKIASV2_22100  103 SNSQANNEILSWRSLSSQILYFVVKNYS--TNMDYDLRIEIG--LVDDDYEENDQISQAVSI-PAK--FTS-LLILNDSD  174 (900)
+Q Consensus       103 S~s~~d~E~is~~~~~~g~~y~~V~~~s--t~~~Y~L~i~~~--~~dD~yE~ND~~~~A~~L-~~~--~t~-l~~~~D~D  174 (900)
+                      +...+....+.+.+ .+|+|||+|.++.  ....|+|++...  +..++.|+|+.+++|..+ ..+  +.+ +...+|.|
+T Consensus        84 ~~~~~~~~~~~~~~-~~GtY~i~v~~~~~~~~~~y~l~v~~~~~~~~~~~e~nd~~~~a~~i~~~~~~~~g~i~~~~d~d  162 (240)
+T 5IKU_A           84 GIDKNNSKVGTFKS-TKGRHYVFIYKHDSASNISYSLNIKGLGNEKLKEKENNDSSDKATVIPNFNTTMQGSLLGDDSRD  162 (240)
+T ss_dssp             CEEETTEEEEEEEE-CSEEEEEEEEESCTTCEEEEEEEEECCCCEEEECCSCCCSGGGCEECCSSSEEEEEEECTTCCEE
+T ss_pred             ccccCCeeEEEEec-CCCCEEEEEEEeecCCCeEEEEEEEeCCccccccccCCCCcccceeccCCCCeeEEEecCCCCce
+Confidence            54433335566677 8899999999875  567899998765  456788999999988866 333  567 87789999
+
+
+Q LOKIASV2_22100  175 WFHWNGIKATSIIINLKHMSIAEINIKLYNSSG--NKILEKISSNFEIGVEILVNSSQSFFIEISSSQNPIPYYLSLD  250 (900)
+Q Consensus       175 WF~f~~~~g~~v~v~l~~~s~gdldl~LydssG--~~v~~s~ss~~e~~i~~~~~~agtYyIrVsg~~~~~~Y~L~id  250 (900)
+                      ||+|++++++.+.|.+.........+.|++.++  ..+.+....+......+.+ ++|+|||+|.+....+.|+|+|+
+T Consensus       163 ~y~f~~~~~~~~~i~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~-~~GtY~i~v~~~~~~g~Y~l~v~  239 (240)
+T 5IKU_A          163 YYSFEVKEEGEVNIELDKKDEFGVTWTLHPESNINDRITYGQVDGNKVSNKVKL-RPGKYYLLVYKYSGSGNYELRVN  239 (240)
+T ss_dssp             EEEEEESSCEEEEEEEEESSCCEEEEEEEETTCTTSCCEECEEETTEEEEEEEE-CSEEEEEEEEEEESCEEEEEEEE
+T ss_pred             EEEEEeCCCceEEEEEecCCCCCcEEEEEeCccCCceeeEcccCCCeEEeEEec-CCeEEEEEEEEeecCeeEEEEEe
+Confidence            999999999999888876543356777777653  4444433323334455566 89999999997544568888874
+
+
+No 3
+>5IKU_A Collagenase; Calcium-binding protein Collagen-binding protein, PROTEIN; 1.9A {Clostridium histolyticum}
+Probab=99.27  E-value=3.1e-15  Score=157.06  Aligned_cols=216  Identities=18%  Similarity=0.222  Sum_probs=158.2  Template_Neff=10.700
+
+Q LOKIASV2_22100  143 LVDDDYEENDQISQAV-SIPAK--FTS-LLILNDSDWFHWNGIKATSIIINLKHMSIAEINIKLYNSS--GNKILEKISS  216 (900)
+Q Consensus       143 ~~dD~yE~ND~~~~A~-~L~~~--~t~-l~~~~D~DWF~f~~~~g~~v~v~l~~~s~gdldl~Lydss--G~~v~~s~ss  216 (900)
+                      ...++.|+|+.++.|. .+..+  +.+ +...+|.|||+|++++++.+.+.+........++.|+..+  ++.+......
+T Consensus         8 ~~~~~~e~n~~~~~A~~~l~~~~~~~g~~~~~~d~d~y~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~g~~~~~~~~~   87 (240)
+T 5IKU_A            8 PITKEMEPNDDIKEANGPIVEGVTVKGDLNGSDDADTFYFDVKEDGDVTIELPYSGSSNFTWLVYKEGDDQNHIASGIDK   87 (240)
+T ss_dssp             CCSBCCSCCCSGGGCBCCCCTTCCEEEEEETTCCEEEEEEEECSSEEEEEEEEEEECSCEEEEEEETTBSSSCSEECEEE
+T ss_pred             CCCCCCCCCCChhhcCCCccCCCeEEEecCCCCCceEEEEEECCCceEEEEeecCCCCCeEEEEEEeCCCCCeEEecccc
+Confidence            3567889999999998 77644  667 8778899999999999999988877543334566666555  5555544332
+
+
+Q LOKIASV2_22100  217 NFEIGVEILVNSSQSFFIEISSSQN--PIPYYLSLDSN--YFDDQYEENDEFITSHKI-SV--EFHNNLI-YNDQDWYKL  288 (900)
+Q Consensus       217 ~~e~~i~~~~~~agtYyIrVsg~~~--~~~Y~L~id~~--~~dD~~E~ND~~~tA~~i-s~--~~~~~Lv-~~D~DWYk~  288 (900)
+                      +......+.+ .+|+|||+|.++..  .+.|+|.+...  +..+++|+|+.+.+|..+ ..  ...+.+. ..|.|||+|
+T Consensus        88 ~~~~~~~~~~-~~GtY~i~v~~~~~~~~~~y~l~v~~~~~~~~~~~e~nd~~~~a~~i~~~~~~~~g~i~~~~d~d~y~f  166 (240)
+T 5IKU_A           88 NNSKVGTFKS-TKGRHYVFIYKHDSASNISYSLNIKGLGNEKLKEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSF  166 (240)
+T ss_dssp             TTEEEEEEEE-CSEEEEEEEEESCTTCEEEEEEEEECCCCEEEECCSCCCSGGGCEECCSSSEEEEEEECTTCCEEEEEE
+T ss_pred             CCeeEEEEec-CCCCEEEEEEEeecCCCeEEEEEEEeCCccccccccCCCCcccceeccCCCCeeEEEecCCCCceEEEE
+Confidence            2233445667 88999999988653  67899998765  467889999999988866 33  4567776 789999999
+
+
+Q LOKIASV2_22100  289 NLTAYQVLNVVILFPDDSIPLIITLFDENQ--NELASSYNWGYYYDEIQHTISESGTYYIGIEGYGIVKQLYALNIS  363 (900)
+Q Consensus       289 ~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g--~~lass~~~g~~~~~I~~~~~~~GTYYI~V~Gy~~~~~~YsL~is  363 (900)
+                      ++.+++.++|.+..... ..+.+.|++.++  +.+.+.... +......+.+ ++|+|||+|.++.. .+.|+|+|+
+T Consensus       167 ~~~~~~~~~i~~~~~~~-~~~~~~l~~~~~~~~~~~~~~~~-~~~~~~~~~~-~~GtY~i~v~~~~~-~g~Y~l~v~  239 (240)
+T 5IKU_A          167 EVKEEGEVNIELDKKDE-FGVTWTLHPESNINDRITYGQVD-GNKVSNKVKL-RPGKYYLLVYKYSG-SGNYELRVN  239 (240)
+T ss_dssp             EESSCEEEEEEEEESSC-CEEEEEEEETTCTTSCCEECEEE-TTEEEEEEEE-CSEEEEEEEEEEES-CEEEEEEEE
+T ss_pred             EeCCCceEEEEEecCCC-CCcEEEEEeCccCCceeeEcccC-CCeEEeEEec-CCeEEEEEEEEeec-CeeEEEEEe
+Confidence            99999999888876543 256778887764  344433322 2334455666 89999999998755 678999875
+
+
+No 4
+>5IKU_A Collagenase; Calcium-binding protein Collagen-binding protein, PROTEIN; 1.9A {Clostridium histolyticum}
+Probab=99.09  E-value=8e-14  Score=146.50  Aligned_cols=218  Identities=17%  Similarity=0.181  Sum_probs=150.8  Template_Neff=10.700
+
+Q LOKIASV2_22100  478 NADDQFEENDAKQSAT-QINPGL-YP-NLS-GLDDDWFNLSVPAYTLVNIVIIFQN-DDGDLDLFAESNLGGHF--STSI  550 (900)
+Q Consensus       478 ~~dD~~E~Nd~~~~At-~l~~g~-~~-~l~-~~DdDwf~~~v~ag~~l~v~i~F~~-~~GDlDL~~~~~~g~~~--s~s~  550 (900)
+                      ...+.+|+||...+|+ .|.++. +. .|. ..|.|||+|.+++++.+.+.+.-.. ...++.|++.+..+...  +...
+T Consensus         8 ~~~~~~e~n~~~~~A~~~l~~~~~~~g~~~~~~d~d~y~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~g~~~~~~~~~   87 (240)
+T 5IKU_A            8 PITKEMEPNDDIKEANGPIVEGVTVKGDLNGSDDADTFYFDVKEDGDVTIELPYSGSSNFTWLVYKEGDDQNHIASGIDK   87 (240)
+T ss_dssp             CCSBCCSCCCSGGGCBCCCCTTCCEEEEEETTCCEEEEEEEECSSEEEEEEEEEEECSCEEEEEEETTBSSSCSEECEEE
+T ss_pred             CCCCCCCCCCChhhcCCCccCCCeEEEecCCCCCceEEEEEECCCceEEEEeecCCCCCeEEEEEEeCCCCCeEEecccc
+Confidence            3468899999999999 887653 22 243 4588999999999999888765332 23455566665545443  2222
+
+
+Q LOKIASV2_22100  551 TDNETIVLYFNENATVLIQVEDFN--INLCYSLLITFE---EDDVYENNDHMYEATPI-SVSSEAIRKTIAEIEMRVLIA  624 (900)
+Q Consensus       551 tdnE~v~~~~~~~gtyyI~V~g~n--~~~~Ysl~~~~~---~~d~~e~nD~~~~Atp~-~~~~~~~~~t~~~~~~~~~~~  624 (900)
+                      ...+.+.+.. ..|+|||+|.+.+  ....|+|.+...   ...+.|+|+.+..|..+ ..+..+        .+.+...
+T Consensus        88 ~~~~~~~~~~-~~GtY~i~v~~~~~~~~~~y~l~v~~~~~~~~~~~e~nd~~~~a~~i~~~~~~~--------~g~i~~~  158 (240)
+T 5IKU_A           88 NNSKVGTFKS-TKGRHYVFIYKHDSASNISYSLNIKGLGNEKLKEKENNDSSDKATVIPNFNTTM--------QGSLLGD  158 (240)
+T ss_dssp             TTEEEEEEEE-CSEEEEEEEEESCTTCEEEEEEEEECCCCEEEECCSCCCSGGGCEECCSSSEEE--------EEEECTT
+T ss_pred             CCeeEEEEec-CCCCEEEEEEEeecCCCeEEEEEEEeCCccccccccCCCCcccceeccCCCCee--------EEEecCC
+Confidence            2335566665 7889999998764  566799998754   46788999999999877 566666        7888888
+
+
+Q LOKIASV2_22100  625 KDEDWYTFQGLSGYLTQITLDLSLNT-RYEEYQMNIYDSKGNLLSDPINRTDNSELKVSFHQDEVIFIQIKGISNSIQYS  703 (900)
+Q Consensus       625 ~d~dw~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~lyd~~g~~l~~~~~~~~~~~~~~~~~~~~~~~i~v~g~~~~~~y~  703 (900)
+                      +|.|||+|++++++.+.  +.+.... ....+.|+..+..++.+......+......+.+ .+|+|||+|.++...+.|+
+T Consensus       159 ~d~d~y~f~~~~~~~~~--i~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~-~~GtY~i~v~~~~~~g~Y~  235 (240)
+T 5IKU_A          159 DSRDYYSFEVKEEGEVN--IELDKKDEFGVTWTLHPESNINDRITYGQVDGNKVSNKVKL-RPGKYYLLVYKYSGSGNYE  235 (240)
+T ss_dssp             CCEEEEEEEESSCEEEE--EEEEESSCCEEEEEEEETTCTTSCCEECEEETTEEEEEEEE-CSEEEEEEEEEEESCEEEE
+T ss_pred             CCceEEEEEeCCCceEE--EEEecCCCCCcEEEEEeCccCCceeeEcccCCCeEEeEEec-CCeEEEEEEEEeecCeeEE
+Confidence            89999999999999888  7666533 234555554443234444433222333445566 8999999999764356888
+
+
+Q LOKIASV2_22100  704 LGFE  707 (900)
+Q Consensus       704 l~~~  707 (900)
+                      |+|+
+T Consensus       236 l~v~  239 (240)
+T 5IKU_A          236 LRVN  239 (240)
+T ss_dssp             EEEE
+T ss_pred             EEEe
+Confidence            8874
+
+
+No 5
+>3JQW_C ColH protein (E.C.3.4.24.3); beta-barrel, dual calcium site, Collagen; 2.0A {Clostridium histolyticum}
+Probab=97.98  E-value=2e-08  Score=95.13  Aligned_cols=106  Identities=17%  Similarity=0.264  Sum_probs=76.7  Template_Neff=10.400
+
+Q LOKIASV2_22100  711 IEDNYEENDGFLAAF-PVE-SSFYPN-L-TSLDEDWFQIWIPSNYSLKVETTSY--YDVDIYLYSDDYVSLDYSAGFSGN  784 (900)
+Q Consensus       711 ~~d~~e~n~~~~~a~-~~~-~~~~~~-l-~~~d~Dwf~~~~~~~~~l~i~~~~~--~d~d~~Ly~~~~~~~~~s~g~~~~  784 (900)
+                      ..++.|+|+...+|. .+. +..+.| + ...|.|||+|.+.+++.+.+.+...  .++.+.|++..+..+......+..
+T Consensus         5 ~~~~~e~nd~~~~A~~~l~~~~~~~g~i~~~~d~d~y~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~   84 (121)
+T 3JQW_C            5 IGTEKEPNNSKETASGPIVPGIPVSGTIENTSDQDYFYFDVITPGEVKIDINKLGYGGATWVVYDENNNAVSYATDDGQN   84 (121)
+T ss_dssp             CSBCCSCCCSGGGCBCCCCTTCCEEEEEEETTCCEEEEEEECSSEEEEEEEEECSSSEEEEEEEETTSCEEEECEECSSE
+T ss_pred             CCCCCCCCCCcccCCCCcCCCCCeEEeecCCCCceEEEEEeCCCcEEEEEEeeCCCCceEEEEECCCCCEEEEecCCCCc
+Confidence            356789999998888 776 777788 8 8899999999999999998888765  367778888776443322222223
+
+
+Q LOKIASV2_22100  785 ETVVWNMTTAGLIIFNIRGFGNVLGFPYSLNIS  817 (900)
+Q Consensus       785 e~v~~~~~~~g~y~~~v~~~~~~~~~~y~l~~~  817 (900)
+                      ....+.+.++|+|||+|..+.+. .+.|+|.++
+T Consensus        85 ~~~~~~~~~~GtY~i~v~~~~~~-~~~Y~l~~~  116 (121)
+T 3JQW_C           85 LSGKFKADKPGRYYIHLYMFNGS-YMPYRINIE  116 (121)
+T ss_dssp             EEEEEEESSCEEEEEEEEEEECE-EEEEEEEEE
+T ss_pred             eEEEEecCCCeEEEEEEEEEcCC-eecEEEEEE
+Confidence            33444422789999999986543 567888765
+
+
+No 6
+>1NQJ_B CLASS 1 COLLAGENASE (E.C.3.4.24.3); BETA SANDWICH, METALLOPROTEASE, COLLAGEN-BINDING DOMAIN; 1.0A {Clostridium histolyticum} SCOP: b.23.2.1
+Probab=97.84  E-value=5.5e-08  Score=92.06  Aligned_cols=104  Identities=13%  Similarity=0.132  Sum_probs=74.9  Template_Neff=10.300
+
+Q LOKIASV2_22100  711 IEDNYEENDGFLAAF-PVE-SSFYPN-L-TSLDEDWFQIWIPSNYSLKVETTSY--YDVDIYLYSDDY--VSLDYSAGFS  782 (900)
+Q Consensus       711 ~~d~~e~n~~~~~a~-~~~-~~~~~~-l-~~~d~Dwf~~~~~~~~~l~i~~~~~--~d~d~~Ly~~~~--~~~~~s~g~~  782 (900)
+                      ..++.|+|+.+..|. .+. +..+.| + ..+|.|||+|.+..++.+.|.+...  .++.+.|++..+  ..+......+
+T Consensus         7 ~~~~~e~n~~~~~a~~~l~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~v~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~   86 (119)
+T 1NQJ_B            7 KLKEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKDEFGVTWTLHPESNINDRITYGQVDG   86 (119)
+T ss_dssp             CHHHHHHHHHHHHCEECCSSSCCEEEEECTTCCEEEEEEEESSCEEEEEEEEESSCCEEEEEEEESCSSCCCCEECEEET
+T ss_pred             ccccccCCCChhhcccCCCCCCeEEEecCCCCCceEEEEEECCCeEEEEEEecCCCceEEEEEEcCccCCcceEEcccCC
+Confidence            356789999998888 566 777778 8 8899999999999999999888775  356777887765  3333222222
+
+
+Q LOKIASV2_22100  783 GNETVVWNMTTAGLIIFNIRGFGNVLGFPYSLNIS  817 (900)
+Q Consensus       783 ~~e~v~~~~~~~g~y~~~v~~~~~~~~~~y~l~~~  817 (900)
+                      ......+.+ .+|+|||+|..+..  .+.|+|+|+
+T Consensus        87 ~~~~~~~~~-~~gtyyi~v~~~~~--~~~Y~l~v~  118 (119)
+T 1NQJ_B           87 NKVSNKVKL-RPGKYYLLVYKYSG--SGNYELRVN  118 (119)
+T ss_dssp             TEEEEEEEE-CSEEEEEEEEEEES--CEEEEEEEE
+T ss_pred             cEEEeEEec-CCeeEEEEEEEecC--CeeEEEEEe
+Confidence            233344557 89999999997543  467887764
+
+
+No 7
+>3JQW_C ColH protein (E.C.3.4.24.3); beta-barrel, dual calcium site, Collagen; 2.0A {Clostridium histolyticum}
+Probab=97.82  E-value=6.3e-08  Score=91.82  Aligned_cols=110  Identities=18%  Similarity=0.170  Sum_probs=79.1  Template_Neff=10.400
+
+Q LOKIASV2_22100  254 FDDQYEENDEFITSH-KISV--EFHNNLI-YNDQDWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQNELASSYNWGY  329 (900)
+Q Consensus       254 ~dD~~E~ND~~~tA~-~is~--~~~~~Lv-~~D~DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g~~lass~~~g~  329 (900)
+                      ..+++||||...+|. .+..  .+.+.|. ..|.|||+|.+.+++.+.+.+..... .++.+.|+++++..+...... +
+T Consensus         5 ~~~~~e~nd~~~~A~~~l~~~~~~~g~i~~~~d~d~y~~~~~~~~~~~~~~~~~~~-~~~~~~l~~~~g~~~~~~~~~-~   82 (121)
+T 3JQW_C            5 IGTEKEPNNSKETASGPIVPGIPVSGTIENTSDQDYFYFDVITPGEVKIDINKLGY-GGATWVVYDENNNAVSYATDD-G   82 (121)
+T ss_dssp             CSBCCSCCCSGGGCBCCCCTTCCEEEEEEETTCCEEEEEEECSSEEEEEEEEECSS-SEEEEEEEETTSCEEEECEEC-S
+T ss_pred             CCCCCCCCCCcccCCCCcCCCCCeEEeecCCCCceEEEEEeCCCcEEEEEEeeCCC-CceEEEEECCCCCEEEEecCC-C
+Confidence            457889999998888 6643  5566776 78999999999999998888765432 357788898887655432222 2
+
+
+Q LOKIASV2_22100  330 YYDEIQHTISESGTYYIGIEGYGIVKQLYALNISTS  365 (900)
+Q Consensus       330 ~~~~I~~~~~~~GTYYI~V~Gy~~~~~~YsL~ist~  365 (900)
+                      ....+.+.++++|+|||+|..+....+.|+|.++.+
+T Consensus        83 ~~~~~~~~~~~~GtY~i~v~~~~~~~~~Y~l~~~~~  118 (121)
+T 3JQW_C           83 QNLSGKFKADKPGRYYIHLYMFNGSYMPYRINIEGS  118 (121)
+T ss_dssp             SEEEEEEEESSCEEEEEEEEEEECEEEEEEEEEESS
+T ss_pred             CceEEEEecCCCeEEEEEEEEEcCCeecEEEEEEec
+Confidence            233344454589999999998755467899988754
+
+
+No 8
+>3JQW_C ColH protein (E.C.3.4.24.3); beta-barrel, dual calcium site, Collagen; 2.0A {Clostridium histolyticum}
+Probab=97.82  E-value=6.5e-08  Score=91.68  Aligned_cols=109  Identities=18%  Similarity=0.240  Sum_probs=81.7  Template_Neff=10.400
+
+Q LOKIASV2_22100   32 PSDDNFEENDTFESAY-LISAGQ-YPN-LV-GQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNRTLLNTSNSQA  107 (900)
+Q Consensus        32 ~~DD~fEpNDt~~sA~-~L~~G~-~~~-L~-~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~gtll~sS~s~~  107 (900)
+                      +..+++||||....|. .+..+. +.+ +. ..|.|||+|.+..++.+++.+.... ..++.+.|++..|..+......+
+T Consensus         4 ~~~~~~e~nd~~~~A~~~l~~~~~~~g~i~~~~d~d~y~~~~~~~~~~~~~~~~~~-~~~~~~~l~~~~g~~~~~~~~~~   82 (121)
+T 3JQW_C            4 PIGTEKEPNNSKETASGPIVPGIPVSGTIENTSDQDYFYFDVITPGEVKIDINKLG-YGGATWVVYDENNNAVSYATDDG   82 (121)
+T ss_dssp             CCSBCCSCCCSGGGCBCCCCTTCCEEEEEEETTCCEEEEEEECSSEEEEEEEEECS-SSEEEEEEEETTSCEEEECEECS
+T ss_pred             CCCCCCCCCCCcccCCCCcCCCCCeEEeecCCCCceEEEEEeCCCcEEEEEEeeCC-CCceEEEEECCCCCEEEEecCCC
+Confidence            5578999999999999 888877 777 77 8899999999999999998887643 23556666777787765543323
+
+
+Q LOKIASV2_22100  108 NNEILSWRSLSSQILYFVVKNYS-TNMDYDLRIEI  141 (900)
+Q Consensus       108 d~E~is~~~~~~g~~y~~V~~~s-t~~~Y~L~i~~  141 (900)
+                      ....+.+.++.+|+|||+|..+. ....|+|.+..
+T Consensus        83 ~~~~~~~~~~~~GtY~i~v~~~~~~~~~Y~l~~~~  117 (121)
+T 3JQW_C           83 QNLSGKFKADKPGRYYIHLYMFNGSYMPYRINIEG  117 (121)
+T ss_dssp             SEEEEEEEESSCEEEEEEEEEEECEEEEEEEEEES
+T ss_pred             CceEEEEecCCCeEEEEEEEEEcCCeecEEEEEEe
+Confidence            33445555447899999998765 45678887753
+
+
+No 9
+>4HPK_A Collagenase; Beta-sandwich jelly-roll, Collagen binding, PROTEIN; 1.35A {Clostridium histolyticum}
+Probab=97.75  E-value=1.1e-07  Score=88.58  Aligned_cols=102  Identities=13%  Similarity=0.150  Sum_probs=74.2  Template_Neff=10.700
+
+Q LOKIASV2_22100  713 DNYEENDGFLAAF-PVE-SSFYPN-L-TSLDEDWFQIWIPSNYSLKVETTSY--YDVDIYLYSDDY--VSLDYSAGFSGN  784 (900)
+Q Consensus       713 d~~e~n~~~~~a~-~~~-~~~~~~-l-~~~d~Dwf~~~~~~~~~l~i~~~~~--~d~d~~Ly~~~~--~~~~~s~g~~~~  784 (900)
+                      ++.|+|+.+..|. .+. +....| + ...+.|||+|.+.+++.+.|.+...  ....+.|++.++  ..+......+..
+T Consensus         3 ~~~e~n~~~~~a~~~~~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~i~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~~~   82 (113)
+T 4HPK_A            3 KEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKDEFGVTWTLHPESNINDRITYGQVDGNK   82 (113)
+T ss_pred             CcCCCCCCcccCCCCCCCCCeEEEeeecCCCeeEEEEEeCCCcEEEEEEeCCCCCcEEEEEEcCCCCccEEEEeCCCCCc
+Confidence            5678999988888 666 777788 8 8899999999999999998888764  356777777765  333322222223
+
+
+Q LOKIASV2_22100  785 ETVVWNMTTAGLIIFNIRGFGNVLGFPYSLNIS  817 (900)
+Q Consensus       785 e~v~~~~~~~g~y~~~v~~~~~~~~~~y~l~~~  817 (900)
+                      ....+.+ ++|+|||+|..+..  .+.|+|+|+
+T Consensus        83 ~~~~~~~-~~g~Yyi~v~~~~~--~~~y~l~v~  112 (113)
+T 4HPK_A           83 VSNKVKL-RPGKYYLLVYKYSG--SGNYELRVN  112 (113)
+T ss_pred             eEEEEEc-CCeEEEEEEEEecC--ceeEEEEEe
+Confidence            3444567 89999999997643  577888764
+
+
+No 10
+>5SV5_A Adenosylhomocysteinase (E.C.3.3.1.1); Collagenase Structural Genomics, Center for; HET: MSE; 1.0A {Bacillus anthracis}
+Probab=97.60  E-value=2.9e-07  Score=85.22  Aligned_cols=98  Identities=12%  Similarity=0.121  Sum_probs=68.8  Template_Neff=10.300
+
+Q LOKIASV2_22100  718 NDGFLAAFPVE-SSFYPN-L-TSLDEDWFQIWIPSNYSLKVETTSY--YDVDIYLYSDDY--VSLDYSAGFSGNETVVWN  790 (900)
+Q Consensus       718 n~~~~~a~~~~-~~~~~~-l-~~~d~Dwf~~~~~~~~~l~i~~~~~--~d~d~~Ly~~~~--~~~~~s~g~~~~e~v~~~  790 (900)
+                      ||+.++|..+. +..+.| + ..+|.|||+|++.+++.+.+.+...  ..+.+.|++..+  ..+......+......+.
+T Consensus         1 Nd~~~~A~~i~~~~~~~g~l~~~~d~D~y~~~~~~~~~~~l~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~   80 (105)
+T 5SV5_A            1 NNRPEEANRIGLNTTIKGSLIGGDHTDVYTFNVASAKNIDISVLNEYGIGMTWVLHHESDMQNYAAYGQANGNHIEANFN   80 (105)
+T ss_dssp             CCCCCCCEECCSSEEEEEEECTTCCEEEEEEEESSCEEEEEEEEETTCCSEEEEEEETTCSSSCSEECEEETTEEEEEEE
+T ss_pred             CCChhhccccCCCCeEEEEecCCCceEEEEEEeCCCCeEEEEEEecCCCeEEEEEEcCCcCcceeEecccCCceEEEEee
+Confidence            45667777776 777888 8 8899999999999999998888764  246677877663  222222212223344556
+
+
+Q LOKIASV2_22100  791 MTTAGLIIFNIRGFGNVLGFPYSLNIS  817 (900)
+Q Consensus       791 ~~~~g~y~~~v~~~~~~~~~~y~l~~~  817 (900)
+                      + ++|+|||+|.+.... .+.|+|+|+
+T Consensus        81 l-~~GtYyi~v~~~~~~-~~~Y~l~v~  105 (105)
+T 5SV5_A           81 A-KPGKYYLYVYKYDNG-DGTYELSVK  105 (105)
+T ss_dssp             E-CSEEEEEEEEECSSC-CEEEEEEEC
+T ss_pred             C-CCeEEEEEEEEccCC-CeeEEEEeC
+Confidence            7 899999999976442 578988763
+
+
+No 11
+>1NQJ_B CLASS 1 COLLAGENASE (E.C.3.4.24.3); BETA SANDWICH, METALLOPROTEASE, COLLAGEN-BINDING DOMAIN; 1.0A {Clostridium histolyticum} SCOP: b.23.2.1
+Probab=97.56  E-value=3.8e-07  Score=86.44  Aligned_cols=107  Identities=16%  Similarity=0.213  Sum_probs=76.3  Template_Neff=10.300
+
+Q LOKIASV2_22100   31 LPSDDNFEENDTFESAY-LISAGQ-YPN-LV-GQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNR--TLLNTSN  104 (900)
+Q Consensus        31 ~~~DD~fEpNDt~~sA~-~L~~G~-~~~-L~-~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~g--tll~sS~  104 (900)
+                      .+..++.|||+.+..|. .+..+. +.+ +. ..|.|||+|.+..++.++|.+.... ..+.++.|++..|  ..+..+.
+T Consensus         5 ~~~~~~~e~n~~~~~a~~~l~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~v~~~~~~-~~~~~~~l~~~~g~~~~~~~~~   83 (119)
+T 1NQJ_B            5 NEKLKEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKD-EFGVTWTLHPESNINDRITYGQ   83 (119)
+T ss_dssp             -CCHHHHHHHHHHHHCEECCSSSCCEEEEECTTCCEEEEEEEESSCEEEEEEEEESS-CCEEEEEEEESCSSCCCCEECE
+T ss_pred             ccccccccCCCChhhcccCCCCCCeEEEecCCCCCceEEEEEECCCeEEEEEEecCC-CceEEEEEEcCccCCcceEEcc
+Confidence            35678999999999999 777776 777 77 8899999999999999999887643 2345666666656  5444433
+
+
+Q LOKIASV2_22100  105 SQANNEILSWRSLSSQILYFVVKNYSTNMDYDLRI  139 (900)
+Q Consensus       105 s~~d~E~is~~~~~~g~~y~~V~~~st~~~Y~L~i  139 (900)
+                      ..+....+.+.+ .+|+|||+|........|+|.+
+T Consensus        84 ~~~~~~~~~~~~-~~gtyyi~v~~~~~~~~Y~l~v  117 (119)
+T 1NQJ_B           84 VDGNKVSNKVKL-RPGKYYLLVYKYSGSGNYELRV  117 (119)
+T ss_dssp             EETTEEEEEEEE-CSEEEEEEEEEEESCEEEEEEE
+T ss_pred             cCCcEEEeEEec-CCeeEEEEEEEecCCeeEEEEE
+Confidence            222234444555 8899999998654455677765
+
+
+No 12
+>4HPK_A Collagenase; Beta-sandwich jelly-roll, Collagen binding, PROTEIN; 1.35A {Clostridium histolyticum}
+Probab=97.47  E-value=6.3e-07  Score=83.52  Aligned_cols=104  Identities=16%  Similarity=0.246  Sum_probs=75.0  Template_Neff=10.700
+
+Q LOKIASV2_22100   35 DNFEENDTFESAY-LISAGQ-YPN-LV-GQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNR--TLLNTSNSQAN  108 (900)
+Q Consensus        35 D~fEpNDt~~sA~-~L~~G~-~~~-L~-~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~g--tll~sS~s~~d  108 (900)
+                      ++.|||+.+..|. .+..+. ..+ +. ..|.|||+|.+.+++.+++.+.... ..+..+.|++..|  ..+......+.
+T Consensus         3 ~~~e~n~~~~~a~~~~~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~i~~~~~~-~~~~~~~l~~~~g~~~~~~~~~~~~~   81 (113)
+T 4HPK_A            3 KEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKD-EFGVTWTLHPESNINDRITYGQVDGN   81 (113)
+T ss_pred             CcCCCCCCcccCCCCCCCCCeEEEeeecCCCeeEEEEEeCCCcEEEEEEeCCC-CCcEEEEEEcCCCCccEEEEeCCCCC
+Confidence            6889999999999 888777 777 77 8899999999999999999887643 2345666666666  55544332222
+
+
+Q LOKIASV2_22100  109 NEILSWRSLSSQILYFVVKNYSTNMDYDLRIE  140 (900)
+Q Consensus       109 ~E~is~~~~~~g~~y~~V~~~st~~~Y~L~i~  140 (900)
+                      .....+.+ .+|+||++|........|+|.+.
+T Consensus        82 ~~~~~~~~-~~g~Yyi~v~~~~~~~~y~l~v~  112 (113)
+T 4HPK_A           82 KVSNKVKL-RPGKYYLLVYKYSGSGNYELRVN  112 (113)
+T ss_pred             ceEEEEEc-CCeEEEEEEEEecCceeEEEEEe
+Confidence            34444555 88999999986544566777653
+
+
+No 13
+>3JQW_C ColH protein (E.C.3.4.24.3); beta-barrel, dual calcium site, Collagen; 2.0A {Clostridium histolyticum}
+Probab=97.45  E-value=7e-07  Score=84.73  Aligned_cols=108  Identities=13%  Similarity=0.303  Sum_probs=77.3  Template_Neff=10.400
+
+Q LOKIASV2_22100  144 VDDDYEENDQISQAV-SIPAK--FTS-LLILNDSDWFHWNGIKATSIIINLKHMSIAEINIKLYNSSGNKILEKISSNFE  219 (900)
+Q Consensus       144 ~dD~yE~ND~~~~A~-~L~~~--~t~-l~~~~D~DWF~f~~~~g~~v~v~l~~~s~gdldl~LydssG~~v~~s~ss~~e  219 (900)
+                      ..++.|||+...+|. .+..+  +.+ +...+|.|||+|.+.+++.+.+.+.......+.+.|++.+|..+......+..
+T Consensus         5 ~~~~~e~nd~~~~A~~~l~~~~~~~g~i~~~~d~d~y~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~   84 (121)
+T 3JQW_C            5 IGTEKEPNNSKETASGPIVPGIPVSGTIENTSDQDYFYFDVITPGEVKIDINKLGYGGATWVVYDENNNAVSYATDDGQN   84 (121)
+T ss_dssp             CSBCCSCCCSGGGCBCCCCTTCCEEEEEEETTCCEEEEEEECSSEEEEEEEEECSSSEEEEEEEETTSCEEEECEECSSE
+T ss_pred             CCCCCCCCCCcccCCCCcCCCCCeEEeecCCCCceEEEEEeCCCcEEEEEEeeCCCCceEEEEECCCCCEEEEecCCCCc
+Confidence            357889999999888 77544  667 88889999999999999999888876543356777888777655433222222
+
+
+Q LOKIASV2_22100  220 IGVEILVNSSQSFFIEISSSQN-PIPYYLSLDS  251 (900)
+Q Consensus       220 ~~i~~~~~~agtYyIrVsg~~~-~~~Y~L~id~  251 (900)
+                      ....+.+..+|+|||+|....+ .+.|+|.+..
+T Consensus        85 ~~~~~~~~~~GtY~i~v~~~~~~~~~Y~l~~~~  117 (121)
+T 3JQW_C           85 LSGKFKADKPGRYYIHLYMFNGSYMPYRINIEG  117 (121)
+T ss_dssp             EEEEEEESSCEEEEEEEEEEECEEEEEEEEEES
+T ss_pred             eEEEEecCCCeEEEEEEEEEcCCeecEEEEEEe
+Confidence            3344443378999999997654 5678887753
+
+
+No 14
+>1NQJ_B CLASS 1 COLLAGENASE (E.C.3.4.24.3); BETA SANDWICH, METALLOPROTEASE, COLLAGEN-BINDING DOMAIN; 1.0A {Clostridium histolyticum} SCOP: b.23.2.1
+Probab=97.40  E-value=9.5e-07  Score=83.76  Aligned_cols=106  Identities=16%  Similarity=0.206  Sum_probs=74.0  Template_Neff=10.300
+
+Q LOKIASV2_22100  254 FDDQYEENDEFITSH-KISV--EFHNNLI-YNDQDWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQ--NELASSYNW  327 (900)
+Q Consensus       254 ~dD~~E~ND~~~tA~-~is~--~~~~~Lv-~~D~DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g--~~lass~~~  327 (900)
+                      ..+++|+|+.+..|. .+..  .+.+.|. ..|.|||+|.+..++.+.|.+..... .++.+.|++.++  ..+......
+T Consensus         7 ~~~~~e~n~~~~~a~~~l~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~v~~~~~~~-~~~~~~l~~~~g~~~~~~~~~~~   85 (119)
+T 1NQJ_B            7 KLKEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKDE-FGVTWTLHPESNINDRITYGQVD   85 (119)
+T ss_dssp             CHHHHHHHHHHHHCEECCSSSCCEEEEECTTCCEEEEEEEESSCEEEEEEEEESSC-CEEEEEEEESCSSCCCCEECEEE
+T ss_pred             ccccccCCCChhhcccCCCCCCeEEEecCCCCCceEEEEEECCCeEEEEEEecCCC-ceEEEEEEcCccCCcceEEcccC
+Confidence            457789999998888 5533  4556676 78999999999999999888876532 357788888776  434332222
+
+
+Q LOKIASV2_22100  328 GYYYDEIQHTISESGTYYIGIEGYGIVKQLYALNIS  363 (900)
+Q Consensus       328 g~~~~~I~~~~~~~GTYYI~V~Gy~~~~~~YsL~is  363 (900)
+                       +........+ .+|+|||+|..+.. ...|+|.++
+T Consensus        86 -~~~~~~~~~~-~~gtyyi~v~~~~~-~~~Y~l~v~  118 (119)
+T 1NQJ_B           86 -GNKVSNKVKL-RPGKYYLLVYKYSG-SGNYELRVN  118 (119)
+T ss_dssp             -TTEEEEEEEE-CSEEEEEEEEEEES-CEEEEEEEE
+T ss_pred             -CcEEEeEEec-CCeeEEEEEEEecC-CeeEEEEEe
+Confidence             2223344455 89999999987544 567877653
+
+
+No 15
+>4HPK_A Collagenase; Beta-sandwich jelly-roll, Collagen binding, PROTEIN; 1.35A {Clostridium histolyticum}
+Probab=97.38  E-value=1.1e-06  Score=81.89  Aligned_cols=104  Identities=16%  Similarity=0.233  Sum_probs=72.9  Template_Neff=10.700
+
+Q LOKIASV2_22100  256 DQYEENDEFITSH-KISV--EFHNNLI-YNDQDWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQ--NELASSYNWGY  329 (900)
+Q Consensus       256 D~~E~ND~~~tA~-~is~--~~~~~Lv-~~D~DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g--~~lass~~~g~  329 (900)
+                      +++|+|+.+..|. .+..  ...+.|. ..|.|||+|.+..++.+.+.+..... .++.+.|++.++  ..+...... +
+T Consensus         3 ~~~e~n~~~~~a~~~~~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~i~~~~~~~-~~~~~~l~~~~g~~~~~~~~~~~-~   80 (113)
+T 4HPK_A            3 KEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKDE-FGVTWTLHPESNINDRITYGQVD-G   80 (113)
+T ss_pred             CcCCCCCCcccCCCCCCCCCeEEEeeecCCCeeEEEEEeCCCcEEEEEEeCCCC-CcEEEEEEcCCCCccEEEEeCCC-C
+Confidence            5678999988888 6633  4456666 78999999999999998888776432 356778888776  444332221 2
+
+
+Q LOKIASV2_22100  330 YYDEIQHTISESGTYYIGIEGYGIVKQLYALNIS  363 (900)
+Q Consensus       330 ~~~~I~~~~~~~GTYYI~V~Gy~~~~~~YsL~is  363 (900)
+                      ......+.+ ++|+|||+|..++. .+.|+|.++
+T Consensus        81 ~~~~~~~~~-~~g~Yyi~v~~~~~-~~~y~l~v~  112 (113)
+T 4HPK_A           81 NKVSNKVKL-RPGKYYLLVYKYSG-SGNYELRVN  112 (113)
+T ss_pred             CceEEEEEc-CCeEEEEEEEEecC-ceeEEEEEe
+Confidence            223344456 99999999987654 678888764
+
+
+No 16
+>5SV5_A Adenosylhomocysteinase (E.C.3.3.1.1); Collagenase Structural Genomics, Center for; HET: MSE; 1.0A {Bacillus anthracis}
+Probab=97.35  E-value=1.3e-06  Score=80.90  Aligned_cols=99  Identities=20%  Similarity=0.277  Sum_probs=65.8  Template_Neff=10.300
+
+Q LOKIASV2_22100  261 NDEFITSHKISV--EFHNNLI-YNDQDWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQ--NELASSYNWGYYYDEIQ  335 (900)
+Q Consensus       261 ND~~~tA~~is~--~~~~~Lv-~~D~DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g--~~lass~~~g~~~~~I~  335 (900)
+                      ||+..+|..+..  .+.+.|. ..|.|||+|++.+++.+.+.+..... ..+.+.|+++++  ..+...... +....+.
+T Consensus         1 Nd~~~~A~~i~~~~~~~g~l~~~~d~D~y~~~~~~~~~~~l~~~~~~~-~~~~~~l~~~~~~~~~~~~~~~~-~~~~~~~   78 (105)
+T 5SV5_A            1 NNRPEEANRIGLNTTIKGSLIGGDHTDVYTFNVASAKNIDISVLNEYG-IGMTWVLHHESDMQNYAAYGQAN-GNHIEAN   78 (105)
+T ss_dssp             CCCCCCCEECCSSEEEEEEECTTCCEEEEEEEESSCEEEEEEEEETTC-CSEEEEEEETTCSSSCSEECEEE-TTEEEEE
+T ss_pred             CCChhhccccCCCCeEEEEecCCCceEEEEEEeCCCCeEEEEEEecCC-CeEEEEEEcCCcCcceeEecccC-CceEEEE
+Confidence            455666766633  4556666 78999999999999998888776431 246778888764  323222111 1223345
+
+
+Q LOKIASV2_22100  336 HTISESGTYYIGIEGYGIVKQLYALNI  362 (900)
+Q Consensus       336 ~~~~~~GTYYI~V~Gy~~~~~~YsL~i  362 (900)
+                      ..+ ++|+|||+|.+.....+.|.|.+
+T Consensus        79 ~~l-~~GtYyi~v~~~~~~~~~Y~l~v  104 (105)
+T 5SV5_A           79 FNA-KPGKYYLYVYKYDNGDGTYELSV  104 (105)
+T ss_dssp             EEE-CSEEEEEEEEECSSCCEEEEEEE
+T ss_pred             eeC-CCeEEEEEEEEccCCCeeEEEEe
+Confidence            556 89999999987644456888876
+
+
+No 17
+>5SV5_A Adenosylhomocysteinase (E.C.3.3.1.1); Collagenase Structural Genomics, Center for; HET: MSE; 1.0A {Bacillus anthracis}
+Probab=97.13  E-value=4.2e-06  Score=77.58  Aligned_cols=98  Identities=17%  Similarity=0.155  Sum_probs=66.9  Template_Neff=10.300
+
+Q LOKIASV2_22100  151 NDQISQAVSIPAK--FTS-LLILNDSDWFHWNGIKATSIIINLKHMSIAEINIKLYNSSG--NKILEKISSNFEIGVEIL  225 (900)
+Q Consensus       151 ND~~~~A~~L~~~--~t~-l~~~~D~DWF~f~~~~g~~v~v~l~~~s~gdldl~LydssG--~~v~~s~ss~~e~~i~~~  225 (900)
+                      ||+.++|..+..+  +.+ +...+|.|||+|.+.+++.+.+.+.......+.+.|++.++  ..+......+......+.
+T Consensus         1 Nd~~~~A~~i~~~~~~~g~l~~~~d~D~y~~~~~~~~~~~l~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~   80 (105)
+T 5SV5_A            1 NNRPEEANRIGLNTTIKGSLIGGDHTDVYTFNVASAKNIDISVLNEYGIGMTWVLHHESDMQNYAAYGQANGNHIEANFN   80 (105)
+T ss_dssp             CCCCCCCEECCSSEEEEEEECTTCCEEEEEEEESSCEEEEEEEEETTCCSEEEEEEETTCSSSCSEECEEETTEEEEEEE
+T ss_pred             CCChhhccccCCCCeEEEEecCCCceEEEEEEeCCCCeEEEEEEecCCCeEEEEEEcCCcCcceeEecccCCceEEEEee
+Confidence            5666777777544  667 88889999999999999999888876432346777887763  333322212222334455
+
+
+Q LOKIASV2_22100  226 VNSSQSFFIEISSSQN-PIPYYLSL  249 (900)
+Q Consensus       226 ~~~agtYyIrVsg~~~-~~~Y~L~i  249 (900)
+                      + ++|+|||+|.+... .+.|+|.+
+T Consensus        81 l-~~GtYyi~v~~~~~~~~~Y~l~v  104 (105)
+T 5SV5_A           81 A-KPGKYYLYVYKYDNGDGTYELSV  104 (105)
+T ss_dssp             E-CSEEEEEEEEECSSCCEEEEEEE
+T ss_pred             C-CCeEEEEEEEEccCCCeeEEEEe
+Confidence            6 89999999987544 46787765
+
+
+No 18
+>1NQJ_B CLASS 1 COLLAGENASE (E.C.3.4.24.3); BETA SANDWICH, METALLOPROTEASE, COLLAGEN-BINDING DOMAIN; 1.0A {Clostridium histolyticum} SCOP: b.23.2.1
+Probab=97.08  E-value=5.5e-06  Score=78.57  Aligned_cols=105  Identities=13%  Similarity=0.164  Sum_probs=73.0  Template_Neff=10.300
+
+Q LOKIASV2_22100  144 VDDDYEENDQISQAV-SIPAK--FTS-LLILNDSDWFHWNGIKATSIIINLKHMSIAEINIKLYNSSG--NKILEKISSN  217 (900)
+Q Consensus       144 ~dD~yE~ND~~~~A~-~L~~~--~t~-l~~~~D~DWF~f~~~~g~~v~v~l~~~s~gdldl~LydssG--~~v~~s~ss~  217 (900)
+                      ..++.|+|+....|. .+..+  +.+ +...+|.|||+|.+..++.+.+.+.......+.+.|++.++  ..+......+
+T Consensus         7 ~~~~~e~n~~~~~a~~~l~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~v~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~   86 (119)
+T 1NQJ_B            7 KLKEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKDEFGVTWTLHPESNINDRITYGQVDG   86 (119)
+T ss_dssp             CHHHHHHHHHHHHCEECCSSSCCEEEEECTTCCEEEEEEEESSCEEEEEEEEESSCCEEEEEEEESCSSCCCCEECEEET
+T ss_pred             ccccccCCCChhhcccCCCCCCeEEEecCCCCCceEEEEEECCCeEEEEEEecCCCceEEEEEEcCccCCcceEEcccCC
+Confidence            346789999998888 66433  667 77789999999999999999988876543456777887765  4443332222
+
+
+Q LOKIASV2_22100  218 FEIGVEILVNSSQSFFIEISSSQNPIPYYLSL  249 (900)
+Q Consensus       218 ~e~~i~~~~~~agtYyIrVsg~~~~~~Y~L~i  249 (900)
+                      ......+.+ .+|+|||+|........|+|.+
+T Consensus        87 ~~~~~~~~~-~~gtyyi~v~~~~~~~~Y~l~v  117 (119)
+T 1NQJ_B           87 NKVSNKVKL-RPGKYYLLVYKYSGSGNYELRV  117 (119)
+T ss_dssp             TEEEEEEEE-CSEEEEEEEEEEESCEEEEEEE
+T ss_pred             cEEEeEEec-CCeeEEEEEEEecCCeeEEEEE
+Confidence            223344456 8899999998643345677665
+
+
+No 19
+>4HPK_A Collagenase; Beta-sandwich jelly-roll, Collagen binding, PROTEIN; 1.35A {Clostridium histolyticum}
+Probab=97.05  E-value=6.3e-06  Score=76.86  Aligned_cols=104  Identities=13%  Similarity=0.191  Sum_probs=72.6  Template_Neff=10.700
+
+Q LOKIASV2_22100  146 DDYEENDQISQAV-SIPAK--FTS-LLILNDSDWFHWNGIKATSIIINLKHMSIAEINIKLYNSSG--NKILEKISSNFE  219 (900)
+Q Consensus       146 D~yE~ND~~~~A~-~L~~~--~t~-l~~~~D~DWF~f~~~~g~~v~v~l~~~s~gdldl~LydssG--~~v~~s~ss~~e  219 (900)
+                      ++.|+|+.+..|. .+..+  ..+ +...+|.|||+|.+.+++.+.+.+.........+.|++.++  ..+......+..
+T Consensus         3 ~~~e~n~~~~~a~~~~~~~~~~~g~i~~~~d~D~y~~~~~~~~~~~i~~~~~~~~~~~~~l~~~~g~~~~~~~~~~~~~~   82 (113)
+T 4HPK_A            3 KEKENNDSSDKATVIPNFNTTMQGSLLGDDSRDYYSFEVKEEGEVNIELDKKDEFGVTWTLHPESNINDRITYGQVDGNK   82 (113)
+T ss_pred             CcCCCCCCcccCCCCCCCCCeEEEeeecCCCeeEEEEEeCCCcEEEEEEeCCCCCcEEEEEEcCCCCccEEEEeCCCCCc
+Confidence            5678999998888 66544  667 77788999999999999999888876433356777777776  444433222222
+
+
+Q LOKIASV2_22100  220 IGVEILVNSSQSFFIEISSSQNPIPYYLSLD  250 (900)
+Q Consensus       220 ~~i~~~~~~agtYyIrVsg~~~~~~Y~L~id  250 (900)
+                      ....+.+ .+|+|||+|......+.|+|.+.
+T Consensus        83 ~~~~~~~-~~g~Yyi~v~~~~~~~~y~l~v~  112 (113)
+T 4HPK_A           83 VSNKVKL-RPGKYYLLVYKYSGSGNYELRVN  112 (113)
+T ss_pred             eEEEEEc-CCeEEEEEEEEecCceeEEEEEe
+Confidence            3344456 88999999986433557777653
+
+
+No 20
+>5SV5_A Adenosylhomocysteinase (E.C.3.3.1.1); Collagenase Structural Genomics, Center for; HET: MSE; 1.0A {Bacillus anthracis}
+Probab=97.04  E-value=6.7e-06  Score=76.24  Aligned_cols=98  Identities=17%  Similarity=0.284  Sum_probs=68.5  Template_Neff=10.300
+
+Q LOKIASV2_22100   40 NDTFESAYLISAGQ-YPN-LV-GQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNR--TLLNTSNSQANNEILSW  114 (900)
+Q Consensus        40 NDt~~sA~~L~~G~-~~~-L~-~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~g--tll~sS~s~~d~E~is~  114 (900)
+                      ||..++|.+|..+. +.+ |. ..|.|||+|.+..++.+++.+.... ...+++.|++.++  ..+......+....+.+
+T Consensus         1 Nd~~~~A~~i~~~~~~~g~l~~~~d~D~y~~~~~~~~~~~l~~~~~~-~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~   79 (105)
+T 5SV5_A            1 NNRPEEANRIGLNTTIKGSLIGGDHTDVYTFNVASAKNIDISVLNEY-GIGMTWVLHHESDMQNYAAYGQANGNHIEANF   79 (105)
+T ss_dssp             CCCCCCCEECCSSEEEEEEECTTCCEEEEEEEESSCEEEEEEEEETT-CCSEEEEEEETTCSSSCSEECEEETTEEEEEE
+T ss_pred             CCChhhccccCCCCeEEEEecCCCceEEEEEEeCCCCeEEEEEEecC-CCeEEEEEEcCCcCcceeEecccCCceEEEEe
+Confidence            67788899898877 777 77 8899999999999999988887643 2345666766553  34433222222334455
+
+
+Q LOKIASV2_22100  115 RSLSSQILYFVVKNYS-TNMDYDLRI  139 (900)
+Q Consensus       115 ~~~~~g~~y~~V~~~s-t~~~Y~L~i  139 (900)
+                      .+ .+|+|||+|.+.. ....|+|.+
+T Consensus        80 ~l-~~GtYyi~v~~~~~~~~~Y~l~v  104 (105)
+T 5SV5_A           80 NA-KPGKYYLYVYKYDNGDGTYELSV  104 (105)
+T ss_dssp             EE-CSEEEEEEEEECSSCCEEEEEEE
+T ss_pred             eC-CCeEEEEEEEEccCCCeeEEEEe
+Confidence            55 8999999998754 445687765
+
+
+No 21
+>4DZG_A PliG; lysozyme inhibitor, g-type lysozyme binding; 2.02A {Aeromonas hydrophila subsp. hydrophila}
+Probab=96.20  E-value=0.00019  Score=69.27  Aligned_cols=90  Identities=11%  Similarity=0.125  Sum_probs=60.6  Template_Neff=8.800
+
+Q LOKIASV2_22100  730 SFYPN-LTSLDEDWFQIWIPSNYSLKVETTSYYDVDIYLYSDDYVSLDYSAGF-S-GNETVVWNMTTAGLIIFNIRGFG-  805 (900)
+Q Consensus       730 ~~~~~-l~~~d~Dwf~~~~~~~~~l~i~~~~~~d~d~~Ly~~~~~~~~~s~g~-~-~~e~v~~~~~~~g~y~~~v~~~~-  805 (900)
+                      ..+.| +...+.++|+|.+.+++.+++.+.+..+..+.|+++++..+...+.+ . .+....+.++..|+|.|+|.... 
+T Consensus        18 ~~v~G~l~~~~~~~Y~~~~~~Gq~l~v~~~s~~d~~l~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~I~V~~~~~   97 (114)
+T 4DZG_A           18 AQLKGSFTGYDTIHYTLVAKAGQTMTVKIGGSSNANFNVFAPGAQPGQAEAIGRNDGDGQWQGALPASGKYLIQVYQMRA   97 (114)
+T ss_dssp             EEEEECCBTTCEEEEEEEECTTCEEEEEEEESTTCEEEEECTTCCTTTSCCSEECCTTSEEEEECSSCEEEEEEEECCHH
+T ss_pred             EEEEEEEecCCeEEEEEEECCCCEEEEEEeCCCCceEEEECCCCCCCceeeccccCCCCeEEEECCCCEEEEEEEEeccc
+Confidence            34556 54567899999999999999888764345667777776443322111 1 23445566657999999998752 
+
+
+Q LOKIASV2_22100  806 ---NVLGFPYSLNISLT  819 (900)
+Q Consensus       806 ---~~~~~~y~l~~~~~  819 (900)
+                         ....+.|+|+|+++
+T Consensus        98 ~~~~g~~~~Y~L~v~i~  114 (114)
+T 4DZG_A           98 SARRGEQVPHSLAVSIQ  114 (114)
+T ss_dssp             HHHTTCBCCEEEEEEEC
+T ss_pred             hhcCCCeeceEEEEEeC
+Confidence               11257899999763
+
+
+No 22
+>4DZG_A PliG; lysozyme inhibitor, g-type lysozyme binding; 2.02A {Aeromonas hydrophila subsp. hydrophila}
+Probab=96.15  E-value=0.00023  Score=68.78  Aligned_cols=89  Identities=17%  Similarity=0.086  Sum_probs=62.5  Template_Neff=8.800
+
+Q LOKIASV2_22100  273 EFHNNLIYNDQDWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQNELASSY-NWGYYYDEIQHTISESGTYYIGIEGY  351 (900)
+Q Consensus       273 ~~~~~Lv~~D~DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g~~lass~-~~g~~~~~I~~~~~~~GTYYI~V~Gy  351 (900)
+                      .+.|.|...+.++|+|.+.+++.+.|.+....   +..+.|+++++..+.... +.+.......+.++..|+|.|+|...
+T Consensus        19 ~v~G~l~~~~~~~Y~~~~~~Gq~l~v~~~s~~---d~~l~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~I~V~~~   95 (114)
+T 4DZG_A           19 QLKGSFTGYDTIHYTLVAKAGQTMTVKIGGSS---NANFNVFAPGAQPGQAEAIGRNDGDGQWQGALPASGKYLIQVYQM   95 (114)
+T ss_dssp             EEEECCBTTCEEEEEEEECTTCEEEEEEEEST---TCEEEEECTTCCTTTSCCSEECCTTSEEEEECSSCEEEEEEEECC
+T ss_pred             EEEEEEecCCeEEEEEEECCCCEEEEEEeCCC---CceEEEECCCCCCCceeeccccCCCCeEEEECCCCEEEEEEEEec
+Confidence            34566667789999999999999998887643   467788888876543221 11112345667787899999999875
+
+
+Q LOKIASV2_22100  352 G-----IVKQLYALNIST  364 (900)
+Q Consensus       352 ~-----~~~~~YsL~ist  364 (900)
+                      .     ...+.|+|+|..
+T Consensus        96 ~~~~~~g~~~~Y~L~v~i  113 (114)
+T 4DZG_A           96 RASARRGEQVPHSLAVSI  113 (114)
+T ss_dssp             HHHHHTTCBCCEEEEEEE
+T ss_pred             cchhcCCCeeceEEEEEe
+Confidence            1     225689998853
+
+
+No 23
+>4DY3_B Inhibitor of g-type lysozyme; lysozyme inhibitor, g-type lysozyme binding; HET: GOL; 1.8A {Escherichia coli}
+Probab=95.62  E-value=0.00091  Score=64.49  Aligned_cols=89  Identities=12%  Similarity=0.214  Sum_probs=58.0  Template_Neff=8.600
+
+Q LOKIASV2_22100  730 SFYPN-LTSLDEDWFQIWIPSNYSLKVETTSYYDVDIYLYSDDYVSLDYSAGF--SGNETVVWNMTTAGLIIFNIRGFGN  806 (900)
+Q Consensus       730 ~~~~~-l~~~d~Dwf~~~~~~~~~l~i~~~~~~d~d~~Ly~~~~~~~~~s~g~--~~~e~v~~~~~~~g~y~~~v~~~~~  806 (900)
+                      ..+.| +...+.++|+|.+.+++.+.+.+.+. .++..|+++.+..+.....+  .......+.++..|+|.|+|....+
+T Consensus        16 ~~v~G~l~~~~~~~Y~~~~~~Gq~l~v~l~s~-~~~~~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~~~~   94 (111)
+T 4DY3_B           16 AQYSGEIKGYDYDTYTFYAKKGQKVHVSISNE-GADTYLFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQTRN   94 (111)
+T ss_dssp             EEEEEEEETTCCEEEEEEECTTCEEEEEESCT-TSEEEEECTTCSSCEECSTTCTTSCTTSCEECSSSEEEEEEEECCHH
+T ss_pred             eEEEEEEeccceEEEEEEECCCCEEEEEEecC-CCcEEEECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEeccc
+Confidence            34556 54567999999999999999998876 23333777765322111111  1234455666579999999987522
+
+
+Q LOKIASV2_22100  807 ----VLGFPYSLNISLT  819 (900)
+Q Consensus       807 ----~~~~~y~l~~~~~  819 (900)
+                          ...+.|+|+|++.
+T Consensus        95 ~~~~~~~~~Y~L~v~i~  111 (111)
+T 4DY3_B           95 DARKNKTKKYNVDIQIK  111 (111)
+T ss_dssp             HHHTTCEEEEEEEEEEC
+T ss_pred             ccccCCcccEEEEEEEC
+Confidence                1247899999863
+
+
+No 24
+>4G9S_B Goose-type lysozyme, Inhibitor of g-type; hydrolase inhibitor, lysozyme, HYDROLASE-HYDROLASE INHIBITOR; HET: FLC; 0.95A {Salmo salar}
+Probab=95.62  E-value=0.00091  Score=64.49  Aligned_cols=89  Identities=12%  Similarity=0.214  Sum_probs=58.0  Template_Neff=8.600
+
+Q LOKIASV2_22100  730 SFYPN-LTSLDEDWFQIWIPSNYSLKVETTSYYDVDIYLYSDDYVSLDYSAGF--SGNETVVWNMTTAGLIIFNIRGFGN  806 (900)
+Q Consensus       730 ~~~~~-l~~~d~Dwf~~~~~~~~~l~i~~~~~~d~d~~Ly~~~~~~~~~s~g~--~~~e~v~~~~~~~g~y~~~v~~~~~  806 (900)
+                      ..+.| +...+.++|+|.+.+++.+.+.+.+. .++..|+++.+..+.....+  .......+.++..|+|.|+|....+
+T Consensus        16 ~~v~G~l~~~~~~~Y~~~~~~Gq~l~v~l~s~-~~~~~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~~~~   94 (111)
+T 4G9S_B           16 AQYSGEIKGYDYDTYTFYAKKGQKVHVSISNE-GADTYLFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQTRN   94 (111)
+T ss_dssp             EEEEEEEETTCCEEEEEEECTTCEEEEEESCT-TCEEEEECTTCSSCEECSTTCTTCCTTSCEECSSSEEEEEEEECCHH
+T ss_pred             eEEEEEEeccceEEEEEEECCCCEEEEEEecC-CCcEEEECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEeccc
+Confidence            34556 54567999999999999999998876 23333777765322111111  1234455666579999999987522
+
+
+Q LOKIASV2_22100  807 ----VLGFPYSLNISLT  819 (900)
+Q Consensus       807 ----~~~~~y~l~~~~~  819 (900)
+                          ...+.|+|+|++.
+T Consensus        95 ~~~~~~~~~Y~L~v~i~  111 (111)
+T 4G9S_B           95 DARKNKTKKYNVDIQIK  111 (111)
+T ss_dssp             HHHTTCEEEEEEEEEEC
+T ss_pred             ccccCCcccEEEEEEEC
+Confidence                1247899999863
+
+
+No 25
+>4DZG_A PliG; lysozyme inhibitor, g-type lysozyme binding; 2.02A {Aeromonas hydrophila subsp. hydrophila}
+Probab=94.52  E-value=0.0062  Score=58.99  Aligned_cols=84  Identities=10%  Similarity=0.143  Sum_probs=58.0  Template_Neff=8.800
+
+Q LOKIASV2_22100  164 FTS-LLILNDSDWFHWNGIKATSIIINLKHMSIAEINIKLYNSSGNKILEKISS-N-FEIGVEILVNSSQSFFIEISSSQ  240 (900)
+Q Consensus       164 ~t~-l~~~~D~DWF~f~~~~g~~v~v~l~~~s~gdldl~LydssG~~v~~s~ss-~-~e~~i~~~~~~agtYyIrVsg~~  240 (900)
+                      +.| +. .++.++|+|.+.+++.+.+.+....  +..+.|++.++..+...... . ......+.++..|+|.|+|....
+T Consensus        20 v~G~l~-~~~~~~Y~~~~~~Gq~l~v~~~s~~--d~~l~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~I~V~~~~   96 (114)
+T 4DZG_A           20 LKGSFT-GYDTIHYTLVAKAGQTMTVKIGGSS--NANFNVFAPGAQPGQAEAIGRNDGDGQWQGALPASGKYLIQVYQMR   96 (114)
+T ss_dssp             EEECCB-TTCEEEEEEEECTTCEEEEEEEEST--TCEEEEECTTCCTTTSCCSEECCTTSEEEEECSSCEEEEEEEECCH
+T ss_pred             EEEEEe-cCCeEEEEEEECCCCEEEEEEeCCC--CceEEEECCCCCCCceeeccccCCCCeEEEECCCCEEEEEEEEecc
+Confidence            455 54 5678999999999999999887643  45667777777654322211 1 13445667768899999998642
+
+
+Q LOKIASV2_22100  241 -----N-PIPYYLSLD  250 (900)
+Q Consensus       241 -----~-~~~Y~L~id  250 (900)
+                           + .+.|+|.|.
+T Consensus        97 ~~~~~g~~~~Y~L~v~  112 (114)
+T 4DZG_A           97 ASARRGEQVPHSLAVS  112 (114)
+T ss_dssp             HHHHTTCBCCEEEEEE
+T ss_pred             chhcCCCeeceEEEEE
+Confidence                 2 568998875
+
+
+No 26
+>4DZG_A PliG; lysozyme inhibitor, g-type lysozyme binding; 2.02A {Aeromonas hydrophila subsp. hydrophila}
+Probab=94.51  E-value=0.0063  Score=58.94  Aligned_cols=84  Identities=11%  Similarity=0.101  Sum_probs=59.4  Template_Neff=8.800
+
+Q LOKIASV2_22100   54 YPN-LVGQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNRTLLNTSN-SQ-ANNEILSWRSLSSQILYFVVKNYS  130 (900)
+Q Consensus        54 ~~~-L~~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~gtll~sS~-s~-~d~E~is~~~~~~g~~y~~V~~~s  130 (900)
+                      +.| +...+.++|+|.+.+++.++|.+....   +..+.|+++.|..+.... .. ..+..+.+.++.+|.|.|+|....
+T Consensus        20 v~G~l~~~~~~~Y~~~~~~Gq~l~v~~~s~~---d~~l~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~I~V~~~~   96 (114)
+T 4DZG_A           20 LKGSFTGYDTIHYTLVAKAGQTMTVKIGGSS---NANFNVFAPGAQPGQAEAIGRNDGDGQWQGALPASGKYLIQVYQMR   96 (114)
+T ss_dssp             EEECCBTTCEEEEEEEECTTCEEEEEEEEST---TCEEEEECTTCCTTTSCCSEECCTTSEEEEECSSCEEEEEEEECCH
+T ss_pred             EEEEEecCCeEEEEEEECCCCEEEEEEeCCC---CceEEEECCCCCCCceeeccccCCCCeEEEECCCCEEEEEEEEecc
+Confidence            455 556788999999999999999987632   345555788787764221 11 123456777878999999997641
+
+
+Q LOKIASV2_22100  131 ------TNMDYDLRIE  140 (900)
+Q Consensus       131 ------t~~~Y~L~i~  140 (900)
+                            ....|+|+|.
+T Consensus        97 ~~~~~g~~~~Y~L~v~  112 (114)
+T 4DZG_A           97 ASARRGEQVPHSLAVS  112 (114)
+T ss_dssp             HHHHTTCBCCEEEEEE
+T ss_pred             chhcCCCeeceEEEEE
+Confidence                  4567999875
+
+
+No 27
+>4DY3_B Inhibitor of g-type lysozyme; lysozyme inhibitor, g-type lysozyme binding; HET: GOL; 1.8A {Escherichia coli}
+Probab=94.08  E-value=0.011  Score=57.29  Aligned_cols=88  Identities=16%  Similarity=0.109  Sum_probs=58.3  Template_Neff=8.600
+
+Q LOKIASV2_22100  273 EFHNNLIYNDQDWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQNELASSY-NWGYYYDEIQHTISESGTYYIGIEGY  351 (900)
+Q Consensus       273 ~~~~~Lv~~D~DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g~~lass~-~~g~~~~~I~~~~~~~GTYYI~V~Gy  351 (900)
+                      .+.+.|...+.++|.|.+.+++.+.|.+....    ++..|+++++..+.... +.+.......+.++..|+|.|+|...
+T Consensus        17 ~v~G~l~~~~~~~Y~~~~~~Gq~l~v~l~s~~----~~~~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~~   92 (111)
+T 4DY3_B           17 QYSGEIKGYDYDTYTFYAKKGQKVHVSISNEG----ADTYLFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQT   92 (111)
+T ss_dssp             EEEEEEETTCCEEEEEEECTTCEEEEEESCTT----SEEEEECTTCSSCEECSTTCTTSCTTSCEECSSSEEEEEEEECC
+T ss_pred             EEEEEEeccceEEEEEEECCCCEEEEEEecCC----CcEEEECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEec
+Confidence            34566666789999999999999999887643    22237888764321111 11012344667777899999999764
+
+
+Q LOKIASV2_22100  352 G-----IVKQLYALNIST  364 (900)
+Q Consensus       352 ~-----~~~~~YsL~ist  364 (900)
+                      .     ...+.|+|+|..
+T Consensus        93 ~~~~~~~~~~~Y~L~v~i  110 (111)
+T 4DY3_B           93 RNDARKNKTKKYNVDIQI  110 (111)
+T ss_dssp             HHHHHTTCEEEEEEEEEE
+T ss_pred             ccccccCCcccEEEEEEE
+Confidence            2     224689998863
+
+
+No 28
+>4G9S_B Goose-type lysozyme, Inhibitor of g-type; hydrolase inhibitor, lysozyme, HYDROLASE-HYDROLASE INHIBITOR; HET: FLC; 0.95A {Salmo salar}
+Probab=94.08  E-value=0.011  Score=57.29  Aligned_cols=88  Identities=16%  Similarity=0.109  Sum_probs=58.3  Template_Neff=8.600
+
+Q LOKIASV2_22100  273 EFHNNLIYNDQDWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQNELASSY-NWGYYYDEIQHTISESGTYYIGIEGY  351 (900)
+Q Consensus       273 ~~~~~Lv~~D~DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g~~lass~-~~g~~~~~I~~~~~~~GTYYI~V~Gy  351 (900)
+                      .+.+.|...+.++|.|.+.+++.+.|.+....    ++..|+++++..+.... +.+.......+.++..|+|.|+|...
+T Consensus        17 ~v~G~l~~~~~~~Y~~~~~~Gq~l~v~l~s~~----~~~~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~~   92 (111)
+T 4G9S_B           17 QYSGEIKGYDYDTYTFYAKKGQKVHVSISNEG----ADTYLFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQT   92 (111)
+T ss_dssp             EEEEEEETTCCEEEEEEECTTCEEEEEESCTT----CEEEEECTTCSSCEECSTTCTTCCTTSCEECSSSEEEEEEEECC
+T ss_pred             EEEEEEeccceEEEEEEECCCCEEEEEEecCC----CcEEEECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEec
+Confidence            34566666789999999999999999887643    22237888764321111 11012344667777899999999764
+
+
+Q LOKIASV2_22100  352 G-----IVKQLYALNIST  364 (900)
+Q Consensus       352 ~-----~~~~~YsL~ist  364 (900)
+                      .     ...+.|+|+|..
+T Consensus        93 ~~~~~~~~~~~Y~L~v~i  110 (111)
+T 4G9S_B           93 RNDARKNKTKKYNVDIQI  110 (111)
+T ss_dssp             HHHHHTTCEEEEEEEEEE
+T ss_pred             ccccccCCcccEEEEEEE
+Confidence            2     224689998863
+
+
+No 29
+>2LUW_A Metalloprotease; anti-parallel Beta-sheets, HYDROLASE; NMR {Vibrio vulnificus}
+Probab=93.37  E-value=0.021  Score=52.71  Aligned_cols=76  Identities=12%  Similarity=0.193  Sum_probs=54.7  Template_Neff=10.400
+
+Q LOKIASV2_22100  507 DDDWFNLSVPAYTLVNIVIIFQNDDGDLDLFAESNLGGH------FSTSITDNETIVLYFNENATVLIQVEDFNINLCYS  580 (900)
+Q Consensus       507 DdDwf~~~v~ag~~l~v~i~F~~~~GDlDL~~~~~~g~~------~s~s~tdnE~v~~~~~~~gtyyI~V~g~n~~~~Ys  580 (900)
+                      +..+|.+.+|++..+.+  ...+..||+||++.......      .+.....+|.+.+.....|+|||.|.+++....|+
+T Consensus        19 ~~~~~~~~v~~g~~~~~--~~~~~~gd~dly~~~~~~p~~~~~~~~s~~~~~~e~~~~~~~~~g~~~v~v~~~~~~~~~~   96 (101)
+T 2LUW_A           19 SEVFYTFTVDRNATAVV--SISGGSGDADLYLKAGSKPTTSSWDCRPYRYGNNESCSVSAAPGTTYHVMIKGYSNYSGVT   96 (101)
+T ss_dssp             CCEEEEECCSSCCCCCC--CCBSSSSCEEEEBCBSSCCCSSCCSBCCCCSSSSCCCCCCCCTTSCEEEEEEESSSCCCCB
+T ss_pred             cEEEEEEEeCCCCEEEE--EEeCCCceEEEEEEcCCCCccccceeecCCCCCccEEEEecCCCeEEEEEEEEEeCCcCEE
+Confidence            45689999999876544  34778899999986543221      13444568888888778899999999987655666
+
+
+Q LOKIASV2_22100  581 LLIT  584 (900)
+Q Consensus       581 l~~~  584 (900)
+                      |.+.
+T Consensus        97 ~~~~  100 (101)
+T 2LUW_A           97 LKLQ  100 (101)
+T ss_dssp             BCCC
+T ss_pred             EEEE
+Confidence            6543
+
+
+No 30
+>4DY3_B Inhibitor of g-type lysozyme; lysozyme inhibitor, g-type lysozyme binding; HET: GOL; 1.8A {Escherichia coli}
+Probab=92.44  E-value=0.041  Score=53.29  Aligned_cols=83  Identities=13%  Similarity=0.109  Sum_probs=55.2  Template_Neff=8.600
+
+Q LOKIASV2_22100  618 EMRVLIAKDEDWYTFQGLSGYLTQITLDLSLNTRYEEYQMNIYDSKGNLLSDPI-NR-TDNSELKVSFHQDEVIFIQIKG  695 (900)
+Q Consensus       618 ~~~~~~~~d~dw~~~~~~~~~~~~~~~~~~~~~~~~~~~~~lyd~~g~~l~~~~-~~-~~~~~~~~~~~~~~~~~i~v~g  695 (900)
+                      +|.+. ..+.++|.|.+.+++.++  +.+...  ..+..  +.++.|..+.... .. .....+.+.+|.+|+|.|+|..
+T Consensus        19 ~G~l~-~~~~~~Y~~~~~~Gq~l~--v~l~s~--~~~~~--i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~   91 (111)
+T 4DY3_B           19 SGEIK-GYDYDTYTFYAKKGQKVH--VSISNE--GADTY--LFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQ   91 (111)
+T ss_dssp             EEEEE-TTCCEEEEEEECTTCEEE--EEESCT--TSEEE--EECTTCSSCEECSTTCTTSCTTSCEECSSSEEEEEEEEC
+T ss_pred             EEEEe-ccceEEEEEEECCCCEEE--EEEecC--CCcEE--EECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEe
+Confidence            66665 567999999999999998  777652  23332  4455554432111 11 1234567888889999999976
+
+
+Q LOKIASV2_22100  696 IS------NSIQYSLGFE  707 (900)
+Q Consensus       696 ~~------~~~~y~l~~~  707 (900)
+                      ..      ..+.|+|.|.
+T Consensus        92 ~~~~~~~~~~~~Y~L~v~  109 (111)
+T 4DY3_B           92 TRNDARKNKTKKYNVDIQ  109 (111)
+T ss_dssp             CHHHHHTTCEEEEEEEEE
+T ss_pred             cccccccCCcccEEEEEE
+Confidence            41      4578999875
+
+
+No 31
+>4G9S_B Goose-type lysozyme, Inhibitor of g-type; hydrolase inhibitor, lysozyme, HYDROLASE-HYDROLASE INHIBITOR; HET: FLC; 0.95A {Salmo salar}
+Probab=92.44  E-value=0.041  Score=53.29  Aligned_cols=83  Identities=13%  Similarity=0.109  Sum_probs=55.2  Template_Neff=8.600
+
+Q LOKIASV2_22100  618 EMRVLIAKDEDWYTFQGLSGYLTQITLDLSLNTRYEEYQMNIYDSKGNLLSDPI-NR-TDNSELKVSFHQDEVIFIQIKG  695 (900)
+Q Consensus       618 ~~~~~~~~d~dw~~~~~~~~~~~~~~~~~~~~~~~~~~~~~lyd~~g~~l~~~~-~~-~~~~~~~~~~~~~~~~~i~v~g  695 (900)
+                      +|.+. ..+.++|.|.+.+++.++  +.+...  ..+..  +.++.|..+.... .. .....+.+.+|.+|+|.|+|..
+T Consensus        19 ~G~l~-~~~~~~Y~~~~~~Gq~l~--v~l~s~--~~~~~--i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~   91 (111)
+T 4G9S_B           19 SGEIK-GYDYDTYTFYAKKGQKVH--VSISNE--GADTY--LFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQ   91 (111)
+T ss_dssp             EEEEE-TTCCEEEEEEECTTCEEE--EEESCT--TCEEE--EECTTCSSCEECSTTCTTCCTTSCEECSSSEEEEEEEEC
+T ss_pred             EEEEe-ccceEEEEEEECCCCEEE--EEEecC--CCcEE--EECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEe
+Confidence            66665 567999999999999998  777652  23332  4455554432111 11 1234567888889999999976
+
+
+Q LOKIASV2_22100  696 IS------NSIQYSLGFE  707 (900)
+Q Consensus       696 ~~------~~~~y~l~~~  707 (900)
+                      ..      ..+.|+|.|.
+T Consensus        92 ~~~~~~~~~~~~Y~L~v~  109 (111)
+T 4G9S_B           92 TRNDARKNKTKKYNVDIQ  109 (111)
+T ss_dssp             CHHHHHTTCEEEEEEEEE
+T ss_pred             cccccccCCcccEEEEEE
+Confidence            41      4578999875
+
+
+No 32
+>4DY3_B Inhibitor of g-type lysozyme; lysozyme inhibitor, g-type lysozyme binding; HET: GOL; 1.8A {Escherichia coli}
+Probab=92.40  E-value=0.042  Score=53.22  Aligned_cols=83  Identities=19%  Similarity=0.201  Sum_probs=56.4  Template_Neff=8.600
+
+Q LOKIASV2_22100   54 YPN-LVGQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNRTLLNTSN-SQ-ANNEILSWRSLSSQILYFVVKNY-  129 (900)
+Q Consensus        54 ~~~-L~~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~gtll~sS~-s~-~d~E~is~~~~~~g~~y~~V~~~-  129 (900)
+                      +.| +...+.++|.|.+.+++.++|.+....    ++..|+++.|..+.... .. .....+.+.++..|.|.|+|... 
+T Consensus        18 v~G~l~~~~~~~Y~~~~~~Gq~l~v~l~s~~----~~~~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~~~   93 (111)
+T 4DY3_B           18 YSGEIKGYDYDTYTFYAKKGQKVHVSISNEG----ADTYLFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQTR   93 (111)
+T ss_dssp             EEEEEETTCCEEEEEEECTTCEEEEEESCTT----SEEEEECTTCSSCEECSTTCTTSCTTSCEECSSSEEEEEEEECCH
+T ss_pred             EEEEEeccceEEEEEEECCCCEEEEEEecCC----CcEEEECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEecc
+Confidence            445 556789999999999999999987633    34336666665432111 11 12345677777899999999764 
+
+
+Q LOKIASV2_22100  130 -----STNMDYDLRIE  140 (900)
+Q Consensus       130 -----st~~~Y~L~i~  140 (900)
+                           +....|+|+|.
+T Consensus        94 ~~~~~~~~~~Y~L~v~  109 (111)
+T 4DY3_B           94 NDARKNKTKKYNVDIQ  109 (111)
+T ss_dssp             HHHHTTCEEEEEEEEE
+T ss_pred             cccccCCcccEEEEEE
+Confidence                 14567999875
+
+
+No 33
+>4G9S_B Goose-type lysozyme, Inhibitor of g-type; hydrolase inhibitor, lysozyme, HYDROLASE-HYDROLASE INHIBITOR; HET: FLC; 0.95A {Salmo salar}
+Probab=92.40  E-value=0.042  Score=53.22  Aligned_cols=83  Identities=19%  Similarity=0.201  Sum_probs=56.4  Template_Neff=8.600
+
+Q LOKIASV2_22100   54 YPN-LVGQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNRTLLNTSN-SQ-ANNEILSWRSLSSQILYFVVKNY-  129 (900)
+Q Consensus        54 ~~~-L~~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~gtll~sS~-s~-~d~E~is~~~~~~g~~y~~V~~~-  129 (900)
+                      +.| +...+.++|.|.+.+++.++|.+....    ++..|+++.|..+.... .. .....+.+.++..|.|.|+|... 
+T Consensus        18 v~G~l~~~~~~~Y~~~~~~Gq~l~v~l~s~~----~~~~i~~p~g~~~~~~~~~~~~~~~~~~~~lp~~G~Y~i~V~~~~   93 (111)
+T 4G9S_B           18 YSGEIKGYDYDTYTFYAKKGQKVHVSISNEG----ADTYLFGPGIDDSVDLSRYSPELDSHGQYSLPASGKYELRVLQTR   93 (111)
+T ss_dssp             EEEEEETTCCEEEEEEECTTCEEEEEESCTT----CEEEEECTTCSSCEECSTTCTTCCTTSCEECSSSEEEEEEEECCH
+T ss_pred             EEEEEeccceEEEEEEECCCCEEEEEEecCC----CcEEEECCCCCCcccccccCCCCCCceEEECCCCeEEEEEEEecc
+Confidence            445 556789999999999999999987633    34336666665432111 11 12345677777899999999764 
+
+
+Q LOKIASV2_22100  130 -----STNMDYDLRIE  140 (900)
+Q Consensus       130 -----st~~~Y~L~i~  140 (900)
+                           +....|+|+|.
+T Consensus        94 ~~~~~~~~~~Y~L~v~  109 (111)
+T 4G9S_B           94 NDARKNKTKKYNVDIQ  109 (111)
+T ss_dssp             HHHHTTCEEEEEEEEE
+T ss_pred             cccccCCcccEEEEEE
+Confidence                 14567999875
+
+
+No 34
+>2LUW_A Metalloprotease; anti-parallel Beta-sheets, HYDROLASE; NMR {Vibrio vulnificus}
+Probab=91.87  E-value=0.057  Score=49.81  Aligned_cols=78  Identities=18%  Similarity=0.239  Sum_probs=39.9  Template_Neff=10.400
+
+Q LOKIASV2_22100  737 SLDEDWFQIWIPSNYSLKVETTSY-YDVDIYLYSDDY-VS--LDYSA-GFSGNETVVWNMTTAGLIIFNIRGFGNVLGFP  811 (900)
+Q Consensus       737 ~~d~Dwf~~~~~~~~~l~i~~~~~-~d~d~~Ly~~~~-~~--~~~s~-g~~~~e~v~~~~~~~g~y~~~v~~~~~~~~~~  811 (900)
+                      .+...+|.|.++.+..+.+.+... .+.+++++.... ..  ..+.. ..+..+........+|+|+|.|.++..  ...
+T Consensus        17 ~~~~~~~~~~v~~g~~~~~~~~~~~gd~dly~~~~~~p~~~~~~~~s~~~~~~e~~~~~~~~~g~~~v~v~~~~~--~~~   94 (101)
+T 2LUW_A           17 KGSEVFYTFTVDRNATAVVSISGGSGDADLYLKAGSKPTTSSWDCRPYRYGNNESCSVSAAPGTTYHVMIKGYSN--YSG   94 (101)
+T ss_dssp             SSCCEEEEECCSSCCCCCCCCBSSSSCEEEEBCBSSCCCSSCCSBCCCCSSSSCCCCCCCCTTSCEEEEEEESSS--CCC
+T ss_pred             CCcEEEEEEEeCCCCEEEEEEeCCCceEEEEEEcCCCCccccceeecCCCCCccEEEEecCCCeEEEEEEEEEeC--CcC
+Confidence            344567888888776665555433 345554443221 10  00111 112223333333267899999998654  345
+
+
+Q LOKIASV2_22100  812 YSLNI  816 (900)
+Q Consensus       812 y~l~~  816 (900)
+                      +.|.+
+T Consensus        95 ~~~~~   99 (101)
+T 2LUW_A           95 VTLKL   99 (101)
+T ss_dssp             CBBCC
+T ss_pred             EEEEE
+Confidence            55554
+
+
+No 35
+>2LUW_A Metalloprotease; anti-parallel Beta-sheets, HYDROLASE; NMR {Vibrio vulnificus}
+Probab=90.57  E-value=0.11  Score=48.04  Aligned_cols=78  Identities=23%  Similarity=0.264  Sum_probs=42.7  Template_Neff=10.400
+
+Q LOKIASV2_22100   59 GQDDDWYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNR----TLLNTSNSQANNEILSWRSLSSQILYFVVKNYSTNMD  134 (900)
+Q Consensus        59 ~~D~DWF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~g----tll~sS~s~~d~E~is~~~~~~g~~y~~V~~~st~~~  134 (900)
+                      .++..+|.|.++.+..+++.+...  .+++++++.....    .....+...+..+.+.+..+.+|+||+.|.++.....
+T Consensus        17 ~~~~~~~~~~v~~g~~~~~~~~~~--~gd~dly~~~~~~p~~~~~~~~s~~~~~~e~~~~~~~~~g~~~v~v~~~~~~~~   94 (101)
+T 2LUW_A           17 KGSEVFYTFTVDRNATAVVSISGG--SGDADLYLKAGSKPTTSSWDCRPYRYGNNESCSVSAAPGTTYHVMIKGYSNYSG   94 (101)
+T ss_dssp             SSCCEEEEECCSSCCCCCCCCBSS--SSCEEEEBCBSSCCCSSCCSBCCCCSSSSCCCCCCCCTTSCEEEEEEESSSCCC
+T ss_pred             CCcEEEEEEEeCCCCEEEEEEeCC--CceEEEEEEcCCCCccccceeecCCCCCccEEEEecCCCeEEEEEEEEEeCCcC
+Confidence            445678888888877665554332  2456665522111    1111121223334555555468999999988754444
+
+
+Q LOKIASV2_22100  135 YDLR  138 (900)
+Q Consensus       135 Y~L~  138 (900)
+                      ++|.
+T Consensus        95 ~~~~   98 (101)
+T 2LUW_A           95 VTLK   98 (101)
+T ss_dssp             CBBC
+T ss_pred             EEEE
+Confidence            5544
+
+
+No 36
+>3AFG_B Subtilisin-like serine protease (E.C.3.4.21.62); subtilisin, propeptide, Thermococcus kodakaraensis, Hydrolase; 2.0A {Thermococcus kodakarensis}
+Probab=90.10  E-value=0.13  Score=63.43  Aligned_cols=56  Identities=27%  Similarity=0.476  Sum_probs=31.1  Template_Neff=9.100
+
+Q LOKIASV2_22100  761 YDVDIYLYSDDYVSLDYSA-GFSGNETVVWNMTTAGLIIFNIRGFGNVLGFPYSLNISL  818 (900)
+Q Consensus       761 ~d~d~~Ly~~~~~~~~~s~-g~~~~e~v~~~~~~~g~y~~~v~~~~~~~~~~y~l~~~~  818 (900)
+                      .++++.|+++.+..+.... ...+.+...+....+|+|.|+|.++..  ...|++.+..
+T Consensus       459 ~dldl~v~~~~G~~~~~~~~~~~~~e~v~~~~~~~G~~~i~V~~~~~--~~~~~~~~~~  515 (539)
+T 3AFG_B          459 SDLDLYLYDPNGNQVDYSYTAYYGFEKVGYYNPTAGTWTIKVVSYSG--SANYQVDVVS  515 (539)
+T ss_dssp             CEEEEEEECTTCCEEEEECCSSBSCEEEEEESCCSEEEEEEEEEEES--CEEEEEEEEE
+T ss_pred             CcEEEEEECCCCCEEECccccCCCeeEEEEeCCCCEEEEEEEEEeCC--CccEEEEEEe
+Confidence            4677777776653322111 112233333433378999999998754  3456655544
+
+
+No 37
+>3AFG_B Subtilisin-like serine protease (E.C.3.4.21.62); subtilisin, propeptide, Thermococcus kodakaraensis, Hydrolase; 2.0A {Thermococcus kodakarensis}
+Probab=82.53  E-value=0.79  Score=56.77  Aligned_cols=77  Identities=22%  Similarity=0.385  Sum_probs=46.2  Template_Neff=9.100
+
+Q LOKIASV2_22100   64 WYKVNVSKGDFLSVHIIFDHVDGDLDLYLYNVNRTLLNTSNSQ-ANNEILSWRSLSSQILYFVVKNYSTNMDYDLRIE  140 (900)
+Q Consensus        64 WF~i~v~~G~~L~V~l~Fdha~GDLDL~LyD~~gtll~sS~s~-~d~E~is~~~~~~g~~y~~V~~~st~~~Y~L~i~  140 (900)
+                      .+.|.+.....+++++......+++++.|+++.|+.+..+... .+.+.+.+..+..|+|.|+|+.++....|++.+.
+T Consensus       437 ~~~~~~~~~~~~~vtl~~~~~~~dldl~v~~~~G~~~~~~~~~~~~~e~v~~~~~~~G~~~i~V~~~~~~~~~~~~~~  514 (539)
+T 3AFG_B          437 SHQFTISGAGFVTATLYWDNSGSDLDLYLYDPNGNQVDYSYTAYYGFEKVGYYNPTAGTWTIKVVSYSGSANYQVDVV  514 (539)
+T ss_dssp             EEEEEEESCSEEEEEEEESCTTCEEEEEEECTTCCEEEEECCSSBSCEEEEEESCCSEEEEEEEEEEESCEEEEEEEE
+T ss_pred             EEEEEEcCCceEEEEEEecCCCCcEEEEEECCCCCEEECccccCCCeeEEEEeCCCCEEEEEEEEEeCCCccEEEEEE
+Confidence            3445555555566666543323567777777777766443322 2235555555578999999998765555666554
+
+
+No 38
+>3AFG_B Subtilisin-like serine protease (E.C.3.4.21.62); subtilisin, propeptide, Thermococcus kodakaraensis, Hydrolase; 2.0A {Thermococcus kodakarensis}
+Probab=77.14  E-value=1.6  Score=54.11  Aligned_cols=75  Identities=19%  Similarity=0.276  Sum_probs=57.1  Template_Neff=9.100
+
+Q LOKIASV2_22100  510 WFNLSVPAYTLVNIVIIFQNDDGDLDLFAESNLGGHFS---TSITDNETIVLYFNENATVLIQVEDFNINLCYSLLIT  584 (900)
+Q Consensus       510 wf~~~v~ag~~l~v~i~F~~~~GDlDL~~~~~~g~~~s---~s~tdnE~v~~~~~~~gtyyI~V~g~n~~~~Ysl~~~  584 (900)
+                      .+.|.++....+++.+.+....+||||++.+..|+...   ....+.|++.|.....|+|.|+|++++...+|++.+.
+T Consensus       437 ~~~~~~~~~~~~~vtl~~~~~~~dldl~v~~~~G~~~~~~~~~~~~~e~v~~~~~~~G~~~i~V~~~~~~~~~~~~~~  514 (539)
+T 3AFG_B          437 SHQFTISGAGFVTATLYWDNSGSDLDLYLYDPNGNQVDYSYTAYYGFEKVGYYNPTAGTWTIKVVSYSGSANYQVDVV  514 (539)
+T ss_dssp             EEEEEEESCSEEEEEEEESCTTCEEEEEEECTTCCEEEEECCSSBSCEEEEEESCCSEEEEEEEEEEESCEEEEEEEE
+T ss_pred             EEEEEEcCCceEEEEEEecCCCCcEEEEEECCCCCEEECccccCCCeeEEEEeCCCCEEEEEEEEEeCCCccEEEEEE
+Confidence            45555666667888888877789999999888777541   2234578898988999999999999886767776654
+
+
+No 39
+>1WMD_A protease (E.C.3.4.21.-); alpha-beta hydrolase fold, jelly-roll beta-barrel; HET: DIO, GOL; 1.3A {Bacillus sp.} SCOP: b.18.1.20, c.41.1.1
+Probab=74.23  E-value=2.2  Score=50.71  Aligned_cols=13  Identities=8%  Similarity=0.452  Sum_probs=10.5  Template_Neff=10.200
+
+Q LOKIASV2_22100  793 TAGLIIFNIRGFG  805 (900)
+Q Consensus       793 ~~g~y~~~v~~~~  805 (900)
+                      ++|+|.|+|....
+T Consensus       408 ~~G~~~i~v~~~~  420 (434)
+T 1WMD_A          408 QSGTYTIEVQAYN  420 (434)
+T ss_dssp             CSEEEEEEEEEEE
+T ss_pred             CCEEEEEEEEEee
+Confidence            6889999998754
+
+
+No 40
+>3AFG_B Subtilisin-like serine protease (E.C.3.4.21.62); subtilisin, propeptide, Thermococcus kodakaraensis, Hydrolase; 2.0A {Thermococcus kodakarensis}
+Probab=71.79  E-value=2.8  Score=52.11  Aligned_cols=79  Identities=16%  Similarity=0.316  Sum_probs=43.3  Template_Neff=9.100
+
+Q LOKIASV2_22100  284 DWYKLNLTAYQVLNVVILFPDDSIPLIITLFDENQNELASSYNWGYYYDEIQHTISESGTYYIGIEGYGIVKQLYALNIS  363 (900)
+Q Consensus       284 DWYk~~l~a~~~l~I~l~~~~~~~dL~L~LyD~~g~~lass~~~g~~~~~I~~~~~~~GTYYI~V~Gy~~~~~~YsL~is  363 (900)
+                      ..+.|.+.....+++.+...+...++++.|++++++.+........+.+.+.+....+|+|.|+|.++.. ...|++.+.
+T Consensus       436 ~~~~~~~~~~~~~~vtl~~~~~~~dldl~v~~~~G~~~~~~~~~~~~~e~v~~~~~~~G~~~i~V~~~~~-~~~~~~~~~  514 (539)
+T 3AFG_B          436 QSHQFTISGAGFVTATLYWDNSGSDLDLYLYDPNGNQVDYSYTAYYGFEKVGYYNPTAGTWTIKVVSYSG-SANYQVDVV  514 (539)
+T ss_dssp             EEEEEEEESCSEEEEEEEESCTTCEEEEEEECTTCCEEEEECCSSBSCEEEEEESCCSEEEEEEEEEEES-CEEEEEEEE
+T ss_pred             eEEEEEEcCCceEEEEEEecCCCCcEEEEEECCCCCEEECccccCCCeeEEEEeCCCCEEEEEEEEEeCC-CccEEEEEE
+Confidence            3455555555555555544332246888888887754322211101223444445589999999998643 334555443
+
+
+No 41
+>1WME_A protease (E.C.3.4.21.-); alpha-beta hydrolase fold, jelly-roll beta-barrel; 1.5A {Bacillus sp.} SCOP: c.41.1.1, b.18.1.20
+Probab=70.68  E-value=3.1  Score=49.53  Aligned_cols=13  Identities=8%  Similarity=0.452  Sum_probs=10.6  Template_Neff=10.200
+
+Q LOKIASV2_22100  793 TAGLIIFNIRGFG  805 (900)
+Q Consensus       793 ~~g~y~~~v~~~~  805 (900)
+                      ++|+|.|+|....
+T Consensus       408 ~~G~~~i~v~~~~  420 (434)
+T 1WME_A          408 QSGTYTIEVQAYN  420 (434)
+T ss_dssp             CSEEEEEEEEEEE
+T ss_pred             CCeEEEEEEEEee
+Confidence            6889999998754
+
+
+No 42
+>2LUW_A Metalloprotease; anti-parallel Beta-sheets, HYDROLASE; NMR {Vibrio vulnificus}
+Probab=69.12  E-value=3.5  Score=38.08  Aligned_cols=78  Identities=19%  Similarity=0.164  Sum_probs=39.0  Template_Neff=10.400
+
+Q LOKIASV2_22100  624 AKDEDWYTFQGLSGYLTQITLDLSLNTRYEEYQMNIYDSKGNLL----SDPINRTDNSELKVSFHQDEVIFIQIKGISNS  699 (900)
+Q Consensus       624 ~~d~dw~~~~~~~~~~~~~~~~~~~~~~~~~~~~~lyd~~g~~l----~~~~~~~~~~~~~~~~~~~~~~~i~v~g~~~~  699 (900)
+                      .+...+|.|.++.+..++  +.+..  ...+..||.........    ..+...+..+.+.+..+.+|+||+.|.++...
+T Consensus        17 ~~~~~~~~~~v~~g~~~~--~~~~~--~~gd~dly~~~~~~p~~~~~~~~s~~~~~~e~~~~~~~~~g~~~v~v~~~~~~   92 (101)
+T 2LUW_A           17 KGSEVFYTFTVDRNATAV--VSISG--GSGDADLYLKAGSKPTTSSWDCRPYRYGNNESCSVSAAPGTTYHVMIKGYSNY   92 (101)
+T ss_dssp             SSCCEEEEECCSSCCCCC--CCCBS--SSSCEEEEBCBSSCCCSSCCSBCCCCSSSSCCCCCCCCTTSCEEEEEEESSSC
+T ss_pred             CCcEEEEEEEeCCCCEEE--EEEeC--CCceEEEEEEcCCCCccccceeecCCCCCccEEEEecCCCeEEEEEEEEEeCC
+Confidence            345667888887776555  54432  22334454443211110    01111122233444444679999999876533
+
+
+Q LOKIASV2_22100  700 IQYSLG  705 (900)
+Q Consensus       700 ~~y~l~  705 (900)
+                      ..++|.
+T Consensus        93 ~~~~~~   98 (101)
+T 2LUW_A           93 SGVTLK   98 (101)
+T ss_dssp             CCCBBC
+T ss_pred             cCEEEE
+Confidence            345444
+
+
+No 43
+>1WMD_A protease (E.C.3.4.21.-); alpha-beta hydrolase fold, jelly-roll beta-barrel; HET: DIO, GOL; 1.3A {Bacillus sp.} SCOP: b.18.1.20, c.41.1.1
+Probab=40.45  E-value=23  Score=42.35  Aligned_cols=21  Identities=19%  Similarity=0.135  Sum_probs=14.1  Template_Neff=10.200
+
+Q LOKIASV2_22100  110 EILSWRSLSSQILYFVVKNYS  130 (900)
+Q Consensus       110 E~is~~~~~~g~~y~~V~~~s  130 (900)
+                      +.+.+....+|+|.|+|....
+T Consensus       400 e~~~~~~~~~G~~~i~v~~~~  420 (434)
+T 1WMD_A          400 ENVFINAPQSGTYTIEVQAYN  420 (434)
+T ss_dssp             EEEEESSCCSEEEEEEEEEEE
+T ss_pred             eEEEECCCCCEEEEEEEEEee
+Confidence            444454447799999988654
+
+
+No 44
+>1WME_A protease (E.C.3.4.21.-); alpha-beta hydrolase fold, jelly-roll beta-barrel; 1.5A {Bacillus sp.} SCOP: c.41.1.1, b.18.1.20
+Probab=35.77  E-value=31  Score=41.35  Aligned_cols=21  Identities=19%  Similarity=0.135  Sum_probs=14.1  Template_Neff=10.200
+
+Q LOKIASV2_22100  110 EILSWRSLSSQILYFVVKNYS  130 (900)
+Q Consensus       110 E~is~~~~~~g~~y~~V~~~s  130 (900)
+                      +.+.+....+|+|.|+|....
+T Consensus       400 ~~~~~~~~~~G~~~i~v~~~~  420 (434)
+T 1WME_A          400 ENVFINAPQSGTYTIEVQAYN  420 (434)
+T ss_dssp             EEEEESSCCSEEEEEEEEEEE
+T ss_pred             eEEEECCCCCeEEEEEEEEee
+Confidence            444444447899999988654
+
+
+No 45
+>1WMD_A protease (E.C.3.4.21.-); alpha-beta hydrolase fold, jelly-roll beta-barrel; HET: DIO, GOL; 1.3A {Bacillus sp.} SCOP: b.18.1.20, c.41.1.1
+Probab=33.96  E-value=35  Score=40.96  Aligned_cols=44  Identities=23%  Similarity=0.370  Sum_probs=31.1  Template_Neff=10.200
+
+Q LOKIASV2_22100  531 DGDLDLFAESNLGGHFS------------TSITDNETIVLYFNENATVLIQVEDFN  574 (900)
+Q Consensus       531 ~GDlDL~~~~~~g~~~s------------~s~tdnE~v~~~~~~~gtyyI~V~g~n  574 (900)
+                      .+||||.|.+..|..+.            ......|++.+.....|+|.|+|+..+
+T Consensus       365 ~~dl~l~l~sp~g~~~~~~~~~~~~~~~~~~~~~~e~~~~~~~~~G~~~i~v~~~~  420 (434)
+T 1WMD_A          365 VNDLDLVITAPNGTQYVGNDFTSPYNDNWDGRNNVENVFINAPQSGTYTIEVQAYN  420 (434)
+T ss_dssp             CSEEEEEEECTTSCEEETTCCSSSTTSCCCSSCSEEEEEESSCCSEEEEEEEEEEE
+T ss_pred             eeceEEEEECCCCCEEeCCCCCCCCCCCCCCccceeEEEECCCCCEEEEEEEEEee
+Confidence            47899998877665421            112235777787888999999998754
+
+
+No 46
+>1WME_A protease (E.C.3.4.21.-); alpha-beta hydrolase fold, jelly-roll beta-barrel; 1.5A {Bacillus sp.} SCOP: c.41.1.1, b.18.1.20
+Probab=33.17  E-value=36  Score=40.78  Aligned_cols=44  Identities=23%  Similarity=0.370  Sum_probs=31.1  Template_Neff=10.200
+
+Q LOKIASV2_22100  531 DGDLDLFAESNLGGHFS------------TSITDNETIVLYFNENATVLIQVEDFN  574 (900)
+Q Consensus       531 ~GDlDL~~~~~~g~~~s------------~s~tdnE~v~~~~~~~gtyyI~V~g~n  574 (900)
+                      .+||||.+.+..|..+.            ......|++.+.....|+|.|+|...+
+T Consensus       365 ~~dl~l~l~sp~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~G~~~i~v~~~~  420 (434)
+T 1WME_A          365 VNDLDLVITAPNGTQYVGNDFTSPYNDNWDGRNNVENVFINAPQSGTYTIEVQAYN  420 (434)
+T ss_dssp             CSEEEEEEECTTSCEEETTCCSSSTTSCCCSSCSEEEEEESSCCSEEEEEEEEEEE
+T ss_pred             eeceEEEEECCCCCEEeCCCCCCCCCCCCCCccceeEEEECCCCCeEEEEEEEEee
+Confidence            47899998877665421            112235777788888999999998764
+
+
+No 47
+>5AZW_A Transmembrane emp24 domain-containing protein 2; Protein transport, GPI-anchored protein, p24; 1.5A {Homo sapiens}
+Probab=31.53  E-value=40  Score=31.28  Aligned_cols=43  Identities=12%  Similarity=0.125  Sum_probs=20.4  Template_Neff=9.800
+
+Q LOKIASV2_22100  762 DVDIYLYSDDYVSLDYSAGFSGNETVVWNMTTAGLIIFNIRGFG  805 (900)
+Q Consensus       762 d~d~~Ly~~~~~~~~~s~g~~~~e~v~~~~~~~g~y~~~v~~~~  805 (900)
+                      .+.+.++++.+..+..... .......+....+|.|.+.+....
+T Consensus        38 ~i~~~i~~p~~~~~~~~~~-~~~~~~~~~~~~~G~y~~Cf~n~~   80 (96)
+T 5AZW_A           38 DIDVEITGPDNKGIYKGDR-ESSGKYTFAAHMDGTYKFCFSNRM   80 (96)
+T ss_dssp             CEEEEEECTTCCEEEEEEE-ESEEEEEEECSSSEEEEEEEEECS
+T ss_pred             eEEEEEEcCCCCeeeeeee-eeEeeEEEEecCCEEEEEEEEcCC
+Confidence            3455666665432222111 111222333336788888887643
+
+
+No 48
+>5AZW_B Transmembrane emp24 domain-containing protein 2; Protein transport, GPI-anchored protein, p24; 1.5A {Homo sapiens}
+Probab=31.53  E-value=40  Score=31.28  Aligned_cols=43  Identities=12%  Similarity=0.125  Sum_probs=20.4  Template_Neff=9.800
+
+Q LOKIASV2_22100  762 DVDIYLYSDDYVSLDYSAGFSGNETVVWNMTTAGLIIFNIRGFG  805 (900)
+Q Consensus       762 d~d~~Ly~~~~~~~~~s~g~~~~e~v~~~~~~~g~y~~~v~~~~  805 (900)
+                      .+.+.++++.+..+..... .......+....+|.|.+.+....
+T Consensus        38 ~i~~~i~~p~~~~~~~~~~-~~~~~~~~~~~~~G~y~~Cf~n~~   80 (96)
+T 5AZW_B           38 DIDVEITGPDNKGIYKGDR-ESSGKYTFAAHMDGTYKFCFSNRM   80 (96)
+T ss_dssp             CEEEEEECTTSCEEEEEEE-ESEEEEEEECSSSEEEEEEEEECS
+T ss_pred             eEEEEEEcCCCCeeeeeee-eeEeeEEEEecCCEEEEEEEEcCC
+Confidence            3455666665432222111 111222333336788888887643
+
+
+No 49
+>5AG9_B GINGIPAIN R2 (E.C.3.4.22.37); HYDROLASE, TYPE IX SECRETION SYSTEM; HET: SO4; 2.11A {Porphyromonas gingivalis W83}
+Probab=28.66  E-value=49  Score=34.86  Aligned_cols=35  Identities=9%  Similarity=0.181  Sum_probs=21.2  Template_Neff=8.400
+
+Q LOKIASV2_22100  764 DIYLYSDDYVSLDYSAGFSGNETVVWNMTTAGLIIFNIRGF  804 (900)
+Q Consensus       764 d~~Ly~~~~~~~~~s~g~~~~e~v~~~~~~~g~y~~~v~~~  804 (900)
+                      .+.+|+..+..+...     .......+ ++|.|+|++...
+T Consensus       117 ~i~iyd~~G~~v~~~-----~~i~~~~l-~~GiY~v~i~~~  151 (162)
+T 5AG9_B          117 GLTIFDMNGRRVATA-----KNRMVFEA-QNGVYAVRIATE  151 (162)
+T ss_dssp             EEEEECTTSCEEEEE-----EEEEEEEC-CSEEEEEEEECS
+T ss_pred             eEEEEeCCCCeeEee-----eccchhhC-CCeEEEEEEEEC
+Confidence            466777666443221     11223346 899999999974
+
+
+No 50
+>5AZX_A Transmembrane emp24 domain-containing protein 10; Protein transport, GPI-anchored protein, p24; HET: SO4; 1.58A {Rattus norvegicus}
+Probab=27.88  E-value=51  Score=31.19  Aligned_cols=18  Identities=6%  Similarity=0.111  Sum_probs=12.0  Template_Neff=9.600
+
+Q LOKIASV2_22100  788 VWNMTTAGLIIFNIRGFG  805 (900)
+Q Consensus       788 ~~~~~~~g~y~~~v~~~~  805 (900)
+                      .+....+|.|.|.+....
+T Consensus        67 ~f~~~~~G~y~iCf~n~~   84 (103)
+T 5AZX_A           67 AFTTEDYDMFEVCFESKG   84 (103)
+T ss_dssp             EEECCTTCEEEEEEEEEC
+T ss_pred             EEEeCCCcceEEEeEeCC
+Confidence            333337888998888754
+
+
+No 51
+>5AZX_D Transmembrane emp24 domain-containing protein 10; Protein transport, GPI-anchored protein, p24; HET: SO4; 1.58A {Rattus norvegicus}
+Probab=27.88  E-value=51  Score=31.19  Aligned_cols=18  Identities=6%  Similarity=0.111  Sum_probs=8.3  Template_Neff=9.600
+
+Q LOKIASV2_22100  788 VWNMTTAGLIIFNIRGFG  805 (900)
+Q Consensus       788 ~~~~~~~g~y~~~v~~~~  805 (900)
+                      .+....+|.|.|.+....
+T Consensus        67 ~f~~~~~G~y~iCf~n~~   84 (103)
+T 5AZX_D           67 AFTTEDYDMFEVCFESKG   84 (103)
+T ss_dssp             EEEC-----CEEEEEEEC
+T ss_pred             EEEeCCCcceEEEeEeCC
+Confidence            333337888998888754
+
+
+No 52
+>4P3W_C Filamin-A, Filamin-binding LIM protein 1; cytoskeleton, adhesion, immunoglobulin-like, actin binding; HET: SO4; 2.0A {Homo sapiens}
+Probab=26.07  E-value=58  Score=33.39  Aligned_cols=16  Identities=6%  Similarity=-0.074  Sum_probs=9.7  Template_Neff=10.900
+
+Q LOKIASV2_22100  680 KVSFHQDEVIFIQIKG  695 (900)
+Q Consensus       680 ~~~~~~~~~~~i~v~g  695 (900)
+                      .+.....|.|.+.+.-
+T Consensus        54 ~~~p~~~G~y~i~v~~   69 (182)
+T 4P3W_C           54 RFVPAEMGTHTVSVKY   69 (182)
+T ss_pred             EEeCCCCEEEEEEEEE
+Confidence            3444356788777654
+
+
+No 53
+>3D33_A Domain of Unknown Function with; Structural genomics, Joint Center for; 1.7A {Bacteroides vulgatus ATCC 8482}
+Probab=25.76  E-value=59  Score=32.02  Aligned_cols=42  Identities=17%  Similarity=0.348  Sum_probs=21.7  Template_Neff=7.900
+
+Q LOKIASV2_22100  196 AEINIKLYNS-SGNKILEKISSN---FEIGVEIL-VNSSQSFFIEISS  238 (900)
+Q Consensus       196 gdldl~Lyds-sG~~v~~s~ss~---~e~~i~~~-~~~agtYyIrVsg  238 (900)
+                      .++.+.+++. .|+.+.......   ....+... + ++|.|.|.|..
+T Consensus        49 ~~v~I~I~d~~~G~vvy~~~~~~~~~~~~~i~l~~~-~~G~Y~l~I~~   95 (108)
+T 3D33_A           49 RDMTIRITDMAKGGVVYENDIPEVQSAYITISIANF-PAEEYKLEITG   95 (108)
+T ss_dssp             SEEEEEEEETTTCCEEEEEEECGGGTTEEEEECTTS-CSEEEEEEEEE
+T ss_pred             CCeEEEEEECCCCCEEEEeecCCCCCCEEEEECccC-CCcEEEEEEEc
+Confidence            3567777774 565543322111   11122222 3 67888888876
+
+
+No 54
+>3D33_A Domain of Unknown Function with; Structural genomics, Joint Center for; 1.7A {Bacteroides vulgatus ATCC 8482}
+Probab=25.44  E-value=61  Score=31.96  Aligned_cols=11  Identities=27%  Similarity=0.377  Sum_probs=8.7  Template_Neff=7.900
+
+Q LOKIASV2_22100  685 QDEVIFIQIKG  695 (900)
+Q Consensus       685 ~~~~~~i~v~g  695 (900)
+                      .+|.|.|.+..
+T Consensus        85 ~~G~Y~l~I~~   95 (108)
+T 3D33_A           85 PAEEYKLEITG   95 (108)
+T ss_dssp             CSEEEEEEEEE
+T ss_pred             CCcEEEEEEEc
+Confidence            57888888876
+
+
+No 55
+>1WMD_A protease (E.C.3.4.21.-); alpha-beta hydrolase fold, jelly-roll beta-barrel; HET: DIO, GOL; 1.3A {Bacillus sp.} SCOP: b.18.1.20, c.41.1.1
+Probab=24.41  E-value=65  Score=38.72  Aligned_cols=17  Identities=35%  Similarity=0.657  Sum_probs=11.8  Template_Neff=10.200
+
+Q LOKIASV2_22100  336 HTISESGTYYIGIEGYG  352 (900)
+Q Consensus       336 ~~~~~~GTYYI~V~Gy~  352 (900)
+                      +...++|+|.|+|....
+T Consensus       404 ~~~~~~G~~~i~v~~~~  420 (434)
+T 1WMD_A          404 INAPQSGTYTIEVQAYN  420 (434)
+T ss_dssp             ESSCCSEEEEEEEEEEE
+T ss_pred             ECCCCCEEEEEEEEEee
+Confidence            33347888998888653
+
+
+No 56
+>4G5A_A Uncharacterized protein; Immunoglobulin - like beta-sandwich, Structural; HET: GOL, MSE; 1.69A {Bacteroides thetaiotaomicron}
+Probab=24.26  E-value=66  Score=31.09  Aligned_cols=12  Identities=8%  Similarity=0.091  Sum_probs=9.0  Template_Neff=8.100
+
+Q LOKIASV2_22100  228 SSQSFFIEISSS  239 (900)
+Q Consensus       228 ~agtYyIrVsg~  239 (900)
+                      ++|.|.|.|...
+T Consensus        78 ~~G~Y~l~i~~~   89 (99)
+T 4G5A_A           78 SLGQYELYMYNA   89 (99)
+T ss_dssp             CSSEEEEEEECS
+T ss_pred             CCCEEEEEEEcC
+Confidence            678888888764
+
+
+No 57
+>5AZW_A Transmembrane emp24 domain-containing protein 2; Protein transport, GPI-anchored protein, p24; 1.5A {Homo sapiens}
+Probab=22.76  E-value=74  Score=29.58  Aligned_cols=70  Identities=9%  Similarity=0.122  Sum_probs=38.2  Template_Neff=9.800
+
+Q LOKIASV2_22100   59 GQDDDWYKVNVSKGDFLSVHIIFDHV-DGDLDLYLYNVNRTLLNTSNSQANNEILSWRSLSSQILYFVVKNY  129 (900)
+Q Consensus        59 ~~D~DWF~i~v~~G~~L~V~l~Fdha-~GDLDL~LyD~~gtll~sS~s~~d~E~is~~~~~~g~~y~~V~~~  129 (900)
+                      .+....|...++++..+.+....... ...+++.+.++.|..+...... ......+.+...|.|.+++.+.
+T Consensus         9 ~~~~~Cf~~~~~~~~~~~~~y~~~~~~~~~i~~~i~~p~~~~~~~~~~~-~~~~~~~~~~~~G~y~~Cf~n~   79 (96)
+T 5AZW_A            9 AHAEECFFERVTSGTKMGLIFEVAEGGFLDIDVEITGPDNKGIYKGDRE-SSGKYTFAAHMDGTYKFCFSNR   79 (96)
+T ss_dssp             TTEEEEEEEEECTTCEEEEEEEECSSSCCCEEEEEECTTCCEEEEEEEE-SEEEEEEECSSSEEEEEEEEEC
+T ss_pred             CCCeEEEEEEccCCCEEEEEEEEEeCCcceEEEEEEcCCCCeeeeeeee-eEeeEEEEecCCEEEEEEEEcC
+Confidence            34556777777777666555543221 1345555677777665443211 1122334444678888887654
+
+
+No 58
+>5AZW_B Transmembrane emp24 domain-containing protein 2; Protein transport, GPI-anchored protein, p24; 1.5A {Homo sapiens}
+Probab=22.76  E-value=74  Score=29.58  Aligned_cols=70  Identities=9%  Similarity=0.122  Sum_probs=38.2  Template_Neff=9.800
+
+Q LOKIASV2_22100   59 GQDDDWYKVNVSKGDFLSVHIIFDHV-DGDLDLYLYNVNRTLLNTSNSQANNEILSWRSLSSQILYFVVKNY  129 (900)
+Q Consensus        59 ~~D~DWF~i~v~~G~~L~V~l~Fdha-~GDLDL~LyD~~gtll~sS~s~~d~E~is~~~~~~g~~y~~V~~~  129 (900)
+                      .+....|...++++..+.+....... ...+++.+.++.|..+...... ......+.+...|.|.+++.+.
+T Consensus         9 ~~~~~Cf~~~~~~~~~~~~~y~~~~~~~~~i~~~i~~p~~~~~~~~~~~-~~~~~~~~~~~~G~y~~Cf~n~   79 (96)
+T 5AZW_B            9 AHAEECFFERVTSGTKMGLIFEVAEGGFLDIDVEITGPDNKGIYKGDRE-SSGKYTFAAHMDGTYKFCFSNR   79 (96)
+T ss_dssp             TTEEEEEEEEECTTCEEEEEEEEEESTTSCEEEEEECTTSCEEEEEEEE-SEEEEEEECSSSEEEEEEEEEC
+T ss_pred             CCCeEEEEEEccCCCEEEEEEEEEeCCcceEEEEEEcCCCCeeeeeeee-eEeeEEEEecCCEEEEEEEEcC
+Confidence            34556777777777666555543221 1345555677777665443211 1122334444678888887654
+
+
+No 59
+>4G5A_A Uncharacterized protein; Immunoglobulin - like beta-sandwich, Structural; HET: GOL, MSE; 1.69A {Bacteroides thetaiotaomicron}
+Probab=22.55  E-value=75  Score=30.72  Aligned_cols=43  Identities=12%  Similarity=0.049  Sum_probs=20.0  Template_Neff=8.100
+
+Q LOKIASV2_22100   87 DLDLYLYNVNRTLLNTSNSQA---NNEILSWRSLSSQILYFVVKNY  129 (900)
+Q Consensus        87 DLDL~LyD~~gtll~sS~s~~---d~E~is~~~~~~g~~y~~V~~~  129 (900)
+                      ++.+.+.|.+|+.+-...-..   ....+......+|.|.|.+...
+T Consensus        44 ~v~I~I~d~~G~vvy~~~~~~~~~~~~~i~L~~~~~G~Y~l~i~~~   89 (99)
+T 4G5A_A           44 PITVEVKDIEKQIVFQSIIFPVAAGEYTLYLGDLSLGQYELYMYNA   89 (99)
+T ss_dssp             CEEEEEECTTSCEEEEEEECCCSSEEEEEECTTCCSSEEEEEEECS
+T ss_pred             CEEEEEEeCCCCEEEEEEEcCCCCcEEEEEchhcCCCEEEEEEEcC
+Confidence            444444555566543322111   1112222222678888877653
+
+
+No 60
+>4G5A_A Uncharacterized protein; Immunoglobulin - like beta-sandwich, Structural; HET: GOL, MSE; 1.69A {Bacteroides thetaiotaomicron}
+Probab=22.26  E-value=77  Score=30.66  Aligned_cols=12  Identities=8%  Similarity=0.038  Sum_probs=9.3  Template_Neff=8.100
+
+Q LOKIASV2_22100  793 TAGLIIFNIRGF  804 (900)
+Q Consensus       793 ~~g~y~~~v~~~  804 (900)
+                      ++|.|.|.+...
+T Consensus        78 ~~G~Y~l~i~~~   89 (99)
+T 4G5A_A           78 SLGQYELYMYNA   89 (99)
+T ss_dssp             CSSEEEEEEECS
+T ss_pred             CCCEEEEEEEcC
+Confidence            688888888864
+
+
+No 61
+>5AZW_A Transmembrane emp24 domain-containing protein 2; Protein transport, GPI-anchored protein, p24; 1.5A {Homo sapiens}
+Probab=21.65  E-value=80  Score=29.33  Aligned_cols=67  Identities=6%  Similarity=0.071  Sum_probs=32.7  Template_Neff=9.800
+
+Q LOKIASV2_22100  284 DWYKLNLTAYQVLNVVILFPDD-SIPLIITLFDENQNELASSYNWGYYYDEIQHTISESGTYYIGIEGYG  352 (900)
+Q Consensus       284 DWYk~~l~a~~~l~I~l~~~~~-~~dL~L~LyD~~g~~lass~~~g~~~~~I~~~~~~~GTYYI~V~Gy~  352 (900)
+                      .-|...++++..+.+....... ...+.+.++++.+..+......  ......+....+|.|.+.+....
+T Consensus        13 ~Cf~~~~~~~~~~~~~y~~~~~~~~~i~~~i~~p~~~~~~~~~~~--~~~~~~~~~~~~G~y~~Cf~n~~   80 (96)
+T 5AZW_A           13 ECFFERVTSGTKMGLIFEVAEGGFLDIDVEITGPDNKGIYKGDRE--SSGKYTFAAHMDGTYKFCFSNRM   80 (96)
+T ss_dssp             EEEEEEECTTCEEEEEEEECSSSCCCEEEEEECTTCCEEEEEEEE--SEEEEEEECSSSEEEEEEEEECS
+T ss_pred             EEEEEEccCCCEEEEEEEEEeCCcceEEEEEEcCCCCeeeeeeee--eEeeEEEEecCCEEEEEEEEcCC
+Confidence            3444445554444333322111 0246677777766544322111  11234444457888888887643
+
+
+No 62
+>5AZW_B Transmembrane emp24 domain-containing protein 2; Protein transport, GPI-anchored protein, p24; 1.5A {Homo sapiens}
+Probab=21.65  E-value=80  Score=29.33  Aligned_cols=67  Identities=6%  Similarity=0.071  Sum_probs=32.7  Template_Neff=9.800
+
+Q LOKIASV2_22100  284 DWYKLNLTAYQVLNVVILFPDD-SIPLIITLFDENQNELASSYNWGYYYDEIQHTISESGTYYIGIEGYG  352 (900)
+Q Consensus       284 DWYk~~l~a~~~l~I~l~~~~~-~~dL~L~LyD~~g~~lass~~~g~~~~~I~~~~~~~GTYYI~V~Gy~  352 (900)
+                      .-|...++++..+.+....... ...+.+.++++.+..+......  ......+....+|.|.+.+....
+T Consensus        13 ~Cf~~~~~~~~~~~~~y~~~~~~~~~i~~~i~~p~~~~~~~~~~~--~~~~~~~~~~~~G~y~~Cf~n~~   80 (96)
+T 5AZW_B           13 ECFFERVTSGTKMGLIFEVAEGGFLDIDVEITGPDNKGIYKGDRE--SSGKYTFAAHMDGTYKFCFSNRM   80 (96)
+T ss_dssp             EEEEEEECTTCEEEEEEEEEESTTSCEEEEEECTTSCEEEEEEEE--SEEEEEEECSSSEEEEEEEEECS
+T ss_pred             EEEEEEccCCCEEEEEEEEEeCCcceEEEEEEcCCCCeeeeeeee--eEeeEEEEecCCEEEEEEEEcCC
+Confidence            3444445554444333322111 0246677777766544322111  11234444457888888887643
+
+
+No 63
+>4G5A_A Uncharacterized protein; Immunoglobulin - like beta-sandwich, Structural; HET: GOL, MSE; 1.69A {Bacteroides thetaiotaomicron}
+Probab=20.66  E-value=87  Score=30.30  Aligned_cols=12  Identities=17%  Similarity=0.185  Sum_probs=8.6  Template_Neff=8.100
+
+Q LOKIASV2_22100  340 ESGTYYIGIEGY  351 (900)
+Q Consensus       340 ~~GTYYI~V~Gy  351 (900)
+                      ++|.|.|.+...
+T Consensus        78 ~~G~Y~l~i~~~   89 (99)
+T 4G5A_A           78 SLGQYELYMYNA   89 (99)
+T ss_dssp             CSSEEEEEEECS
+T ss_pred             CCCEEEEEEEcC
+Confidence            677787777653
+
+
+No 64
+>3D33_A Domain of Unknown Function with; Structural genomics, Joint Center for; 1.7A {Bacteroides vulgatus ATCC 8482}
+Probab=20.12  E-value=91  Score=30.78  Aligned_cols=43  Identities=5%  Similarity=0.132  Sum_probs=21.9  Template_Neff=7.900
+
+Q LOKIASV2_22100   86 GDLDLYLYNV-NRTLLNTSNSQA---NNEILSWRSLSSQILYFVVKN  128 (900)
+Q Consensus        86 GDLDL~LyD~-~gtll~sS~s~~---d~E~is~~~~~~g~~y~~V~~  128 (900)
+                      +++.+.+.|. .|+.+-......   ....+......+|.|.|.+..
+T Consensus        49 ~~v~I~I~d~~~G~vvy~~~~~~~~~~~~~i~l~~~~~G~Y~l~I~~   95 (108)
+T 3D33_A           49 RDMTIRITDMAKGGVVYENDIPEVQSAYITISIANFPAEEYKLEITG   95 (108)
+T ss_dssp             SEEEEEEEETTTCCEEEEEEECGGGTTEEEEECTTSCSEEEEEEEEE
+T ss_pred             CCeEEEEEECCCCCEEEEeecCCCCCCEEEEECccCCCcEEEEEEEc
+Confidence            4555555664 676654332111   112222332267888888876
+
+

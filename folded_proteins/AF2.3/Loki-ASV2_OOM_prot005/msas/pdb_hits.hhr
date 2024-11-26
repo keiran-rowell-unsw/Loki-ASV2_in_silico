@@ -1,0 +1,1519 @@
+Query         LOKIASV2_43680 hypothetical protein
+Match_columns 888
+No_of_seqs    139 out of 158
+Neff          3.3645
+Searched_HMMs 80799
+Date          Mon Sep  9 06:48:44 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpp9u6ujrw/query.a3m -o /tmp/tmpp9u6ujrw/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1ULV_A glucodextranase(E.C.3.2 100.0 1.9E-34 2.4E-39  341.7   0.0  213  507-742   772-1017(1020)
+  2 3PE9_A Fibronectin(III)-like m  96.8 1.7E-05 2.1E-10   70.7   0.0   86  755-849     1-89  (98)
+  3 3PDG_A 1st Fibronectin(III)-li  96.6 5.6E-05   7E-10   67.1   0.0   85  756-849     2-89  (98)
+  4 3PDD_A Glycoside hydrolase, fa  95.6 0.00097 1.2E-08   63.4   0.0   75  756-839     2-78  (190)
+  5 3PDD_A Glycoside hydrolase, fa  95.4  0.0014 1.8E-08   62.3   0.0   93  750-851    88-183 (190)
+  6 2A99_A Sulfite Oxidase (E.C.1.  84.3    0.58 7.2E-06   54.0   0.0   81  751-839   250-346 (372)
+  7 2A9D_A Sulfite Oxidase (E.C.1.  83.8    0.64 7.9E-06   53.7   0.0   80  752-839   251-346 (372)
+  8 2A9B_A Sulfite Oxidase (E.C.1.  82.4     0.8 9.9E-06   52.9   0.0   80  752-839   251-346 (372)
+  9 2CA3_A SULFITE\:CYTOCHROME C O  80.2     1.1 1.4E-05   52.0   0.0   77  754-839   263-350 (373)
+ 10 2BLF_A SULFITE\:CYTOCHROME C O  80.2     1.1 1.4E-05   52.0   0.0   77  754-839   263-350 (373)
+ 11 5XYA_A Chemokine protease C; S  78.2     1.4 1.8E-05   58.3   0.0   30  820-849   981-1010(1530)
+ 12 1SOX_A SULFITE OXIDASE, PHOSPH  77.8     1.5 1.9E-05   51.9   0.0   78  754-839   347-440 (466)
+ 13 3HBG_A Sulfite Oxidase mutant   77.3     1.6   2E-05   51.7   0.0   76  756-839   349-440 (466)
+ 14 3R19_A Sulfite oxidase (E.C.1.  76.9     1.7 2.1E-05   51.5   0.0   77  755-839   348-440 (466)
+ 15 5XYR_A Chemokine protease C; S  76.9     1.7 2.1E-05   58.2   0.0   30  820-849  1098-1127(1647)
+ 16 2E7M_A Protein KIAA0319; PKD d  72.7     2.6 3.2E-05   39.9   0.0   28  820-848    78-105 (113)
+ 17 4MJ2_A Alpha-L-iduronidase (E.  72.3     2.7 3.3E-05   49.6   0.0   18  822-839   614-631 (653)
+ 18 3W82_A Alpha-L-iduronidase (E.  71.8     2.8 3.5E-05   49.0   0.0   18  822-839   588-605 (627)
+ 19 4JPQ_A Uncharacterized protein  68.8     3.6 4.5E-05   42.5   0.0   70   35-107    13-99  (220)
+ 20 4JPQ_B Uncharacterized protein  68.8     3.6 4.5E-05   42.5   0.0   70   35-107    13-99  (220)
+ 21 6I6R_B Alpha-L-iduronidase (E.  68.4     3.8 4.6E-05   48.2   0.0   18  822-839   588-605 (627)
+ 22 5ZL9_A Chitinase AB; Chitinase  68.2     3.8 4.7E-05   49.4   0.0   58  777-839    39-100 (618)
+ 23 5Z7M_A Chitinase (E.C.3.2.1.14  66.4     4.4 5.5E-05   47.9   0.0   58  777-839    39-100 (546)
+ 24 5JMB_A Uncharacterized protein  64.2     5.2 6.5E-05   38.5   0.0   29  821-849    60-88  (94)
+ 25 1OGP_A SULFITE OXIDASE (E.C.1.  62.3       6 7.4E-05   46.6   0.0   77  755-839   267-364 (393)
+ 26 2Z4T_A Beta-galactoside alpha-  61.6     6.3 7.7E-05   48.4   0.0   27  821-847    87-113 (514)
+ 27 5WA0_D Putative sulfite oxidas  61.6     6.3 7.8E-05   46.0   0.0   59  777-839   270-340 (365)
+ 28 3ARX_A Chitinase A (E.C.3.2.1.  60.7     6.7 8.3E-05   47.4   0.0   52  795-846    55-110 (584)
+ 29 3ARV_A Chitinase A (E.C.3.2.1.  60.7     6.7 8.3E-05   47.4   0.0   52  795-846    55-110 (584)
+ 30 1FFR_A CHITINASE A (E.C. 3.2.1  60.2     6.9 8.6E-05   46.3   0.0   58  777-839    39-100 (540)
+ 31 2BIH_A NITRATE REDUCTASE [NADP  58.7     7.6 9.4E-05   47.3   0.0   77  756-839   295-407 (474)
+ 32 6NZ0_Z Dyslexia-associated pro  58.6     7.7 9.5E-05   38.7   0.0   16  820-835    66-81  (290)
+ 33 1Q55_A EP-cadherin, ectodomain  55.7     9.3 0.00011   47.3   0.0   29  821-849   659-687 (880)
+ 34 3B9E_A Chitinase A (E.C.3.2.1.  55.0     9.7 0.00012   46.1   0.0   53  795-847    55-111 (584)
+ 35 4M02_A Serine-rich adhesin for  54.6      10 0.00012   41.6   0.0   32  816-847   170-201 (204)
+ 36 5K3X_B Putative sulfite oxidas  53.1      11 0.00014   44.3   0.0   58  777-839   274-344 (369)
+ 37 6JCS_R Capsid protein, Dyslexi  52.2      12 0.00014   33.5   0.0   26  820-846    69-94  (97)
+ 38 6NFR_A CopC; CopC, metallochap  51.5      12 0.00015   35.9   0.0   28  820-847    93-120 (122)
+ 39 2BII_A NITRATE REDUCTASE [NADP  50.7      13 0.00016   44.7   0.0   78  755-839   244-357 (424)
+ 40 6JCQ_R Capsid protein, Dyslexi  50.1      13 0.00016   31.1   0.0   25  820-844    63-87  (91)
+ 41 2X2Y_A MAN26A (E.C.3.2.1.78);   49.8      13 0.00017   45.1   0.0   80  749-839   368-460 (475)
+ 42 2YRL_A KIAA1837 protein; PKD d  47.2      16 0.00019   31.6   0.0   27  821-847    68-94  (102)
+ 43 1EDQ_A CHITINASE A (E.C. 3.2.1  46.9      16  0.0002   43.4   0.0   45  794-839    52-100 (540)
+ 44 3TP4_A computational Design of  44.2      19 0.00023   43.9   0.0   79  750-839   369-460 (475)
+ 45 3TP4_B computational Design of  44.2      19 0.00023   43.9   0.0   79  750-839   369-460 (475)
+ 46 1I8U_A ENDO-1,4-BETA-XYLANASE   44.1      19 0.00023   36.7   0.0   72   34-108     6-87  (189)
+ 47 2XTS_A SULFITE DEHYDROGENASE (  41.2      22 0.00028   42.5   0.0   74  757-839   267-353 (390)
+ 48 1I8A_A ENDO-1,4-BETA-XYLANASE   40.6      23 0.00029   36.0   0.0   72   34-108     6-87  (189)
+ 49 6NFQ_B CopC; CopC, metallochap  40.3      24 0.00029   33.9   0.0   28  820-847    93-120 (122)
+ 50 4M03_A Serine-rich adhesin for  40.2      24 0.00029   36.5   0.0   29  821-849    93-121 (210)
+ 51 2YHG_A CELLULOSE-BINDING PROTE  40.0      24  0.0003   42.3   0.0   13  821-833   409-421 (437)
+ 52 4L3A_A Internalin K; Leucine r  36.2      30 0.00037   41.8   0.0   30  820-849   486-515 (590)
+ 53 2Y3U_A COLLAGENASE (E.C.3.4.24  35.7      31 0.00038   43.7   0.0   27  820-846   757-783 (785)
+ 54 4L3A_B Internalin K; Leucine r  35.7      31 0.00039   41.7   0.0   30  820-849   486-515 (590)
+ 55 5ICU_A CopC; CopC, metal homeo  33.2      36 0.00045   32.7   0.0   30  820-849    69-98  (102)
+ 56 5K8G_A Antifreeze protein; Cel  31.8      40 0.00049   40.8   0.0   19  821-839    98-116 (540)
+ 57 2UVE_A EXOPOLYGALACTURONASE; G  28.6      49  0.0006   40.4   0.0   19  821-839   123-141 (608)
+ 58 2UVF_A EXOPOLYGALACTURONASE; G  28.6      49  0.0006   40.4   0.0   19  821-839   123-141 (608)
+ 59 6EFF_B NCTC10712 Siglec; lecti  27.6      52 0.00065   36.0   0.0   18  821-838    95-112 (210)
+ 60 1V8H_A SoxZ protein; lithotrop  27.6      52 0.00065   32.3   0.0   48  794-841    47-101 (107)
+ 61 1I8A_A ENDO-1,4-BETA-XYLANASE   27.2      54 0.00067   33.5   0.0   46  541-587    40-86  (189)
+ 62 4AQO_A COLLAGENASE (E.C.3.4.24  26.2      57 0.00071   26.6   0.0   20  820-839    64-83  (92)
+ 63 5DF0_B Ac-ChiA (E.C.3.2.1.14);  25.4      61 0.00075   39.3   0.0   46  794-839    67-114 (545)
+ 64 5FQ7_G BT_2263, BT_2264, BT_22  25.3      61 0.00076   35.6   0.0   30  820-849    61-90  (212)
+ 65 5FQ8_G PUTATIVE LIPOPROTEIN, O  25.3      61 0.00076   35.6   0.0   30  820-849    61-90  (212)
+ 66 5IJ1_B Platelet-binding glycop  24.8      63 0.00078   35.1   0.0   18  822-839    95-112 (201)
+ 67 4M03_A Serine-rich adhesin for  24.1      67 0.00083   33.3   0.0   27  820-846   181-207 (210)
+ 68 4P99_C MpAFP_RII tetra-tandeme  23.9      68 0.00084   36.5   0.0   19  821-839    97-115 (437)
+ 69 1I8U_A ENDO-1,4-BETA-XYLANASE   23.5      70 0.00087   32.8   0.0   45  542-587    41-86  (189)
+ 70 4JRW_B DOMAIN 2 AT 1.6 ANGSTRO  23.2      71 0.00088   25.6   0.0   18  821-838    59-76  (87)
+ 71 6NZ0_Z Dyslexia-associated pro  23.1      72 0.00089   32.2   0.0   27  820-846   258-284 (290)
+ 72 4U6T_B polycystic kidney disea  22.9      73  0.0009   25.8   0.0   19  821-839    59-77  (86)
+ 73 4M00_A Serine-rich adhesin for  22.6      75 0.00092   38.1   0.0   30  820-849   423-452 (541)
+ 74 5EZD_B Kunitz-type protease in  22.4      76 0.00094   30.8   0.0   27  820-846    49-75  (145)
+ 75 6QYD_4I ?; bacteriophage, cryo  21.9      79 0.00097   39.2   0.0   27  822-848   410-439 (448)
+ 76 6QZ0_7J Major capsid protein,   21.9      79 0.00097   39.2   0.0   27  822-848   410-439 (448)
+ 77 4JGU_A ColH protein; IG-like f  21.9      79 0.00098   26.0   0.0   19  821-839    68-86  (95)
+ 78 5KIQ_A Platelet-binding glycop  21.8      79 0.00098   34.3   0.0   18  822-839    92-109 (197)
+ 79 4A2L_F TWO-COMPONENT SYSTEM SE  21.6      81   0.001   37.2   0.0   33  816-848   748-782 (795)
+ 80 4YTB_A Peptidylarginine deimin  21.2      83   0.001   37.5   0.0   51  436-491   349-399 (432)
+ 81 3EIF_A C5a peptidase (E.C.3.4.  20.8      86  0.0011   41.0   0.0   19  821-839   907-925 (936)
+ 82 4U7K_E polycystic kidney disea  20.5      88  0.0011   25.4   0.0   19  821-839    60-78  (87)
+ 83 2KPN_A Bacillolysin (E.C.3.4.2  20.4      88  0.0011   29.0   0.0   28  820-847    57-84  (103)
+ 84 4A2M_B TWO-COMPONENT SYSTEM SE  20.1      91  0.0011   36.8   0.0   33  816-848   748-782 (795)
+
+No 1
+>1ULV_A glucodextranase(E.C.3.2.1.70); GH family 15, (alpha-alpha)6-barrel, SLH; HET: ACR; 2.42A {Arthrobacter globiformis} SCOP: a.102.1.5, b.1.9.3, b.1.18.2, b.30.5.5
+Probab=100.00  E-value=1.9e-34  Score=341.71  Aligned_cols=213  Identities=27%  Similarity=0.386  Sum_probs=187.6  Template_Neff=8.800
+
+Q LOKIASV2_43680  507 PPFEEVFYMEDPRGDEWG----TYPTNPAFGGLEMGLFDIWEFNVSAHDYGTQYAFRLN-TTNNPGWGGGNFSHQCFVVA  581 (888)
+Q Consensus       507 ~~~e~IFemeDP~GDDyG----TYPTnpvF~PyepGLFDLt~FrVs~~d~~v~F~Fkf~-~ltNPWwgpeGFSHQlI~IY  581 (888)
+                      .+++++++++||+|||+|    +|||+++|.   +|+|||++|+|.+.+++++|+|+|+ .++|||++| |||||+|+||
+T Consensus       772 ~~~~~~~~~~Dp~gDd~Gpg~y~yP~~~~f~---~g~~Dl~~~~v~~~~~~~~~~~~~~~~~~~~w~~~-gfs~~~~~iy  847 (1020)
+T 1ULV_A          772 YYGSRIGALSDPAGDDNGPGTYRYPTNSAYV---PGAFDLTGVDVYDAGDDYAFVATIAGEVTNPWGGQ-AISHQRVNIY  847 (1020)
+T ss_dssp             CCSEEEEEEECCSSCCSTTTTCBCCSSTTSC---TTTTCEEEEEEEEETTEEEEEEEESSCCCCTTCCS-SCSSEEEEEE
+T ss_pred             eCCEEEEEecCCCCCCCCCCcccCCCCCCCC---CCCcceeEEEEEEeCCEEEEEEEEeecccCCCCCC-CcccEEEEEE
+Confidence            377889999999999999    899999997   7999999999999999999999996 999999999 9999999999
+
+
+Q LOKIASV2_43680  582 IDIMDGGSTESIQASNINMHPDYAWDYAFYADGFLQ--RFFTPDTLENSLQSGHGMLSSYEMVDGEHWFSFYVPKTLFGM  659 (888)
+Q Consensus       582 IDT~eGG~TE~l~GaNV~FaPd~~WD~aIkVsGW~~--~vft~d~~~~~~~~~~gvl~~~~~vdgk~TI~VsVPKslLG~  659 (888)
+                      ||+++||++..+||+|++|  +++|||+|+++||+.  +++.+++...+     .+.  +.++.++++|+++|||+.|++
+T Consensus       848 ~~~~~~g~~~~~~g~~~~~--~~~W~~~~~~~g~~~~~~~~~~~~~~~~-----~~~--~~~~~~~~~i~~~v~~~~l~~  918 (1020)
+T 1ULV_A          848 LGKGEGGATPGLPGTNINL--EHAWDSVIVTDGRFDGAGVYAPDGTRTS-----AVS--LLAVPEARQIVTRVPKAALGG  918 (1020)
+T ss_dssp             EECSCSSCEECSGGGCCEE--SSCEEEEEEECCSTTCCEEECTTSCEEE-----CCE--EEEETTTTEEEEEEEGGGSTT
+T ss_pred             EecCCCCCCCCCCCcceec--CCcCeEEEEEcCCCCCceeeCCCCCeee-----cee--EEEeCCCCEEEEEEeHHHhCC
+Confidence            9999888888899999999  679999999999987  67777765432     233  456778899999999999997
+
+
+Q LOKIASV2_43680  660 NANATWK--YYVMSGSGDF---NDFRDHVETR----------GEWAFGGGSD-----------GSFDPRYTDILVPVYSA  713 (888)
+Q Consensus       660 ~~~~sW~--YYVLVGS~Df---ddfReV~eea----------GEWrFGGGsD-----------gd~DPnVIDILAPeG~~  713 (888)
+                      .+..+|+  |+|++++||+   +++|+|.+++          ++|+||||+.           .+.+|+|||+|+|++. 
+T Consensus       919 ~~~~~~~~~~~v~~~~~d~~~~~~~r~~~~~~~~~~~~~~~~~~~~fgg~~~~~~~~~~~~~~~~~~p~~~d~~~p~~~-  997 (1020)
+T 1ULV_A          919 LDPATARMSVAMFGNAESGEGIGNVRPVYDGAYWEAGDPAWIKEWRFGGGAGVFDGTIPSRDTDTDDPNALDVLVGEGQ-  997 (1020)
+T ss_dssp             CCTTSCEEEEEEEEBCCGGGSGGGBCCEEEHHHHHHTSSTTHHHHSEEEESCCBCTTSTTCBSCCCSCCCSEECCCTTC-
+T ss_pred             CChhcccEEEEEEeecCCCCCCCCeeecccCccccCCCchhcCceeeecCccCCCCCCCCCCCCCCCCceeEEecCCCC-
+Confidence            5566675  7788899986   6899999876          9999999952           2679999999999987 
+
+
+Q LOKIASV2_43680  714 NETAVEVQNYISTSYNEAEGEYGVMLPVG  742 (888)
+Q Consensus       714 Qe~~~e~Q~~iL~SYd~a~G~lAvL~PVG  742 (888)
+                            +|++|| ++  ..+++|+||+|.
+T Consensus       998 ------~q~~~l-~~--~~~~~~~~~~~~ 1017 (1020)
+T 1ULV_A          998 ------TQAAVL-DW--RAGSPVVVPMLG 1017 (1020)
+T ss_dssp             ------CHHHHT-CG--GGSSSCEECCEE
+T ss_pred             ------cHHHHh-CC--CCCCcceeeccc
+Confidence                  899999 88  888999999874
+
+
+No 2
+>3PE9_A Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; HET: IOD; 1.69A {Clostridium thermocellum}
+Probab=96.84  E-value=1.7e-05  Score=70.70  Aligned_cols=86  Identities=23%  Similarity=0.321  Sum_probs=66.1  Template_Neff=9.300
+
+Q LOKIASV2_43680  755 TVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVLMPEATGGSAE--LSVTEGGDHVIRIVAED  832 (888)
+Q Consensus       755 TVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~~~~~t~gs~~--~s~l~~GtHTIrAVAtD  832 (888)
+                      +++|.+|.+++.+.  .++.  +.|++++.+..    .++.+|++++|++.++.....+|.  |.. .+|.|+|+++++|
+T Consensus         1 ~v~i~~P~~g~~~~--~~~~--v~v~~~~~~~~----~~i~~v~~~i~g~~~~~~~~~~~~~~~~~-~~G~~~l~~~a~D   71 (98)
+T 3PE9_A            1 MVKLTAPKSNVVAY--GNEF--LKITATASDSD----GKISRVDFLVDGEVIGSDREAPYEYEWKA-VEGNHEISVIAYD   71 (98)
+T ss_dssp             CEEEEECCTTCCEE--TTSE--EEEEEEECCSS----SCEEEEEEEETTEEEEEECSSSEEEEEEC-CSEEEEEEEEEEE
+T ss_pred             CeEEEcCCCCcEEe--CCCe--EEEEEEEECCC----CCeEEEEEEECCEEEeeeCCCCEEEEEec-CCEEEEEEEEEEe
+Confidence            35788888888765  4444  67777666542    348899999999999766555666  666 3999999999999
+
+
+Q LOKIASV2_43680  833 DTGNTAV-AEITITVNDN  849 (888)
+Q Consensus       833 ~aGnTAs-asVtVTV~~~  849 (888)
+                      .+|+..+ ..++|.+.++
+T Consensus        72 ~~g~~~~s~~~~v~v~~~   89 (98)
+T 3PE9_A           72 DDDAASTPDSVKIFVKQA   89 (98)
+T ss_dssp             TTCCBCCCEEEEEEEECC
+T ss_pred             CCCCeEeCEEEEEEEecc
+Confidence            9999987 7788887665
+
+
+No 3
+>3PDG_A 1st Fibronectin(III)-like module; CbhA, beta-sandwich, Cellulosome, UNKNOWN FUNCTION; 1.78A {Clostridium thermocellum}
+Probab=96.55  E-value=5.6e-05  Score=67.05  Aligned_cols=85  Identities=19%  Similarity=0.298  Sum_probs=65.5  Template_Neff=9.500
+
+Q LOKIASV2_43680  756 VSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVLMPEATGGSAE--LSVTEGGDHVIRIVAEDD  833 (888)
+Q Consensus       756 VsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~~~~~t~gs~~--~s~l~~GtHTIrAVAtD~  833 (888)
+                      +.|..|.+++.+.  .++.  +.+.+++++.     .++.+|++++|++.++...+.+|.  |.....|.|+|+++++|.
+T Consensus         2 v~i~~p~~~~~~~--~~~~--v~v~~~~~~~-----~~i~~v~~~~dg~~~~~~~~~~~~~~~~~~~~G~~~i~a~a~D~   72 (98)
+T 3PDG_A            2 VTIDSPVAGERFE--AGKD--INISATVKSK-----TPVSKVEFYNGDTLISSDTTAPYTAKITGAAVGAYNLKAVAVLS   72 (98)
+T ss_dssp             EEEEESCTTCEEE--TTSC--EEEEEEECCS-----SCEEEEEEEETTEEEEEESSSSEEEEETTCCSEEEEEEEEEEET
+T ss_pred             eEEECCCCCCEEe--cCCc--EEEEEEEeCC-----CCeeEEEEEECCEEEEecCCCCEEEEeecCCCeEEEEEEEEEeC
+Confidence            5678888887765  4444  7777777664     568999999999988765555666  665568999999999999
+
+
+Q LOKIASV2_43680  834 TGNTAV-AEITITVNDN  849 (888)
+Q Consensus       834 aGnTAs-asVtVTV~~~  849 (888)
+                      +|+..+ ..+.|.+.+.
+T Consensus        73 ~g~~~~s~~~~v~~~~~   89 (98)
+T 3PDG_A           73 DGRRIESPVTPVLVKVI   89 (98)
+T ss_dssp             TSCEEECCCEEEEEESC
+T ss_pred             CCCEEEeceEEEEEecc
+Confidence            999988 7777766544
+
+
+No 4
+>3PDD_A Glycoside hydrolase, family 9; CbhA, beta-sandwich, cellulosome, UNKNOWN FUNCTION; 1.72A {Clostridium thermocellum}
+Probab=95.59  E-value=0.00097  Score=63.42  Aligned_cols=75  Identities=20%  Similarity=0.345  Sum_probs=52.8  Template_Neff=11.000
+
+Q LOKIASV2_43680  756 VSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVLMPEATGGSAE--LSVTEGGDHVIRIVAEDD  833 (888)
+Q Consensus       756 VsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~~~~~t~gs~~--~s~l~~GtHTIrAVAtD~  833 (888)
+                      +.|..|.+++.+.  .+..  +.+.+.+.+.     .++.+++++.++..+.......|.  +.....|.|.+++++.|.
+T Consensus         2 i~i~~p~~~~~~~--~~~~--~~~~~~~~~~-----~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~G~~~~~~~a~d~   72 (190)
+T 3PDD_A            2 VTIDSPVAGERFE--AGKD--INISATVKSK-----TPVSKVEFYNGDTLISSDTTAPYTAKITGAAVGAYNLKAVAVLS   72 (190)
+T ss_dssp             EEEEESCTTCEEE--TTSC--EEEEEEECCS-----SCEEEEEEEETTEEEEEECSSSEEEEECSCCSEEEEEEEEEEET
+T ss_pred             eeEEcCCCCcEEc--CCCc--EEEEEEEeCC-----CCeeEEEEEECCEEeeecCCCCeEEEeecCCCeEEEEEEEEEeC
+Confidence            5677888877664  3334  6777766653     457788999988877554333444  433357999999999999
+
+
+Q LOKIASV2_43680  834 TGNTAV  839 (888)
+Q Consensus       834 aGnTAs  839 (888)
+                      .|+...
+T Consensus        73 ~g~~~~   78 (190)
+T 3PDD_A           73 DGRRIE   78 (190)
+T ss_dssp             TSCEEE
+T ss_pred             CCCEEE
+Confidence            999876
+
+
+No 5
+>3PDD_A Glycoside hydrolase, family 9; CbhA, beta-sandwich, cellulosome, UNKNOWN FUNCTION; 1.72A {Clostridium thermocellum}
+Probab=95.42  E-value=0.0014  Score=62.32  Aligned_cols=93  Identities=25%  Similarity=0.333  Sum_probs=60.5  Template_Neff=11.000
+
+Q LOKIASV2_43680  750 DTTDPTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVLMPEATGGSAE--LSVTEGGDHVIR  827 (888)
+Q Consensus       750 DttpPTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~~~~~t~gs~~--~s~l~~GtHTIr  827 (888)
+                      +..+|.+.+..|.++..+.  .+..  +.+.+.+.+..    ..+.++++++++..+.......|.  +.. ..|.|.++
+T Consensus        88 ~~~~p~~~~~~~~~~~~~~--~~~~--~~~~~~~~~~~----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~g~~~~~  158 (190)
+T 3PDD_A           88 VIVKPTVKLTAPKSNVVAY--GNEF--LKITATASDSD----GKISRVDFLVDGEVIGSDREAPYEYEWKA-VEGNHEIS  158 (190)
+T ss_dssp             CCCCCEEEEEECCTTCCCB--TTSE--EEEEEEEECSS----SCEEEEEEEETTEEEEEECSSSEEEEEEC-CSEEEEEE
+T ss_pred             cCCCCEEEEEeCCCCeEEe--CCce--EEEEEEEECCC----CCeEEEEEEECCEEEEecCCCCeEEEEEc-CCeEEEEE
+Confidence            4556777777776654432  2233  55555554431    336688899998877554433444  333 37899999
+
+
+Q LOKIASV2_43680  828 IVAEDDTGNTAV-AEITITVNDNRP  851 (888)
+Q Consensus       828 AVAtD~aGnTAs-asVtVTV~~~~P  851 (888)
+                      +++.|..|+... ..+.|.++..++
+T Consensus       159 v~a~D~~g~~s~~~~~~i~~~~~~~  183 (190)
+T 3PDD_A          159 VIAYDDDDAASTPDSVKIFVKQARL  183 (190)
+T ss_dssp             EEEEETTCCBCCCEEEEEEEBCGGG
+T ss_pred             EEEEcCCCCcccceeEEEEEeccCC
+Confidence            999999999886 777777766543
+
+
+No 6
+>2A99_A Sulfite Oxidase (E.C.1.8.3.1); sulfite oxidase  Molybdopterin ; HET: MTE; 2.202A {Gallus gallus} SCOP: b.1.18.6, d.176.1.1
+Probab=84.30  E-value=0.58  Score=54.02  Aligned_cols=81  Identities=23%  Similarity=0.148  Sum_probs=52.0  Template_Neff=7.300
+
+Q LOKIASV2_43680  751 TTDPTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT--G------G-----SAE-  815 (888)
+Q Consensus       751 ttpPTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t--~------g-----s~~-  815 (888)
+                      ..++...|+.|.+++.+.  . +.  +.|+..+.+..   ..+|.+|++.+|+. ......  .      .     .|+ 
+T Consensus       250 ~~~~~S~I~~p~~~~~~~--~-g~--v~i~G~A~~g~---g~~I~~VEVS~D~G~tW~~a~l~~~~~~~~~~~~W~~W~~  321 (372)
+T 2A99_A          250 ELPVQSAVTQPRPGAAVP--P-GE--LTVKGYAWSGG---GREVVRVDVSLDGGRTWKVARLMGDKAPPGRAWAWALWEL  321 (372)
+T ss_dssp             BCCCEEEEEESCTTCEEC--S-EE--EEEEEEEECST---TCCEEEEEEESBSSSSCEECEEESCCCCTTCCCSCEEEEE
+T ss_pred             EecceEEEECCCCCCccC--C-cc--EEEEEEEEcCC---CceEEEEEEEcCCCCCcEEeEEcCCCCCCCCCcceEEEEE
+Confidence            344455677788877664  2 34  78887776531   13699999999975 232111  0      1     122 
+
+
+Q LOKIASV2_43680  816 -LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       816 -~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                       |.....|.|+|.++|.|..|++..
+T Consensus       322 ~~~~~~~g~~~i~~RA~D~~G~~Qp  346 (372)
+T 2A99_A          322 TVPVEAGTELEIVCKAVDSSYNVQP  346 (372)
+T ss_dssp             EEEECTTCEEEEEEEEEETTCCBCC
+T ss_pred             EEeCCCCCEEEEEEEEEeCCCCcCC
+Confidence             333235899999999999999875
+
+
+No 7
+>2A9D_A Sulfite Oxidase (E.C.1.8.3.1); sulfite oxidase  Molybdopterin ; HET: SO4, MTE; 1.701A {Gallus gallus} SCOP: d.176.1.1, b.1.18.6
+Probab=83.80  E-value=0.64  Score=53.71  Aligned_cols=80  Identities=23%  Similarity=0.149  Sum_probs=51.3  Template_Neff=7.300
+
+Q LOKIASV2_43680  752 TDPTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT--G------GS--AE-----  815 (888)
+Q Consensus       752 tpPTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t--~------gs--~~-----  815 (888)
+                      .++...|+.|.+++.+.  . +.  +.|+..+.+..   ..+|.+|++.+|+. ......  .      ..  |.     
+T Consensus       251 ~~v~S~I~~p~~~~~~~--~-g~--v~i~G~A~~g~---~~~I~~VEVS~DgG~tW~~A~l~~~~~~~~~~~~W~~W~~~  322 (372)
+T 2A9D_A          251 LPVQSAVTQPRPGAAVP--P-GE--LTVKGYAWSGG---GREVVRVDVSLDGGRTWKVARLMGDKAPPGRAWAWALWELT  322 (372)
+T ss_dssp             CCCEEEEEESCTTCEEC--S-EE--EEEEEEEECST---TCCEEEEEEESBSSSSCEECEECSCCCCTTCCCSCEEEEEE
+T ss_pred             eccEEEEECCCCCcccC--C-cc--EEEEEEEEcCC---CceEEEEEEECCCCCCcEEeEEcCCCCCCCCCcceEEEEEE
+Confidence            44455677788877654  2 34  78887776531   13699999999874 222111  0      11  22     
+
+
+Q LOKIASV2_43680  816 LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       816 ~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      |.....|.|+|.++|.|..|++..
+T Consensus       323 ~~~~~~g~~~i~~RA~D~~G~~Qp  346 (372)
+T 2A9D_A          323 VPVEAGTELEIVCKAVDSSYNVQP  346 (372)
+T ss_dssp             EEECTTCEEEEEEEEEETTCCBCC
+T ss_pred             EeCCCCCEEEEEEEEEeCCCCcCC
+Confidence            333235899999999999999875
+
+
+No 8
+>2A9B_A Sulfite Oxidase (E.C.1.8.3.1); sulfite oxidase  molybdopterin ; HET: MTE; 2.503A {Gallus gallus} SCOP: d.176.1.1, b.1.18.6
+Probab=82.41  E-value=0.8  Score=52.94  Aligned_cols=80  Identities=23%  Similarity=0.149  Sum_probs=50.9  Template_Neff=7.300
+
+Q LOKIASV2_43680  752 TDPTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT--G------GS--AE-----  815 (888)
+Q Consensus       752 tpPTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t--~------gs--~~-----  815 (888)
+                      .++...|+.|.+++++.  . +.  +.|+..+.+..   ..+|.+|++.+|+. ......  .      ..  |.     
+T Consensus       251 ~~v~S~i~~p~~~~~~~--~-g~--v~i~G~A~~g~---g~~I~~VEVS~DgG~tW~~A~l~~~~~~~~~~~~W~~W~~~  322 (372)
+T 2A9B_A          251 LPVQSAVTQPRPGAAVP--P-GE--LTVKGYAWSGG---GREVVRVDVSLDGGRTWKVARLMGDKAPPGRAWAWALWELT  322 (372)
+T ss_dssp             CCCEEEEEESCTTCEEC--S-EE--EEEEEEEECST---TCCEEEEEEESBSSSSCEECEEESCCCCTTCCCSCEEEEEE
+T ss_pred             ecceEEEEcCCCCCccC--C-cc--EEEEEEEEcCC---CceEEEEEEEcCCCCCcEEeEEcCCCCCCCCCcceEEEEEE
+Confidence            34445577787777654  2 34  77877776531   13699999999875 332211  0      11  22     
+
+
+Q LOKIASV2_43680  816 LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       816 ~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      |.....|.|+|.++|.|.+|++..
+T Consensus       323 ~~~~~~g~~~l~~RA~D~~G~~Qp  346 (372)
+T 2A9B_A          323 VPVEAGTELEIVCKAVDSSYNVQP  346 (372)
+T ss_dssp             EEECTTCEEEEEEEEEETTCCBCC
+T ss_pred             EeCCCCCEEEEEEEEEeCCCCcCC
+Confidence            333225899999999999999875
+
+
+No 9
+>2CA3_A SULFITE\:CYTOCHROME C OXIDOREDUCTASE SUBUNIT A; SULFITE OXIDASE, MOLYBDOPTERIN, C-TYPE CYTOCHROME; HET: MSS, SO4, HEC; 2.0A {THIOBACILLUS NOVELLUS}
+Probab=80.25  E-value=1.1  Score=52.01  Aligned_cols=77  Identities=26%  Similarity=0.267  Sum_probs=50.3  Template_Neff=7.100
+
+Q LOKIASV2_43680  754 PTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT-G---GS--AE-LSV---TEGG  822 (888)
+Q Consensus       754 PTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t-~---gs--~~-~s~---l~~G  822 (888)
+                      +...|+.|.+++++.   .+.  +.|+..+.+..    .+|.+|++.+|+. ...... .   ..  |. |+.   ...|
+T Consensus       263 v~s~I~~p~~g~~~~---~g~--v~i~G~A~~g~----~~I~~VEvS~DgG~tW~~a~l~~~~~~~~W~~W~~~~~~~~G  333 (373)
+T 2CA3_A          263 VRSFITNVENGASVK---AGE--VPLRGIAFDGG----YGITQVSVSADAGKSWTNATLDPGLGKYSFRGWKAVLPLTKG  333 (373)
+T ss_dssp             CEEEECSCCTTEEEC---SEE--EEEEEEEECSS----SCEEEEEEESSTTSSCEECEECCCSCTTSCEEEEEEEEECSE
+T ss_pred             CceEEEecCCCcEEc---Cee--EEEEEEEEcCC----ccEEEEEEEeCCCCCcEEcEecCCCCccceeEEEEEEeCCCC
+Confidence            445577888877664   234  77887776532    5799999999864 332111 0   11  22 332   1369
+
+
+Q LOKIASV2_43680  823 DHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       823 tHTIrAVAtD~aGnTAs  839 (888)
+                      .|.|.+||.|..|++..
+T Consensus       334 ~~~i~~RA~D~~g~~Qp  350 (373)
+T 2CA3_A          334 DHVLMCRATNARGETQP  350 (373)
+T ss_dssp             EEEEEEEEEETTSCBCC
+T ss_pred             CEEEEEEEEECCCCccC
+Confidence            99999999999999874
+
+
+No 10
+>2BLF_A SULFITE\:CYTOCHROME C OXIDOREDUCTASE SUBUNIT A; SULFITE OXIDASE, MOLYBDOPTERIN, C-TYPE CYTOCHROME; HET: HEC, MSS; 1.8A {STARKEYA NOVELLA}
+Probab=80.21  E-value=1.1  Score=52.00  Aligned_cols=77  Identities=26%  Similarity=0.269  Sum_probs=50.0  Template_Neff=7.100
+
+Q LOKIASV2_43680  754 PTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT-G---GS--AE-LSV---TEGG  822 (888)
+Q Consensus       754 PTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t-~---gs--~~-~s~---l~~G  822 (888)
+                      +...|+.|.+++++.  . +.  +.|+..+.+..    .+|.+|++.+|+. ...... .   ..  |. |+.   ...|
+T Consensus       263 v~s~I~~p~~g~~~~--~-g~--v~i~G~A~~g~----~~I~~VEvS~DgG~tW~~a~l~~~~~~~~W~~W~~~~~~~~G  333 (373)
+T 2BLF_A          263 VRSFITNVENGASVK--A-GE--VPLRGIAFDGG----YGITQVSVSADAGKSWTNATLDPGLGKYSFRGWKAVLPLTKG  333 (373)
+T ss_dssp             CEEEECSCCTTEEEC--S-EE--EEEEEEEECSS----SCEEEEEEESSTTSSCEECEECCCSCTTSCEEEEEEEEECSE
+T ss_pred             CceEEEecCCCcEEc--C-ee--EEEEEEEEcCC----ccEEEEEEEcCCCCCcEEcEecCCCCccceEEEEEEEeCCCC
+Confidence            345577787877664  2 34  77877776531    5799999999864 322111 0   11  22 331   1369
+
+
+Q LOKIASV2_43680  823 DHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       823 tHTIrAVAtD~aGnTAs  839 (888)
+                      .|+|.++|.|..|++..
+T Consensus       334 ~~~i~~RA~D~~g~~Qp  350 (373)
+T 2BLF_A          334 DHVLMCRATNARGETQP  350 (373)
+T ss_dssp             EEEEEEEEEETTSCCCC
+T ss_pred             CEEEEEEEEECCCCccC
+Confidence            99999999999999874
+
+
+No 11
+>5XYA_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: AES, MSE, SO4; 3.0A {Streptococcus pyogenes}
+Probab=78.15  E-value=1.4  Score=58.29  Aligned_cols=30  Identities=20%  Similarity=0.183  Sum_probs=23.1  Template_Neff=9.400
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.|.+++++.|.+||.....+.+.+...
+T Consensus       981 ~~g~~~~~v~~~D~AGN~~~~~~~~~id~~ 1010 (1530)
+T 5XYA_A          981 KAKLGDFYYMVEDFAGNVAIAKLGDHLPQT 1010 (1530)
+T ss_dssp             TSCTTSEEEEEEESSSCEEEEETTSCCSSC
+T ss_pred             hhcccceEEEEEeCCCCEEEEEehhcCCcc
+Confidence            478999999999999999874455555443
+
+
+No 12
+>1SOX_A SULFITE OXIDASE, PHOSPHONIC ACIDMONO-(2-AMINO-5,6-DIMERCAPTO-4-OXO-3,7,8A,9,10,10A-HEXAHYDRO-4H-8-OXA-1,3,9,10-TETRAAZA-ANTHRACEN-7-YLMETHYL)ESTER, MOLYBDENUM; OXIDOREDUCTASE, SULFITE OXIDATION; HET: MTE, HEM, EPE, SO4; 1.9A {Gallus gallus} SCOP: d.120.1.1, b.1.18.6, d.176.1.1
+Probab=77.82  E-value=1.5  Score=51.87  Aligned_cols=78  Identities=23%  Similarity=0.161  Sum_probs=48.7  Template_Neff=7.900
+
+Q LOKIASV2_43680  754 PTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT--G------GS--AE-----LS  817 (888)
+Q Consensus       754 PTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t--~------gs--~~-----~s  817 (888)
+                      ..-.|+.|.+++.+.  . +.  +.|...|.+..   ..+|.+|++.+|+. ......  .      ..  |.     |.
+T Consensus       347 v~S~i~~p~~~~~~~--~-g~--v~i~G~A~~g~---~~~I~~VevS~D~G~tW~~a~l~~~~~~~~~~~~W~~W~~~~~  418 (466)
+T 1SOX_A          347 VQSAVTQPRPGAAVP--P-GE--LTVKGYAWSGG---GREVVRVDVSLDGGRTWKVARLMGDKAPPGRAWAWALWELTVP  418 (466)
+T ss_dssp             CEEEEEESCTTCEEC--S-EE--EEEEEEEECST---TCCEEEEEEESBTTSSCEECEECSCCCCTTCCCSCEEEEEEEE
+T ss_pred             ceeEEEcCCCCCeeC--C-ce--EEEEEEEEeCC---CCceEEEEEECCCCCCcEEcEeCCCCCCCCCCCceEEEEEEeC
+Confidence            334466777776653  2 34  77777776521   13699999999875 232111  0      11  22     33
+
+
+Q LOKIASV2_43680  818 VTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       818 ~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ....|.|+|.++|.|..|++..
+T Consensus       419 ~~~~g~~~i~~RA~d~~g~~Qp  440 (466)
+T 1SOX_A          419 VEAGTELEIVCKAVDSSYNVQP  440 (466)
+T ss_dssp             ECTTCEEEEEEEEEETTCCBCC
+T ss_pred             CCCCCeEEEEEEEEeCCCCcCC
+Confidence            3225899999999999999875
+
+
+No 13
+>3HBG_A Sulfite Oxidase mutant C185S; sulfite oxidase, molybdenum, molybdopterin, oxotransferase; HET: MTE; 1.9A {Gallus gallus}
+Probab=77.30  E-value=1.6  Score=51.66  Aligned_cols=76  Identities=24%  Similarity=0.161  Sum_probs=47.5  Template_Neff=7.900
+
+Q LOKIASV2_43680  756 VSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT--G------GS--AE-LS----VT  819 (888)
+Q Consensus       756 VsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t--~------gs--~~-~s----~l  819 (888)
+                      ..|..|.+++.+.  . +.  +.|...+.+..   ..+|.+|++.+|+. ......  .      ..  |. |.    ..
+T Consensus       349 S~i~~p~~~~~~~--~-g~--v~i~G~A~~g~---~~~I~~VevS~DgG~tW~~a~l~~~~~~~~~~~~W~~W~~~~~~~  420 (466)
+T 3HBG_A          349 SAVTQPRPGAAVP--P-GE--LTVKGYAWSGG---GREVVRVDVSLDGGRTWKVARLMGDKAPPGRAWAWALWELTVPVE  420 (466)
+T ss_dssp             EEEEESCTTCEEC--S-EE--EEEEEEEECST---TCCEEEEEEESBTTSSCEECEEECCCCCTTCCCSCEEEEEEEEEC
+T ss_pred             EEEECCCCCCccC--C-ce--EEEEEEEEcCC---CceEEEEEEECCCCCCcEEeEEcCCCCCCCcccceEEEEEEecCC
+Confidence            3466677766553  2 24  77777776531   13699999999875 232111  0      12  22 33    32
+
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ..|.|+|.++|.|.+|++..
+T Consensus       421 ~~g~~~i~~RA~d~~g~~Qp  440 (466)
+T 3HBG_A          421 AGTELEIVCKAVDSSYNVQP  440 (466)
+T ss_dssp             TTCEEEEEEEEEETTCCCCC
+T ss_pred             CCCeEEEEEEEEeCCCCccC
+Confidence            25899999999999999875
+
+
+No 14
+>3R19_A Sulfite oxidase (E.C.1.8.3.1); molybdenum, molybdopterin, oxotransferase, sulfite oxidase; HET: MTE; 2.1A {Gallus gallus}
+Probab=76.87  E-value=1.7  Score=51.50  Aligned_cols=77  Identities=23%  Similarity=0.171  Sum_probs=48.6  Template_Neff=7.900
+
+Q LOKIASV2_43680  755 TVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT--G------GS--AE-----LSV  818 (888)
+Q Consensus       755 TVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t--~------gs--~~-----~s~  818 (888)
+                      ...|+.|.+++.+.  . +.  +.|...|.+..   ..+|.+|++.+|+. ......  .      ..  |.     |..
+T Consensus       348 ~S~i~~p~~~~~~~--~-g~--v~i~G~A~~g~---g~~I~~VevS~D~G~tW~~a~l~~~~~~~~~~~~W~~W~~~~~~  419 (466)
+T 3R19_A          348 QSAVTQPRPGAAVP--P-GE--LTVKGYAWSGG---GREVVRVDVSLDGGRTWKVARLMGDKAPPGRAWAWALWELTVPV  419 (466)
+T ss_dssp             EEEEEESCTTCEEC--S-EE--EEEEEEEECST---TCCEEEEEEESBSSSSCEECEEESCCCCTTCCCSCEEEEEEEEE
+T ss_pred             eeEEECCCCCCccC--C-ce--EEEEEEEEeCC---CceEEEEEEEcCCCCceEEeEEcCCCCCCCCCcceEEEEEEecC
+Confidence            34466777776653  2 34  77877776531   13699999999875 232111  0      12  22     323
+
+
+Q LOKIASV2_43680  819 TEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       819 l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ...|.|+|.++|.|.+|++..
+T Consensus       420 ~~~g~~~i~~RA~d~~g~~Qp  440 (466)
+T 3R19_A          420 EAGTELEIVCKAVDSSYNVQP  440 (466)
+T ss_dssp             CTTCEEEEEEEEEETTCCCCC
+T ss_pred             CCCCeEEEEEEEEeCCCCcCC
+Confidence            225899999999999999875
+
+
+No 15
+>5XYR_A Chemokine protease C; Subtilisin like, Cell adhesion, Protease; HET: MSE; 2.8A {Streptococcus pyogenes}
+Probab=76.85  E-value=1.7  Score=58.24  Aligned_cols=30  Identities=20%  Similarity=0.183  Sum_probs=22.8  Template_Neff=9.300
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.|.+++++.|.+||.....+.+.+...
+T Consensus      1098 ~~g~~~~~v~~~D~AGN~~~~~~~~~id~~ 1127 (1647)
+T 5XYR_A         1098 KAKLGDFYYMVEDFAGNVAIAKLGDHLPQT 1127 (1647)
+T ss_dssp             TSCSTTEEEEEEETTSCEEEEETTTTCCSS
+T ss_pred             hhccccEEEEEEeCCCCEEEEEecccCCCc
+Confidence            478999999999999999874444555443
+
+
+No 16
+>2E7M_A Protein KIAA0319; PKD domain, Protein KIAA0319 precursor; NMR {Homo sapiens}
+Probab=72.69  E-value=2.6  Score=39.87  Aligned_cols=28  Identities=14%  Similarity=0.169  Sum_probs=20.8  Template_Neff=8.800
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVND  848 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~  848 (888)
+                      ..|.|.+++.+.| .|......+.|.|..
+T Consensus        78 ~~g~y~f~ltVtD-~g~~~~~~v~vtV~~  105 (113)
+T 2E7M_A           78 SVGLYVFKVTVSS-ENAFGEGFVNVTVKP  105 (113)
+T ss_dssp             CSEEEEECCEEEE-TTEEEECCEEEEEEC
+T ss_pred             CCEEEEEEEEEEc-CCceEEEEEEEEEec
+Confidence            4789999999999 776665556666643
+
+
+No 17
+>4MJ2_A Alpha-L-iduronidase (E.C.3.2.1.76); TIM barrel, beta sandwich, fibronectin; HET: NAG, BMA, SRT, MAN, GOL, TLA; 2.1A {Homo sapiens}
+Probab=72.35  E-value=2.7  Score=49.58  Aligned_cols=18  Identities=17%  Similarity=-0.043  Sum_probs=16.1  Template_Neff=10.500
+
+Q LOKIASV2_43680  822 GDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       822 GtHTIrAVAtD~aGnTAs  839 (888)
+                      ..|..+++|+|..|+.+.
+T Consensus       614 ~~~~~~v~a~d~~g~~~~  631 (653)
+T 4MJ2_A          614 VSGSYRVRALDYWARPGP  631 (653)
+T ss_dssp             CCEEEEEEEEETTSCBCC
+T ss_pred             eEEEEEEEEEeCCCCCCC
+Confidence            678999999999999877
+
+
+No 18
+>3W82_A Alpha-L-iduronidase (E.C.3.2.1.76); TIM barrel, Glycosyl Hydrolase, Glycosylation; HET: TLA, PO4, IDR, FUC, BMA, NAG, MAN; 2.76A {Homo sapiens}
+Probab=71.78  E-value=2.8  Score=49.02  Aligned_cols=18  Identities=17%  Similarity=-0.043  Sum_probs=16.0  Template_Neff=10.600
+
+Q LOKIASV2_43680  822 GDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       822 GtHTIrAVAtD~aGnTAs  839 (888)
+                      ..|.++++|.|..|+.+.
+T Consensus       588 ~~~~~~v~a~d~~g~~~~  605 (627)
+T 3W82_A          588 VSGSYRVRALDYWARPGP  605 (627)
+T ss_dssp             CCEEEEEEEEETTSCBCC
+T ss_pred             eEEEEEEEEEeCCCCCCC
+Confidence            678999999999999877
+
+
+No 19
+>4JPQ_A Uncharacterized protein; Carbohydrate-binding family 9, PF16011, Structural; HET: CXS, SO4; 2.7A {Bacteroides uniformis}
+Probab=68.85  E-value=3.6  Score=42.52  Aligned_cols=70  Identities=14%  Similarity=0.118  Sum_probs=46.6  Template_Neff=9.600
+
+Q LOKIASV2_43680   35 HNTVTIDGMV---GADWMDGNYTVREDPDPTSWGD--EWQLDNLYFALDADGIYIALEALSAGPY------------QNH   97 (888)
+Q Consensus        35 ~n~~~~dg~~---g~dw~~~~~~~~~~pd~~~w~~--~~~l~~l~~~~~~~g~~i~l~~~~ag~~------------~n~   97 (888)
+                      -+.++|||.+   =.+|......   ..+...|++  .-.-...++++|+++|||++++.-.-+.            ...
+T Consensus        13 ~~~~~iDG~~~~~~~~W~~~~~~---~~~~~~~~~~~~~~~t~~~~~~d~~~LYl~~~v~d~~~~~~~~~~~~~~~~~D~   89 (220)
+T 4JPQ_A           13 MCTASPEGEAVPSLLDGNGIEFQ---PLDVVNWKDYPYKPEVSFRIAHTGREILLHYKVKEASVRAVASGDNGRVWEDAC   89 (220)
+T ss_dssp             CCSSCCCGGGHHHHHHHTTCCCE---ECCBCCCTTSCCCCEEEEEEEECSSEEEEEEEEEEEEEEECCCSTTSSGGGSSE
+T ss_pred             eecCCCCCccCccccCcCCCcce---eceecCCCCCCCCCEEEEEEEEcCCEEEEEEEEECCceEEEEeeCCCceeecCe
+Confidence            5679999998   3789775432   222234543  2356788999999999999988543222            234
+
+
+Q LOKIASV2_43680   98 FNVFIDVDQG  107 (888)
+Q Consensus        98 ~~~fid~d~g  107 (888)
+                      +-||||.+..
+T Consensus        90 veifl~~~~~   99 (220)
+T 4JPQ_A           90 VEFFVSPEGD   99 (220)
+T ss_dssp             EEEEEESSSS
+T ss_pred             EEEEEcCCCC
+Confidence            6677877764
+
+
+No 20
+>4JPQ_B Uncharacterized protein; Carbohydrate-binding family 9, PF16011, Structural; HET: SO4, MSE, CXS; 2.7A {Bacteroides uniformis}
+Probab=68.85  E-value=3.6  Score=42.52  Aligned_cols=70  Identities=14%  Similarity=0.118  Sum_probs=46.6  Template_Neff=9.600
+
+Q LOKIASV2_43680   35 HNTVTIDGMV---GADWMDGNYTVREDPDPTSWGD--EWQLDNLYFALDADGIYIALEALSAGPY------------QNH   97 (888)
+Q Consensus        35 ~n~~~~dg~~---g~dw~~~~~~~~~~pd~~~w~~--~~~l~~l~~~~~~~g~~i~l~~~~ag~~------------~n~   97 (888)
+                      -+.++|||.+   =.+|......   ..+...|++  .-.-...++++|+++|||++++.-.-+.            ...
+T Consensus        13 ~~~~~iDG~~~~~~~~W~~~~~~---~~~~~~~~~~~~~~~t~~~~~~d~~~LYl~~~v~d~~~~~~~~~~~~~~~~~D~   89 (220)
+T 4JPQ_B           13 MCTASPEGEAVPSLLDGNGIEFQ---PLDVVNWKDYPYKPEVSFRIAHTGREILLHYKVKEASVRAVASGDNGRVWEDAC   89 (220)
+T ss_dssp             CCSSSCCGGGHHHHHHHTTCCCE---ECCBCCCTTSCCCCEEEEEEEECSSEEEEEEEEEEEEEEECCCSTTSSGGGSSE
+T ss_pred             eecCCCCCccCccccCcCCCcce---eceecCCCCCCCCCEEEEEEEEcCCEEEEEEEEECCceEEEEeeCCCceeecCe
+Confidence            5679999998   3789775432   222234543  2356788999999999999988543222            234
+
+
+Q LOKIASV2_43680   98 FNVFIDVDQG  107 (888)
+Q Consensus        98 ~~~fid~d~g  107 (888)
+                      +-||||.+..
+T Consensus        90 veifl~~~~~   99 (220)
+T 4JPQ_B           90 VEFFVSPEGD   99 (220)
+T ss_dssp             EEEEEECSSS
+T ss_pred             EEEEEcCCCC
+Confidence            6677877764
+
+
+No 21
+>6I6R_B Alpha-L-iduronidase (E.C.3.2.1.76); Iduronidase Inhibitors GH39, HYDROLASE; HET: NAG, H62, BMA, TLA, GOL; 2.02A {Homo sapiens}
+Probab=68.43  E-value=3.8  Score=48.16  Aligned_cols=18  Identities=17%  Similarity=-0.043  Sum_probs=16.0  Template_Neff=10.500
+
+Q LOKIASV2_43680  822 GDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       822 GtHTIrAVAtD~aGnTAs  839 (888)
+                      ..|.++++|.|..|+.+.
+T Consensus       588 ~~~~~~v~a~d~~g~~~~  605 (627)
+T 6I6R_B          588 VSGSYRVRALDYWARPGP  605 (627)
+T ss_dssp             CCEEEEEEEEETTSCBCC
+T ss_pred             eEEEEEEEEEeCCCCCCC
+Confidence            678999999999999877
+
+
+No 22
+>5ZL9_A Chitinase AB; Chitinase, engineered protein, HYDROLASE; HET: GOL; 2.6A {Serratia marcescens}
+Probab=68.20  E-value=3.8  Score=49.45  Aligned_cols=58  Identities=24%  Similarity=0.399  Sum_probs=38.3  Template_Neff=9.100
+
+Q LOKIASV2_43680  777 FTVTWTASDPAEGTFSGLKSVKVYLDAVLM--PEATGGSAE--LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       777 ~TV~aTAsD~~dG~lsGl~~V~l~lDg~~~--~~~t~gs~~--~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      +.|++.++...    .++... ++.++..+  ++....++.  +.....|.|++++++.|.+|+...
+T Consensus        39 v~l~w~~~~~~----~g~~~~-v~~~~~~~~~~~~~~~~~~~~~~~~~~~~y~~~v~a~d~~g~~~~  100 (618)
+T 5ZL9_A           39 VSVSWNLWNGD----TGTTAK-VLLNGKEAWSGPSTGSSGTANFKVNKGGRYQMQVALCNADGCTAS  100 (618)
+T ss_dssp             EEEEEECCSSC----CCSEEE-EEETTEEEEEEECCSSEEEEEEEECSCEEEEEEEEEEETTEEEEC
+T ss_pred             EEEEEEecCCC----CCcEEE-EEECCEEEEeeeccCCceEEEEeecCCeeEEEEEEeecCCCCCcc
+Confidence            67777665421    234445 78888877  443333322  333358999999999999999877
+
+
+No 23
+>5Z7M_A Chitinase (E.C.3.2.1.14); Chitinase, complex, intermediate, HYDROLASE; HET: NAG, GOL, NDG, CBS; 2.0A {Serratia marcescens}
+Probab=66.42  E-value=4.4  Score=47.91  Aligned_cols=58  Identities=24%  Similarity=0.399  Sum_probs=38.4  Template_Neff=9.400
+
+Q LOKIASV2_43680  777 FTVTWTASDPAEGTFSGLKSVKVYLDAVLM--PEATGGSAE--LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       777 ~TV~aTAsD~~dG~lsGl~~V~l~lDg~~~--~~~t~gs~~--~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      +.+++.++...    .++... ++.++..+  ......++.  +.....|.|.+++.+.|.+|+...
+T Consensus        39 v~l~w~~~~~~----~g~~~~-v~~~g~~~~~~~~~~~~~~~~~~~~~~~~y~~~v~a~d~~g~~~~  100 (546)
+T 5Z7M_A           39 VSVSWNLWNGD----TGTTAK-VLLNGKEAWSGPSTGSSGTANFKVNKGGRYQMQVALCNADGCTAS  100 (546)
+T ss_dssp             EEEEEECCSSC----CCSEEE-EEETTEEEEEEECCSSEEEEEEEECSCEEEEEEEEEEETTEEEEC
+T ss_pred             EEEEEEEeCCC----CCcEEE-EEECCEEEEeccccCCceEEEEeecCCeeEEEEEEEecCCCCCCC
+Confidence            66766665421    345566 78788877  443333333  333357899999999999999876
+
+
+No 24
+>5JMB_A Uncharacterized protein; cellulases, HYDROLASE; HET: MSE; 2.05A {Bacteroides coprocola}
+Probab=64.17  E-value=5.2  Score=38.48  Aligned_cols=29  Identities=14%  Similarity=0.101  Sum_probs=22.4  Template_Neff=6.600
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      .|+|++++.+++..|.+......|.|...
+T Consensus        60 ~GtYtVtl~~~~~gG~~~~~s~~V~V~~~   88 (94)
+T 5JMB_A           60 EGKYEVTFGVQTRGGIVYGNPATFTIDSF   88 (94)
+T ss_dssp             CEEEEEEEEEEETTEEEECCCEEEEECSC
+T ss_pred             CeEEEEEEEEEeCCceEEeecEEEEEecC
+Confidence            79999999999999987654555555433
+
+
+No 25
+>1OGP_A SULFITE OXIDASE (E.C.1.8.3.1); OXIDOREDUCTASE, MOLYBDENUM COFACTOR, MOLYBDOPTERIN, PLANT; HET: CS, GOL, MTQ; 2.6A {ARABIDOPSIS THALIANA} SCOP: b.1.18.6, d.176.1.1
+Probab=62.26  E-value=6  Score=46.59  Aligned_cols=77  Identities=16%  Similarity=0.113  Sum_probs=48.3  Template_Neff=7.200
+
+Q LOKIASV2_43680  755 TVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVL-MPEAT---------------GGSAE---  815 (888)
+Q Consensus       755 TVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~-~~~~t---------------~gs~~---  815 (888)
+                      ...|..|.+++.+.  . +.  ++|...|.+..   ..+|.+|++.+|+.. .....               ...|.   
+T Consensus       267 ~S~I~~p~~~~~~~--~-g~--v~i~G~A~~gg---g~~I~~VEVS~DgG~tW~~A~l~~~~~~~~~~~~~~~~~~~W~~  338 (393)
+T 1OGP_A          267 QSAICSVEDVQMVK--P-GK--VSIKGYAVSGG---GRGIERVDISLDGGKNWVEASRTQEPGKQYISEHSSSDKWAWVL  338 (393)
+T ss_dssp             EEEECSSCSEEEEC--S-EE--EEEEEEEECST---TCCEEEEEEESSTTSSCEECEEESSSSSCCCSSSTTSCTTSCEE
+T ss_pred             ccEEEecCCCceec--C-ce--EEEEEEEEcCC---CCceEEEEEEcCCCCCcEEceecCCCCcccccCCCCCCcceEEE
+Confidence            44566777776553  2 34  77877776521   146999999998752 21110               01222   
+
+
+Q LOKIASV2_43680  816 LSV--TEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       816 ~s~--l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      |+.  ...+.|+|.++|.|..|++..
+T Consensus       339 W~~~~~~~~~~~i~~RA~D~~g~~Qp  364 (393)
+T 1OGP_A          339 FEATIDVSQTTEVIAKAVDSAANVQP  364 (393)
+T ss_dssp             EEEEEEESSCEEEEEEEEETTCCBCC
+T ss_pred             EEEEecCCCCEEEEEEEEeCCCCcCC
+Confidence            332  125789999999999999875
+
+
+No 26
+>2Z4T_A Beta-galactoside alpha-2,6-sialyltransferase; GT-B fold, immunoglobulin-like beta-sandwich fold; HET: GOL, LBT, C5P, PO4; 2.5A {Photobacterium sp.}
+Probab=61.64  E-value=6.3  Score=48.37  Aligned_cols=27  Identities=11%  Similarity=0.235  Sum_probs=20.3  Template_Neff=6.400
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAVAEITITVN  847 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAsasVtVTV~  847 (888)
+                      .+++++++.+.|..|.+.+..+.|+|.
+T Consensus        87 d~~~~F~ltvTD~~G~s~s~~v~VtV~  113 (514)
+T 2Z4T_A           87 DEKYCFDFNGVSNKGEKYITKVTLNVV  113 (514)
+T ss_dssp             CEEEEEEEEEEETTCCEEEEEEEEEEE
+T ss_pred             CceEEEEEEEEeCCCCeEEEEEEEEEe
+Confidence            678999999999999776544555443
+
+
+No 27
+>5WA0_D Putative sulfite oxidase (E.C.1.8.3.1); sulfite dehydrogenase, METAL BINDING PROTEIN; HET: MSS; 2.1A {Rhizobium meliloti (strain 1021)}
+Probab=61.56  E-value=6.3  Score=45.99  Aligned_cols=59  Identities=24%  Similarity=0.196  Sum_probs=39.1  Template_Neff=7.200
+
+Q LOKIASV2_43680  777 FTVTWTASDPAEGTFSGLKSVKVYLDAVL-MPEAT-G----GSAE---LSV---TEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       777 ~TV~aTAsD~~dG~lsGl~~V~l~lDg~~-~~~~t-~----gs~~---~s~---l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ++|...+.+..    .+|.+|++.+|+.. ..... .    ..|.   |..   ...|.|.|.++|.|..|++..
+T Consensus       270 v~i~G~A~~g~----~~I~~VEvS~D~G~tW~~A~l~~~~~~~~aW~~W~~~~~~~~G~~~i~~RA~D~~G~~Qp  340 (365)
+T 5WA0_D          270 VQIAGVAFGGM----NACKSVEVSVDGGQTWQEAEFIGPDLGRFAWRVFALSADLARGTYTLVSRATDTEGNVQP  340 (365)
+T ss_dssp             EEEEEEEEBTT----BCEEEEEEESBTTSSCEEEEEESCCCCTTSCEEEEEEEEECSEEEEEEEEEEETTSCBCC
+T ss_pred             EEEEEEEECCC----CceeEEEEEcCCCCceEEeEEeCCCccCceeEEEEEEEEcCCceEEEEEEEEeCCCCcCC
+Confidence            77777766432    57999999998753 32211 0    1222   221   136999999999999999875
+
+
+No 28
+>3ARX_A Chitinase A (E.C.3.2.1.14); TIM BARREL, INHIBITOR COMPLEX, GLYCOSIDASE; HET: POY; 1.16A {Vibrio harveyi}
+Probab=60.70  E-value=6.7  Score=47.43  Aligned_cols=52  Identities=29%  Similarity=0.449  Sum_probs=34.5  Template_Neff=8.800
+
+Q LOKIASV2_43680  795 KSVKVYLDAVLMPEAT--GGSAE--LSVTEGGDHVIRIVAEDDTGNTAVAEITITV  846 (888)
+Q Consensus       795 ~~V~l~lDg~~~~~~t--~gs~~--~s~l~~GtHTIrAVAtD~aGnTAsasVtVTV  846 (888)
+                      ..++++.++..+.+..  .....  +.....|.|+++++++|.+|+.......|++
+T Consensus        55 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~y~~~~~a~d~~G~~~~~~~~v~~  110 (584)
+T 3ARX_A           55 DTYNVYFDGVKVATGAITGSQTTASFEYGQGGLYQMEIEACDATGCSKSAPVEITI  110 (584)
+T ss_dssp             SEEEEEETTEEEEEEECCTTEEEEEEEECCCEEEEEEEEEEETTEEEECCCEEEEE
+T ss_pred             ceEEEEECCEEEEEeeeeccceEEEEEecCCeEEEEEEEEecCCCCCCCCCeEEEE
+Confidence            5678888988775432  11111  3333579999999999999998763334444
+
+
+No 29
+>3ARV_A Chitinase A (E.C.3.2.1.14); TIM BARREL, INHIBITOR COMPLEX, GLYCOSIDASE; HET: GOL, SAU; 1.5A {Vibrio harveyi}
+Probab=60.70  E-value=6.7  Score=47.43  Aligned_cols=52  Identities=29%  Similarity=0.449  Sum_probs=34.5  Template_Neff=8.800
+
+Q LOKIASV2_43680  795 KSVKVYLDAVLMPEAT--GGSAE--LSVTEGGDHVIRIVAEDDTGNTAVAEITITV  846 (888)
+Q Consensus       795 ~~V~l~lDg~~~~~~t--~gs~~--~s~l~~GtHTIrAVAtD~aGnTAsasVtVTV  846 (888)
+                      ..++++.++..+.+..  .....  +.....|.|+++++++|.+|+.......|++
+T Consensus        55 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~y~~~~~a~d~~G~~~~~~~~v~~  110 (584)
+T 3ARV_A           55 DTYNVYFDGVKVATGAITGSQTTASFEYGQGGLYQMEIEACDATGCSKSAPVEITI  110 (584)
+T ss_dssp             SEEEEEETTEEEEEEECCTTEEEEEEEECCCEEEEEEEEEEETTEEEECCCEEEEE
+T ss_pred             ceEEEEECCEEEEEeeeeccceEEEEEecCCeEEEEEEEEecCCCCCCCCCeEEEE
+Confidence            5678888988775432  11111  3333579999999999999998763334444
+
+
+No 30
+>1FFR_A CHITINASE A (E.C. 3.2.1.14) (MUTANT; TIM BARREL, PROTEIN-OLIGOSACCHARIDE COMPLEX, HYDROLASE; HET: NAG; 1.8A {Serratia marcescens} SCOP: c.1.8.5, b.1.18.2, d.26.3.1
+Probab=60.16  E-value=6.9  Score=46.30  Aligned_cols=58  Identities=24%  Similarity=0.399  Sum_probs=37.8  Template_Neff=9.400
+
+Q LOKIASV2_43680  777 FTVTWTASDPAEGTFSGLKSVKVYLDAVLM--PEATGGSAE--LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       777 ~TV~aTAsD~~dG~lsGl~~V~l~lDg~~~--~~~t~gs~~--~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      +.+++.++...    .++... ++.++..+  ......++.  +.....|.|.+++.+.|.+|+...
+T Consensus        39 v~l~w~~s~~~----~g~~~y-v~~~g~~~~~~~~~~~~~~~~~~~~~~~~y~~~v~a~d~~g~~~~  100 (540)
+T 1FFR_A           39 VSVSWNLWNGD----TGTTAK-VLLNGKEAWSGPSTGSSGTANFKVNKGGRYQMQVALCNADGCTAS  100 (540)
+T ss_dssp             EEEEEECCSSC----CCSEEE-EEETTEEEEEEECCSSEEEEEEEECSCEEEEEEEEEEETTEEEEC
+T ss_pred             EEEEEEEecCC----CCcEEE-EEECCEEEEeeeccCCceEEEEeecCCeeEEEEEEEecCCCCCCC
+Confidence            66666655421    345566 78888877  443332322  222347899999999999999876
+
+
+No 31
+>2BIH_A NITRATE REDUCTASE [NADPH] (E.C.1.7.1.2); FLAVOPROTEIN, NITRATE ASSIMILATION, OXIDOREDUCTASE; HET: MTV; 2.6A {PICHIA ANGUSTA}
+Probab=58.73  E-value=7.6  Score=47.27  Aligned_cols=77  Identities=14%  Similarity=0.074  Sum_probs=28.6  Template_Neff=6.300
+
+Q LOKIASV2_43680  756 VSITAPADGDTFDWTS-GDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVL-MPEA-----T------------------  810 (888)
+Q Consensus       756 VsITaPADGatf~~Ts-G~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~-~~~~-----t------------------  810 (888)
+                      -.|+.|..++.+.  . ++.  ++|+..|.+..   +.+|.+|++.+|+.. ....     .                  
+T Consensus       295 S~I~~P~~~~~v~--~~~~~--v~i~GyA~sGg---gr~I~RVEVS~DgG~TW~~A~L~~~~~~~~~~~~~~~~~~~~~~  367 (474)
+T 2BIH_A          295 TIICKPENQQVIK--ISEDE--YEIAGFGYNGG---GVRIGRIEVSLDKGKSWKLADIDYPEDRYREAGYFRLFGGLVNV  367 (474)
+T ss_dssp             ---------------------------CEECST---TCCEEEEEEESSSSSSCEECEEECTHHHHHHTCCEEETTECCS-
+T ss_pred             ceEEcCCCCCEEe--CCCCe--EEEEEEEECCC---CCceEEEEEECCCCCCcEEcEecCCCCcccCCCCCCCCCCcccc
+Confidence            3467777776653  2 234  77887776531   136999999998752 2110     0                  
+
+
+Q LOKIASV2_43680  811 ---GGSAE---LS----VTE-GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       811 ---~gs~~---~s----~l~-~GtHTIrAVAtD~aGnTAs  839 (888)
+                         ...|.   |+    ... .|.|+|.++|.|..||+..
+T Consensus       368 ~~~~~~~aW~~W~~~~~~~~~~g~~~I~~RA~D~~gntQP  407 (474)
+T 2BIH_A          368 CDRMSCLCWCFWKLKVPLSELARSKDILIRGMDERMMVQP  407 (474)
+T ss_dssp             --------CEEECSE-----------EEEEEEETTCCBCC
+T ss_pred             CCCCCcceeEEEEEEeCCCCCCCcEEEEEEEEeCCCCcCC
+Confidence               01222   33    212 5899999999999999874
+
+
+No 32
+>6NZ0_Z Dyslexia-associated protein KIAA0319-like protein, Capsid; AAV, AAVR, receptor, coreceptor, VIRUS; 2.4A {Homo sapiens}
+Probab=58.61  E-value=7.7  Score=38.69  Aligned_cols=16  Identities=13%  Similarity=0.260  Sum_probs=12.4  Template_Neff=12.300
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTG  835 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aG  835 (888)
+                      ..|.|++++.+.|..+
+T Consensus        66 ~~g~y~v~~~~~~~~~   81 (290)
+T 6NZ0_Z           66 TPGLYEFKVIVEGQNA   81 (290)
+T ss_pred             CCeEEEEEEEEEcCCC
+Confidence            4789999998888443
+
+
+No 33
+>1Q55_A EP-cadherin, ectodomain; CADHERIN  TRANS INTERACTION ; HET: NAG, CA, NDG; 30.0A {Mus musculus} SCOP: i.20.1.1
+Probab=55.73  E-value=9.3  Score=47.32  Aligned_cols=29  Identities=24%  Similarity=0.320  Sum_probs=21.3  Template_Neff=10.300
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      .|.|.|.+++.|..+......++|.|..-
+T Consensus       659 ~~~~~~~v~v~D~~~~~~~~~~~v~v~~~  687 (880)
+T 1Q55_A          659 KGDYSIYVLLSDAQNNPQLTVVNATVCSC  687 (880)
+T ss_dssp             SSCBCCEEECCSSSCCCEEEECCEEECSC
+T ss_pred             CeEEEEEEEEEeCCCCCceeEEEEEEEeC
+Confidence            58899999999998876555555555433
+
+
+No 34
+>3B9E_A Chitinase A (E.C.3.2.1.14); TIM-barrel, Glycosidase, Hydrolase; 1.7A {Vibrio harveyi}
+Probab=55.00  E-value=9.7  Score=46.13  Aligned_cols=53  Identities=28%  Similarity=0.439  Sum_probs=34.3  Template_Neff=8.800
+
+Q LOKIASV2_43680  795 KSVKVYLDAVLMPEAT--GGSAE--LSVTEGGDHVIRIVAEDDTGNTAVAEITITVN  847 (888)
+Q Consensus       795 ~~V~l~lDg~~~~~~t--~gs~~--~s~l~~GtHTIrAVAtD~aGnTAsasVtVTV~  847 (888)
+                      ..++++.++..+.+..  .....  +.....|.|++++++.|.+|+.......|++.
+T Consensus        55 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~y~~~~~a~d~~G~~~~~~~~v~v~  111 (584)
+T 3B9E_A           55 DTYNVYFDGVKVATGAITGSQTTASFEYGQGGLYQMEIEACDATGCSKSAPVEITIA  111 (584)
+T ss_dssp             SEEEEEETTEEEEEEECCTTEEEEEEEECCCEEEEEEEEEECSSCEEECCCEEEEEE
+T ss_pred             ceEEEEECCEEEEEeeeeccceEEEEEecCCeEEEEEEEEecCCCCCCCCCeEEEEe
+Confidence            4677888887764332  11111  33335899999999999999987733444443
+
+
+No 35
+>4M02_A Serine-rich adhesin for platelets; All beta, Unknown Function, Calcium; 1.59A {Staphylococcus aureus}
+Probab=54.58  E-value=10  Score=41.64  Aligned_cols=32  Identities=25%  Similarity=0.350  Sum_probs=23.0  Template_Neff=6.100
+
+Q LOKIASV2_43680  816 LSVTEGGDHVIRIVAEDDTGNTAVAEITITVN  847 (888)
+Q Consensus       816 ~s~l~~GtHTIrAVAtD~aGnTAsasVtVTV~  847 (888)
+                      |.+...|.+.+++++.|..|......+.+.|.
+T Consensus       170 GTPt~~GtytvTVtaTD~~G~tat~tftitV~  201 (204)
+T 4M02_A          170 GTPTKIGQSTVTVVSTDQANNKSTTTFTINVV  201 (204)
+T ss_dssp             ECCCSCEEEEEEEEEEETTCCEEEEEEEEEEE
+T ss_pred             cccCCCEEEEEEEEEEeCCCCeEEEEEEEEEe
+Confidence            34435799999999999998765555555543
+
+
+No 36
+>5K3X_B Putative sulfite oxidase (E.C.1.8.3.1); sulfite dehydrogenase, electron transfer, SUOX-fold; HET: MSS, GOL; 1.6A {Rhizobium meliloti}
+Probab=53.11  E-value=11  Score=44.25  Aligned_cols=58  Identities=24%  Similarity=0.185  Sum_probs=39.2  Template_Neff=7.100
+
+Q LOKIASV2_43680  777 FTVTWTASDPAEGTFSGLKSVKVYLDAVL-MPEAT-G----GSAE-------LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       777 ~TV~aTAsD~~dG~lsGl~~V~l~lDg~~-~~~~t-~----gs~~-------~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ++|...+.+..    .+|.+|++.+|+.. ..... .    ..|.       |.. ..|.|.|.++|.|..|++..
+T Consensus       274 v~i~G~A~~g~----~~I~~VEvS~DgG~tW~~a~l~~~~~~~~aW~~W~~~~~~-~~G~~~i~~RA~d~~g~~Qp  344 (369)
+T 5K3X_B          274 VQIAGVAFGGM----NACKSVEVSVDGGQTWQEAEFIGPDLGRFAWRVFALSADL-ARGTYTLVSRATDTEGNVQP  344 (369)
+T ss_dssp             EEEEEEEEBTT----BCEEEEEEESBTTSSCEECEEESCCCCTTSCEEEEEEEEE-CSEEEEEEEEEEETTSCBCC
+T ss_pred             EEEEEEEEcCC----CceeEEEEEeCCCCCeEEeEEeCCCccCcceEEEEEEEEc-cCceEEEEEEEEeCCCCcCC
+Confidence            77777776532    57999999998753 22211 0    1222       323 36999999999999999875
+
+
+No 37
+>6JCS_R Capsid protein, Dyslexia-associated protein KIAA0319-like; adeno-associated virus, AAV5, receptor, AAVR;{Adeno-associated virus - 5}
+Probab=52.18  E-value=12  Score=33.51  Aligned_cols=26  Identities=15%  Similarity=0.249  Sum_probs=17.9  Template_Neff=10.000
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITV  846 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV  846 (888)
+                      ..|.|++++.+.| .|......+.|.+
+T Consensus        69 ~~g~y~~~l~vtd-~~~~~~~~v~v~v   94 (97)
+T 6JCS_R           69 TPGLYEFKVIVEG-QNAHGEGYVNVTV   94 (97)
+T ss_pred             CCEEEEEEEEEEc-CCceEEEEEEEEE
+Confidence            4689999999999 6655444455544
+
+
+No 38
+>6NFR_A CopC; CopC, metallochaperone, copper binding, METAL; HET: SO4; 1.0A {Pseudomonas fluorescens}
+Probab=51.45  E-value=12  Score=35.93  Aligned_cols=28  Identities=14%  Similarity=0.069  Sum_probs=21.1  Template_Neff=8.900
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVN  847 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~  847 (888)
+                      ..|.|+++.++...+|+..+..+.+++.
+T Consensus        93 ~~G~Y~V~~~~~s~DGh~~~g~~~F~v~  120 (122)
+T 6NFR_A           93 AAGNYKVVWNAVSVDTFKSNGEYSFKVK  120 (122)
+T ss_pred             CCcEEEEEEEEEcCCCCeeeeEEEEEEc
+Confidence            4789999998888888876644666553
+
+
+No 39
+>2BII_A NITRATE REDUCTASE [NADPH] (E.C.1.7.1.2); FAD, FLAVOPROTEIN, HEME, MOLYBDENUM, NADP; HET: GOL, SO4, MTV; 1.7A {PICHIA ANGUSTA}
+Probab=50.69  E-value=13  Score=44.73  Aligned_cols=78  Identities=14%  Similarity=0.073  Sum_probs=48.6  Template_Neff=6.700
+
+Q LOKIASV2_43680  755 TVSITAPADGDTFDWTS-GDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEA-----T-----------------  810 (888)
+Q Consensus       755 TVsITaPADGatf~~Ts-G~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~-----t-----------------  810 (888)
+                      .-.|+.|.+++.+.  . ++.  ++|+..|.+..   ..+|.+|++.+|+. .....     .                 
+T Consensus       244 nS~I~~P~~~~~v~--~~~~~--v~i~GyA~sGg---g~~I~rVEVS~DgG~tW~~A~l~~~~~~~~~~~~~~~~~~~~~  316 (424)
+T 2BII_A          244 QTIICKPENQQVIK--ISEDE--YEIAGFGYNGG---GVRIGRIEVSLDKGKSWKLADIDYPEDRYREAGYFRLFGGLVN  316 (424)
+T ss_dssp             EEEEEESCTTCEEE--CCSCE--EEEEEEEECST---TCCEEEEEEESSTTSSCEECEEECTHHHHHHTCSEEETTEEEC
+T ss_pred             ceEEEecCCCcEEE--ecCCe--EEEEEEEECCC---CCeeEEEEEECCCCCCcEEceecCChhHhhhhccccccCcccc
+Confidence            34577777776654  2 234  77887776531   13699999999864 22110     0                 
+
+
+Q LOKIASV2_43680  811 ----GGSAE---LS----VTE-GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       811 ----~gs~~---~s----~l~-~GtHTIrAVAtD~aGnTAs  839 (888)
+                          ...|.   |+    ... .|.|+|.++|.|.+||+..
+T Consensus       317 ~~~~~~~~~W~~W~~~~~~~~~~g~~~i~~RA~D~~gn~QP  357 (424)
+T 2BII_A          317 VCDRMSCLCWCFWKLKVPLSELARSKDILIRGMDERMMVQP  357 (424)
+T ss_dssp             GGGCCCCCSCEEEEEEEEHHHHHTCSEEEEEEEETTCCBCC
+T ss_pred             ccccccceeeEEEEEEEcHhHhcCCEEEEEEEEeCCCCcCC
+Confidence                01222   33    212 4899999999999999875
+
+
+No 40
+>6JCQ_R Capsid protein, Dyslexia-associated protein KIAA0319-like; adeno-associated virus, AAV1, receptor, AAVR;{Homo sapiens}
+Probab=50.11  E-value=13  Score=31.06  Aligned_cols=25  Identities=16%  Similarity=0.276  Sum_probs=17.9  Template_Neff=11.500
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITI  844 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtV  844 (888)
+                      ..|.|.+++.+.|..|......+.|
+T Consensus        63 ~~g~~~~~~~v~d~~g~~~~~~~~v   87 (91)
+T 6JCQ_R           63 VPGNYTFSLTVVDSDGATNSTTANL   87 (91)
+T ss_dssp             CSSEEEEEEEEEESSCCEEEEEEEE
+T ss_pred             CCEEEEEEEEEEcCCCCEEeEEEEE
+Confidence            3688999999999887765433333
+
+
+No 41
+>2X2Y_A MAN26A (E.C.3.2.1.78); CLAN GH-A, FAMILY 26, HYDROLASE; HET: FMT; 2.35A {CELLULOMONAS FIMI}
+Probab=49.84  E-value=13  Score=45.08  Aligned_cols=80  Identities=25%  Similarity=0.279  Sum_probs=45.0  Template_Neff=6.900
+
+Q LOKIASV2_43680  749 ADTTDPTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVL-----MP-EATGGS-AE--LSVT  819 (888)
+Q Consensus       749 ~DttpPTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~-----~~-~~t~gs-~~--~s~l  819 (888)
+                      +....|-+.|.+|.+++++.  . ..  ++|++.+...     . ..+|.+.+++..     +. ...... |.  |.+.
+T Consensus       368 ~~~~~~~~~~~~p~~~~~~~--~-~~--~~~~~~v~~~-----~-~~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  436 (475)
+T 2X2Y_A          368 AAPAQPVVHIASPADGARVA--S-AP--TTVRVRVGGT-----D-VQSVTVEVAQGGTVVDTLDLAYDGALWWTAPWSPT  436 (475)
+T ss_dssp             ECCCCCEEEEEESCTTCCC------C--EEEEEEEESS-----C-EEEEEEEEEC--CEEEEEECEECSSSCEEEEECC-
+T ss_pred             cCCCCCeeEEEecCCCCeec--c-CC--EEEEEEEecC-----C-CceEEEEECCCCeEEEEEEEecCCCceeEceecCC
+Confidence            34445778899999888764  2 22  5555555432     1 126777777754     11 111112 33  5532
+
+
+Q LOKIASV2_43680  820 ----EGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       820 ----~~GtHTIrAVAtD~aGnTAs  839 (888)
+                          ..|.++|++++++.+|....
+T Consensus       437 ~~~~~~~~~~l~v~~~~~~~~~~~  460 (475)
+T 2X2Y_A          437 SAQLDNSTYTVTATATTAAGTLDV  460 (475)
+T ss_dssp             ------CCEEEEEEEEETTEEEEE
+T ss_pred             hhhcCCCeEEEEEEEEcCCCeEEE
+Confidence                37899999999998877655
+
+
+No 42
+>2YRL_A KIAA1837 protein; PKD domain, KIAA1837 protein, NPPSFA; NMR {Homo sapiens}
+Probab=47.20  E-value=16  Score=31.55  Aligned_cols=27  Identities=15%  Similarity=0.313  Sum_probs=19.0  Template_Neff=11.300
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAVAEITITVN  847 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAsasVtVTV~  847 (888)
+                      .|.|.+++.+.|..|+.....+.|.+.
+T Consensus        68 ~g~~~~~l~vtd~~g~~~~~~~~v~v~   94 (102)
+T 2YRL_A           68 VGTYVFTLTVKDERNLQSQSSVNVIVK   94 (102)
+T ss_dssp             SSEEEEEEEEEBTTCCEEEEEEEEEEE
+T ss_pred             CEEEEEEEEEEeCCCCeEeeEEEEEEe
+Confidence            578888988888877765544555543
+
+
+No 43
+>1EDQ_A CHITINASE A (E.C. 3.2.1.14); BETA-ALPHA (TIM) BARREL, HYDROLASE; 1.55A {Serratia marcescens} SCOP: b.1.18.2, d.26.3.1, c.1.8.5
+Probab=46.86  E-value=16  Score=43.37  Aligned_cols=45  Identities=24%  Similarity=0.329  Sum_probs=28.3  Template_Neff=9.500
+
+Q LOKIASV2_43680  794 LKSVKVYLDAVLM--PEATGGSAE--LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       794 l~~V~l~lDg~~~--~~~t~gs~~--~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      +... ++.++..+  ......++.  +.....|.|.+++.+.|.+|+...
+T Consensus        52 ~~~y-v~~~g~~~~~~~~~~~~~~~~~~~~~~g~y~~~v~a~d~~G~~~~  100 (540)
+T 1EDQ_A           52 TTAK-VLLNGKEAWSGPSTGSSGTANFKVNKGGRYQMQVALCNADGCTAS  100 (540)
+T ss_dssp             SEEE-EEETTEEEEEEECCSSEEEEEEEECSCEEEEEEEEEEETTEEEEC
+T ss_pred             cEEE-EEECCEEEEEeeccCCceEEEEeecCCeeEEEEEEeecCCCCCCC
+Confidence            3344 56666555  332222222  233358999999999999999765
+
+
+No 44
+>3TP4_A computational Design of Enzyme; Structural Genomics, PSI-Biology, Protein Structure; HET: MSE; 1.979A {synthetic construct}
+Probab=44.22  E-value=19  Score=43.88  Aligned_cols=79  Identities=22%  Similarity=0.203  Sum_probs=44.9  Template_Neff=7.000
+
+Q LOKIASV2_43680  750 DTTDPTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVL-----MPE-ATGGS-AE--LSV--  818 (888)
+Q Consensus       750 DttpPTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~-----~~~-~t~gs-~~--~s~--  818 (888)
+                      ....|...|.+|.++.++.   ...  ++|++.+...     ... +|.+.+++..     +.- ..... |.  |.+  
+T Consensus       369 ~~~~~~~~~~~p~~~~~~~---~~~--~~~~~~v~~~-----~~~-~v~~~~~~~~~~~~~~~~~~~~~~~~~~~w~~~~  437 (475)
+T 3TP4_A          369 APAQPVVHIASPADGARVA---SAP--TTVRVRVGGT-----DVQ-SVTVEVAQGGTVVDTLDLAYDGALWWTAPWSPTS  437 (475)
+T ss_dssp             CCCCCEEEEEESCTTCEEC---SSS--EEEEEEEESS-----CEE-EEEEEEEETTEEEEEEECEECSSSCEEEEECCC-
+T ss_pred             CCCCCeeEEEecCCCceec---CCC--EEEEEEEeCC-----Ccc-eEEEEECCCCeEEEEEEeecCCCceeEceecCCh
+Confidence            3445777899998887764   222  5555555442     122 6788888754     111 11112 33  553  
+
+
+Q LOKIASV2_43680  819 --TEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       819 --l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                        ...|.++|++++++.+|....
+T Consensus       438 ~~~~~~~~~l~v~~~~~~~~~~~  460 (475)
+T 3TP4_A          438 AQLDNSTYTVTATATTAAGTLDV  460 (475)
+T ss_dssp             -------CEEEEEEEETTEEEEE
+T ss_pred             hhcCCCeEEEEEEEEcCCCeEEE
+Confidence              237899999999998887655
+
+
+No 45
+>3TP4_B computational Design of Enzyme; Structural Genomics, PSI-Biology, Protein Structure; 1.979A {synthetic construct}
+Probab=44.22  E-value=19  Score=43.88  Aligned_cols=79  Identities=22%  Similarity=0.203  Sum_probs=47.4  Template_Neff=7.000
+
+Q LOKIASV2_43680  750 DTTDPTVSITAPADGDTFDWTSGDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAVL-----MPE-ATGGS-AE--LSV--  818 (888)
+Q Consensus       750 DttpPTVsITaPADGatf~~TsG~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~~-----~~~-~t~gs-~~--~s~--  818 (888)
+                      ....|...|.+|.++.++.   ...  ++|++.+...     ... +|.+.+++..     +.- ..... |.  |.+  
+T Consensus       369 ~~~~~~~~~~~p~~~~~~~---~~~--~~~~~~v~~~-----~~~-~v~~~~~~~~~~~~~~~~~~~~~~~~~~~w~~~~  437 (475)
+T 3TP4_B          369 APAQPVVHIASPADGARVA---SAP--TTVRVRVGGT-----DVQ-SVTVEVAQGGTVVDTLDLAYDGALWWTAPWSPTS  437 (475)
+T ss_dssp             CCCCCEEEEEESCTTCEEC---SSC--EEEEEEEESS-----CEE-EEEEEEESSSSEEEEEECEECSSSCEEEEECCCC
+T ss_pred             CCCCCeeEEEecCCCceec---CCC--EEEEEEEeCC-----Ccc-eEEEEECCCCeEEEEEEeecCCCceeEceecCCh
+Confidence            3445777899998887764   222  5555555442     122 6788888754     111 11112 33  553  
+
+
+Q LOKIASV2_43680  819 --TEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       819 --l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                        ...|.++|++++++.+|....
+T Consensus       438 ~~~~~~~~~l~v~~~~~~~~~~~  460 (475)
+T 3TP4_B          438 AQLDNSTYTVTATATTAAGTLDV  460 (475)
+T ss_dssp             ----CCEEEEEEEEEETTEEEEE
+T ss_pred             hhcCCCeEEEEEEEEcCCCeEEE
+Confidence              237899999999998887655
+
+
+No 46
+>1I8U_A ENDO-1,4-BETA-XYLANASE A (E.C.3.2.1.8); CBM9-2, CELLULOSE BINDING DOMAIN, HYDROLASE; 1.9A {Thermotoga maritima} SCOP: b.1.9.2
+Probab=44.11  E-value=19  Score=36.72  Aligned_cols=72  Identities=17%  Similarity=0.225  Sum_probs=47.4  Template_Neff=9.500
+
+Q LOKIASV2_43680   34 THNTVTIDGMVGADWMDGNYTVREDPDPTSWGD--EWQLDNLYFALDADGIYIALEALSAGPY--------QNHFNVFID  103 (888)
+Q Consensus        34 ~~n~~~~dg~~g~dw~~~~~~~~~~pd~~~w~~--~~~l~~l~~~~~~~g~~i~l~~~~ag~~--------~n~~~~fid  103 (888)
+                      ..+.++|||..-..|..-....   .....|+.  .=.=..+++++|+++||+.+++.-..+.        ..++-||||
+T Consensus         6 ~~~~~~iDG~~~d~W~~~~~~~---~~~~~~g~~~~~~~~~~~~~~d~~~Ly~~~~v~d~~~~~~~~~~~~~D~vev~ld   82 (189)
+T 1I8U_A            6 KYGTPVIDGEIDEIWNTTEEIE---TKAVAMGSLDKNATAKVRVLWDENYLYVLAIVKDPVLNKDNSNPWEQDSVEIFID   82 (189)
+T ss_dssp             EECCCCSSSSCCGGGGGSCEEE---CCEEEESCTTTSCEEEEEEEECSSEEEEEEEEECSSCCCCSSSGGGSSEEEEEEE
+T ss_pred             cCCCCccCCccchHhhcCcccc---cceeeeccCCCCCeEEEEEEEcCCeEEEEEEEECcccCCCCCCccccCEEEEEEc
+Confidence            3577899999954498655321   11111221  1123568899999999999998776543        345779999
+
+
+Q LOKIASV2_43680  104 VDQGA  108 (888)
+Q Consensus       104 ~d~g~  108 (888)
+                      ++...
+T Consensus        83 ~~~~~   87 (189)
+T 1I8U_A           83 ENNHK   87 (189)
+T ss_dssp             TTCCC
+T ss_pred             CCCCC
+Confidence            98875
+
+
+No 47
+>2XTS_A SULFITE DEHYDROGENASE (E.C.1.8.2.1), CYTOCHROME; OXIDOREDUCTASE-ELECTRON TRANSPORT COMPLEX, SOX SYSTEM; HET: HEC, GOL, MTE; 1.33A {PARACOCCUS PANTOTROPHUS}
+Probab=41.20  E-value=22  Score=42.48  Aligned_cols=74  Identities=19%  Similarity=0.210  Sum_probs=46.1  Template_Neff=6.400
+
+Q LOKIASV2_43680  757 SITAPADGDTFDWTS-GDSYSFTVTWTASDPAEGTFSGLKSVKVYLDAV-LMPEAT------GGSAE-----LSVTEGGD  823 (888)
+Q Consensus       757 sITaPADGatf~~Ts-G~s~s~TV~aTAsD~~dG~lsGl~~V~l~lDg~-~~~~~t------~gs~~-----~s~l~~Gt  823 (888)
+                      .|+.|..+..+.  . .+.  +.|...+.+..    ..|.+|++.+|+. ......      ...|.     |.. ..|.
+T Consensus       267 ~I~~P~~~~~~~--~~~g~--~~i~G~A~sG~----g~I~~VEVS~DgG~tW~~A~l~~~~~~~aW~~w~~~~~~-~~g~  337 (390)
+T 2XTS_A          267 VITSPSPQVPIR--HGKGP--LVISGLAWSGN----GRITRVDVSLDGGKNWTTARITGQALPKALTRFHLDIDW-DGSE  337 (390)
+T ss_dssp             EEEESBTTBCCC--SCSEE--EEEEEEEECTT----SCEEEEEEESBTTSSCEECEEESCCCTTSCEEEEEEEEE-CSCC
+T ss_pred             EEEcCCCCCcee--cCCcc--EEEEEEEEeCC----CceEEEEEEcCCCCCcEEeEEcCCCCCCCeEEEEEEeeC-CCCe
+Confidence            456666554432  1 233  67777776542    5699999999974 222111      11122     222 2589
+
+
+Q LOKIASV2_43680  824 HVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       824 HTIrAVAtD~aGnTAs  839 (888)
+                      |.|.+||.|..|++..
+T Consensus       338 ~~l~sRA~D~~G~~QP  353 (390)
+T 2XTS_A          338 MLLQSRAVDETGYVQP  353 (390)
+T ss_dssp             EEEEEEEEETTCCBCC
+T ss_pred             EEEEEEEEeCCCCcCC
+Confidence            9999999999999874
+
+
+No 48
+>1I8A_A ENDO-1,4-BETA-XYLANASE A (E.C.3.2.1.8); FAM9-2 CARBOHYDRATE BINDING MODULE, GLUCOSE; HET: BGC; 1.9A {Thermotoga maritima} SCOP: b.1.9.2
+Probab=40.59  E-value=23  Score=36.00  Aligned_cols=72  Identities=17%  Similarity=0.224  Sum_probs=47.5  Template_Neff=9.600
+
+Q LOKIASV2_43680   34 THNTVTIDGMVGADWMDGNYTVREDPDPTSWGD--EWQLDNLYFALDADGIYIALEALSAGPY--------QNHFNVFID  103 (888)
+Q Consensus        34 ~~n~~~~dg~~g~dw~~~~~~~~~~pd~~~w~~--~~~l~~l~~~~~~~g~~i~l~~~~ag~~--------~n~~~~fid  103 (888)
+                      ..+.++|||..-..|..-+..- .  ....|+.  .=.=..+++++|+++||+++++.-..+.        ..++-||||
+T Consensus         6 ~~~~~~iDG~~~d~W~~~~~~~-~--~~~~~g~~~~~~~~~~~~~~d~~~Ly~~~~v~D~~~~~~~~~~~~~D~vei~l~   82 (189)
+T 1I8A_A            6 KYGTPVIDGEIDEIWNTTEEIE-T--KAVAMGSLDKNATAKVRVLWDENYLYVLAIVKDPVLNKDNSNPWEQDSVEIFID   82 (189)
+T ss_pred             cCCCCccCCccCHHHhhCCCCC-C--CCCCCCCCCCCCcEEEEEEEcCCeEEEEEEEEcCCCCCCCCccccccEEEEEEc
+Confidence            3577899999953498655421 1  1111221  1134568899999999999998776443        345779999
+
+
+Q LOKIASV2_43680  104 VDQGA  108 (888)
+Q Consensus       104 ~d~g~  108 (888)
+                      +++..
+T Consensus        83 ~~~~~   87 (189)
+T 1I8A_A           83 ENNHK   87 (189)
+T ss_pred             CCCCC
+Confidence            98875
+
+
+No 49
+>6NFQ_B CopC; CopC, metallochaperone, copper binding, METAL; 2.0A {Pseudomonas fluorescens}
+Probab=40.25  E-value=24  Score=33.94  Aligned_cols=28  Identities=14%  Similarity=0.120  Sum_probs=21.1  Template_Neff=9.000
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVN  847 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~  847 (888)
+                      ..|.|+++.++...+|+..+..+.+++.
+T Consensus        93 ~~G~YtV~~~~~s~dGh~~~g~~~F~v~  120 (122)
+T 6NFQ_B           93 AAGNYKVVWNAVSVDTHKSNGEYSFKVK  120 (122)
+T ss_dssp             CSEEEEEEEEEEBTTSCEEEEEEEEEEC
+T ss_pred             CCcEEEEEEEEEcCCCCeeeeEEEEEEc
+Confidence            4789999998888888776644666554
+
+
+No 50
+>4M03_A Serine-rich adhesin for platelets; All beta, Unknown Function, Calcium; 2.24A {Staphylococcus aureus}
+Probab=40.20  E-value=24  Score=36.45  Aligned_cols=29  Identities=28%  Similarity=0.457  Sum_probs=19.5  Template_Neff=9.700
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      .|.+++++.+.|..|......+.|.+..+
+T Consensus        93 ~g~~~~~v~atd~~g~s~~~~~~v~v~~n  121 (210)
+T 4M03_A           93 IGQSTVTVVSTDQANNKSTTTFTINVVDT  121 (210)
+T ss_dssp             CEEEEEEEEEECTTCCEEEEEEEEEEECC
+T ss_pred             CeEEEEEEEEEcCCCCeEEEEEEEEEcCC
+Confidence            67888888888887765544555555444
+
+
+No 51
+>2YHG_A CELLULOSE-BINDING PROTEIN; HYDROLASE, GLYCOSIDE HYDROLASE; HET: EDO, BTB; 1.08A {SACCHAROPHAGUS DEGRADANS}
+Probab=39.98  E-value=24  Score=42.29  Aligned_cols=13  Identities=31%  Similarity=0.429  Sum_probs=10.3  Template_Neff=7.500
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDD  833 (888)
+Q Consensus       821 ~GtHTIrAVAtD~  833 (888)
+                      .+++.|++++.|.
+T Consensus       409 ~~~~~~~L~VtD~  421 (437)
+T 2YHG_A          409 GKDIHILLTLRDN  421 (437)
+T ss_dssp             TCEEEEEEEEEEC
+T ss_pred             CcEEEEEEEEEcC
+Confidence            5778888888886
+
+
+No 52
+>4L3A_A Internalin K; Leucine rich repeat, immune system; 2.591A {Listeria monocytogenes}
+Probab=36.22  E-value=30  Score=41.78  Aligned_cols=30  Identities=20%  Similarity=0.367  Sum_probs=23.4  Template_Neff=9.400
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.|+++..+.|..|+.....+.|+|...
+T Consensus       486 ~~G~Y~Vt~~v~d~~g~~~~~~~~V~V~~~  515 (590)
+T 4L3A_A          486 KPGKYVVTLNAENDLQKALPVQVMVIVEKE  515 (590)
+T ss_pred             CCEEEEEEEEEEcCCCCEEEEEEEEEEeCC
+Confidence            479999999999999887665566666555
+
+
+No 53
+>2Y3U_A COLLAGENASE (E.C.3.4.24.3); HYDROLASE, GLUZINCIN, METALLOPROTEASE; HET: FLC, P6G; 2.55A {CLOSTRIDIUM HISTOLYTICUM}
+Probab=35.75  E-value=31  Score=43.74  Aligned_cols=27  Identities=30%  Similarity=0.486  Sum_probs=19.8  Template_Neff=8.700
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITV  846 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV  846 (888)
+                      ..|.|++++.+.|..|...+..+.|.|
+T Consensus       757 ~~G~YtVtLtVtD~~g~s~s~t~~V~V  783 (785)
+T 2Y3U_A          757 KAGTYNVTLKVTDDKGATATESFTIEI  783 (785)
+T ss_pred             CCeEEEEEEEEEeCCCCEEEEEEEEEE
+Confidence            479999999999988886654444443
+
+
+No 54
+>4L3A_B Internalin K; Leucine rich repeat, immune system; 2.591A {Listeria monocytogenes}
+Probab=35.71  E-value=31  Score=41.67  Aligned_cols=30  Identities=20%  Similarity=0.367  Sum_probs=0.0  Template_Neff=9.400
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.|.++..+.|..|+.....+.|+|...
+T Consensus       486 ~~G~Y~Vt~~v~d~~g~~~~~~~~V~V~~~  515 (590)
+T 4L3A_B          486 KPGKYVVTLNAENDLQKALPVQVMVIVEKE  515 (590)
+T ss_dssp             ------------------------------
+T ss_pred             CCeEEEEEEEEeCCCCccccEEEEEEEeCC
+Confidence            479999999999999887665566666555
+
+
+No 55
+>5ICU_A CopC; CopC, metal homeostasis, PcoC, chaperone; HET: GOL; 1.46A {Methylosinus trichosporium OB3b}
+Probab=33.25  E-value=36  Score=32.70  Aligned_cols=30  Identities=17%  Similarity=0.268  Sum_probs=23.3  Template_Neff=7.800
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.|++.-++...+|...+..+.|.|...
+T Consensus        69 ~~G~Y~V~w~v~s~DGH~~~G~~~F~V~~~   98 (102)
+T 5ICU_A           69 AVGSYVVKFRVLSSDGHIVEGKYEFTVDPH   98 (102)
+T ss_dssp             CSEEEEEEEEEEBTTSCEEEEEEEEEECCS
+T ss_pred             CCeEEEEEEEEEcCCCCeEeEEEEEEECCC
+Confidence            589999998888888888776677766443
+
+
+No 56
+>5K8G_A Antifreeze protein; Cell adhesion, peptide binding, Antifreeze; HET: CA; 2.0A {Marinomonas primoryensis}
+Probab=31.81  E-value=40  Score=40.76  Aligned_cols=19  Identities=16%  Similarity=0.349  Sum_probs=16.0  Template_Neff=8.900
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      .|.+.+.+++.|.+|+...
+T Consensus        98 ~g~~~~tv~~tD~aGn~s~  116 (540)
+T 5K8G_A           98 DSEFDVVVTSSDAAGNKVQ  116 (540)
+T ss_dssp             CCEEEEEEEEECTTCCEEE
+T ss_pred             CCeEEEEEEEECCCCCeEe
+Confidence            5788889999999998765
+
+
+No 57
+>2UVE_A EXOPOLYGALACTURONASE; GH28, PECTIN, CELL WALL, HYDROLASE; HET: SO4; 2.19A {YERSINIA ENTEROCOLITICA}
+Probab=28.61  E-value=49  Score=40.36  Aligned_cols=19  Identities=16%  Similarity=0.156  Sum_probs=14.3  Template_Neff=9.300
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ...|++++.+.|..|....
+T Consensus       123 ~t~y~~~i~~~d~~g~~~~  141 (608)
+T 2UVE_A          123 ETSYQFTVKAQYADGSLSV  141 (608)
+T ss_dssp             TCEEEEEEEEEETTSCBCC
+T ss_pred             CcEEEEEEEEEeCCCCccc
+Confidence            5679999888888876544
+
+
+No 58
+>2UVF_A EXOPOLYGALACTURONASE; GH28, PECTIN, CELL WALL, HYDROLASE; HET: SO4, ACT, PEG, NI, AD0; 2.1A {YERSINIA ENTEROCOLITICA}
+Probab=28.61  E-value=49  Score=40.36  Aligned_cols=19  Identities=16%  Similarity=0.156  Sum_probs=14.3  Template_Neff=9.300
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ...|++++.+.|..|....
+T Consensus       123 ~t~y~~~i~~~d~~g~~~~  141 (608)
+T 2UVF_A          123 ETSYQFTVKAQYADGSLSV  141 (608)
+T ss_dssp             TCEEEEEEEEEETTSCBCC
+T ss_pred             CcEEEEEEEEEeCCCCccc
+Confidence            5679999888888876544
+
+
+No 59
+>6EFF_B NCTC10712 Siglec; lectin, SUGAR BINDING PROTEIN; HET: GOL; 1.6A {Streptococcus mitis}
+Probab=27.62  E-value=52  Score=35.95  Aligned_cols=18  Identities=39%  Similarity=0.274  Sum_probs=14.1  Template_Neff=7.300
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTA  838 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTA  838 (888)
+                      .+.++..+.|.|.+||..
+T Consensus        95 ~~~~tr~v~atD~~gn~~  112 (210)
+T 6EFF_B           95 VGIYTRYIVATDPANNTT  112 (210)
+T ss_dssp             CEEEEEEEEEECTTCCBC
+T ss_pred             CceEEEEEEEECCCCCeE
+Confidence            345777888999999875
+
+
+No 60
+>1V8H_A SoxZ protein; lithotrophic sulfur oxidation, unknown function; 1.2A {Thermus thermophilus HB8} SCOP: b.1.18.19
+Probab=27.59  E-value=52  Score=32.29  Aligned_cols=48  Identities=21%  Similarity=0.297  Sum_probs=30.1  Template_Neff=7.300
+
+Q LOKIASV2_43680  794 LKSVKVYLDAVLMPEAT-----G-GSAE-LSVTEGGDHVIRIVAEDDTGNTAVAE  841 (888)
+Q Consensus       794 l~~V~l~lDg~~~~~~t-----~-gs~~-~s~l~~GtHTIrAVAtD~aGnTAsas  841 (888)
+                      |.+++++.+++.+....     + .++- +.....+.-.|++.++|+.|+.-+..
+T Consensus        47 I~~i~v~~~~~~v~~~~~~~~~S~nP~~~f~~~~~~~~~l~v~~~dn~g~~~~~~  101 (107)
+T 1V8H_A           47 INLVEVYFEGEKVAEARPGPSTSANPLYAFKFKAEKAGTFTIKLKDTDGDTGEAS  101 (107)
+T ss_dssp             EEEEEEEETTEEEEEECCCSSCCSSCEEEEEEECCSCEEEEEEEEETTSCEEEEE
+T ss_pred             eEEEEEEECCEEEEEEEEecccCCCCEEEEEEEcCCCcEEEEEEEECCCCeEEEE
+Confidence            78888888888764321     1 1221 22212345788888999998887633
+
+
+No 61
+>1I8A_A ENDO-1,4-BETA-XYLANASE A (E.C.3.2.1.8); FAM9-2 CARBOHYDRATE BINDING MODULE, GLUCOSE; HET: BGC; 1.9A {Thermotoga maritima} SCOP: b.1.9.2
+Probab=27.18  E-value=54  Score=33.51  Aligned_cols=46  Identities=7%  Similarity=-0.088  Sum_probs=29.2  Template_Neff=9.600
+
+Q LOKIASV2_43680  541 DIWEFNVSAHDYGTQYAFRLNTTNNPGW-GGGNFSHQCFVVAIDIMDG  587 (888)
+Q Consensus       541 DLt~FrVs~~d~~v~F~Fkf~~ltNPWw-gpeGFSHQlI~IYIDT~eG  587 (888)
+                      --.+|++.-+++.|+|.+++.... +.. ..+-+..-.++|||+..+.
+T Consensus        40 ~~~~~~~~~d~~~Ly~~~~v~D~~-~~~~~~~~~~~D~vei~l~~~~~   86 (189)
+T 1I8A_A           40 ATAKVRVLWDENYLYVLAIVKDPV-LNKDNSNPWEQDSVEIFIDENNH   86 (189)
+T ss_pred             CcEEEEEEEcCCeEEEEEEEEcCC-CCCCCCccccccEEEEEEcCCCC
+Confidence            345678888899999999885211 110 1112445578999998654
+
+
+No 62
+>4AQO_A COLLAGENASE (E.C.3.4.24.3); HYDROLASE, PKD-LIKE DOMAIN, COLLAGENOLYSIS, COLLAGEN; 0.99A {CLOSTRIDIUM HISTOLYTICUM}
+Probab=26.23  E-value=57  Score=26.62  Aligned_cols=20  Identities=30%  Similarity=0.478  Sum_probs=13.9  Template_Neff=12.200
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ..|.|.+++.+.|..+....
+T Consensus        64 ~~g~y~v~~~~~~~~~~~~~   83 (92)
+T 4AQO_A           64 KAGTYNVTLKVTDDKGATAT   83 (92)
+T ss_dssp             SCEEEEEEEEEEETTSCEEE
+T ss_pred             CCEEEEEEEEEEcCCCCEEE
+Confidence            36788888888887765543
+
+
+No 63
+>5DF0_B Ac-ChiA (E.C.3.2.1.14); Chitinase, AcMNPV, chitin, Glycosidase, HYDROLASE; HET: NAG, SO4, SN5, 58Y; 3.251A {Autographa californica nuclear polyhedrosis virus}
+Probab=25.39  E-value=61  Score=39.27  Aligned_cols=46  Identities=15%  Similarity=0.168  Sum_probs=29.3  Template_Neff=9.000
+
+Q LOKIASV2_43680  794 LKSVKVYLDAVLMPEATGGSAE--LSVTEGGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       794 l~~V~l~lDg~~~~~~t~gs~~--~s~l~~GtHTIrAVAtD~aGnTAs  839 (888)
+                      ...++++.++.........+..  +.....|.|++++++.|.+|+...
+T Consensus        67 ~~~~~v~~~~~~~~~~~~~s~~~~~~~~~~g~y~~~~~~~~~~G~~~s  114 (545)
+T 5DF0_B           67 GDIAYVLFDEQQVWKGDAESKRATIKVLVSGQFNMRVKLCNEDGCSVS  114 (545)
+T ss_dssp             CSEEEEEETTEEEEEECTTSCEEEEEECSCEEEEEEEEEECSSCEEEC
+T ss_pred             cceEEEEECCEEEEeccCCCCeEEEEeecCeeEEEEEEEeCCCCCcCC
+Confidence            3466777777655332211111  233357999999999999998766
+
+
+No 64
+>5FQ7_G BT_2263, BT_2264, BT_2261, BT_2262, PEPTIDE; MEMBRANE PROTEIN, SUGAR BINDING PROTEIN; 3.4A {BACTEROIDES THETAIOTAOMICRON}
+Probab=25.29  E-value=61  Score=35.56  Aligned_cols=30  Identities=23%  Similarity=0.176  Sum_probs=19.6  Template_Neff=7.200
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.|.++..+.|..|+..+..+.|.|...
+T Consensus        61 ~~G~Y~VtY~vtDs~Gn~at~~rtV~V~~~   90 (212)
+T 5FQ7_G           61 TPGIYNLVYAAYNEDGFAKTFTRTVYVADN   90 (212)
+T ss_dssp             CC--CEEEEEEECSSSCEEEEEEEEEC---
+T ss_pred             CCeEEEEEEEEEcCCCCEEEEEEEEEEecC
+Confidence            478999999999999998774455555443
+
+
+No 65
+>5FQ8_G PUTATIVE LIPOPROTEIN, OUTER MEMBRANE PROTEIN; MEMBRANE PROTEIN, OUTER MEMBRANE NUTRIENT; HET: KR0, C8E; 2.75A {BACTEROIDES THETAIOTAOMICRON}
+Probab=25.29  E-value=61  Score=35.56  Aligned_cols=30  Identities=23%  Similarity=0.176  Sum_probs=22.7  Template_Neff=7.200
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.|.++..+.|..|+..+..+.|.|...
+T Consensus        61 ~~G~Y~VtY~vtDs~Gn~at~~rtV~V~~~   90 (212)
+T 5FQ8_G           61 TPGIYNLVYAAYNEDGFAKTFTRTVYVADN   90 (212)
+T ss_dssp             SCEEEEEEEEEECTTSCEEEEEEEEEECCC
+T ss_pred             CCeEEEEEEEEEcCCCCEEEEEEEEEEecC
+Confidence            478999999999999998774455555443
+
+
+No 66
+>5IJ1_B Platelet-binding glycoprotein; adhesin, SUGAR BINDING PROTEIN; HET: ACT, GAL, SIA, BGC; 1.8A {Streptococcus sanguinis (strain SK36)}
+Probab=24.85  E-value=63  Score=35.06  Aligned_cols=18  Identities=28%  Similarity=0.267  Sum_probs=14.9  Template_Neff=7.400
+
+Q LOKIASV2_43680  822 GDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       822 GtHTIrAVAtD~aGnTAs  839 (888)
+                      +.++..++|.|..||...
+T Consensus        95 ~~~tr~v~a~D~~gn~~~  112 (201)
+T 5IJ1_B           95 AQFTRTIRAWDAAGNVSS  112 (201)
+T ss_dssp             SEEEEEEEEEETTCCBCC
+T ss_pred             CcEEEEEEEEcCCCCeec
+Confidence            567788899999999864
+
+
+No 67
+>4M03_A Serine-rich adhesin for platelets; All beta, Unknown Function, Calcium; 2.24A {Staphylococcus aureus}
+Probab=24.05  E-value=67  Score=33.34  Aligned_cols=27  Identities=30%  Similarity=0.448  Sum_probs=18.9  Template_Neff=9.700
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITV  846 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV  846 (888)
+                      ..|.+.+++.+.|..|......+.|.+
+T Consensus       181 ~~g~~~~tvtvtD~~g~~~~~~~~v~V  207 (210)
+T 4M03_A          181 NIGTSTISIVSTDASGNKTTTTFKYEV  207 (210)
+T ss_dssp             SCEEEEEEEEEECTTCCEEEEEEEEEE
+T ss_pred             CCeEEEEEEEEEcCCCCeEEEEEEEEE
+Confidence            368888999999988865544444444
+
+
+No 68
+>4P99_C MpAFP_RII tetra-tandemer; Ca2+-dependent, bacterial Ig-like fold, ice-binding; HET: BOG, EDO, CA; 1.8A {Marinomonas primoryensis}
+Probab=23.89  E-value=68  Score=36.47  Aligned_cols=19  Identities=21%  Similarity=0.219  Sum_probs=15.8  Template_Neff=10.500
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      .|.+.+.+.+.|.+|+...
+T Consensus        97 ~~~~~~~v~~tD~~G~~~~  115 (437)
+T 4P99_C           97 DTAFDAVVTSSDAAGNTVD  115 (437)
+T ss_dssp             CCEEEEEEEEECTTCCEEE
+T ss_pred             CCcEEEEEEEEcCCCCeeE
+Confidence            5778899999999998764
+
+
+No 69
+>1I8U_A ENDO-1,4-BETA-XYLANASE A (E.C.3.2.1.8); CBM9-2, CELLULOSE BINDING DOMAIN, HYDROLASE; 1.9A {Thermotoga maritima} SCOP: b.1.9.2
+Probab=23.45  E-value=70  Score=32.82  Aligned_cols=45  Identities=7%  Similarity=-0.087  Sum_probs=28.6  Template_Neff=9.500
+
+Q LOKIASV2_43680  542 IWEFNVSAHDYGTQYAFRLNTTNNPGW-GGGNFSHQCFVVAIDIMDG  587 (888)
+Q Consensus       542 Lt~FrVs~~d~~v~F~Fkf~~ltNPWw-gpeGFSHQlI~IYIDT~eG  587 (888)
+                      =.+|++.-+++.|+|.+++.... +.. ..+-+..-.++||||..+.
+T Consensus        41 ~~~~~~~~d~~~Ly~~~~v~d~~-~~~~~~~~~~~D~vev~ld~~~~   86 (189)
+T 1I8U_A           41 TAKVRVLWDENYLYVLAIVKDPV-LNKDNSNPWEQDSVEIFIDENNH   86 (189)
+T ss_dssp             EEEEEEEECSSEEEEEEEEECSS-CCCCSSSGGGSSEEEEEEETTCC
+T ss_pred             eEEEEEEEcCCeEEEEEEEECcc-cCCCCCCccccCEEEEEEcCCCC
+Confidence            35677888899999999886211 111 0112345578899998654
+
+
+No 70
+>4JRW_B DOMAIN 2 AT 1.6 ANGSTROM; Ig-like fold, Beta-sandwich, CELL ADHESION; 1.6A {Clostridium histolyticum}
+Probab=23.23  E-value=71  Score=25.56  Aligned_cols=18  Identities=33%  Similarity=0.508  Sum_probs=12.6  Template_Neff=12.400
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTA  838 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTA  838 (888)
+                      .|.|.+++.+.|..|...
+T Consensus        59 ~g~y~~~~~~~~~~g~~~   76 (87)
+T 4JRW_B           59 AGTYNVTLKVTDDKGATA   76 (87)
+T ss_dssp             CEEEEEEEEEEETTSCEE
+T ss_pred             CeEEEEEEEEEcCCCCEE
+Confidence            577888777777766543
+
+
+No 71
+>6NZ0_Z Dyslexia-associated protein KIAA0319-like protein, Capsid; AAV, AAVR, receptor, coreceptor, VIRUS; 2.4A {Homo sapiens}
+Probab=23.09  E-value=72  Score=32.18  Aligned_cols=27  Identities=30%  Similarity=0.532  Sum_probs=19.6  Template_Neff=12.300
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITV  846 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV  846 (888)
+                      ..|.|++++++.|..|+.....+.|.+
+T Consensus       258 ~~g~y~v~~~v~d~~g~~~~~~~~v~v  284 (290)
+T 6NZ0_Z          258 QEGDYTYQLTVTDTIGQQATAQVTVIV  284 (290)
+T ss_pred             CCeEEEEEEEEEcCCCCEEEEEEEEEe
+Confidence            478999999999988776654444444
+
+
+No 72
+>4U6T_B polycystic kidney disease-like domain; Calcium-binding protein, HYDROLASE; HET: P33; 1.76A {Clostridium histolyticum}
+Probab=22.95  E-value=73  Score=25.79  Aligned_cols=19  Identities=26%  Similarity=0.545  Sum_probs=13.3  Template_Neff=12.100
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      .|.|.+.+.+.|..|....
+T Consensus        59 ~g~y~v~l~v~~~~g~~~~   77 (86)
+T 4U6T_B           59 VGTYTVKLKVTDDKGESSV   77 (86)
+T ss_dssp             CEEEEEEEEEEETTSCEEE
+T ss_pred             CeEEEEEEEEEeCCCCeEE
+Confidence            5777777777777766544
+
+
+No 73
+>4M00_A Serine-rich adhesin for platelets; All Beta, Adhesion, Carbohydrate/Sugar Binding; HET: SUC, MES; 2.05A {Staphylococcus aureus}
+Probab=22.60  E-value=75  Score=38.15  Aligned_cols=30  Identities=27%  Similarity=0.456  Sum_probs=21.8  Template_Neff=9.500
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVNDN  849 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~~~  849 (888)
+                      ..|.+.+++.+.|..|......+.+.|...
+T Consensus       423 ~~g~~~i~v~v~d~~g~s~~~~~~i~V~~~  452 (541)
+T 4M00_A          423 KIGQSTVTVVSTDQANNKSTTTFTINVVDT  452 (541)
+T ss_dssp             SCEEEEEEEEEEETTCCEEEEEEEEEEECC
+T ss_pred             CCeEEEEEEEEEcCCCCeEEEEEEEEEccC
+Confidence            368889999999988876655566666554
+
+
+No 74
+>5EZD_B Kunitz-type protease inhibitor 1; Transmembrane, multidomain, serine protease inhibitor; 2.1A {Homo sapiens}
+Probab=22.41  E-value=76  Score=30.80  Aligned_cols=27  Identities=19%  Similarity=0.348  Sum_probs=13.3  Template_Neff=9.900
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITV  846 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV  846 (888)
+                      ..|.|.+++.+.|..+......+.+.+
+T Consensus        49 ~~g~y~~~l~v~d~~~~~~~~~~~v~v   75 (145)
+T 5EZD_B           49 KEGTYLFQLTVTSSDHPEDTANVTVTV   75 (145)
+T ss_dssp             CSEEEEEEECCC--------EEEEEEE
+T ss_pred             CCcEEEEEEEEecCCCCCccceeEEEE
+Confidence            468899999999988766554444444
+
+
+No 75
+>6QYD_4I ?; bacteriophage, cryo-EM, mature virus, virus; 3.2A {Bacillus phage phi29}
+Probab=21.92  E-value=79  Score=39.18  Aligned_cols=27  Identities=7%  Similarity=0.204  Sum_probs=12.4  Template_Neff=5.500
+
+Q LOKIASV2_43680  822 GDHVIRIV--AEDDTGNTAV-AEITITVND  848 (888)
+Q Consensus       822 GtHTIrAV--AtD~aGnTAs-asVtVTV~~  848 (888)
+                      |+++++|.  +....|+... ..++|+|..
+T Consensus       410 gt~tVtAt~t~~t~~~~~~~~~~~tvtV~~  439 (448)
+T 6QYD_4I         410 NQLTVKATVDIGTEDKPKLVVGEAVVSIRP  439 (448)
+T ss_pred             ceEEEEEEEEEcCCCCCeeEEEEEEEEEec
+Confidence            66666654  2223333322 455555543
+
+
+No 76
+>6QZ0_7J Major capsid protein, Capsid fiber; bacteriophage, phi29, genome emptied virion; 3.2A {Bacillus phage phi29}
+Probab=21.92  E-value=79  Score=39.18  Aligned_cols=27  Identities=7%  Similarity=0.204  Sum_probs=12.4  Template_Neff=5.500
+
+Q LOKIASV2_43680  822 GDHVIRIV--AEDDTGNTAV-AEITITVND  848 (888)
+Q Consensus       822 GtHTIrAV--AtD~aGnTAs-asVtVTV~~  848 (888)
+                      |+++++|.  +....|+... ..++|+|..
+T Consensus       410 gt~tVtAt~t~~t~~~~~~~~~~~tvtV~~  439 (448)
+T 6QZ0_7J         410 NQLTVKATVDIGTEDKPKLVVGEAVVSIRP  439 (448)
+T ss_pred             ceEEEEEEEEEcCCCCCeeEEEEEEEEEec
+Confidence            66666654  2223333322 455555543
+
+
+No 77
+>4JGU_A ColH protein; IG-like fold, beta-sandwich, calcium binding; HET: SO4; 1.42A {Clostridium histolyticum}
+Probab=21.89  E-value=79  Score=26.02  Aligned_cols=19  Identities=16%  Similarity=0.359  Sum_probs=13.3  Template_Neff=12.200
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      .|.|.+++.+.|..|....
+T Consensus        68 ~g~y~~~l~~~~~~g~~~~   86 (95)
+T 4JGU_A           68 KGEYTVTLRVMDSSGQMSE   86 (95)
+T ss_dssp             CEEEEEEEEEEETTSCEEE
+T ss_pred             CEEEEEEEEEEcCCCCEEE
+Confidence            5778888877777665543
+
+
+No 78
+>5KIQ_A Platelet-binding glycoprotein; adhesin carbohydrate binding Ig fold; HET: SIA, FUC, NAG, ACT, GAL; 1.638A {Streptococcus sanguinis (strain SK36)}
+Probab=21.81  E-value=79  Score=34.26  Aligned_cols=18  Identities=28%  Similarity=0.267  Sum_probs=14.5  Template_Neff=7.400
+
+Q LOKIASV2_43680  822 GDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       822 GtHTIrAVAtD~aGnTAs  839 (888)
+                      +.++..++|.|..||...
+T Consensus        92 ~~~tr~v~a~D~~gn~~~  109 (197)
+T 5KIQ_A           92 AQFTRTIRAWDAAGNVSS  109 (197)
+T ss_dssp             CEEEEEEEEEETTSCBCC
+T ss_pred             CcEEEEEEEEcCCCCeec
+Confidence            467778889999999864
+
+
+No 79
+>4A2L_F TWO-COMPONENT SYSTEM SENSOR HISTIDINE KINASE/RESPONSE; TRANSCRIPTION, BETA-PROPELLER; HET: PEG, PG4, 2PE, OAA, EDO, PGE, MES; 2.6A {BACTEROIDES THETAIOTAOMICRON}
+Probab=21.61  E-value=81  Score=37.22  Aligned_cols=33  Identities=18%  Similarity=0.139  Sum_probs=24.1  Template_Neff=12.300
+
+Q LOKIASV2_43680  816 LSVTEGGDHVIRIVAEDDTGNTAV--AEITITVND  848 (888)
+Q Consensus       816 ~s~l~~GtHTIrAVAtD~aGnTAs--asVtVTV~~  848 (888)
+                      ++.+.+|.|+|++++.|..|+...  ..+.+.|..
+T Consensus       748 ~~~L~~G~Y~l~v~a~~~~g~~~~~~~~~~~~i~~  782 (795)
+T 4A2L_F          748 YSNLPQGTYQFLVKAANSDGKWNPIPTALEIIVLP  782 (795)
+T ss_dssp             EESCCSEEEEEEEEEECTTCCBCSSCEEEEEEECC
+T ss_pred             ecCCCCeEEEEEEEEecCCCcccCCCeEEEEEEeC
+Confidence            444468999999999999997543  456666543
+
+
+No 80
+>4YTB_A Peptidylarginine deiminase (E.C.3.5.3.-), ASP-GLN; Peptidylarginine deiminase, citrullination, hydrolase; HET: GOL, PO4, GLN; 1.4A {Porphyromonas gingivalis}
+Probab=21.21  E-value=83  Score=37.53  Aligned_cols=51  Identities=14%  Similarity=0.392  Sum_probs=42.1  Template_Neff=8.300
+
+Q LOKIASV2_43680  436 FTDAYVNYTVNDTETWAQVDMDFVGSAGDRNVEFEATMPSFANGTELTFYINVTNN  491 (888)
+Q Consensus       436 ~~~~~~ny~~n~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~f~i~~t~~  491 (888)
+                      ...+.+.|+.+....|+...|.  ...   +..|+++|+....++.+++||.|..+
+T Consensus       349 ~~s~~l~yr~~~~~~~~~~~m~--~~~---~~~~~atip~~~~~~~ieYYi~a~d~  399 (432)
+T 4YTB_A          349 ISPVQCYYRINGSGSFKAADMT--MES---TGHYTYSFTGLNKNDKVEYYISAADN  399 (432)
+T ss_dssp             EEEEEEEEEETTCSSCEEEECE--EEE---TTEEEEECCSCCTTCEEEEEEEEEET
+T ss_pred             eeEEEEEEEEcCCCCeEEEEee--ecC---CCEEEEEEeCCCCCCeEEEEEEEECC
+Confidence            3578899999999999988887  222   34899999998999999999999733
+
+
+No 81
+>3EIF_A C5a peptidase (E.C.3.4.21.110); Subtilisin-like Cell envelope protease, multi-domain; HET: SO4, EPE; 1.9A {Streptococcus pyogenes}
+Probab=20.77  E-value=86  Score=41.02  Aligned_cols=19  Identities=26%  Similarity=0.128  Sum_probs=17.4  Template_Neff=8.600
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      .|.|.++++++|.+||...
+T Consensus       907 ~g~~~~~~~~~D~AGN~~~  925 (936)
+T 3EIF_A          907 LKMSDFTYVVEDMAGNITY  925 (936)
+T ss_dssp             CCGGGEEEEEEETTCCEEE
+T ss_pred             cchheEEEEEEcCCCCeee
+Confidence            5899999999999999876
+
+
+No 82
+>4U7K_E polycystic kidney disease-like domain; Calcium-binding protein, HYDROLASE; 1.91A {Clostridium histolyticum}
+Probab=20.49  E-value=88  Score=25.39  Aligned_cols=19  Identities=26%  Similarity=0.545  Sum_probs=14.0  Template_Neff=12.100
+
+Q LOKIASV2_43680  821 GGDHVIRIVAEDDTGNTAV  839 (888)
+Q Consensus       821 ~GtHTIrAVAtD~aGnTAs  839 (888)
+                      .|.|.+++.+.|..|....
+T Consensus        60 ~g~~~~~~~v~d~~~~~~~   78 (87)
+T 4U7K_E           60 VGTYTVKLKVTDDKGESSV   78 (87)
+T ss_dssp             CEEEEEEEEEEETTSCEEE
+T ss_pred             CeEEEEEEEEEcCCCCeEE
+Confidence            6788888888887776544
+
+
+No 83
+>2KPN_A Bacillolysin (E.C.3.4.24.28); solution NMR structure, Big_3 domain; HET: CA; NMR {Bacillus cereus ATCC 14579}
+Probab=20.42  E-value=88  Score=28.98  Aligned_cols=28  Identities=29%  Similarity=0.459  Sum_probs=20.3  Template_Neff=9.400
+
+Q LOKIASV2_43680  820 EGGDHVIRIVAEDDTGNTAVAEITITVN  847 (888)
+Q Consensus       820 ~~GtHTIrAVAtD~aGnTAsasVtVTV~  847 (888)
+                      ..|.|+++..+.|..|+..+..+.+.+.
+T Consensus        57 ~~G~y~v~y~v~d~~Gn~~~~~~~i~V~   84 (103)
+T 2KPN_A           57 KAGTYVLTYTVTDSKGHEVTAKQTVTVK   84 (103)
+T ss_dssp             SCEEEEEEEEEECTTSCEEEEEEEEEEE
+T ss_pred             CCeEEEEEEEEEcCCCCEEEEEEEEEEE
+Confidence            4789999999999999976633444433
+
+
+No 84
+>4A2M_B TWO-COMPONENT SYSTEM SENSOR HISTIDINE KINASE/RESPONSE; TRANSCRIPTION, BETA-PROPELLER; HET: NGS, GCD; 3.4A {BACTEROIDES THETAIOTAOMICRON}
+Probab=20.07  E-value=91  Score=36.81  Aligned_cols=33  Identities=18%  Similarity=0.139  Sum_probs=24.1  Template_Neff=12.300
+
+Q LOKIASV2_43680  816 LSVTEGGDHVIRIVAEDDTGNTAV--AEITITVND  848 (888)
+Q Consensus       816 ~s~l~~GtHTIrAVAtD~aGnTAs--asVtVTV~~  848 (888)
+                      ++.+..|.|+|++++.|..|+...  ..+.+.|..
+T Consensus       748 ~~~L~~G~Y~l~v~a~~~~g~~~~~~~~~~~~i~~  782 (795)
+T 4A2M_B          748 YSNLPQGTYQFLVKAANSDGKWNPIPTALEIIVLP  782 (795)
+T ss_dssp             ECSCCSEEEEEEEEEECTTCCBCSSCEEEEEEECC
+T ss_pred             ecCCCCeEEEEEEEEecCCCcccCCCeEEEEEEeC
+Confidence            444468999999999999987653  456666543
+
+
