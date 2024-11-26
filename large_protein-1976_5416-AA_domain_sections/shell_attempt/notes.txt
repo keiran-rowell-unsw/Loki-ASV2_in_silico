@@ -1,0 +1,2 @@
+# search domain against full titin-like structure, get the start and end index # from the target (titin-like full). Grab evalue for filtering
+foldseek sy-search --format-output query,target,evalue,tstart,tend Loki_titin-like_domain_1.pdb Loki_ORF1976_AF3_titin-like.pdb result.m8 tmp
