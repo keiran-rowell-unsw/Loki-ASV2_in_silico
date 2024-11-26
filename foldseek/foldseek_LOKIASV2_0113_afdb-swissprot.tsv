@@ -1,0 +1,973 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58728-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58728-F1-model_v4 Uncharacterized GTP-binding protein MJ1332	0.465	400	209	2	401	3	393	7.733E-46	1761
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P42942-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P42942-F1-model_v4 Uncharacterized GTP-binding protein YGR210C	0.355	404	257	2	401	6	409	2.747E-35	1287
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O94362-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O94362-F1-model_v4 Uncharacterized GTP-binding protein C428.15	0.332	402	267	1	400	5	406	2.089E-34	1232
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P57288-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P57288-F1-model_v4 Ribosome-binding ATPase YchF	0.201	400	287	1	400	3	362	5.366E-16	457
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P37518-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P37518-F1-model_v4 Ribosome-binding ATPase YchF	0.209	400	287	1	400	3	366	2.232E-16	447
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0ABU4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0ABU4-F1-model_v4 Ribosome-binding ATPase YchF	0.172	400	298	1	400	3	363	4.309E-16	436
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CZ30-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CZ30-F1-model_v4 Obg-like ATPase 1	0.208	399	289	1	399	23	388	1.520E-16	435
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0ABU2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0ABU2-F1-model_v4 Ribosome-binding ATPase YchF	0.173	400	298	1	400	3	363	6.682E-16	432
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0ABU3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0ABU3-F1-model_v4 Ribosome-binding ATPase YchF	0.176	400	297	1	400	3	363	5.366E-16	430
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38746-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38746-F1-model_v4 Obg-like ATPase homolog	0.196	400	308	2	401	18	401	1.290E-15	429
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5R821-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5R821-F1-model_v4 Obg-like ATPase 1	0.204	401	292	1	401	23	390	3.461E-16	428
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5ZM25-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5ZM25-F1-model_v4 Obg-like ATPase 1	0.204	401	292	1	401	23	390	3.656E-16	428
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9NTK5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9NTK5-F1-model_v4 Obg-like ATPase 1	0.204	401	292	1	401	23	390	4.552E-16	424
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2HJ33-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2HJ33-F1-model_v4 Obg-like ATPase 1	0.205	401	292	1	401	23	390	9.810E-16	422
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89AR6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89AR6-F1-model_v4 Ribosome-binding ATPase YchF	0.184	400	294	1	400	3	363	1.894E-15	418
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0JPJ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0JPJ7-F1-model_v4 Obg-like ATPase 1	0.198	401	294	1	401	23	390	1.363E-15	417
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8K9V2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8K9V2-F1-model_v4 Ribosome-binding ATPase YchF	0.206	400	285	1	400	3	362	7.462E-15	414
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P44681-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P44681-F1-model_v4 Ribosome-binding ATPase YchF	0.178	400	296	1	400	3	363	3.463E-15	414
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CP90-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CP90-F1-model_v4 Ribosome-binding ATPase YchF	0.171	400	298	1	400	3	363	7.882E-15	412
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VMI2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VMI2-F1-model_v4 Ribosome-binding ATPase YchF	0.184	400	294	1	400	3	363	6.330E-15	410
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O13998-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O13998-F1-model_v4 Obg-like ATPase 1	0.195	401	299	1	401	21	392	2.781E-15	410
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9SA73-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9SA73-F1-model_v4 Obg-like ATPase 1	0.183	399	296	1	399	25	387	2.001E-15	406
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q66JG0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q66JG0-F1-model_v4 Obg-like ATPase 1	0.204	401	292	1	401	23	390	7.882E-15	399
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7ZU42-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7ZU42-F1-model_v4 Obg-like ATPase 1	0.194	399	294	1	399	23	388	3.463E-15	398
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8SWU7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8SWU7-F1-model_v4 Obg-like ATPase 1	0.200	399	291	1	399	22	386	1.608E-14	398
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7ZWM6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7ZWM6-F1-model_v4 Obg-like ATPase 1	0.209	401	290	1	401	23	390	8.796E-15	395
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P47270-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P47270-F1-model_v4 Ribosome-binding ATPase YchF	0.203	399	289	1	399	2	365	9.292E-15	387
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38219-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38219-F1-model_v4 Obg-like ATPase 1	0.175	400	305	1	400	21	391	4.082E-15	383
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8BBN7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8BBN7-F1-model_v4 Obg-like ATPase 1	0.180	400	298	1	400	25	388	2.360E-14	375
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P91917-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P91917-F1-model_v4 Obg-like ATPase 1	0.189	399	294	1	399	22	385	1.794E-14	372
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P75088-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P75088-F1-model_v4 Ribosome-binding ATPase YchF	0.187	395	292	1	395	2	361	1.523E-13	352
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q54WT4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q54WT4-F1-model_v4 Developmentally-regulated GTP-binding protein 2 homolog	0.170	398	249	2	399	64	364	8.812E-12	307
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58D56-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58D56-F1-model_v4 Developmentally-regulated GTP-binding protein 2	0.170	398	249	2	399	64	364	1.098E-10	282
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CAI1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CAI1-F1-model_v4 Developmentally-regulated G-protein 2	0.172	400	253	2	401	64	369	1.367E-11	282
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9QXB9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9QXB9-F1-model_v4 Developmentally-regulated GTP-binding protein 2	0.153	398	254	2	399	64	364	1.367E-10	278
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58722-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58722-F1-model_v4 Uncharacterized GTP-binding protein MJ1326	0.169	399	253	2	400	86	391	4.323E-11	275
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9UT21-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9UT21-F1-model_v4 Uncharacterized GTP-binding protein C9.07c	0.162	398	252	2	399	65	366	2.240E-10	273
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P34280-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P34280-F1-model_v4 Uncharacterized GTP-binding protein C02F5.3	0.151	398	256	2	399	64	366	1.225E-10	271
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P55039-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P55039-F1-model_v4 Developmentally-regulated GTP-binding protein 2	0.161	398	252	2	399	64	364	2.500E-10	269
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P53295-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P53295-F1-model_v4 Ribosome-interacting GTPase 2	0.155	398	256	2	399	65	368	2.366E-10	269
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P39729-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P39729-F1-model_v4 Ribosome-interacting GTPase 1	0.162	398	253	2	399	67	369	5.690E-10	264
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9SVA6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9SVA6-F1-model_v4 Developmentally-regulated G-protein 3	0.192	399	244	2	400	67	369	4.569E-10	250
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9LQK0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9LQK0-F1-model_v4 Developmentally-regulated G-protein 1	0.159	399	256	2	400	64	368	9.315E-11	250
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q54HP3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q54HP3-F1-model_v4 Developmentally-regulated GTP-binding protein 1 homolog	0.172	398	252	2	399	66	370	1.040E-09	245
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q65GM7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q65GM7-F1-model_v4 GTPase Obg	0.257	262	120	3	264	161	323	1.800E-09	242
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0RPF6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0RPF6-F1-model_v4 GTPase Obg	0.201	262	133	3	264	162	329	5.102E-09	241
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P20964-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P20964-F1-model_v4 GTPase Obg	0.253	262	121	3	264	161	323	1.527E-09	239
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7Z781-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7Z781-F1-model_v4 GTPase Obg	0.253	262	121	3	264	161	323	1.226E-09	238
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9IZ16-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9IZ16-F1-model_v4 GTPase Obg	0.246	262	122	3	264	161	323	1.445E-09	237
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P95722-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P95722-F1-model_v4 GTPase Obg	0.218	262	127	3	264	162	324	4.572E-09	236
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WMT1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WMT1-F1-model_v4 GTPase Obg	0.231	262	135	3	264	162	337	3.671E-09	234
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04B11-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04B11-F1-model_v4 GTPase Obg	0.202	262	132	3	264	166	332	1.099E-08	233
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P95758-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P95758-F1-model_v4 GTPase Obg	0.215	262	127	3	264	162	324	5.390E-09	233
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q82C85-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q82C85-F1-model_v4 GTPase Obg	0.208	262	131	3	264	162	328	4.328E-09	233
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1JBB7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1JBB7-F1-model_v4 GTPase Obg	0.250	262	127	3	264	163	332	1.613E-09	232
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9L101-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9L101-F1-model_v4 GTPase Obg	0.230	263	131	3	265	161	331	3.476E-09	232
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8AWM9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8AWM9-F1-model_v4 GTPase Obg	0.250	262	127	3	264	163	332	2.642E-09	231
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5XBM1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5XBM1-F1-model_v4 GTPase Obg	0.257	263	126	3	265	163	333	1.613E-09	231
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0K414-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0K414-F1-model_v4 GTPase Obg	0.234	269	137	3	271	161	340	5.390E-09	229
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2QZ37-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2QZ37-F1-model_v4 Probable GTP-binding protein OBGM, mitochondrial	0.226	283	142	3	285	342	526	2.368E-09	228
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9KDK0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9KDK0-F1-model_v4 GTPase Obg	0.247	287	140	3	289	161	347	5.386E-10	227
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CF94-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CF94-F1-model_v4 GTPase Obg	0.243	262	128	3	264	163	332	3.115E-09	226
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0DB52-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0DB52-F1-model_v4 GTPase Obg	0.239	262	129	3	264	163	332	3.476E-09	225
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3K046-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3K046-F1-model_v4 GTPase Obg	0.257	263	126	3	265	163	333	3.476E-09	225
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0DB53-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0DB53-F1-model_v4 GTPase Obg	0.250	262	127	3	264	163	332	3.671E-09	225
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1JLA1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1JLA1-F1-model_v4 GTPase Obg	0.258	262	125	3	264	163	332	3.115E-09	225
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DYL0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DYL0-F1-model_v4 GTPase Obg	0.257	263	126	3	265	163	333	2.791E-09	225
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0KAB8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0KAB8-F1-model_v4 GTPase Obg	0.236	263	125	3	265	161	324	7.090E-09	224
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q48SX8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q48SX8-F1-model_v4 GTPase Obg	0.250	263	128	3	265	163	333	3.115E-09	224
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1ZZ37-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1ZZ37-F1-model_v4 GTPase Obg	0.195	268	148	3	270	161	345	7.489E-09	223
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8P0I6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8P0I6-F1-model_v4 GTPase Obg	0.247	262	127	3	264	163	332	4.830E-09	223
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03JJ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03JJ8-F1-model_v4 GTPase Obg	0.257	263	126	3	265	163	333	4.097E-09	223
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5U5D6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5U5D6-F1-model_v4 GTPase Obg	0.231	262	135	3	264	162	337	8.358E-09	223
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q81LF0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q81LF0-F1-model_v4 GTPase Obg	0.246	262	122	3	264	161	323	8.358E-09	222
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3AF51-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3AF51-F1-model_v4 GTPase Obg	0.261	262	120	3	264	161	323	1.161E-08	222
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03QP2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03QP2-F1-model_v4 GTPase Obg	0.233	262	129	3	264	161	329	8.358E-09	222
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DUU2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DUU2-F1-model_v4 GTPase Obg	0.250	262	127	3	264	163	332	4.572E-09	222
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q24SP0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q24SP0-F1-model_v4 GTPase Obg	0.219	285	146	3	287	161	348	1.800E-09	221
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5XLZ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5XLZ0-F1-model_v4 GTPase Obg	0.257	263	126	3	265	163	333	5.102E-09	221
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5LYR4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5LYR4-F1-model_v4 GTPase Obg	0.258	262	125	3	264	163	332	3.671E-09	221
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1B629-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1B629-F1-model_v4 GTPase Obg	0.239	259	129	3	261	162	332	4.830E-09	221
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FFS8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FFS8-F1-model_v4 GTPase Obg	0.242	262	123	3	264	161	323	7.489E-09	220
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JQ26-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JQ26-F1-model_v4 GTPase Obg	0.253	262	121	3	264	161	323	8.829E-09	220
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4VUC8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4VUC8-F1-model_v4 GTPase Obg	0.247	262	127	3	264	163	332	9.852E-09	220
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2RE30-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2RE30-F1-model_v4 GTPase Obg	0.250	262	127	3	264	163	332	3.671E-09	220
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DVU1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DVU1-F1-model_v4 GTPase Obg	0.235	262	137	3	264	171	350	7.912E-09	220
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q97QW8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q97QW8-F1-model_v4 GTPase Obg	0.250	262	127	3	264	161	330	8.358E-09	219
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4U3Q7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4U3Q7-F1-model_v4 GTPase Obg	0.254	262	126	3	264	161	330	9.852E-09	219
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-F4HSD4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-F4HSD4-F1-model_v4 Probable GTP-binding protein OBGM, mitochondrial	0.215	262	129	3	264	306	470	2.503E-08	219
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8FUR9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8FUR9-F1-model_v4 GTPase Obg	0.219	285	144	3	287	161	345	2.948E-09	218
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7TYK5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7TYK5-F1-model_v4 GTPase Obg	0.223	262	136	3	264	162	337	9.326E-09	218
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6A9H8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6A9H8-F1-model_v4 GTPase Obg	0.204	262	131	3	264	165	330	1.099E-08	218
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3CM33-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3CM33-F1-model_v4 GTPase Obg	0.233	285	146	3	287	163	354	1.704E-09	217
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q02XY2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q02XY2-F1-model_v4 GTPase Obg	0.232	262	130	3	264	163	332	7.090E-09	217
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2JDP2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2JDP2-F1-model_v4 GTPase Obg	0.186	274	167	3	276	162	367	3.290E-09	217
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3DBS5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3DBS5-F1-model_v4 GTPase Obg	0.191	300	194	3	302	161	401	4.325E-10	216
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2IQ29-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2IQ29-F1-model_v4 GTPase Obg	0.243	262	128	3	264	163	332	8.829E-09	216
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0R149-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0R149-F1-model_v4 GTPase Obg	0.231	259	131	3	261	162	332	1.446E-08	216
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6NFV7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6NFV7-F1-model_v4 GTPase Obg	0.240	262	131	3	264	162	335	1.041E-08	216
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72ZY5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72ZY5-F1-model_v4 GTPase Obg	0.233	284	140	3	286	161	344	3.476E-09	214
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1HVB2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1HVB2-F1-model_v4 GTPase Obg	0.238	262	123	3	264	161	323	2.243E-08	214
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4T2J4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4T2J4-F1-model_v4 GTPase Obg	0.233	262	133	3	264	162	335	6.353E-09	214
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FN81-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FN81-F1-model_v4 GTPase Obg	0.205	297	147	3	299	162	347	1.161E-09	214
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04KK7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04KK7-F1-model_v4 GTPase Obg	0.230	285	147	3	287	163	354	2.791E-09	213
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0QDH0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0QDH0-F1-model_v4 GTPase Obg	0.229	264	141	3	266	162	345	9.852E-09	213
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q67SC6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q67SC6-F1-model_v4 GTPase Obg	0.229	262	126	3	264	161	324	7.090E-09	212
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8CXZ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8CXZ0-F1-model_v4 GTPase Obg	0.235	263	125	3	265	161	325	5.390E-09	212
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3E609-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3E609-F1-model_v4 GTPase Obg	0.192	262	132	3	264	162	325	2.503E-08	211
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q634A3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q634A3-F1-model_v4 GTPase Obg	0.237	296	147	3	298	161	354	1.527E-09	211
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7IIV2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7IIV2-F1-model_v4 GTPase Obg	0.227	283	143	3	285	161	346	4.572E-09	211
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q73XP5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q73XP5-F1-model_v4 GTPase Obg	0.221	264	143	3	266	162	345	4.097E-09	211
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0RJ47-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0RJ47-F1-model_v4 GTPase Obg	0.240	284	141	3	286	161	346	4.830E-09	210
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DPV8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DPV8-F1-model_v4 GTPase Obg	0.230	285	147	3	287	163	354	2.642E-09	210
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5UZ80-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5UZ80-F1-model_v4 GTPase Obg	0.203	263	130	3	265	165	328	4.100E-08	210
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4QG78-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4QG78-F1-model_v4 GTPase Obg	0.219	297	144	3	299	162	347	3.671E-09	210
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q817U6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q817U6-F1-model_v4 GTPase Obg	0.238	286	142	3	288	161	348	4.328E-09	209
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4JWT6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4JWT6-F1-model_v4 GTPase Obg	0.227	285	156	3	287	162	364	3.671E-09	209
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0RDG3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0RDG3-F1-model_v4 GTPase Obg	0.222	262	131	3	264	162	330	1.099E-08	209
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5E4J4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5E4J4-F1-model_v4 GTPase Obg	0.233	285	146	3	287	161	352	4.097E-09	208
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3Q2F3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3Q2F3-F1-model_v4 GTPase Obg	0.228	259	131	3	261	162	332	8.358E-09	208
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5CX17-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5CX17-F1-model_v4 GTPase Obg	0.222	251	119	3	253	162	315	2.369E-08	207
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8ZPS8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8ZPS8-F1-model_v4 GTPase Obg	0.230	285	147	3	287	161	352	4.097E-09	207
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1IBL9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1IBL9-F1-model_v4 GTPase Obg	0.233	285	146	3	287	161	352	2.791E-09	207
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TC21-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TC21-F1-model_v4 GTPase Obg	0.209	281	168	3	283	162	374	3.476E-09	207
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1DC95-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1DC95-F1-model_v4 GTPase Obg	0.233	250	117	3	252	162	314	3.292E-08	207
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9VIR5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9VIR5-F1-model_v4 GTPase Obg	0.226	284	146	3	286	161	350	3.290E-09	206
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0TBW1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0TBW1-F1-model_v4 GTPase Obg	0.214	302	188	3	304	161	400	7.485E-10	206
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1GZ53-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1GZ53-F1-model_v4 GTPase Obg	0.215	262	129	3	264	162	326	1.614E-08	205
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HQJ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HQJ8-F1-model_v4 GTPase Obg	0.221	284	149	3	286	161	352	8.829E-09	205
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03YT6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03YT6-F1-model_v4 GTPase Obg	0.225	262	130	3	264	162	330	2.950E-08	205
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1JGD5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1JGD5-F1-model_v4 GTPase Obg	0.241	287	152	3	289	163	363	4.097E-09	204
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1N057-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1N057-F1-model_v4 GTPase Obg	0.229	262	130	3	264	162	330	5.697E-08	204
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6WDM9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6WDM9-F1-model_v4 GTPase Obg	0.207	284	155	3	286	163	359	6.014E-09	204
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9I7M2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9I7M2-F1-model_v4 GTP-binding protein 10 homolog	0.216	263	149	3	265	160	350	3.881E-08	203
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1VAF2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1VAF2-F1-model_v4 GTPase Obg	0.226	284	143	3	286	164	349	3.290E-09	203
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1ETN7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1ETN7-F1-model_v4 GTPase Obg	0.240	284	141	3	286	161	346	8.829E-09	203
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HE73-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HE73-F1-model_v4 GTPase Obg	0.238	286	142	3	288	161	348	8.358E-09	203
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6HD85-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6HD85-F1-model_v4 GTPase Obg	0.233	284	143	3	286	161	347	7.090E-09	203
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5RDW1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5RDW1-F1-model_v4 Mitochondrial ribosome-associated GTPase 2	0.198	262	126	3	264	227	384	1.100E-07	202
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JVH9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JVH9-F1-model_v4 GTPase Obg	0.210	263	127	3	265	162	323	1.614E-08	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89AE7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89AE7-F1-model_v4 GTPase Obg	0.202	262	132	3	264	162	327	7.094E-08	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1B9C8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1B9C8-F1-model_v4 GTPase Obg	0.215	262	125	3	264	162	321	3.292E-08	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HIF8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HIF8-F1-model_v4 GTPase Obg	0.219	263	130	3	265	162	329	2.503E-08	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q29K06-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q29K06-F1-model_v4 GTP-binding protein 10 homolog	0.214	262	147	3	264	160	347	7.094E-08	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4J7I9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4J7I9-F1-model_v4 GTPase Obg	0.232	284	143	3	286	161	347	2.793E-08	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5M3C8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5M3C8-F1-model_v4 GTPase Obg	0.243	285	145	3	287	163	355	7.912E-09	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2HMG1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2HMG1-F1-model_v4 GTPase Obg	0.227	264	141	3	266	162	345	2.793E-08	201
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2IH84-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2IH84-F1-model_v4 GTPase Obg	0.223	263	129	3	265	162	328	1.041E-08	200
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PAS3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PAS3-F1-model_v4 GTPase Obg	0.236	263	140	3	265	162	345	1.227E-08	200
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5KWP5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5KWP5-F1-model_v4 GTPase Obg	0.225	285	148	3	287	161	352	1.161E-08	200
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VJ99-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VJ99-F1-model_v4 GTPase Obg	0.222	262	131	3	264	163	331	9.326E-09	200
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7NRU6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7NRU6-F1-model_v4 GTPase Obg	0.204	261	132	3	263	165	331	7.094E-08	200
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8M0Y9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8M0Y9-F1-model_v4 GTPase Obg	0.222	262	126	3	264	162	324	6.716E-08	200
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XAG1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XAG1-F1-model_v4 GTPase Obg	0.216	262	129	3	264	162	327	1.162E-07	200
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8GTZ9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8GTZ9-F1-model_v4 GTPase Obg	0.222	262	124	3	264	162	321	4.100E-08	199
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7KIC1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7KIC1-F1-model_v4 GTPase Obg	0.213	264	131	3	266	162	329	1.528E-08	199
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3SKG2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3SKG2-F1-model_v4 GTPase Obg	0.194	262	134	3	264	162	328	4.833E-08	199
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2Y807-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2Y807-F1-model_v4 GTPase Obg	0.187	263	144	3	265	162	339	2.010E-08	199
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XN32-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XN32-F1-model_v4 GTPase Obg	0.203	262	128	3	264	162	322	1.369E-08	198
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0MBS1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0MBS1-F1-model_v4 GTPase Obg	0.258	262	125	3	264	163	332	2.950E-08	198
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2G6R9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2G6R9-F1-model_v4 GTPase Obg	0.222	262	131	3	264	163	331	1.296E-08	198
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DSH7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DSH7-F1-model_v4 GTPase Obg	0.240	284	150	3	286	163	360	9.852E-09	198
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SH51-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SH51-F1-model_v4 GTPase Obg	0.218	283	167	3	285	162	375	3.878E-09	198
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q851Q6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q851Q6-F1-model_v4 Probable GTP-binding protein OBGC2	0.185	262	170	3	264	279	488	3.292E-08	198
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1X0M2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1X0M2-F1-model_v4 GTPase Obg	0.206	268	143	3	270	162	342	7.489E-09	197
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q98QK8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q98QK8-F1-model_v4 GTPase Obg	0.190	302	190	3	304	159	393	7.489E-09	197
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2RKZ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2RKZ8-F1-model_v4 GTPase Obg	0.215	262	126	3	264	161	322	1.041E-07	197
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0ZAL7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0ZAL7-F1-model_v4 GTPase Obg	0.191	285	153	3	287	161	350	1.801E-08	197
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FG83-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FG83-F1-model_v4 GTPase Obg	0.214	297	152	3	299	161	354	5.693E-09	197
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04EZ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04EZ8-F1-model_v4 GTPase Obg	0.223	263	131	3	265	162	330	2.243E-08	197
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4F9L3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4F9L3-F1-model_v4 GTPase Obg	0.206	302	144	3	304	166	347	1.296E-08	197
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5FH94-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5FH94-F1-model_v4 GTPase Obg	0.208	283	142	3	285	161	340	1.614E-08	196
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2P5B4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2P5B4-F1-model_v4 GTPase Obg	0.208	263	135	3	265	162	332	3.881E-08	196
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4QM31-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4QM31-F1-model_v4 GTPase Obg	0.205	262	131	3	264	162	327	3.292E-08	196
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q38WT4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q38WT4-F1-model_v4 GTPase Obg	0.228	262	127	3	264	161	326	1.297E-07	196
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WMT0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WMT0-F1-model_v4 GTPase Obg	0.226	262	135	3	264	167	342	9.332E-08	196
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2SEA8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2SEA8-F1-model_v4 GTPase Obg	0.196	263	134	3	265	162	329	1.902E-08	195
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2GGS7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2GGS7-F1-model_v4 GTPase Obg	0.193	268	140	3	270	161	334	9.332E-08	195
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5D410-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5D410-F1-model_v4 GTPase Obg	0.206	313	192	3	315	161	403	3.671E-09	195
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0AIY6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0AIY6-F1-model_v4 GTPase Obg	0.210	355	172	3	357	161	379	5.386E-10	195
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0PU15-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0PU15-F1-model_v4 GTPase Obg	0.227	264	141	3	266	162	345	5.105E-08	195
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4IVW3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4IVW3-F1-model_v4 GTPase Obg	0.196	263	134	3	265	162	329	2.123E-08	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1F9K2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1F9K2-F1-model_v4 GTPase Obg	0.209	262	134	3	264	161	330	1.614E-08	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EPQ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EPQ0-F1-model_v4 GTPase Obg	0.256	284	137	3	286	161	345	9.326E-09	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9MRB8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9MRB8-F1-model_v4 GTPase Obg	0.204	314	198	3	316	161	410	8.823E-10	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4W0M2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4W0M2-F1-model_v4 GTPase Obg	0.236	285	146	3	287	163	354	2.503E-08	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1MMY5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1MMY5-F1-model_v4 GTPase Obg	0.230	262	132	3	264	162	334	9.858E-08	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0C1E6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0C1E6-F1-model_v4 GTPase Obg	0.207	274	174	3	276	162	382	7.912E-09	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7GNK1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7GNK1-F1-model_v4 GTPase Obg	0.218	262	135	3	264	171	343	5.393E-08	194
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q747Q2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q747Q2-F1-model_v4 GTPase Obg	0.205	250	120	3	252	162	313	2.124E-07	193
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HB45-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HB45-F1-model_v4 GTPase Obg	0.209	271	138	3	273	161	336	4.100E-08	193
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KW04-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KW04-F1-model_v4 GTPase Obg	0.214	263	133	3	265	162	331	3.881E-08	193
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4UIU2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4UIU2-F1-model_v4 GTPase Obg	0.223	264	130	3	266	162	329	5.105E-08	193
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4IRC7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4IRC7-F1-model_v4 GTPase Obg	0.227	287	145	3	289	161	348	2.793E-08	193
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KLD6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KLD6-F1-model_v4 GTPase Obg	0.226	262	135	3	264	162	337	1.529E-07	193
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0ZZZ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0ZZZ0-F1-model_v4 GTPase Obg	0.198	300	148	3	302	171	355	3.674E-08	193
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2JJ90-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2JJ90-F1-model_v4 GTPase Obg	0.239	263	126	3	265	162	328	3.674E-08	192
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9H4K7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9H4K7-F1-model_v4 Mitochondrial ribosome-associated GTPase 2	0.202	262	125	3	264	227	384	3.294E-07	192
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9UT06-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9UT06-F1-model_v4 Uncharacterized GTP-binding protein P8A3.11c, mitochondrial	0.200	261	134	3	263	239	407	7.494E-08	192
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F2Y3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F2Y3-F1-model_v4 GTPase Obg	0.233	262	122	3	264	162	321	3.674E-08	191
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3J6S0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3J6S0-F1-model_v4 GTPase Obg	0.179	262	136	3	264	162	328	8.834E-08	191
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6DHF7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6DHF7-F1-model_v4 GTP-binding protein 10	0.200	263	158	3	265	151	348	8.363E-08	191
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9NF57-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9NF57-F1-model_v4 GTPase Obg	0.205	285	145	3	287	162	344	1.902E-08	191
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9AXD9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9AXD9-F1-model_v4 GTPase Obg	0.212	262	130	3	264	164	329	1.529E-07	191
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2A6B7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2A6B7-F1-model_v4 GTPase Obg	0.248	263	129	3	265	161	333	9.858E-08	191
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6AFY1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6AFY1-F1-model_v4 GTPase Obg	0.213	262	132	3	264	162	330	6.716E-08	191
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7J0M7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7J0M7-F1-model_v4 GTPase Obg	0.187	257	131	3	259	163	324	5.697E-08	190
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1WPR5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1WPR5-F1-model_v4 GTPase Obg	0.190	294	145	3	296	162	341	2.243E-08	190
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8I179-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8I179-F1-model_v4 GTPase Obg	0.187	300	195	3	302	161	401	8.358E-09	190
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HNQ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HNQ7-F1-model_v4 GTPase Obg	0.225	283	143	3	285	161	345	1.528E-08	190
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CBZ4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CBZ4-F1-model_v4 GTPase Obg	0.200	281	170	3	283	162	374	1.041E-08	190
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8L1V6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8L1V6-F1-model_v4 GTPase Obg	0.180	300	196	3	302	162	401	1.296E-08	190
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SM73-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SM73-F1-model_v4 GTPase Obg	0.191	257	130	3	259	163	324	1.802E-07	189
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4UJV1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4UJV1-F1-model_v4 GTPase Obg	0.218	262	124	3	264	162	321	8.363E-08	189
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AHG5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AHG5-F1-model_v4 GTPase Obg	0.208	262	137	3	264	162	335	4.575E-08	189
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2I6V6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2I6V6-F1-model_v4 GTPase Obg	0.231	263	141	3	265	162	346	6.357E-08	189
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q892N8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q892N8-F1-model_v4 GTPase Obg	0.236	260	125	3	262	161	325	3.478E-08	189
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0Q8K2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0Q8K2-F1-model_v4 GTPase Obg	0.196	263	134	3	265	162	329	4.100E-08	188
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92BH7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92BH7-F1-model_v4 GTPase Obg	0.199	355	175	3	357	161	379	1.295E-09	188
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1YJR9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1YJR9-F1-model_v4 GTPase Obg	0.198	312	144	3	314	161	341	1.705E-08	188
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8G4U0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8G4U0-F1-model_v4 GTPase Obg	0.187	322	180	3	324	171	393	2.241E-09	188
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3DPS4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3DPS4-F1-model_v4 GTPase Obg	0.199	322	178	3	324	171	393	1.041E-08	188
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8L7L0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8L7L0-F1-model_v4 GTP-binding protein OBGC, chloroplastic	0.185	295	159	3	297	381	576	3.881E-08	188
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8LK09-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8LK09-F1-model_v4 GTPase Obg	0.207	263	137	3	265	162	335	6.716E-08	187
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5H2E5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5H2E5-F1-model_v4 GTPase Obg	0.213	262	133	3	264	162	331	1.041E-07	187
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BZ39-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BZ39-F1-model_v4 GTPase Obg	0.219	283	148	3	285	162	352	8.358E-09	187
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2UCV3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2UCV3-F1-model_v4 GTPase Obg	0.204	262	138	3	264	162	335	6.018E-08	187
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XT35-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XT35-F1-model_v4 GTPase Obg	0.203	262	135	3	264	162	331	8.363E-08	187
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QZT1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QZT1-F1-model_v4 GTPase Obg	0.254	284	134	3	286	161	340	4.575E-08	187
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88VG4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88VG4-F1-model_v4 GTPase Obg	0.214	262	132	3	264	161	329	7.494E-08	187
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9NBL5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9NBL5-F1-model_v4 GTPase Obg	0.210	263	137	3	265	162	335	4.575E-08	186
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q493U5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q493U5-F1-model_v4 GTPase Obg	0.191	262	133	3	264	164	329	9.858E-08	186
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q12F99-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q12F99-F1-model_v4 GTPase Obg	0.203	262	135	3	264	162	331	6.716E-08	186
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6T2D5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6T2D5-F1-model_v4 GTPase Obg	0.213	262	130	3	264	162	327	1.228E-07	186
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2YT86-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2YT86-F1-model_v4 GTPase Obg	0.214	297	152	3	299	161	354	1.041E-08	186
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5ITG8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5ITG8-F1-model_v4 GTPase Obg	0.217	284	150	3	286	161	352	3.292E-08	186
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q14FR3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q14FR3-F1-model_v4 GTPase Obg	0.196	263	134	3	265	162	329	5.393E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q022G3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q022G3-F1-model_v4 GTPase Obg	0.217	250	118	3	252	161	312	6.716E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6J1S8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6J1S8-F1-model_v4 GTPase Obg	0.214	263	136	3	265	162	335	6.357E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IAS7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IAS7-F1-model_v4 GTPase Obg	0.218	263	138	3	265	162	339	5.393E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3IXX9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3IXX9-F1-model_v4 GTPase Obg	0.214	263	133	3	265	162	331	5.697E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P72931-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P72931-F1-model_v4 GTPase Obg	0.214	263	127	3	265	162	323	8.834E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ELU2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ELU2-F1-model_v4 GTPase Obg	0.189	283	148	3	285	162	345	5.393E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7X361-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7X361-F1-model_v4 GTPase Obg	0.214	297	152	3	299	161	354	2.503E-08	185
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8K9G1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8K9G1-F1-model_v4 GTPase Obg	0.198	262	132	3	264	162	326	8.834E-08	184
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8D7S4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8D7S4-F1-model_v4 GTPase Obg	0.180	258	134	3	260	162	326	6.357E-08	184
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9KUS8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9KUS8-F1-model_v4 GTPase Obg/CgtA	0.202	262	132	3	264	162	327	1.100E-07	184
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q71ZD3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q71ZD3-F1-model_v4 GTPase Obg	0.207	355	173	3	357	161	379	1.800E-09	184
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03F34-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03F34-F1-model_v4 GTPase Obg	0.205	287	152	3	289	161	352	6.357E-08	184
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8YV14-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8YV14-F1-model_v4 GTPase Obg	0.167	299	149	3	301	163	342	1.529E-07	184
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8D9H2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8D9H2-F1-model_v4 GTPase Obg	0.180	258	134	3	260	162	326	1.447E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3PQJ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3PQJ0-F1-model_v4 GTPase Obg	0.214	263	133	3	265	162	331	7.094E-08	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q605N2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q605N2-F1-model_v4 GTPase Obg	0.196	263	140	3	265	162	336	6.716E-08	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9FJF8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9FJF8-F1-model_v4 GTPase Obg	0.222	262	131	3	264	162	330	2.124E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9H0F1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9H0F1-F1-model_v4 GTPase Obg	0.211	262	126	3	264	162	322	1.706E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AAD6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AAD6-F1-model_v4 GTPase Obg	0.194	262	134	3	264	162	328	2.011E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q63QM0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q63QM0-F1-model_v4 GTPase Obg	0.198	262	133	3	264	162	328	2.124E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5FGF9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5FGF9-F1-model_v4 GTPase Obg	0.202	284	149	3	286	162	349	2.243E-08	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VP37-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VP37-F1-model_v4 GTPase Obg	0.213	262	130	3	264	162	327	1.615E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IYU8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IYU8-F1-model_v4 GTPase Obg	0.229	284	143	3	286	160	346	1.446E-08	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XJS8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XJS8-F1-model_v4 GTPase Obg	0.201	314	199	3	316	161	410	2.948E-09	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6GG60-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6GG60-F1-model_v4 GTPase Obg	0.218	297	151	3	299	161	354	1.528E-08	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HFB9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HFB9-F1-model_v4 GTPase Obg	0.208	297	153	3	299	161	354	3.674E-08	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8MHK8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8MHK8-F1-model_v4 GTPase Obg	0.207	319	197	3	321	161	409	4.097E-09	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P47624-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P47624-F1-model_v4 GTPase Obg	0.179	298	146	3	300	162	340	1.162E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1SMB4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1SMB4-F1-model_v4 GTPase Obg	0.218	258	126	3	260	164	325	1.297E-07	183
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q65ZZ3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q65ZZ3-F1-model_v4 GTPase Obg	0.197	257	130	3	259	163	325	1.370E-07	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92G19-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92G19-F1-model_v4 GTPase Obg	0.230	262	122	3	264	162	321	1.041E-07	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4WZ45-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4WZ45-F1-model_v4 GTPase Obg	0.219	269	138	3	271	162	339	4.331E-08	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VD74-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VD74-F1-model_v4 GTPase Obg	0.218	262	124	3	264	162	321	1.297E-07	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4SVA3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4SVA3-F1-model_v4 GTPase Obg	0.210	263	137	3	265	162	336	7.094E-08	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9BP68-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9BP68-F1-model_v4 GTPase Obg	0.186	295	141	3	297	162	335	7.094E-08	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5P7Z4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5P7Z4-F1-model_v4 GTPase Obg	0.207	263	138	3	265	162	336	7.494E-08	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6LJZ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6LJZ0-F1-model_v4 GTPase Obg	0.207	301	195	3	303	165	411	3.671E-09	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5Z041-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5Z041-F1-model_v4 GTPase Obg	0.193	322	166	3	324	162	368	4.830E-09	182
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3CQ33-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3CQ33-F1-model_v4 GTPase Obg	0.196	262	128	3	264	162	321	3.883E-07	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5FV29-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5FV29-F1-model_v4 GTPase Obg	0.218	262	125	3	264	162	322	1.706E-07	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5YJ65-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5YJ65-F1-model_v4 GTPase Obg	0.207	262	129	3	264	162	325	3.480E-07	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q28Q12-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q28Q12-F1-model_v4 GTPase Obg	0.211	262	125	3	264	162	320	1.297E-07	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q47AD0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q47AD0-F1-model_v4 GTPase Obg	0.183	284	158	3	286	162	355	3.478E-08	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1Y280-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1Y280-F1-model_v4 GTPase Obg	0.194	262	134	3	264	162	328	1.904E-07	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DHL1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DHL1-F1-model_v4 GTPase Obg	0.207	355	173	3	357	161	379	2.642E-09	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8CNZ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8CNZ7-F1-model_v4 GTPase Obg	0.188	346	172	3	348	161	373	6.014E-09	181
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q46HF4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q46HF4-F1-model_v4 GTPase Obg	0.188	262	130	3	264	162	322	1.297E-07	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8GQ55-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8GQ55-F1-model_v4 GTPase Obg	0.222	262	124	3	264	162	321	3.294E-07	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5FUL2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5FUL2-F1-model_v4 GTPase Obg	0.211	262	126	3	264	162	322	2.244E-07	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31IT4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31IT4-F1-model_v4 GTPase Obg	0.199	263	143	3	265	162	341	6.018E-08	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2STC0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2STC0-F1-model_v4 GTPase Obg	0.209	262	134	3	264	162	331	3.480E-07	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4G8R4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4G8R4-F1-model_v4 GTPase Obg	0.208	262	131	3	264	162	327	1.904E-07	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2JHD7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2JHD7-F1-model_v4 GTPase Obg	0.206	263	139	3	265	162	337	1.041E-07	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MP92-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MP92-F1-model_v4 GTPase Obg	0.206	283	148	3	285	162	349	4.100E-08	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7N0G2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7N0G2-F1-model_v4 GTPase Obg	0.216	261	134	3	263	162	333	8.834E-08	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q74JN7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q74JN7-F1-model_v4 GTPase Obg	0.204	285	152	3	287	161	352	7.094E-08	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DNE7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DNE7-F1-model_v4 GTPase Obg	0.193	347	172	3	349	161	374	9.326E-09	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1J652-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1J652-F1-model_v4 GTPase Obg	0.204	355	178	3	357	163	387	7.489E-09	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9WUU2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9WUU2-F1-model_v4 GTPase Obg	0.192	322	170	3	324	162	373	9.326E-09	180
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6WXS0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6WXS0-F1-model_v4 GTPase Obg	0.203	262	127	3	264	162	321	3.118E-07	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q82V20-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q82V20-F1-model_v4 GTPase Obg	0.204	263	142	3	265	162	340	8.363E-08	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QLE9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QLE9-F1-model_v4 GTPase Obg	0.209	284	142	3	286	162	341	5.105E-08	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2FTD3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2FTD3-F1-model_v4 GTPase Obg	0.221	263	142	3	265	162	344	5.697E-08	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1LIQ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1LIQ0-F1-model_v4 GTPase Obg	0.205	262	132	3	264	162	328	1.904E-07	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3R898-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3R898-F1-model_v4 GTPase Obg	0.213	262	131	3	264	162	328	9.332E-08	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4AAV4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4AAV4-F1-model_v4 GTPase Obg	0.218	284	145	3	286	159	344	1.041E-07	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q039J3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q039J3-F1-model_v4 GTPase Obg	0.198	285	151	3	287	161	349	1.297E-07	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1GAM3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1GAM3-F1-model_v4 GTPase Obg	0.168	319	210	3	321	166	419	1.161E-08	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8ZRN3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8ZRN3-F1-model_v4 GTPase Obg	0.202	263	146	3	265	162	345	9.332E-08	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0D3S3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0D3S3-F1-model_v4 Probable GTP-binding protein OBGC1, chloroplastic	0.182	366	193	3	368	455	691	5.390E-09	179
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P57469-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P57469-F1-model_v4 GTPase Obg	0.180	258	134	3	260	162	326	1.615E-07	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8FM68-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8FM68-F1-model_v4 GTPase Obg	0.198	262	129	3	264	162	323	2.244E-07	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9M3W3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9M3W3-F1-model_v4 GTPase Obg	0.211	262	129	3	264	162	325	2.504E-07	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1W4B0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1W4B0-F1-model_v4 GTPase Obg	0.179	302	148	3	304	162	342	5.393E-08	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8HU67-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8HU67-F1-model_v4 GTPase Obg	0.213	283	151	3	285	162	354	4.575E-08	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q13U15-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q13U15-F1-model_v4 GTPase Obg	0.199	258	132	3	260	162	327	2.244E-07	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FRU4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FRU4-F1-model_v4 GTPase Obg	0.213	262	130	3	264	162	327	2.244E-07	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4F2A8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4F2A8-F1-model_v4 GTPase Obg	0.205	262	131	3	264	162	327	2.011E-07	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1H0I4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1H0I4-F1-model_v4 GTPase Obg	0.198	300	189	3	302	159	395	9.326E-09	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5WHS8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5WHS8-F1-model_v4 GTPase Obg	0.188	300	197	3	302	161	404	2.010E-08	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1VXD8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1VXD8-F1-model_v4 GTPase Obg	0.179	325	168	3	327	162	367	2.793E-08	178
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5CDM6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5CDM6-F1-model_v4 GTPase Obg	0.196	262	128	3	264	162	321	6.022E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BK24-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BK24-F1-model_v4 GTPase Obg	0.192	263	135	3	265	162	329	1.615E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q39QR4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q39QR4-F1-model_v4 GTPase Obg	0.202	260	136	3	262	162	332	5.108E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9KEJ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9KEJ7-F1-model_v4 GTPase Obg	0.223	263	134	3	265	162	335	2.950E-08	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0R5N5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0R5N5-F1-model_v4 GTPase Obg	0.193	264	132	3	266	162	325	3.883E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q73HQ3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q73HQ3-F1-model_v4 GTPase Obg	0.202	262	128	3	264	162	323	6.361E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5N4J6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5N4J6-F1-model_v4 GTPase Obg	0.187	263	140	3	265	162	334	1.228E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2NCX8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2NCX8-F1-model_v4 GTPase Obg	0.211	262	125	3	264	162	321	2.124E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8XVL0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8XVL0-F1-model_v4 GTPase Obg	0.210	263	134	3	265	162	332	1.370E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2U1Z4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2U1Z4-F1-model_v4 GTPase Obg	0.221	258	128	3	260	162	326	2.011E-07	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4A6N4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4A6N4-F1-model_v4 GTPase Obg	0.198	302	190	3	304	161	398	1.296E-08	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8Y6Z3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8Y6Z3-F1-model_v4 GTPase Obg	0.207	355	173	3	357	161	379	4.328E-09	177
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VK90-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VK90-F1-model_v4 GTPase Obg	0.200	262	135	3	264	162	331	2.371E-07	176
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4JBB8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4JBB8-F1-model_v4 GTPase Obg	0.199	263	140	3	265	162	337	1.529E-07	176
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q62GV4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q62GV4-F1-model_v4 GTPase Obg	0.196	263	143	3	265	162	340	1.297E-07	176
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5E871-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5E871-F1-model_v4 GTPase Obg	0.206	284	148	3	286	162	349	5.393E-08	176
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6TQJ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6TQJ6-F1-model_v4 GTPase Obg	0.202	319	196	3	321	161	406	7.912E-09	176
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1R0K4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1R0K4-F1-model_v4 GTPase Obg	0.193	262	127	3	264	163	320	6.022E-07	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FYM2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FYM2-F1-model_v4 GTPase Obg	0.197	263	139	3	265	162	335	2.952E-07	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6IQZ9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6IQZ9-F1-model_v4 GTPase Obg	0.225	263	131	3	265	162	331	1.228E-07	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0U3R3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0U3R3-F1-model_v4 GTPase Obg	0.243	263	139	3	265	162	346	8.363E-08	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0K6P6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0K6P6-F1-model_v4 GTPase Obg	0.205	262	132	3	264	162	328	3.676E-07	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2S5R8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2S5R8-F1-model_v4 GTPase Obg	0.200	263	142	3	265	162	340	1.162E-07	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2JS78-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2JS78-F1-model_v4 GTPase Obg	0.213	284	161	3	286	162	366	4.833E-08	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6LV46-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6LV46-F1-model_v4 GTPase Obg	0.190	300	168	3	302	162	369	2.010E-08	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q87SU2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q87SU2-F1-model_v4 GTPase Obg	0.212	285	144	3	287	162	345	5.105E-08	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1I5V8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1I5V8-F1-model_v4 GTPase Obg	0.205	310	182	3	312	161	390	2.950E-08	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SR54-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SR54-F1-model_v4 GTPase Obg	0.210	262	130	3	264	161	325	1.904E-07	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2RJQ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2RJQ6-F1-model_v4 GTPase Obg	0.204	355	178	3	357	163	387	6.711E-09	175
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZCB6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZCB6-F1-model_v4 GTPase Obg	0.198	294	135	3	296	162	330	1.447E-07	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8YJ80-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8YJ80-F1-model_v4 GTPase Obg	0.207	263	137	3	265	162	335	1.802E-07	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67849-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67849-F1-model_v4 GTPase Obg	0.218	263	138	3	265	163	340	2.011E-07	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q07YJ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q07YJ0-F1-model_v4 GTPase Obg	0.208	263	131	3	265	162	328	2.952E-07	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6E0U3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6E0U3-F1-model_v4 GTPase Obg/CgtA	0.205	289	157	3	291	162	360	3.478E-08	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4SR17-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4SR17-F1-model_v4 GTPase Obg	0.194	302	159	3	304	162	359	2.793E-08	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0KGS9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0KGS9-F1-model_v4 GTPase Obg	0.184	302	174	3	304	162	375	1.614E-08	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0MDB4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0MDB4-F1-model_v4 GTPase Obg	0.208	310	200	3	312	163	415	9.852E-09	174
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2BP15-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2BP15-F1-model_v4 GTPase Obg	0.203	262	128	3	264	162	322	3.883E-07	173
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1LSJ9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1LSJ9-F1-model_v4 GTPase Obg	0.189	262	134	3	264	162	327	2.011E-07	173
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3YRX8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3YRX8-F1-model_v4 GTPase Obg	0.187	268	140	3	270	161	333	9.864E-07	173
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2SZG0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2SZG0-F1-model_v4 GTPase Obg	0.204	263	142	3	265	162	340	1.228E-07	173
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7VID5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7VID5-F1-model_v4 GTPase Obg	0.207	292	160	3	294	162	364	5.697E-08	173
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4L6Y9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4L6Y9-F1-model_v4 GTPase Obg	0.191	346	172	3	348	161	373	7.489E-09	173
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q47MV6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q47MV6-F1-model_v4 GTPase Obg	0.196	304	203	3	306	162	415	1.369E-08	173
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2C050-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2C050-F1-model_v4 GTPase Obg	0.188	262	130	3	264	162	322	2.952E-07	172
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31PN0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31PN0-F1-model_v4 GTPase Obg	0.189	263	138	3	265	162	332	3.480E-07	172
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0RY32-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0RY32-F1-model_v4 GTPase Obg	0.223	263	138	3	265	162	339	1.100E-07	172
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1IVS5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1IVS5-F1-model_v4 GTPase Obg	0.206	263	137	3	265	161	334	2.371E-07	172
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2SYV2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2SYV2-F1-model_v4 GTPase Obg	0.187	263	144	3	265	162	339	2.124E-07	172
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7UVH6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7UVH6-F1-model_v4 GTPase Obg	0.189	262	135	3	264	161	328	1.042E-06	172
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6KHM2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6KHM2-F1-model_v4 GTPase Obg	0.191	303	189	3	305	159	393	4.331E-08	172
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O51722-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O51722-F1-model_v4 GTPase Obg	0.180	257	132	3	259	163	324	1.706E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1X580-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1X580-F1-model_v4 Putative GTPase Obg	0.184	263	135	3	265	162	328	3.294E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VDW9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VDW9-F1-model_v4 GTPase Obg	0.192	262	129	3	264	162	322	5.108E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1AW67-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1AW67-F1-model_v4 GTPase Obg	0.203	251	122	3	253	162	315	1.370E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9M882-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9M882-F1-model_v4 GTPase Obg	0.196	262	128	3	264	162	321	9.864E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0JI21-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0JI21-F1-model_v4 GTPase Obg	0.210	263	127	3	265	162	323	2.011E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1GHD0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1GHD0-F1-model_v4 GTPase Obg	0.198	269	149	3	271	162	348	8.834E-08	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2GK25-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2GK25-F1-model_v4 GTPase Obg	0.195	269	142	3	271	162	338	2.645E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1R6F4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1R6F4-F1-model_v4 GTPase Obg	0.201	291	161	3	293	162	363	4.575E-08	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3YX58-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3YX58-F1-model_v4 GTPase Obg	0.206	284	145	3	286	162	344	1.100E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8G8Z4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8G8Z4-F1-model_v4 GTPase Obg	0.187	303	172	3	305	162	374	3.674E-08	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2RV04-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2RV04-F1-model_v4 GTPase Obg	0.200	262	127	3	264	162	321	3.676E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5UI23-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5UI23-F1-model_v4 GTPase Obg	0.182	296	170	3	298	162	370	5.393E-08	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2VZU2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2VZU2-F1-model_v4 GTPase Obg	0.209	284	149	3	286	162	350	6.018E-08	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7GIR2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7GIR2-F1-model_v4 GTPase Obg	0.207	357	174	3	359	161	380	1.041E-08	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6F0U3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6F0U3-F1-model_v4 GTPase Obg	0.187	295	196	3	297	162	403	4.331E-08	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5FKH5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5FKH5-F1-model_v4 GTPase Obg	0.167	299	149	3	301	163	342	3.294E-07	171
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9BDI4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9BDI4-F1-model_v4 GTPase Obg	0.184	263	131	3	265	162	323	4.578E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F063-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F063-F1-model_v4 GTPase Obg	0.218	262	124	3	264	162	321	1.228E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q68VS1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q68VS1-F1-model_v4 GTPase Obg	0.218	262	124	3	264	162	321	6.022E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7NEQ3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7NEQ3-F1-model_v4 GTPase Obg	0.192	263	135	3	265	162	329	3.480E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1AT81-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1AT81-F1-model_v4 GTPase Obg	0.191	260	138	3	262	162	332	1.447E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q057J0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q057J0-F1-model_v4 GTPase Obg	0.202	262	130	3	264	162	325	2.645E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8PN23-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8PN23-F1-model_v4 GTPase Obg	0.214	263	138	3	265	162	337	6.720E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2SD36-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2SD36-F1-model_v4 GTPase Obg	0.185	299	146	3	301	162	341	1.529E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5R039-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5R039-F1-model_v4 GTPase Obg	0.192	303	168	3	305	162	370	4.833E-08	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KAD0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KAD0-F1-model_v4 GTPase Obg	0.209	262	131	3	264	162	328	4.578E-07	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2NIK0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2NIK0-F1-model_v4 GTPase Obg	0.208	312	188	3	314	161	398	9.852E-09	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8GA36-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8GA36-F1-model_v4 GTPase Obg	0.165	316	205	3	318	167	413	2.644E-08	170
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8YQT0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8YQT0-F1-model_v4 GTPase Obg	0.190	263	132	3	265	162	325	5.108E-07	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8IEL9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8IEL9-F1-model_v4 GTPase Obg	0.199	269	144	3	271	162	342	1.802E-07	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8K013-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8K013-F1-model_v4 GTP-binding protein 10	0.207	263	156	3	265	151	348	2.645E-07	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4E5X0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4E5X0-F1-model_v4 GTPase Obg	0.202	263	140	3	265	162	337	2.952E-07	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4RQP4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4RQP4-F1-model_v4 GTPase Obg	0.180	263	158	3	265	162	355	2.794E-07	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3IFF6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3IFF6-F1-model_v4 GTPase Obg	0.192	297	163	3	299	162	364	1.615E-07	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1SSB6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1SSB6-F1-model_v4 GTPase Obg	0.196	303	166	3	305	162	368	4.100E-08	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DEC6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DEC6-F1-model_v4 GTPase Obg	0.205	285	145	3	287	162	345	1.529E-07	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AWJ4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AWJ4-F1-model_v4 GTPase Obg	0.198	302	192	3	304	161	401	6.018E-08	169
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DGG4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DGG4-F1-model_v4 GTPase Obg	0.199	263	129	3	265	162	323	6.361E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8ZRY1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8ZRY1-F1-model_v4 GTPase Obg	0.191	262	133	3	264	162	326	7.099E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q83ED8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q83ED8-F1-model_v4 GTPase Obg	0.227	263	134	3	265	162	335	1.100E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2S806-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2S806-F1-model_v4 GTPase Obg	0.204	263	138	3	265	162	335	3.294E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9WWW9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9WWW9-F1-model_v4 GTPase Obg	0.194	262	128	3	264	162	321	5.108E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BIH8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BIH8-F1-model_v4 GTPase Obg	0.202	263	140	3	265	162	337	2.952E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1JVA1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1JVA1-F1-model_v4 GTPase Obg	0.199	263	140	3	265	162	337	4.578E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0K4B0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0K4B0-F1-model_v4 GTPase Obg	0.206	263	139	3	265	162	337	2.504E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1BZE0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1BZE0-F1-model_v4 GTPase Obg	0.202	263	140	3	265	162	337	3.294E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2NW34-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2NW34-F1-model_v4 GTPase Obg	0.196	303	169	3	305	162	372	4.100E-08	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5REP9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5REP9-F1-model_v4 GTPase Obg	0.213	262	130	3	264	162	327	5.396E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6EL43-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6EL43-F1-model_v4 GTPase Obg	0.193	287	162	3	289	162	363	5.697E-08	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9E021-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9E021-F1-model_v4 GTPase Obg	0.200	286	146	3	288	161	344	2.645E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6G8S5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6G8S5-F1-model_v4 GTPase Obg	0.188	346	172	3	348	161	373	2.369E-08	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9WXV3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9WXV3-F1-model_v4 GTPase Obg	0.214	297	137	3	299	167	341	1.447E-07	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q99Z94-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q99Z94-F1-model_v4 GTPase Obg	0.202	355	179	3	357	163	387	1.369E-08	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5CR32-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5CR32-F1-model_v4 GTPase Obg	0.183	325	176	3	327	162	377	3.116E-08	168
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2C6N6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2C6N6-F1-model_v4 GTPase Obg	0.188	263	135	3	265	162	328	3.480E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5GTG3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5GTG3-F1-model_v4 GTPase Obg	0.200	282	142	3	284	162	340	2.124E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QUB5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QUB5-F1-model_v4 GTPase Obg	0.223	262	129	3	264	162	328	5.396E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0UMS4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0UMS4-F1-model_v4 GTPase Obg	0.200	262	127	3	264	162	321	1.042E-06	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3BW46-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3BW46-F1-model_v4 GTPase Obg	0.222	263	142	3	265	162	344	2.645E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3DVG9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3DVG9-F1-model_v4 GTPase Obg	0.215	283	145	3	285	180	365	1.529E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9JUH9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9JUH9-F1-model_v4 GTPase Obg	0.203	263	139	3	265	162	336	3.883E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9AI60-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9AI60-F1-model_v4 GTPase Obg	0.206	264	139	3	266	162	337	5.700E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1YSU7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1YSU7-F1-model_v4 GTPase Obg	0.194	263	143	3	265	162	339	3.118E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0HLU0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0HLU0-F1-model_v4 GTPase Obg	0.210	303	164	3	305	162	369	4.331E-08	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0L072-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0L072-F1-model_v4 GTPase Obg	0.204	303	165	3	305	162	369	6.018E-08	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1AG86-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1AG86-F1-model_v4 GTPase Obg	0.206	303	168	3	305	162	374	3.881E-08	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3GZN0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3GZN0-F1-model_v4 GTPase Obg	0.187	288	162	3	290	162	361	1.802E-07	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q15PF0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q15PF0-F1-model_v4 GTPase Obg	0.218	303	159	3	305	162	365	4.331E-08	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TYY4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TYY4-F1-model_v4 GTPase Obg	0.169	313	179	3	315	162	377	6.716E-08	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MTG9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MTG9-F1-model_v4 GTPase Obg	0.200	302	198	3	304	162	409	5.393E-08	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7NB30-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7NB30-F1-model_v4 GTPase Obg	0.210	263	129	3	265	162	325	1.530E-06	167
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6UDV6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6UDV6-F1-model_v4 GTPase Obg	0.206	263	135	3	265	162	332	4.102E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2S3C0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2S3C0-F1-model_v4 GTPase Obg	0.214	258	127	3	260	161	322	6.022E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VSI5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VSI5-F1-model_v4 GTPase Obg	0.198	262	128	3	264	162	321	8.368E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1ZL15-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1ZL15-F1-model_v4 GTPase Obg	0.197	262	131	3	264	162	325	3.883E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0LPF9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0LPF9-F1-model_v4 GTPase Obg	0.197	284	148	3	286	162	346	2.124E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8PBH0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8PBH0-F1-model_v4 GTPase Obg	0.229	263	131	3	265	162	332	3.883E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0T310-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0T310-F1-model_v4 GTPase Obg	0.206	260	136	3	262	162	333	3.294E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ZUE3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ZUE3-F1-model_v4 GTPase Obg	0.182	284	153	3	286	162	349	1.529E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3MYB2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3MYB2-F1-model_v4 GTPase Obg	0.182	288	164	3	290	162	362	2.124E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7FXU6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7FXU6-F1-model_v4 GTPase Obg	0.218	284	146	3	286	161	348	1.297E-07	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q043W1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q043W1-F1-model_v4 GTPase Obg	0.193	301	197	3	303	161	405	5.393E-08	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7A584-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7A584-F1-model_v4 GTPase Obg	0.191	346	172	3	348	161	373	2.793E-08	166
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MEQ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MEQ6-F1-model_v4 GTPase Obg	0.189	267	143	3	269	161	337	5.396E-07	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5WTF1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5WTF1-F1-model_v4 GTPase Obg	0.221	263	138	3	265	162	339	1.100E-07	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9MDZ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9MDZ7-F1-model_v4 GTPase Obg	0.195	302	145	3	304	162	342	2.244E-07	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2K2X6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2K2X6-F1-model_v4 GTPase Obg	0.186	288	151	3	290	162	347	2.124E-07	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3MHG6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3MHG6-F1-model_v4 GTP-binding protein 10	0.194	319	176	3	321	151	369	6.357E-08	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8AQ74-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8AQ74-F1-model_v4 GTPase Obg	0.211	303	167	3	305	162	374	5.105E-08	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5YS72-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5YS72-F1-model_v4 GTPase Obg	0.201	310	162	3	312	162	365	5.697E-08	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CNS4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CNS4-F1-model_v4 GTPase Obg	0.194	297	166	3	299	162	368	1.100E-07	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0TCS7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0TCS7-F1-model_v4 GTPase Obg	0.206	284	145	3	286	162	344	2.011E-07	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7A0Q3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7A0Q3-F1-model_v4 GTPase Obg	0.188	346	172	3	348	161	373	3.478E-08	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6U2B2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6U2B2-F1-model_v4 GTPase Obg	0.185	346	173	3	348	161	373	3.292E-08	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8E465-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8E465-F1-model_v4 GTPase Obg	0.211	310	199	3	312	163	415	2.793E-08	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9LC30-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9LC30-F1-model_v4 GTPase Obg	0.188	316	196	3	318	167	408	5.393E-08	165
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7V368-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7V368-F1-model_v4 GTPase Obg	0.200	257	131	3	259	162	326	7.499E-07	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2BUJ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2BUJ6-F1-model_v4 GTPase Obg	0.218	263	126	3	265	162	323	9.338E-07	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2S1C3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2S1C3-F1-model_v4 GTPase Obg	0.189	262	127	3	264	163	320	1.101E-06	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5ZS70-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5ZS70-F1-model_v4 GTPase Obg	0.215	263	139	3	265	162	339	9.332E-08	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3A1D8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3A1D8-F1-model_v4 GTPase Obg	0.193	262	135	3	264	162	329	1.101E-06	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q39JU7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q39JU7-F1-model_v4 GTPase Obg	0.200	263	142	3	265	162	340	6.022E-07	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3JNG0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3JNG0-F1-model_v4 GTPase Obg	0.200	263	142	3	265	162	340	5.108E-07	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1JIV6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1JIV6-F1-model_v4 GTPase Obg	0.173	291	168	3	293	162	365	1.529E-07	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0I1P5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0I1P5-F1-model_v4 GTPase Obg	0.196	297	166	3	299	162	368	6.357E-08	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6YRC6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6YRC6-F1-model_v4 GTPase Obg	0.183	346	210	3	348	164	421	4.830E-09	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1ILY5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1ILY5-F1-model_v4 GTPase Obg	0.210	286	145	3	288	161	344	1.904E-07	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q97JL4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q97JL4-F1-model_v4 GTPase Obg	0.221	283	145	3	285	161	347	1.297E-07	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9WK62-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9WK62-F1-model_v4 GTPase Obg	0.189	318	199	1	318	163	408	5.697E-08	164
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0I7I2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0I7I2-F1-model_v4 GTPase Obg	0.202	263	132	3	265	162	328	3.883E-07	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2YLM2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2YLM2-F1-model_v4 GTPase Obg	0.207	263	137	3	265	162	335	6.720E-07	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8HS51-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8HS51-F1-model_v4 GTPase Obg	0.192	262	128	3	264	162	321	1.371E-06	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4US36-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4US36-F1-model_v4 GTPase Obg	0.218	263	133	3	265	162	332	4.578E-07	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q47VL4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q47VL4-F1-model_v4 GTPase Obg	0.203	297	164	3	299	162	368	5.697E-08	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q57JG7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q57JG7-F1-model_v4 GTPase Obg	0.206	303	168	3	305	162	374	6.716E-08	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P44915-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P44915-F1-model_v4 GTPase Obg	0.187	297	168	3	299	162	369	7.916E-08	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6VMU1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6VMU1-F1-model_v4 GTPase Obg	0.186	297	168	3	299	162	368	1.162E-07	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MYX6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MYX6-F1-model_v4 GTPase Obg	0.188	297	171	3	299	162	373	1.041E-07	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8Z2H2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8Z2H2-F1-model_v4 GTPase Obg	0.185	357	180	3	359	161	382	2.503E-08	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7IGK8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7IGK8-F1-model_v4 GTPase Obg	0.194	301	198	3	303	165	411	4.100E-08	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PQ29-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PQ29-F1-model_v4 GTPase Obg	0.192	312	205	3	314	162	416	2.369E-08	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1AJA2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1AJA2-F1-model_v4 GTPase Obg	0.189	312	206	3	314	162	416	2.369E-08	163
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7IH06-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7IH06-F1-model_v4 GTPase Obg	0.197	267	142	3	269	162	339	5.396E-07	162
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6I1Q6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6I1Q6-F1-model_v4 GTPase Obg	0.209	303	168	3	305	162	374	7.494E-08	162
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1CEK0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1CEK0-F1-model_v4 GTPase Obg	0.180	303	174	3	305	162	374	1.706E-07	162
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7GHK2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7GHK2-F1-model_v4 GTPase Obg	0.220	285	147	3	287	161	349	1.529E-07	162
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2SRV9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2SRV9-F1-model_v4 GTPase Obg	0.197	302	198	3	304	162	409	6.357E-08	162
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2KAW2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2KAW2-F1-model_v4 GTPase Obg	0.204	310	189	3	312	160	397	3.881E-08	162
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2YPR8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2YPR8-F1-model_v4 Probable GTP-binding protein OBGC1, chloroplastic	0.178	357	185	3	359	455	680	8.834E-08	162
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31CW3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31CW3-F1-model_v4 GTPase Obg	0.196	262	129	3	264	162	322	1.707E-06	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3PAT7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3PAT7-F1-model_v4 GTPase Obg	0.200	262	128	3	264	162	322	1.707E-06	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5X1P1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5X1P1-F1-model_v4 GTPase Obg	0.228	263	137	3	265	162	339	2.124E-07	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0CDA2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0CDA2-F1-model_v4 GTPase Obg	0.188	284	152	3	286	162	349	3.676E-07	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q87BL2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q87BL2-F1-model_v4 GTPase Obg	0.237	263	140	3	265	162	346	6.361E-07	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3PRZ3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3PRZ3-F1-model_v4 GTPase Obg	0.185	285	148	3	287	162	344	3.676E-07	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9JER1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9JER1-F1-model_v4 GTPase Obg	0.189	284	154	3	286	162	352	4.333E-07	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8X9K7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8X9K7-F1-model_v4 GTPase Obg	0.208	303	168	3	305	162	374	7.094E-08	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1IQU0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1IQU0-F1-model_v4 GTPase Obg	0.192	310	164	3	312	162	365	7.916E-08	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8ZLS5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8ZLS5-F1-model_v4 GTPase Obg	0.198	291	161	3	293	162	363	1.529E-07	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1KZR3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1KZR3-F1-model_v4 GTPase Obg	0.221	284	146	3	286	161	348	1.904E-07	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6QHI6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6QHI6-F1-model_v4 GTPase Obg	0.182	346	173	3	348	161	373	5.393E-08	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q834V4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q834V4-F1-model_v4 GTPase Obg	0.194	363	189	3	365	163	398	2.123E-08	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9BK05-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9BK05-F1-model_v4 GTPase Obg	0.196	301	203	3	303	164	417	1.528E-08	161
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2IYX1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2IYX1-F1-model_v4 GTPase Obg	0.197	262	130	3	264	162	324	1.905E-06	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1M697-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1M697-F1-model_v4 GTPase Obg	0.219	262	127	3	264	162	325	7.921E-07	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3MR90-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3MR90-F1-model_v4 GTPase Obg	0.186	283	171	3	285	162	372	2.011E-07	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3NDS7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3NDS7-F1-model_v4 GTPase Obg	0.189	283	170	3	285	162	372	1.041E-07	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7WQL8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7WQL8-F1-model_v4 GTPase Obg	0.195	263	144	3	265	162	341	7.094E-08	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3QB95-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3QB95-F1-model_v4 GTPase Obg	0.204	295	158	3	297	162	360	2.244E-07	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7N0W5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7N0W5-F1-model_v4 GTPase Obg	0.201	310	162	3	312	162	365	9.332E-08	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2VGT5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2VGT5-F1-model_v4 GTPase Obg	0.171	292	167	3	294	162	364	3.118E-07	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q99TK9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q99TK9-F1-model_v4 GTPase Obg	0.188	346	172	3	348	161	373	6.357E-08	160
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3CNP2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3CNP2-F1-model_v4 GTPase Obg	0.209	262	127	3	264	162	323	8.368E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5EVP4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5EVP4-F1-model_v4 GTPase Obg	0.200	262	133	3	264	162	328	8.840E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1KGH1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1KGH1-F1-model_v4 GTPase Obg	0.210	263	134	3	265	162	331	1.228E-06	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1LFT3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1LFT3-F1-model_v4 GTPase Obg	0.195	310	163	3	312	162	365	9.858E-08	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4TJ21-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4TJ21-F1-model_v4 GTPase Obg	0.206	312	160	3	314	162	364	9.332E-08	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4TWF3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4TWF3-F1-model_v4 GTPase Obg	0.189	297	170	3	299	162	372	1.706E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0PZJ5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0PZJ5-F1-model_v4 GTPase Obg	0.203	303	169	3	305	162	374	9.858E-08	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5BGK7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5BGK7-F1-model_v4 GTPase Obg	0.203	288	155	3	290	162	357	2.504E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8F871-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8F871-F1-model_v4 GTPase Obg	0.195	297	163	3	299	162	364	3.480E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0UVI2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0UVI2-F1-model_v4 GTPase Obg	0.197	297	162	3	299	162	364	1.904E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5WFV1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5WFV1-F1-model_v4 GTPase Obg	0.203	262	138	3	264	162	335	8.840E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1WT46-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1WT46-F1-model_v4 GTPase Obg	0.191	357	180	3	359	161	384	1.446E-08	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8E0B2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8E0B2-F1-model_v4 GTPase Obg	0.194	325	165	3	327	161	366	1.615E-07	159
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5RQB8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5RQB8-F1-model_v4 GTPase Obg	0.172	257	133	3	259	163	324	7.926E-06	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q21D04-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q21D04-F1-model_v4 GTPase Obg	0.191	291	144	3	293	162	340	9.338E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3SVI2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3SVI2-F1-model_v4 GTPase Obg	0.184	297	150	3	299	162	346	6.022E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1V0P1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1V0P1-F1-model_v4 GTPase Obg	0.186	316	157	3	318	162	355	2.011E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EB83-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EB83-F1-model_v4 GTPase Obg	0.208	302	160	3	304	162	364	2.124E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7UJ76-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7UJ76-F1-model_v4 GTPase Obg	0.208	303	168	3	305	162	374	1.041E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7LR50-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7LR50-F1-model_v4 GTPase Obg	0.204	310	162	3	312	162	365	1.447E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8A4Z8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8A4Z8-F1-model_v4 GTPase Obg	0.208	303	168	3	305	162	374	1.162E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7NDG7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7NDG7-F1-model_v4 GTPase Obg	0.200	303	170	3	305	162	374	1.297E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4T714-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4T714-F1-model_v4 GTPase Obg	0.200	312	162	3	314	162	364	1.100E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q83Q14-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q83Q14-F1-model_v4 GTPase Obg	0.195	310	163	3	312	162	365	1.041E-07	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F478-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F478-F1-model_v4 GTPase Obg	0.208	309	197	3	311	165	414	6.716E-08	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2GBD0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2GBD0-F1-model_v4 GTPase Obg	0.170	366	194	3	368	163	397	4.100E-08	158
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3AV08-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3AV08-F1-model_v4 GTPase Obg	0.195	263	130	3	265	162	323	1.228E-06	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7U4Y5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7U4Y5-F1-model_v4 GTPase Obg	0.214	263	130	3	265	162	328	7.099E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5GQQ5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5GQQ5-F1-model_v4 GTPase Obg	0.184	263	135	3	265	162	328	1.163E-06	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5NR23-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5NR23-F1-model_v4 GTPase Obg	0.196	264	140	3	266	162	336	1.298E-06	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HT67-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HT67-F1-model_v4 GTPase Obg	0.211	263	136	3	265	162	335	7.099E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2J3J8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2J3J8-F1-model_v4 GTPase Obg	0.207	262	126	3	264	162	321	1.803E-06	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3NZJ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3NZJ0-F1-model_v4 GTPase Obg	0.183	283	172	3	285	162	372	3.294E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5F5D9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5F5D9-F1-model_v4 GTPase Obg	0.180	263	158	3	265	162	355	8.368E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7M089-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7M089-F1-model_v4 GTPase Obg	0.195	310	163	3	312	162	365	1.370E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5R0H4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5R0H4-F1-model_v4 GTPase Obg	0.206	312	160	3	314	162	364	1.228E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7ZS79-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7ZS79-F1-model_v4 GTPase Obg	0.195	310	163	3	312	162	365	1.297E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FD82-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FD82-F1-model_v4 GTPase Obg	0.211	303	167	3	305	162	374	1.370E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7CKJ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7CKJ6-F1-model_v4 GTPase Obg	0.181	303	174	3	305	162	374	3.294E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0BRJ9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0BRJ9-F1-model_v4 GTPase Obg	0.196	289	160	3	291	162	361	4.333E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1LA53-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1LA53-F1-model_v4 GTPase Obg	0.185	301	200	3	303	167	412	1.297E-07	157
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q57B45-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q57B45-F1-model_v4 GTPase Obg	0.199	263	139	3	265	162	335	6.720E-07	156
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2L062-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2L062-F1-model_v4 GTPase Obg	0.192	262	136	3	264	162	330	1.904E-07	156
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KWG2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KWG2-F1-model_v4 GTPase Obg	0.180	263	158	3	265	162	355	8.368E-07	156
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0LCZ3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0LCZ3-F1-model_v4 GTPase Obg	0.176	284	168	3	286	162	366	1.447E-07	156
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0T0A1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0T0A1-F1-model_v4 GTPase Obg	0.195	310	163	3	312	162	365	1.370E-07	156
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3WE52-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3WE52-F1-model_v4 GTPase Obg	0.175	319	203	3	321	161	407	9.332E-08	156
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HJZ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HJZ8-F1-model_v4 GTPase Obg	0.193	309	206	3	311	165	420	7.916E-08	156
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q11CP6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q11CP6-F1-model_v4 GTPase Obg	0.193	263	140	3	265	162	335	1.371E-06	155
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0HRZ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0HRZ8-F1-model_v4 GTPase Obg	0.214	303	163	3	305	162	369	2.794E-07	155
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5F6V2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5F6V2-F1-model_v4 GTPase Obg	0.206	312	160	3	314	162	364	2.124E-07	155
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7NKQ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7NKQ0-F1-model_v4 GTPase Obg	0.211	303	167	3	305	162	374	6.357E-08	155
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2K2P2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2K2P2-F1-model_v4 GTPase Obg	0.183	303	173	3	305	162	374	2.794E-07	155
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5XSV8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5XSV8-F1-model_v4 GTPase Obg	0.208	300	159	3	302	162	363	2.504E-07	155
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0TNI5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0TNI5-F1-model_v4 GTPase Obg	0.193	286	148	3	288	161	344	7.099E-07	155
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89X89-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89X89-F1-model_v4 GTPase Obg	0.189	291	144	3	293	162	340	1.448E-06	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6NDE6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6NDE6-F1-model_v4 GTPase Obg	0.211	262	125	3	264	162	321	2.506E-06	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5U528-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5U528-F1-model_v4 GTP-binding protein 10	0.189	310	165	3	312	151	355	3.118E-07	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9N750-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9N750-F1-model_v4 GTPase Obg	0.208	303	168	3	305	162	374	2.124E-07	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PLB7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PLB7-F1-model_v4 GTPase Obg	0.197	312	162	3	314	162	364	1.529E-07	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7MBV2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7MBV2-F1-model_v4 GTPase Obg	0.195	310	163	3	312	162	365	1.802E-07	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9MP23-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9MP23-F1-model_v4 GTPase Obg	0.196	313	163	3	315	162	365	1.615E-07	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q21M07-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q21M07-F1-model_v4 GTPase Obg	0.178	313	174	3	315	162	374	3.294E-07	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5YEQ1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5YEQ1-F1-model_v4 GTPase Obg	0.193	319	199	3	321	161	408	7.094E-08	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38860-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38860-F1-model_v4 GTPase MTG2, mitochondrial	0.203	263	132	3	265	342	507	3.886E-06	154
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4S5P1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4S5P1-F1-model_v4 GTPase Obg	0.197	261	124	3	263	162	316	7.921E-07	153
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7KSH0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7KSH0-F1-model_v4 GTPase Obg	0.189	269	145	3	271	162	341	6.361E-07	153
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6JD21-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6JD21-F1-model_v4 GTPase Obg	0.200	262	127	3	264	162	321	2.796E-06	153
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4Y427-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4Y427-F1-model_v4 GTPase Obg	0.195	297	165	3	299	162	367	3.118E-07	153
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8Z3H1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8Z3H1-F1-model_v4 GTPase Obg	0.200	312	162	3	314	162	364	2.244E-07	153
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4WEZ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4WEZ6-F1-model_v4 GTPase Obg	0.205	300	166	3	302	162	371	2.645E-07	153
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ZBV6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ZBV6-F1-model_v4 GTPase Obg	0.195	312	204	3	314	162	416	7.916E-08	153
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q98EZ3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q98EZ3-F1-model_v4 GTPase Obg	0.190	261	131	3	263	162	324	2.796E-06	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1IPH6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1IPH6-F1-model_v4 GTPase Obg	0.180	263	158	3	265	162	355	1.448E-06	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7LHP6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7LHP6-F1-model_v4 GTPase Obg	0.204	310	162	3	312	162	365	2.645E-07	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31W60-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q31W60-F1-model_v4 GTPase Obg	0.204	310	162	3	312	162	365	2.504E-07	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9HVL8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9HVL8-F1-model_v4 GTPase Obg	0.167	316	173	3	318	162	370	1.802E-07	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5Y805-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5Y805-F1-model_v4 GTPase Obg	0.179	272	157	1	272	157	348	3.294E-07	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0S3Z4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0S3Z4-F1-model_v4 GTPase Obg	0.190	286	146	3	288	161	341	1.042E-06	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5I666-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5I666-F1-model_v4 GTPase Obg	0.209	286	145	3	288	161	344	4.578E-07	152
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8G2M6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8G2M6-F1-model_v4 GTPase Obg	0.196	257	132	3	259	162	326	1.163E-06	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q253F8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q253F8-F1-model_v4 GTPase Obg	0.215	251	122	3	253	161	317	9.864E-07	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PAS5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PAS5-F1-model_v4 GTPase Obg 1	0.185	263	134	3	265	162	326	4.580E-06	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AKX2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0AKX2-F1-model_v4 GTPase Obg	0.206	263	136	3	265	162	333	1.530E-06	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8F7U0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8F7U0-F1-model_v4 GTPase Obg	0.206	262	127	3	264	163	323	3.120E-06	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4RZH3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4RZH3-F1-model_v4 GTPase Obg	0.208	303	166	3	305	162	372	2.124E-07	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1QA43-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1QA43-F1-model_v4 GTPase Obg	0.182	313	173	3	315	162	373	3.883E-07	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4FRK6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4FRK6-F1-model_v4 GTPase Obg	0.189	313	171	3	315	162	373	2.645E-07	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7V0A9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7V0A9-F1-model_v4 GTPase Obg	0.167	316	173	3	318	162	370	2.504E-07	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0VTQ1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0VTQ1-F1-model_v4 GTPase Obg	0.184	319	174	3	321	162	375	4.333E-07	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FXT1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FXT1-F1-model_v4 GTPase Obg	0.184	357	180	3	359	161	382	1.706E-07	151
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5E958-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5E958-F1-model_v4 GTPase Obg	0.192	261	132	3	263	162	325	3.120E-06	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3MCS7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3MCS7-F1-model_v4 GTPase Obg	0.203	263	130	3	265	162	325	2.647E-06	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1MA76-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1MA76-F1-model_v4 GTPase Obg	0.187	284	152	3	286	162	349	1.448E-06	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72DK0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72DK0-F1-model_v4 GTPase Obg	0.200	258	136	3	260	165	335	1.371E-06	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9M061-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9M061-F1-model_v4 GTPase Obg	0.197	263	155	3	265	162	355	8.840E-07	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4D1E9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4D1E9-F1-model_v4 GTP-binding protein 10	0.183	319	178	3	321	151	369	1.297E-07	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q32BF0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q32BF0-F1-model_v4 GTPase Obg	0.212	296	162	3	298	162	367	4.578E-07	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6TEK2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6TEK2-F1-model_v4 GTPase Obg	0.206	312	160	3	314	162	364	2.124E-07	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1D6E3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1D6E3-F1-model_v4 Threonine--tRNA ligase	0.189	79	51	320	398	2	65	2.376E-03	150
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3Q731-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3Q731-F1-model_v4 GTPase Obg	0.211	262	125	3	264	162	321	4.580E-06	149
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4YKF3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4YKF3-F1-model_v4 GTPase Obg	0.197	297	148	3	299	162	346	1.530E-06	149
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q49Y82-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q49Y82-F1-model_v4 GTPase Obg	0.190	346	173	3	348	161	374	2.504E-07	149
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7TUR3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7TUR3-F1-model_v4 GTPase Obg	0.195	263	134	3	265	162	328	1.707E-06	148
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7GYV1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7GYV1-F1-model_v4 GTPase Obg	0.184	319	174	3	321	162	375	6.720E-07	148
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P75215-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P75215-F1-model_v4 GTPase Obg	0.190	285	156	3	287	162	354	2.126E-06	148
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9RY66-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9RY66-F1-model_v4 GTPase Obg	0.162	319	211	3	321	162	414	6.357E-08	148
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5RMX3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5RMX3-F1-model_v4 GTPase Obg	0.171	250	120	3	252	163	308	2.954E-06	147
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2V968-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2V968-F1-model_v4 GTPase Obg	0.208	263	135	3	265	161	332	4.580E-06	147
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0CB41-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0CB41-F1-model_v4 GTPase Obg	0.212	263	135	3	265	162	333	2.126E-06	147
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7W1P2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7W1P2-F1-model_v4 GTPase Obg	0.189	264	148	3	266	162	344	4.836E-07	147
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IKX2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IKX2-F1-model_v4 GTPase Obg	0.200	301	196	3	303	167	412	1.904E-07	147
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2IE44-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2IE44-F1-model_v4 GTPase Obg	0.204	263	138	3	265	162	335	6.361E-07	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q13DL7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q13DL7-F1-model_v4 GTPase Obg	0.209	262	126	3	264	162	321	2.012E-06	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8H0U4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8H0U4-F1-model_v4 GTPase Obg	0.201	303	165	3	305	162	368	8.840E-07	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1RMV6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1RMV6-F1-model_v4 GTPase Obg	0.204	303	165	3	305	162	369	5.700E-07	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6WK51-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6WK51-F1-model_v4 GTPase Obg	0.199	296	163	3	298	162	366	8.368E-07	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7MJF1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7MJF1-F1-model_v4 GTPase Obg	0.195	303	171	3	305	162	374	1.706E-07	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2HWM9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2HWM9-F1-model_v4 GTPase Obg	0.184	313	166	3	315	162	366	1.228E-06	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9K736-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9K736-F1-model_v4 GTPase Obg	0.180	301	203	3	303	167	415	2.794E-07	146
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6G0S8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6G0S8-F1-model_v4 GTPase Obg	0.184	263	131	3	265	162	322	9.344E-06	145
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O83724-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O83724-F1-model_v4 GTPase Obg	0.190	261	127	3	263	164	321	2.649E-05	145
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0TUI2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0TUI2-F1-model_v4 GTPase Obg	0.188	297	162	3	299	162	362	1.371E-06	145
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8EC04-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8EC04-F1-model_v4 GTPase Obg	0.209	296	161	3	298	162	366	7.499E-07	145
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4TRJ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4TRJ6-F1-model_v4 GTPase Obg	0.186	303	173	3	305	162	374	8.368E-07	145
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3M7M2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3M7M2-F1-model_v4 GTPase Obg	0.184	319	174	3	321	162	375	1.042E-06	145
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q07U75-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q07U75-F1-model_v4 GTPase Obg	0.198	269	145	3	271	162	343	6.025E-06	144
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MW55-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MW55-F1-model_v4 GTPase Obg	0.184	286	155	3	288	166	356	1.298E-06	144
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5SHE9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5SHE9-F1-model_v4 GTPase Obg	0.175	301	191	3	303	160	391	7.099E-07	144
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q83NP1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q83NP1-F1-model_v4 GTPase Obg	0.200	337	182	3	339	167	395	1.041E-07	144
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8J823-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8J823-F1-model_v4 Threonine--tRNA ligase	0.155	77	52	322	398	4	65	3.488E-03	144
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MA28-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MA28-F1-model_v4 GTPase Obg	0.169	262	159	3	264	161	352	4.336E-06	143
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1S9H3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1S9H3-F1-model_v4 GTPase Obg	0.191	303	165	3	305	162	366	9.338E-07	143
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5GNK6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5GNK6-F1-model_v4 GTPase Obg	0.195	263	134	3	265	162	328	6.025E-06	142
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VF56-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VF56-F1-model_v4 GTPase Obg	0.191	285	151	3	287	165	352	1.371E-06	142
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2RIY7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2RIY7-F1-model_v4 GTPase Obg	0.181	286	156	3	288	166	356	2.126E-06	142
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7I557-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7I557-F1-model_v4 GTPase Obg	0.184	319	174	3	321	162	375	1.448E-06	142
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9VYM4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9VYM4-F1-model_v4 GTPase Obg	0.189	269	145	3	271	162	341	3.296E-06	141
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q12K23-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q12K23-F1-model_v4 GTPase Obg	0.196	297	165	3	299	162	367	1.298E-06	141
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3D180-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3D180-F1-model_v4 GTPase Obg	0.203	295	162	3	297	162	365	1.530E-06	141
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9R591-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9R591-F1-model_v4 GTPase Obg	0.185	303	173	3	305	162	374	1.448E-06	141
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KJ19-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KJ19-F1-model_v4 GTPase Obg 2	0.176	298	138	3	300	142	309	6.365E-06	140
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DRN9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DRN9-F1-model_v4 GTPase Obg	0.188	260	141	3	262	164	338	9.870E-06	140
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8CSY3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8CSY3-F1-model_v4 GTPase Obg	0.208	303	163	3	305	162	368	1.616E-06	140
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XHF9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XHF9-F1-model_v4 GTPase Obg	0.204	310	162	3	312	162	365	8.368E-07	140
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5FIN3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5FIN3-F1-model_v4 GTPase Obg	0.197	312	162	3	314	162	364	1.042E-06	140
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PAA7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PAA7-F1-model_v4 GTPase Obg 2	0.176	284	152	3	286	142	327	4.336E-06	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QVU6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QVU6-F1-model_v4 GTPase Obg	0.185	262	130	3	264	161	320	5.111E-06	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1QQU0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1QQU0-F1-model_v4 GTPase Obg	0.167	295	138	3	297	162	328	1.372E-05	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5M8V6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5M8V6-F1-model_v4 GTP-binding protein 10	0.174	319	185	3	321	151	375	5.108E-07	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9L430-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9L430-F1-model_v4 GTPase Obg	0.209	301	162	3	303	162	367	1.707E-06	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4VI54-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4VI54-F1-model_v4 GTPase Obg	0.167	316	177	3	318	162	374	1.163E-06	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q48NL2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q48NL2-F1-model_v4 GTPase Obg	0.162	310	177	3	312	162	373	2.372E-06	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88Q08-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88Q08-F1-model_v4 GTPase Obg	0.164	316	177	3	318	162	374	2.012E-06	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8RHS8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8RHS8-F1-model_v4 GTPase Obg	0.173	360	179	3	362	161	378	3.676E-07	139
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KIJ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KIJ7-F1-model_v4 GTPase Obg 1	0.185	258	133	3	260	162	325	1.804E-05	138
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9L605-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9L605-F1-model_v4 GTPase Obg	0.200	264	156	3	266	161	356	2.245E-06	138
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VYC6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VYC6-F1-model_v4 GTPase Obg	0.164	316	177	3	318	162	374	2.245E-06	138
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8Z631-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8Z631-F1-model_v4 GTPase Obg	0.157	262	133	3	264	163	321	3.888E-05	137
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9IFF9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9IFF9-F1-model_v4 GTPase Obg	0.191	263	145	3	265	162	341	7.499E-07	137
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3K6K9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3K6K9-F1-model_v4 GTPase Obg	0.167	316	177	3	318	162	374	2.126E-06	137
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EWL0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EWL0-F1-model_v4 GTPase Obg	0.180	300	198	3	302	161	403	1.228E-06	137
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P42641-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P42641-F1-model_v4 GTPase ObgE/CgtA	0.212	310	160	3	312	162	365	4.836E-07	136
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0KMF6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0KMF6-F1-model_v4 GTPase Obg	0.164	316	177	3	318	162	374	2.796E-06	136
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7I166-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7I166-F1-model_v4 GTPase Obg	0.156	262	149	3	264	161	338	1.617E-05	135
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FJQ1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FJQ1-F1-model_v4 GTPase Obg	0.167	261	142	3	263	161	332	1.531E-05	133
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5E965-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5E965-F1-model_v4 GTPase Obg	0.201	284	146	3	286	162	345	7.103E-06	133
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XYL2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XYL2-F1-model_v4 GTPase Obg	0.167	317	177	3	319	162	375	4.105E-06	133
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72HR4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72HR4-F1-model_v4 GTPase Obg	0.173	312	194	3	314	160	394	1.803E-06	133
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2IJC0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2IJC0-F1-model_v4 Threonine--tRNA ligase	0.168	77	51	322	398	4	65	8.389E-03	133
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BRE9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0BRE9-F1-model_v4 GTPase Obg	0.190	302	144	3	304	162	340	3.678E-06	132
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QX49-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QX49-F1-model_v4 GTPase Obg	0.172	286	171	1	286	159	366	5.400E-06	132
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H1H0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H1H0-F1-model_v4 GTPase Obg	0.178	261	141	3	263	161	332	2.013E-05	131
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1AVU3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1AVU3-F1-model_v4 GTPase Obg	0.196	280	144	3	282	160	339	5.400E-06	131
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3APF4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3APF4-F1-model_v4 GTPase Obg	0.203	262	124	3	264	162	317	7.503E-06	130
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q256C5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q256C5-F1-model_v4 GTPase Der	0.183	286	148	1	286	2	183	5.111E-06	130
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3EP74-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3EP74-F1-model_v4 GTPase Obg	0.176	261	134	3	263	162	325	1.449E-05	129
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3B6H6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3B6H6-F1-model_v4 GTPase Obg	0.179	283	148	3	285	162	342	5.704E-06	128
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QRD8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QRD8-F1-model_v4 GTPase Obg	0.175	262	128	3	264	162	317	2.013E-05	127
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZMD3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZMD3-F1-model_v4 GTPase Obg	0.175	257	159	3	259	159	352	4.339E-05	125
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4UAM8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4UAM8-F1-model_v4 Threonine--tRNA ligase	0.155	77	52	322	398	4	65	1.808E-02	123
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8KAF0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8KAF0-F1-model_v4 GTPase Obg	0.183	262	127	3	264	162	317	2.127E-05	121
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4SBR3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4SBR3-F1-model_v4 GTPase Obg	0.186	268	138	3	270	162	332	1.531E-05	121
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1BJ56-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1BJ56-F1-model_v4 GTPase Obg	0.179	262	126	3	264	162	316	5.115E-05	118
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C4XIQ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C4XIQ6-F1-model_v4 GTPase Der	0.156	272	140	2	273	4	170	2.373E-05	117
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8GYI7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8GYI7-F1-model_v4 GTPase Obg/CgtA	0.185	283	152	3	285	162	348	1.707E-06	111
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H029-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H029-F1-model_v4 GTPase Obg	0.113	300	184	3	302	161	368	1.102E-04	111
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9Z762-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9Z762-F1-model_v4 GTPase Der	0.170	286	145	1	286	2	177	7.508E-05	109
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0B8S9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0B8S9-F1-model_v4 GTPase Der	0.153	286	152	1	286	1	181	6.029E-05	109
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0BAF8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0BAF8-F1-model_v4 GTPase Der	0.154	295	179	1	295	1	213	4.842E-05	106
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67800-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67800-F1-model_v4 GTPase Era	0.178	263	134	2	264	5	168	3.298E-05	105
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O84709-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O84709-F1-model_v4 GTPase Der	0.152	286	153	1	286	1	181	1.164E-04	103
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5L4W4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5L4W4-F1-model_v4 GTPase Der	0.163	266	131	1	266	2	159	4.583E-05	102
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3KKZ1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3KKZ1-F1-model_v4 GTPase Der	0.148	295	181	1	295	1	213	8.851E-05	101
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0JU67-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0JU67-F1-model_v4 Translation initiation factor IF-2	0.135	263	137	2	264	506	664	1.907E-04	101
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0RH89-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0RH89-F1-model_v4 GTPase Der	0.145	264	142	1	264	212	378	8.378E-05	100
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VNV9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5VNV9-F1-model_v4 GTPase Der	0.143	263	141	1	263	212	377	9.876E-05	100
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8YFH2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8YFH2-F1-model_v4 GTPase Der	0.141	264	143	1	264	212	378	7.508E-05	100
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4X692-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4X692-F1-model_v4 GTPase Der	0.164	283	142	2	284	26	196	6.728E-05	98
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9EWW8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9EWW8-F1-model_v4 GTPase Der	0.155	261	132	2	262	28	184	4.845E-04	97
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PLM3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PLM3-F1-model_v4 GTPase Der	0.128	396	242	1	396	1	279	1.708E-05	97
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C3MG60-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C3MG60-F1-model_v4 GTPase Der	0.159	285	164	2	286	4	199	4.586E-04	95
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WKK1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WKK1-F1-model_v4 Translation initiation factor IF-2	0.109	264	142	2	265	400	559	3.890E-04	95
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8G2E8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8G2E8-F1-model_v4 GTPase Der	0.146	264	142	1	264	212	378	1.532E-04	92
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8ZU05-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8ZU05-F1-model_v4 GTPase Der	0.130	271	144	2	272	4	169	8.383E-04	91
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q821L7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q821L7-F1-model_v4 GTPase Der	0.153	286	153	1	286	2	183	9.349E-05	91
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2YM98-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2YM98-F1-model_v4 GTPase Der	0.141	264	143	1	264	212	378	3.486E-04	91
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2S9M3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2S9M3-F1-model_v4 GTPase Der	0.138	264	143	1	264	212	378	2.957E-04	91
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q600K7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q600K7-F1-model_v4 Probable GTP-binding protein EngB	0.107	263	140	2	264	39	196	4.589E-03	90
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q828Y7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q828Y7-F1-model_v4 GTPase Der	0.165	261	130	2	262	54	210	6.373E-04	90
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7UWJ2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7UWJ2-F1-model_v4 GTPase Der	0.137	272	154	1	272	198	376	9.349E-05	90
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92UK6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92UK6-F1-model_v4 GTPase Der	0.133	263	143	1	263	205	370	4.586E-04	89
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7URJ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7URJ8-F1-model_v4 GTPase Der	0.136	285	145	2	286	5	173	7.112E-04	88
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4A9N9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4A9N9-F1-model_v4 Probable GTP-binding protein EngB	0.111	263	140	2	264	39	196	7.517E-03	87
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MB45-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MB45-F1-model_v4 GTPase Der	0.138	264	138	2	265	6	166	3.300E-04	86
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3DHY8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3DHY8-F1-model_v4 tRNA modification GTPase MnmE	0.182	317	173	1	317	222	434	2.015E-04	85
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5X522-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5X522-F1-model_v4 GTPase Der	0.142	419	262	2	307	4	422	5.704E-06	85
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SMZ9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q0SMZ9-F1-model_v4 GTPase Der	0.144	261	131	2	262	6	159	1.231E-03	84
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q381A3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q381A3-F1-model_v4 Intraflagellar transport protein 22	0.140	264	156	1	264	6	187	2.376E-03	83
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C6C0G0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C6C0G0-F1-model_v4 GTPase Der	0.129	306	217	1	306	183	432	1.805E-04	83
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9L7G9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9L7G9-F1-model_v4 GTPase Der	0.158	292	154	1	292	2	185	1.044E-03	83
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1UER8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1UER8-F1-model_v4 Translation initiation factor IF-2	0.103	264	143	2	265	420	579	1.451E-03	83
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8FM51-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8FM51-F1-model_v4 GTPase Der	0.152	338	222	2	264	3	340	3.122E-05	82
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1V9V1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1V9V1-F1-model_v4 GTPase Der	0.123	308	217	1	308	231	479	3.486E-04	81
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2U9V3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2U9V3-F1-model_v4 GTPase Der	0.138	425	260	2	304	4	428	5.115E-05	80
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6L6E8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6L6E8-F1-model_v4 tRNA modification GTPase MnmE	0.168	321	182	1	321	257	476	1.907E-04	80
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1RY30-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1RY30-F1-model_v4 GTPase HflX	0.151	300	160	2	301	195	384	1.231E-03	79
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67749-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67749-F1-model_v4 GTPase Der	0.122	395	196	2	396	4	227	4.341E-04	79
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3R1J8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3R1J8-F1-model_v4 GTPase Der	0.126	427	266	2	306	4	430	3.298E-05	79
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PIB6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PIB6-F1-model_v4 GTPase Der	0.144	264	134	1	264	2	158	6.736E-03	79
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9GPQ9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9GPQ9-F1-model_v4 Rho-related protein racJ	0.120	265	153	1	265	10	184	1.710E-03	77
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9JKF7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9JKF7-F1-model_v4 39S ribosomal protein L39, mitochondrial	0.125	131	99	268	398	13	126	1.910E-02	77
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6KXK1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6KXK1-F1-model_v4 GTPase Der	0.125	354	236	2	272	4	357	2.956E-05	77
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HW81-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HW81-F1-model_v4 GTPase Der	0.133	264	135	1	264	2	158	5.714E-03	77
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04TV4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04TV4-F1-model_v4 GTPase Der	0.136	304	216	2	305	226	476	1.450E-04	77
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q82K53-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q82K53-F1-model_v4 Translation initiation factor IF-2	0.096	264	144	2	265	543	702	2.510E-03	77
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3DXK2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3DXK2-F1-model_v4 GTPase Der	0.161	272	144	2	273	3	175	5.121E-03	76
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0RT56-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0RT56-F1-model_v4 GTPase Der	0.112	425	270	2	306	4	428	1.708E-05	76
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3BTW0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3BTW0-F1-model_v4 GTPase Der	0.124	425	266	2	306	4	428	1.617E-05	76
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04ZS1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04ZS1-F1-model_v4 GTPase Der	0.134	304	217	2	305	226	476	1.805E-04	76
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DTQ3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DTQ3-F1-model_v4 GTPase Der	0.155	352	228	2	272	5	356	1.298E-05	75
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5L8K8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5L8K8-F1-model_v4 GTPase Der	0.136	340	226	2	264	4	343	2.798E-05	75
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1LLJ5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1LLJ5-F1-model_v4 GTPase Der	0.137	425	263	2	307	4	428	2.013E-05	75
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H4Z1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H4Z1-F1-model_v4 GTPase Der	0.149	264	133	1	264	2	158	9.361E-03	75
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3EFY1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3EFY1-F1-model_v4 GTPase Der	0.120	306	221	1	306	178	429	1.044E-03	74
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8A135-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8A135-F1-model_v4 GTPase Der	0.123	340	230	2	264	4	343	2.649E-05	74
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0TZQ0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0TZQ0-F1-model_v4 GTPase Der	0.125	430	265	1	304	3	432	7.503E-06	74
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q96S21-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q96S21-F1-model_v4 Ras-related protein Rab-40C	0.120	318	195	1	318	15	237	1.166E-02	73
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5EJF7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5EJF7-F1-model_v4 GTPase Der	0.136	424	263	2	306	4	427	2.013E-05	73
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4UUM0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4UUM0-F1-model_v4 GTPase Der	0.114	425	269	2	306	4	428	3.298E-05	73
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q725L9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q725L9-F1-model_v4 GTPase Der	0.120	307	217	1	307	227	474	8.856E-04	73
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q661B2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q661B2-F1-model_v4 GTPase Der	0.132	394	192	2	395	6	227	3.890E-04	72
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q30TK8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q30TK8-F1-model_v4 GTPase Der	0.143	264	140	1	264	235	398	6.736E-03	72
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9R7Z8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9R7Z8-F1-model_v4 GTPase Der	0.144	452	259	2	304	4	455	2.247E-05	72
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P44536-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P44536-F1-model_v4 GTPase Der	0.125	461	266	2	306	5	465	3.298E-05	72
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q64NV3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q64NV3-F1-model_v4 GTPase Der	0.130	340	228	2	264	4	343	2.247E-05	71
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2G718-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2G718-F1-model_v4 GTPase Der	0.122	339	230	2	264	5	343	1.804E-05	71
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2I7V0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2I7V0-F1-model_v4 GTPase Der	0.129	354	235	2	272	4	357	2.956E-05	71
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VYA6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VYA6-F1-model_v4 GTPase Der	0.132	297	154	1	297	2	179	1.166E-02	69
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6AGF6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6AGF6-F1-model_v4 GTPase Der	0.143	337	224	2	263	48	384	4.842E-05	69
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9S7A3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9S7A3-F1-model_v4 Molybdopterin synthase sulfur carrier subunit	0.060	78	72	322	399	15	92	3.690E-01	68
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2GC35-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2GC35-F1-model_v4 GTPase Der	0.121	338	229	2	263	5	342	2.127E-05	68
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8VHP8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8VHP8-F1-model_v4 Ras-related protein Rab-40B	0.126	318	194	1	318	15	237	1.231E-02	67
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q834T4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q834T4-F1-model_v4 GTPase Der	0.135	338	227	2	264	5	342	2.373E-05	67
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6GGT6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6GGT6-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	1.804E-05	67
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C5D3F4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C5D3F4-F1-model_v4 GTPase Der	0.109	421	272	2	307	5	425	1.229E-05	67
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0DA91-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P0DA91-F1-model_v4 GTPase Der	0.147	352	230	2	272	5	356	3.484E-05	67
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KZ43-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KZ43-F1-model_v4 GTPase Der	0.133	348	227	2	264	5	352	1.229E-05	67
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q30YQ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q30YQ7-F1-model_v4 tRNA modification GTPase MnmE	0.137	316	168	2	317	228	423	3.302E-03	67
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EQA8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8EQA8-F1-model_v4 GTPase Der	0.110	353	241	1	272	4	356	9.349E-05	66
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IT03-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5IT03-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	2.649E-05	66
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0S1N2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0S1N2-F1-model_v4 GTPase Der	0.134	394	193	2	395	5	228	1.619E-03	66
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XXK9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1XXK9-F1-model_v4 GTPase Der	0.125	426	264	2	304	4	429	1.532E-04	66
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JC34-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JC34-F1-model_v4 GTPase Der	0.139	353	232	2	272	4	356	8.851E-05	66
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2W7M7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2W7M7-F1-model_v4 GTPase Der	0.110	445	271	1	306	3	447	1.450E-04	66
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PNI6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5PNI6-F1-model_v4 GTPase Der	0.140	378	232	2	272	4	381	3.888E-05	66
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MTJ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6MTJ6-F1-model_v4 GTPase Der	0.138	420	263	2	307	5	424	2.373E-05	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4VX53-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4VX53-F1-model_v4 GTPase Der	0.154	352	228	2	272	5	356	2.507E-05	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1WTQ4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1WTQ4-F1-model_v4 GTPase Der	0.128	338	228	2	264	5	342	2.247E-05	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8MH56-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8MH56-F1-model_v4 GTPase Der	0.150	422	259	2	307	5	426	2.013E-05	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2V5W6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2V5W6-F1-model_v4 GTPase Der	0.117	430	269	1	306	2	431	2.015E-04	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q740D6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q740D6-F1-model_v4 GTPase Der	0.143	336	224	2	263	31	366	7.508E-05	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2HRU9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2HRU9-F1-model_v4 GTPase Der	0.136	336	226	2	263	31	366	1.805E-04	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TZQ4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TZQ4-F1-model_v4 GTPase Der	0.123	423	267	2	306	4	426	1.708E-05	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0CK66-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0CK66-F1-model_v4 GTPase Der	0.119	374	230	2	263	4	377	1.618E-04	65
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F7S2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8F7S2-F1-model_v4 GTPase Der	0.110	423	270	2	305	3	425	1.102E-04	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8Z454-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8Z454-F1-model_v4 GTPase Der	0.106	352	241	2	272	5	356	3.888E-05	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4IQA2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4IQA2-F1-model_v4 GTPase Der	0.130	421	265	2	307	5	425	8.378E-05	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6U1U3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6U1U3-F1-model_v4 GTPase Der	0.111	352	240	2	272	5	356	2.649E-05	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FYG0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FYG0-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	3.888E-05	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3CPT0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A3CPT0-F1-model_v4 GTPase Der	0.131	337	227	2	263	5	341	1.299E-04	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5Z7J9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5Z7J9-F1-model_v4 GTPase Der	0.169	353	219	1	264	9	361	2.248E-04	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89A14-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q89A14-F1-model_v4 GTPase Der	0.141	446	262	1	306	3	448	1.805E-04	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72PQ1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q72PQ1-F1-model_v4 GTPase Der	0.121	448	266	2	305	31	478	1.618E-04	64
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q039G4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q039G4-F1-model_v4 GTPase Der	0.133	351	234	2	272	5	355	8.851E-05	63
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9VMB3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9VMB3-F1-model_v4 GTPase Der	0.106	421	273	2	307	5	425	1.299E-04	63
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7IP82-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7IP82-F1-model_v4 GTPase Der	0.108	421	272	2	307	5	425	2.128E-04	63
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P50743-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P50743-F1-model_v4 GTPase Der	0.108	352	240	2	271	5	356	7.508E-05	63
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1CSX0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1CSX0-F1-model_v4 GTPase Der	0.139	352	232	2	272	5	356	7.931E-05	63
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5E756-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5E756-F1-model_v4 GTPase Der	0.136	352	233	2	272	5	356	6.369E-05	63
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6TS39-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6TS39-F1-model_v4 GTPase Der	0.134	422	264	2	307	5	426	8.851E-05	63
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5KXT0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5KXT0-F1-model_v4 GTPase Der	0.107	421	272	2	307	5	425	7.508E-05	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03WN4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03WN4-F1-model_v4 GTPase Der	0.114	338	232	2	264	5	342	3.124E-04	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9E6L5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9E6L5-F1-model_v4 GTPase Der	0.110	421	271	2	307	5	425	9.349E-05	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HFU8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HFU8-F1-model_v4 GTPase Der	0.112	352	240	2	272	5	356	6.728E-05	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2RM49-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2RM49-F1-model_v4 GTPase Der	0.124	338	230	2	264	5	342	1.299E-04	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5FIR0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5FIR0-F1-model_v4 GTPase Der	0.136	354	233	2	272	5	358	8.851E-05	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7GGA7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7GGA7-F1-model_v4 GTPase Der	0.119	327	220	2	252	5	331	7.936E-04	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8LYU3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8LYU3-F1-model_v4 GTPase Der	0.135	352	234	2	272	26	377	9.876E-05	62
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0M5P1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0M5P1-F1-model_v4 GTPase Der	0.127	367	259	2	299	4	370	2.800E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03SA1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q03SA1-F1-model_v4 GTPase Der	0.113	337	232	2	264	5	341	2.015E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9IVM6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9IVM6-F1-model_v4 GTPase Der	0.110	352	240	2	272	5	356	3.124E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88VZ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88VZ6-F1-model_v4 GTPase Der	0.122	338	230	2	264	5	342	1.450E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HL14-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HL14-F1-model_v4 GTPase Der	0.108	352	241	2	272	5	356	2.800E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q65I15-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q65I15-F1-model_v4 GTPase Der	0.112	421	271	2	307	5	425	1.372E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64060-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64060-F1-model_v4 GTPase Der	0.112	352	240	2	272	5	356	2.956E-05	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4L6I0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4L6I0-F1-model_v4 GTPase Der	0.107	352	241	2	272	5	356	8.378E-05	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0ZCB6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0ZCB6-F1-model_v4 GTPase Der	0.123	353	237	2	272	5	357	1.907E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MT48-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MT48-F1-model_v4 GTPase Der	0.112	346	234	2	266	4	349	2.375E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3AQ22-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3AQ22-F1-model_v4 GTPase Der	0.138	424	263	2	307	4	427	2.248E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q17WL7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q17WL7-F1-model_v4 GTPase Der	0.164	368	226	2	272	10	377	2.957E-04	61
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2X635-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A2X635-F1-model_v4 Molybdopterin synthase sulfur carrier subunit	0.107	79	70	322	400	28	106	7.125E-01	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C3P591-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C3P591-F1-model_v4 GTPase Der	0.110	352	240	2	272	5	356	3.486E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64065-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64065-F1-model_v4 GTPase Der	0.139	352	232	2	272	5	356	1.230E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6QH24-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6QH24-F1-model_v4 GTPase Der	0.111	352	240	2	272	5	356	7.931E-05	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FGW7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2FGW7-F1-model_v4 GTPase Der	0.103	352	242	2	272	5	356	7.107E-05	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HHQ7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7HHQ7-F1-model_v4 GTPase Der	0.108	352	241	2	272	5	356	4.110E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q49XS9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q49XS9-F1-model_v4 GTPase Der	0.119	352	238	2	272	5	356	1.164E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0AK49-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0AK49-F1-model_v4 GTPase Der	0.116	338	232	2	264	5	342	1.450E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6G988-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6G988-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	7.508E-05	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64059-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64059-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	9.876E-05	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DNV9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9DNV9-F1-model_v4 GTPase Der	0.134	352	234	2	272	5	356	2.015E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JGY9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B7JGY9-F1-model_v4 GTPase Der	0.108	352	241	2	272	5	356	3.486E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PNX9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PNX9-F1-model_v4 tRNA modification GTPase MnmE	0.166	213	163	2	214	216	412	6.732E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4FTW3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q4FTW3-F1-model_v4 GTPase Der	0.114	422	269	2	306	6	427	7.936E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FTK5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8FTK5-F1-model_v4 GTPase Der	0.118	418	269	2	307	91	508	2.957E-04	60
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0RBV9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0RBV9-F1-model_v4 GTPase Der	0.106	421	273	2	307	5	425	4.110E-04	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q38WW3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q38WW3-F1-model_v4 GTPase Der	0.115	421	270	2	307	5	425	1.618E-04	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7X2I1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7X2I1-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	1.230E-04	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8AVL8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8AVL8-F1-model_v4 GTPase Der	0.122	338	230	2	264	5	342	4.341E-04	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZL09-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZL09-F1-model_v4 GTPase Der	0.160	368	227	2	272	10	377	2.015E-04	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6JM65-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B6JM65-F1-model_v4 GTPase Der	0.169	368	224	2	272	10	377	1.907E-04	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KJD0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1KJD0-F1-model_v4 GTPase Der	0.140	340	225	2	264	28	367	2.248E-04	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3LJJ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3LJJ8-F1-model_v4 Protein SEY1	0.113	311	217	2	312	39	284	5.121E-03	59
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6YVX4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6YVX4-F1-model_v4 Molybdopterin synthase sulfur carrier subunit	0.107	79	70	322	400	28	106	8.399E-01	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2SRR7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q2SRR7-F1-model_v4 GTPase Der	0.140	420	262	2	307	5	424	1.043E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q81SW9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q81SW9-F1-model_v4 GTPase Der	0.108	352	241	2	272	5	356	6.732E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8CP62-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8CP62-F1-model_v4 GTPase Der	0.120	352	238	2	272	5	356	8.378E-05	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64061-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P64061-F1-model_v4 GTPase Der	0.111	352	240	2	272	5	356	1.372E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1EN01-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1EN01-F1-model_v4 GTPase Der	0.110	352	240	2	272	5	356	3.683E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6H103-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6H103-F1-model_v4 GTPase Der	0.142	354	232	2	272	4	357	2.509E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q81FR5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q81FR5-F1-model_v4 GTPase Der	0.108	352	241	2	272	5	356	5.406E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C3L9F4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C3L9F4-F1-model_v4 GTPase Der	0.108	352	241	2	272	5	356	4.845E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6LEP5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6LEP5-F1-model_v4 GTPase Der	0.126	354	236	2	272	4	357	9.876E-05	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QLF4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3QLF4-F1-model_v4 GTPase Der	0.146	425	260	2	307	4	428	4.586E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3A4Q5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3A4Q5-F1-model_v4 GTPase Der	0.126	423	267	2	307	3	425	2.128E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8G6A8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8G6A8-F1-model_v4 GTPase Der	0.118	353	238	2	272	28	380	2.800E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WNL2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P9WNL2-F1-model_v4 GTPase Der	0.139	336	225	2	263	28	363	3.683E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0QH59-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0QH59-F1-model_v4 GTPase Der	0.138	339	225	2	263	31	369	6.033E-04	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VFY6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VFY6-F1-model_v4 GTPase Der	0.125	394	220	2	395	3	254	2.376E-03	58
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5PJU9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5PJU9-F1-model_v4 Septin-1	0.155	172	139	1	166	26	197	1.533E-02	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FEL8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FEL8-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	2.015E-04	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8Y5W8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8Y5W8-F1-model_v4 GTPase Der	0.120	338	231	2	264	5	342	1.618E-04	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q71Y78-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q71Y78-F1-model_v4 GTPase Der	0.120	338	231	2	264	5	342	1.805E-04	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92A71-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q92A71-F1-model_v4 GTPase Der	0.120	338	231	2	264	5	342	1.709E-04	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8GAY7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8GAY7-F1-model_v4 GTPase Der	0.130	345	229	2	265	5	349	7.513E-04	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q67NS9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q67NS9-F1-model_v4 GTPase Der	0.105	424	273	2	307	4	427	1.230E-04	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1R5C7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1R5C7-F1-model_v4 GTPase Der	0.139	338	225	2	263	55	392	5.118E-04	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6CJ97-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6CJ97-F1-model_v4 Protein SEY1	0.103	312	219	2	313	40	284	4.112E-03	57
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q567Y6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q567Y6-F1-model_v4 Intraflagellar transport protein 22 homolog	0.088	312	155	1	312	4	174	1.534E-01	56
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O51461-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O51461-F1-model_v4 GTPase Der	0.119	413	268	2	306	6	418	1.165E-03	56
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8KH12-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8KH12-F1-model_v4 GTPase Der	0.129	351	235	2	272	5	355	1.618E-04	56
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DS90-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8DS90-F1-model_v4 GTPase Der	0.102	352	242	2	272	5	356	1.805E-04	56
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1CT35-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1CT35-F1-model_v4 GTPase Der	0.123	354	231	1	264	9	362	4.341E-04	56
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2USZ4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2USZ4-F1-model_v4 GTPase Der	0.173	353	217	2	264	10	362	4.845E-04	56
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q11QK1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q11QK1-F1-model_v4 GTPase Der	0.120	353	238	2	272	4	356	2.957E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HP70-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HP70-F1-model_v4 GTPase Der	0.136	352	233	2	272	5	356	4.842E-05	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7Z636-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7Z636-F1-model_v4 GTPase Der	0.116	421	270	2	307	5	425	1.907E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DBY9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B8DBY9-F1-model_v4 GTPase Der	0.115	421	270	2	307	5	425	1.532E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6HL51-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6HL51-F1-model_v4 GTPase Der	0.107	352	241	2	272	5	356	6.373E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1BHZ8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1BHZ8-F1-model_v4 GTPase Der	0.133	426	264	2	306	4	429	7.513E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XHX9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4XHX9-F1-model_v4 GTPase Der	0.127	353	236	2	272	4	356	7.112E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O25505-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O25505-F1-model_v4 GTPase Der	0.177	364	222	2	272	10	373	2.650E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0RQK2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0RQK2-F1-model_v4 GTPase Der	0.133	370	232	2	270	3	372	6.732E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0PSX2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A0PSX2-F1-model_v4 GTPase Der	0.121	336	229	2	263	31	366	7.936E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TA72-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1TA72-F1-model_v4 GTPase Der	0.135	337	226	2	263	33	369	4.586E-04	55
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q030L6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q030L6-F1-model_v4 GTPase Der	0.126	338	229	2	264	5	342	7.513E-04	54
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q49884-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q49884-F1-model_v4 GTPase Der	0.144	343	273	2	321	26	368	4.341E-04	54
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7ZBS1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7ZBS1-F1-model_v4 GTPase Der	0.159	442	257	1	307	2	443	2.376E-03	54
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6Q4R8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6Q4R8-F1-model_v4 GTPase Der	0.127	394	212	2	395	3	246	5.121E-03	54
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5U372-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5U372-F1-model_v4 GTPase Der	0.135	340	227	2	264	28	367	5.711E-04	54
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04AY6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q04AY6-F1-model_v4 GTPase Der	0.117	351	238	2	272	5	355	3.683E-04	53
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8YV35-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8YV35-F1-model_v4 GTPase Der	0.129	351	235	2	272	5	355	8.856E-04	53
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q63DM8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q63DM8-F1-model_v4 GTPase Der	0.107	352	241	2	272	5	356	6.033E-04	53
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7GWZ2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7GWZ2-F1-model_v4 GTPase Der	0.143	357	225	2	264	3	359	4.112E-03	53
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3JZR6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q3JZR6-F1-model_v4 GTPase Der	0.123	338	230	2	264	5	342	1.299E-04	52
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1KWN7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C1KWN7-F1-model_v4 GTPase Der	0.115	421	270	2	307	5	425	3.683E-04	52
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9B567-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A9B567-F1-model_v4 GTPase Der	0.131	345	228	2	264	5	349	6.732E-04	52
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8NQK6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8NQK6-F1-model_v4 GTPase Der	0.116	418	270	2	307	82	499	4.341E-04	52
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QT02-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-C0QT02-F1-model_v4 GTPase Der	0.131	347	228	2	264	3	349	6.033E-04	51
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2UMV5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2UMV5-F1-model_v4 GTPase Der	0.121	445	268	2	307	6	450	2.250E-03	51
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q73AZ1-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q73AZ1-F1-model_v4 GTPase Der	0.109	352	241	2	272	5	356	1.231E-03	50
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4SED0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4SED0-F1-model_v4 GTPase Der	0.135	425	262	2	305	4	428	1.908E-03	49
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4S433-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B4S433-F1-model_v4 GTPase Der	0.122	423	268	2	307	4	426	1.231E-03	47
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CHH6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9CHH6-F1-model_v4 GTPase Der	0.125	338	229	2	264	5	342	1.044E-03	47
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HZI3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7HZI3-F1-model_v4 GTPase Der	0.140	373	232	2	272	3	375	3.126E-03	47
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FKH3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FKH3-F1-model_v4 GTPase Der	0.142	257	215	1	252	196	452	1.301E-02	47
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1QD14-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q1QD14-F1-model_v4 GTPase Der	0.113	351	239	2	272	6	356	4.586E-04	47
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1MYB5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B1MYB5-F1-model_v4 GTPase Der	0.126	353	236	2	272	5	357	1.300E-03	46
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8WYJ6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8WYJ6-F1-model_v4 Septin-1	0.102	300	178	1	300	31	229	1.910E-02	44
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P42209-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P42209-F1-model_v4 Septin-1	0.093	297	177	1	297	26	221	4.115E-02	40
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6GLZ5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q6GLZ5-F1-model_v4 Septin-7	0.112	327	284	1	321	32	358	2.131E-02	40
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5EB96-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5EB96-F1-model_v4 Septin-1	0.138	323	270	1	314	26	348	5.124E-02	36
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38795-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P38795-F1-model_v4 Glutamine-dependent NAD(+) synthetase	0.097	203	130	94	296	346	490	1.105E+00	31
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3E4K8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3E4K8-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.087	98	77	208	305	47	131	2.515E+00	26
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q98PU6-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q98PU6-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.126	94	73	181	265	15	108	4.857E+00	23
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q17X65-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q17X65-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.087	57	49	209	263	44	100	4.120E+00	23
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VHF9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7VHF9-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.129	113	76	184	296	32	119	5.420E+00	23
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q884D4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q884D4-F1-model_v4 Macrolide export ATP-binding/permease protein MacB 1	0.111	308	198	3	310	39	262	8.399E-01	23
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4SFG4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A4SFG4-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.071	56	50	208	263	49	103	7.129E+00	22
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88F88-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q88F88-F1-model_v4 Macrolide export ATP-binding/permease protein MacB	0.126	247	142	3	249	39	202	1.453E+00	22
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MAJ5-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q7MAJ5-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.110	120	90	149	268	2	103	4.857E+00	21
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58747-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q58747-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.125	158	116	148	305	2	134	3.308E+00	21
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q12V31-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q12V31-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.100	60	51	208	265	42	101	4.857E+00	21
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5G7Y9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A5G7Y9-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.097	82	58	184	265	39	103	6.389E+00	21
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8KEX2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8KEX2-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.086	58	51	208	265	49	105	9.378E+00	21
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9WZB3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9WZB3-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.101	59	48	208	266	37	90	8.404E+00	20
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P74292-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P74292-F1-model_v4 Glutamine-dependent NAD(+) synthetase	0.125	98	78	208	305	317	406	4.857E+00	20
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9I190-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9I190-F1-model_v4 Macrolide export ATP-binding/permease protein MacB	0.091	249	162	3	251	44	222	1.622E+00	20
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FLM3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A8FLM3-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.136	157	105	152	308	2	124	4.120E+00	19
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ZA97-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B5ZA97-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.105	57	45	213	263	44	100	8.404E+00	19
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3ELE3-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B3ELE3-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.089	130	84	134	263	11	103	7.531E+00	19
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H439-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A7H439-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.121	109	82	152	260	2	95	4.597E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HUY2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q5HUY2-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.121	109	82	152	260	2	95	5.420E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VZF8-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A1VZF8-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.121	109	82	152	260	2	95	5.420E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6UUS4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-A6UUS4-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.102	106	89	166	271	1	100	6.389E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0R6W9-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B0R6W9-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.059	87	78	182	265	28	114	8.404E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KAZ2-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B9KAZ2-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.071	131	89	136	266	3	99	5.420E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67091-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O67091-F1-model_v4 Glutamine-dependent NAD(+) synthetase	0.134	291	211	55	299	126	416	1.376E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q02MI4-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q02MI4-F1-model_v4 Macrolide export ATP-binding/permease protein MacB	0.103	247	146	3	249	44	207	2.515E+00	18
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P58758-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-P58758-F1-model_v4 Adenylate dimethylallyltransferase	0.096	213	185	1	213	2	207	2.807E+00	16
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZMB0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9ZMB0-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.106	113	87	151	263	3	100	6.749E+00	16
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2USG0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2USG0-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.104	118	89	151	268	3	102	8.878E+00	16
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2RM62-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-B2RM62-F1-model_v4 UvrABC system protein C	0.124	266	221	62	314	274	539	1.046E+00	16
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8REA7-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q8REA7-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.097	207	165	137	320	8	214	7.531E+00	14
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PC24-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9PC24-F1-model_v4 Glutamine-dependent NAD(+) synthetase	0.078	265	241	55	319	130	391	6.749E+00	14
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O64624-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O64624-F1-model_v4 Pentatricopeptide repeat-containing protein At2g18940, chloroplastic	0.114	205	149	115	319	89	257	9.907E+00	13
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9XAR0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q9XAR0-F1-model_v4 NADH-quinone oxidoreductase subunit G	0.072	255	194	2	256	331	540	4.352E+00	13
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O51597-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-O51597-F1-model_v4 Protein translocase subunit SecF	0.087	281	229	39	319	46	297	5.725E+00	12
+LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q54NA0-F1-model_v4	LOKIASV2_0113_ESMFold_redox-regulated_ATPase_YchF	AF-Q54NA0-F1-model_v4 Nuclear pore complex protein nup85	0.087	222	168	115	299	115	336	9.907E+00	12
