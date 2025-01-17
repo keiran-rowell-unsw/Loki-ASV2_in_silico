@@ -1,0 +1,474 @@
+Jan-16 09:16:13.387 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nf-core/proteinfold --input /srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv --outdir /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200 --mode esmfold --esmfold_db /mnt/af2/ --esmfold_model_preset monomer -profile singularity
+Jan-16 09:16:14.035 [main] DEBUG nextflow.cli.CmdRun - N E X T F L O W  ~  version 24.04.4
+Jan-16 09:16:14.062 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/home/z3374843/.nextflow/plugins; core-plugins: nf-amazon@2.5.3,nf-azure@1.6.1,nf-cloudcache@0.4.1,nf-codecommit@0.2.1,nf-console@1.1.3,nf-ga4gh@1.3.0,nf-google@1.13.2-patch1,nf-tower@1.9.1,nf-wave@1.4.2-patch1
+Jan-16 09:16:14.134 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+Jan-16 09:16:14.135 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+Jan-16 09:16:14.137 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.12.0 in 'deployment' mode
+Jan-16 09:16:14.146 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+Jan-16 09:16:14.157 [main] DEBUG nextflow.scm.ProviderConfig - Using SCM config path: /home/z3374843/.nextflow/scm
+Jan-16 09:16:14.646 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/z3374843/.nextflow/assets/nf-core/proteinfold/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/proteinfold.git
+Jan-16 09:16:14.664 [main] DEBUG nextflow.scm.RepositoryFactory - Found Git repository result: [RepositoryFactory]
+Jan-16 09:16:14.671 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/z3374843/.nextflow/assets/nf-core/proteinfold/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/proteinfold.git
+Jan-16 09:16:15.852 [main] INFO  nextflow.scm.AssetManager - NOTE: Your local project version looks outdated - a different revision is available in the remote repository [6505fe7c6c]
+Jan-16 09:16:15.858 [main] DEBUG nextflow.config.ConfigBuilder - Found config base: /home/z3374843/.nextflow/assets/nf-core/proteinfold/nextflow.config
+Jan-16 09:16:15.859 [main] DEBUG nextflow.config.ConfigBuilder - Parsing config file: /home/z3374843/.nextflow/assets/nf-core/proteinfold/nextflow.config
+Jan-16 09:16:15.864 [main] DEBUG n.secret.LocalSecretsProvider - Secrets store: /home/z3374843/.nextflow/secrets/store.json
+Jan-16 09:16:15.866 [main] DEBUG nextflow.secret.SecretsLoader - Discovered secrets providers: [nextflow.secret.LocalSecretsProvider@d3e3085] - activable => nextflow.secret.LocalSecretsProvider@d3e3085
+Jan-16 09:16:15.872 [main] DEBUG nextflow.config.ConfigBuilder - Applying config profile: `singularity`
+Jan-16 09:16:16.547 [main] DEBUG nextflow.config.ConfigBuilder - Available config profiles: [bih, cfc_dev, uzl_omics, ifb_core, embl_hd, denbi_qbic, alice, mjolnir_globe, uppmax, giga, incliva, ilifu, ki_luria, uge, rosalind_uge, test_colabfold_local, lugh, mccleary, unibe_ibu, vai, czbiohub_aws, jax, roslin, ccga_med, tes, scw, test_full_esmfold_multimer, unc_longleaf, tigem, tubingen_apg, google, apollo, test_full_alphafold2_standard, ipop_up, vsc_calcua, pdc_kth, googlels, ceci_nic5, stjude, test_alphafold2_split, daisybio, eddie, medair, biowulf, apptainer, bi, bigpurple, adcra, test_full_colabfold_webserver, cedars, pawsey_setonix, vsc_kul_uhasselt, pawsey_nimbus, ucl_myriad, utd_ganymede, charliecloud, icr_davros, ceres, munin, arm, rosalind, hasta, cfc, uzh, shu_bmrc, ebi_codon_slurm, ebc, ccga_dx, crick, ku_sund_danhead, marvin, biohpc_gen, shifter, mana, mamba, york_viking, unc_lccc, wehi, awsbatch, wustl_htcf, arcc, ceci_dragon2, imperial, maestro, software_license, genotoul, nci_gadi, abims, janelia, nu_genomics, googlebatch, oist, sahmri, kaust, mpcdf, leicester, vsc_ugent, create, sage, cambridge, jex, podman, test_full_colabfold_multimer, ebi_codon, cheaha, xanadu, nyu_hpc, test, marjorie, test_full_alphafold2_multimer, computerome, ucd_sonic, seg_globe, test_alphafold2_download, sanger, dkfz, bluebear, pasteur, einstein, ethz_euler, m3c, test_full, imb, ucl_cscluster, tuos_stanage, azurebatch, hki, test_colabfold_webserver, crukmi, csiro_petrichor, qmul_apocrita, wave, docker, engaging, gis, hypatia, psmn, eva, unity, nygc, test_full_alphafold2_split, fgcz, conda, test_esmfold, crg, singularity, mpcdf_viper, pe2, test_colabfold_download, self_hosted_runner, tufts, uw_hyak_pedslabs, debug, genouest, cbe, unsw_katana, test_full_colabfold_local, phoenix, gitpod, test_full_esmfold, seawulf, uod_hpc, fub_curta, uct_hpc, aws_tower, binac]
+Jan-16 09:16:16.567 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 from script declaration
+Jan-16 09:16:16.567 [main] DEBUG nextflow.cli.CmdRun - Launching `https://github.com/nf-core/proteinfold` [exotic_swanson] DSL2 - revision: 9bea0dc4eb [master]
+Jan-16 09:16:16.568 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins declared=[nf-validation@1.1.3]
+Jan-16 09:16:16.568 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[]
+Jan-16 09:16:16.569 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins resolved requirement=[nf-validation@1.1.3, nf-tower@1.9.1]
+Jan-16 09:16:16.569 [main] DEBUG nextflow.plugin.PluginUpdater - Installing plugin nf-validation version: 1.1.3
+Jan-16 09:16:16.580 [main] INFO  org.pf4j.AbstractPluginManager - Plugin 'nf-validation@1.1.3' resolved
+Jan-16 09:16:16.580 [main] INFO  org.pf4j.AbstractPluginManager - Start plugin 'nf-validation@1.1.3'
+Jan-16 09:16:16.601 [main] DEBUG nextflow.plugin.BasePlugin - Plugin started nf-validation@1.1.3
+Jan-16 09:16:16.602 [main] DEBUG nextflow.plugin.PluginUpdater - Installing plugin nf-tower version: 1.9.1
+Jan-16 09:16:16.607 [main] INFO  org.pf4j.AbstractPluginManager - Plugin 'nf-tower@1.9.1' resolved
+Jan-16 09:16:16.607 [main] INFO  org.pf4j.AbstractPluginManager - Start plugin 'nf-tower@1.9.1'
+Jan-16 09:16:16.621 [main] DEBUG nextflow.plugin.BasePlugin - Plugin started nf-tower@1.9.1
+Jan-16 09:16:16.671 [main] DEBUG nextflow.Session - Session UUID: 811f4996-8d57-493e-8d58-6f07ac78c36e
+Jan-16 09:16:16.671 [main] DEBUG nextflow.Session - Run name: exotic_swanson
+Jan-16 09:16:16.672 [main] DEBUG nextflow.Session - Executor pool size: 8
+Jan-16 09:16:16.676 [main] DEBUG nextflow.file.FilePorter - File porter settings maxRetries=3; maxTransfers=50; pollTimeout=null
+Jan-16 09:16:16.689 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 24.04.4 build 5917
+  Created: 01-08-2024 07:05 UTC (18:05 GMT+11:00)
+  System: Linux 4.18.0-553.27.1.el8_10.x86_64
+  Runtime: Groovy 4.0.21 on OpenJDK 64-Bit Server VM 21.0.3+9-LTS
+  Encoding: UTF-8 (UTF-8)
+  Process: 3247096@k100 [10.197.40.100]
+  CPUs: 8 - Mem: 120 GB (119.5 GB) - Swap: 0 (0) - Virtual threads ON
+Jan-16 09:16:16.723 [main] DEBUG nextflow.Session - Work-dir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work [nfs]
+Jan-16 09:16:16.723 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /home/z3374843/.nextflow/assets/nf-core/proteinfold/bin
+Jan-16 09:16:16.734 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[]
+Jan-16 09:16:16.744 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Jan-16 09:16:16.755 [main] DEBUG nextflow.Session - Observer factory: TowerFactory
+Jan-16 09:16:16.793 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
+Jan-16 09:16:16.801 [main] DEBUG nextflow.util.CustomPoolFactory - Creating virtual thread pool
+Jan-16 09:16:17.111 [main] DEBUG nextflow.Session - Session start
+Jan-16 09:16:17.112 [main] DEBUG nextflow.trace.TraceFileObserver - Workflow started -- trace file: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/pipeline_info/execution_trace_2025-01-16_09-16-16.txt
+Jan-16 09:16:17.377 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Jan-16 09:16:17.675 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [paramsSummaryMap:paramsSummaryMap]; plugin Id: nf-validation
+Jan-16 09:16:17.690 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [fromSamplesheet:fromSamplesheet]; plugin Id: nf-validation
+Jan-16 09:16:17.879 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [paramsHelp:paramsHelp]; plugin Id: nf-validation
+Jan-16 09:16:17.879 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [paramsSummaryLog:paramsSummaryLog]; plugin Id: nf-validation
+Jan-16 09:16:17.879 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [validateParameters:validateParameters]; plugin Id: nf-validation
+Jan-16 09:16:17.881 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [paramsSummaryMap:paramsSummaryMap]; plugin Id: nf-validation
+Jan-16 09:16:18.000 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [paramsHelp:paramsHelp]; plugin Id: nf-validation
+Jan-16 09:16:18.001 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [paramsSummaryLog:paramsSummaryLog]; plugin Id: nf-validation
+Jan-16 09:16:18.001 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [validateParameters:validateParameters]; plugin Id: nf-validation
+Jan-16 09:16:18.002 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [paramsSummaryMap:paramsSummaryMap]; plugin Id: nf-validation
+Jan-16 09:16:18.139 [main] DEBUG nextflow.Nextflow - Using schema file: nextflow_schema.json
+Jan-16 09:16:18.141 [main] WARN  nextflow.script.ScriptBinding - Access to undefined parameter `monochromeLogs` -- Initialise it to a default value eg. `params.monochromeLogs = some_value`
+Jan-16 09:16:18.149 [main] INFO  nextflow.Nextflow - 
+
+-[2m----------------------------------------------------[0m-
+                                        [0;32m,--.[0;30m/[0;32m,-.[0m
+[0;34m        ___     __   __   __   ___     [0;32m/,-._.--~'[0m
+[0;34m  |\ | |__  __ /  ` /  \ |__) |__         [0;33m}  {[0m
+[0;34m  | \| |       \__, \__/ |  \ |___     [0;32m\`-._,-`-,[0m
+                                        [0;32m`._,._,'[0m
+[0;35m  nf-core/proteinfold v1.1.1-g9bea0dc[0m
+-[2m----------------------------------------------------[0m-
+[1mCore Nextflow options[0m
+  [0;34mrevision                        : [0;32mmaster[0m
+  [0;34mrunName                         : [0;32mexotic_swanson[0m
+  [0;34mcontainerEngine                 : [0;32msingularity[0m
+  [0;34mlaunchDir                       : [0;32m/srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200[0m
+  [0;34mworkDir                         : [0;32m/srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work[0m
+  [0;34mprojectDir                      : [0;32m/home/z3374843/.nextflow/assets/nf-core/proteinfold[0m
+  [0;34muserName                        : [0;32mz3374843[0m
+  [0;34mprofile                         : [0;32msingularity[0m
+  [0;34mconfigFiles                     : [0;32m[0m
+
+[1mGlobal options[0m
+  [0;34minput                           : [0;32m/srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv[0m
+  [0;34moutdir                          : [0;32m/srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200[0m
+  [0;34mmode                            : [0;32mesmfold[0m
+
+[1mEsmfold options[0m
+  [0;34mesmfold_db                      : [0;32m/mnt/af2/[0m
+  [0;34mesmfold_model_preset            : [0;32mmonomer[0m
+
+[1mAlphafold2 DBs and parameters links options[0m
+  [0;34mbfd_path                        : [0;32mnull/bfd/*[0m
+  [0;34msmall_bfd_path                  : [0;32mnull/small_bfd/*[0m
+  [0;34malphafold2_params_path          : [0;32mnull/alphafold_params_*/*[0m
+  [0;34mmgnify_path                     : [0;32mnull/mgnify/*[0m
+  [0;34mpdb70_path                      : [0;32mnull/pdb70/**[0m
+  [0;34mpdb_mmcif_path                  : [0;32mnull/pdb_mmcif/*[0m
+  [0;34muniref30_alphafold2_path        : [0;32mnull/uniref30/*[0m
+  [0;34muniref90_path                   : [0;32mnull/uniref90/*[0m
+  [0;34mpdb_seqres_path                 : [0;32mnull/pdb_seqres/*[0m
+  [0;34muniprot_path                    : [0;32mnull/uniprot/*[0m
+
+[1mColabfold DBs and parameters links options[0m
+  [0;34mcolabfold_db_path               : [0;32mnull/colabfold_envdb_202108[0m
+  [0;34muniref30_colabfold_path         : [0;32mnull/uniref30_2302[0m
+  [0;34mcolabfold_alphafold2_params_path: [0;32mnull/params/alphafold_params_2021-07-14[0m
+  [0;34mcolabfold_alphafold2_params_tags: [0;32m{alphafold2_multimer_v1=alphafold_params_colab_2021-10-27, alphafold2_multimer_v2=alphafold_params_colab_2022-03-02, alphafold2_multimer_v3=alphafold_params_colab_2022-12-06, alphafold2_ptm=alphafold_params_2021-07-14}[0m
+
+[1mEsmfold parameters links options[0m
+  [0;34mesmfold_params_path             : [0;32m/mnt/af2//*[0m
+
+!! Only displaying parameters that differ from the pipeline defaults !!
+-[2m----------------------------------------------------[0m-
+If you use nf-core/proteinfold for your analysis please cite:
+
+* The pipeline
+  https://doi.org/10.5281/zenodo.7629996
+
+* The nf-core framework
+  https://doi.org/10.1038/s41587-020-0439-x
+
+* Software dependencies
+  https://github.com/nf-core/proteinfold/blob/master/CITATIONS.md
+-[2m----------------------------------------------------[0m-
+Jan-16 09:16:18.151 [main] DEBUG nextflow.validation.SchemaValidator - Starting parameters validation
+Jan-16 09:16:18.255 [main] DEBUG nextflow.validation.SchemaValidator - Starting validation: 'input': '/srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv' with '/home/z3374843/.nextflow/assets/nf-core/proteinfold/assets/schema_input.json'
+Jan-16 09:16:18.315 [main] DEBUG nextflow.validation.SchemaValidator - Validation passed: 'input': '/srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv' with '/home/z3374843/.nextflow/assets/nf-core/proteinfold/assets/schema_input.json'
+Jan-16 09:16:18.316 [main] DEBUG nextflow.validation.SchemaValidator - Finishing parameters validation
+Jan-16 09:16:18.359 [main] DEBUG nextflow.validation.SchemaValidator - Starting validation: '/srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv' with '/home/z3374843/.nextflow/assets/nf-core/proteinfold/assets/schema_input.json'
+Jan-16 09:16:18.362 [main] DEBUG nextflow.validation.SchemaValidator - Validation passed: '/srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv' with '/home/z3374843/.nextflow/assets/nf-core/proteinfold/assets/schema_input.json'
+Jan-16 09:16:18.402 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withLabel:process_medium` matches labels `process_medium` for process with name NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD
+Jan-16 09:16:18.403 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:RUN_ESMFOLD` matches process NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD
+Jan-16 09:16:18.407 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jan-16 09:16:18.407 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jan-16 09:16:18.411 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+Jan-16 09:16:18.414 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=8; memory=120 GB; capacity=8; pollInterval=100ms; dumpInterval=5m
+Jan-16 09:16:18.415 [main] DEBUG n.processor.TaskPollingMonitor - >>> barrier register (monitor: local)
+Jan-16 09:16:18.552 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withLabel:process_single` matches labels `process_single` for process with name NFCORE_PROTEINFOLD:ESMFOLD:MULTIQC
+Jan-16 09:16:18.552 [main] DEBUG nextflow.script.ProcessConfig - Config settings `withName:MULTIQC` matches process NFCORE_PROTEINFOLD:ESMFOLD:MULTIQC
+Jan-16 09:16:18.553 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+Jan-16 09:16:18.553 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+Jan-16 09:16:18.563 [main] DEBUG nextflow.Session - Config process names validation disabled as requested
+Jan-16 09:16:18.565 [main] DEBUG nextflow.Session - Igniting dataflow network (17)
+Jan-16 09:16:18.566 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD
+Jan-16 09:16:18.573 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > NFCORE_PROTEINFOLD:ESMFOLD:MULTIQC
+Jan-16 09:16:18.573 [main] DEBUG nextflow.script.ScriptRunner - Parsed script files:
+  Script_34a6e65ee7dbdbe0: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./subworkflows/local/utils_nfcore_proteinfold_pipeline/../../nf-core/utils_nextflow_pipeline/main.nf
+  Script_a7d371fe23db7aab: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./subworkflows/local/utils_nfcore_proteinfold_pipeline/../../nf-core/utils_nfvalidation_plugin/main.nf
+  Script_273c69ed0526476e: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./workflows/../modules/nf-core/multiqc/main.nf
+  Script_090e68844d1af0be: /home/z3374843/.nextflow/assets/nf-core/proteinfold/main.nf
+  Script_ed252c99757e94a1: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./subworkflows/local/prepare_esmfold_dbs.nf
+  Script_9a9735536805ee91: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./workflows/../subworkflows/local/utils_nfcore_proteinfold_pipeline/../../nf-core/utils_nfcore_pipeline/main.nf
+  Script_60aaa2fc17efc1e5: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./workflows/../subworkflows/local/utils_nfcore_proteinfold_pipeline/main.nf
+  Script_a9bdbb0df6378d1d: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./subworkflows/local/../../modules/nf-core/aria2/main.nf
+  Script_b860693350714dcd: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./workflows/../modules/local/multifasta_to_singlefasta.nf
+  Script_330aff355083251f: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./workflows/../modules/local/run_esmfold.nf
+  Script_3c7268d3afc3e2ab: /home/z3374843/.nextflow/assets/nf-core/proteinfold/./workflows/esmfold.nf
+Jan-16 09:16:18.573 [main] DEBUG nextflow.script.ScriptRunner - > Awaiting termination 
+Jan-16 09:16:18.573 [main] DEBUG nextflow.Session - Session await
+Jan-16 09:16:18.614 [Actor Thread 48] DEBUG nextflow.sort.BigSort - Sort completed -- entries: 1; slices: 1; internal sort time: 0.001 s; external sort time: 0.007 s; total time: 0.008 s
+Jan-16 09:16:18.614 [Actor Thread 51] DEBUG nextflow.sort.BigSort - Sort completed -- entries: 1; slices: 1; internal sort time: 0.001 s; external sort time: 0.007 s; total time: 0.008 s
+Jan-16 09:16:18.623 [Actor Thread 58] DEBUG nextflow.container.SingularityCache - Singularity found local store for image=docker://quay.io/nf-core/proteinfold_esmfold:1.1.1; path=/srv/scratch/sbf/singularity_cache/quay.io-nf-core-proteinfold_esmfold-1.1.1.img
+Jan-16 09:16:18.647 [Actor Thread 51] DEBUG nextflow.file.FileCollector - Saved collect-files list to: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/collect-file/3e01789b65483bd9eedfdd559bc3244b
+Jan-16 09:16:18.652 [Actor Thread 51] DEBUG nextflow.file.FileCollector - Deleting file collector temp dir: /scratch/pbs.6146443.kman.restech.unsw.edu.au/nxf-5613841045638102897
+Jan-16 09:16:18.652 [Actor Thread 48] DEBUG nextflow.file.FileCollector - Saved collect-files list to: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/collect-file/b1e08a131c806e7faf95a2a24fee9c80
+Jan-16 09:16:18.653 [Actor Thread 48] DEBUG nextflow.file.FileCollector - Deleting file collector temp dir: /scratch/pbs.6146443.kman.restech.unsw.edu.au/nxf-15503044713615045987
+Jan-16 09:16:18.713 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+Jan-16 09:16:18.714 [Task submitter] INFO  nextflow.Session - [18/1346ed] Submitted process > NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein)
+Jan-16 09:21:18.608 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 09:26:18.674 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 09:31:18.765 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 09:36:18.849 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 09:41:18.917 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 09:46:18.989 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 09:51:19.060 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 09:56:19.133 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:01:19.209 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:06:19.283 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:11:19.350 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:16:19.425 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:21:19.512 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:26:19.585 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:31:19.644 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:36:19.708 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:41:19.777 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:46:19.835 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:51:19.900 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 10:56:19.957 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:01:20.002 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:06:20.036 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:11:20.074 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:16:20.107 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:21:20.144 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:26:20.183 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:31:20.224 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:36:20.257 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:41:20.294 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:46:20.331 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:51:20.372 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 11:56:20.407 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:01:20.442 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:06:20.512 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:11:20.544 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:16:20.588 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:21:20.633 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:26:20.682 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:31:20.730 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:36:20.774 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:41:20.821 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:46:20.862 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:51:20.904 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 12:56:20.949 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:01:20.989 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:06:21.032 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:11:21.075 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:16:21.117 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:21:21.158 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:26:21.201 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:31:21.246 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:36:21.290 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:41:21.334 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:46:21.388 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:51:21.423 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 13:56:21.440 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:01:21.481 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:06:21.499 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:11:21.527 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:16:21.562 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:21:21.599 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:26:21.637 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:31:21.680 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:36:21.721 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:41:21.754 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:46:21.782 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:51:21.817 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 14:56:21.848 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:01:21.887 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:06:21.929 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:11:21.966 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:16:22.003 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:21:22.041 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:26:22.080 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:31:22.119 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:36:22.161 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:41:22.202 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:46:22.245 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:51:22.289 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 15:56:22.325 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:01:22.359 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:06:22.400 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:11:22.443 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:16:22.497 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:21:22.550 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:26:22.591 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:31:22.642 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:36:22.693 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:41:22.743 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:46:22.798 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:51:22.850 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 16:56:22.895 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 17:01:22.961 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 17:06:23.022 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 17:11:23.071 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: RUNNING; exit: -; error: -; workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 17:16:18.838 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); status: COMPLETED; exit: -; error: nextflow.exception.ProcessException: Process exceeded running time limit (8h); workDir: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889]
+Jan-16 17:16:18.864 [TaskFinalizer-1] DEBUG nextflow.processor.TaskProcessor - Handling unexpected condition for
+  task: name=NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein); work-dir=/srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889
+  error [nextflow.exception.ProcessFailedException]: Process `NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein)` failed
+Jan-16 17:16:18.906 [TaskFinalizer-1] ERROR nextflow.processor.TaskProcessor - Error executing process > 'NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein)'
+
+Caused by:
+  Process exceeded running time limit (8h)
+
+
+Command executed:
+
+  esm-fold         -i loki-ASV2_dfast_all_protein_ORFs.fasta         -o $PWD         -m $PWD         --num-recycles 4         --cpu-only
+  
+  awk '{print $2"\t"$3"\t"$4"\t"$6"\t"$11}' "loki-ASV2_dfast_all_protein_ORFs"*.pdb | grep -v 'N/A' | uniq > plddt.tsv
+  echo -e Atom_serial_number"\t"Atom_name"\t"Residue_name"\t"Residue_sequence_number"\t"pLDDT > header.tsv
+  cat header.tsv plddt.tsv > "loki-ASV2_dfast_all_protein_ORFs"_plddt_mqc.tsv
+  
+  cat <<-END_VERSIONS > versions.yml
+  "NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD":
+      esm-fold: 1.0.3
+  END_VERSIONS
+
+Command exit status:
+  -
+
+Command output:
+  25/01/16 16:41:16 | INFO | root | Predicted structure for 2068|protein with length 209, pLDDT 89.4, pTM 0.929 in 41.9s (amortized, batch size 4). 1571 / 4544 completed.
+  25/01/16 16:41:16 | INFO | root | Predicted structure for 2099|protein with length 209, pLDDT 92.3, pTM 0.951 in 41.9s (amortized, batch size 4). 1572 / 4544 completed.
+  25/01/16 16:44:05 | INFO | root | Predicted structure for 2352|protein with length 209, pLDDT 89.4, pTM 0.933 in 42.2s (amortized, batch size 4). 1573 / 4544 completed.
+  25/01/16 16:44:05 | INFO | root | Predicted structure for 3964|protein with length 209, pLDDT 94.5, pTM 0.962 in 42.2s (amortized, batch size 4). 1574 / 4544 completed.
+  25/01/16 16:44:05 | INFO | root | Predicted structure for 0986|protein with length 210, pLDDT 77.8, pTM 0.687 in 42.2s (amortized, batch size 4). 1575 / 4544 completed.
+  25/01/16 16:44:05 | INFO | root | Predicted structure for 1197|protein with length 210, pLDDT 92.9, pTM 0.871 in 42.2s (amortized, batch size 4). 1576 / 4544 completed.
+  25/01/16 16:46:54 | INFO | root | Predicted structure for 2157|protein with length 210, pLDDT 72.3, pTM 0.495 in 42.2s (amortized, batch size 4). 1577 / 4544 completed.
+  25/01/16 16:46:54 | INFO | root | Predicted structure for 2246|protein with length 210, pLDDT 91.0, pTM 0.927 in 42.2s (amortized, batch size 4). 1578 / 4544 completed.
+  25/01/16 16:46:54 | INFO | root | Predicted structure for 2277|protein with length 210, pLDDT 80.4, pTM 0.827 in 42.2s (amortized, batch size 4). 1579 / 4544 completed.
+  25/01/16 16:46:54 | INFO | root | Predicted structure for 2702|protein with length 210, pLDDT 79.1, pTM 0.694 in 42.2s (amortized, batch size 4). 1580 / 4544 completed.
+  25/01/16 16:49:43 | INFO | root | Predicted structure for 2995|protein with length 210, pLDDT 92.3, pTM 0.899 in 42.2s (amortized, batch size 4). 1581 / 4544 completed.
+  25/01/16 16:49:43 | INFO | root | Predicted structure for 3751|protein with length 210, pLDDT 75.9, pTM 0.630 in 42.2s (amortized, batch size 4). 1582 / 4544 completed.
+  25/01/16 16:49:43 | INFO | root | Predicted structure for 3789|protein with length 210, pLDDT 89.3, pTM 0.948 in 42.2s (amortized, batch size 4). 1583 / 4544 completed.
+  25/01/16 16:49:43 | INFO | root | Predicted structure for 3910|protein with length 210, pLDDT 88.7, pTM 0.923 in 42.2s (amortized, batch size 4). 1584 / 4544 completed.
+  25/01/16 16:52:34 | INFO | root | Predicted structure for 4056|protein with length 210, pLDDT 93.5, pTM 0.958 in 43.0s (amortized, batch size 4). 1585 / 4544 completed.
+  25/01/16 16:52:34 | INFO | root | Predicted structure for 0274|protein with length 211, pLDDT 64.7, pTM 0.334 in 43.0s (amortized, batch size 4). 1586 / 4544 completed.
+  25/01/16 16:52:34 | INFO | root | Predicted structure for 0758|protein with length 211, pLDDT 88.3, pTM 0.929 in 43.0s (amortized, batch size 4). 1587 / 4544 completed.
+  25/01/16 16:52:34 | INFO | root | Predicted structure for 1586|protein with length 211, pLDDT 90.3, pTM 0.926 in 43.0s (amortized, batch size 4). 1588 / 4544 completed.
+  25/01/16 16:55:27 | INFO | root | Predicted structure for 1636|protein with length 211, pLDDT 87.5, pTM 0.911 in 43.0s (amortized, batch size 4). 1589 / 4544 completed.
+  25/01/16 16:55:27 | INFO | root | Predicted structure for 2009|protein with length 211, pLDDT 89.6, pTM 0.950 in 43.0s (amortized, batch size 4). 1590 / 4544 completed.
+  25/01/16 16:55:27 | INFO | root | Predicted structure for 2051|protein with length 211, pLDDT 88.1, pTM 0.902 in 43.0s (amortized, batch size 4). 1591 / 4544 completed.
+  25/01/16 16:55:27 | INFO | root | Predicted structure for 2809|protein with length 211, pLDDT 92.0, pTM 0.835 in 43.0s (amortized, batch size 4). 1592 / 4544 completed.
+  25/01/16 16:58:21 | INFO | root | Predicted structure for 2894|protein with length 211, pLDDT 61.4, pTM 0.479 in 43.5s (amortized, batch size 4). 1593 / 4544 completed.
+  25/01/16 16:58:21 | INFO | root | Predicted structure for 3743|protein with length 211, pLDDT 90.1, pTM 0.807 in 43.5s (amortized, batch size 4). 1594 / 4544 completed.
+  25/01/16 16:58:21 | INFO | root | Predicted structure for 4097|protein with length 211, pLDDT 93.7, pTM 0.947 in 43.5s (amortized, batch size 4). 1595 / 4544 completed.
+  25/01/16 16:58:21 | INFO | root | Predicted structure for 0544|protein with length 212, pLDDT 83.5, pTM 0.712 in 43.5s (amortized, batch size 4). 1596 / 4544 completed.
+  25/01/16 17:01:13 | INFO | root | Predicted structure for 0686|protein with length 212, pLDDT 88.1, pTM 0.915 in 43.2s (amortized, batch size 4). 1597 / 4544 completed.
+  25/01/16 17:01:13 | INFO | root | Predicted structure for 1064|protein with length 212, pLDDT 73.6, pTM 0.695 in 43.2s (amortized, batch size 4). 1598 / 4544 completed.
+  25/01/16 17:01:13 | INFO | root | Predicted structure for 1513|protein with length 212, pLDDT 77.6, pTM 0.613 in 43.2s (amortized, batch size 4). 1599 / 4544 completed.
+  25/01/16 17:01:13 | INFO | root | Predicted structure for 1728|protein with length 212, pLDDT 81.9, pTM 0.665 in 43.2s (amortized, batch size 4). 1600 / 4544 completed.
+  25/01/16 17:04:07 | INFO | root | Predicted structure for 1903|protein with length 212, pLDDT 89.1, pTM 0.937 in 43.5s (amortized, batch size 4). 1601 / 4544 completed.
+  25/01/16 17:04:07 | INFO | root | Predicted structure for 2397|protein with length 212, pLDDT 86.9, pTM 0.915 in 43.5s (amortized, batch size 4). 1602 / 4544 completed.
+  25/01/16 17:04:07 | INFO | root | Predicted structure for 2635|protein with length 212, pLDDT 86.3, pTM 0.916 in 43.5s (amortized, batch size 4). 1603 / 4544 completed.
+  25/01/16 17:04:07 | INFO | root | Predicted structure for 2698|protein with length 212, pLDDT 47.7, pTM 0.344 in 43.5s (amortized, batch size 4). 1604 / 4544 completed.
+  25/01/16 17:07:01 | INFO | root | Predicted structure for 3415|protein with length 212, pLDDT 32.5, pTM 0.182 in 43.4s (amortized, batch size 4). 1605 / 4544 completed.
+  25/01/16 17:07:01 | INFO | root | Predicted structure for 4225|protein with length 212, pLDDT 92.7, pTM 0.923 in 43.4s (amortized, batch size 4). 1606 / 4544 completed.
+  25/01/16 17:07:01 | INFO | root | Predicted structure for 4380|protein with length 212, pLDDT 64.7, pTM 0.310 in 43.4s (amortized, batch size 4). 1607 / 4544 completed.
+  25/01/16 17:07:01 | INFO | root | Predicted structure for 4414|protein with length 212, pLDDT 92.8, pTM 0.956 in 43.4s (amortized, batch size 4). 1608 / 4544 completed.
+  25/01/16 17:09:58 | INFO | root | Predicted structure for 1984|protein with length 213, pLDDT 85.6, pTM 0.705 in 44.3s (amortized, batch size 4). 1609 / 4544 completed.
+  25/01/16 17:09:58 | INFO | root | Predicted structure for 2014|protein with length 213, pLDDT 77.3, pTM 0.721 in 44.3s (amortized, batch size 4). 1610 / 4544 completed.
+  25/01/16 17:09:58 | INFO | root | Predicted structure for 2462|protein with length 213, pLDDT 72.2, pTM 0.540 in 44.3s (amortized, batch size 4). 1611 / 4544 completed.
+  25/01/16 17:09:58 | INFO | root | Predicted structure for 2561|protein with length 213, pLDDT 77.2, pTM 0.749 in 44.3s (amortized, batch size 4). 1612 / 4544 completed.
+  25/01/16 17:12:56 | INFO | root | Predicted structure for 2562|protein with length 213, pLDDT 87.3, pTM 0.916 in 44.4s (amortized, batch size 4). 1613 / 4544 completed.
+  25/01/16 17:12:56 | INFO | root | Predicted structure for 3183|protein with length 213, pLDDT 39.2, pTM 0.213 in 44.4s (amortized, batch size 4). 1614 / 4544 completed.
+  25/01/16 17:12:56 | INFO | root | Predicted structure for 3668|protein with length 213, pLDDT 75.5, pTM 0.645 in 44.4s (amortized, batch size 4). 1615 / 4544 completed.
+  25/01/16 17:12:56 | INFO | root | Predicted structure for 3973|protein with length 213, pLDDT 88.4, pTM 0.877 in 44.4s (amortized, batch size 4). 1616 / 4544 completed.
+  25/01/16 17:15:54 | INFO | root | Predicted structure for 0215|protein with length 214, pLDDT 81.5, pTM 0.734 in 44.4s (amortized, batch size 4). 1617 / 4544 completed.
+  25/01/16 17:15:54 | INFO | root | Predicted structure for 0556|protein with length 214, pLDDT 93.1, pTM 0.952 in 44.4s (amortized, batch size 4). 1618 / 4544 completed.
+  25/01/16 17:15:54 | INFO | root | Predicted structure for 0820|protein with length 214, pLDDT 88.3, pTM 0.713 in 44.4s (amortized, batch size 4). 1619 / 4544 completed.
+  25/01/16 17:15:54 | INFO | root | Predicted structure for 0872|protein with length 214, pLDDT 44.1, pTM 0.274 in 44.4s (amortized, batch size 4). 1620 / 4544 completed.
+
+Command error:
+  INFO:    Environment variable SINGULARITYENV_TMPDIR is set, but APPTAINERENV_TMPDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_TASK_WORKDIR is set, but APPTAINERENV_NXF_TASK_WORKDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_DEBUG is set, but APPTAINERENV_NXF_DEBUG is preferred
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esmfold_3B_v1.pt" to checkpoints/esmfold_3B_v1.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt" to checkpoints/esm2_t36_3B_UR50D.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t36_3B_UR50D-contact-regression.pt" to checkpoints/esm2_t36_3B_UR50D-contact-regression.pt
+
+Work dir:
+  /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/18/1346ed8390182cd7a9efd106395889
+
+Tip: view the complete command output by changing to the process work dir and entering the command `cat .command.out`
+Jan-16 17:16:18.955 [TaskFinalizer-1] INFO  nextflow.Session - Execution cancelled -- Finishing pending tasks before exit
+Jan-16 17:16:18.967 [TaskFinalizer-1] ERROR nextflow.Nextflow - Pipeline failed. Please refer to troubleshooting docs: https://nf-co.re/docs/usage/troubleshooting
+Jan-16 17:16:18.967 [main] DEBUG nextflow.Session - Session await > all processes finished
+Jan-16 17:16:18.968 [Task monitor] DEBUG n.processor.TaskPollingMonitor - <<< barrier arrives (monitor: local) - terminating tasks monitor poll loop
+Jan-16 17:16:18.969 [main] DEBUG nextflow.Session - Session await > all barriers passed
+Jan-16 17:16:19.018 [Actor Thread 80] DEBUG nextflow.sort.BigSort - Sort completed -- entries: 1; slices: 1; internal sort time: 0.001 s; external sort time: 0.001 s; total time: 0.002 s
+Jan-16 17:16:19.193 [Actor Thread 80] DEBUG nextflow.file.FileCollector - Saved collect-files list to: /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/collect-file/ae3159e4569f8d43c07209e52d388487
+Jan-16 17:16:19.194 [Actor Thread 80] DEBUG nextflow.file.FileCollector - Deleting file collector temp dir: /scratch/pbs.6146443.kman.restech.unsw.edu.au/nxf-11918575321029563720
+Jan-16 17:16:19.196 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'TaskFinalizer' shutdown completed (hard=false)
+Jan-16 17:16:19.199 [main] INFO  nextflow.Nextflow - -[0;35m[nf-core/proteinfold][0;31m Pipeline completed with errors[0m-
+Jan-16 17:16:19.202 [main] DEBUG n.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=1; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=2d; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=1; peakCpus=6; peakMemory=36 GB; ]
+Jan-16 17:16:19.202 [main] DEBUG nextflow.trace.TraceFileObserver - Workflow completed -- saving trace file
+Jan-16 17:16:19.212 [main] DEBUG nextflow.trace.ReportObserver - Workflow completed -- rendering execution report
+Jan-16 17:16:19.746 [main] DEBUG nextflow.trace.TimelineObserver - Workflow completed -- rendering execution timeline
+Jan-16 17:16:20.021 [main] DEBUG nextflow.cache.CacheDB - Closing CacheDB done
+Jan-16 17:16:20.053 [main] INFO  org.pf4j.AbstractPluginManager - Stop plugin 'nf-tower@1.9.1'
+Jan-16 17:16:20.053 [main] DEBUG nextflow.plugin.BasePlugin - Plugin stopped nf-tower
+Jan-16 17:16:20.053 [main] INFO  org.pf4j.AbstractPluginManager - Stop plugin 'nf-validation@1.1.3'
+Jan-16 17:16:20.053 [main] DEBUG nextflow.plugin.BasePlugin - Plugin stopped nf-validation
+Jan-16 17:16:20.053 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'FileTransfer' shutdown completed (hard=false)
+Jan-16 17:16:20.054 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye

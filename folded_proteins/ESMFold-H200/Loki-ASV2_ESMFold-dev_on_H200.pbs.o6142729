@@ -1,0 +1,491 @@
+Nextflow 24.10.3 is available - Please consider updating your version to it
+
+ N E X T F L O W   ~  version 24.04.4
+
+NOTE: Your local project version looks outdated - a different revision is available in the remote repository [6505fe7c6c]
+Launching `https://github.com/nf-core/proteinfold` [mighty_minsky] DSL2 - revision: 9bea0dc4eb [master]
+
+WARN: Access to undefined parameter `monochromeLogs` -- Initialise it to a default value eg. `params.monochromeLogs = some_value`
+
+
+------------------------------------------------------
+                                        ,--./,-.
+        ___     __   __   __   ___     /,-._.--~'
+  |\ | |__  __ /  ` /  \ |__) |__         }  {
+  | \| |       \__, \__/ |  \ |___     \`-._,-`-,
+                                        `._,._,'
+  nf-core/proteinfold v1.1.1-g9bea0dc
+------------------------------------------------------
+Core Nextflow options
+  revision                        : master
+  runName                         : mighty_minsky
+  containerEngine                 : singularity
+  launchDir                       : /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200
+  workDir                         : /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work
+  projectDir                      : /home/z3374843/.nextflow/assets/nf-core/proteinfold
+  userName                        : z3374843
+  profile                         : singularity
+  configFiles                     : 
+
+Global options
+  input                           : /srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv
+  outdir                          : /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200
+  mode                            : esmfold
+
+Esmfold options
+  esmfold_db                      : /mnt/af2/
+  esmfold_model_preset            : monomer
+
+Alphafold2 DBs and parameters links options
+  bfd_path                        : null/bfd/*
+  small_bfd_path                  : null/small_bfd/*
+  alphafold2_params_path          : null/alphafold_params_*/*
+  mgnify_path                     : null/mgnify/*
+  pdb70_path                      : null/pdb70/**
+  pdb_mmcif_path                  : null/pdb_mmcif/*
+  uniref30_alphafold2_path        : null/uniref30/*
+  uniref90_path                   : null/uniref90/*
+  pdb_seqres_path                 : null/pdb_seqres/*
+  uniprot_path                    : null/uniprot/*
+
+Colabfold DBs and parameters links options
+  colabfold_db_path               : null/colabfold_envdb_202108
+  uniref30_colabfold_path         : null/uniref30_2302
+  colabfold_alphafold2_params_path: null/params/alphafold_params_2021-07-14
+  colabfold_alphafold2_params_tags: {alphafold2_multimer_v1=alphafold_params_colab_2021-10-27, alphafold2_multimer_v2=alphafold_params_colab_2022-03-02, alphafold2_multimer_v3=alphafold_params_colab_2022-12-06, alphafold2_ptm=alphafold_params_2021-07-14}
+
+Esmfold parameters links options
+  esmfold_params_path             : /mnt/af2//*
+
+!! Only displaying parameters that differ from the pipeline defaults !!
+------------------------------------------------------
+If you use nf-core/proteinfold for your analysis please cite:
+
+* The pipeline
+  https://doi.org/10.5281/zenodo.7629996
+
+* The nf-core framework
+  https://doi.org/10.1038/s41587-020-0439-x
+
+* Software dependencies
+  https://github.com/nf-core/proteinfold/blob/master/CITATIONS.md
+------------------------------------------------------
+[-        ] NFC…INFOLD:ESMFOLD:RUN_ESMFOLD -
+
+executor >  local (1)
+[3d/3c2dcd] NFC…RUN_ESMFOLD (0001|protein) | 0 of 1
+[-        ] NFC…ROTEINFOLD:ESMFOLD:MULTIQC -
+
+executor >  local (1)
+[3d/3c2dcd] NFC…RUN_ESMFOLD (0001|protein) | 0 of 1
+[-        ] NFC…ROTEINFOLD:ESMFOLD:MULTIQC -
+
+executor >  local (1)
+[3d/3c2dcd] NFC…RUN_ESMFOLD (0001|protein) | 0 of 1
+[-        ] NFC…ROTEINFOLD:ESMFOLD:MULTIQC -
+ERROR ~ Error executing process > 'NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein)'
+
+Caused by:
+  Process exceeded running time limit (8h)
+
+
+Command executed:
+
+  esm-fold         -i loki-ASV2_dfast_all_protein_ORFs.fasta         -o $PWD         -m $PWD         --num-recycles 4         --cpu-only
+  
+  awk '{print $2"\t"$3"\t"$4"\t"$6"\t"$11}' "loki-ASV2_dfast_all_protein_ORFs"*.pdb | grep -v 'N/A' | uniq > plddt.tsv
+  echo -e Atom_serial_number"\t"Atom_name"\t"Residue_name"\t"Residue_sequence_number"\t"pLDDT > header.tsv
+  cat header.tsv plddt.tsv > "loki-ASV2_dfast_all_protein_ORFs"_plddt_mqc.tsv
+  
+  cat <<-END_VERSIONS > versions.yml
+  "NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD":
+      esm-fold: 1.0.3
+  END_VERSIONS
+
+Command exit status:
+  -
+
+Command output:
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 0816|protein with length 209, pLDDT 90.8, pTM 0.932 in 41.7s (amortized, batch size 4). 1567 / 4544 completed.
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 1013|protein with length 209, pLDDT 42.8, pTM 0.359 in 41.7s (amortized, batch size 4). 1568 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1475|protein with length 209, pLDDT 91.0, pTM 0.949 in 41.9s (amortized, batch size 4). 1569 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1487|protein with length 209, pLDDT 78.7, pTM 0.828 in 41.9s (amortized, batch size 4). 1570 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2068|protein with length 209, pLDDT 89.4, pTM 0.929 in 41.9s (amortized, batch size 4). 1571 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2099|protein with length 209, pLDDT 92.3, pTM 0.951 in 41.9s (amortized, batch size 4). 1572 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 2352|protein with length 209, pLDDT 89.4, pTM 0.933 in 42.1s (amortized, batch size 4). 1573 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 3964|protein with length 209, pLDDT 94.5, pTM 0.962 in 42.1s (amortized, batch size 4). 1574 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 0986|protein with length 210, pLDDT 77.8, pTM 0.687 in 42.1s (amortized, batch size 4). 1575 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 1197|protein with length 210, pLDDT 92.9, pTM 0.871 in 42.1s (amortized, batch size 4). 1576 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2157|protein with length 210, pLDDT 72.3, pTM 0.495 in 42.1s (amortized, batch size 4). 1577 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2246|protein with length 210, pLDDT 91.0, pTM 0.927 in 42.1s (amortized, batch size 4). 1578 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2277|protein with length 210, pLDDT 80.4, pTM 0.827 in 42.1s (amortized, batch size 4). 1579 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2702|protein with length 210, pLDDT 79.1, pTM 0.694 in 42.1s (amortized, batch size 4). 1580 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 2995|protein with length 210, pLDDT 92.3, pTM 0.899 in 42.2s (amortized, batch size 4). 1581 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3751|protein with length 210, pLDDT 75.9, pTM 0.630 in 42.2s (amortized, batch size 4). 1582 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3789|protein with length 210, pLDDT 89.3, pTM 0.948 in 42.2s (amortized, batch size 4). 1583 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3910|protein with length 210, pLDDT 88.7, pTM 0.923 in 42.2s (amortized, batch size 4). 1584 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 4056|protein with length 210, pLDDT 93.5, pTM 0.958 in 43.3s (amortized, batch size 4). 1585 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0274|protein with length 211, pLDDT 64.7, pTM 0.334 in 43.3s (amortized, batch size 4). 1586 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0758|protein with length 211, pLDDT 88.3, pTM 0.929 in 43.3s (amortized, batch size 4). 1587 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 1586|protein with length 211, pLDDT 90.3, pTM 0.926 in 43.3s (amortized, batch size 4). 1588 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 1636|protein with length 211, pLDDT 87.5, pTM 0.911 in 42.8s (amortized, batch size 4). 1589 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2009|protein with length 211, pLDDT 89.6, pTM 0.950 in 42.8s (amortized, batch size 4). 1590 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2051|protein with length 211, pLDDT 88.1, pTM 0.902 in 42.8s (amortized, batch size 4). 1591 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2809|protein with length 211, pLDDT 92.0, pTM 0.835 in 42.8s (amortized, batch size 4). 1592 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 2894|protein with length 211, pLDDT 61.4, pTM 0.479 in 43.1s (amortized, batch size 4). 1593 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 3743|protein with length 211, pLDDT 90.1, pTM 0.807 in 43.1s (amortized, batch size 4). 1594 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 4097|protein with length 211, pLDDT 93.7, pTM 0.947 in 43.1s (amortized, batch size 4). 1595 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 0544|protein with length 212, pLDDT 83.5, pTM 0.712 in 43.1s (amortized, batch size 4). 1596 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 0686|protein with length 212, pLDDT 88.1, pTM 0.915 in 43.2s (amortized, batch size 4). 1597 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1064|protein with length 212, pLDDT 73.6, pTM 0.695 in 43.2s (amortized, batch size 4). 1598 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1513|protein with length 212, pLDDT 77.6, pTM 0.613 in 43.2s (amortized, batch size 4). 1599 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1728|protein with length 212, pLDDT 81.9, pTM 0.665 in 43.2s (amortized, batch size 4). 1600 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 1903|protein with length 212, pLDDT 89.1, pTM 0.937 in 43.2s (amortized, batch size 4). 1601 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2397|protein with length 212, pLDDT 86.9, pTM 0.915 in 43.2s (amortized, batch size 4). 1602 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2635|protein with length 212, pLDDT 86.3, pTM 0.916 in 43.2s (amortized, batch size 4). 1603 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2698|protein with length 212, pLDDT 47.7, pTM 0.344 in 43.2s (amortized, batch size 4). 1604 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 3415|protein with length 212, pLDDT 32.5, pTM 0.182 in 43.5s (amortized, batch size 4). 1605 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4225|protein with length 212, pLDDT 92.7, pTM 0.923 in 43.5s (amortized, batch size 4). 1606 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4380|protein with length 212, pLDDT 64.7, pTM 0.310 in 43.5s (amortized, batch size 4). 1607 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4414|protein with length 212, pLDDT 92.8, pTM 0.956 in 43.5s (amortized, batch size 4). 1608 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 1984|protein with length 213, pLDDT 85.6, pTM 0.705 in 44.3s (amortized, batch size 4). 1609 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2014|protein with length 213, pLDDT 77.3, pTM 0.721 in 44.3s (amortized, batch size 4). 1610 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2462|protein with length 213, pLDDT 72.2, pTM 0.540 in 44.3s (amortized, batch size 4). 1611 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2561|protein with length 213, pLDDT 77.2, pTM 0.749 in 44.3s (amortized, batch size 4). 1612 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 2562|protein with length 213, pLDDT 87.3, pTM 0.916 in 44.3s (amortized, batch size 4). 1613 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3183|protein with length 213, pLDDT 39.2, pTM 0.213 in 44.3s (amortized, batch size 4). 1614 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3668|protein with length 213, pLDDT 75.5, pTM 0.645 in 44.3s (amortized, batch size 4). 1615 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3973|protein with length 213, pLDDT 88.4, pTM 0.877 in 44.3s (amortized, batch size 4). 1616 / 4544 completed.
+
+Command error:
+  INFO:    Environment variable SINGULARITYENV_TMPDIR is set, but APPTAINERENV_TMPDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_TASK_WORKDIR is set, but APPTAINERENV_NXF_TASK_WORKDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_DEBUG is set, but APPTAINERENV_NXF_DEBUG is preferred
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esmfold_3B_v1.pt" to checkpoints/esmfold_3B_v1.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt" to checkpoints/esm2_t36_3B_UR50D.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t36_3B_UR50D-contact-regression.pt" to checkpoints/esm2_t36_3B_UR50D-contact-regression.pt
+
+Work dir:
+  /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/3d/3c2dcd1a38150ec12861b38cdc2f7b
+
+Tip: you can replicate the issue by changing to the process work dir and entering the command `bash .command.run`
+
+ -- Check '.nextflow.log' file for details
+
+executor >  local (1)
+[3d/3c2dcd] NFC…RUN_ESMFOLD (0001|protein) | 1 of 1, failed: 1 ✘
+[-        ] NFC…ROTEINFOLD:ESMFOLD:MULTIQC -
+Execution cancelled -- Finishing pending tasks before exit
+ERROR ~ Error executing process > 'NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein)'
+
+Caused by:
+  Process exceeded running time limit (8h)
+
+
+Command executed:
+
+  esm-fold         -i loki-ASV2_dfast_all_protein_ORFs.fasta         -o $PWD         -m $PWD         --num-recycles 4         --cpu-only
+  
+  awk '{print $2"\t"$3"\t"$4"\t"$6"\t"$11}' "loki-ASV2_dfast_all_protein_ORFs"*.pdb | grep -v 'N/A' | uniq > plddt.tsv
+  echo -e Atom_serial_number"\t"Atom_name"\t"Residue_name"\t"Residue_sequence_number"\t"pLDDT > header.tsv
+  cat header.tsv plddt.tsv > "loki-ASV2_dfast_all_protein_ORFs"_plddt_mqc.tsv
+  
+  cat <<-END_VERSIONS > versions.yml
+  "NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD":
+      esm-fold: 1.0.3
+  END_VERSIONS
+
+Command exit status:
+  -
+
+Command output:
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 0816|protein with length 209, pLDDT 90.8, pTM 0.932 in 41.7s (amortized, batch size 4). 1567 / 4544 completed.
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 1013|protein with length 209, pLDDT 42.8, pTM 0.359 in 41.7s (amortized, batch size 4). 1568 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1475|protein with length 209, pLDDT 91.0, pTM 0.949 in 41.9s (amortized, batch size 4). 1569 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1487|protein with length 209, pLDDT 78.7, pTM 0.828 in 41.9s (amortized, batch size 4). 1570 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2068|protein with length 209, pLDDT 89.4, pTM 0.929 in 41.9s (amortized, batch size 4). 1571 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2099|protein with length 209, pLDDT 92.3, pTM 0.951 in 41.9s (amortized, batch size 4). 1572 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 2352|protein with length 209, pLDDT 89.4, pTM 0.933 in 42.1s (amortized, batch size 4). 1573 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 3964|protein with length 209, pLDDT 94.5, pTM 0.962 in 42.1s (amortized, batch size 4). 1574 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 0986|protein with length 210, pLDDT 77.8, pTM 0.687 in 42.1s (amortized, batch size 4). 1575 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 1197|protein with length 210, pLDDT 92.9, pTM 0.871 in 42.1s (amortized, batch size 4). 1576 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2157|protein with length 210, pLDDT 72.3, pTM 0.495 in 42.1s (amortized, batch size 4). 1577 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2246|protein with length 210, pLDDT 91.0, pTM 0.927 in 42.1s (amortized, batch size 4). 1578 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2277|protein with length 210, pLDDT 80.4, pTM 0.827 in 42.1s (amortized, batch size 4). 1579 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2702|protein with length 210, pLDDT 79.1, pTM 0.694 in 42.1s (amortized, batch size 4). 1580 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 2995|protein with length 210, pLDDT 92.3, pTM 0.899 in 42.2s (amortized, batch size 4). 1581 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3751|protein with length 210, pLDDT 75.9, pTM 0.630 in 42.2s (amortized, batch size 4). 1582 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3789|protein with length 210, pLDDT 89.3, pTM 0.948 in 42.2s (amortized, batch size 4). 1583 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3910|protein with length 210, pLDDT 88.7, pTM 0.923 in 42.2s (amortized, batch size 4). 1584 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 4056|protein with length 210, pLDDT 93.5, pTM 0.958 in 43.3s (amortized, batch size 4). 1585 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0274|protein with length 211, pLDDT 64.7, pTM 0.334 in 43.3s (amortized, batch size 4). 1586 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0758|protein with length 211, pLDDT 88.3, pTM 0.929 in 43.3s (amortized, batch size 4). 1587 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 1586|protein with length 211, pLDDT 90.3, pTM 0.926 in 43.3s (amortized, batch size 4). 1588 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 1636|protein with length 211, pLDDT 87.5, pTM 0.911 in 42.8s (amortized, batch size 4). 1589 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2009|protein with length 211, pLDDT 89.6, pTM 0.950 in 42.8s (amortized, batch size 4). 1590 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2051|protein with length 211, pLDDT 88.1, pTM 0.902 in 42.8s (amortized, batch size 4). 1591 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2809|protein with length 211, pLDDT 92.0, pTM 0.835 in 42.8s (amortized, batch size 4). 1592 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 2894|protein with length 211, pLDDT 61.4, pTM 0.479 in 43.1s (amortized, batch size 4). 1593 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 3743|protein with length 211, pLDDT 90.1, pTM 0.807 in 43.1s (amortized, batch size 4). 1594 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 4097|protein with length 211, pLDDT 93.7, pTM 0.947 in 43.1s (amortized, batch size 4). 1595 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 0544|protein with length 212, pLDDT 83.5, pTM 0.712 in 43.1s (amortized, batch size 4). 1596 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 0686|protein with length 212, pLDDT 88.1, pTM 0.915 in 43.2s (amortized, batch size 4). 1597 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1064|protein with length 212, pLDDT 73.6, pTM 0.695 in 43.2s (amortized, batch size 4). 1598 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1513|protein with length 212, pLDDT 77.6, pTM 0.613 in 43.2s (amortized, batch size 4). 1599 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1728|protein with length 212, pLDDT 81.9, pTM 0.665 in 43.2s (amortized, batch size 4). 1600 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 1903|protein with length 212, pLDDT 89.1, pTM 0.937 in 43.2s (amortized, batch size 4). 1601 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2397|protein with length 212, pLDDT 86.9, pTM 0.915 in 43.2s (amortized, batch size 4). 1602 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2635|protein with length 212, pLDDT 86.3, pTM 0.916 in 43.2s (amortized, batch size 4). 1603 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2698|protein with length 212, pLDDT 47.7, pTM 0.344 in 43.2s (amortized, batch size 4). 1604 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 3415|protein with length 212, pLDDT 32.5, pTM 0.182 in 43.5s (amortized, batch size 4). 1605 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4225|protein with length 212, pLDDT 92.7, pTM 0.923 in 43.5s (amortized, batch size 4). 1606 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4380|protein with length 212, pLDDT 64.7, pTM 0.310 in 43.5s (amortized, batch size 4). 1607 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4414|protein with length 212, pLDDT 92.8, pTM 0.956 in 43.5s (amortized, batch size 4). 1608 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 1984|protein with length 213, pLDDT 85.6, pTM 0.705 in 44.3s (amortized, batch size 4). 1609 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2014|protein with length 213, pLDDT 77.3, pTM 0.721 in 44.3s (amortized, batch size 4). 1610 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2462|protein with length 213, pLDDT 72.2, pTM 0.540 in 44.3s (amortized, batch size 4). 1611 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2561|protein with length 213, pLDDT 77.2, pTM 0.749 in 44.3s (amortized, batch size 4). 1612 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 2562|protein with length 213, pLDDT 87.3, pTM 0.916 in 44.3s (amortized, batch size 4). 1613 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3183|protein with length 213, pLDDT 39.2, pTM 0.213 in 44.3s (amortized, batch size 4). 1614 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3668|protein with length 213, pLDDT 75.5, pTM 0.645 in 44.3s (amortized, batch size 4). 1615 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3973|protein with length 213, pLDDT 88.4, pTM 0.877 in 44.3s (amortized, batch size 4). 1616 / 4544 completed.
+
+Command error:
+  INFO:    Environment variable SINGULARITYENV_TMPDIR is set, but APPTAINERENV_TMPDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_TASK_WORKDIR is set, but APPTAINERENV_NXF_TASK_WORKDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_DEBUG is set, but APPTAINERENV_NXF_DEBUG is preferred
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esmfold_3B_v1.pt" to checkpoints/esmfold_3B_v1.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt" to checkpoints/esm2_t36_3B_UR50D.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t36_3B_UR50D-contact-regression.pt" to checkpoints/esm2_t36_3B_UR50D-contact-regression.pt
+
+Work dir:
+  /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/3d/3c2dcd1a38150ec12861b38cdc2f7b
+
+Tip: you can replicate the issue by changing to the process work dir and entering the command `bash .command.run`
+
+ -- Check '.nextflow.log' file for details
+ERROR ~ Pipeline failed. Please refer to troubleshooting docs: https://nf-co.re/docs/usage/troubleshooting
+
+ -- Check '.nextflow.log' file for details
+
+executor >  local (1)
+[3d/3c2dcd] NFC…RUN_ESMFOLD (0001|protein) | 1 of 1, failed: 1 ✘
+[-        ] NFC…ROTEINFOLD:ESMFOLD:MULTIQC -
+Execution cancelled -- Finishing pending tasks before exit
+-[nf-core/proteinfold] Pipeline completed with errors-
+ERROR ~ Error executing process > 'NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein)'
+
+Caused by:
+  Process exceeded running time limit (8h)
+
+
+Command executed:
+
+  esm-fold         -i loki-ASV2_dfast_all_protein_ORFs.fasta         -o $PWD         -m $PWD         --num-recycles 4         --cpu-only
+  
+  awk '{print $2"\t"$3"\t"$4"\t"$6"\t"$11}' "loki-ASV2_dfast_all_protein_ORFs"*.pdb | grep -v 'N/A' | uniq > plddt.tsv
+  echo -e Atom_serial_number"\t"Atom_name"\t"Residue_name"\t"Residue_sequence_number"\t"pLDDT > header.tsv
+  cat header.tsv plddt.tsv > "loki-ASV2_dfast_all_protein_ORFs"_plddt_mqc.tsv
+  
+  cat <<-END_VERSIONS > versions.yml
+  "NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD":
+      esm-fold: 1.0.3
+  END_VERSIONS
+
+Command exit status:
+  -
+
+Command output:
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 0816|protein with length 209, pLDDT 90.8, pTM 0.932 in 41.7s (amortized, batch size 4). 1567 / 4544 completed.
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 1013|protein with length 209, pLDDT 42.8, pTM 0.359 in 41.7s (amortized, batch size 4). 1568 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1475|protein with length 209, pLDDT 91.0, pTM 0.949 in 41.9s (amortized, batch size 4). 1569 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1487|protein with length 209, pLDDT 78.7, pTM 0.828 in 41.9s (amortized, batch size 4). 1570 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2068|protein with length 209, pLDDT 89.4, pTM 0.929 in 41.9s (amortized, batch size 4). 1571 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2099|protein with length 209, pLDDT 92.3, pTM 0.951 in 41.9s (amortized, batch size 4). 1572 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 2352|protein with length 209, pLDDT 89.4, pTM 0.933 in 42.1s (amortized, batch size 4). 1573 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 3964|protein with length 209, pLDDT 94.5, pTM 0.962 in 42.1s (amortized, batch size 4). 1574 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 0986|protein with length 210, pLDDT 77.8, pTM 0.687 in 42.1s (amortized, batch size 4). 1575 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 1197|protein with length 210, pLDDT 92.9, pTM 0.871 in 42.1s (amortized, batch size 4). 1576 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2157|protein with length 210, pLDDT 72.3, pTM 0.495 in 42.1s (amortized, batch size 4). 1577 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2246|protein with length 210, pLDDT 91.0, pTM 0.927 in 42.1s (amortized, batch size 4). 1578 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2277|protein with length 210, pLDDT 80.4, pTM 0.827 in 42.1s (amortized, batch size 4). 1579 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2702|protein with length 210, pLDDT 79.1, pTM 0.694 in 42.1s (amortized, batch size 4). 1580 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 2995|protein with length 210, pLDDT 92.3, pTM 0.899 in 42.2s (amortized, batch size 4). 1581 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3751|protein with length 210, pLDDT 75.9, pTM 0.630 in 42.2s (amortized, batch size 4). 1582 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3789|protein with length 210, pLDDT 89.3, pTM 0.948 in 42.2s (amortized, batch size 4). 1583 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3910|protein with length 210, pLDDT 88.7, pTM 0.923 in 42.2s (amortized, batch size 4). 1584 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 4056|protein with length 210, pLDDT 93.5, pTM 0.958 in 43.3s (amortized, batch size 4). 1585 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0274|protein with length 211, pLDDT 64.7, pTM 0.334 in 43.3s (amortized, batch size 4). 1586 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0758|protein with length 211, pLDDT 88.3, pTM 0.929 in 43.3s (amortized, batch size 4). 1587 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 1586|protein with length 211, pLDDT 90.3, pTM 0.926 in 43.3s (amortized, batch size 4). 1588 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 1636|protein with length 211, pLDDT 87.5, pTM 0.911 in 42.8s (amortized, batch size 4). 1589 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2009|protein with length 211, pLDDT 89.6, pTM 0.950 in 42.8s (amortized, batch size 4). 1590 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2051|protein with length 211, pLDDT 88.1, pTM 0.902 in 42.8s (amortized, batch size 4). 1591 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2809|protein with length 211, pLDDT 92.0, pTM 0.835 in 42.8s (amortized, batch size 4). 1592 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 2894|protein with length 211, pLDDT 61.4, pTM 0.479 in 43.1s (amortized, batch size 4). 1593 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 3743|protein with length 211, pLDDT 90.1, pTM 0.807 in 43.1s (amortized, batch size 4). 1594 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 4097|protein with length 211, pLDDT 93.7, pTM 0.947 in 43.1s (amortized, batch size 4). 1595 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 0544|protein with length 212, pLDDT 83.5, pTM 0.712 in 43.1s (amortized, batch size 4). 1596 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 0686|protein with length 212, pLDDT 88.1, pTM 0.915 in 43.2s (amortized, batch size 4). 1597 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1064|protein with length 212, pLDDT 73.6, pTM 0.695 in 43.2s (amortized, batch size 4). 1598 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1513|protein with length 212, pLDDT 77.6, pTM 0.613 in 43.2s (amortized, batch size 4). 1599 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1728|protein with length 212, pLDDT 81.9, pTM 0.665 in 43.2s (amortized, batch size 4). 1600 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 1903|protein with length 212, pLDDT 89.1, pTM 0.937 in 43.2s (amortized, batch size 4). 1601 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2397|protein with length 212, pLDDT 86.9, pTM 0.915 in 43.2s (amortized, batch size 4). 1602 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2635|protein with length 212, pLDDT 86.3, pTM 0.916 in 43.2s (amortized, batch size 4). 1603 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2698|protein with length 212, pLDDT 47.7, pTM 0.344 in 43.2s (amortized, batch size 4). 1604 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 3415|protein with length 212, pLDDT 32.5, pTM 0.182 in 43.5s (amortized, batch size 4). 1605 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4225|protein with length 212, pLDDT 92.7, pTM 0.923 in 43.5s (amortized, batch size 4). 1606 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4380|protein with length 212, pLDDT 64.7, pTM 0.310 in 43.5s (amortized, batch size 4). 1607 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4414|protein with length 212, pLDDT 92.8, pTM 0.956 in 43.5s (amortized, batch size 4). 1608 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 1984|protein with length 213, pLDDT 85.6, pTM 0.705 in 44.3s (amortized, batch size 4). 1609 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2014|protein with length 213, pLDDT 77.3, pTM 0.721 in 44.3s (amortized, batch size 4). 1610 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2462|protein with length 213, pLDDT 72.2, pTM 0.540 in 44.3s (amortized, batch size 4). 1611 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2561|protein with length 213, pLDDT 77.2, pTM 0.749 in 44.3s (amortized, batch size 4). 1612 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 2562|protein with length 213, pLDDT 87.3, pTM 0.916 in 44.3s (amortized, batch size 4). 1613 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3183|protein with length 213, pLDDT 39.2, pTM 0.213 in 44.3s (amortized, batch size 4). 1614 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3668|protein with length 213, pLDDT 75.5, pTM 0.645 in 44.3s (amortized, batch size 4). 1615 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3973|protein with length 213, pLDDT 88.4, pTM 0.877 in 44.3s (amortized, batch size 4). 1616 / 4544 completed.
+
+Command error:
+  INFO:    Environment variable SINGULARITYENV_TMPDIR is set, but APPTAINERENV_TMPDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_TASK_WORKDIR is set, but APPTAINERENV_NXF_TASK_WORKDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_DEBUG is set, but APPTAINERENV_NXF_DEBUG is preferred
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esmfold_3B_v1.pt" to checkpoints/esmfold_3B_v1.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt" to checkpoints/esm2_t36_3B_UR50D.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t36_3B_UR50D-contact-regression.pt" to checkpoints/esm2_t36_3B_UR50D-contact-regression.pt
+
+Work dir:
+  /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/3d/3c2dcd1a38150ec12861b38cdc2f7b
+
+Tip: you can replicate the issue by changing to the process work dir and entering the command `bash .command.run`
+
+ -- Check '.nextflow.log' file for details
+ERROR ~ Pipeline failed. Please refer to troubleshooting docs: https://nf-co.re/docs/usage/troubleshooting
+
+ -- Check '.nextflow.log' file for details
+
+executor >  local (1)
+[3d/3c2dcd] NFC…RUN_ESMFOLD (0001|protein) | 1 of 1, failed: 1 ✘
+[-        ] NFC…ROTEINFOLD:ESMFOLD:MULTIQC -
+Execution cancelled -- Finishing pending tasks before exit
+-[nf-core/proteinfold] Pipeline completed with errors-
+ERROR ~ Error executing process > 'NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD (0001|protein)'
+
+Caused by:
+  Process exceeded running time limit (8h)
+
+
+Command executed:
+
+  esm-fold         -i loki-ASV2_dfast_all_protein_ORFs.fasta         -o $PWD         -m $PWD         --num-recycles 4         --cpu-only
+  
+  awk '{print $2"\t"$3"\t"$4"\t"$6"\t"$11}' "loki-ASV2_dfast_all_protein_ORFs"*.pdb | grep -v 'N/A' | uniq > plddt.tsv
+  echo -e Atom_serial_number"\t"Atom_name"\t"Residue_name"\t"Residue_sequence_number"\t"pLDDT > header.tsv
+  cat header.tsv plddt.tsv > "loki-ASV2_dfast_all_protein_ORFs"_plddt_mqc.tsv
+  
+  cat <<-END_VERSIONS > versions.yml
+  "NFCORE_PROTEINFOLD:ESMFOLD:RUN_ESMFOLD":
+      esm-fold: 1.0.3
+  END_VERSIONS
+
+Command exit status:
+  -
+
+Command output:
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 0816|protein with length 209, pLDDT 90.8, pTM 0.932 in 41.7s (amortized, batch size 4). 1567 / 4544 completed.
+  25/01/15 22:07:17 | INFO | root | Predicted structure for 1013|protein with length 209, pLDDT 42.8, pTM 0.359 in 41.7s (amortized, batch size 4). 1568 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1475|protein with length 209, pLDDT 91.0, pTM 0.949 in 41.9s (amortized, batch size 4). 1569 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 1487|protein with length 209, pLDDT 78.7, pTM 0.828 in 41.9s (amortized, batch size 4). 1570 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2068|protein with length 209, pLDDT 89.4, pTM 0.929 in 41.9s (amortized, batch size 4). 1571 / 4544 completed.
+  25/01/15 22:10:04 | INFO | root | Predicted structure for 2099|protein with length 209, pLDDT 92.3, pTM 0.951 in 41.9s (amortized, batch size 4). 1572 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 2352|protein with length 209, pLDDT 89.4, pTM 0.933 in 42.1s (amortized, batch size 4). 1573 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 3964|protein with length 209, pLDDT 94.5, pTM 0.962 in 42.1s (amortized, batch size 4). 1574 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 0986|protein with length 210, pLDDT 77.8, pTM 0.687 in 42.1s (amortized, batch size 4). 1575 / 4544 completed.
+  25/01/15 22:12:53 | INFO | root | Predicted structure for 1197|protein with length 210, pLDDT 92.9, pTM 0.871 in 42.1s (amortized, batch size 4). 1576 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2157|protein with length 210, pLDDT 72.3, pTM 0.495 in 42.1s (amortized, batch size 4). 1577 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2246|protein with length 210, pLDDT 91.0, pTM 0.927 in 42.1s (amortized, batch size 4). 1578 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2277|protein with length 210, pLDDT 80.4, pTM 0.827 in 42.1s (amortized, batch size 4). 1579 / 4544 completed.
+  25/01/15 22:15:41 | INFO | root | Predicted structure for 2702|protein with length 210, pLDDT 79.1, pTM 0.694 in 42.1s (amortized, batch size 4). 1580 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 2995|protein with length 210, pLDDT 92.3, pTM 0.899 in 42.2s (amortized, batch size 4). 1581 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3751|protein with length 210, pLDDT 75.9, pTM 0.630 in 42.2s (amortized, batch size 4). 1582 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3789|protein with length 210, pLDDT 89.3, pTM 0.948 in 42.2s (amortized, batch size 4). 1583 / 4544 completed.
+  25/01/15 22:18:30 | INFO | root | Predicted structure for 3910|protein with length 210, pLDDT 88.7, pTM 0.923 in 42.2s (amortized, batch size 4). 1584 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 4056|protein with length 210, pLDDT 93.5, pTM 0.958 in 43.3s (amortized, batch size 4). 1585 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0274|protein with length 211, pLDDT 64.7, pTM 0.334 in 43.3s (amortized, batch size 4). 1586 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 0758|protein with length 211, pLDDT 88.3, pTM 0.929 in 43.3s (amortized, batch size 4). 1587 / 4544 completed.
+  25/01/15 22:21:23 | INFO | root | Predicted structure for 1586|protein with length 211, pLDDT 90.3, pTM 0.926 in 43.3s (amortized, batch size 4). 1588 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 1636|protein with length 211, pLDDT 87.5, pTM 0.911 in 42.8s (amortized, batch size 4). 1589 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2009|protein with length 211, pLDDT 89.6, pTM 0.950 in 42.8s (amortized, batch size 4). 1590 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2051|protein with length 211, pLDDT 88.1, pTM 0.902 in 42.8s (amortized, batch size 4). 1591 / 4544 completed.
+  25/01/15 22:24:14 | INFO | root | Predicted structure for 2809|protein with length 211, pLDDT 92.0, pTM 0.835 in 42.8s (amortized, batch size 4). 1592 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 2894|protein with length 211, pLDDT 61.4, pTM 0.479 in 43.1s (amortized, batch size 4). 1593 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 3743|protein with length 211, pLDDT 90.1, pTM 0.807 in 43.1s (amortized, batch size 4). 1594 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 4097|protein with length 211, pLDDT 93.7, pTM 0.947 in 43.1s (amortized, batch size 4). 1595 / 4544 completed.
+  25/01/15 22:27:07 | INFO | root | Predicted structure for 0544|protein with length 212, pLDDT 83.5, pTM 0.712 in 43.1s (amortized, batch size 4). 1596 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 0686|protein with length 212, pLDDT 88.1, pTM 0.915 in 43.2s (amortized, batch size 4). 1597 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1064|protein with length 212, pLDDT 73.6, pTM 0.695 in 43.2s (amortized, batch size 4). 1598 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1513|protein with length 212, pLDDT 77.6, pTM 0.613 in 43.2s (amortized, batch size 4). 1599 / 4544 completed.
+  25/01/15 22:30:00 | INFO | root | Predicted structure for 1728|protein with length 212, pLDDT 81.9, pTM 0.665 in 43.2s (amortized, batch size 4). 1600 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 1903|protein with length 212, pLDDT 89.1, pTM 0.937 in 43.2s (amortized, batch size 4). 1601 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2397|protein with length 212, pLDDT 86.9, pTM 0.915 in 43.2s (amortized, batch size 4). 1602 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2635|protein with length 212, pLDDT 86.3, pTM 0.916 in 43.2s (amortized, batch size 4). 1603 / 4544 completed.
+  25/01/15 22:32:53 | INFO | root | Predicted structure for 2698|protein with length 212, pLDDT 47.7, pTM 0.344 in 43.2s (amortized, batch size 4). 1604 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 3415|protein with length 212, pLDDT 32.5, pTM 0.182 in 43.5s (amortized, batch size 4). 1605 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4225|protein with length 212, pLDDT 92.7, pTM 0.923 in 43.5s (amortized, batch size 4). 1606 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4380|protein with length 212, pLDDT 64.7, pTM 0.310 in 43.5s (amortized, batch size 4). 1607 / 4544 completed.
+  25/01/15 22:35:47 | INFO | root | Predicted structure for 4414|protein with length 212, pLDDT 92.8, pTM 0.956 in 43.5s (amortized, batch size 4). 1608 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 1984|protein with length 213, pLDDT 85.6, pTM 0.705 in 44.3s (amortized, batch size 4). 1609 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2014|protein with length 213, pLDDT 77.3, pTM 0.721 in 44.3s (amortized, batch size 4). 1610 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2462|protein with length 213, pLDDT 72.2, pTM 0.540 in 44.3s (amortized, batch size 4). 1611 / 4544 completed.
+  25/01/15 22:38:44 | INFO | root | Predicted structure for 2561|protein with length 213, pLDDT 77.2, pTM 0.749 in 44.3s (amortized, batch size 4). 1612 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 2562|protein with length 213, pLDDT 87.3, pTM 0.916 in 44.3s (amortized, batch size 4). 1613 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3183|protein with length 213, pLDDT 39.2, pTM 0.213 in 44.3s (amortized, batch size 4). 1614 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3668|protein with length 213, pLDDT 75.5, pTM 0.645 in 44.3s (amortized, batch size 4). 1615 / 4544 completed.
+  25/01/15 22:41:41 | INFO | root | Predicted structure for 3973|protein with length 213, pLDDT 88.4, pTM 0.877 in 44.3s (amortized, batch size 4). 1616 / 4544 completed.
+
+Command error:
+  INFO:    Environment variable SINGULARITYENV_TMPDIR is set, but APPTAINERENV_TMPDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_TASK_WORKDIR is set, but APPTAINERENV_NXF_TASK_WORKDIR is preferred
+  INFO:    Environment variable SINGULARITYENV_NXF_DEBUG is set, but APPTAINERENV_NXF_DEBUG is preferred
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esmfold_3B_v1.pt" to checkpoints/esmfold_3B_v1.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt" to checkpoints/esm2_t36_3B_UR50D.pt
+  Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t36_3B_UR50D-contact-regression.pt" to checkpoints/esm2_t36_3B_UR50D-contact-regression.pt
+
+Work dir:
+  /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/3d/3c2dcd1a38150ec12861b38cdc2f7b
+
+Tip: you can replicate the issue by changing to the process work dir and entering the command `bash .command.run`
+
+ -- Check '.nextflow.log' file for details
+ERROR ~ Pipeline failed. Please refer to troubleshooting docs: https://nf-co.re/docs/usage/troubleshooting
+
+ -- Check '.nextflow.log' file for details
+
+
+================================================================================
+                     Resource Usage on 15/01/2025 22:42:00                      
+
+Job Id: 6142729 
+Queue: MWAC
+Walltime: 08:00:08  (requested 48:00:00)
+Job unsucesfull. Exit Status 1 - Exit status refers to the exit value of the
+top process in the job, typically the shell.
+This may be the exit value of the last command executed in the shell.
+See job output error.
+
+--------------------------------------------------------------------------------
+|              |             GPUs              |            Memory             |
+--------------------------------------------------------------------------------
+| Node  GPU ID | Requested   Used   Efficiency | Available   Used              |
+| k100    2    |     1        0.0       0%     |143771 MiB   0.0B              |
+--------------------------------------------------------------------------------
+|Total         |     1        0.0      0.0%    |                               |
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+|              |             CPUs              |            Memory             |
+--------------------------------------------------------------------------------
+| Node         | Requested   Used   Efficiency | Requested   Used   Efficiency |
+| k100         |     8       7.92      99.0%   |  100.0gb   28.03gb    28.0%   |
+--------------------------------------------------------------------------------

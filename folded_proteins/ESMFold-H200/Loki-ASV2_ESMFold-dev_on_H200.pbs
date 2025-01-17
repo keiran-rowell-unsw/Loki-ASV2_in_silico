@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#PBS -l select=1:host=k100:ncpus=8:ngpus=1:mem=120gb
+#PBS -l walltime=24:00:00
+#PBS -q mwacgpu
+#PBS -M k.rowell@unsw.edu.au 
+#PBS -m ae
+#PBS -j oe
+
+module load java/21.0.3_9-openjdk
+module load nextflow/24.04.4
+module load cuda/11.8 
+
+export NXF_SINGULARITY_CACHEDIR=/srv/scratch/sbf/singularity_cache
+export NXF_APPTAINER_CACHEDIR=/srv/scratch/sbf/singularity_cache
+
+cd $PBS_O_WORKDIR
+
+nextflow run nf-core/proteinfold --input /srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/samplesheet.csv  --outdir /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200  --mode esmfold --esmfold_db /mnt/af2/ --esmfold_model_preset monomer -profile singularity 
+
