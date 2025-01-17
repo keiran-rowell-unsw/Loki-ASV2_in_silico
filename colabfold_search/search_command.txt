@@ -1,0 +1,7 @@
+colabfold_search \
+  --use-env 1 \
+  --use-templates 1 \
+  --db-load-mode 2 \
+  --db2 pdb100_230517 \
+  --threads 32 \ 
+../sequence_files/loki-ASV2_dfast_all_protein_ORFs.fasta /mnt/af2/localcolabfold-CPU/ msas 
