@@ -6,7 +6,7 @@ Supporting Information files for *Cultivation of a novel Asgard archaeon from an
 ## Links
 **DOI**: TBD \
 **Zenodo Link**: TBD \
-**ModelArchive entry**: https://github.com/keiran-rowell-unsw/Loki-ASV2_in_silico 
+**ModelArchive entry**: https://modelarchive.org/doi/10.5452/ma-6k8yb 
 
 ## Folder structure
 ```
