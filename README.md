@@ -37,7 +37,7 @@ The follow file types have been excluded from upload due to size considerations:
 
 ## BibTeX entry
 ```
-@article{Lore ipsum,
+@article{Lorem ipsum,
   title={},
   author={},
   journal={},
