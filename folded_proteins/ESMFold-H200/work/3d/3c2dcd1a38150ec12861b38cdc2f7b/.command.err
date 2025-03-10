@@ -1,6 +1,0 @@
-INFO:    Environment variable SINGULARITYENV_TMPDIR is set, but APPTAINERENV_TMPDIR is preferred
-INFO:    Environment variable SINGULARITYENV_NXF_TASK_WORKDIR is set, but APPTAINERENV_NXF_TASK_WORKDIR is preferred
-INFO:    Environment variable SINGULARITYENV_NXF_DEBUG is set, but APPTAINERENV_NXF_DEBUG is preferred
-Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esmfold_3B_v1.pt" to /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/3d/3c2dcd1a38150ec12861b38cdc2f7b/checkpoints/esmfold_3B_v1.pt
-Downloading: "https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt" to /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/3d/3c2dcd1a38150ec12861b38cdc2f7b/checkpoints/esm2_t36_3B_UR50D.pt
-Downloading: "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t36_3B_UR50D-contact-regression.pt" to /srv/scratch/z3374843/Loki-ASV2_in_silico/folded_proteins/ESMFold-H200/work/3d/3c2dcd1a38150ec12861b38cdc2f7b/checkpoints/esm2_t36_3B_UR50D-contact-regression.pt

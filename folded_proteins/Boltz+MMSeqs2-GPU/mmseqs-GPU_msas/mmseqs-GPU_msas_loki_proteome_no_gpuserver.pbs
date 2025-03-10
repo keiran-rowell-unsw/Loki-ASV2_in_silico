@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #PBS -l select=1:host=k100:ncpus=8:ngpus=1:mem=100gb
-#PBS -l walltime=48:00:00
+#PBS -l walltime=12:00:00
 #PBS -q mwacgpu
 #PBS -M k.rowell@unsw.edu.au 
 #PBS -m ae
@@ -12,5 +12,5 @@ source /home/z3374843/.bashrc
 
 cd $PBS_O_WORKDIR
 
-colabfold_search --mmseqs /srv/scratch/sbf/gitrepo/MMseqs2/build/bin/mmseqs --gpu 1 /srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/loki-ASV2_dfast_all_protein_ORFs.fasta  /mnt/af2/mmseqs-GPU/ loki_proteome_msas_GPU_no_server
+colabfold_search --mmseqs /srv/scratch/sbf/gitrepo/MMseqs2/build/bin/mmseqs --gpu 1 /srv/scratch/sbf/Loki-ASV2_in_silico/sequence_files/loki-ASV2_dfast_all_protein_ORFs.fasta  /mnt/af2/mmseqs-GPU/ loki_proteome_msas_GPU_no_server
 
