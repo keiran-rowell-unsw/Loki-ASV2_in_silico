@@ -37,10 +37,10 @@ The follow file types have been excluded from upload due to size considerations:
 
 ## BibTeX entry
 ```
-@article{Lorem ipsum,
-  title={},
-  author={},
-  journal={},
-  year={2025}
+@article{Loki-ASV2,
+  title={An Asgard archaeon from a modern analogue of ancient microbial mats},
+  author={Nobs, Stephanie AND Johnson, Matthew D. AND Williams, Timothy J. AND Meltzer, Julia AND Vazquez-Campos, Xabier AND MacLeod, Fraser I. AND Rowell, Keiran AND Miranda, Pitt AND Paul, Bindusmita AND Shepherd, Doulin C. AND Michie, Katharine A. AND Duggin, Iain G. AND Ghosal, Debnath AND Burns, Brendan P.},
+  journal={Unsubmitted},
+  year={TBD}
 }
 ```
