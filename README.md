@@ -16,7 +16,7 @@ Supporting Information files for *Cultivation of a novel Asgard archaeon from an
 |   - AF2.3: AlphaFold2.3
 |   - AF3: AlphaFold3 including some analysis of the Titin-like protein structure (#1976)
 |   - ESMFold: Structures that fit inside 40GB of VRAM (< 880 residues) 
-|   - ColabFold: Some incomplete trial calculations with ColaFold 
+|   - ColabFold: Some incomplete trial calculations with ColabFold 
 |   - Boltz+MMSeqs2-GPU: Complete proteome structures re-predicted with open-source AF3 reimplementation. Not discussed in manuscript 
 |   - scripting_too_big_for_ESMFold: Scripts to handle protein identities when ESMFold jobs failed etc 
 |
