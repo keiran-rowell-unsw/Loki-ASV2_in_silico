@@ -1,7 +1,7 @@
 # Loki-ASV2_in_silico
 In Silico protein structure data for Loki-ASV2 paper - raw files, data tables, rendered images, processing code
 
-Supporting Information files for *Cultivation of a novel Asgard archaeon from an early Earth analog environment* [working title].
+Supporting Information files for *An Asgard archaeon from a modern analog of ancient microbial mats* [working title].
 
 ## Links
 **DOI**: TBD \
@@ -16,7 +16,6 @@ Supporting Information files for *Cultivation of a novel Asgard archaeon from an
 |   - AF2.3: AlphaFold2.3
 |   - AF3: AlphaFold3 including some analysis of the Titin-like protein structure (#1976)
 |   - ESMFold: Structures that fit inside 40GB of VRAM (< 880 residues) 
-|   - ColabFold: Some incomplete trial calculations with ColabFold 
 |   - Boltz+MMSeqs2-GPU: Complete proteome structures re-predicted with open-source AF3 reimplementation. Not discussed in manuscript 
 |   - scripting_too_big_for_ESMFold: Scripts to handle protein identities when ESMFold jobs failed etc 
 |
@@ -24,7 +23,7 @@ Supporting Information files for *Cultivation of a novel Asgard archaeon from an
 |
 --- protein_mugshots: PyMol render images of plDDT confidence scores of each protein. Includes scripts used 
 |
---- reverse_foldseek: Using foldseek to search for Eukaroytic Signature Proteins in the Loki-ASV2 *In Silico* proteome. Performed by Stephanie J. Nobs
+--- reverse_foldseek: Using foldseek to search for Eukaroytic Signature Proteins in the Loki-ASV2 *In Silico* proteome. Signature proteins compiled by Stephanie J. Nobs with supervisory input from Kate Michie.
 ```
 
 ## Exclusions 
