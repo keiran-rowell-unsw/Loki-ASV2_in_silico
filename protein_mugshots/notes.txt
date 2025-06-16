@@ -1,6 +1,0 @@
-running pymol in this direcoty opens the "this folder" pymol settings file (.pymolrc)
-
-This loads in the takeMugshot feature I've written in python (takeMugshot.py)
-
-The my quick and dirty hack is to dump a list of all the .pdb files and just have "takeMugshot [filename]"
-This is "mugshot_full_proteome.pml" and after pymol boots up with takeMugshot loaded you hit @mugshot_full_proteome.pml from the Pymol command  
