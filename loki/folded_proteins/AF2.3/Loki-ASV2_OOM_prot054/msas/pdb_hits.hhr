@@ -1,0 +1,1881 @@
+Query         LOKIASV2_39930 hypothetical protein
+Match_columns 985
+No_of_seqs    631 out of 9969
+Neff          7.6842
+Searched_HMMs 80799
+Date          Tue Sep 10 04:37:10 2024
+Command       /usr/bin/hhsearch -i /tmp/tmp8v6u1_q5/query.a3m -o /tmp/tmp8v6u1_q5/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5XU1_M ABC transporter ATP-bin  99.8 5.1E-23 6.3E-28  240.3   0.0  393    1-434     1-418 (419)
+  2 5XU1_S ABC transporter ATP-bin  99.8 5.1E-23 6.3E-28  240.3   0.0  393    1-434     1-418 (419)
+  3 5NIK_K Outer membrane protein   99.7 3.7E-22 4.6E-27  246.0   0.0  389    3-437   257-650 (654)
+  4 5NIL_K Outer membrane protein   99.7 3.7E-22 4.6E-27  246.0   0.0  389    3-437   257-650 (654)
+  5 5LIL_A Macrolide export ATP-bi  99.7 4.6E-22 5.6E-27  246.7   0.0  388    1-434   271-663 (664)
+  6 5LIL_B Macrolide export ATP-bi  99.7 5.2E-22 6.5E-27  245.9   0.0  388    1-434   271-663 (664)
+  7 5LJ7_B MacB; Membrane Protein,  99.7 5.2E-22 6.5E-27  245.9   0.0  388    1-434   271-663 (664)
+  8 5GKO_A Macrolide export ATP-bi  99.7 5.4E-22 6.7E-27  246.4   0.0  388    2-434   277-670 (671)
+  9 5NIK_K Outer membrane protein   99.7 1.2E-21 1.5E-26  241.5   0.0  388  526-985   254-649 (654)
+ 10 5NIL_K Outer membrane protein   99.7 1.2E-21 1.5E-26  241.5   0.0  388  526-985   254-649 (654)
+ 11 5GKO_A Macrolide export ATP-bi  99.7 1.4E-21 1.7E-26  242.8   0.0  385  528-983   277-670 (671)
+ 12 5XU1_M ABC transporter ATP-bin  99.7 2.6E-21 3.2E-26  226.1   0.0  388  530-983     4-418 (419)
+ 13 5XU1_S ABC transporter ATP-bin  99.7 2.6E-21 3.2E-26  226.1   0.0  388  530-983     4-418 (419)
+ 14 5LIL_A Macrolide export ATP-bi  99.7 1.1E-20 1.4E-25  234.3   0.0  385  525-983   269-663 (664)
+ 15 5LIL_B Macrolide export ATP-bi  99.7 1.5E-20 1.8E-25  233.1   0.0  385  525-983   269-663 (664)
+ 16 5LJ7_B MacB; Membrane Protein,  99.7 1.5E-20 1.8E-25  233.1   0.0  385  525-983   269-663 (664)
+ 17 5UDF_A Lipoprotein-releasing s  94.0   0.011 1.4E-07   64.2   0.0  142   78-246    40-191 (230)
+ 18 5UDF_C Lipoprotein-releasing s  94.0   0.011 1.4E-07   64.2   0.0  142   78-246    40-191 (230)
+ 19 5NAA_B Lipoprotein-releasing s  93.4   0.019 2.4E-07   62.3   0.0   77  167-246    94-182 (230)
+ 20 6F3Z_A Lipoprotein-releasing s  93.4   0.019 2.4E-07   62.3   0.0   77  167-246    94-182 (230)
+ 21 5F9Q_A Macrolide export ATP-bi  92.2   0.047 5.8E-07   58.1   0.0  174  580-827    10-185 (199)
+ 22 5NAA_B Lipoprotein-releasing s  91.6   0.066 8.2E-07   58.2   0.0  172  572-811     8-182 (230)
+ 23 6F3Z_A Lipoprotein-releasing s  91.6   0.066 8.2E-07   58.2   0.0  172  572-811     8-182 (230)
+ 24 3FTJ_A Macrolide export ATP-bi  90.5    0.11 1.4E-06   56.0   0.0  163  596-827    33-197 (226)
+ 25 5UDF_A Lipoprotein-releasing s  90.5    0.11 1.4E-06   56.6   0.0  181  580-827    23-205 (230)
+ 26 5UDF_C Lipoprotein-releasing s  90.5    0.11 1.4E-06   56.6   0.0  181  580-827    23-205 (230)
+ 27 5F9Q_A Macrolide export ATP-bi  87.9    0.26 3.2E-06   52.4   0.0  139   82-248    32-173 (199)
+ 28 5LJ8_A Macrolide export ATP-bi  84.7    0.54 6.7E-06   50.6   0.0  148  596-811    22-172 (209)
+ 29 5LJ8_B Macrolide export ATP-bi  82.6    0.78 9.7E-06   49.3   0.0  148  596-811    22-172 (209)
+ 30 3FTJ_A Macrolide export ATP-bi  81.7    0.89 1.1E-05   49.0   0.0  148   75-246    35-183 (226)
+ 31 5LJ8_A Macrolide export ATP-bi  77.6     1.5 1.9E-05   47.2   0.0  148   76-247    25-173 (209)
+ 32 5LJ8_B Macrolide export ATP-bi  75.7     1.9 2.4E-05   46.4   0.0  148   75-246    24-172 (209)
+ 33 5X5Y_F Probable ATP-binding co  31.0      42 0.00052   40.2   0.0   43  315-357    69-111 (362)
+ 34 6S8N_F Lipopolysaccharide ABC   30.6      43 0.00053   40.3   0.0   42  316-357    70-111 (366)
+ 35 6MJP_F ABC transporter ATP-bin  30.1      44 0.00055   40.2   0.0   41  316-356    70-110 (366)
+ 36 6S8N_G Lipopolysaccharide ABC   29.9      45 0.00056   39.9   0.0   42  315-356    73-114 (360)
+ 37 5ITJ_A AbrB family transcripti  28.4      50 0.00062   27.4   0.0   26  168-193    13-38  (54)
+ 38 1YSF_A Transition state regula  28.2      50 0.00062   28.4   0.0   27  167-193    21-47  (59)
+ 39 6MIT_J Lipopolysaccharide expo  28.0      51 0.00063   39.4   0.0   42  315-356    73-114 (360)
+ 40 6MIT_F Lipopolysaccharide expo  28.0      51 0.00063   39.7   0.0   42  316-357    70-111 (366)
+ 41 5ITM_D AbrB family transcripti  26.9      55 0.00068   26.2   0.0   25  168-192    13-37  (48)
+ 42 6MJP_G ABC transporter ATP-bin  26.6      56 0.00069   39.1   0.0   41  316-356    72-112 (356)
+ 43 6MIT_I Lipopolysaccharide expo  25.4      61 0.00075   39.0   0.0   42  316-357    70-111 (366)
+ 44 3IS6_A putative permease prote  24.6      64  0.0008   36.1   0.0   75  670-761    77-151 (244)
+ 45 3IS6_B putative permease prote  24.6      64  0.0008   36.1   0.0   75  670-761    77-151 (244)
+ 46 5X5Y_G Probable ATP-binding co  24.3      66 0.00081   38.4   0.0   42  315-356    69-110 (355)
+ 47 6MIT_G Lipopolysaccharide expo  24.0      67 0.00083   38.4   0.0   41  316-356    74-114 (360)
+
+No 1
+>5XU1_M ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.77  E-value=5.1e-23  Score=240.26  Aligned_cols=393  Identities=15%  Similarity=0.173  Sum_probs=242.5  Template_Neff=11.300
+
+Q LOKIASV2_39930    1 MNLLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDL-----------   69 (985)
+Q Consensus         1 m~~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~-----------   69 (985)
+                      |+.+++++|+++|+|+|++++++++++++++++++..+..+......+......+..++.+........           
+T Consensus         1 ~~~~~la~r~i~~~~~r~~l~il~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~   80 (419)
+T 5XU1_M            1 MQNLKFAFSSIMAHKMRSLLTMIGIIIGVSSVVVIMALGDSLSRQVNKDMTKSQKNISVFFSPKKSKDGSFTQKQSAFTV   80 (419)
+T ss_dssp             CCHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGEEEEEECSCC---------------
+T ss_pred             CchhHHHHHHHHhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCCeEEEecCCccCCCCcccccccccc
+Confidence            789999999999999999999999999999998888887777665544333221222222211110000           
+
+
+Q LOKIASV2_39930   70 ----N---FNA-YFDENIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWIC  141 (985)
+Q Consensus        70 ----~---~~~-~f~~~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~  141 (985)
+                          .   ... ...++.. +++++.++|+.+.+...........  .+    ....+.+.++++++   ++.+. .++.
+T Consensus        81 ~~~~~~~~~~~~~~~~~~~-~~~~~~~~v~~~~~~~~~~~~~~~~--~~----~~~~~~~~~~~~~~---~~~~~-~~~~  149 (419)
+T 5XU1_M           81 SGKEEEVPVEPPKPQESWV-QEAAKLKGVDSYYVTNSTNAILTYQ--DK----KVENANLTGGNRTY---MDAVK-NEII  149 (419)
+T ss_dssp             ----------CCCCCHHHH-HHHTTSTTCCEEEEEEEEEECCEET--TE----ECSCEEEEEECSHH---HHHTT-CEEE
+T ss_pred             CCcccCCCCCCCCCChHHH-HHHHcCCCceeeccccccceEEEeC--Cc----eeeeeEEecCCcch---HHhhc-Cccc
+Confidence                0   000 0122233 4566777777665544322211111  01    12234555666665   55555 5566
+
+
+Q LOKIASV2_39930  142 DDQTRNPQGELTYERTDALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SR-YE-SSL  218 (985)
+Q Consensus       142 ~~~~~~~~g~~~~~~~~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~-~~-~~~  218 (985)
+                      +       |++ +..+    +...+++++++++++++.++.+.||.++.++..++.+++|+|+++++... +. .. ...
+T Consensus       150 ~-------G~~-~~~~----~~~~~~~~iii~~~~a~~~~~~~g~~ig~~~~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~  217 (419)
+T 5XU1_M          150 A-------GRS-LREQ----DFKEFASVILLDEELSISLFESPQEAINKVVEVNGFSYRVIGVYTSPEAKRSKIYGFGGL  217 (419)
+T ss_dssp             E-------ECC-CCHH----HHHTTCCEEEEEHHHHHHHHSSHHHHTTCEEESSSCEEEEEEEEECHHHHHTTTTTCSCC
+T ss_pred             c-------CCC-CCHH----HHhhcCcEEEEcHHHHHHhcCCcccccceEEEECCEEEEEEEEeCCcchhhhhccccCCc
+Confidence            6       766 5432    22223567999999999999888898888887778999999999875432 11 00 011
+
+
+Q LOKIASV2_39930  219 ILVELPWMQDFLDEPNQINNIYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG---FTYEVSIPKLTQLQSSQNQTD  295 (985)
+Q Consensus       219 i~~~l~~~q~~l~~~~~~~~i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg---~~~~v~~~~~~~l~~~~~~~~  295 (985)
+                      .+..........+ ....+.+.++++++.+.   +   +.   .+++.+.+++..+   ..+.+.+.. +..+.......
+T Consensus       218 ~~~~~~~~~~~~~-~~~~~~~~i~~~~~~~~---~---~~---~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~  286 (419)
+T 5XU1_M          218 PITTNISLAANFN-IDEIASIVFRVNDTSLT---P---TL---GPELARKMTELAGLQQGEYQVADES-VVFAEIQQSFS  286 (419)
+T ss_dssp             CEEEHHHHHHHSS-CCSCSEEEEECSSGGGH---H---HH---HHHHHHHHHHHHCCCSSCEEECCSH-HHHHHHHHHHH
+T ss_pred             ceeechhhHhcCC-ccceeEEEEEecCCCCC---c---cc---hHHHHHHHHHHhccCCCcEEEecHH-HHHHHHHHHHH
+Confidence            1111111111111 12334566666554322   1   11   2233333332211   122222222 22222222333
+
+
+Q LOKIASV2_39930  296 FLNMTFYFIIFFSVLITGILINSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFL  375 (985)
+Q Consensus       296 ~~~~~~~~~~~~~llv~~~lI~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~  375 (985)
+                      ....++.++.+++++++++++++++...+.+|+||+|+||++|++++++.++++.|+++++++|+++|+++|+++...+.
+T Consensus       287 ~~~~~~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~~~e~~~i~~~~~~~g~~~~~~~~~~~~  366 (419)
+T 5XU1_M          287 FMTTIISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQFLIESMILTLLGGLIGLTIASGLTALAG  366 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            44455666777788899999999999999999999999999999999999999999999999999999999988765543
+
+
+Q LOKIASV2_39930  376 DWLLSNIYTIQWNFAQIDFIILPWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDP  434 (985)
+Q Consensus       376 ~~~~~~~~~~~~~~~~~~~~~~p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~  434 (985)
+                      ..+ ...      .....+.++++.++..+++.++++++++++|++++.|.+|.++||.
+T Consensus       367 ~~~-~~~------~~~~~~~~~~~~~~~~~~~~~~i~~l~~~~~~~~~~~~~~~~~lr~  418 (419)
+T 5XU1_M          367 LLL-QGL------IEGIEVGVSIPVALFSLAVSASVGMIFGVLPANKASKLDPIEALRY  418 (419)
+T ss_dssp             TTT-TTT------CCSCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCHHHHCCH
+T ss_pred             HHH-HHH------hcCCccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHhc
+Confidence            222 100      0112233445555666777888889999999999999999999974
+
+
+No 2
+>5XU1_S ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.77  E-value=5.1e-23  Score=240.26  Aligned_cols=393  Identities=15%  Similarity=0.173  Sum_probs=242.5  Template_Neff=11.300
+
+Q LOKIASV2_39930    1 MNLLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDL-----------   69 (985)
+Q Consensus         1 m~~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~-----------   69 (985)
+                      |+.+++++|+++|+|+|++++++++++++++++++..+..+......+......+..++.+........           
+T Consensus         1 ~~~~~la~r~i~~~~~r~~l~il~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~   80 (419)
+T 5XU1_S            1 MQNLKFAFSSIMAHKMRSLLTMIGIIIGVSSVVVIMALGDSLSRQVNKDMTKSQKNISVFFSPKKSKDGSFTQKQSAFTV   80 (419)
+T ss_dssp             CCHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGEEEEEECSCC---------------
+T ss_pred             CchhHHHHHHHHhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCCeEEEecCCccCCCCcccccccccc
+Confidence            789999999999999999999999999999998888887777665544333221222222211110000           
+
+
+Q LOKIASV2_39930   70 ----N---FNA-YFDENIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWIC  141 (985)
+Q Consensus        70 ----~---~~~-~f~~~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~  141 (985)
+                          .   ... ...++.. +++++.++|+.+.+...........  .+    ....+.+.++++++   ++.+. .++.
+T Consensus        81 ~~~~~~~~~~~~~~~~~~~-~~~~~~~~v~~~~~~~~~~~~~~~~--~~----~~~~~~~~~~~~~~---~~~~~-~~~~  149 (419)
+T 5XU1_S           81 SGKEEEVPVEPPKPQESWV-QEAAKLKGVDSYYVTNSTNAILTYQ--DK----KVENANLTGGNRTY---MDAVK-NEII  149 (419)
+T ss_dssp             ----------CCCCCHHHH-HHHTTSTTCCEEEEEEEEEECCEET--TE----ECSCEEEEEECSHH---HHHTT-CEEE
+T ss_pred             CCcccCCCCCCCCCChHHH-HHHHcCCCceeeccccccceEEEeC--Cc----eeeeeEEecCCcch---HHhhc-Cccc
+Confidence                0   000 0122233 4566777777665544322211111  01    12234555666665   55555 5566
+
+
+Q LOKIASV2_39930  142 DDQTRNPQGELTYERTDALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SR-YE-SSL  218 (985)
+Q Consensus       142 ~~~~~~~~g~~~~~~~~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~-~~-~~~  218 (985)
+                      +       |++ +..+    +...+++++++++++++.++.+.||.++.++..++.+++|+|+++++... +. .. ...
+T Consensus       150 ~-------G~~-~~~~----~~~~~~~~iii~~~~a~~~~~~~g~~ig~~~~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~  217 (419)
+T 5XU1_S          150 A-------GRS-LREQ----DFKEFASVILLDEELSISLFESPQEAINKVVEVNGFSYRVIGVYTSPEAKRSKIYGFGGL  217 (419)
+T ss_dssp             E-------ECC-CCHH----HHHTTCCEEEEEHHHHHHHHSSHHHHTTCEEESSSCEEEEEEEEECHHHHHTTTTTCSCC
+T ss_pred             c-------CCC-CCHH----HHhhcCcEEEEcHHHHHHhcCCcccccceEEEECCEEEEEEEEeCCcchhhhhccccCCc
+Confidence            6       766 5432    22223567999999999999888898888887778999999999875432 11 00 011
+
+
+Q LOKIASV2_39930  219 ILVELPWMQDFLDEPNQINNIYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG---FTYEVSIPKLTQLQSSQNQTD  295 (985)
+Q Consensus       219 i~~~l~~~q~~l~~~~~~~~i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg---~~~~v~~~~~~~l~~~~~~~~  295 (985)
+                      .+..........+ ....+.+.++++++.+.   +   +.   .+++.+.+++..+   ..+.+.+.. +..+.......
+T Consensus       218 ~~~~~~~~~~~~~-~~~~~~~~i~~~~~~~~---~---~~---~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~  286 (419)
+T 5XU1_S          218 PITTNISLAANFN-IDEIASIVFRVNDTSLT---P---TL---GPELARKMTELAGLQQGEYQVADES-VVFAEIQQSFS  286 (419)
+T ss_dssp             CEEEHHHHHHHSS-CCSCSEEEEECSSGGGH---H---HH---HHHHHHHHHHHHCCCSSCEEECCSH-HHHHHHHHHHH
+T ss_pred             ceeechhhHhcCC-ccceeEEEEEecCCCCC---c---cc---hHHHHHHHHHHhccCCCcEEEecHH-HHHHHHHHHHH
+Confidence            1111111111111 12334566666554322   1   11   2233333332211   122222222 22222222333
+
+
+Q LOKIASV2_39930  296 FLNMTFYFIIFFSVLITGILINSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFL  375 (985)
+Q Consensus       296 ~~~~~~~~~~~~~llv~~~lI~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~  375 (985)
+                      ....++.++.+++++++++++++++...+.+|+||+|+||++|++++++.++++.|+++++++|+++|+++|+++...+.
+T Consensus       287 ~~~~~~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~~~e~~~i~~~~~~~g~~~~~~~~~~~~  366 (419)
+T 5XU1_S          287 FMTTIISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQFLIESMILTLLGGLIGLTIASGLTALAG  366 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            44455666777788899999999999999999999999999999999999999999999999999999999988765543
+
+
+Q LOKIASV2_39930  376 DWLLSNIYTIQWNFAQIDFIILPWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDP  434 (985)
+Q Consensus       376 ~~~~~~~~~~~~~~~~~~~~~~p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~  434 (985)
+                      ..+ ...      .....+.++++.++..+++.++++++++++|++++.|.+|.++||.
+T Consensus       367 ~~~-~~~------~~~~~~~~~~~~~~~~~~~~~~i~~l~~~~~~~~~~~~~~~~~lr~  418 (419)
+T 5XU1_S          367 LLL-QGL------IEGIEVGVSIPVALFSLAVSASVGMIFGVLPANKASKLDPIEALRY  418 (419)
+T ss_dssp             TTT-TTT------CCSCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCHHHHCCH
+T ss_pred             HHH-HHH------hcCCccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHhc
+Confidence            222 100      0112233445555666777888889999999999999999999974
+
+
+No 3
+>5NIK_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 3.3A {Escherichia coli (strain K12)}
+Probab=99.74  E-value=3.7e-22  Score=246.04  Aligned_cols=389  Identities=14%  Similarity=0.177  Sum_probs=252.9  Template_Neff=11.700
+
+Q LOKIASV2_39930    3 LLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDLN---FNAYFDENI   79 (985)
+Q Consensus         3 ~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~~---~~~~f~~~~   79 (985)
+                      .+++++|+++|+|+|++++++++++++++++++..+..+..+...+..... +..++.+.........   .....+++.
+T Consensus       257 ~~~la~r~l~~~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~  335 (654)
+T 5NIK_K          257 ALTMAWRALAANKMRTLLTMLGIIIGIASVVSIVVVGDAAKQMVLADIRSI-GTNTIDVYPGKDFGDDDPQYQQALKYDD  335 (654)
+T ss_dssp             HHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTS-CCCCCCCCCSSSTTCCHHHHSCCCCTTH
+T ss_pred             HHHHHHHHHHhhhhHHHHHHHHHHHHHHHHHHHHHhhHHHHHHHHHHHHHh-cCCeEEEEcCeecCCCCCcceeeecHHH
+Confidence            578999999999999999999999999999999988888776655544333 3344443322111100   111223334
+
+
+Q LOKIASV2_39930   80 IETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERTDA  159 (985)
+Q Consensus        80 i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~~~  159 (985)
+                      . +++.+.|+|+.+.+...........   +    ........+++.++   ++.++ .++.+       |+. +...  
+T Consensus       336 ~-~~l~~~~~v~~~~~~~~~~~~~~~~---~----~~~~~~~~~~~~~~---~~~~~-~~~~~-------g~~-~~~~--  393 (654)
+T 5NIK_K          336 L-IAIQKQPWVASATPAVSQNLRLRYN---N----VDVAASANGVSGDY---FNVYG-MTFSE-------GNT-FNQE--  393 (654)
+T ss_dssp             H-HHHHTSTTCSEEEEEEEEEEEEEET---T----EEEEEEEEEECTTH---HHHTT-CCEEE-------SCC-CCHH--
+T ss_pred             H-HHHhcCCcceecccccccchhheeC---C----cceeEEEEeeCCCh---hhhcc-ceecc-------ccc-cCHH--
+Confidence            4 5666778887766554332222111   1    11223344556555   44444 45555       665 4432  
+
+
+Q LOKIASV2_39930  160 LYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEPNQINN  238 (985)
+Q Consensus       160 ~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~~~~~~  238 (985)
+                        +...+++.+++++.+++.++.+.||.++..+..++.+++|+|++++.... .......++.+.+.+..........+.
+T Consensus       394 --~~~~~~~~ivi~~~~a~~~~~~~g~~i~~~~~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  471 (654)
+T 5NIK_K          394 --QLNGRAQVVVLDSNTRRQLFPHKADVVGEVILVGNMPARVIGVAEEKQSMFGSSKVLRVWLPYSTMSGRVMGQSWLNS  471 (654)
+T ss_dssp             --HHHHTCCCCEECHHHHHHHCTTCCCCTTCBCEETTBCCBCCCEECCCCSCCSCTTSCCEEEEHHHHCCCCCCCSCCSE
+T ss_pred             --HHcCCCeEEEecchHHHHhcCCcccccCeEEEeCCeeeEEEEEeeechhhcCCCCcceeeccceeeceeecCcccceE
+Confidence              22223456899999999999988999988888777899999999875432 111122345555444332221223455
+
+
+Q LOKIASV2_39930  239 IYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG-FTYEVSIPKLTQLQSSQNQTDFLNMTFYFIIFFSVLITGILIN  317 (985)
+Q Consensus       239 i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg-~~~~v~~~~~~~l~~~~~~~~~~~~~~~~~~~~~llv~~~lI~  317 (985)
+                      +.++++++.+.   +   +.   .+++++..+.... ..+.+.+.. +..+........+..++.++.++++++++++++
+T Consensus       472 ~~i~~~~~~~~---~---~~---~~~l~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~li~~~~i~  541 (654)
+T 5NIK_K          472 ITVRVKEGFDS---A---EA---EQQLTRLLSLRHGKKDFFTWNMD-GVLKTVEKTTRTLQLFLTLVAVISLVVGGIGVM  541 (654)
+T ss_dssp             EEEECCTTCCS---T---TT---HHHHHHHHHHHSSSCCCCCCCCS-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             EEEEECCCCCH---H---HH---HHHHHHHHHhhcCCCCeEEEehH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            66766654322   2   22   2333333322111 122222222 222323333444555666777788889999999
+
+
+Q LOKIASV2_39930  318 SILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFLDWLLSNIYTIQWNFAQIDFIIL  397 (985)
+Q Consensus       318 n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~  397 (985)
+                      +++...+.+|+||+|+||++|+++++++++++.|.++++++|+++|+++|+++...+...+           ....+.++
+T Consensus       542 ~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~~~~~~~~~~~~~~~-----------~~~~~~~~  610 (654)
+T 5NIK_K          542 NIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGALGITLSLLIAFTLQLFL-----------PGWEIGFS  610 (654)
+T ss_dssp             HHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHSC-----------SSCCCCCC
+T ss_pred             HHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc-----------cccccCCC
+Confidence            9999999999999999999999999999999999999999999999999988776553322           12234456
+
+
+Q LOKIASV2_39930  398 PWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDPSRS  437 (985)
+Q Consensus       398 p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~~~~  437 (985)
+                      |+.++.+++++++++++++++|++++.|.+|.+++|...+
+T Consensus       611 ~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~p~~~~~~~~~  650 (654)
+T 5NIK_K          611 PLALLLAFLCSTVTGILFGWLPARNAARLDPVDALAREHH  650 (654)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHCC--
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhcCCHHHHHhhhcc
+Confidence            6677777888888999999999999999999999987653
+
+
+No 4
+>5NIL_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 5.3A {Escherichia coli (strain K12)}
+Probab=99.74  E-value=3.7e-22  Score=246.04  Aligned_cols=389  Identities=14%  Similarity=0.177  Sum_probs=252.9  Template_Neff=11.700
+
+Q LOKIASV2_39930    3 LLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDLN---FNAYFDENI   79 (985)
+Q Consensus         3 ~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~~---~~~~f~~~~   79 (985)
+                      .+++++|+++|+|+|++++++++++++++++++..+..+..+...+..... +..++.+.........   .....+++.
+T Consensus       257 ~~~la~r~l~~~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~  335 (654)
+T 5NIL_K          257 ALTMAWRALAANKMRTLLTMLGIIIGIASVVSIVVVGDAAKQMVLADIRSI-GTNTIDVYPGKDFGDDDPQYQQALKYDD  335 (654)
+T ss_dssp             HHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTS-CCCCCCCCCSSSTTCCHHHHSCCCCTTH
+T ss_pred             HHHHHHHHHHhhhhHHHHHHHHHHHHHHHHHHHHHhhHHHHHHHHHHHHHh-cCCeEEEEcCeecCCCCCcceeeecHHH
+Confidence            578999999999999999999999999999999988888776655544333 3344443322111100   111223334
+
+
+Q LOKIASV2_39930   80 IETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERTDA  159 (985)
+Q Consensus        80 i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~~~  159 (985)
+                      . +++.+.|+|+.+.+...........   +    ........+++.++   ++.++ .++.+       |+. +...  
+T Consensus       336 ~-~~l~~~~~v~~~~~~~~~~~~~~~~---~----~~~~~~~~~~~~~~---~~~~~-~~~~~-------g~~-~~~~--  393 (654)
+T 5NIL_K          336 L-IAIQKQPWVASATPAVSQNLRLRYN---N----VDVAASANGVSGDY---FNVYG-MTFSE-------GNT-FNQE--  393 (654)
+T ss_dssp             H-HHHHTSTTCSEEEEEEEEEEEEEET---T----EEEEEEEEEECTTH---HHHTT-CCEEE-------SCC-CCHH--
+T ss_pred             H-HHHhcCCcceecccccccchhheeC---C----cceeEEEEeeCCCh---hhhcc-ceecc-------ccc-cCHH--
+Confidence            4 5666778887766554332222111   1    11223344556555   44444 45555       665 4432  
+
+
+Q LOKIASV2_39930  160 LYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEPNQINN  238 (985)
+Q Consensus       160 ~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~~~~~~  238 (985)
+                        +...+++.+++++.+++.++.+.||.++..+..++.+++|+|++++.... .......++.+.+.+..........+.
+T Consensus       394 --~~~~~~~~ivi~~~~a~~~~~~~g~~i~~~~~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  471 (654)
+T 5NIL_K          394 --QLNGRAQVVVLDSNTRRQLFPHKADVVGEVILVGNMPARVIGVAEEKQSMFGSSKVLRVWLPYSTMSGRVMGQSWLNS  471 (654)
+T ss_dssp             --HHHHTCCCCEECHHHHHHHCTTCCCCTTCBCEETTBCCBCCCEECCCCSCCSCTTSCCEEEEHHHHCCCCCCCSCCSE
+T ss_pred             --HHcCCCeEEEecchHHHHhcCCcccccCeEEEeCCeeeEEEEEeeechhhcCCCCcceeeccceeeceeecCcccceE
+Confidence              22223456899999999999988999988888777899999999875432 111122345555444332221223455
+
+
+Q LOKIASV2_39930  239 IYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG-FTYEVSIPKLTQLQSSQNQTDFLNMTFYFIIFFSVLITGILIN  317 (985)
+Q Consensus       239 i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg-~~~~v~~~~~~~l~~~~~~~~~~~~~~~~~~~~~llv~~~lI~  317 (985)
+                      +.++++++.+.   +   +.   .+++++..+.... ..+.+.+.. +..+........+..++.++.++++++++++++
+T Consensus       472 ~~i~~~~~~~~---~---~~---~~~l~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~li~~~~i~  541 (654)
+T 5NIL_K          472 ITVRVKEGFDS---A---EA---EQQLTRLLSLRHGKKDFFTWNMD-GVLKTVEKTTRTLQLFLTLVAVISLVVGGIGVM  541 (654)
+T ss_dssp             EEEECCTTCCS---T---TT---HHHHHHHHHHHSSSCCCCCCCCS-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             EEEEECCCCCH---H---HH---HHHHHHHHHhhcCCCCeEEEehH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            66766654322   2   22   2333333322111 122222222 222323333444555666777788889999999
+
+
+Q LOKIASV2_39930  318 SILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFLDWLLSNIYTIQWNFAQIDFIIL  397 (985)
+Q Consensus       318 n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~  397 (985)
+                      +++...+.+|+||+|+||++|+++++++++++.|.++++++|+++|+++|+++...+...+           ....+.++
+T Consensus       542 ~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~~~~~~~~~~~~~~~-----------~~~~~~~~  610 (654)
+T 5NIL_K          542 NIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGALGITLSLLIAFTLQLFL-----------PGWEIGFS  610 (654)
+T ss_dssp             HHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHSC-----------SSCCCCCC
+T ss_pred             HHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc-----------cccccCCC
+Confidence            9999999999999999999999999999999999999999999999999988776553322           12234456
+
+
+Q LOKIASV2_39930  398 PWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDPSRS  437 (985)
+Q Consensus       398 p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~~~~  437 (985)
+                      |+.++.+++++++++++++++|++++.|.+|.+++|...+
+T Consensus       611 ~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~p~~~~~~~~~  650 (654)
+T 5NIL_K          611 PLALLLAFLCSTVTGILFGWLPARNAARLDPVDALAREHH  650 (654)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHCC--
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhcCCHHHHHhhhcc
+Confidence            6677777888888999999999999999999999987653
+
+
+No 5
+>5LIL_A Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.74  E-value=4.6e-22  Score=246.68  Aligned_cols=388  Identities=15%  Similarity=0.193  Sum_probs=240.0  Template_Neff=11.300
+
+Q LOKIASV2_39930    1 MNLLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDLN---FNAYFDE   77 (985)
+Q Consensus         1 m~~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~~---~~~~f~~   77 (985)
+                      |..+++++|+++|+|+|++++++++++++++++++..+..+......+..... +..++.+.........   .....+.
+T Consensus       271 ~~~~~la~~~l~r~~~r~~l~~l~i~l~~~l~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~  349 (664)
+T 5LIL_A          271 MEAFRMSVSAIVAHKMRSLLTMLGIIIGITSVVSVVALGNGSQQKILENIRGI-GTNTMTIFNGNGFGDRRSRHIQNLKI  349 (664)
+T ss_pred             HHHHHHHHHHHHHhHHHHHHHHHHHHHHHHHHHHHHHhchHhHHHHHHHHccc-CCCeEEEeCCCCCCCCccccccCCCH
+Confidence            35689999999999999999999999999999998888887766655444332 3334333322111000   0111223
+
+
+Q LOKIASV2_39930   78 NIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERT  157 (985)
+Q Consensus        78 ~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~  157 (985)
+                      +.. +++++.++|+.+.+...........  .+    ......+.+++.++   ++... ..+.+       |++ +...
+T Consensus       350 ~~~-~~l~~~~~v~~~~~~~~~~~~~~~~--~~----~~~~~~~~~~~~~~---~~~~~-~~~~~-------G~~-~~~~  410 (664)
+T 5LIL_A          350 SDA-NTLSKQSYIQSVTPNTSSSGILVVG--NK----SFTSANLYGIGEQY---FDVEG-LKLKQ-------GRL-LTED  410 (664)
+T ss_pred             HHH-HHHhcCCCeeeeccceecCceEEcC--CC----ccceEEEEecCCCc---hhccC-Ccccc-------CCC-CCcc
+Confidence            334 5666777777766544322221111  00    11223444555554   44344 44555       665 4432
+
+
+Q LOKIASV2_39930  158 DALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEPNQI  236 (985)
+Q Consensus       158 ~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~~~~  236 (985)
+                          +...+++.+++++..++.. ...|+.+|+.+..++.+++|+|++++.... ........+.+..............
+T Consensus       411 ----~~~~~~~~ii~~~~~~~~~-~~~~~~iGd~i~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  485 (664)
+T 5LIL_A          411 ----DVDQSNQVVVLDESAKKAI-FANENPLGKTVIFNKRPFRVIGVVSDQQLGGFPGNSLNLYSPYSTVLNKITGGSRI  485 (664)
+T ss_pred             ----ccccCCCEEEEeHHHHHHH-hCCCCCCCCeEEECCeeEEEEEEEECCCCCCCCCCCCeeEEehHHHHHHhcCCCce
+Confidence                2222344577787777653 223455666666667899999999865432 1111223444444443322212234
+
+
+Q LOKIASV2_39930  237 NNIYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG-FTYEVSIPKLTQLQSSQNQTDFLNMTFYFIIFFSVLITGIL  315 (985)
+Q Consensus       237 ~~i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg-~~~~v~~~~~~~l~~~~~~~~~~~~~~~~~~~~~llv~~~l  315 (985)
+                      +.+.+.++++.+.   +   +.   .+++++.++.... ..+.+.+.. +..+...........++.++.++++++++++
+T Consensus       486 ~~~~i~~~~~~~~---~---~~---~~~i~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~  555 (664)
+T 5LIL_A          486 GSITVKISDDVNS---T---VA---EKSLTELLKSLHGKKDFFIMNSD-TIKQTIENTTGTMKLLISSIAFISLIVGGIG  555 (664)
+T ss_pred             eEEEEEeCCCccH---H---HH---HHHHHHHHHHHCCCCCcEeeeHH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            5566666554322   1   22   2333333221110 122222222 2222223333445556667777888899999
+
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFLDWLLSNIYTIQWNFAQIDFI  395 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~~~~~~~~~~~~~~~~~~~~~  395 (985)
+                      +++++...+.+|+||+|+||++|+++++++++++.|.++++++|+++|+++|+++...+...+           ....+.
+T Consensus       556 i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~i~~ig~~lg~~l~~~~~~~~~~~~-----------~~~~~~  624 (664)
+T 5LIL_A          556 VMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGILLSVLIGVLFNSFI-----------TDFSMD  624 (664)
+T ss_pred             HHHHHHHHHHHhHHHHHHHHHcCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHc-----------CCCCcc
+Confidence            999999999999999999999999999999999999999999999999999988766554332           122344
+
+
+Q LOKIASV2_39930  396 ILPWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDP  434 (985)
+Q Consensus       396 ~~p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~  434 (985)
+                      ++|+.++.+++++++++++++++|++++.|.+|.++||.
+T Consensus       625 ~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LIL_A          625 FSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_pred             ccHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCHHHHhhc
+Confidence            566667778888888999999999999999999999974
+
+
+No 6
+>5LIL_B Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.73  E-value=5.2e-22  Score=245.93  Aligned_cols=388  Identities=15%  Similarity=0.193  Sum_probs=234.2  Template_Neff=11.400
+
+Q LOKIASV2_39930    1 MNLLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDLN---FNAYFDE   77 (985)
+Q Consensus         1 m~~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~~---~~~~f~~   77 (985)
+                      |..+++++|+++|+|+|++++++++++++++++++..+..+......+..... +..++.+.........   .....+.
+T Consensus       271 ~~~~~la~~~l~r~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~  349 (664)
+T 5LIL_B          271 MEAFRMSVSAIVAHKMRSLLTMLGIIIGITSVVSVVALGNGSQQKILENIRGI-GTNTMTIFNGNGFGDRRSRHIQNLKI  349 (664)
+T ss_dssp             HHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTT-CCCEEEC---------------CCCH
+T ss_pred             HHHHHHHHHHHHHhhHHHHHHHHHHHHHHHHHHHHHHcChHHHHHHHHHHhhc-CCCeEEEECCCCCCCccccceecccH
+Confidence            35689999999999999999999999999999999888888766655544332 3334333322111000   0111223
+
+
+Q LOKIASV2_39930   78 NIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERT  157 (985)
+Q Consensus        78 ~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~  157 (985)
+                      +.. +.+++.++|+.+.+...........  ..    ......+.+.+.++   ++..+ ..+.+       |++ +...
+T Consensus       350 ~~~-~~l~~~~~v~~~~~~~~~~~~~~~~--~~----~~~~~~~~~~~~~~---~~~~~-~~~~~-------G~~-~~~~  410 (664)
+T 5LIL_B          350 SDA-NTLSKQSYIQSVTPNTSSSGILVVG--NK----SFTSANLYGIGEQY---FDVEG-LKLKQ-------GRL-LTED  410 (664)
+T ss_dssp             HHH-HHHTTCSSEEEEEEEBCCEECCCSS--SC----CCCSEEEEEECTTH---HHHSC-CCEEE-------ECC-CCHH
+T ss_pred             hhH-HHHhcCCcccccccccccceEEEEC--Cc----eeeeEEEEEecCcc---ccccC-Ceecc-------Ccc-CCHH
+Confidence            334 5666677777766544322221111  00    11223444555554   44344 44555       665 4432
+
+
+Q LOKIASV2_39930  158 DALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEPNQI  236 (985)
+Q Consensus       158 ~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~~~~  236 (985)
+                          +...+++.+++++..++.. ...|+.+|+++..++.+++|+|++++.... ........+.+..............
+T Consensus       411 ----~~~~~~~~ii~~~~~~~~~-~~~~~~ig~~i~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  485 (664)
+T 5LIL_B          411 ----DVDQSNQVVVLDESAKKAI-FANENPLGKTVIFNKRPFRVIGVVSDQQLGGFPGNSLNLYSPYSTVLNKITGGSRI  485 (664)
+T ss_dssp             ----HHHTTCCEEEEEHHHHHHH-TTTSCCSSCEEESSSCEEEEEEEECCC---------CEEEEEHHHHHHHTSCCSCC
+T ss_pred             ----HHhccCcEEEecHHHHHHH-hCCCCCCCceeEeCCeeEEEEEEEecCCCCCCCCCCcceeeeHHHhcccccCCCce
+Confidence                2222344577787777653 223455666666667899999999865432 1111223444544443322212234
+
+
+Q LOKIASV2_39930  237 NNIYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG-FTYEVSIPKLTQLQSSQNQTDFLNMTFYFIIFFSVLITGIL  315 (985)
+Q Consensus       237 ~~i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg-~~~~v~~~~~~~l~~~~~~~~~~~~~~~~~~~~~llv~~~l  315 (985)
+                      +.+.+.++++.+.   +   +.   .+++++.++.... ..+.+.+.. +..+...........++.++.++++++++++
+T Consensus       486 ~~~~i~~~~~~~~---~---~~---~~~i~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~l~~~i~~~~  555 (664)
+T 5LIL_B          486 GSITVKISDDVNS---T---VA---EKSLTELLKSLHGKKDFFIMNSD-TIKQTIENTTGTMKLLISSIAFISLIVGGIG  555 (664)
+T ss_dssp             SEEEEEECSSSCH---H---HH---HHHHHHHHHC---------CCBC-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             eeEEEEecCCCCh---H---HH---HHHHHHHHHHHhcCCceEEechH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            5566666554322   1   22   2333332221110 122222222 2222222333444556666777788899999
+
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFLDWLLSNIYTIQWNFAQIDFI  395 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~~~~~~~~~~~~~~~~~~~~~  395 (985)
+                      +++++...+.+|+||+|+||++|+++++++++++.|.++++++|+++|+++|+++...+...+           ....+.
+T Consensus       556 i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~~~lg~~~~~~~~~~~~~~~-----------~~~~~~  624 (664)
+T 5LIL_B          556 VMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGILLSVLIGVLFNSFI-----------TDFSMD  624 (664)
+T ss_dssp             HHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC-----------CSCCCC
+T ss_pred             HHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh-----------hccCcc
+Confidence            999999999999999999999999999999999999999999999999999988766554332           122344
+
+
+Q LOKIASV2_39930  396 ILPWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDP  434 (985)
+Q Consensus       396 ~~p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~  434 (985)
+                      ++++.++.+++++++++++++++|++++.|.+|.++||.
+T Consensus       625 ~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LIL_B          625 FSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCHHHHTC-
+T ss_pred             ccHHHHHHHHHHHHHHHHHHHhhHHHHHHhcCHHHHHhc
+Confidence            566677778888889999999999999999999999974
+
+
+No 7
+>5LJ7_B MacB; Membrane Protein, ABC Transporter, transport; HET: ATP; 3.25A {Aggregatibacter actinomycetemcomitans}
+Probab=99.73  E-value=5.2e-22  Score=245.93  Aligned_cols=388  Identities=15%  Similarity=0.193  Sum_probs=233.8  Template_Neff=11.400
+
+Q LOKIASV2_39930    1 MNLLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDLN---FNAYFDE   77 (985)
+Q Consensus         1 m~~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~~---~~~~f~~   77 (985)
+                      |..+++++|+++|+|+|++++++++++++++++++..+..+......+..... +..++.+.........   .....+.
+T Consensus       271 ~~~~~la~~~l~r~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~  349 (664)
+T 5LJ7_B          271 MEAFRMSVSAIVAHKMRSLLTMLGIIIGITSVVSVVALGNGSQQKILENIRGI-GTNTMTIFNGNGFGDRRSRHIQNLKI  349 (664)
+T ss_dssp             HHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTT-CCCEEEC---------------CCCH
+T ss_pred             HHHHHHHHHHHHHhhHHHHHHHHHHHHHHHHHHHHHHcChHHHHHHHHHHhhc-CCCeEEEECCCCCCCccccceecccH
+Confidence            35689999999999999999999999999999999888888766655544332 3334333322111000   0111223
+
+
+Q LOKIASV2_39930   78 NIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERT  157 (985)
+Q Consensus        78 ~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~  157 (985)
+                      +.. +.+++.++|+.+.+...........  ..    ......+.+.+.++   ++..+ ..+.+       |++ +...
+T Consensus       350 ~~~-~~l~~~~~v~~~~~~~~~~~~~~~~--~~----~~~~~~~~~~~~~~---~~~~~-~~~~~-------G~~-~~~~  410 (664)
+T 5LJ7_B          350 SDA-NTLSKQSYIQSVTPNTSSSGILVVG--NK----SFTSANLYGIGEQY---FDVEG-LKLKQ-------GRL-LTED  410 (664)
+T ss_dssp             HHH-HHHTTSSSEEEEEEEBCCBCCEECC------------CEEEEECTTH---HHHSC-CCEEE-------ECC-CCHH
+T ss_pred             hhH-HHHhcCCcccccccccccceEEEEC--Cc----eeeeEEEEEecCcc---ccccC-Ceecc-------Ccc-CCHH
+Confidence            334 5666677777766544322221111  00    11223444555554   44344 44555       665 4432
+
+
+Q LOKIASV2_39930  158 DALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEPNQI  236 (985)
+Q Consensus       158 ~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~~~~  236 (985)
+                          +...+++.+++++..++.. ...|+.+|+++..++.+++|+|++++.... ........+.+..............
+T Consensus       411 ----~~~~~~~~ii~~~~~~~~~-~~~~~~ig~~i~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  485 (664)
+T 5LJ7_B          411 ----DVDQSNQVVVLDESAKKAI-FANENPLGKTVIFNKRPFRVIGVVSDQQLGGFPGNSLNLYSPYSTVLNKITGGSRI  485 (664)
+T ss_dssp             ----HHHTTCCEEEEEHHHHHHH-HTTSCCSSCEEEESSCEEEEEEEECCC---------CEEEEEHHHHHHHTSCCSCC
+T ss_pred             ----HHhccCcEEEecHHHHHHH-hCCCCCCCceeEeCCeeEEEEEEEecCCCCCCCCCCcceeeeHHHhcccccCCCce
+Confidence                2222344577787777653 223455666666667899999999865432 1111223444544443322212234
+
+
+Q LOKIASV2_39930  237 NNIYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG-FTYEVSIPKLTQLQSSQNQTDFLNMTFYFIIFFSVLITGIL  315 (985)
+Q Consensus       237 ~~i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg-~~~~v~~~~~~~l~~~~~~~~~~~~~~~~~~~~~llv~~~l  315 (985)
+                      +.+.+.++++.+.   +   +.   .+++++.++.... ..+.+.+.. +..+...........++.++.++++++++++
+T Consensus       486 ~~~~i~~~~~~~~---~---~~---~~~i~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~l~~~i~~~~  555 (664)
+T 5LJ7_B          486 GSITVKISDDVNS---T---VA---EKSLTELLKSLHGKKDFFIMNSD-TIKQTIENTTGTMKLLISSIAFISLIVGGIG  555 (664)
+T ss_dssp             SEEEEEECSSSCH---H---HH---HHHHHHHHHC---------CCBC-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             eeEEEEecCCCCh---H---HH---HHHHHHHHHHHhcCCceEEechH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            5566666554322   1   22   2333332221110 122222222 2222222333444556666777788899999
+
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFLDWLLSNIYTIQWNFAQIDFI  395 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~~~~~~~~~~~~~~~~~~~~~  395 (985)
+                      +++++...+.+|+||+|+||++|+++++++++++.|.++++++|+++|+++|+++...+...+           ....+.
+T Consensus       556 i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~~~lg~~~~~~~~~~~~~~~-----------~~~~~~  624 (664)
+T 5LJ7_B          556 VMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGILLSVLIGVLFNSFI-----------TDFSMD  624 (664)
+T ss_dssp             HHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC-----------CSCCCC
+T ss_pred             HHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh-----------hccCcc
+Confidence            999999999999999999999999999999999999999999999999999988766554332           122344
+
+
+Q LOKIASV2_39930  396 ILPWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDP  434 (985)
+Q Consensus       396 ~~p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~  434 (985)
+                      ++++.++.+++++++++++++++|++++.|.+|.++||.
+T Consensus       625 ~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LJ7_B          625 FSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCHHHHTTC
+T ss_pred             ccHHHHHHHHHHHHHHHHHHHhhHHHHHHhcCHHHHHhc
+Confidence            566677778888889999999999999999999999974
+
+
+No 8
+>5GKO_A Macrolide export ATP-binding/permease protein MacB; Multi-drug, efflux transporter, ABC transporter; HET: MSE; 3.393A {Acinetobacter baumannii}
+Probab=99.73  E-value=5.4e-22  Score=246.36  Aligned_cols=388  Identities=14%  Similarity=0.164  Sum_probs=248.3  Template_Neff=11.300
+
+Q LOKIASV2_39930    2 NLLGYVIKDLRREKVKTIFGTAGILVSILLLTIIGCLSDSLSYSYMSQVTYEVGSADFTIRKQSSQDLN----FNAYFDE   77 (985)
+Q Consensus         2 ~~~~ya~rnl~r~K~Rtil~i~Gi~isi~ll~~v~~~~ds~~~s~vd~~t~~~G~~Di~i~~~~~~~~~----~~~~f~~   77 (985)
+                      ..+++++|+++|+|+|++++++++++++++++++..+..+......+..... +..++.+.........    ......+
+T Consensus       277 ~~~~la~r~l~r~~~r~~l~~l~i~i~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~i~~~~~~~~~~~~~~~~~~~~  355 (671)
+T 5GKO_A          277 EAFQMALLSMNAHRMRTFLTMLGIIIGIASVVTVVALGNGSQQQILSNISSL-GTNTITVFQGRGFGDNSKTANFKTLVP  355 (671)
+T ss_dssp             HHHHHHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGS-CTTEEEEECCCCCCCTTTTGGGCCCCH
+T ss_pred             HHhhHHHHhcccchHHHHHHHHHHHHHHHHHHHHHHhchhHHHHHHHHHHhc-CCCEEEEEcCCcCCccccCCcceecCh
+Confidence            3578999999999999999999999999999888888777766655544333 3334433221110000    0011223
+
+
+Q LOKIASV2_39930   78 NIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERT  157 (985)
+Q Consensus        78 ~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~  157 (985)
+                      +.. +++++.++|+.+.+...........   +    ......+.++++.+   ++..+ ..+.+       |+. +...
+T Consensus       356 ~~~-~~l~~~~~V~~v~~~~~~~~~~~~~---~----~~~~~~i~~~~~~~---~~~~~-~~~~~-------g~~-~~~~  415 (671)
+T 5GKO_A          356 ADA-DALMTQPYVSAVSPMVSTSKTMRYQ---Q----NEANATINGVSNDY---FDVKG-LVFKD-------GQT-FDQR  415 (671)
+T ss_dssp             HHH-HHHHTSTTEEEEEEEEEEEEEEEET---T----EEEEEEEEEECTTH---HHHTT-CEESS-------SCC-CCHH
+T ss_pred             HhH-HHHhcCCceeeccceeccccccccc---c----eeeeeEEeccCcch---hcccC-cEEec-------Ccc-cCHH
+Confidence            344 5667778888776654332222111   1    11223445556655   44444 44444       554 3322
+
+
+Q LOKIASV2_39930  158 DALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEPNQI  236 (985)
+Q Consensus       158 ~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~~~~  236 (985)
+                          +...+++++++++.+++.++.+.++.+++.+..++.+++|+|++++.... .......++++.+.+..........
+T Consensus       416 ----~~~~~~~~ivi~~~~a~~~~~~~~~~ig~~i~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  491 (671)
+T 5GKO_A          416 ----SVRDRSQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTTVMSRMLGQAHV  491 (671)
+T ss_dssp             ----HHHTTCCEEEEEHHHHHHHCTTCCCCTTCEEEETTEEEEEEEEEECCCSSSSSCCSCEEEEEHHHHCCCCCCCSSC
+T ss_pred             ----HHhccCCcEEechhHHHHhhcCCCCCCceEEEeCCcceEEEEEeeeccCCCCCCCceeEEEeHHHHhhhhcCccce
+Confidence                22233567999999999988777778888888788899999998765432 1111233455555544332222334
+
+
+Q LOKIASV2_39930  237 NNIYATLENPERFYDTDNMFDTSNRLQSVAQEIQKAIG-FTYEVSIPKLTQLQSSQNQTDFLNMTFYFIIFFSVLITGIL  315 (985)
+Q Consensus       237 ~~i~~~l~~~~~~y~~~~~~~~~~~~~~v~~~i~~~lg-~~~~v~~~~~~~l~~~~~~~~~~~~~~~~~~~~~llv~~~l  315 (985)
+                      +.+.++++++.+.   +   ..   .+.+.+.++.... ..+...+.. +..+........+..++.++.++++++++++
+T Consensus       492 ~~~~i~~~~~~~~---~---~~---~~~l~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~li~~i~  561 (671)
+T 5GKO_A          492 RNIVVRINDKYST---S---AA---ENAIVNLLTQRHGAQDIFTMNSD-SIRQTIEKTTSTMTLLVSAIAVISLVVGGIG  561 (671)
+T ss_dssp             SEEEEEEGGGCCH---H---HH---HHHHHHHHHHHSSSCCCEEEEHH-HHHHHHHHHHHHHHHHHHHHHHHHHTGGGTH
+T ss_pred             eEEEEEEcCCCCc---h---HH---HHHHHHHHHHHhCCCceEEecHH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            5566666654322   1   22   2333333322111 112222222 2222222333444555666777788899999
+
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGTVGTLVGTVLGTFLGPPFLDWLLSNIYTIQWNFAQIDFI  395 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~ig~~~G~~lG~~l~~~~~~~~~~~~~~~~~~~~~~~~~  395 (985)
+                      +++++...+.+|+||+|+||++|+++++++++++.|.++++++|.++|+++|+++...+...+ .         ....+.
+T Consensus       562 i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~~~~~~~~~~~~~~~-~---------~~~~~~  631 (671)
+T 5GKO_A          562 VMNIMLVSVTERTQEIGVRMAVGARQSDILQQFLIEAILVCLIGGVLGVLLSLGLGQLINKFA-G---------GNFAVA  631 (671)
+T ss_dssp             HHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHTTHHHHHHHHHHHHHHHHHHS-C---------SSCCCC
+T ss_pred             HHHHHHHHHHhhhHhHHHHHhhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh-C---------CCcccc
+Confidence            999999999999999999999999999999999999999999999999999988766554322 0         122344
+
+
+Q LOKIASV2_39930  396 ILPWTIFRSLIIGFCGSILISLIPAFKARSINLVDAIDP  434 (985)
+Q Consensus       396 ~~p~~i~~~~~ig~~~~~l~al~Pa~~a~~~~~v~al~~  434 (985)
+                      ++++.++.+++++++++++++++|++++.|.+|.++||.
+T Consensus       632 ~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  670 (671)
+T 5GKO_A          632 YSTTSIVAAFVCSTLIGVVFGFLPAKNAAKLDPVAALSR  670 (671)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHHTHHHHHHHHTCCHHHHHTC
+T ss_pred             CCHHHHHHHHHHHHHHHHHHHHHHHHHHhccCHHHHhhc
+Confidence            566677778888888999999999999999999999974
+
+
+No 9
+>5NIK_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 3.3A {Escherichia coli (strain K12)}
+Probab=99.72  E-value=1.2e-21  Score=241.46  Aligned_cols=388  Identities=14%  Similarity=0.200  Sum_probs=236.7  Template_Neff=11.700
+
+Q LOKIASV2_39930  526 IKKYYPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVLSNAGTFE-----QDNVVTN  600 (985)
+Q Consensus       526 ~~~~~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v~~~~~~~-----~~~~~~~  600 (985)
+                      ++...+++.+|+.|+++|+..+++.+++++++++.+.....+.........+....+|+.+.......     ....++.
+T Consensus       254 ~~~~~~la~r~l~~~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  333 (654)
+T 5NIK_K          254 FNEALTMAWRALAANKMRTLLTMLGIIIGIASVVSIVVVGDAAKQMVLADIRSIGTNTIDVYPGKDFGDDDPQYQQALKY  333 (654)
+T ss_dssp             HHHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCCCCCCCCCSSSTTCCHHHHSCCCCT
+T ss_pred             HHHHHHHHHHHHHhhhhHHHHHHHHHHHHHHHHHHHHHhhHHHHHHHHHHHHHhcCCeEEEEcCeecCCCCCcceeeecH
+Confidence            34456788999999999999888888877776666655555444444444444445666665432111     1123455
+
+
+Q LOKIASV2_39930  601 ELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVGIDERY  680 (985)
+Q Consensus       601 ~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~gid~~~  680 (985)
+                      +..+++++.|+|+.+.+..... ...        ..                            ........+.|+++++
+T Consensus       334 ~~~~~l~~~~~v~~~~~~~~~~-~~~--------~~----------------------------~~~~~~~~~~~~~~~~  376 (654)
+T 5NIK_K          334 DDLIAIQKQPWVASATPAVSQN-LRL--------RY----------------------------NNVDVAASANGVSGDY  376 (654)
+T ss_dssp             THHHHHHTSTTCSEEEEEEEEE-EEE--------EE----------------------------TTEEEEEEEEEECTTH
+T ss_pred             HHHHHHhcCCcceecccccccc-hhh--------ee----------------------------CCcceeEEEEeeCCCh
+Confidence            6677888899988766543210 000        00                            0001233455666666
+
+
+Q LOKIASV2_39930  681 YETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPYQEDSYENITTLEVVGVSEGMP  760 (985)
+Q Consensus       681 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~~~~~~~~~~~~~vvgi~~~~p  760 (985)
+                      ++.....+.     .|..... ++.-.+++.+++++.+|+.++.. .++.+..++..        ....++|+|+.+..+
+T Consensus       377 ~~~~~~~~~-----~g~~~~~-~~~~~~~~~ivi~~~~a~~~~~~-~g~~i~~~~~~--------~~~~~~V~Gi~~~~~  441 (654)
+T 5NIK_K          377 FNVYGMTFS-----EGNTFNQ-EQLNGRAQVVVLDSNTRRQLFPH-KADVVGEVILV--------GNMPARVIGVAEEKQ  441 (654)
+T ss_dssp             HHHTTCCEE-----ESCCCCH-HHHHHTCCCCEECHHHHHHHCTT-CCCCTTCBCEE--------TTBCCBCCCEECCCC
+T ss_pred             hhhccceec-----cccccCH-HHHcCCCeEEEecchHHHHhcCC-cccccCeEEEe--------CCeeeEEEEEeeech
+Confidence            554332221     1211110 01112345699999999988763 33444433321        124689999988755
+
+
+Q LOKIASV2_39930  761 GVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLEKTQDFIENYFGD---EFDFILDE  837 (985)
+Q Consensus       761 G~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~~~~~~i~~~~~~---~~~~~~~~  837 (985)
+                      ..+..       .....++++.+.+.+....      +...+.+.++++++.  +.++..+.+++....   ..++...+
+T Consensus       442 ~~~~~-------~~~~~~~~~~~~~~~~~~~------~~~~~~~~i~~~~~~--~~~~~~~~l~~~~~~~~~~~~~~~~~  506 (654)
+T 5NIK_K          442 SMFGS-------SKVLRVWLPYSTMSGRVMG------QSWLNSITVRVKEGF--DSAEAEQQLTRLLSLRHGKKDFFTWN  506 (654)
+T ss_dssp             SCCSC-------TTSCCEEEEHHHHCCCCCC------CSCCSEEEEECCTTC--CSTTTHHHHHHHHHHHSSSCCCCCCC
+T ss_pred             hhcCC-------CCcceeeccceeeceeecC------cccceEEEEEECCCC--CHHHHHHHHHHHHHhhcCCCCeEEEe
+Confidence            33211       1122456666666543221      112445677776542  122233333332221   11222222
+
+
+Q LOKIASV2_39930  838 ATSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYMLMAEAITIMLSSGIL  917 (985)
+Q Consensus       838 ~~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~~~Ea~~i~l~~~il  917 (985)
+                      ..+..+...+.......++..+.++.++++++++++++..++.+|+||||+|||+|++++|+.++++.|++++++.|+++
+T Consensus       507 ~~~~~~~~~~~~~~~~~~~~~~~~~~~li~~~~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~  586 (654)
+T 5NIK_K          507 MDGVLKTVEKTTRTLQLFLTLVAVISLVVGGIGVMNIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGAL  586 (654)
+T ss_dssp             CSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHH
+Confidence            22222223333334444556667778899999999999999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  918 GGIVGWFIAYLLQTNVSIITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIRATF  985 (985)
+Q Consensus       918 G~iiG~~l~~~l~~~~~~~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR~t~  985 (985)
+                      |+++|+++++.+....   ...  .+.++|+.++.+++++++++++++++|+||+.|.+|.|.+|.++
+T Consensus       587 g~~~~~~~~~~~~~~~---~~~--~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~p~~~~~~~~  649 (654)
+T 5NIK_K          587 GITLSLLIAFTLQLFL---PGW--EIGFSPLALLLAFLCSTVTGILFGWLPARNAARLDPVDALAREH  649 (654)
+T ss_dssp             HHHHHHHHHHHHHHSC---SSC--CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHCC-
+T ss_pred             HHHHHHHHHHHHHhhc---ccc--ccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCHHHHHhhhc
+Confidence            9999999888764322   122  23456666666777788888999999999999999999999874
+
+
+No 10
+>5NIL_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 5.3A {Escherichia coli (strain K12)}
+Probab=99.72  E-value=1.2e-21  Score=241.46  Aligned_cols=388  Identities=14%  Similarity=0.200  Sum_probs=236.7  Template_Neff=11.700
+
+Q LOKIASV2_39930  526 IKKYYPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVLSNAGTFE-----QDNVVTN  600 (985)
+Q Consensus       526 ~~~~~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v~~~~~~~-----~~~~~~~  600 (985)
+                      ++...+++.+|+.|+++|+..+++.+++++++++.+.....+.........+....+|+.+.......     ....++.
+T Consensus       254 ~~~~~~la~r~l~~~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  333 (654)
+T 5NIL_K          254 FNEALTMAWRALAANKMRTLLTMLGIIIGIASVVSIVVVGDAAKQMVLADIRSIGTNTIDVYPGKDFGDDDPQYQQALKY  333 (654)
+T ss_dssp             HHHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCCCCCCCCCSSSTTCCHHHHSCCCCT
+T ss_pred             HHHHHHHHHHHHHhhhhHHHHHHHHHHHHHHHHHHHHHhhHHHHHHHHHHHHHhcCCeEEEEcCeecCCCCCcceeeecH
+Confidence            34456788999999999999888888877776666655555444444444444445666665432111     1123455
+
+
+Q LOKIASV2_39930  601 ELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVGIDERY  680 (985)
+Q Consensus       601 ~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~gid~~~  680 (985)
+                      +..+++++.|+|+.+.+..... ...        ..                            ........+.|+++++
+T Consensus       334 ~~~~~l~~~~~v~~~~~~~~~~-~~~--------~~----------------------------~~~~~~~~~~~~~~~~  376 (654)
+T 5NIL_K          334 DDLIAIQKQPWVASATPAVSQN-LRL--------RY----------------------------NNVDVAASANGVSGDY  376 (654)
+T ss_dssp             THHHHHHTSTTCSEEEEEEEEE-EEE--------EE----------------------------TTEEEEEEEEEECTTH
+T ss_pred             HHHHHHhcCCcceecccccccc-hhh--------ee----------------------------CCcceeEEEEeeCCCh
+Confidence            6677888899988766543210 000        00                            0001233455666666
+
+
+Q LOKIASV2_39930  681 YETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPYQEDSYENITTLEVVGVSEGMP  760 (985)
+Q Consensus       681 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~~~~~~~~~~~~~vvgi~~~~p  760 (985)
+                      ++.....+.     .|..... ++.-.+++.+++++.+|+.++.. .++.+..++..        ....++|+|+.+..+
+T Consensus       377 ~~~~~~~~~-----~g~~~~~-~~~~~~~~~ivi~~~~a~~~~~~-~g~~i~~~~~~--------~~~~~~V~Gi~~~~~  441 (654)
+T 5NIL_K          377 FNVYGMTFS-----EGNTFNQ-EQLNGRAQVVVLDSNTRRQLFPH-KADVVGEVILV--------GNMPARVIGVAEEKQ  441 (654)
+T ss_dssp             HHHTTCCEE-----ESCCCCH-HHHHHTCCCCEECHHHHHHHCTT-CCCCTTCBCEE--------TTBCCBCCCEECCCC
+T ss_pred             hhhccceec-----cccccCH-HHHcCCCeEEEecchHHHHhcCC-cccccCeEEEe--------CCeeeEEEEEeeech
+Confidence            554332221     1211110 01112345699999999988763 33444433321        124689999988755
+
+
+Q LOKIASV2_39930  761 GVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLEKTQDFIENYFGD---EFDFILDE  837 (985)
+Q Consensus       761 G~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~~~~~~i~~~~~~---~~~~~~~~  837 (985)
+                      ..+..       .....++++.+.+.+....      +...+.+.++++++.  +.++..+.+++....   ..++...+
+T Consensus       442 ~~~~~-------~~~~~~~~~~~~~~~~~~~------~~~~~~~~i~~~~~~--~~~~~~~~l~~~~~~~~~~~~~~~~~  506 (654)
+T 5NIL_K          442 SMFGS-------SKVLRVWLPYSTMSGRVMG------QSWLNSITVRVKEGF--DSAEAEQQLTRLLSLRHGKKDFFTWN  506 (654)
+T ss_dssp             SCCSC-------TTSCCEEEEHHHHCCCCCC------CSCCSEEEEECCTTC--CSTTTHHHHHHHHHHHSSSCCCCCCC
+T ss_pred             hhcCC-------CCcceeeccceeeceeecC------cccceEEEEEECCCC--CHHHHHHHHHHHHHhhcCCCCeEEEe
+Confidence            33211       1122456666666543221      112445677776542  122233333332221   11222222
+
+
+Q LOKIASV2_39930  838 ATSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYMLMAEAITIMLSSGIL  917 (985)
+Q Consensus       838 ~~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~~~Ea~~i~l~~~il  917 (985)
+                      ..+..+...+.......++..+.++.++++++++++++..++.+|+||||+|||+|++++|+.++++.|++++++.|+++
+T Consensus       507 ~~~~~~~~~~~~~~~~~~~~~~~~~~~li~~~~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~  586 (654)
+T 5NIL_K          507 MDGVLKTVEKTTRTLQLFLTLVAVISLVVGGIGVMNIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGAL  586 (654)
+T ss_dssp             CSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHH
+Confidence            22222223333334444556667778899999999999999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  918 GGIVGWFIAYLLQTNVSIITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIRATF  985 (985)
+Q Consensus       918 G~iiG~~l~~~l~~~~~~~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR~t~  985 (985)
+                      |+++|+++++.+....   ...  .+.++|+.++.+++++++++++++++|+||+.|.+|.|.+|.++
+T Consensus       587 g~~~~~~~~~~~~~~~---~~~--~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~p~~~~~~~~  649 (654)
+T 5NIL_K          587 GITLSLLIAFTLQLFL---PGW--EIGFSPLALLLAFLCSTVTGILFGWLPARNAARLDPVDALAREH  649 (654)
+T ss_dssp             HHHHHHHHHHHHHHSC---SSC--CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHCC-
+T ss_pred             HHHHHHHHHHHHHhhc---ccc--ccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCHHHHHhhhc
+Confidence            9999999888764322   122  23456666666777788888999999999999999999999874
+
+
+No 11
+>5GKO_A Macrolide export ATP-binding/permease protein MacB; Multi-drug, efflux transporter, ABC transporter; HET: MSE; 3.393A {Acinetobacter baumannii}
+Probab=99.72  E-value=1.4e-21  Score=242.77  Aligned_cols=385  Identities=15%  Similarity=0.193  Sum_probs=240.3  Template_Neff=11.300
+
+Q LOKIASV2_39930  528 KYYPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVLSNAGTFE------QDNVVTNE  601 (985)
+Q Consensus       528 ~~~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v~~~~~~~------~~~~~~~~  601 (985)
+                      ...+++.+|+.|+++|+..+++.+++++++++++.....+.........+...+.|+.+.......      .....+++
+T Consensus       277 ~~~~la~r~l~r~~~r~~l~~l~i~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~  356 (671)
+T 5GKO_A          277 EAFQMALLSMNAHRMRTFLTMLGIIIGIASVVTVVALGNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPA  356 (671)
+T ss_dssp             HHHHHHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGSCTTEEEEECCCCCCCTTTTGGGCCCCHH
+T ss_pred             HHhhHHHHhcccchHHHHHHHHHHHHHHHHHHHHHHhchhHHHHHHHHHHhcCCCEEEEEcCCcCCccccCCcceecChH
+Confidence            345788899999999999888888888877776666555555555556666677788775432211      11234567
+
+
+Q LOKIASV2_39930  602 LLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVGIDERYY  681 (985)
+Q Consensus       602 ~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~gid~~~~  681 (985)
+                      ..+++++.|||+.+.+..... ...        ..+                            .......+.|+|+++.
+T Consensus       357 ~~~~l~~~~~V~~v~~~~~~~-~~~--------~~~----------------------------~~~~~~~i~~~~~~~~  399 (671)
+T 5GKO_A          357 DADALMTQPYVSAVSPMVSTS-KTM--------RYQ----------------------------QNEANATINGVSNDYF  399 (671)
+T ss_dssp             HHHHHHTSTTEEEEEEEEEEE-EEE--------EET----------------------------TEEEEEEEEEECTTHH
+T ss_pred             hHHHHhcCCceeeccceeccc-ccc--------ccc----------------------------ceeeeeEEeccCcchh
+Confidence            788899999998776543210 000        000                            0112234567777776
+
+
+Q LOKIASV2_39930  682 ETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPYQEDSYENITTLEVVGVSEGMPG  761 (985)
+Q Consensus       682 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~~~~~~~~~~~~~vvgi~~~~pG  761 (985)
+                      +.....+.     .|.... ..+.-.+++.++|++.+++.++.. .++.+...+..        ....++|+|+.+..+.
+T Consensus       400 ~~~~~~~~-----~g~~~~-~~~~~~~~~~ivi~~~~a~~~~~~-~~~~ig~~i~~--------~~~~~~V~Gi~~~~~~  464 (671)
+T 5GKO_A          400 DVKGLVFK-----DGQTFD-QRSVRDRSQDVVIDTNTQKQFFSD-GTNPIGQVVLL--------GSVPARIIGIVEPQTS  464 (671)
+T ss_dssp             HHTTCEES-----SSCCCC-HHHHHTTCCEEEEEHHHHHHHCTT-CCCCTTCEEEE--------TTEEEEEEEEEECCCS
+T ss_pred             cccCcEEe-----cCcccC-HHHHhccCCcEEechhHHHHhhcC-CCCCCceEEEe--------CCcceEEEEEeeeccC
+Confidence            54332222     121111 011123457899999999988753 12222222211        1246899999876442
+
+
+Q LOKIASV2_39930  762 VWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLEKTQDFIENYFGD---EFDFILDEA  838 (985)
+Q Consensus       762 ~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~~~~~~i~~~~~~---~~~~~~~~~  838 (985)
+                      ...       ......++++.+.+.+....      +.....+.++++++.  +.+...+.+++....   ...+...+.
+T Consensus       465 ~~~-------~~~~~~~~~~~~~~~~~~~~------~~~~~~~~i~~~~~~--~~~~~~~~l~~~~~~~~~~~~~~~~~~  529 (671)
+T 5GKO_A          465 GMG-------SDDTLNVYMPYTTVMSRMLG------QAHVRNIVVRINDKY--STSAAENAIVNLLTQRHGAQDIFTMNS  529 (671)
+T ss_dssp             SSS-------SCCSCEEEEEHHHHCCCCCC------CSSCSEEEEEEGGGC--CHHHHHHHHHHHHHHHSSSCCCEEEEH
+T ss_pred             CCC-------CCCceeEEEeHHHHhhhhcC------ccceeEEEEEEcCCC--CchHHHHHHHHHHHHHhCCCceEEecH
+Confidence            110       11233567777777665421      112345666666542  112223333332221   111111121
+
+
+Q LOKIASV2_39930  839 TSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYMLMAEAITIMLSSGILG  918 (985)
+Q Consensus       839 ~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~~~Ea~~i~l~~~ilG  918 (985)
+                      .+..+..+........++.++.+++++++++++++++..++.||+||+|+|||+|+++++|+++++.|++++++.|+++|
+T Consensus       530 ~~~~~~~~~~~~~~~~~~~~~~~~~~li~~i~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g  609 (671)
+T 5GKO_A          530 DSIRQTIEKTTSTMTLLVSAIAVISLVVGGIGVMNIMLVSVTERTQEIGVRMAVGARQSDILQQFLIEAILVCLIGGVLG  609 (671)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTGGGTHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHTTHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhHhHHHHHhhCCCHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            22222223333334445566667788999999999999999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  919 GIVGWFIAYLLQTNVSIITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIRA  983 (985)
+Q Consensus       919 ~iiG~~l~~~l~~~~~~~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR~  983 (985)
+                      +++|+++.+.+.....  ..  +.+.++|+.++.+++++++++++++++|++++.|.+++|++|.
+T Consensus       610 ~~~~~~~~~~~~~~~~--~~--~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  670 (671)
+T 5GKO_A          610 VLLSLGLGQLINKFAG--GN--FAVAYSTTSIVAAFVCSTLIGVVFGFLPAKNAAKLDPVAALSR  670 (671)
+T ss_dssp             HHHHHHHHHHHHHHSC--SS--CCCCCCHHHHHHHHHHHHHHHHHHTHHHHHHHHTCCHHHHHTC
+T ss_pred             HHHHHHHHHHHHHHhC--CC--ccccCCHHHHHHHHHHHHHHHHHHHHHHHHHHhccCHHHHhhc
+Confidence            9999988887643221  12  2234556666667777888899999999999999999999996
+
+
+No 12
+>5XU1_M ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.71  E-value=2.6e-21  Score=226.05  Aligned_cols=388  Identities=15%  Similarity=0.167  Sum_probs=217.1  Template_Neff=11.300
+
+Q LOKIASV2_39930  530 YPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVL--SNAGTFE--------------  593 (985)
+Q Consensus       530 ~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v--~~~~~~~--------------  593 (985)
+                      .+++.+|+.|+|+|+..+++.+++++++++++.+...........+..... +++.+  .+.....              
+T Consensus         4 ~~la~r~i~~~~~r~~l~il~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~i~~~~~~~~~~~~~~~~~~~~~~~   82 (419)
+T 5XU1_M            4 LKFAFSSIMAHKMRSLLTMIGIIIGVSSVVVIMALGDSLSRQVNKDMTKSQ-KNISVFFSPKKSKDGSFTQKQSAFTVSG   82 (419)
+T ss_dssp             HHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGG-GEEEEEECSCC-----------------
+T ss_pred             hHHHHHHHHhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcC-CCeEEEecCCccCCCCccccccccccCC
+Confidence            356788999999999988888888877766655444444333333333332 23322  2111000              
+
+
+Q LOKIASV2_39930  594 -------QDNVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGY  666 (985)
+Q Consensus       594 -------~~~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~  666 (985)
+                             .....+++..++++++|||+.+.+.....    ..     ..                    +       .+-
+T Consensus        83 ~~~~~~~~~~~~~~~~~~~~~~~~~v~~~~~~~~~~----~~-----~~--------------------~-------~~~  126 (419)
+T 5XU1_M           83 KEEEVPVEPPKPQESWVQEAAKLKGVDSYYVTNSTN----AI-----LT--------------------Y-------QDK  126 (419)
+T ss_dssp             --------CCCCCHHHHHHHTTSTTCCEEEEEEEEE----EC-----CE--------------------E-------TTE
+T ss_pred             cccCCCCCCCCCChHHHHHHHcCCCceeeccccccc----eE-----EE--------------------e-------CCc
+Confidence                   00002234456677777776554332110    00     00                    0       000
+
+
+Q LOKIASV2_39930  667 QEFYSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPYQEDSYEN  746 (985)
+Q Consensus       667 ~~~~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~~~~~~~~  746 (985)
+                      ......+.|+|+++++....++..     |..... ++.-.+.+.++|++.+|+.++.. .++.+..++.        .+
+T Consensus       127 ~~~~~~~~~~~~~~~~~~~~~~~~-----G~~~~~-~~~~~~~~~iii~~~~a~~~~~~-~g~~ig~~~~--------~~  191 (419)
+T 5XU1_M          127 KVENANLTGGNRTYMDAVKNEIIA-----GRSLRE-QDFKEFASVILLDEELSISLFES-PQEAINKVVE--------VN  191 (419)
+T ss_dssp             ECSCEEEEEECSHHHHHTTCEEEE-----ECCCCH-HHHHTTCCEEEEEHHHHHHHHSS-HHHHTTCEEE--------SS
+T ss_pred             eeeeeEEecCCcchHHhhcCcccc-----CCCCCH-HHHhhcCcEEEEcHHHHHHhcCC-cccccceEEE--------EC
+Confidence            123456788888887665444332     211110 00011357899999999988763 2333332221        12
+
+
+Q LOKIASV2_39930  747 ITTLEVVGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSL-EN-LEKTQDFIE  824 (985)
+Q Consensus       747 ~~~~~vvgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~-~~-~~~~~~~i~  824 (985)
+                      ...++|+|+.+..+..++.    ...+ +.......+.+.+..+       ....+.+.++++++.. +. .++..+.++
+T Consensus       192 ~~~~~V~Gi~~~~~~~~~~----~~~~-~~~~~~~~~~~~~~~~-------~~~~~~~~i~~~~~~~~~~~~~~~~~~~~  259 (419)
+T 5XU1_M          192 GFSYRVIGVYTSPEAKRSK----IYGF-GGLPITTNISLAANFN-------IDEIASIVFRVNDTSLTPTLGPELARKMT  259 (419)
+T ss_dssp             SCEEEEEEEEECHHHHHTT----TTTC-SCCCEEEHHHHHHHSS-------CCSCSEEEEECSSGGGHHHHHHHHHHHHH
+T ss_pred             CEEEEEEEEeCCcchhhhh----cccc-CCcceeechhhHhcCC-------ccceeEEEEEecCCCCCccchHHHHHHHH
+Confidence            3579999999864322110    0000 0001111111111110       1123455666655421 11 122233333
+
+
+Q LOKIASV2_39930  825 NYFGD-EFDFILDEATSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYML  903 (985)
+Q Consensus       825 ~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~  903 (985)
+                      +..+. ..++.+.+..+..+...+..+....++..+.+++++++++++++++...+.||+||+|+|||+|++++++.+++
+T Consensus       260 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~  339 (419)
+T 5XU1_M          260 ELAGLQQGEYQVADESVVFAEIQQSFSFMTTIISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQF  339 (419)
+T ss_dssp             HHHCCCSSCEEECCSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHH
+T ss_pred             HHhccCCCcEEEecHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHH
+Confidence            32211 11222222222222222222333344556666788899999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  904 MAEAITIMLSSGILGGIVGWFIAYLLQTNVSI-ITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIR  982 (985)
+Q Consensus       904 ~~Ea~~i~l~~~ilG~iiG~~l~~~l~~~~~~-~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR  982 (985)
+                      +.|++++++.|+++|+++|+.+.+.+...... ....+  +.++|+.++..++++++++++++++|++++.|.++.|.+|
+T Consensus       340 ~~e~~~i~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~--~~~~~~~~~~~~~~~~~i~~l~~~~~~~~~~~~~~~~~lr  417 (419)
+T 5XU1_M          340 LIESMILTLLGGLIGLTIASGLTALAGLLLQGLIEGIE--VGVSIPVALFSLAVSASVGMIFGVLPANKASKLDPIEALR  417 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTCCSCC--CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCHHHHCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCc--cCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHh
+Confidence            99999999999999999999888765432221 11122  2334444455566777888999999999999999999999
+
+
+Q LOKIASV2_39930  983 A  983 (985)
+Q Consensus       983 ~  983 (985)
+                      .
+T Consensus       418 ~  418 (419)
+T 5XU1_M          418 Y  418 (419)
+T ss_dssp             H
+T ss_pred             c
+Confidence            6
+
+
+No 13
+>5XU1_S ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.71  E-value=2.6e-21  Score=226.05  Aligned_cols=388  Identities=15%  Similarity=0.167  Sum_probs=217.1  Template_Neff=11.300
+
+Q LOKIASV2_39930  530 YPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVL--SNAGTFE--------------  593 (985)
+Q Consensus       530 ~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v--~~~~~~~--------------  593 (985)
+                      .+++.+|+.|+|+|+..+++.+++++++++++.+...........+..... +++.+  .+.....              
+T Consensus         4 ~~la~r~i~~~~~r~~l~il~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~i~~~~~~~~~~~~~~~~~~~~~~~   82 (419)
+T 5XU1_S            4 LKFAFSSIMAHKMRSLLTMIGIIIGVSSVVVIMALGDSLSRQVNKDMTKSQ-KNISVFFSPKKSKDGSFTQKQSAFTVSG   82 (419)
+T ss_dssp             HHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHGG-GEEEEEECSCC-----------------
+T ss_pred             hHHHHHHHHhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcC-CCeEEEecCCccCCCCccccccccccCC
+Confidence            356788999999999988888888877766655444444333333333332 23322  2111000              
+
+
+Q LOKIASV2_39930  594 -------QDNVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGY  666 (985)
+Q Consensus       594 -------~~~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~  666 (985)
+                             .....+++..++++++|||+.+.+.....    ..     ..                    +       .+-
+T Consensus        83 ~~~~~~~~~~~~~~~~~~~~~~~~~v~~~~~~~~~~----~~-----~~--------------------~-------~~~  126 (419)
+T 5XU1_S           83 KEEEVPVEPPKPQESWVQEAAKLKGVDSYYVTNSTN----AI-----LT--------------------Y-------QDK  126 (419)
+T ss_dssp             --------CCCCCHHHHHHHTTSTTCCEEEEEEEEE----EC-----CE--------------------E-------TTE
+T ss_pred             cccCCCCCCCCCChHHHHHHHcCCCceeeccccccc----eE-----EE--------------------e-------CCc
+Confidence                   00002234456677777776554332110    00     00                    0       000
+
+
+Q LOKIASV2_39930  667 QEFYSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPYQEDSYEN  746 (985)
+Q Consensus       667 ~~~~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~~~~~~~~  746 (985)
+                      ......+.|+|+++++....++..     |..... ++.-.+.+.++|++.+|+.++.. .++.+..++.        .+
+T Consensus       127 ~~~~~~~~~~~~~~~~~~~~~~~~-----G~~~~~-~~~~~~~~~iii~~~~a~~~~~~-~g~~ig~~~~--------~~  191 (419)
+T 5XU1_S          127 KVENANLTGGNRTYMDAVKNEIIA-----GRSLRE-QDFKEFASVILLDEELSISLFES-PQEAINKVVE--------VN  191 (419)
+T ss_dssp             ECSCEEEEEECSHHHHHTTCEEEE-----ECCCCH-HHHHTTCCEEEEEHHHHHHHHSS-HHHHTTCEEE--------SS
+T ss_pred             eeeeeEEecCCcchHHhhcCcccc-----CCCCCH-HHHhhcCcEEEEcHHHHHHhcCC-cccccceEEE--------EC
+Confidence            123456788888887665444332     211110 00011357899999999988763 2333332221        12
+
+
+Q LOKIASV2_39930  747 ITTLEVVGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSL-EN-LEKTQDFIE  824 (985)
+Q Consensus       747 ~~~~~vvgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~-~~-~~~~~~~i~  824 (985)
+                      ...++|+|+.+..+..++.    ...+ +.......+.+.+..+       ....+.+.++++++.. +. .++..+.++
+T Consensus       192 ~~~~~V~Gi~~~~~~~~~~----~~~~-~~~~~~~~~~~~~~~~-------~~~~~~~~i~~~~~~~~~~~~~~~~~~~~  259 (419)
+T 5XU1_S          192 GFSYRVIGVYTSPEAKRSK----IYGF-GGLPITTNISLAANFN-------IDEIASIVFRVNDTSLTPTLGPELARKMT  259 (419)
+T ss_dssp             SCEEEEEEEEECHHHHHTT----TTTC-SCCCEEEHHHHHHHSS-------CCSCSEEEEECSSGGGHHHHHHHHHHHHH
+T ss_pred             CEEEEEEEEeCCcchhhhh----cccc-CCcceeechhhHhcCC-------ccceeEEEEEecCCCCCccchHHHHHHHH
+Confidence            3579999999864322110    0000 0001111111111110       1123455666655421 11 122233333
+
+
+Q LOKIASV2_39930  825 NYFGD-EFDFILDEATSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYML  903 (985)
+Q Consensus       825 ~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~  903 (985)
+                      +..+. ..++.+.+..+..+...+..+....++..+.+++++++++++++++...+.||+||+|+|||+|++++++.+++
+T Consensus       260 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~  339 (419)
+T 5XU1_S          260 ELAGLQQGEYQVADESVVFAEIQQSFSFMTTIISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQF  339 (419)
+T ss_dssp             HHHCCCSSCEEECCSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHH
+T ss_pred             HHhccCCCcEEEecHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHH
+Confidence            32211 11222222222222222222333344556666788899999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  904 MAEAITIMLSSGILGGIVGWFIAYLLQTNVSI-ITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIR  982 (985)
+Q Consensus       904 ~~Ea~~i~l~~~ilG~iiG~~l~~~l~~~~~~-~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR  982 (985)
+                      +.|++++++.|+++|+++|+.+.+.+...... ....+  +.++|+.++..++++++++++++++|++++.|.++.|.+|
+T Consensus       340 ~~e~~~i~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~--~~~~~~~~~~~~~~~~~i~~l~~~~~~~~~~~~~~~~~lr  417 (419)
+T 5XU1_S          340 LIESMILTLLGGLIGLTIASGLTALAGLLLQGLIEGIE--VGVSIPVALFSLAVSASVGMIFGVLPANKASKLDPIEALR  417 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTCCSCC--CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCHHHHCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCc--cCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHh
+Confidence            99999999999999999999888765432221 11122  2334444455566777888999999999999999999999
+
+
+Q LOKIASV2_39930  983 A  983 (985)
+Q Consensus       983 ~  983 (985)
+                      .
+T Consensus       418 ~  418 (419)
+T 5XU1_S          418 Y  418 (419)
+T ss_dssp             H
+T ss_pred             c
+Confidence            6
+
+
+No 14
+>5LIL_A Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.68  E-value=1.1e-20  Score=234.34  Aligned_cols=385  Identities=15%  Similarity=0.203  Sum_probs=233.7  Template_Neff=11.300
+
+Q LOKIASV2_39930  525 FIKKYYPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVLSNAGTFEQ-----DNVVT  599 (985)
+Q Consensus       525 ~~~~~~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v~~~~~~~~-----~~~~~  599 (985)
+                      .++...+++.+|+.|+++|+...++.+++++++++++.+...+.........+...+.|+++........     ...++
+T Consensus       269 ~~~~~~~la~~~l~r~~~r~~l~~l~i~l~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  348 (664)
+T 5LIL_A          269 QLMEAFRMSVSAIVAHKMRSLLTMLGIIIGITSVVSVVALGNGSQQKILENIRGIGTNTMTIFNGNGFGDRRSRHIQNLK  348 (664)
+T ss_pred             HHHHHHHHHHHHHHHhHHHHHHHHHHHHHHHHHHHHHHHhchHhHHHHHHHHcccCCCeEEEeCCCCCCCCccccccCCC
+Confidence            3444567889999999999988888888877777666665555555554555555567777765432111     22345
+
+
+Q LOKIASV2_39930  600 NELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVGIDER  679 (985)
+Q Consensus       600 ~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~gid~~  679 (985)
+                      .+..+++++.|+|+.+.+..... ...        ..+                           +.......+.|+|++
+T Consensus       349 ~~~~~~l~~~~~v~~~~~~~~~~-~~~--------~~~---------------------------~~~~~~~~~~~~~~~  392 (664)
+T 5LIL_A          349 ISDANTLSKQSYIQSVTPNTSSS-GIL--------VVG---------------------------NKSFTSANLYGIGEQ  392 (664)
+T ss_pred             HHHHHHHhcCCCeeeeccceecC-ceE--------EcC---------------------------CCccceEEEEecCCC
+Confidence            66778888889988766543211 000        000                           000122345666766
+
+
+Q LOKIASV2_39930  680 YYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQIT--DLPAEIKITINNPYQEDSYENITTLEVVGVSE  757 (985)
+Q Consensus       680 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~--~~~~~i~i~~~~~~~~~~~~~~~~~~vvgi~~  757 (985)
+                      +.+....++.     .|..... .+...+++.+++++.+++.+...  +.|+.+.+.            ...++|+|+.+
+T Consensus       393 ~~~~~~~~~~-----~G~~~~~-~~~~~~~~~ii~~~~~~~~~~~~~~~iGd~i~~~------------~~~~~V~Gi~~  454 (664)
+T 5LIL_A          393 YFDVEGLKLK-----QGRLLTE-DDVDQSNQVVVLDESAKKAIFANENPLGKTVIFN------------KRPFRVIGVVS  454 (664)
+T ss_pred             chhccCCccc-----cCCCCCc-cccccCCCEEEEeHHHHHHHhCCCCCCCCeEEEC------------CeeEEEEEEEE
+Confidence            6553222222     1211110 01112345688888888764211  234433321            23689999987
+
+
+Q LOKIASV2_39930  758 GMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLEKTQDFIENYFGD---EFDFI  834 (985)
+Q Consensus       758 ~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~~~~~~i~~~~~~---~~~~~  834 (985)
+                      ..+.....       .....++++.+.+.+....      +...+.+.++++++.  +.++..+.+++...+   ...+.
+T Consensus       455 ~~~~~~~~-------~~~~~~~~~~~~~~~~~~~------~~~~~~~~i~~~~~~--~~~~~~~~i~~~~~~~~~~~~~~  519 (664)
+T 5LIL_A          455 DQQLGGFP-------GNSLNLYSPYSTVLNKITG------GSRIGSITVKISDDV--NSTVAEKSLTELLKSLHGKKDFF  519 (664)
+T ss_pred             CCCCCCCC-------CCCCeeEEehHHHHHHhcC------CCceeEEEEEeCCCc--cHHHHHHHHHHHHHHHCCCCCcE
+Confidence            64321110       1123456666665544321      112345666666542  112222233322211   11122
+
+
+Q LOKIASV2_39930  835 LDEATSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYMLMAEAITIMLSS  914 (985)
+Q Consensus       835 ~~~~~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~~~Ea~~i~l~~  914 (985)
+                      ..+..+..+...+.......++.++.+++++++++++++++..++.||+||+|+|||+|+++++++++++.|+++++++|
+T Consensus       520 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~i~~ig  599 (664)
+T 5LIL_A          520 IMNSDTIKQTIENTTGTMKLLISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIG  599 (664)
+T ss_pred             eeeHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhHHHHHHHHHcCCCHHHHHHHHHHHHHHHHHHH
+Confidence            22222222222333333444556666778899999999999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  915 GILGGIVGWFIAYLLQTNVSIITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIRA  983 (985)
+Q Consensus       915 ~ilG~iiG~~l~~~l~~~~~~~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR~  983 (985)
+                      +++|+++|+.+++.+.....   ..+  +.++|+.++..++++++++++++++|+|++.|.+++|.+|.
+T Consensus       600 ~~lg~~l~~~~~~~~~~~~~---~~~--~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LIL_A          600 GVAGILLSVLIGVLFNSFIT---DFS--MDFSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_pred             HHHHHHHHHHHHHHHHHHcC---CCC--ccccHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCHHHHhhc
+Confidence            99999999988887653221   222  34556666667777888899999999999999999999996
+
+
+No 15
+>5LIL_B Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.67  E-value=1.5e-20  Score=233.09  Aligned_cols=385  Identities=16%  Similarity=0.206  Sum_probs=226.5  Template_Neff=11.400
+
+Q LOKIASV2_39930  525 FIKKYYPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVLSNAGTFEQ-----DNVVT  599 (985)
+Q Consensus       525 ~~~~~~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v~~~~~~~~-----~~~~~  599 (985)
+                      .++...+++.+|+.|+++|+..+++.+++++++++++.+...+.........+...+.|+++........     ...++
+T Consensus       269 ~~~~~~~la~~~l~r~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  348 (664)
+T 5LIL_B          269 QLMEAFRMSVSAIVAHKMRSLLTMLGIIIGITSVVSVVALGNGSQQKILENIRGIGTNTMTIFNGNGFGDRRSRHIQNLK  348 (664)
+T ss_dssp             HHHHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCCCEEEC---------------CCC
+T ss_pred             HHHHHHHHHHHHHHHhhHHHHHHHHHHHHHHHHHHHHHHcChHHHHHHHHHHhhcCCCeEEEECCCCCCCccccceeccc
+Confidence            3444567889999999999988888888877777666665555555554555555567777754432211     22345
+
+
+Q LOKIASV2_39930  600 NELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVGIDER  679 (985)
+Q Consensus       600 ~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~gid~~  679 (985)
+                      .+..+++++.|+|+.+.+..... ...        ..+                           +.......+.|+|++
+T Consensus       349 ~~~~~~l~~~~~v~~~~~~~~~~-~~~--------~~~---------------------------~~~~~~~~~~~~~~~  392 (664)
+T 5LIL_B          349 ISDANTLSKQSYIQSVTPNTSSS-GIL--------VVG---------------------------NKSFTSANLYGIGEQ  392 (664)
+T ss_dssp             HHHHHHHTTCSSEEEEEEEBCCE-ECC--------CSS---------------------------SCCCCSEEEEEECTT
+T ss_pred             HhhHHHHhcCCcccccccccccc-eEE--------EEC---------------------------CceeeeEEEEEecCc
+Confidence            66778888889988766543210 000        000                           000112345566666
+
+
+Q LOKIASV2_39930  680 YYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQIT--DLPAEIKITINNPYQEDSYENITTLEVVGVSE  757 (985)
+Q Consensus       680 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~--~~~~~i~i~~~~~~~~~~~~~~~~~~vvgi~~  757 (985)
+                      +.+....++.     .|..... .+...+++.+++++.+++.+...  +.|+.+.+            ....++|+|+.+
+T Consensus       393 ~~~~~~~~~~-----~G~~~~~-~~~~~~~~~ii~~~~~~~~~~~~~~~ig~~i~~------------~~~~~~V~Gi~~  454 (664)
+T 5LIL_B          393 YFDVEGLKLK-----QGRLLTE-DDVDQSNQVVVLDESAKKAIFANENPLGKTVIF------------NKRPFRVIGVVS  454 (664)
+T ss_dssp             HHHHSCCCEE-----EECCCCH-HHHHTTCCEEEEEHHHHHHHTTTSCCSSCEEES------------SSCEEEEEEEEC
+T ss_pred             cccccCCeec-----cCccCCH-HHHhccCcEEEecHHHHHHHhCCCCCCCceeEe------------CCeeEEEEEEEe
+Confidence            6543222221     1211110 01112345688888888764311  23343332            124689999987
+
+
+Q LOKIASV2_39930  758 GMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLEKTQDFIENYFGD---EFDFI  834 (985)
+Q Consensus       758 ~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~~~~~~i~~~~~~---~~~~~  834 (985)
+                      ........       .....++++.+.+.+....      +...+.+.++++++.  +.++..+.+++...+   ...+.
+T Consensus       455 ~~~~~~~~-------~~~~~~~~~~~~~~~~~~~------~~~~~~~~i~~~~~~--~~~~~~~~i~~~~~~~~~~~~~~  519 (664)
+T 5LIL_B          455 DQQLGGFP-------GNSLNLYSPYSTVLNKITG------GSRIGSITVKISDDV--NSTVAEKSLTELLKSLHGKKDFF  519 (664)
+T ss_dssp             CC----------------CEEEEEHHHHHHHTSC------CSCCSEEEEEECSSS--CHHHHHHHHHHHHHC--------
+T ss_pred             cCCCCCCC-------CCCcceeeeHHHhcccccC------CCceeeEEEEecCCC--ChHHHHHHHHHHHHHHhcCCceE
+Confidence            64322110       1123456666666544321      112345666666542  122222333332221   11222
+
+
+Q LOKIASV2_39930  835 LDEATSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYMLMAEAITIMLSS  914 (985)
+Q Consensus       835 ~~~~~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~~~Ea~~i~l~~  914 (985)
+                      ..+..+..+...+.......++.++.+++++++++++++++..++.||+||+|+|||+|+++++++++++.|+++++++|
+T Consensus       520 ~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~  599 (664)
+T 5LIL_B          520 IMNSDTIKQTIENTTGTMKLLISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIG  599 (664)
+T ss_dssp             -CCBCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHH
+T ss_pred             EechHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHH
+Confidence            22222222222333333444556666778889999999999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  915 GILGGIVGWFIAYLLQTNVSIITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIRA  983 (985)
+Q Consensus       915 ~ilG~iiG~~l~~~l~~~~~~~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR~  983 (985)
+                      +++|+++|+.+++.+.....   ..+  +.++|+.++..++++++++++++++|+|++.|.+++|.+|+
+T Consensus       600 ~~lg~~~~~~~~~~~~~~~~---~~~--~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LIL_B          600 GVAGILLSVLIGVLFNSFIT---DFS--MDFSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_dssp             HHHHHHHHHHHHHHHHHHCC---SCC--CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCHHHHTC-
+T ss_pred             HHHHHHHHHHHHHHHHHHhh---ccC--ccccHHHHHHHHHHHHHHHHHHHhhHHHHHHhcCHHHHHhc
+Confidence            99999999998887654322   222  34556666667777888899999999999999999999996
+
+
+No 16
+>5LJ7_B MacB; Membrane Protein, ABC Transporter, transport; HET: ATP; 3.25A {Aggregatibacter actinomycetemcomitans}
+Probab=99.67  E-value=1.5e-20  Score=233.09  Aligned_cols=385  Identities=16%  Similarity=0.206  Sum_probs=226.3  Template_Neff=11.400
+
+Q LOKIASV2_39930  525 FIKKYYPVYRINLVRYRRRNLGNIMMFAMTFSFIIFISTSLQMQTNNSAKLFEFQYGSDLVLSNAGTFEQ-----DNVVT  599 (985)
+Q Consensus       525 ~~~~~~~i~~~Nl~r~~rRn~~t~~~~al~~s~ii~~~~~~~~~~~~~~~~~~~~~gaDl~v~~~~~~~~-----~~~~~  599 (985)
+                      .++...+++.+|+.|+++|+..+++.+++++++++++.+...+.........+...+.|+++........     ...++
+T Consensus       269 ~~~~~~~la~~~l~r~~~r~~l~~l~i~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  348 (664)
+T 5LJ7_B          269 QLMEAFRMSVSAIVAHKMRSLLTMLGIIIGITSVVSVVALGNGSQQKILENIRGIGTNTMTIFNGNGFGDRRSRHIQNLK  348 (664)
+T ss_dssp             HHHHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCCCEEEC---------------CCC
+T ss_pred             HHHHHHHHHHHHHHHhhHHHHHHHHHHHHHHHHHHHHHHcChHHHHHHHHHHhhcCCCeEEEECCCCCCCccccceeccc
+Confidence            3444567889999999999988888888877777666665555555554555555567777754432211     22345
+
+
+Q LOKIASV2_39930  600 NELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVGIDER  679 (985)
+Q Consensus       600 ~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~gid~~  679 (985)
+                      .+..+++++.|+|+.+.+..... ...        ..+                           +.......+.|+|++
+T Consensus       349 ~~~~~~l~~~~~v~~~~~~~~~~-~~~--------~~~---------------------------~~~~~~~~~~~~~~~  392 (664)
+T 5LJ7_B          349 ISDANTLSKQSYIQSVTPNTSSS-GIL--------VVG---------------------------NKSFTSANLYGIGEQ  392 (664)
+T ss_dssp             HHHHHHHTTSSSEEEEEEEBCCB-CCE--------ECC---------------------------------CEEEEECTT
+T ss_pred             HhhHHHHhcCCcccccccccccc-eEE--------EEC---------------------------CceeeeEEEEEecCc
+Confidence            66778888889988766543210 000        000                           000112345566666
+
+
+Q LOKIASV2_39930  680 YYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQIT--DLPAEIKITINNPYQEDSYENITTLEVVGVSE  757 (985)
+Q Consensus       680 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~--~~~~~i~i~~~~~~~~~~~~~~~~~~vvgi~~  757 (985)
+                      +.+....++.     .|..... .+...+++.+++++.+++.+...  +.|+.+.+            ....++|+|+.+
+T Consensus       393 ~~~~~~~~~~-----~G~~~~~-~~~~~~~~~ii~~~~~~~~~~~~~~~ig~~i~~------------~~~~~~V~Gi~~  454 (664)
+T 5LJ7_B          393 YFDVEGLKLK-----QGRLLTE-DDVDQSNQVVVLDESAKKAIFANENPLGKTVIF------------NKRPFRVIGVVS  454 (664)
+T ss_dssp             HHHHSCCCEE-----EECCCCH-HHHHTTCCEEEEEHHHHHHHHTTSCCSSCEEEE------------SSCEEEEEEEEC
+T ss_pred             cccccCCeec-----cCccCCH-HHHhccCcEEEecHHHHHHHhCCCCCCCceeEe------------CCeeEEEEEEEe
+Confidence            6543222221     1211110 01112345688888888764311  23343332            124689999987
+
+
+Q LOKIASV2_39930  758 GMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLEKTQDFIENYFGD---EFDFI  834 (985)
+Q Consensus       758 ~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~~~~~~i~~~~~~---~~~~~  834 (985)
+                      ........       .....++++.+.+.+....      +...+.+.++++++.  +.++..+.+++...+   ...+.
+T Consensus       455 ~~~~~~~~-------~~~~~~~~~~~~~~~~~~~------~~~~~~~~i~~~~~~--~~~~~~~~i~~~~~~~~~~~~~~  519 (664)
+T 5LJ7_B          455 DQQLGGFP-------GNSLNLYSPYSTVLNKITG------GSRIGSITVKISDDV--NSTVAEKSLTELLKSLHGKKDFF  519 (664)
+T ss_dssp             CC----------------CEEEEEHHHHHHHTSC------CSCCSEEEEEECSSS--CHHHHHHHHHHHHHC--------
+T ss_pred             cCCCCCCC-------CCCcceeeeHHHhcccccC------CCceeeEEEEecCCC--ChHHHHHHHHHHHHHHhcCCceE
+Confidence            64322110       1123456666666544321      112345666666542  122222333332221   11222
+
+
+Q LOKIASV2_39930  835 LDEATSKINFIEDQNQTQNIIMQTILFFSILVSLFGLIASMYSTMLERMFELGILRAMGLKPHEVRYMLMAEAITIMLSS  914 (985)
+Q Consensus       835 ~~~~~~~~~~~~~~~~~~~~~~~~i~~~~i~i~~~gl~ns~~~sv~ER~rEIGiLRAiG~~~~qi~~m~~~Ea~~i~l~~  914 (985)
+                      ..+..+..+...+.......++.++.+++++++++++++++..++.||+||+|+|||+|+++++++++++.|+++++++|
+T Consensus       520 ~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~  599 (664)
+T 5LJ7_B          520 IMNSDTIKQTIENTTGTMKLLISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIG  599 (664)
+T ss_dssp             -CCBCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHH
+T ss_pred             EechHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHH
+Confidence            22222222222333333444556666778889999999999999999999999999999999999999999999999999
+
+
+Q LOKIASV2_39930  915 GILGGIVGWFIAYLLQTNVSIITEVPASTAVDPFTILATFGISVIISIAGMFLITRKVEKMEVIDVIRA  983 (985)
+Q Consensus       915 ~ilG~iiG~~l~~~l~~~~~~~~~~p~~~~i~~~~il~~~~isii~~ii~~~~p~rk~~k~~iie~lR~  983 (985)
+                      +++|+++|+.+++.+.....   ..+  +.++|+.++..++++++++++++++|+|++.|.+++|.+|+
+T Consensus       600 ~~lg~~~~~~~~~~~~~~~~---~~~--~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LJ7_B          600 GVAGILLSVLIGVLFNSFIT---DFS--MDFSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_dssp             HHHHHHHHHHHHHHHHHHCC---SCC--CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCHHHHTTC
+T ss_pred             HHHHHHHHHHHHHHHHHHhh---ccC--ccccHHHHHHHHHHHHHHHHHHHhhHHHHHHhcCHHHHHhc
+Confidence            99999999998887654322   222  34556666667777888899999999999999999999996
+
+
+No 17
+>5UDF_A Lipoprotein-releasing system transmembrane protein LolE; SSGCID, Acinetobacter baumannii, Lipoprotein-releasing system; 2.35A {Acinetobacter baumannii}
+Probab=94.00  E-value=0.011  Score=64.20  Aligned_cols=142  Identities=15%  Similarity=0.121  Sum_probs=79.0  Template_Neff=10.700
+
+Q LOKIASV2_39930   78 NIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERT  157 (985)
+Q Consensus        78 ~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~  157 (985)
+                      +.. +.+++.|+|+.+.+...........   .    ....+.+.++++........+. ..+.+       |++ +.. 
+T Consensus        40 ~~~-~~l~~~~~V~~v~~~~~~~~~~~~~---~----~~~~~~l~gv~~~~~~~~~~~~-~~~~~-------g~~-~~~-  101 (230)
+T 5UDF_A           40 ELV-KRVENHPHVTGVAPFTQLQGMLTAQ---G----QVAGIMVTGIDPKYEKNVSIIQ-NHIVA-------GSL-DSL-  101 (230)
+T ss_dssp             HHH-HHHHTSTTEEEEEEEEEEEEEEEET---T----EEEEEEEEEECHHHHTTTCSGG-GGEEE-------ECG-GGC-
+T ss_pred             HHH-HHHHcCCCcceEeceEEeeeEEeeC---C----eeEEEEEEeeChhhhcchhHHH-Hhhhc-------CCH-HHh-
+Confidence            344 6677788888887765443332211   1    1123345566654410000011 12223       443 211 
+
+
+Q LOKIASV2_39930  158 DALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSAS----------QEEILIIEYIVEPDLRFSRYESSLILVELPWMQ  227 (985)
+Q Consensus       158 ~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~----------~~~~~~v~~i~~~~~~~~~~~~~~i~~~l~~~q  227 (985)
+                            ..+.++|++++.+|+.+++++||.+......          ...+++|+|+++......   ...++++.+.++
+T Consensus       102 ------~~~~~~ivi~~~la~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~~~~---~~~v~i~~~~~~  172 (230)
+T 5UDF_A          102 ------KKGEFGIVLGKDMADSLGLRLNDSVTLVLPEATPSPAGVVPRFKRFKVVGIFSVGAEVD---SMVGYIALYDAS  172 (230)
+T ss_dssp             ------CTTTCEEEEEHHHHHHTTCCTTCEEEEEECCBCSSTTCBCCEEEEEEEEEEECCCHHHH---TTEEEEEHHHHH
+T ss_pred             ------cCCCCeEEEcHHHHHHhCCCCCCEEEEEecCCCCCCCCCccceeEEEEEEEEEecCeec---ceEEEEEHHHHH
+Confidence                  0124679999999999999999988776543          357899999998753211   224566666666
+
+
+Q LOKIASV2_39930  228 DFLDEPNQINNIYATLENP  246 (985)
+Q Consensus       228 ~~l~~~~~~~~i~~~l~~~  246 (985)
+                      .........+.+.+.++++
+T Consensus       173 ~~~~~~~~~~~i~i~~~~~  191 (230)
+T 5UDF_A          173 TLLRLPDGAQGVRLKLDDI  191 (230)
+T ss_dssp             HHTTCCSCEEEEEEEESCG
+T ss_pred             HHcCCCCCCCEEEEEEcCc
+Confidence            5443222455666666554
+
+
+No 18
+>5UDF_C Lipoprotein-releasing system transmembrane protein LolE; SSGCID, Acinetobacter baumannii, Lipoprotein-releasing system; 2.35A {Acinetobacter baumannii}
+Probab=94.00  E-value=0.011  Score=64.20  Aligned_cols=142  Identities=15%  Similarity=0.121  Sum_probs=79.0  Template_Neff=10.700
+
+Q LOKIASV2_39930   78 NIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERT  157 (985)
+Q Consensus        78 ~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~  157 (985)
+                      +.. +.+++.|+|+.+.+...........   .    ....+.+.++++........+. ..+.+       |++ +.. 
+T Consensus        40 ~~~-~~l~~~~~V~~v~~~~~~~~~~~~~---~----~~~~~~l~gv~~~~~~~~~~~~-~~~~~-------g~~-~~~-  101 (230)
+T 5UDF_C           40 ELV-KRVENHPHVTGVAPFTQLQGMLTAQ---G----QVAGIMVTGIDPKYEKNVSIIQ-NHIVA-------GSL-DSL-  101 (230)
+T ss_dssp             HHH-HHHHTSTTEEEEEEEEEEEEEEEET---T----EEEEEEEEEECHHHHTTTCSGG-GGEEE-------ECG-GGC-
+T ss_pred             HHH-HHHHcCCCcceEeceEEeeeEEeeC---C----eeEEEEEEeeChhhhcchhHHH-Hhhhc-------CCH-HHh-
+Confidence            344 6677788888887765443332211   1    1123345566654410000011 12223       443 211 
+
+
+Q LOKIASV2_39930  158 DALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSAS----------QEEILIIEYIVEPDLRFSRYESSLILVELPWMQ  227 (985)
+Q Consensus       158 ~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~----------~~~~~~v~~i~~~~~~~~~~~~~~i~~~l~~~q  227 (985)
+                            ..+.++|++++.+|+.+++++||.+......          ...+++|+|+++......   ...++++.+.++
+T Consensus       102 ------~~~~~~ivi~~~la~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~~~~---~~~v~i~~~~~~  172 (230)
+T 5UDF_C          102 ------KKGEFGIVLGKDMADSLGLRLNDSVTLVLPEATPSPAGVVPRFKRFKVVGIFSVGAEVD---SMVGYIALYDAS  172 (230)
+T ss_dssp             ------CTTTCEEEEEHHHHHHTTCCTTCEEEEEEEEECSSTTCEEEEEEEEEEEEEECCCHHHH---TTEEEEEHHHHH
+T ss_pred             ------cCCCCeEEEcHHHHHHhCCCCCCEEEEEecCCCCCCCCCccceeEEEEEEEEEecCeec---ceEEEEEHHHHH
+Confidence                  0124679999999999999999988776543          357899999998753211   224566666666
+
+
+Q LOKIASV2_39930  228 DFLDEPNQINNIYATLENP  246 (985)
+Q Consensus       228 ~~l~~~~~~~~i~~~l~~~  246 (985)
+                      .........+.+.+.++++
+T Consensus       173 ~~~~~~~~~~~i~i~~~~~  191 (230)
+T 5UDF_C          173 TLLRLPDGAQGVRLKLDDI  191 (230)
+T ss_dssp             HHTTCCSCEEEEEEEESCG
+T ss_pred             HHcCCCCCCCEEEEEEcCc
+Confidence            5443222455666666554
+
+
+No 19
+>5NAA_B Lipoprotein-releasing system transmembrane protein LolC; Periplasmic domain, Protein transport; 1.88A {Escherichia coli}
+Probab=93.45  E-value=0.019  Score=62.33  Aligned_cols=77  Identities=13%  Similarity=0.199  Sum_probs=51.8  Template_Neff=10.800
+
+Q LOKIASV2_39930  167 EGKCVVTKSAARLFNLQINDEITIKSAS-----------QEEILIIEYIVEPDLRFSRYESSLILVELPWMQDFLDEP-N  234 (985)
+Q Consensus       167 ~g~~vi~~~~A~~~~~~vGD~i~i~~~~-----------~~~~~~v~~i~~~~~~~~~~~~~~i~~~l~~~q~~l~~~-~  234 (985)
+                      +++|+|++.+|+.+++++||++......           ...+++|+|+++......   ...++++.+.++..+... +
+T Consensus        94 ~~~vvI~~~~a~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~~~~---~~~~~i~~~~~~~~~~~~~~  170 (230)
+T 5NAA_B           94 KYNVILGEQLASQLGVNRGDQIRVMVPSASQFTPMGRIPSQRLFNVIGTFAANSEVD---GYEMLVNIEDASRLMRYPAG  170 (230)
+T ss_dssp             SCEEEEEHHHHHHHTCCTTCEEEEEEEEEEECCTTCCEEEEEEEEEEEEECCSSGGG---GTEEEEEHHHHHHHTTCCTT
+T ss_pred             ceeEEeeHHHHHHhCCCCCCeEEEEeCCcccCCCCCCCCceeEEEEEEEEecCCccc---ceEEEEeHHHHHHHhCCCCC
+Confidence            5669999999999999999988765433           357899999998762111   224566666666554322 2
+
+
+Q LOKIASV2_39930  235 QINNIYATLENP  246 (985)
+Q Consensus       235 ~~~~i~~~l~~~  246 (985)
+                      ..+.+.+.++++
+T Consensus       171 ~~~~i~i~~~~~  182 (230)
+T 5NAA_B          171 NITGWRLWLDEP  182 (230)
+T ss_dssp             CBSEEEEEESSG
+T ss_pred             CeeEEEEEECCh
+Confidence            355667766554
+
+
+No 20
+>6F3Z_A Lipoprotein-releasing system transmembrane protein LolC; Lipoprotein trafficking, PROTEIN TRANSPORT; 2.0A {Escherichia coli K-12}
+Probab=93.45  E-value=0.019  Score=62.33  Aligned_cols=77  Identities=13%  Similarity=0.199  Sum_probs=51.8  Template_Neff=10.800
+
+Q LOKIASV2_39930  167 EGKCVVTKSAARLFNLQINDEITIKSAS-----------QEEILIIEYIVEPDLRFSRYESSLILVELPWMQDFLDEP-N  234 (985)
+Q Consensus       167 ~g~~vi~~~~A~~~~~~vGD~i~i~~~~-----------~~~~~~v~~i~~~~~~~~~~~~~~i~~~l~~~q~~l~~~-~  234 (985)
+                      +++|+|++.+|+.+++++||++......           ...+++|+|+++......   ...++++.+.++..+... +
+T Consensus        94 ~~~vvI~~~~a~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~~~~---~~~~~i~~~~~~~~~~~~~~  170 (230)
+T 6F3Z_A           94 KYNVILGEQLASQLGVNRGDQIRVMVPSASQFTPMGRIPSQRLFNVIGTFAANSEVD---GYEMLVNIEDASRLMRYPAG  170 (230)
+T ss_dssp             TCEEEEEHHHHHHHTCCTTCEEEEEEEEEEEEETTEEEEEEEEEEEEEEECCSSGGG---GTEEEEEHHHHHHHTTCCTT
+T ss_pred             ceeEEeeHHHHHHhCCCCCCeEEEEeCCcccCCCCCCCCceeEEEEEEEEecCCccc---ceEEEEeHHHHHHHhCCCCC
+Confidence            5669999999999999999988765433           357899999998762111   224566666666554322 2
+
+
+Q LOKIASV2_39930  235 QINNIYATLENP  246 (985)
+Q Consensus       235 ~~~~i~~~l~~~  246 (985)
+                      ..+.+.+.++++
+T Consensus       171 ~~~~i~i~~~~~  182 (230)
+T 6F3Z_A          171 NITGWRLWLDEP  182 (230)
+T ss_dssp             CBSEEEEEESSG
+T ss_pred             CeeEEEEEECCh
+Confidence            355667766554
+
+
+No 21
+>5F9Q_A Macrolide export ATP-binding/permease protein YknZ; Bacillus amyloliquefaciens, SDP transporter YknWXYZ; HET: MSE; 2.044A {Bacillus amyloliquefaciens}
+Probab=92.22  E-value=0.047  Score=58.06  Aligned_cols=174  Identities=16%  Similarity=0.173  Sum_probs=91.9  Template_Neff=10.600
+
+Q LOKIASV2_39930  580 YGSDLVLSNAGTFEQDNVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESY  659 (985)
+Q Consensus       580 ~gaDl~v~~~~~~~~~~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~  659 (985)
+                      ..+|+.|.....  ....++.+..++|+++|||+.+++.... ....        ..              +        
+T Consensus        10 ~~~d~~i~~~~~--~~~~~~~~~~~~l~~~p~V~~v~~~~~~-~~~~--------~~--------------~--------   56 (199)
+T 5F9Q_A           10 SDEELTANPNAL--QEASFTEEDINGLKGVDGVKQVVASAVK-SMTA--------RY--------------H--------   56 (199)
+T ss_dssp             CHHHHTTCC-------CCBCHHHHHHHHTSTTEEEEEEEEEE-EEEE--------EE--------------T--------
+T ss_pred             CCccccCCCChh--hccCCCHHHHHHhcCCCCeeEEEEeEec-ceEE--------Ee--------------C--------
+Confidence            467888876532  2334667788999999999877654311 0000        00              0        
+
+
+Q LOKIASV2_39930  660 IGDIGGYQEFYSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQIT--DLPAEIKITINN  737 (985)
+Q Consensus       660 i~d~~~~~~~~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~--~~~~~i~i~~~~  737 (985)
+                            -+.....++|+|+++++.....+.     .|......+ .-...+.|+|++.+|+.++..  ..|+.+.+.   
+T Consensus        57 ------~~~~~~~~~gv~~~~~~~~~~~~~-----~G~~~~~~~-~~~~~~~iiI~~~~a~~l~~~~~~iG~~i~l~---  121 (199)
+T 5F9Q_A           57 ------EEDTDITLNGINSGYMDVKKLDVQ-----DGRTFTDND-FLSGKRAGIISKKMAEKLFGKTSPLGKIVWAG---  121 (199)
+T ss_dssp             ------TEEEEEEEEEECHHHHHHTTCCEE-----EECCCCHHH-HHHTCSEEEECHHHHHHHHTTSCCTTCEEEET---
+T ss_pred             ------CcceEEEEEEECCChhhhcCCccc-----cCCCCCHHH-HhcCCcEEEEeHHHHHHHHCCCCCCCCEEEEC---
+Confidence                  011234677888888654221211     222111000 001357899999999998763  345555442   
+
+
+Q LOKIASV2_39930  738 PYQEDSYENITTLEVVGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLE  817 (985)
+Q Consensus       738 ~~~~~~~~~~~~~~vvgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~  817 (985)
+                               ...++|+|+.+..++..        ......++++.+.+.++...  +     ....+.++++++.  +.+
+T Consensus       122 ---------~~~~~V~Gv~~~~~~~~--------~~~~~~i~~~~~~~~~~~~~--~-----~~~~i~i~l~~~~--~~~  175 (199)
+T 5F9Q_A          122 ---------GQPVEVIGVLKEESGFL--------SLGLSEMYVPFNMLKTSFGT--N-----DYSNVSVQTESAD--QIK  175 (199)
+T ss_dssp             ---------TEEEEEEEEECC---------------CCCEEEEEHHHHHHHTCC--C-----SBSEEEEEESSGG--GHH
+T ss_pred             ---------CEEEEEEEEEccccCcc--------ccCCceEEEEcceeehhcCC--C-----cceEEEEEeCCHH--HHH
+Confidence                     24689999998765431        01234577888887765421  1     2356777877643  233
+
+
+Q LOKIASV2_39930  818 KTQDFIENYF  827 (985)
+Q Consensus       818 ~~~~~i~~~~  827 (985)
+                      .+++.+++.+
+T Consensus       176 ~~~~~i~~~~  185 (199)
+T 5F9Q_A          176 STGKEAARLL  185 (199)
+T ss_dssp             HHHHHHHHHH
+T ss_pred             HHHHHHHHHH
+Confidence            3444444433
+
+
+No 22
+>5NAA_B Lipoprotein-releasing system transmembrane protein LolC; Periplasmic domain, Protein transport; 1.88A {Escherichia coli}
+Probab=91.59  E-value=0.066  Score=58.22  Aligned_cols=172  Identities=16%  Similarity=0.203  Sum_probs=94.0  Template_Neff=10.800
+
+Q LOKIASV2_39930  572 SAKLFEFQYGSDLVLSNAGTFEQDNVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFG  651 (985)
+Q Consensus       572 ~~~~~~~~~gaDl~v~~~~~~~~~~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~  651 (985)
+                      ...++.... +|+.+...+.    ...+.+..+.++++|+|+.+.|..... ....       .                
+T Consensus         8 ~~~~~~~~~-~d~~i~~~~~----~~~~~~~~~~l~~~~~V~~~~~~~~~~-~~~~-------~----------------   58 (230)
+T 5NAA_B            8 LQNNILGLM-PQAILSSEHG----SLNPQQLPETAVKLDGVNRVAPITTGD-VVLQ-------S----------------   58 (230)
+T ss_dssp             CCCCCTTSS-CSEEEEESSS----SBCTTTSCGGGCCCTTEEEEEEEEEEE-EEEE-------C----------------
+T ss_pred             HHHHhhccc-CCEEEEecCC----CCChHhchHHHhcCCCcceEEeEEEee-eEEe-------e----------------
+Confidence            344445444 8888876432    112456778889999998876654321 0000       0                
+
+
+Q LOKIASV2_39930  652 QLPKYESYIGDIGGYQEFYSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEI  731 (985)
+Q Consensus       652 ~~~k~~~~i~d~~~~~~~~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i  731 (985)
+                                   .-......+.|+|++..+..+....     .+..    .......+.|+|++.+|+.+++ ..|+.+
+T Consensus        59 -------------~~~~~~~~v~g~~~~~~~~~~~~~~-----~g~~----~~~~~~~~~vvI~~~~a~~l~~-~~Gd~i  115 (230)
+T 5NAA_B           59 -------------ARSVAVGVMLGIDPAQKDPLTPYLV-----NVKQ----TDLEPGKYNVILGEQLASQLGV-NRGDQI  115 (230)
+T ss_dssp             -------------SSCEEEEEEEEECTTSCCTTGGGEE-----SCCG----GGCCTTSCEEEEEHHHHHHHTC-CTTCEE
+T ss_pred             -------------CCceeEEEEEeeChhhcccchhhee-----cccc----ccCCCCceeEEeeHHHHHHhCC-CCCCeE
+Confidence                         0011234566777665433222111     1110    0112356899999999999998 477877
+
+
+Q LOKIASV2_39930  732 KITINNPYQE---DSYENITTLEVVGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINL  808 (985)
+Q Consensus       732 ~i~~~~~~~~---~~~~~~~~~~vvgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l  808 (985)
+                      .+........   ........++|+|+.+..+.           ..+..++++.+++.++.....     ..++.+.+++
+T Consensus       116 ~l~~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~~-----------~~~~~~~i~~~~~~~~~~~~~-----~~~~~i~i~~  179 (230)
+T 5NAA_B          116 RVMVPSASQFTPMGRIPSQRLFNVIGTFAANSE-----------VDGYEMLVNIEDASRLMRYPA-----GNITGWRLWL  179 (230)
+T ss_dssp             EEEEEEEEECCTTCCEEEEEEEEEEEEECCSSG-----------GGGTEEEEEHHHHHHHTTCCT-----TCBSEEEEEE
+T ss_pred             EEEeCCcccCCCCCCCCceeEEEEEEEEecCCc-----------ccceEEEEeHHHHHHHhCCCC-----CCeeEEEEEE
+Confidence            7765432100   01112356899999886421           123457888888888764311     1245566776
+
+
+Q LOKIASV2_39930  809 RDN  811 (985)
+Q Consensus       809 ~d~  811 (985)
+                      ++.
+T Consensus       180 ~~~  182 (230)
+T 5NAA_B          180 DEP  182 (230)
+T ss_dssp             SSG
+T ss_pred             CCh
+Confidence            553
+
+
+No 23
+>6F3Z_A Lipoprotein-releasing system transmembrane protein LolC; Lipoprotein trafficking, PROTEIN TRANSPORT; 2.0A {Escherichia coli K-12}
+Probab=91.59  E-value=0.066  Score=58.22  Aligned_cols=172  Identities=16%  Similarity=0.203  Sum_probs=94.0  Template_Neff=10.800
+
+Q LOKIASV2_39930  572 SAKLFEFQYGSDLVLSNAGTFEQDNVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFG  651 (985)
+Q Consensus       572 ~~~~~~~~~gaDl~v~~~~~~~~~~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~  651 (985)
+                      ...++.... +|+.+...+.    ...+.+..+.++++|+|+.+.|..... ....       .                
+T Consensus         8 ~~~~~~~~~-~d~~i~~~~~----~~~~~~~~~~l~~~~~V~~~~~~~~~~-~~~~-------~----------------   58 (230)
+T 6F3Z_A            8 LQNNILGLM-PQAILSSEHG----SLNPQQLPETAVKLDGVNRVAPITTGD-VVLQ-------S----------------   58 (230)
+T ss_dssp             HHHHTGGGS-CCEEEEESSS----SBCTTTSCGGGCCCTTEEEEEEEEEEE-EEEE-------C----------------
+T ss_pred             HHHHhhccc-CCEEEEecCC----CCChHhchHHHhcCCCcceEEeEEEee-eEEe-------e----------------
+Confidence            344445444 8888876432    112456778889999998876654321 0000       0                
+
+
+Q LOKIASV2_39930  652 QLPKYESYIGDIGGYQEFYSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEI  731 (985)
+Q Consensus       652 ~~~k~~~~i~d~~~~~~~~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i  731 (985)
+                                   .-......+.|+|++..+..+....     .+..    .......+.|+|++.+|+.+++ ..|+.+
+T Consensus        59 -------------~~~~~~~~v~g~~~~~~~~~~~~~~-----~g~~----~~~~~~~~~vvI~~~~a~~l~~-~~Gd~i  115 (230)
+T 6F3Z_A           59 -------------ARSVAVGVMLGIDPAQKDPLTPYLV-----NVKQ----TDLEPGKYNVILGEQLASQLGV-NRGDQI  115 (230)
+T ss_dssp             -------------SSCEEEEEEEEECTTSCCTTGGGEE-----SCCG----GGCCTTTCEEEEEHHHHHHHTC-CTTCEE
+T ss_pred             -------------CCceeEEEEEeeChhhcccchhhee-----cccc----ccCCCCceeEEeeHHHHHHhCC-CCCCeE
+Confidence                         0011234566777665433222111     1110    0112356899999999999998 477877
+
+
+Q LOKIASV2_39930  732 KITINNPYQE---DSYENITTLEVVGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINL  808 (985)
+Q Consensus       732 ~i~~~~~~~~---~~~~~~~~~~vvgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l  808 (985)
+                      .+........   ........++|+|+.+..+.           ..+..++++.+++.++.....     ..++.+.+++
+T Consensus       116 ~l~~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~~-----------~~~~~~~i~~~~~~~~~~~~~-----~~~~~i~i~~  179 (230)
+T 6F3Z_A          116 RVMVPSASQFTPMGRIPSQRLFNVIGTFAANSE-----------VDGYEMLVNIEDASRLMRYPA-----GNITGWRLWL  179 (230)
+T ss_dssp             EEEEEEEEEEETTEEEEEEEEEEEEEEECCSSG-----------GGGTEEEEEHHHHHHHTTCCT-----TCBSEEEEEE
+T ss_pred             EEEeCCcccCCCCCCCCceeEEEEEEEEecCCc-----------ccceEEEEeHHHHHHHhCCCC-----CCeeEEEEEE
+Confidence            7765432100   01112356899999886421           123457888888888764311     1245566776
+
+
+Q LOKIASV2_39930  809 RDN  811 (985)
+Q Consensus       809 ~d~  811 (985)
+                      ++.
+T Consensus       180 ~~~  182 (230)
+T 6F3Z_A          180 DEP  182 (230)
+T ss_dssp             SSG
+T ss_pred             CCh
+Confidence            553
+
+
+No 24
+>3FTJ_A Macrolide export ATP-binding/permease protein macB; macrolide-specific pump, ABC-type transporter, heat; 1.999A {Actinobacillus actinomycetemcomitans}
+Probab=90.50  E-value=0.11  Score=55.96  Aligned_cols=163  Identities=16%  Similarity=0.169  Sum_probs=85.8  Template_Neff=11.300
+
+Q LOKIASV2_39930  596 NVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVG  675 (985)
+Q Consensus       596 ~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~g  675 (985)
+                      ..++.+.+++|++.|||+.+.+..... ..        ...              +             +-......++|
+T Consensus        33 ~~~~~~~~~~l~~~~~V~~v~~~~~~~-~~--------~~~--------------~-------------~~~~~~~~~~g   76 (226)
+T 3FTJ_A           33 QNLKISDANTLSKQSYIQSVTPNTSSS-GI--------LVV--------------G-------------NKSFTSANLYG   76 (226)
+T ss_dssp             CCCBHHHHHHHHTSTTEEEEEEEEEEE-EE--------EEE--------------T-------------TEEEEEEEEEE
+T ss_pred             cccCHHHHHHHhcCCCeeEEcceeccc-eE--------EEe--------------C-------------CceeeeEEEEE
+Confidence            457788899999999999877654210 00        000              0             00012245678
+
+
+Q LOKIASV2_39930  676 IDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQIT--DLPAEIKITINNPYQEDSYENITTLEVV  753 (985)
+Q Consensus       676 id~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~--~~~~~i~i~~~~~~~~~~~~~~~~~~vv  753 (985)
+                      +|+++.+.....+.     .|....... .-...+.|+|++.+|+.++..  ..|+.+.+.            ...++|+
+T Consensus        77 ~~~~~~~~~~~~~~-----~g~~~~~~~-~~~~~~~vvi~~~~a~~l~~~~~~vG~~i~~~------------~~~~~V~  138 (226)
+T 3FTJ_A           77 IGEQYFDVEGLKLK-----QGRLLTEDD-VDQSNQVVVLDESAKKAIFANENPLGKTVIFN------------KRPFRVI  138 (226)
+T ss_dssp             ECTTHHHHHTCCEE-----EECCCCHHH-HHHTCCEEEEEHHHHHHHHTTSCCTTCEEEET------------TEEEEEE
+T ss_pred             eCCCceeecCCeec-----cCCcCCHHH-HhcCCcEEEEcHHHHHHhcCCCCCCCCEEEEC------------CEEEEEE
+Confidence            88887655332222     121111000 001357899999999998752  345544431            2468999
+
+
+Q LOKIASV2_39930  754 GVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLEKTQDFIENYF  827 (985)
+Q Consensus       754 gi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~~~~~~i~~~~  827 (985)
+                      ||.+..... .+.      ..+..++++.+++.++....      .....+.++++++.  +.+.+.+.+++.+
+T Consensus       139 Gi~~~~~~~-~~~------~~~~~~~~~~~~~~~~~~~~------~~~~~i~i~~~~~~--~~~~~~~~i~~~~  197 (226)
+T 3FTJ_A          139 GVVSDQQLG-GFP------GNSLNLYSPYSTVLNKITGG------SRIGSITVKISDDV--NSTVAEKSLTELL  197 (226)
+T ss_dssp             EEECCC---------------CCEEEEEHHHHCCCCCCS------SBCSEEEEEECTTS--CHHHHHHHHHHHH
+T ss_pred             EEEeccCCC-CCC------CCcceEEEEchHHHHhhhCC------CcceEEEEEEcCCC--ChHHHHHHHHHHH
+Confidence            999875421 010      11234677777776654211      12456778877642  2334444454444
+
+
+No 25
+>5UDF_A Lipoprotein-releasing system transmembrane protein LolE; SSGCID, Acinetobacter baumannii, Lipoprotein-releasing system; 2.35A {Acinetobacter baumannii}
+Probab=90.47  E-value=0.11  Score=56.57  Aligned_cols=181  Identities=16%  Similarity=0.176  Sum_probs=98.3  Template_Neff=10.700
+
+Q LOKIASV2_39930  580 YGSDLVLSNAGTFEQDNVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESY  659 (985)
+Q Consensus       580 ~gaDl~v~~~~~~~~~~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~  659 (985)
+                      ..+|++|.....    ...+.+..++++++|||+.+.|.......         ...+                      
+T Consensus        23 ~~~d~~i~~~~~----~~~~~~~~~~l~~~~~V~~v~~~~~~~~~---------~~~~----------------------   67 (230)
+T 5UDF_A           23 MVPQATVSSTQI----LTDWPELVKRVENHPHVTGVAPFTQLQGM---------LTAQ----------------------   67 (230)
+T ss_dssp             HSCCEEEEEEEE----ETTHHHHHHHHHTSTTEEEEEEEEEEEEE---------EEET----------------------
+T ss_pred             cCCcEEEEeCCC----cCCcHHHHHHHHcCCCcceEeceEEeeeE---------EeeC----------------------
+Confidence            349999976421    12456788899999999987776532100         0000                      
+
+
+Q LOKIASV2_39930  660 IGDIGGYQEFYSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPY  739 (985)
+Q Consensus       660 i~d~~~~~~~~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~  739 (985)
+                            .......+.|+|+++......  +......|.    ......+.+.|+|++.+|+.+++ ..|+.+.+...+..
+T Consensus        68 ------~~~~~~~l~gv~~~~~~~~~~--~~~~~~~g~----~~~~~~~~~~ivi~~~la~~l~~-~~Gd~i~l~~~~~~  134 (230)
+T 5UDF_A           68 ------GQVAGIMVTGIDPKYEKNVSI--IQNHIVAGS----LDSLKKGEFGIVLGKDMADSLGL-RLNDSVTLVLPEAT  134 (230)
+T ss_dssp             ------TEEEEEEEEEECHHHHTTTCS--GGGGEEEEC----GGGCCTTTCEEEEEHHHHHHTTC-CTTCEEEEEECCBC
+T ss_pred             ------CeeEEEEEEeeChhhhcchhH--HHHhhhcCC----HHHhcCCCCeEEEcHHHHHHhCC-CCCCEEEEEecCCC
+Confidence                  001123456777665432110  000001111    00111246899999999999987 47788887654321
+
+
+Q LOKIASV2_39930  740 QE--DSYENITTLEVVGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLE  817 (985)
+Q Consensus       740 ~~--~~~~~~~~~~vvgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~  817 (985)
+                      ..  ........++|+|+.+..+.           ..+..++++.+++.++++...      .++.+.+++++..  +.+
+T Consensus       135 ~~~~~~~~~~~~~~V~Gi~~~~~~-----------~~~~~v~i~~~~~~~~~~~~~------~~~~i~i~~~~~~--~~~  195 (230)
+T 5UDF_A          135 PSPAGVVPRFKRFKVVGIFSVGAE-----------VDSMVGYIALYDASTLLRLPD------GAQGVRLKLDDIF--AAP  195 (230)
+T ss_dssp             SSTTCBCCEEEEEEEEEEECCCHH-----------HHTTEEEEEHHHHHHHTTCCS------CEEEEEEEESCGG--GHH
+T ss_pred             CCCCCCccceeEEEEEEEEEecCe-----------ecceEEEEEHHHHHHHcCCCC------CCCEEEEEEcCcc--chH
+Confidence            10  00112457889999886431           123467889999888764311      2456777776532  334
+
+
+Q LOKIASV2_39930  818 KTQDFIENYF  827 (985)
+Q Consensus       818 ~~~~~i~~~~  827 (985)
+                      .+.+.+++.+
+T Consensus       196 ~~~~~i~~~~  205 (230)
+T 5UDF_A          196 QVADDIVKNL  205 (230)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHhC
+Confidence            4455555544
+
+
+No 26
+>5UDF_C Lipoprotein-releasing system transmembrane protein LolE; SSGCID, Acinetobacter baumannii, Lipoprotein-releasing system; 2.35A {Acinetobacter baumannii}
+Probab=90.47  E-value=0.11  Score=56.57  Aligned_cols=181  Identities=16%  Similarity=0.176  Sum_probs=98.3  Template_Neff=10.700
+
+Q LOKIASV2_39930  580 YGSDLVLSNAGTFEQDNVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESY  659 (985)
+Q Consensus       580 ~gaDl~v~~~~~~~~~~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~  659 (985)
+                      ..+|++|.....    ...+.+..++++++|||+.+.|.......         ...+                      
+T Consensus        23 ~~~d~~i~~~~~----~~~~~~~~~~l~~~~~V~~v~~~~~~~~~---------~~~~----------------------   67 (230)
+T 5UDF_C           23 MVPQATVSSTQI----LTDWPELVKRVENHPHVTGVAPFTQLQGM---------LTAQ----------------------   67 (230)
+T ss_dssp             TSCCEEEEEEEE----ETTHHHHHHHHHTSTTEEEEEEEEEEEEE---------EEET----------------------
+T ss_pred             cCCcEEEEeCCC----cCCcHHHHHHHHcCCCcceEeceEEeeeE---------EeeC----------------------
+Confidence            349999976421    12456788899999999987776532100         0000                      
+
+
+Q LOKIASV2_39930  660 IGDIGGYQEFYSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPY  739 (985)
+Q Consensus       660 i~d~~~~~~~~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~  739 (985)
+                            .......+.|+|+++......  +......|.    ......+.+.|+|++.+|+.+++ ..|+.+.+...+..
+T Consensus        68 ------~~~~~~~l~gv~~~~~~~~~~--~~~~~~~g~----~~~~~~~~~~ivi~~~la~~l~~-~~Gd~i~l~~~~~~  134 (230)
+T 5UDF_C           68 ------GQVAGIMVTGIDPKYEKNVSI--IQNHIVAGS----LDSLKKGEFGIVLGKDMADSLGL-RLNDSVTLVLPEAT  134 (230)
+T ss_dssp             ------TEEEEEEEEEECHHHHTTTCS--GGGGEEEEC----GGGCCTTTCEEEEEHHHHHHTTC-CTTCEEEEEEEEEC
+T ss_pred             ------CeeEEEEEEeeChhhhcchhH--HHHhhhcCC----HHHhcCCCCeEEEcHHHHHHhCC-CCCCEEEEEecCCC
+Confidence                  001123456777665432110  000001111    00111246899999999999987 47788887654321
+
+
+Q LOKIASV2_39930  740 QE--DSYENITTLEVVGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDNSLENLE  817 (985)
+Q Consensus       740 ~~--~~~~~~~~~~vvgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~~~~~~~  817 (985)
+                      ..  ........++|+|+.+..+.           ..+..++++.+++.++++...      .++.+.+++++..  +.+
+T Consensus       135 ~~~~~~~~~~~~~~V~Gi~~~~~~-----------~~~~~v~i~~~~~~~~~~~~~------~~~~i~i~~~~~~--~~~  195 (230)
+T 5UDF_C          135 PSPAGVVPRFKRFKVVGIFSVGAE-----------VDSMVGYIALYDASTLLRLPD------GAQGVRLKLDDIF--AAP  195 (230)
+T ss_dssp             SSTTCEEEEEEEEEEEEEECCCHH-----------HHTTEEEEEHHHHHHHTTCCS------CEEEEEEEESCGG--GHH
+T ss_pred             CCCCCCccceeEEEEEEEEEecCe-----------ecceEEEEEHHHHHHHcCCCC------CCCEEEEEEcCcc--chH
+Confidence            10  00112457889999886431           123467889999888764311      2456777776532  334
+
+
+Q LOKIASV2_39930  818 KTQDFIENYF  827 (985)
+Q Consensus       818 ~~~~~i~~~~  827 (985)
+                      .+.+.+++.+
+T Consensus       196 ~~~~~i~~~~  205 (230)
+T 5UDF_C          196 QVADDIVKNL  205 (230)
+T ss_dssp             HHHHHHHHTS
+T ss_pred             HHHHHHHHhC
+Confidence            4455555544
+
+
+No 27
+>5F9Q_A Macrolide export ATP-binding/permease protein YknZ; Bacillus amyloliquefaciens, SDP transporter YknWXYZ; HET: MSE; 2.044A {Bacillus amyloliquefaciens}
+Probab=87.89  E-value=0.26  Score=52.42  Aligned_cols=139  Identities=11%  Similarity=0.124  Sum_probs=73.0  Template_Neff=10.600
+
+Q LOKIASV2_39930   82 TNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYERTDALY  161 (985)
+Q Consensus        82 ~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~~~~~~~  161 (985)
+                      +.+++.|+|+.+.+...........   +    ....+.+.++++.+   +..+. ..+..       |+. +...    
+T Consensus        32 ~~l~~~p~V~~v~~~~~~~~~~~~~---~----~~~~~~~~gv~~~~---~~~~~-~~~~~-------G~~-~~~~----   88 (199)
+T 5F9Q_A           32 NGLKGVDGVKQVVASAVKSMTARYH---E----EDTDITLNGINSGY---MDVKK-LDVQD-------GRT-FTDN----   88 (199)
+T ss_dssp             HHHHTSTTEEEEEEEEEEEEEEEET---T----EEEEEEEEEECHHH---HHHTT-CCEEE-------ECC-CCHH----
+T ss_pred             HHhcCCCCeeEEEEeEecceEEEeC---C----cceEEEEEEECCCh---hhhcC-Ccccc-------CCC-CCHH----
+Confidence            5677788888776654332221111   1    11234455666655   44333 34444       543 3211    
+
+
+Q LOKIASV2_39930  162 QGPIPEGKCVVTKSAARLFNL---QINDEITIKSASQEEILIIEYIVEPDLRFSRYESSLILVELPWMQDFLDEPNQINN  238 (985)
+Q Consensus       162 ~g~~~~g~~vi~~~~A~~~~~---~vGD~i~i~~~~~~~~~~v~~i~~~~~~~~~~~~~~i~~~l~~~q~~l~~~~~~~~  238 (985)
+                      +....+++++|++.+|++++.   ++|+.+    .....+++|+|+++............++++.+.+..... ......
+T Consensus        89 ~~~~~~~~iiI~~~~a~~l~~~~~~iG~~i----~l~~~~~~V~Gv~~~~~~~~~~~~~~i~~~~~~~~~~~~-~~~~~~  163 (199)
+T 5F9Q_A           89 DFLSGKRAGIISKKMAEKLFGKTSPLGKIV----WAGGQPVEVIGVLKEESGFLSLGLSEMYVPFNMLKTSFG-TNDYSN  163 (199)
+T ss_dssp             HHHHTCSEEEECHHHHHHHHTTSCCTTCEE----EETTEEEEEEEEECC-------CCCEEEEEHHHHHHHTC-CCSBSE
+T ss_pred             HHhcCCcEEEEeHHHHHHHHCCCCCCCCEE----EECCEEEEEEEEEccccCccccCCceEEEEcceeehhcC-CCcceE
+Confidence            111124679999999999887   455544    444689999999987543110012335556555543322 123456
+
+
+Q LOKIASV2_39930  239 IYATLENPER  248 (985)
+Q Consensus       239 i~~~l~~~~~  248 (985)
+                      +.++++++.+
+T Consensus       164 i~i~l~~~~~  173 (199)
+T 5F9Q_A          164 VSVQTESADQ  173 (199)
+T ss_dssp             EEEEESSGGG
+T ss_pred             EEEEeCCHHH
+Confidence            7777765543
+
+
+No 28
+>5LJ8_A Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; 1.95A {Escherichia coli K-12}
+Probab=84.69  E-value=0.54  Score=50.61  Aligned_cols=148  Identities=12%  Similarity=0.176  Sum_probs=83.3  Template_Neff=10.400
+
+Q LOKIASV2_39930  596 NVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVG  675 (985)
+Q Consensus       596 ~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~g  675 (985)
+                      ..++.+..++|+++|||+.+++.....    ..     ..                    +    +    -......++|
+T Consensus        22 ~~l~~~~~~~l~~~p~V~~v~~~~~~~----~~-----~~--------------------~----~----~~~~~~~~~g   64 (209)
+T 5LJ8_A           22 QALKYDDLIAIQKQPWVASATPAVSQN----LR-----LR--------------------Y----N----NVDVAASANG   64 (209)
+T ss_pred             CCCCHHHHHHHHcCCCeeEeeceeecC----eE-----EE--------------------E----C----CEEEEEEEEE
+Confidence            346777889999999999887764210    00     00                    0    0    0112346788
+
+
+Q LOKIASV2_39930  676 IDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQIT---DLPAEIKITINNPYQEDSYENITTLEV  752 (985)
+Q Consensus       676 id~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~---~~~~~i~i~~~~~~~~~~~~~~~~~~v  752 (985)
+                      +|+++.+.....+.     .|....... .-...+.|+|++.+|+.++..   ..|+.+.+.            ...++|
+T Consensus        65 vd~~~~~~~~~~~~-----~G~~~~~~~-~~~~~~~vvi~~~~a~~l~~~~~~~iG~~i~l~------------~~~~~V  126 (209)
+T 5LJ8_A           65 VSGDYFNVYGMTFS-----EGNTFNQEQ-LNGRAQVVVLDSNTRRQLFPHKADVVGEVILVG------------NMPARV  126 (209)
+T ss_pred             eCcchHHHhCCEEe-----eCCcCChhh-ccCCCCEEEEcHHHHHHhcCCCCCCCCCEEEEC------------CEEEEE
+Confidence            99888765332221     222111000 001357899999999998863   244444331            246899
+
+
+Q LOKIASV2_39930  753 VGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDN  811 (985)
+Q Consensus       753 vgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~  811 (985)
+                      +||.+.......       ......++++.+++.+++...      .....+.++++++
+T Consensus       127 ~GV~~~~~~~~~-------~~~~~~~~v~~~~~~~~~~~~------~~~~~i~v~~~~~  172 (209)
+T 5LJ8_A          127 IGVAEEKQSMFG-------SSKVLRVWLPYSTMSGRVMGQ------SWLNSITVRVKEG  172 (209)
+T ss_pred             EEEEcCCCCCCC-------CCCCCeEEEEhHHHHHHhCCC------CcccEEEEEECCC
+Confidence            999987664221       011235778888877664311      1235667777764
+
+
+No 29
+>5LJ8_B Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; 1.95A {Escherichia coli K-12}
+Probab=82.59  E-value=0.78  Score=49.33  Aligned_cols=148  Identities=12%  Similarity=0.196  Sum_probs=82.3  Template_Neff=10.500
+
+Q LOKIASV2_39930  596 NVVTNELLEELDNLPGIATAAPINTNSPIDFTKITSAIFQAGEEGFESIDFGRIFGQLPKYESYIGDIGGYQEFYSTLVG  675 (985)
+Q Consensus       596 ~~~~~~~~~~l~~ipgV~~~~~v~~~~~~d~~~~~~~~~~~~~~~~~~~~~~~i~~~~~k~~~~i~d~~~~~~~~~~l~g  675 (985)
+                      ..++.+..++|+++|||+.+.+..... ..   +     .          .              ++    ......++|
+T Consensus        22 ~~l~~~~~~~l~~~p~V~~v~~~~~~~-~~---~-----~----------~--------------~~----~~~~~~~~g   64 (209)
+T 5LJ8_B           22 QALKYDDLIAIQKQPWVASATPAVSQN-LR---L-----R----------Y--------------NN----VDVAASANG   64 (209)
+T ss_dssp             TSSCHHHHHHHHTSTTEEEEEEEEEEE-EE---E-----E----------E--------------TT----EEEEEEEEE
+T ss_pred             cCCCHHHHHHHhcCCceeeeccceecc-EE---E-----E----------e--------------CC----cceeEEEEE
+Confidence            357778889999999999887654210 00   0     0          0              00    112346788
+
+
+Q LOKIASV2_39930  676 IDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQIT---DLPAEIKITINNPYQEDSYENITTLEV  752 (985)
+Q Consensus       676 id~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~---~~~~~i~i~~~~~~~~~~~~~~~~~~v  752 (985)
+                      +|+++.+.....+.     .|......+ .-...+.|+|++.+|+.++..   ..|+.+.+.            ...++|
+T Consensus        65 ~d~~~~~~~~~~~~-----~G~~~~~~~-~~~~~~~ivi~~~~a~~l~~~~~~~vG~~i~l~------------~~~~~V  126 (209)
+T 5LJ8_B           65 VSGDYFNVYGMTFS-----EGNTFNQEQ-LNGRAQVVVLDSNTRRQLFPHKADVVGEVILVG------------NMPARV  126 (209)
+T ss_dssp             ECTTHHHHHTCEEE-----EECCCCHHH-HHHTCCEEEECHHHHHHHCSSCSCCTTCEEEET------------TEEEEE
+T ss_pred             EccChHHHcCceec-----cCCcCCHHH-HcCCCeEEEEcHHHHHHHCCCCCCcCCCEEEEC------------CEEEEE
+Confidence            88888765332222     222111000 001357899999999998863   344444431            246899
+
+
+Q LOKIASV2_39930  753 VGVSEGMPGVWNFRSSQISLYSGSGILVNMDTYAELMEWGNPESEDYVLDKILINLRDN  811 (985)
+Q Consensus       753 vgi~~~~pG~~~f~~~~~~~~~g~~vlvs~~~y~~l~~~~~~~~~~~~~~~i~i~l~d~  811 (985)
+                      +||.+..+....   .    .....++++.+++.++...      +.....+.+++++.
+T Consensus       127 vGV~~~~~~~~~---~----~~~~~~~v~~~~~~~~~~~------~~~~~~~~v~~~~~  172 (209)
+T 5LJ8_B          127 IGVAEEKQSMFG---S----SKVLRVWLPYSTMSGRVMG------QSWLNSITVRVKEG  172 (209)
+T ss_dssp             EEEEECTTSTTC---S----CSSCEEEEEHHHHHTCCCS------EEEEEEEEEEECTT
+T ss_pred             EEEEcccccccC---C----CCCcEEEEEcccchhhhcC------CCceeeEEEEEcCC
+Confidence            999987664321   0    1123467777777665421      01235667777663
+
+
+No 30
+>3FTJ_A Macrolide export ATP-binding/permease protein macB; macrolide-specific pump, ABC-type transporter, heat; 1.999A {Actinobacillus actinomycetemcomitans}
+Probab=81.72  E-value=0.89  Score=49.00  Aligned_cols=148  Identities=11%  Similarity=0.027  Sum_probs=76.9  Template_Neff=11.300
+
+Q LOKIASV2_39930   75 FDENIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTY  154 (985)
+Q Consensus        75 f~~~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~  154 (985)
+                      ++.+.. +.+++.|+|+.+.+...........  ..    ......+.++++.+   +..+. ..+..       |++ +
+T Consensus        35 ~~~~~~-~~l~~~~~V~~v~~~~~~~~~~~~~--~~----~~~~~~~~g~~~~~---~~~~~-~~~~~-------g~~-~   95 (226)
+T 3FTJ_A           35 LKISDA-NTLSKQSYIQSVTPNTSSSGILVVG--NK----SFTSANLYGIGEQY---FDVEG-LKLKQ-------GRL-L   95 (226)
+T ss_dssp             CBHHHH-HHHHTSTTEEEEEEEEEEEEEEEET--TE----EEEEEEEEEECTTH---HHHHT-CCEEE-------ECC-C
+T ss_pred             cCHHHH-HHHhcCCCeeEEcceeccceEEEeC--Cc----eeeeEEEEEeCCCc---eeecC-Ceecc-------CCc-C
+Confidence            344455 6777888988877765332221111  00    11234456667665   44344 44445       654 3
+
+
+Q LOKIASV2_39930  155 ERTDALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEP  233 (985)
+Q Consensus       155 ~~~~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~  233 (985)
+                      ...    ......++|+|++.+|+.++.. .+.+|..+.....+++|+||+++.... ........+++...++......
+T Consensus        96 ~~~----~~~~~~~~vvi~~~~a~~l~~~-~~~vG~~i~~~~~~~~V~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  170 (226)
+T 3FTJ_A           96 TED----DVDQSNQVVVLDESAKKAIFAN-ENPLGKTVIFNKRPFRVIGVVSDQQLGGFPGNSLNLYSPYSTVLNKITGG  170 (226)
+T ss_dssp             CHH----HHHHTCCEEEEEHHHHHHHHTT-SCCTTCEEEETTEEEEEEEEECCC--------CCEEEEEHHHHCCCCCCS
+T ss_pred             CHH----HHhcCCcEEEEcHHHHHHhcCC-CCCCCCEEEECCEEEEEEEEEeccCCCCCCCCcceEEEEchHHHHhhhCC
+Confidence            221    1111246799999999998761 123344444456789999999876431 1101223455655554432212
+
+
+Q LOKIASV2_39930  234 NQINNIYATLENP  246 (985)
+Q Consensus       234 ~~~~~i~~~l~~~  246 (985)
+                      .....+.++++++
+T Consensus       171 ~~~~~i~i~~~~~  183 (226)
+T 3FTJ_A          171 SRIGSITVKISDD  183 (226)
+T ss_dssp             SBCSEEEEEECTT
+T ss_pred             CcceEEEEEEcCC
+Confidence            2345677777654
+
+
+No 31
+>5LJ8_A Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; 1.95A {Escherichia coli K-12}
+Probab=77.63  E-value=1.5  Score=47.16  Aligned_cols=148  Identities=8%  Similarity=0.008  Sum_probs=82.1  Template_Neff=10.400
+
+Q LOKIASV2_39930   76 DENIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTYE  155 (985)
+Q Consensus        76 ~~~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~~  155 (985)
+                      +.+.+ +++++.|+|+.+.+...........   +    ......+.++++++   +..++ ..+..       |++ +.
+T Consensus        25 ~~~~~-~~l~~~p~V~~v~~~~~~~~~~~~~---~----~~~~~~~~gvd~~~---~~~~~-~~~~~-------G~~-~~   84 (209)
+T 5LJ8_A           25 KYDDL-IAIQKQPWVASATPAVSQNLRLRYN---N----VDVAASANGVSGDY---FNVYG-MTFSE-------GNT-FN   84 (209)
+T ss_pred             CHHHH-HHHHcCCCeeEeeceeecCeEEEEC---C----EEEEEEEEEeCcch---HHHhC-CEEee-------CCc-CC
+Confidence            34445 6777889998887765433222111   1    12234566777766   54444 55555       665 43
+
+
+Q LOKIASV2_39930  156 RTDALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEPN  234 (985)
+Q Consensus       156 ~~~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~~  234 (985)
+                      ..    ......+.+++++.+++.++....+.+|..+...+.+++|+||++..... .......++++...++.......
+T Consensus        85 ~~----~~~~~~~~vvi~~~~a~~l~~~~~~~iG~~i~l~~~~~~V~GV~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~~  160 (209)
+T 5LJ8_A           85 QE----QLNGRAQVVVLDSNTRRQLFPHKADVVGEVILVGNMPARVIGVAEEKQSMFGSSKVLRVWLPYSTMSGRVMGQS  160 (209)
+T ss_pred             hh----hccCCCCEEEEcHHHHHHhcCCCCCCCCCEEEECCEEEEEEEEEcCCCCCCCCCCCCeEEEEhHHHHHHhCCCC
+Confidence            21    11112467999999999887632234555555566899999999875432 10112345556555543322112
+
+
+Q LOKIASV2_39930  235 QINNIYATLENPE  247 (985)
+Q Consensus       235 ~~~~i~~~l~~~~  247 (985)
+                      ....+.++++++.
+T Consensus       161 ~~~~i~v~~~~~~  173 (209)
+T 5LJ8_A          161 WLNSITVRVKEGF  173 (209)
+T ss_pred             cccEEEEEECCCC
+Confidence            3456677776543
+
+
+No 32
+>5LJ8_B Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; 1.95A {Escherichia coli K-12}
+Probab=75.70  E-value=1.9  Score=46.39  Aligned_cols=148  Identities=8%  Similarity=0.021  Sum_probs=80.0  Template_Neff=10.500
+
+Q LOKIASV2_39930   75 FDENIIETNLAEIDDIDNFFTRIQALLSVSHTDTSQNNLEIKKFLITYGLDTVREQESDKMGNLWICDDQTRNPQGELTY  154 (985)
+Q Consensus        75 f~~~~i~~~~~~~~~i~~~~pri~~~~~v~~~~~~~~~~~~~~~~~~~Gi~~~~e~~~~~~g~~~~~~~~~~~~~g~~~~  154 (985)
+                      ++.+.+ +++++.|+|+.+.+...........   +    ....+.+.++++.+   +..+. ..+..       |++ +
+T Consensus        24 l~~~~~-~~l~~~p~V~~v~~~~~~~~~~~~~---~----~~~~~~~~g~d~~~---~~~~~-~~~~~-------G~~-~   83 (209)
+T 5LJ8_B           24 LKYDDL-IAIQKQPWVASATPAVSQNLRLRYN---N----VDVAASANGVSGDY---FNVYG-MTFSE-------GNT-F   83 (209)
+T ss_dssp             SCHHHH-HHHHTSTTEEEEEEEEEEEEEEEET---T----EEEEEEEEEECTTH---HHHHT-CEEEE-------ECC-C
+T ss_pred             CCHHHH-HHHhcCCceeeeccceeccEEEEeC---C----cceeEEEEEEccCh---HHHcC-ceecc-------CCc-C
+Confidence            334455 6777889998887765332222111   1    11234456667665   44444 45555       665 4
+
+
+Q LOKIASV2_39930  155 ERTDALYQGPIPEGKCVVTKSAARLFNLQINDEITIKSASQEEILIIEYIVEPDLRF-SRYESSLILVELPWMQDFLDEP  233 (985)
+Q Consensus       155 ~~~~~~~~g~~~~g~~vi~~~~A~~~~~~vGD~i~i~~~~~~~~~~v~~i~~~~~~~-~~~~~~~i~~~l~~~q~~l~~~  233 (985)
+                      ...    ......+.+++++.+|+.++....+.+|..+.....+++|+||+++.... .......++++...+.......
+T Consensus        84 ~~~----~~~~~~~~ivi~~~~a~~l~~~~~~~vG~~i~l~~~~~~VvGV~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~  159 (209)
+T 5LJ8_B           84 NQE----QLNGRAQVVVLDSNTRRQLFPHKADVVGEVILVGNMPARVIGVAEEKQSMFGSSKVLRVWLPYSTMSGRVMGQ  159 (209)
+T ss_dssp             CHH----HHHHTCCEEEECHHHHHHHCSSCSCCTTCEEEETTEEEEEEEEEECTTSTTCSCSSCEEEEEHHHHHTCCCSE
+T ss_pred             CHH----HHcCCCeEEEEcHHHHHHHCCCCCCcCCCEEEECCEEEEEEEEEcccccccCCCCCcEEEEEcccchhhhcCC
+Confidence            322    11112467999999999887632234455555556789999999875432 1001233555555554332211
+
+
+Q LOKIASV2_39930  234 NQINNIYATLENP  246 (985)
+Q Consensus       234 ~~~~~i~~~l~~~  246 (985)
+                      .....+.++++++
+T Consensus       160 ~~~~~~~v~~~~~  172 (209)
+T 5LJ8_B          160 SWLNSITVRVKEG  172 (209)
+T ss_dssp             EEEEEEEEEECTT
+T ss_pred             CceeeEEEEEcCC
+Confidence            2344566777654
+
+
+No 33
+>5X5Y_F Probable ATP-binding component of ABC; membrane protein, transporter; 3.465A {Pseudomonas aeruginosa PAO1}
+Probab=31.01  E-value=42  Score=40.25  Aligned_cols=43  Identities=9%  Similarity=0.119  Sum_probs=32.9  Template_Neff=9.500
+
+Q LOKIASV2_39930  315 LINSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGT  357 (985)
+Q Consensus       315 lI~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~  357 (985)
+                      ++...+......|.+|+-++|+.|.|.+++.+-++.-++++++
+T Consensus        69 lia~l~~~~~l~~~~El~~l~a~GiS~~~l~~p~l~~~l~~~~  111 (362)
+T 5X5Y_F           69 FLGILLAYGRLYLESEMTVLSATGMSQKRLLGYTMAPALLVAI  111 (362)
+T ss_dssp             HHHHHHHHHHHHHTTHHHHHHTTTCCHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHhcchHHHHHHcCCCHHHHHHHHHHHHHHHHH
+Confidence            3444455666789999999999999999998887776555443
+
+
+No 34
+>6S8N_F Lipopolysaccharide ABC transporter, ATP-binding protein; lipopolysaccharide transporter, LPS, LptB2FGC, LptB; HET: DCQ, LMN, L0W, LMT; 3.1A {Shigella flexneri}
+Probab=30.56  E-value=43  Score=40.31  Aligned_cols=42  Identities=17%  Similarity=0.212  Sum_probs=32.6  Template_Neff=9.200
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGT  357 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~  357 (985)
+                      +...+......|.+|+-.+||.|.|.+++.+-++.-++++++
+T Consensus        70 la~~~~~~~l~~~~El~a~~a~GiS~~~l~~p~l~~~~~~s~  111 (366)
+T 6S8N_F           70 LGLLMTLGKLYTESEITVMHACGLSKAVLVKAAMILAVFTAI  111 (366)
+T ss_pred             HHHHHHHHHHcccchHHHHHHCCCCHHHHHHHHHHHHHHHHH
+Confidence            344455566789999999999999999999988776555443
+
+
+No 35
+>6MJP_F ABC transporter ATP-binding protein (E.C.3.6.3.-); lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: AE3, MA4, JU7, GOL, LMT, PG4; 2.85A {Vibrio cholerae}
+Probab=30.14  E-value=44  Score=40.21  Aligned_cols=41  Identities=17%  Similarity=0.190  Sum_probs=32.0  Template_Neff=9.200
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMG  356 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g  356 (985)
+                      +...+...-..|.+|+-++||.|.|.+++.+-++.-+++++
+T Consensus        70 ia~l~~l~~l~~~~El~al~a~GiS~~~l~~p~l~~~~~~~  110 (366)
+T 6MJP_F           70 IGILLTFGRLYAESEITVMNATGIGNKFLIRAALYLALITA  110 (366)
+T ss_pred             HHHHHHHHHhccccHHHHHHHCCCCHHHHHHHHHHHHHHHH
+Confidence            33444556678999999999999999999998877655544
+
+
+No 36
+>6S8N_G Lipopolysaccharide ABC transporter, ATP-binding protein; lipopolysaccharide transporter, LPS, LptB2FGC, LptB; HET: DCQ, LMN, L0W, LMT; 3.1A {Shigella flexneri}
+Probab=29.85  E-value=45  Score=39.87  Aligned_cols=42  Identities=12%  Similarity=0.143  Sum_probs=32.1  Template_Neff=9.700
+
+Q LOKIASV2_39930  315 LINSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMG  356 (985)
+Q Consensus       315 lI~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g  356 (985)
+                      ++...+...-..|.+|+-++||.|.|.+++.+-++.-+++++
+T Consensus        73 lla~~~~~~~l~~~~El~al~a~G~s~~~l~~p~l~~~~~~~  114 (360)
+T 6S8N_G           73 LLGALLGLGMLAQRSELVVMQASGFTRMQVALSVMKTAIPLV  114 (360)
+T ss_pred             HHHHHHHHHHhccCCcHHHHHhCCCCHHHHHHHHHHHHHHHH
+Confidence            334445556678999999999999999999988776555433
+
+
+No 37
+>5ITJ_A AbrB family transcriptional regulator; Histone-like protein, Complex, DNA-binding fold; HET: SO4, PG4; 1.63A {Sulfolobus solfataricus}
+Probab=28.35  E-value=50  Score=27.43  Aligned_cols=26  Identities=8%  Similarity=0.184  Sum_probs=20.4  Template_Neff=8.700
+
+Q LOKIASV2_39930  168 GKCVVTKSAARLFNLQINDEITIKSA  193 (985)
+Q Consensus       168 g~~vi~~~~A~~~~~~vGD~i~i~~~  193 (985)
+                      +.+.++.+..+.++++.||.+.....
+T Consensus        13 ~~i~lP~~i~~~l~l~~g~~v~i~~~   38 (54)
+T 5ITJ_A           13 YQVTIPAKVRQKFQIKEGDLVKVTFD   38 (54)
+T ss_dssp             GEEECCHHHHTTSCCCTTCEEEEEEE
+T ss_pred             CeEEeCHHHHHHcCCCCCCEEEEEEE
+Confidence            45888999999999998887665544
+
+
+No 38
+>1YSF_A Transition state regulatory protein abrB; NMR  HOMODIMER  BIOINFORMATICS; NMR {Bacillus subtilis} SCOP: b.129.1.3
+Probab=28.25  E-value=50  Score=28.45  Aligned_cols=27  Identities=19%  Similarity=0.297  Sum_probs=20.9  Template_Neff=7.500
+
+Q LOKIASV2_39930  167 EGKCVVTKSAARLFNLQINDEITIKSA  193 (985)
+Q Consensus       167 ~g~~vi~~~~A~~~~~~vGD~i~i~~~  193 (985)
+                      .+.+.|+++..+.++++.||.+.....
+T Consensus        21 ~g~ItIPk~i~~~lgl~~G~~v~v~~~   47 (59)
+T 1YSF_A           21 LGRVVIPIELRRTLGIAEKDALEIYVD   47 (59)
+T ss_dssp             TCEEECCHHHHHHTTCCTTCEEEEEEE
+T ss_pred             CCeEEcCHHHHHHhCCCCCCEEEEEEE
+Confidence            345889999999999988887665443
+
+
+No 39
+>6MIT_J Lipopolysaccharide export system ATP-binding protein; lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: SO4, NOV; 3.2A {Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56)}
+Probab=28.03  E-value=51  Score=39.44  Aligned_cols=42  Identities=12%  Similarity=0.139  Sum_probs=32.4  Template_Neff=9.700
+
+Q LOKIASV2_39930  315 LINSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMG  356 (985)
+Q Consensus       315 lI~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g  356 (985)
+                      ++...+...-..|.+|+-++||.|.|.+++.+-++.-+++++
+T Consensus        73 lla~l~~~~~l~~~~El~al~a~GiS~~~l~~p~l~~~~~~~  114 (360)
+T 6MIT_J           73 LLGALLGLGMLAQRSELVVMQASGFTRLQVALSVMKTAIPLV  114 (360)
+T ss_dssp             HHHHHHHHHHHHHTTCHHHHHHHTCCHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHhhcCcHHHHHhcCCCHHHHHHHHHHHHHHHH
+Confidence            334445556678999999999999999999988776655443
+
+
+No 40
+>6MIT_F Lipopolysaccharide export system ATP-binding protein; lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: NOV, SO4; 3.2A {Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56)}
+Probab=27.98  E-value=51  Score=39.67  Aligned_cols=42  Identities=19%  Similarity=0.275  Sum_probs=32.3  Template_Neff=9.300
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGT  357 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~  357 (985)
+                      +...+...-..|.+|+-.+|+.|.|.+++.+-++.-++++++
+T Consensus        70 la~l~~l~~l~~~~El~al~a~GiS~~~l~~p~l~~~~~~~~  111 (366)
+T 6MIT_F           70 LGLLMTLGKLYTESEITVMHACGLSKAVLVKAAMILALFTGI  111 (366)
+T ss_pred             HHHHHHHHHhccccHHHHHHHCCCCHHHHHHHHHHHHHHHHH
+Confidence            334455566789999999999999999999888776555443
+
+
+No 41
+>5ITM_D AbrB family transcriptional regulator; Histone-like protein, Complex, DNA-binding fold; 1.4A {Sulfolobus solfataricus}
+Probab=26.92  E-value=55  Score=26.17  Aligned_cols=25  Identities=8%  Similarity=0.195  Sum_probs=18.5  Template_Neff=9.200
+
+Q LOKIASV2_39930  168 GKCVVTKSAARLFNLQINDEITIKS  192 (985)
+Q Consensus       168 g~~vi~~~~A~~~~~~vGD~i~i~~  192 (985)
+                      +.+.++.++.+.++++.||.+....
+T Consensus        13 ~~i~iP~~~~~~l~~~~g~~v~~~~   37 (48)
+T 5ITM_D           13 YQVTIPAKVRQKFQIKEGDLVKVTF   37 (48)
+T ss_dssp             GEEECCHHHHTTSCCCTTCEEEEEE
+T ss_pred             CEEEecHHHHHHcCCCCCCEEEEEE
+Confidence            4578888889999888777654433
+
+
+No 42
+>6MJP_G ABC transporter ATP-binding protein (E.C.3.6.3.-); lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: AE3, MA4, JU7, GOL, LMT, PG4; 2.85A {Vibrio cholerae}
+Probab=26.61  E-value=56  Score=39.10  Aligned_cols=41  Identities=12%  Similarity=0.041  Sum_probs=31.2  Template_Neff=9.500
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMG  356 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g  356 (985)
+                      +...+...--.|.+|+-++||.|.|.+++.+-++.-+++++
+T Consensus        72 ia~~~~~~~l~~~~El~al~a~GiS~~~i~~p~l~~~i~~~  112 (356)
+T 6MJP_G           72 LGALIGLGALASSSELVVMQAAGFSKLDIGLSVLKTAIPLM  112 (356)
+T ss_pred             HHHHHHHHHhccCccHHHHHHCCCCHHHHHHHHHHHHHHHH
+Confidence            34445556678999999999999999999887766554443
+
+
+No 43
+>6MIT_I Lipopolysaccharide export system ATP-binding protein; lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: SO4, NOV; 3.2A {Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56)}
+Probab=25.45  E-value=61  Score=39.04  Aligned_cols=42  Identities=19%  Similarity=0.275  Sum_probs=31.8  Template_Neff=9.300
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMGT  357 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g~  357 (985)
+                      +...+...-..|.+|+-.+||.|.|.+++.+-++.-++++++
+T Consensus        70 la~l~~l~~l~~~~El~al~a~GiS~~~l~~p~l~~~~~~~~  111 (366)
+T 6MIT_I           70 LGLLMTLGKLYTESEITVMHACGLSKAVLVKAAMILALFTGI  111 (366)
+T ss_dssp             HHHHHHHHHHHHTTSHHHHHHTTCCHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHhhcchHHHHHHCCCCHHHHHHHHHHHHHHHHH
+Confidence            334445566789999999999999999998887765554443
+
+
+No 44
+>3IS6_A putative permease protein, ABC transporter; ABC, transporter, permease, porphyromonas, gingivalis; 1.95A {Porphyromonas gingivalis}
+Probab=24.62  E-value=64  Score=36.11  Aligned_cols=75  Identities=15%  Similarity=0.222  Sum_probs=47.0  Template_Neff=9.800
+
+Q LOKIASV2_39930  670 YSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPYQEDSYENITT  749 (985)
+Q Consensus       670 ~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~~~~~~~~~~~  749 (985)
+                      ...+.++|++|+++...++..     |..   +.+ ....+.|+|++.+|+.+.-..+|..+.  ++.      ......
+T Consensus        77 ~~~~~~v~~~~~~~~~~~~~~-----G~~---~~~-~~~~~~vvis~~~a~~lf~~~iGk~i~--~~~------~~~~~~  139 (244)
+T 3IS6_A           77 ETKTLLAEPAFLDMFGVELIA-----GVR---DSA-LRDNMTCLISESLARKMGGDVLGKRLR--PAE------SKSDRA  139 (244)
+T ss_dssp             EEEEEEECTHHHHHTTCCEEE-----ECG---GGT-TCSTTEEEEEHHHHHHTTSCCTTCEEE--ETT------CCSSCC
+T ss_pred             EEEEEEeCchHHHHhCCeeee-----cCc---chh-hccCCEEEEeHHHHHHhCCCCCCCEEE--cCC------cCCCCc
+Confidence            456789999999887655543     322   111 134578999999999886312343333  221      011347
+
+
+Q LOKIASV2_39930  750 LEVVGVSEGMPG  761 (985)
+Q Consensus       750 ~~vvgi~~~~pG  761 (985)
+                      ++|+||.+..+.
+T Consensus       140 ~~VvGV~~~~~~  151 (244)
+T 3IS6_A          140 ITIGGVFEDLPH  151 (244)
+T ss_dssp             EEEEEEECCCCS
+T ss_pred             EEEEEEECCCCC
+Confidence            899999998774
+
+
+No 45
+>3IS6_B putative permease protein, ABC transporter; ABC, transporter, permease, porphyromonas, gingivalis; HET: MSE; 1.95A {Porphyromonas gingivalis}
+Probab=24.62  E-value=64  Score=36.11  Aligned_cols=75  Identities=15%  Similarity=0.222  Sum_probs=47.0  Template_Neff=9.800
+
+Q LOKIASV2_39930  670 YSTLVGIDERYYETTDHSLFRWDTRTGSSAAAIDEVLLSSNKCIIAKVFADALQITDLPAEIKITINNPYQEDSYENITT  749 (985)
+Q Consensus       670 ~~~l~gid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IIs~~~a~~l~~~~~~~~i~i~~~~~~~~~~~~~~~~  749 (985)
+                      ...+.++|++|+++...++..     |..   +.+ ....+.|+|++.+|+.+.-..+|..+.  ++.      ......
+T Consensus        77 ~~~~~~v~~~~~~~~~~~~~~-----G~~---~~~-~~~~~~vvis~~~a~~lf~~~iGk~i~--~~~------~~~~~~  139 (244)
+T 3IS6_B           77 ETKTLLAEPAFLDMFGVELIA-----GVR---DSA-LRDNMTCLISESLARKMGGDVLGKRLR--PAE------SKSDRA  139 (244)
+T ss_dssp             EEEEEEECTHHHHHHTCCEEE-----ECG---GGT-TTSTTEEEEEHHHHHHTTSCCTTCEEE--ETT------CCSCCC
+T ss_pred             EEEEEEeCchHHHHhCCeeee-----cCc---chh-hccCCEEEEeHHHHHHhCCCCCCCEEE--cCC------cCCCCc
+Confidence            456789999999887655543     322   111 134578999999999886312343333  221      011347
+
+
+Q LOKIASV2_39930  750 LEVVGVSEGMPG  761 (985)
+Q Consensus       750 ~~vvgi~~~~pG  761 (985)
+                      ++|+||.+..+.
+T Consensus       140 ~~VvGV~~~~~~  151 (244)
+T 3IS6_B          140 ITIGGVFEDLPH  151 (244)
+T ss_dssp             EEEEEEECCCCT
+T ss_pred             EEEEEEECCCCC
+Confidence            899999998774
+
+
+No 46
+>5X5Y_G Probable ATP-binding component of ABC; membrane protein, transporter; 3.465A {Pseudomonas aeruginosa PAO1}
+Probab=24.31  E-value=66  Score=38.43  Aligned_cols=42  Identities=17%  Similarity=0.135  Sum_probs=31.7  Template_Neff=9.700
+
+Q LOKIASV2_39930  315 LINSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMG  356 (985)
+Q Consensus       315 lI~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g  356 (985)
+                      ++...+...-..|.+|+-.+||.|.|.+++.+-++.-+++++
+T Consensus        69 lla~l~~~~~l~~~~Ei~al~s~GiS~~rl~~p~l~~~~~~~  110 (355)
+T 5X5Y_G           69 LIGCLVGLGTLASNSELTIMRAAGVSLSRIVWAVMKPMLVLM  110 (355)
+T ss_dssp             HHHHHHHHHHHHHTTHHHHHHTTTCCHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHhcCcHHHHHHcCCCHHHHHHHHHHHHHHHH
+Confidence            334445556678999999999999999999888766554443
+
+
+No 47
+>6MIT_G Lipopolysaccharide export system ATP-binding protein; lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: NOV, SO4; 3.2A {Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56)}
+Probab=23.97  E-value=67  Score=38.42  Aligned_cols=41  Identities=10%  Similarity=0.110  Sum_probs=31.6  Template_Neff=9.700
+
+Q LOKIASV2_39930  316 INSILTTSIEERIREFGILRTLGGKKAFTFKMVLLSGFFMG  356 (985)
+Q Consensus       316 I~n~~~~sV~eR~rE~giLRalG~~~~qi~~~vl~E~~~~g  356 (985)
+                      +...+...-..|.+|+-.+||.|.|.+++.+-++.-+++++
+T Consensus        74 la~l~~~~~l~~~~El~a~~a~GiS~~~l~~p~l~~~~~~~  114 (360)
+T 6MIT_G           74 LGALLGLGMLAQRSELVVMQASGFTRLQVALSVMKTAIPLV  114 (360)
+T ss_pred             HHHHHHHHHhccCChHHHHHHCCCCHHHHHHHHHHHHHHHH
+Confidence            33445556678999999999999999999988776555433
+
+

@@ -1,0 +1,657 @@
+Query         LOKIASV2_06800 hypothetical protein
+Match_columns 989
+No_of_seqs    475 out of 4172
+Neff          6.53165
+Searched_HMMs 80799
+Date          Sun Sep 15 10:20:16 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpajjbpkai/query.a3m -o /tmp/tmpajjbpkai/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5XU1_M ABC transporter ATP-bin  99.6 1.2E-18 1.5E-23  200.8   0.0  128  336-475   291-418 (419)
+  2 5XU1_S ABC transporter ATP-bin  99.6 1.2E-18 1.5E-23  200.8   0.0  128  336-475   291-418 (419)
+  3 5NIK_K Outer membrane protein   99.5 2.7E-18 3.3E-23  208.4   0.0  129  335-479   523-651 (654)
+  4 5NIL_K Outer membrane protein   99.5 2.7E-18 3.3E-23  208.4   0.0  129  335-479   523-651 (654)
+  5 5LIL_A Macrolide export ATP-bi  99.5 3.9E-18 4.8E-23  208.6   0.0  124  336-475   540-663 (664)
+  6 5LIL_B Macrolide export ATP-bi  99.5 4.9E-18 6.1E-23  207.4   0.0  124  336-475   540-663 (664)
+  7 5LJ7_B MacB; Membrane Protein,  99.5 4.9E-18 6.1E-23  207.4   0.0  124  336-475   540-663 (664)
+  8 5GKO_A Macrolide export ATP-bi  99.5 1.2E-17 1.5E-22  204.6   0.0  125  336-475   546-670 (671)
+  9 5NIK_K Outer membrane protein   99.3 3.7E-15 4.6E-20  181.3   0.0  124  851-987   524-647 (654)
+ 10 5NIL_K Outer membrane protein   99.3 3.7E-15 4.6E-20  181.3   0.0  124  851-987   524-647 (654)
+ 11 5LIL_A Macrolide export ATP-bi  99.2 6.4E-15   8E-20  180.6   0.0   65  851-915   540-604 (664)
+ 12 5LIL_B Macrolide export ATP-bi  99.2 1.3E-14 1.6E-19  177.7   0.0   65  851-915   540-604 (664)
+ 13 5LJ7_B MacB; Membrane Protein,  99.2 1.3E-14 1.6E-19  177.7   0.0   65  851-915   540-604 (664)
+ 14 5GKO_A Macrolide export ATP-bi  99.2 2.3E-14 2.8E-19  176.0   0.0   65  851-915   546-610 (671)
+ 15 5XU1_M ABC transporter ATP-bin  99.1 3.3E-14 4.1E-19  164.2   0.0   64  852-915   292-355 (419)
+ 16 5XU1_S ABC transporter ATP-bin  99.1 3.3E-14 4.1E-19  164.2   0.0   64  852-915   292-355 (419)
+ 17 5UDF_A Lipoprotein-releasing s  86.5    0.37 4.6E-06   52.3   0.0   48  726-773   104-157 (230)
+ 18 5UDF_C Lipoprotein-releasing s  86.5    0.37 4.6E-06   52.3   0.0   48  726-773   104-157 (230)
+ 19 5NAA_B Lipoprotein-releasing s  69.3     3.5 4.3E-05   44.8   0.0   49  725-773    92-147 (230)
+ 20 6F3Z_A Lipoprotein-releasing s  69.3     3.5 4.3E-05   44.8   0.0   49  725-773    92-147 (230)
+ 21 5F9Q_A Macrolide export ATP-bi  37.7      28 0.00034   37.2   0.0   40  726-774    93-136 (199)
+ 22 5LJ8_B Macrolide export ATP-bi  36.8      29 0.00036   37.4   0.0   40  726-774    91-135 (209)
+ 23 5LJ8_A Macrolide export ATP-bi  33.7      35 0.00044   36.8   0.0   40  726-774    91-135 (209)
+ 24 5NAA_B Lipoprotein-releasing s  31.6      40  0.0005   36.7   0.0   54  160-219    93-146 (230)
+ 25 6F3Z_A Lipoprotein-releasing s  31.6      40  0.0005   36.7   0.0   54  160-219    93-146 (230)
+ 26 5ITJ_A AbrB family transcripti  29.9      45 0.00056   28.2   0.0   26  160-185    11-36  (54)
+ 27 1YSF_A Transition state regula  27.9      51 0.00063   29.0   0.0   27  160-186    20-46  (59)
+ 28 5ITM_D AbrB family transcripti  25.7      60 0.00074   26.5   0.0   26  160-185    11-36  (48)
+ 29 3FTJ_A Macrolide export ATP-bi  25.0      62 0.00077   34.8   0.0   40  726-774   103-146 (226)
+ 30 6S8N_F Lipopolysaccharide ABC   24.9      63 0.00078   39.0   0.0   42  864-905    67-108 (366)
+ 31 5X5Y_F Probable ATP-binding co  22.7      74 0.00092   38.2   0.0   40  864-903    67-106 (362)
+ 32 2K1N_C Transition state regula  22.2      77 0.00095   27.0   0.0   27  160-186    12-38  (55)
+ 33 6S8N_G Lipopolysaccharide ABC   22.1      78 0.00096   38.0   0.0   41  864-904    71-111 (360)
+ 34 3O27_A Putative uncharacterize  20.6      87  0.0011   28.7   0.0   26  160-185    23-48  (68)
+ 35 6MIT_F Lipopolysaccharide expo  20.6      88  0.0011   37.8   0.0   41  864-904    67-107 (366)
+ 36 6MIT_J Lipopolysaccharide expo  20.4      89  0.0011   37.5   0.0   41  864-904    71-111 (360)
+ 37 6MJP_F ABC transporter ATP-bin  20.3      89  0.0011   37.8   0.0   40  865-904    68-107 (366)
+
+No 1
+>5XU1_M ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.56  E-value=1.2e-18  Score=200.75  Aligned_cols=128  Identities=21%  Similarity=0.255  Sum_probs=98.8  Template_Neff=11.300
+
+Q LOKIASV2_06800  336 IFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQVY  415 (989)
+Q Consensus       336 ~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~~  415 (989)
+                      ++.++++++++++++.+.+++...+.+|+||++++|++|++++||+++++.|+++++++|+++|+++|+++.+.+.....
+T Consensus       291 ~~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~~~e~~~i~~~~~~~g~~~~~~~~~~~~~~~~  370 (419)
+T 5XU1_M          291 IISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQFLIESMILTLLGGLIGLTIASGLTALAGLLLQ  370 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34445566667777888888999999999999999999999999999999999999999999999999876655433221
+
+
+Q LOKIASV2_06800  416 PQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAK  475 (989)
+Q Consensus       416 ~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~  475 (989)
+                      ..    ..  ..      ...+++..+++.++++++++++++++|++++.|.+|.++||+
+T Consensus       371 ~~----~~--~~------~~~~~~~~~~~~~~~~~~i~~l~~~~~~~~~~~~~~~~~lr~  418 (419)
+T 5XU1_M          371 GL----IE--GI------EVGVSIPVALFSLAVSASVGMIFGVLPANKASKLDPIEALRY  418 (419)
+T ss_dssp             TT----CC--SC------CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCHHHHCCH
+T ss_pred             HH----hc--CC------ccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHhc
+Confidence            10    00  00      112233344555667778899999999999999999999986
+
+
+No 2
+>5XU1_S ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.56  E-value=1.2e-18  Score=200.75  Aligned_cols=128  Identities=21%  Similarity=0.255  Sum_probs=98.8  Template_Neff=11.300
+
+Q LOKIASV2_06800  336 IFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQVY  415 (989)
+Q Consensus       336 ~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~~  415 (989)
+                      ++.++++++++++++.+.+++...+.+|+||++++|++|++++||+++++.|+++++++|+++|+++|+++.+.+.....
+T Consensus       291 ~~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~~~e~~~i~~~~~~~g~~~~~~~~~~~~~~~~  370 (419)
+T 5XU1_S          291 IISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQFLIESMILTLLGGLIGLTIASGLTALAGLLLQ  370 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34445566667777888888999999999999999999999999999999999999999999999999876655433221
+
+
+Q LOKIASV2_06800  416 PQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAK  475 (989)
+Q Consensus       416 ~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~  475 (989)
+                      ..    ..  ..      ...+++..+++.++++++++++++++|++++.|.+|.++||+
+T Consensus       371 ~~----~~--~~------~~~~~~~~~~~~~~~~~~i~~l~~~~~~~~~~~~~~~~~lr~  418 (419)
+T 5XU1_S          371 GL----IE--GI------EVGVSIPVALFSLAVSASVGMIFGVLPANKASKLDPIEALRY  418 (419)
+T ss_dssp             TT----CC--SC------CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCHHHHCCH
+T ss_pred             HH----hc--CC------ccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHhc
+Confidence            10    00  00      112233344555667778899999999999999999999986
+
+
+No 3
+>5NIK_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 3.3A {Escherichia coli (strain K12)}
+Probab=99.54  E-value=2.7e-18  Score=208.37  Aligned_cols=129  Identities=26%  Similarity=0.355  Sum_probs=101.6  Template_Neff=11.700
+
+Q LOKIASV2_06800  335 AIFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQV  414 (989)
+Q Consensus       335 ~~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~  414 (989)
+                      .++.++++++++++++.+++++...+.+||||+|+||++|++++||+++++.|.++++++|+++|+++|+++.+.+...+
+T Consensus       523 ~~~~~~~~~~~li~~~~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~~~~~~~~~~~~~~~  602 (654)
+T 5NIK_K          523 LFLTLVAVISLVVGGIGVMNIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGALGITLSLLIAFTLQLFL  602 (654)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHSC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc
+Confidence            33445566667778888888899999999999999999999999999999999999999999999999987765543221
+
+
+Q LOKIASV2_06800  415 YPQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAKYHEA  479 (989)
+Q Consensus       415 ~~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~~~~~  479 (989)
+                      ..          .      ...+++..++.+++++++++++++++|++++.|.+|.|++|..+++
+T Consensus       603 ~~----------~------~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~p~~~~~~~~~~  651 (654)
+T 5NIK_K          603 PG----------W------EIGFSPLALLLAFLCSTVTGILFGWLPARNAARLDPVDALAREHHH  651 (654)
+T ss_dssp             SS----------C------CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHCC---
+T ss_pred             cc----------c------ccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCHHHHHhhhccc
+Confidence            11          1      1123344555566777888999999999999999999999987644
+
+
+No 4
+>5NIL_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 5.3A {Escherichia coli (strain K12)}
+Probab=99.54  E-value=2.7e-18  Score=208.37  Aligned_cols=129  Identities=26%  Similarity=0.355  Sum_probs=101.6  Template_Neff=11.700
+
+Q LOKIASV2_06800  335 AIFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQV  414 (989)
+Q Consensus       335 ~~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~  414 (989)
+                      .++.++++++++++++.+++++...+.+||||+|+||++|++++||+++++.|.++++++|+++|+++|+++.+.+...+
+T Consensus       523 ~~~~~~~~~~~li~~~~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~~~~~~~~~~~~~~~  602 (654)
+T 5NIL_K          523 LFLTLVAVISLVVGGIGVMNIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGALGITLSLLIAFTLQLFL  602 (654)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHSC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc
+Confidence            33445566667778888888899999999999999999999999999999999999999999999999987765543221
+
+
+Q LOKIASV2_06800  415 YPQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAKYHEA  479 (989)
+Q Consensus       415 ~~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~~~~~  479 (989)
+                      ..          .      ...+++..++.+++++++++++++++|++++.|.+|.|++|..+++
+T Consensus       603 ~~----------~------~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~p~~~~~~~~~~  651 (654)
+T 5NIL_K          603 PG----------W------EIGFSPLALLLAFLCSTVTGILFGWLPARNAARLDPVDALAREHHH  651 (654)
+T ss_dssp             SS----------C------CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCHHHHHHCC---
+T ss_pred             cc----------c------ccCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCHHHHHhhhccc
+Confidence            11          1      1123344555566777888999999999999999999999987644
+
+
+No 5
+>5LIL_A Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.52  E-value=3.9e-18  Score=208.56  Aligned_cols=124  Identities=25%  Similarity=0.343  Sum_probs=100.1  Template_Neff=11.300
+
+Q LOKIASV2_06800  336 IFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQVY  415 (989)
+Q Consensus       336 ~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~~  415 (989)
+                      ++.++++++++++++.+++++...+.+||||+++||++|++++|++++++.|+++++++|+++|+++|+++.+.+...+.
+T Consensus       540 ~~~~~~~~~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~i~~ig~~lg~~l~~~~~~~~~~~~~  619 (664)
+T 5LIL_A          540 LISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGILLSVLIGVLFNSFIT  619 (664)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHhHHHHHHHHHcCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHcC
+Confidence            34445566667778888888999999999999999999999999999999999999999999999999876655433221
+
+
+Q LOKIASV2_06800  416 PQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAK  475 (989)
+Q Consensus       416 ~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~  475 (989)
+                      .          +      ...+++..+++++++++++++++++.|++++.|.+|+|+||+
+T Consensus       620 ~----------~------~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LIL_A          620 D----------F------SMDFSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_pred             C----------C------CccccHHHHHHHHHHHHHHHHHHHHHHHHHHcCCCHHHHhhc
+Confidence            1          1      112344455566677888899999999999999999999986
+
+
+No 6
+>5LIL_B Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.52  E-value=4.9e-18  Score=207.40  Aligned_cols=124  Identities=25%  Similarity=0.343  Sum_probs=99.3  Template_Neff=11.400
+
+Q LOKIASV2_06800  336 IFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQVY  415 (989)
+Q Consensus       336 ~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~~  415 (989)
+                      ++.++++++++++++.+++++...+.+||||+++||++|+++++++++++.|+++++++|+++|+++|+++.+.+...+.
+T Consensus       540 ~~~~~~~l~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~~~lg~~~~~~~~~~~~~~~~  619 (664)
+T 5LIL_B          540 LISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGILLSVLIGVLFNSFIT  619 (664)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhh
+Confidence            34445556667778888888999999999999999999999999999999999999999999999999877655433221
+
+
+Q LOKIASV2_06800  416 PQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAK  475 (989)
+Q Consensus       416 ~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~  475 (989)
+                      .          +      ...+++..+++++++++++++++++.|++++.|.+|+++||+
+T Consensus       620 ~----------~------~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LIL_B          620 D----------F------SMDFSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_dssp             S----------C------CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCHHHHTC-
+T ss_pred             c----------c------CccccHHHHHHHHHHHHHHHHHHHhhHHHHHHhcCHHHHHhc
+Confidence            1          1      112344455666677888899999999999999999999986
+
+
+No 7
+>5LJ7_B MacB; Membrane Protein, ABC Transporter, transport; HET: ATP; 3.25A {Aggregatibacter actinomycetemcomitans}
+Probab=99.52  E-value=4.9e-18  Score=207.40  Aligned_cols=124  Identities=25%  Similarity=0.343  Sum_probs=99.9  Template_Neff=11.400
+
+Q LOKIASV2_06800  336 IFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQVY  415 (989)
+Q Consensus       336 ~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~~  415 (989)
+                      ++.++++++++++++.+++++...+.+||||+++||++|+++++++++++.|+++++++|+++|+++|+++.+.+...+.
+T Consensus       540 ~~~~~~~l~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~~~lg~~~~~~~~~~~~~~~~  619 (664)
+T 5LJ7_B          540 LISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGILLSVLIGVLFNSFIT  619 (664)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhh
+Confidence            34445556667778888888999999999999999999999999999999999999999999999999877655433221
+
+
+Q LOKIASV2_06800  416 PQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAK  475 (989)
+Q Consensus       416 ~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~  475 (989)
+                      .          +      ...+++..+++++++++++++++++.|++++.|.+|+++||+
+T Consensus       620 ~----------~------~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  663 (664)
+T 5LJ7_B          620 D----------F------SMDFSTASIVTAVLFSTLIGVLFGYMPAKKAAELNPITALAQ  663 (664)
+T ss_dssp             S----------C------CCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCHHHHTTC
+T ss_pred             c----------c------CccccHHHHHHHHHHHHHHHHHHHhhHHHHHHhcCHHHHHhc
+Confidence            1          1      112344455666677888899999999999999999999986
+
+
+No 8
+>5GKO_A Macrolide export ATP-binding/permease protein MacB; Multi-drug, efflux transporter, ABC transporter; HET: MSE; 3.393A {Acinetobacter baumannii}
+Probab=99.49  E-value=1.2e-17  Score=204.59  Aligned_cols=125  Identities=24%  Similarity=0.328  Sum_probs=100.0  Template_Neff=11.300
+
+Q LOKIASV2_06800  336 IFIIVAIPVLILGWYLSKTNWVLSYQRRRRELALLKVKGGIQSQLKTMFFFEAVFVGLLGGLLGIIGGNLSSYFVLKQVY  415 (989)
+Q Consensus       336 ~~~~~~i~~~~~~~~l~~~~~~~sv~eRrREiglLra~Gas~~qi~~~~l~Ea~~iG~ig~~~Gi~~G~~~~~~~~~~~~  415 (989)
+                      ++.++++++++++++.+++++...+.+||||+++||++|+++++|+++++.|.++++++|+++|+++|+++.+.+.....
+T Consensus       546 ~~~~~~~~~~li~~i~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~~~~~~~~~~~~~~~~  625 (671)
+T 5GKO_A          546 LVSAIAVISLVVGGIGVMNIMLVSVTERTQEIGVRMAVGARQSDILQQFLIEAILVCLIGGVLGVLLSLGLGQLINKFAG  625 (671)
+T ss_dssp             HHHHHHHHHHTGGGTHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHTTHHHHHHHHHHHHHHHHHHSC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhhhHhHHHHHhhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhC
+Confidence            34445556667777888888999999999999999999999999999999999999999999999999876655433211
+
+
+Q LOKIASV2_06800  416 PQAVEMMEEGNFLLNMLSGKYIQTSTWILGGIMGLAISLLSVWKPLKEFAGLDPIEGLAK  475 (989)
+Q Consensus       416 ~~~~~~~~~~~~~~~~~~~~~i~~~~~il~~i~gi~isllaa~~PAr~aa~i~pvealr~  475 (989)
+                      .         .+      ...+++..++.++++++++++++++.|++++.|.+|+++||+
+T Consensus       626 ~---------~~------~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~lr~  670 (671)
+T 5GKO_A          626 G---------NF------AVAYSTTSIVAAFVCSTLIGVVFGFLPAKNAAKLDPVAALSR  670 (671)
+T ss_dssp             S---------SC------CCCCCHHHHHHHHHHHHHHHHHHTHHHHHHHHTCCHHHHHTC
+T ss_pred             C---------Cc------cccCCHHHHHHHHHHHHHHHHHHHHHHHHHHhccCHHHHhhc
+Confidence            1         01      112344455666677888899999999999999999999986
+
+
+No 9
+>5NIK_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 3.3A {Escherichia coli (strain K12)}
+Probab=99.26  E-value=3.7e-15  Score=181.25  Aligned_cols=124  Identities=19%  Similarity=0.246  Sum_probs=80.6  Template_Neff=11.700
+
+Q LOKIASV2_06800  851 FLNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAFIGILGGAAMMLQINT  930 (989)
+Q Consensus       851 ~l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~~Gi~~g~~l~~~v~~  930 (989)
+                      ++.+..+++++++++++.+++.+.+.||+||+|+|||+|++++|++++++.|++++.++|+++|+   +.|..+...+..
+T Consensus       524 ~~~~~~~~~~li~~~~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~---~~~~~~~~~~~~  600 (654)
+T 5NIK_K          524 FLTLVAVISLVVGGIGVMNIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGALGI---TLSLLIAFTLQL  600 (654)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHH---HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHHHH---HHHHHHHHHHHh
+Confidence            34444555677888999999999999999999999999999999999999999999888876553   333322221111
+
+
+Q LOKIASV2_06800  931 LNQISGTLVSRTLYLQWGKIMLQIIGSLVLFVGSIWIAVAIETRKSNVSNISDLLRV  987 (989)
+Q Consensus       931 l~~~~~~~~~~~l~ipw~~l~l~li~~lv~~~aa~~~a~~~~~Rk~~~~~~~~~~r~  987 (989)
+                      .  ..    ...+.+||..++..++.++++    .+++..+..||..-.++.|.+|=
+T Consensus       601 ~--~~----~~~~~~~~~~~~~~~~~~~~~----~~l~~~~~~~~~~~~~p~~~~~~  647 (654)
+T 5NIK_K          601 F--LP----GWEIGFSPLALLLAFLCSTVT----GILFGWLPARNAARLDPVDALAR  647 (654)
+T ss_dssp             S--CS----SCCCCCCHHHHHHHHHHHHHH----HHHHHHHHHHHHHHCCHHHHHHC
+T ss_pred             h--cc----ccccCCCHHHHHHHHHHHHHH----HHHHHHHHHHHHhcCCHHHHHhh
+Confidence            0  11    113456665544333322222    22334444555556678888873
+
+
+No 10
+>5NIL_K Outer membrane protein TolC, Macrolide; ABC transporter, drug efflux pump; 5.3A {Escherichia coli (strain K12)}
+Probab=99.26  E-value=3.7e-15  Score=181.25  Aligned_cols=124  Identities=19%  Similarity=0.246  Sum_probs=80.6  Template_Neff=11.700
+
+Q LOKIASV2_06800  851 FLNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAFIGILGGAAMMLQINT  930 (989)
+Q Consensus       851 ~l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~~Gi~~g~~l~~~v~~  930 (989)
+                      ++.+..+++++++++++.+++.+.+.||+||+|+|||+|++++|++++++.|++++.++|+++|+   +.|..+...+..
+T Consensus       524 ~~~~~~~~~~li~~~~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~---~~~~~~~~~~~~  600 (654)
+T 5NIL_K          524 FLTLVAVISLVVGGIGVMNIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGALGI---TLSLLIAFTLQL  600 (654)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHH---HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHhhHhHHHhHhcCCCchHHHHHHHHHHHHHHHHHHHHHH---HHHHHHHHHHHh
+Confidence            34444555677888999999999999999999999999999999999999999999888876553   333322221111
+
+
+Q LOKIASV2_06800  931 LNQISGTLVSRTLYLQWGKIMLQIIGSLVLFVGSIWIAVAIETRKSNVSNISDLLRV  987 (989)
+Q Consensus       931 l~~~~~~~~~~~l~ipw~~l~l~li~~lv~~~aa~~~a~~~~~Rk~~~~~~~~~~r~  987 (989)
+                      .  ..    ...+.+||..++..++.++++    .+++..+..||..-.++.|.+|=
+T Consensus       601 ~--~~----~~~~~~~~~~~~~~~~~~~~~----~~l~~~~~~~~~~~~~p~~~~~~  647 (654)
+T 5NIL_K          601 F--LP----GWEIGFSPLALLLAFLCSTVT----GILFGWLPARNAARLDPVDALAR  647 (654)
+T ss_dssp             S--CS----SCCCCCCHHHHHHHHHHHHHH----HHHHHHHHHHHHHHCCHHHHHHC
+T ss_pred             h--cc----ccccCCCHHHHHHHHHHHHHH----HHHHHHHHHHHHhcCCHHHHHhh
+Confidence            0  11    113456665544333322222    22334444555556678888873
+
+
+No 11
+>5LIL_A Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.23  E-value=6.4e-15  Score=180.56  Aligned_cols=65  Identities=22%  Similarity=0.361  Sum_probs=55.9  Template_Neff=11.300
+
+Q LOKIASV2_06800  851 FLNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAF  915 (989)
+Q Consensus       851 ~l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~  915 (989)
+                      ++.+..+++++++++++.+++.+.+.||+||+|+|||+|++++|++++++.|++++.++|+++|+
+T Consensus       540 ~~~~~~~~~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~i~~ig~~lg~  604 (664)
+T 5LIL_A          540 LISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGI  604 (664)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHhHHHHHHHHHcCCCHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34444455667788999999999999999999999999999999999999999999888876553
+
+
+No 12
+>5LIL_B Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; HET: ATP; 3.35A {Aggregatibacter actinomycetemcomitans}
+Probab=99.20  E-value=1.3e-14  Score=177.70  Aligned_cols=65  Identities=22%  Similarity=0.361  Sum_probs=55.8  Template_Neff=11.400
+
+Q LOKIASV2_06800  851 FLNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAF  915 (989)
+Q Consensus       851 ~l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~  915 (989)
+                      ++.+..+++++++.+++.+++.+.+.||+||+|+|||+|++++|++++++.|++++.++|+++|+
+T Consensus       540 ~~~~~~~l~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~~~lg~  604 (664)
+T 5LIL_B          540 LISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGI  604 (664)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34444455667788899999999999999999999999999999999999999999888876553
+
+
+No 13
+>5LJ7_B MacB; Membrane Protein, ABC Transporter, transport; HET: ATP; 3.25A {Aggregatibacter actinomycetemcomitans}
+Probab=99.20  E-value=1.3e-14  Score=177.70  Aligned_cols=65  Identities=22%  Similarity=0.361  Sum_probs=55.8  Template_Neff=11.400
+
+Q LOKIASV2_06800  851 FLNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAF  915 (989)
+Q Consensus       851 ~l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~  915 (989)
+                      ++.+..+++++++.+++.+++.+.+.||+||+|+|||+|++++|++++++.|++++.++|+++|+
+T Consensus       540 ~~~~~~~l~~~i~~~~i~~~~~~~i~~r~~e~~ilralG~s~~~i~~~~~~e~~~~~~i~~~lg~  604 (664)
+T 5LJ7_B          540 LISSIAFISLIVGGIGVMNIMLVSVTERTKEIGVRMAIGARQINILQQFLIEAVLICLIGGVAGI  604 (664)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhhcHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34444455667788899999999999999999999999999999999999999999888876553
+
+
+No 14
+>5GKO_A Macrolide export ATP-binding/permease protein MacB; Multi-drug, efflux transporter, ABC transporter; HET: MSE; 3.393A {Acinetobacter baumannii}
+Probab=99.17  E-value=2.3e-14  Score=176.03  Aligned_cols=65  Identities=22%  Similarity=0.393  Sum_probs=56.0  Template_Neff=11.300
+
+Q LOKIASV2_06800  851 FLNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAF  915 (989)
+Q Consensus       851 ~l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~  915 (989)
+                      ++.+..+++++++++++.+++.+.+.||+||+|+|||+|++++|++++++.|++++.++|.++|+
+T Consensus       546 ~~~~~~~~~~li~~i~i~~~~~~~i~~r~~ei~ilralG~s~~~i~~~~~~e~~~~~~~~~~~g~  610 (671)
+T 5GKO_A          546 LVSAIAVISLVVGGIGVMNIMLVSVTERTQEIGVRMAVGARQSDILQQFLIEAILVCLIGGVLGV  610 (671)
+T ss_dssp             HHHHHHHHHHTGGGTHHHHHHHHHHHHTHHHHHHHHHTTCCHHHHHHHHHHHHHHHHHTTHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhhhHhHHHHHhhCCCHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            34444555677888999999999999999999999999999999999999999999888876553
+
+
+No 15
+>5XU1_M ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.14  E-value=3.3e-14  Score=164.23  Aligned_cols=64  Identities=27%  Similarity=0.402  Sum_probs=55.2  Template_Neff=11.300
+
+Q LOKIASV2_06800  852 LNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAF  915 (989)
+Q Consensus       852 l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~  915 (989)
+                      +.+..+++++++++++.+++...+.||+||+|+|||+|++++|++++++.|++++.++|+++|+
+T Consensus       292 ~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~~~e~~~i~~~~~~~g~  355 (419)
+T 5XU1_M          292 ISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQFLIESMILTLLGGLIGL  355 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            3344455667788999999999999999999999999999999999999999998888876553
+
+
+No 16
+>5XU1_S ABC transporter ATP-binding protein, ABC; ABC transporter, TRANSPORT PROTEIN; 3.3A {Streptococcus pneumoniae (strain ATCC BAA-255 / R6)}
+Probab=99.14  E-value=3.3e-14  Score=164.23  Aligned_cols=64  Identities=27%  Similarity=0.402  Sum_probs=55.2  Template_Neff=11.300
+
+Q LOKIASV2_06800  852 LNLESIYLLTIVSFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFTLLLMGSFFAF  915 (989)
+Q Consensus       852 l~l~~~~al~ia~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~i~l~G~~~g~  915 (989)
+                      +.+..+++++++++++.+++...+.||+||+|+|||+|++++|++++++.|++++.++|+++|+
+T Consensus       292 ~~~~~~~~~li~~~~i~~~~~~~~~~r~~e~~il~alG~s~~~i~~~~~~e~~~i~~~~~~~g~  355 (419)
+T 5XU1_S          292 ISSIAGISLFVGGTGVMNIMLVSVTERTREIGLRKALGATRANILIQFLIESMILTLLGGLIGL  355 (419)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHTHHHHHHHHHHTCCHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHchHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            3344455667788999999999999999999999999999999999999999998888876553
+
+
+No 17
+>5UDF_A Lipoprotein-releasing system transmembrane protein LolE; SSGCID, Acinetobacter baumannii, Lipoprotein-releasing system; 2.35A {Acinetobacter baumannii}
+Probab=86.47  E-value=0.37  Score=52.32  Aligned_cols=48  Identities=10%  Similarity=0.266  Sum_probs=35.7  Template_Neff=10.700
+
+Q LOKIASV2_06800  726 SPNSTLIPLSME-EEGYRVGNKISITYQVNET-----ATKEMELEIVGVYRAFP  773 (989)
+Q Consensus       726 ~Pn~vLVs~~~~-d~gl~VGD~I~l~~~~~~t-----~~~~v~l~vVGI~~~fP  773 (989)
+                      .++.|+++..++ +.++++||+|++..+....     .....+++|+|+++..+
+T Consensus       104 ~~~~ivi~~~la~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~  157 (230)
+T 5UDF_A          104 GEFGIVLGKDMADSLGLRLNDSVTLVLPEATPSPAGVVPRFKRFKVVGIFSVGA  157 (230)
+T ss_dssp             TTCEEEEEHHHHHHTTCCTTCEEEEEECCBCSSTTCBCCEEEEEEEEEEECCCH
+T ss_pred             CCCeEEEcHHHHHHhCCCCCCEEEEEecCCCCCCCCCccceeEEEEEEEEEecC
+Confidence            578999998764 5699999999998653211     01357899999999754
+
+
+No 18
+>5UDF_C Lipoprotein-releasing system transmembrane protein LolE; SSGCID, Acinetobacter baumannii, Lipoprotein-releasing system; 2.35A {Acinetobacter baumannii}
+Probab=86.47  E-value=0.37  Score=52.32  Aligned_cols=48  Identities=10%  Similarity=0.266  Sum_probs=35.7  Template_Neff=10.700
+
+Q LOKIASV2_06800  726 SPNSTLIPLSME-EEGYRVGNKISITYQVNET-----ATKEMELEIVGVYRAFP  773 (989)
+Q Consensus       726 ~Pn~vLVs~~~~-d~gl~VGD~I~l~~~~~~t-----~~~~v~l~vVGI~~~fP  773 (989)
+                      .++.|+++..++ +.++++||+|++..+....     .....+++|+|+++..+
+T Consensus       104 ~~~~ivi~~~la~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~  157 (230)
+T 5UDF_C          104 GEFGIVLGKDMADSLGLRLNDSVTLVLPEATPSPAGVVPRFKRFKVVGIFSVGA  157 (230)
+T ss_dssp             TTCEEEEEHHHHHHTTCCTTCEEEEEEEEECSSTTCEEEEEEEEEEEEEECCCH
+T ss_pred             CCCeEEEcHHHHHHhCCCCCCEEEEEecCCCCCCCCCccceeEEEEEEEEEecC
+Confidence            578999998764 5699999999998653211     01357899999999754
+
+
+No 19
+>5NAA_B Lipoprotein-releasing system transmembrane protein LolC; Periplasmic domain, Protein transport; 1.88A {Escherichia coli}
+Probab=69.33  E-value=3.5  Score=44.84  Aligned_cols=49  Identities=10%  Similarity=0.247  Sum_probs=36.0  Template_Neff=10.800
+
+Q LOKIASV2_06800  725 NSPNSTLIPLSM-EEEGYRVGNKISITYQVNE------TATKEMELEIVGVYRAFP  773 (989)
+Q Consensus       725 ~~Pn~vLVs~~~-~d~gl~VGD~I~l~~~~~~------t~~~~v~l~vVGI~~~fP  773 (989)
+                      ..++.|+|++.+ ++.++++||++++..+...      ......+++|+||++..+
+T Consensus        92 ~~~~~vvI~~~~a~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~  147 (230)
+T 5NAA_B           92 PGKYNVILGEQLASQLGVNRGDQIRVMVPSASQFTPMGRIPSQRLFNVIGTFAANS  147 (230)
+T ss_dssp             TTSCEEEEEHHHHHHHTCCTTCEEEEEEEEEEECCTTCCEEEEEEEEEEEEECCSS
+T ss_pred             CCceeEEeeHHHHHHhCCCCCCeEEEEeCCcccCCCCCCCCceeEEEEEEEEecCC
+Confidence            357899999876 4569999999999765321      112357899999999853
+
+
+No 20
+>6F3Z_A Lipoprotein-releasing system transmembrane protein LolC; Lipoprotein trafficking, PROTEIN TRANSPORT; 2.0A {Escherichia coli K-12}
+Probab=69.33  E-value=3.5  Score=44.84  Aligned_cols=49  Identities=10%  Similarity=0.247  Sum_probs=36.0  Template_Neff=10.800
+
+Q LOKIASV2_06800  725 NSPNSTLIPLSM-EEEGYRVGNKISITYQVNE------TATKEMELEIVGVYRAFP  773 (989)
+Q Consensus       725 ~~Pn~vLVs~~~-~d~gl~VGD~I~l~~~~~~------t~~~~v~l~vVGI~~~fP  773 (989)
+                      ..++.|+|++.+ ++.++++||++++..+...      ......+++|+||++..+
+T Consensus        92 ~~~~~vvI~~~~a~~l~~~~Gd~i~l~~~~~~~~~~~~~~~~~~~~~V~Gi~~~~~  147 (230)
+T 6F3Z_A           92 PGKYNVILGEQLASQLGVNRGDQIRVMVPSASQFTPMGRIPSQRLFNVIGTFAANS  147 (230)
+T ss_dssp             TTTCEEEEEHHHHHHHTCCTTCEEEEEEEEEEEEETTEEEEEEEEEEEEEEECCSS
+T ss_pred             CCceeEEeeHHHHHHhCCCCCCeEEEEeCCcccCCCCCCCCceeEEEEEEEEecCC
+Confidence            357899999876 4569999999999765321      112357899999999853
+
+
+No 21
+>5F9Q_A Macrolide export ATP-binding/permease protein YknZ; Bacillus amyloliquefaciens, SDP transporter YknWXYZ; HET: MSE; 2.044A {Bacillus amyloliquefaciens}
+Probab=37.66  E-value=28  Score=37.17  Aligned_cols=40  Identities=18%  Similarity=0.164  Sum_probs=29.8  Template_Neff=10.600
+
+Q LOKIASV2_06800  726 SPNSTLIPLSMEE-EGY---RVGNKISITYQVNETATKEMELEIVGVYRAFPL  774 (989)
+Q Consensus       726 ~Pn~vLVs~~~~d-~gl---~VGD~I~l~~~~~~t~~~~v~l~vVGI~~~fP~  774 (989)
+                      .++.++|++.+++ .++   ++||+|++.         ..+++|+||++..+.
+T Consensus        93 ~~~~iiI~~~~a~~l~~~~~~iG~~i~l~---------~~~~~V~Gv~~~~~~  136 (199)
+T 5F9Q_A           93 GKRAGIISKKMAEKLFGKTSPLGKIVWAG---------GQPVEVIGVLKEESG  136 (199)
+T ss_dssp             TCSEEEECHHHHHHHHTTSCCTTCEEEET---------TEEEEEEEEECC---
+T ss_pred             CCcEEEEeHHHHHHHHCCCCCCCCEEEEC---------CEEEEEEEEEccccC
+Confidence            4789999987654 567   899999884         257999999997653
+
+
+No 22
+>5LJ8_B Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; 1.95A {Escherichia coli K-12}
+Probab=36.84  E-value=29  Score=37.41  Aligned_cols=40  Identities=15%  Similarity=0.130  Sum_probs=30.5  Template_Neff=10.500
+
+Q LOKIASV2_06800  726 SPNSTLIPLSMEE-EGY----RVGNKISITYQVNETATKEMELEIVGVYRAFPL  774 (989)
+Q Consensus       726 ~Pn~vLVs~~~~d-~gl----~VGD~I~l~~~~~~t~~~~v~l~vVGI~~~fP~  774 (989)
+                      .++.+++++.+++ .++    ++||+|.+.         ..+++|+||++..+.
+T Consensus        91 ~~~~ivi~~~~a~~l~~~~~~~vG~~i~l~---------~~~~~VvGV~~~~~~  135 (209)
+T 5LJ8_B           91 RAQVVVLDSNTRRQLFPHKADVVGEVILVG---------NMPARVIGVAEEKQS  135 (209)
+T ss_dssp             TCCEEEECHHHHHHHCSSCSCCTTCEEEET---------TEEEEEEEEEECTTS
+T ss_pred             CCeEEEEcHHHHHHHCCCCCCcCCCEEEEC---------CEEEEEEEEEccccc
+Confidence            4688999987644 465    789999873         246999999998764
+
+
+No 23
+>5LJ8_A Macrolide export ATP-binding/permease protein MacB; Membrane Protein ABC Transporter, transport; 1.95A {Escherichia coli K-12}
+Probab=33.70  E-value=35  Score=36.85  Aligned_cols=40  Identities=15%  Similarity=0.130  Sum_probs=29.8  Template_Neff=10.400
+
+Q LOKIASV2_06800  726 SPNSTLIPLSMEE-EGY----RVGNKISITYQVNETATKEMELEIVGVYRAFPL  774 (989)
+Q Consensus       726 ~Pn~vLVs~~~~d-~gl----~VGD~I~l~~~~~~t~~~~v~l~vVGI~~~fP~  774 (989)
+                      .++.+++++.+++ .++    .+||++.+.         ..+++|+||++....
+T Consensus        91 ~~~~vvi~~~~a~~l~~~~~~~iG~~i~l~---------~~~~~V~GV~~~~~~  135 (209)
+T 5LJ8_A           91 RAQVVVLDSNTRRQLFPHKADVVGEVILVG---------NMPARVIGVAEEKQS  135 (209)
+T ss_pred             CCCEEEEcHHHHHHhcCCCCCCCCCEEEEC---------CEEEEEEEEEcCCCC
+Confidence            4688999987644 454    689998773         247999999998653
+
+
+No 24
+>5NAA_B Lipoprotein-releasing system transmembrane protein LolC; Periplasmic domain, Protein transport; 1.88A {Escherichia coli}
+Probab=31.57  E-value=40  Score=36.75  Aligned_cols=54  Identities=13%  Similarity=0.233  Sum_probs=35.3  Template_Neff=10.800
+
+Q LOKIASV2_06800  160 NESGIYLDRTTATRLNLSIGDFLNLGTLRQDYIPVGEEYVQVNYTAQVDQIPISGIFEIR  219 (989)
+Q Consensus       160 ~~~~v~i~~~~a~~~~l~igd~l~~~~~~~~y~~~g~~~~~~n~t~~~~~itv~g~~~~~  219 (989)
+                      ++.+|.|++.+|+.+++++||.+++.......      ..+.+.......++|.|+++..
+T Consensus        93 ~~~~vvI~~~~a~~l~~~~Gd~i~l~~~~~~~------~~~~~~~~~~~~~~V~Gi~~~~  146 (230)
+T 5NAA_B           93 GKYNVILGEQLASQLGVNRGDQIRVMVPSASQ------FTPMGRIPSQRLFNVIGTFAAN  146 (230)
+T ss_dssp             TSCEEEEEHHHHHHHTCCTTCEEEEEEEEEEE------CCTTCCEEEEEEEEEEEEECCS
+T ss_pred             CceeEEeeHHHHHHhCCCCCCeEEEEeCCccc------CCCCCCCCceeEEEEEEEEecC
+Confidence            57889999999999999999999984332110      0000111112358888998654
+
+
+No 25
+>6F3Z_A Lipoprotein-releasing system transmembrane protein LolC; Lipoprotein trafficking, PROTEIN TRANSPORT; 2.0A {Escherichia coli K-12}
+Probab=31.57  E-value=40  Score=36.75  Aligned_cols=54  Identities=13%  Similarity=0.233  Sum_probs=35.3  Template_Neff=10.800
+
+Q LOKIASV2_06800  160 NESGIYLDRTTATRLNLSIGDFLNLGTLRQDYIPVGEEYVQVNYTAQVDQIPISGIFEIR  219 (989)
+Q Consensus       160 ~~~~v~i~~~~a~~~~l~igd~l~~~~~~~~y~~~g~~~~~~n~t~~~~~itv~g~~~~~  219 (989)
+                      ++.+|.|++.+|+.+++++||.+++.......      ..+.+.......++|.|+++..
+T Consensus        93 ~~~~vvI~~~~a~~l~~~~Gd~i~l~~~~~~~------~~~~~~~~~~~~~~V~Gi~~~~  146 (230)
+T 6F3Z_A           93 GKYNVILGEQLASQLGVNRGDQIRVMVPSASQ------FTPMGRIPSQRLFNVIGTFAAN  146 (230)
+T ss_dssp             TTCEEEEEHHHHHHHTCCTTCEEEEEEEEEEE------EETTEEEEEEEEEEEEEEECCS
+T ss_pred             CceeEEeeHHHHHHhCCCCCCeEEEEeCCccc------CCCCCCCCceeEEEEEEEEecC
+Confidence            57889999999999999999999984332110      0000111112358888998654
+
+
+No 26
+>5ITJ_A AbrB family transcriptional regulator; Histone-like protein, Complex, DNA-binding fold; HET: SO4, PG4; 1.63A {Sulfolobus solfataricus}
+Probab=29.89  E-value=45  Score=28.24  Aligned_cols=26  Identities=8%  Similarity=0.293  Sum_probs=23.6  Template_Neff=8.700
+
+Q LOKIASV2_06800  160 NESGIYLDRTTATRLNLSIGDFLNLG  185 (989)
+Q Consensus       160 ~~~~v~i~~~~a~~~~l~igd~l~~~  185 (989)
+                      +++.+.|+..+.+++|++.||.+.+.
+T Consensus        11 ~~~~i~lP~~i~~~l~l~~g~~v~i~   36 (54)
+T 5ITJ_A           11 RNYQVTIPAKVRQKFQIKEGDLVKVT   36 (54)
+T ss_dssp             GGGEEECCHHHHTTSCCCTTCEEEEE
+T ss_pred             CCCeEEeCHHHHHHcCCCCCCEEEEE
+Confidence            56889999999999999999998884
+
+
+No 27
+>1YSF_A Transition state regulatory protein abrB; NMR  HOMODIMER  BIOINFORMATICS; NMR {Bacillus subtilis} SCOP: b.129.1.3
+Probab=27.92  E-value=51  Score=29.04  Aligned_cols=27  Identities=11%  Similarity=0.094  Sum_probs=24.1  Template_Neff=7.500
+
+Q LOKIASV2_06800  160 NESGIYLDRTTATRLNLSIGDFLNLGT  186 (989)
+Q Consensus       160 ~~~~v~i~~~~a~~~~l~igd~l~~~~  186 (989)
+                      +++.|.|+.++.+++|++.||.+.+..
+T Consensus        20 ~~g~ItIPk~i~~~lgl~~G~~v~v~~   46 (59)
+T 1YSF_A           20 ELGRVVIPIELRRTLGIAEKDALEIYV   46 (59)
+T ss_dssp             TTCEEECCHHHHHHTTCCTTCEEEEEE
+T ss_pred             CCCeEEcCHHHHHHhCCCCCCEEEEEE
+Confidence            568899999999999999999988843
+
+
+No 28
+>5ITM_D AbrB family transcriptional regulator; Histone-like protein, Complex, DNA-binding fold; 1.4A {Sulfolobus solfataricus}
+Probab=25.66  E-value=60  Score=26.45  Aligned_cols=26  Identities=8%  Similarity=0.293  Sum_probs=23.1  Template_Neff=9.200
+
+Q LOKIASV2_06800  160 NESGIYLDRTTATRLNLSIGDFLNLG  185 (989)
+Q Consensus       160 ~~~~v~i~~~~a~~~~l~igd~l~~~  185 (989)
+                      +++.+.|+.++.++++++.||.+.+.
+T Consensus        11 ~~~~i~iP~~~~~~l~~~~g~~v~~~   36 (48)
+T 5ITM_D           11 RNYQVTIPAKVRQKFQIKEGDLVKVT   36 (48)
+T ss_dssp             GGGEEECCHHHHTTSCCCTTCEEEEE
+T ss_pred             CCCEEEecHHHHHHcCCCCCCEEEEE
+Confidence            56789999999999999999988773
+
+
+No 29
+>3FTJ_A Macrolide export ATP-binding/permease protein macB; macrolide-specific pump, ABC-type transporter, heat; 1.999A {Actinobacillus actinomycetemcomitans}
+Probab=25.04  E-value=62  Score=34.82  Aligned_cols=40  Identities=15%  Similarity=0.194  Sum_probs=29.5  Template_Neff=11.300
+
+Q LOKIASV2_06800  726 SPNSTLIPLSME-EEGY---RVGNKISITYQVNETATKEMELEIVGVYRAFPL  774 (989)
+Q Consensus       726 ~Pn~vLVs~~~~-d~gl---~VGD~I~l~~~~~~t~~~~v~l~vVGI~~~fP~  774 (989)
+                      .++.|+|++.++ +.+.   .+||++.+.         ..+++|+||++....
+T Consensus       103 ~~~~vvi~~~~a~~l~~~~~~vG~~i~~~---------~~~~~V~Gi~~~~~~  146 (226)
+T 3FTJ_A          103 SNQVVVLDESAKKAIFANENPLGKTVIFN---------KRPFRVIGVVSDQQL  146 (226)
+T ss_dssp             TCCEEEEEHHHHHHHHTTSCCTTCEEEET---------TEEEEEEEEECCC--
+T ss_pred             CCcEEEEcHHHHHHhcCCCCCCCCEEEEC---------CEEEEEEEEEeccCC
+Confidence            468899998764 4465   899999873         247999999987653
+
+
+No 30
+>6S8N_F Lipopolysaccharide ABC transporter, ATP-binding protein; lipopolysaccharide transporter, LPS, LptB2FGC, LptB; HET: DCQ, LMN, L0W, LMT; 3.1A {Shigella flexneri}
+Probab=24.89  E-value=63  Score=39.03  Aligned_cols=42  Identities=17%  Similarity=0.264  Sum_probs=34.0  Template_Neff=9.200
+
+Q LOKIASV2_06800  864 SFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGFT  905 (989)
+Q Consensus       864 ~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~~  905 (989)
+                      ++-++.++.++-+.|.+|+-.+||-|.|.+++.+-++.=+++
+T Consensus        67 a~lla~~~~~~~l~~~~El~a~~a~GiS~~~l~~p~l~~~~~  108 (366)
+T 6S8N_F           67 SLFLGLLMTLGKLYTESEITVMHACGLSKAVLVKAAMILAVF  108 (366)
+T ss_pred             HHHHHHHHHHHHHcccchHHHHHHCCCCHHHHHHHHHHHHHH
+Confidence            344556777899999999999999999999999877654433
+
+
+No 31
+>5X5Y_F Probable ATP-binding component of ABC; membrane protein, transporter; 3.465A {Pseudomonas aeruginosa PAO1}
+Probab=22.66  E-value=74  Score=38.25  Aligned_cols=40  Identities=18%  Similarity=0.235  Sum_probs=33.0  Template_Neff=9.500
+
+Q LOKIASV2_06800  864 SFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEG  903 (989)
+Q Consensus       864 ~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~  903 (989)
+                      ++-++..+.++-..|++|+-.+||-|.|.+++.+-++.=+
+T Consensus        67 a~lia~l~~~~~l~~~~El~~l~a~GiS~~~l~~p~l~~~  106 (362)
+T 5X5Y_F           67 GLFLGILLAYGRLYLESEMTVLSATGMSQKRLLGYTMAPA  106 (362)
+T ss_dssp             HHHHHHHHHHHHHHHTTHHHHHHTTTCCHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhcchHHHHHHcCCCHHHHHHHHHHHH
+Confidence            4556667778999999999999999999999988665433
+
+
+No 32
+>2K1N_C Transition state regulatory protein abrB/DNA; AbrB, abrB8, DNA bound, Transition; NMR {Bacillus subtilis}
+Probab=22.17  E-value=77  Score=27.00  Aligned_cols=27  Identities=11%  Similarity=0.094  Sum_probs=23.7  Template_Neff=8.600
+
+Q LOKIASV2_06800  160 NESGIYLDRTTATRLNLSIGDFLNLGT  186 (989)
+Q Consensus       160 ~~~~v~i~~~~a~~~~l~igd~l~~~~  186 (989)
+                      +.+.+.|+..+.+++|++.||.+.+..
+T Consensus        12 ~~~~i~iP~~~~~~~~l~~g~~v~v~~   38 (55)
+T 2K1N_C           12 ELGRVVIPIELRRTLGIAEKDALEIYV   38 (55)
+T ss_dssp             TTBCBCCCHHHCCCCCCCTTSEEEEEE
+T ss_pred             CCCeEEcCHHHHHHhCCCCCCEEEEEE
+Confidence            567899999999999999999988833
+
+
+No 33
+>6S8N_G Lipopolysaccharide ABC transporter, ATP-binding protein; lipopolysaccharide transporter, LPS, LptB2FGC, LptB; HET: DCQ, LMN, L0W, LMT; 3.1A {Shigella flexneri}
+Probab=22.10  E-value=78  Score=37.96  Aligned_cols=41  Identities=10%  Similarity=0.160  Sum_probs=33.5  Template_Neff=9.700
+
+Q LOKIASV2_06800  864 SFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGF  904 (989)
+Q Consensus       864 ~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~  904 (989)
+                      ++-++.++.++-..|++|+-.+||-|.|.+++.+-++.=++
+T Consensus        71 a~lla~~~~~~~l~~~~El~al~a~G~s~~~l~~p~l~~~~  111 (360)
+T 6S8N_G           71 AALLGALLGLGMLAQRSELVVMQASGFTRMQVALSVMKTAI  111 (360)
+T ss_pred             HHHHHHHHHHHHhccCCcHHHHHhCCCCHHHHHHHHHHHHH
+Confidence            45556677788999999999999999999999987664433
+
+
+No 34
+>3O27_A Putative uncharacterized protein; swapped-hairpin fold, transcription factor, DNA; 2.8A {Sulfolobus islandicus}
+Probab=20.65  E-value=87  Score=28.65  Aligned_cols=26  Identities=15%  Similarity=0.194  Sum_probs=23.5  Template_Neff=7.100
+
+Q LOKIASV2_06800  160 NESGIYLDRTTATRLNLSIGDFLNLG  185 (989)
+Q Consensus       160 ~~~~v~i~~~~a~~~~l~igd~l~~~  185 (989)
+                      ++..|.|+..+++++|++.||.+.+.
+T Consensus        23 ~s~~ItIP~~i~~~lgl~~Gd~v~v~   48 (68)
+T 3O27_A           23 TTFYLLIPKDIAEALDIKPDDTFILN   48 (68)
+T ss_dssp             CCEEEEECHHHHHHTTCCTTCCEEEE
+T ss_pred             CcceEEEeHHHHHHcCCCCCCEEEEE
+Confidence            66889999999999999999998873
+
+
+No 35
+>6MIT_F Lipopolysaccharide export system ATP-binding protein; lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: NOV, SO4; 3.2A {Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56)}
+Probab=20.55  E-value=88  Score=37.82  Aligned_cols=41  Identities=17%  Similarity=0.304  Sum_probs=33.4  Template_Neff=9.300
+
+Q LOKIASV2_06800  864 SFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGF  904 (989)
+Q Consensus       864 ~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~  904 (989)
+                      ++-++..+.++-..|++|+-.+||-|.|.+++.+-++.=++
+T Consensus        67 a~lla~l~~l~~l~~~~El~al~a~GiS~~~l~~p~l~~~~  107 (366)
+T 6MIT_F           67 SLFLGLLMTLGKLYTESEITVMHACGLSKAVLVKAAMILAL  107 (366)
+T ss_pred             HHHHHHHHHHHHhccccHHHHHHHCCCCHHHHHHHHHHHHH
+Confidence            34455677788999999999999999999999987665443
+
+
+No 36
+>6MIT_J Lipopolysaccharide export system ATP-binding protein; lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: SO4, NOV; 3.2A {Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56)}
+Probab=20.40  E-value=89  Score=37.49  Aligned_cols=41  Identities=10%  Similarity=0.155  Sum_probs=33.4  Template_Neff=9.700
+
+Q LOKIASV2_06800  864 SFGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGF  904 (989)
+Q Consensus       864 ~~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~  904 (989)
+                      ++-++..+.++-..|++|+-.|||-|.|++++.+-++.=++
+T Consensus        71 a~lla~l~~~~~l~~~~El~al~a~GiS~~~l~~p~l~~~~  111 (360)
+T 6MIT_J           71 AALLGALLGLGMLAQRSELVVMQASGFTRLQVALSVMKTAI  111 (360)
+T ss_dssp             HHHHHHHHHHHHHHHTTCHHHHHHHTCCHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHhhcCcHHHHHhcCCCHHHHHHHHHHHHH
+Confidence            45556677788899999999999999999999987664443
+
+
+No 37
+>6MJP_F ABC transporter ATP-binding protein (E.C.3.6.3.-); lipopolysaccharide transport, ABC-transporter, LIPID TRANSPORT; HET: AE3, MA4, JU7, GOL, LMT, PG4; 2.85A {Vibrio cholerae}
+Probab=20.29  E-value=89  Score=37.79  Aligned_cols=40  Identities=10%  Similarity=0.260  Sum_probs=32.4  Template_Neff=9.200
+
+Q LOKIASV2_06800  865 FGLAIIMYISVNEKSRDLGLLRARGVPKKIIYKIQIAEGF  904 (989)
+Q Consensus       865 ~Gi~~~l~lsv~ER~rEigiLrA~G~sr~Ql~~~~~~E~~  904 (989)
+                      +-++..+.++-..|.+|+-.|||.|.|++++.+-++.=++
+T Consensus        68 ~lia~l~~l~~l~~~~El~al~a~GiS~~~l~~p~l~~~~  107 (366)
+T 6MJP_F           68 LYIGILLTFGRLYAESEITVMNATGIGNKFLIRAALYLAL  107 (366)
+T ss_pred             HHHHHHHHHHHhccccHHHHHHHCCCCHHHHHHHHHHHHH
+Confidence            4445566788899999999999999999999987665443
+
+

@@ -1,0 +1,156 @@
+Query         LOKIASV2_13140 hypothetical protein
+Match_columns 951
+No_of_seqs    7 out of 7
+Neff          1.551
+Searched_HMMs 80799
+Date          Mon Sep  9 21:51:27 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpf20z_9ki/query.a3m -o /tmp/tmpf20z_9ki/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6H4N_v 30S ribosomal protein S  28.1      51 0.00063   28.8   0.0   24   82-112    11-34  (55)
+  2 6H58_vv 50S ribosomal protein   28.1      51 0.00063   28.8   0.0   24   82-112    11-34  (55)
+  3 2JRM_A Ribosome modulation fac  22.4      76 0.00094   29.1   0.0   24   82-112    11-34  (65)
+  4 2LZL_A Fibroblast growth facto  14.9 1.5E+02  0.0018   24.9   0.0   27  923-950    17-43  (43)
+  5 4V8G_AV Ribosome; ribosome mod  13.8 1.6E+02   0.002   27.0   0.0   22   83-111    12-33  (61)
+  6 1PFI_A MAJOR COAT PROTEIN OF P   8.8 3.1E+02  0.0038   24.9   0.0   41  909-949     5-45  (46)
+  7 1QL1_A PF1 BACTERIOPHAGE COAT    8.8 3.1E+02  0.0038   24.9   0.0   41  909-949     5-45  (46)
+  8 1QL2_B PF1 BACTERIOPHAGE COAT    8.8 3.1E+02  0.0038   24.9   0.0   41  909-949     5-45  (46)
+  9 1IIJ_A ERBB-2 RECEPTOR PROTEIN   8.0 3.4E+02  0.0043   20.0   0.0   16  934-949    19-34  (35)
+ 10 5OB4_B Receptor tyrosine-prote   7.7 3.7E+02  0.0046   19.9   0.0   20  932-951    21-40  (44)
+
+No 1
+>6H4N_v 30S ribosomal protein S2, 30S; 100S, cryo-EM, E-site tRNA, hibernation; 3.0A {Escherichia coli BW25113}
+Probab=28.08  E-value=51  Score=28.78  Aligned_cols=24  Identities=29%  Similarity=0.562  Sum_probs=15.5  Template_Neff=5.700
+
+Q LOKIASV2_13140   82 MAYEEGYDAGFNNDTYSSDPWNYTANPYPEI  112 (951)
+Q Consensus        82 ~aYeegYD~GfnN~t~~~~psNyT~NPY~~i  112 (951)
+                      .||.+||.+|-...+.       +.+||...
+T Consensus        11 rA~~~Gy~Ag~~G~~~-------~~CPy~~~   34 (55)
+T 6H4N_v           11 RAHQRGYQAGIAGRSK-------EMCPYQTL   34 (55)
+T ss_pred             HHHHHHHHHHHcCCCc-------ccCCCCCH
+Confidence            4566666666655554       66899854
+
+
+No 2
+>6H58_vv 50S ribosomal protein L32, 50S; 100S, cryo-EM, E-site tRNA, hibernation; 7.9A {Escherichia coli BW25113}
+Probab=28.08  E-value=51  Score=28.78  Aligned_cols=24  Identities=29%  Similarity=0.562  Sum_probs=15.5  Template_Neff=5.700
+
+Q LOKIASV2_13140   82 MAYEEGYDAGFNNDTYSSDPWNYTANPYPEI  112 (951)
+Q Consensus        82 ~aYeegYD~GfnN~t~~~~psNyT~NPY~~i  112 (951)
+                      .||.+||.+|-...+.       +.+||...
+T Consensus        11 rA~~~Gy~Ag~~G~~~-------~~CPy~~~   34 (55)
+T 6H58_vv          11 RAHQRGYQAGIAGRSK-------EMCPYQTL   34 (55)
+T ss_pred             HHHHHHHHHHHcCCCc-------ccCCCCCH
+Confidence            4566666666655554       66899854
+
+
+No 3
+>2JRM_A Ribosome modulation factor; solution NMR structure, Structural Genomics; NMR {Vibrio parahaemolyticus}
+Probab=22.36  E-value=76  Score=29.08  Aligned_cols=24  Identities=38%  Similarity=0.708  Sum_probs=14.2  Template_Neff=4.900
+
+Q LOKIASV2_13140   82 MAYEEGYDAGFNNDTYSSDPWNYTANPYPEI  112 (951)
+Q Consensus        82 ~aYeegYD~GfnN~t~~~~psNyT~NPY~~i  112 (951)
+                      .||.+||-+|....+.       +.|||...
+T Consensus        11 rAy~~Gy~Agl~Gks~-------~~CPy~~~   34 (65)
+T 2JRM_A           11 RAQSQGYKAGLNGRSQ-------EACPYQQV   34 (65)
+T ss_dssp             HHHHHHHHHHHTSCSG-------GGCCSCSH
+T ss_pred             HHHHHHHHHHHCCCCc-------ccCCCCCH
+Confidence            4555555555554443       56898854
+
+
+No 4
+>2LZL_A Fibroblast growth factor receptor 3; transmembrane domain, fibroblast growth factor; NMR {Homo sapiens}
+Probab=14.86  E-value=1.5e+02  Score=24.86  Aligned_cols=27  Identities=26%  Similarity=0.509  Sum_probs=18.9  Template_Neff=5.900
+
+Q LOKIASV2_13140  923 FGNIPGYETGFLLAALFGTMVILIYRKK  950 (951)
+Q Consensus       923 f~nipgy~tg~~l~a~~gt~~~~~~~~k  950 (951)
+                      +..|--|.+|++++++.. ++..+.|+|
+T Consensus        17 y~~IiIy~vg~~lii~~v-viv~lcr~k   43 (43)
+T 2LZL_A           17 YAGILSYGVGFFLFILVV-AAVTLCRLR   43 (43)
+T ss_dssp             THHHHHHHHHHHHHHHHH-HHHHHHHHC
+T ss_pred             HHHHHHHHHHHHHHHHHH-HHHHHHhcC
+Confidence            566778888999888766 555555554
+
+
+No 5
+>4V8G_AV Ribosome; ribosome modulation factor, stress response; HET: MG, ZN; 3.0A {Thermus thermophilus}
+Probab=13.84  E-value=1.6e+02  Score=27.00  Aligned_cols=22  Identities=32%  Similarity=0.596  Sum_probs=12.2  Template_Neff=4.600
+
+Q LOKIASV2_13140   83 AYEEGYDAGFNNDTYSSDPWNYTANPYPE  111 (951)
+Q Consensus        83 aYeegYD~GfnN~t~~~~psNyT~NPY~~  111 (951)
+                      ||..||-+|..-.+.       +.+||..
+T Consensus        12 Ay~~GY~AGl~Grs~-------~~CPy~~   33 (61)
+T 4V8G_AV          12 AHQRGYQAGIAGRSK-------EMCPYQT   33 (61)
+T ss_pred             HHHHHHHHHHcCCCh-------hhCCCCC
+Confidence            444555555444333       5689875
+
+
+No 6
+>1PFI_A MAJOR COAT PROTEIN OF PF1; COMPLEX(VIRAL COAT PROTEIN-DNA), Helical virus; 3.0A {Pseudomonas phage Pf1} SCOP: h.1.4.1
+Probab=8.78  E-value=3.1e+02  Score=24.85  Aligned_cols=41  Identities=24%  Similarity=0.379  Sum_probs=27.8  Template_Neff=2.000
+
+Q LOKIASV2_13140  909 TDTTTTTTDDDQSPFGNIPGYETGFLLAALFGTMVILIYRK  949 (951)
+Q Consensus       909 t~t~~t~tddd~~pf~nipgy~tg~~l~a~~gt~~~~~~~~  949 (951)
+                      |...+++-.+.|+--.++-||..|.+.+.+..-+.|-+.||
+T Consensus         5 t~a~~~ait~gqsd~~svgg~iVgvl~~laVaGlI~~l~RK   45 (46)
+T 1PFI_A            5 TSAVESAITDGQGDMKAIGGYIVGALVILAVAGLIYSMLRK   45 (46)
+T ss_dssp             HHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             chHHHHhhhhCCCcchhhHHHHHHHHHHHHHHHHHHHHHhc
+Confidence            33334455566777889999999988776666666655554
+
+
+No 7
+>1QL1_A PF1 BACTERIOPHAGE COAT PROTEIN B; VIRUS, VIRUS COAT PROTEIN, HELICAL; 3.1A {PSEUDOMONAS PHAGE PF1} SCOP: h.1.4.1
+Probab=8.78  E-value=3.1e+02  Score=24.85  Aligned_cols=41  Identities=24%  Similarity=0.379  Sum_probs=27.8  Template_Neff=2.000
+
+Q LOKIASV2_13140  909 TDTTTTTTDDDQSPFGNIPGYETGFLLAALFGTMVILIYRK  949 (951)
+Q Consensus       909 t~t~~t~tddd~~pf~nipgy~tg~~l~a~~gt~~~~~~~~  949 (951)
+                      |...+++-.+.|+--.++-||..|.+.+.+..-+.|-+.||
+T Consensus         5 t~a~~~ait~gqsd~~svgg~iVgvl~~laVaGlI~~l~RK   45 (46)
+T 1QL1_A            5 TSAVESAITDGQGDMKAIGGYIVGALVILAVAGLIYSMLRK   45 (46)
+T ss_dssp             CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             chHHHHHHhhCCCcchhhHHHHHHHHHHHHHHHHHHHHHhc
+Confidence            33334455566777889999999988776666666655554
+
+
+No 8
+>1QL2_B PF1 BACTERIOPHAGE COAT PROTEIN B; VIRUS, VIRUS COAT PROTEIN, HELICAL; 3.1A {PSEUDOMONAS PHAGE PF1} SCOP: h.1.4.1
+Probab=8.78  E-value=3.1e+02  Score=24.85  Aligned_cols=41  Identities=24%  Similarity=0.379  Sum_probs=27.8  Template_Neff=2.000
+
+Q LOKIASV2_13140  909 TDTTTTTTDDDQSPFGNIPGYETGFLLAALFGTMVILIYRK  949 (951)
+Q Consensus       909 t~t~~t~tddd~~pf~nipgy~tg~~l~a~~gt~~~~~~~~  949 (951)
+                      |...+++-.+.|+--.++-||..|.+.+.+..-+.|-+.||
+T Consensus         5 t~a~~~ait~gqsd~~svgg~iVgvl~~laVaGlI~~l~RK   45 (46)
+T 1QL2_B            5 TSAVESAITDGQGDMKAIGGYIVGALVILAVAGLIYSMLRK   45 (46)
+T ss_dssp             CHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             chHHHHhhhhCCCcchhhHHHHHHHHHHHHHHHHHHHHHhc
+Confidence            33334455566777889999999988776666666655554
+
+
+No 9
+>1IIJ_A ERBB-2 RECEPTOR PROTEIN-TYROSINE KINASE (E.C.2.7.1.112); alpha-helix-pi-bulge-alpha-helix, SIGNALING PROTEIN; NMR {N/A} SCOP: j.35.1.1
+Probab=8.04  E-value=3.4e+02  Score=19.96  Aligned_cols=16  Identities=38%  Similarity=0.426  Sum_probs=7.0  Template_Neff=8.400
+
+Q LOKIASV2_13140  934 LLAALFGTMVILIYRK  949 (951)
+Q Consensus       934 ~l~a~~gt~~~~~~~~  949 (951)
+                      ..+++++.+.++++||
+T Consensus        19 ~~~~~~~~~~~~~~rr   34 (35)
+T 1IIJ_A           19 LFLILVVVVGILIKRR   34 (35)
+T ss_dssp             HCCCCCCCCCCCHHHC
+T ss_pred             HHHHHHHHHHHHHHhc
+Confidence            3334444444444444
+
+
+No 10
+>5OB4_B Receptor tyrosine-protein kinase erbB-2 (E.C.2.7.10.1); PROTEIN ERBB2 HER2 RECEPTOR TYROSINE; NMR {Homo sapiens}
+Probab=7.65  E-value=3.7e+02  Score=19.91  Aligned_cols=20  Identities=30%  Similarity=0.290  Sum_probs=0.0  Template_Neff=9.400
+
+Q LOKIASV2_13140  932 GFLLAALFGTMVILIYRKKH  951 (951)
+Q Consensus       932 g~~l~a~~gt~~~~~~~~k~  951 (951)
+                      +++++++++.++++++||++
+T Consensus        21 ~~~~~~~~~~~~~~~~rr~r   40 (44)
+T 5OB4_B           21 ILLVVVLGVVFGILIKRRQQ   40 (44)
+T ss_dssp             HHHHHHHHHHHHHHHHHHCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHH
+
+
