@@ -1,0 +1,3 @@
+# split is magical for generating separate files from the gathered together fasta
+split -l 2 -a 3 -d OOM_proteins.faa desulfo_ASV2_OOM_prot_ --additional-suffix=.fasta
+# every 2 -l(ines) with -d(ecimal) numbering, and -a 3 of those numbers in the suffix 
