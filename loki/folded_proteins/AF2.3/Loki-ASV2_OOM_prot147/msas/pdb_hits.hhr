@@ -1,0 +1,2660 @@
+Query         LOKIASV2_44640 hypothetical protein
+Match_columns 1547
+No_of_seqs    1021 out of 9909
+Neff          6.48668
+Searched_HMMs 80799
+Date          Thu Sep 12 07:45:51 2024
+Command       /usr/bin/hhsearch -i /tmp/tmph5fm12v2/query.a3m -o /tmp/tmph5fm12v2/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2RHP_A Thrombospondin-2; Extra  98.3 1.2E-09 1.5E-14  143.7   0.0  221 1174-1453  175-397 (622)
+  2 3FBY_A Cartilage oligomeric ma  98.3 1.4E-09 1.8E-14  140.3   0.0  221 1099-1405   90-312 (551)
+  3 3FBY_A Cartilage oligomeric ma  98.3 2.1E-09 2.6E-14  138.8   0.0  244 1151-1453   60-311 (551)
+  4 2RHP_A Thrombospondin-2; Extra  98.2 2.7E-09 3.3E-14  140.6   0.0  220 1100-1405  177-398 (622)
+  5 3FBY_A Cartilage oligomeric ma  98.2 4.9E-09 6.1E-14  135.4   0.0  152 1098-1287  148-314 (551)
+  6 2RHP_A Thrombospondin-2; Extra  98.1 8.9E-09 1.1E-13  135.8   0.0   33 1246-1287  368-400 (622)
+  7 1YO8_A thrombospondin-2; EGF    98.1 1.1E-08 1.4E-13  135.2   0.0  225 1170-1453  174-400 (634)
+  8 2RHP_A Thrombospondin-2; Extra  98.0 1.3E-08 1.7E-13  134.1   0.0  134  757-917   175-309 (622)
+  9 3FBY_A Cartilage oligomeric ma  98.0 1.7E-08 2.1E-13  130.6   0.0  151  739-916    61-222 (551)
+ 10 1YO8_A thrombospondin-2; EGF    98.0 1.7E-08 2.1E-13  133.5   0.0  219 1101-1405  181-401 (634)
+ 11 1YO8_A thrombospondin-2; EGF    97.8 8.5E-08 1.1E-12  127.0   0.0  135 1129-1287  254-403 (634)
+ 12 1YO8_A thrombospondin-2; EGF    97.8 9.3E-08 1.1E-12  126.7   0.0  131  759-916   180-311 (634)
+ 13 1UX6_A THROMBOSPONDIN-1; EXTRA  96.0 0.00036 4.5E-09   86.4   0.0   62  750-819    14-75  (350)
+ 14 1UX6_A THROMBOSPONDIN-1; EXTRA  94.4  0.0072 8.9E-08   75.3   0.0  107 1126-1287   22-128 (350)
+ 15 1UX6_A THROMBOSPONDIN-1; EXTRA  93.4    0.02 2.5E-07   71.5   0.0  107 1313-1453   19-125 (350)
+ 16 1UX6_A THROMBOSPONDIN-1; EXTRA  93.1   0.026 3.2E-07   70.6   0.0  108 1243-1405   19-126 (350)
+ 17 3A9G_A Putative uncharacterize  92.9   0.029 3.6E-07   67.4   0.0  114  364-512    29-154 (354)
+ 18 3A9G_A Putative uncharacterize  91.6   0.065 8.1E-07   64.5   0.0  167  302-511    30-216 (354)
+ 19 1Q7F_B brain tumor CG10719-PA;  90.9   0.094 1.2E-06   60.5   0.0   62  630-710   208-269 (286)
+ 20 4ZLR_A Brain tumor protein/RNA  90.0    0.13 1.6E-06   58.7   0.0   63  629-710   203-265 (282)
+ 21 2QC5_A Streptogramin B lactona  89.1    0.18 2.2E-06   57.5   0.0   18  365-382    63-80  (300)
+ 22 5WM0_A Peptidyl-glycine alpha-  89.0    0.19 2.4E-06   71.7   0.0   82  364-449   515-600 (976)
+ 23 4ZLR_B Brain tumor protein/RNA  88.4    0.23 2.8E-06   56.9   0.0   62  630-710   204-265 (282)
+ 24 1Q7F_B brain tumor CG10719-PA;  87.7    0.28 3.4E-06   56.7   0.0  149  302-511    31-182 (286)
+ 25 6FB3_B Teneurin-2; TTR, fibron  85.9    0.43 5.3E-06   73.0   0.0   60  365-449   315-381 (1859)
+ 26 2ISM_B Putative oxidoreductase  85.5    0.46 5.7E-06   57.0   0.0  113  365-512    32-154 (352)
+ 27 4ZLR_A Brain tumor protein/RNA  85.3    0.48 5.9E-06   54.3   0.0  149  301-511    26-178 (282)
+ 28 2J42_A C2 TOXIN COMPONENT-II;   84.5    0.56 6.9E-06   63.6   0.0   64 1101-1168  185-248 (721)
+ 29 6SKA_A Teneurin-2, Adhesion G   84.3    0.58 7.2E-06   71.5   0.0   21  692-712   610-630 (1836)
+ 30 2J42_A C2 TOXIN COMPONENT-II;   84.1     0.6 7.5E-06   63.3   0.0   67 1390-1460  185-251 (721)
+ 31 3A9G_A Putative uncharacterize  83.9    0.62 7.7E-06   56.3   0.0   77  364-450   135-217 (354)
+ 32 3Q6K_B 43.2 kDa salivary prote  83.5    0.67 8.3E-06   57.8   0.0   65  630-712   276-344 (381)
+ 33 3Q6P_B 43.2 kDa salivary prote  83.5    0.67 8.3E-06   57.8   0.0   65  630-712   276-344 (381)
+ 34 3Q6T_A 43.2 kDa salivary prote  83.5    0.67 8.3E-06   57.8   0.0   65  630-712   276-344 (381)
+ 35 3HRP_A Uncharacterized protein  82.8    0.75 9.3E-06   57.2   0.0   19  692-710   380-398 (409)
+ 36 6D69_A GH06739p; protein-prote  82.2    0.83   1E-05   51.7   0.0   18  494-511   141-158 (307)
+ 37 5C2M_A Predicted protein; beta  81.7     0.9 1.1E-05   54.0   0.0   55  433-510    14-68  (250)
+ 38 4ZLR_B Brain tumor protein/RNA  81.6    0.91 1.1E-05   52.0   0.0  150  301-511    26-178 (282)
+ 39 3FVZ_A Peptidyl-glycine alpha-  81.5    0.92 1.1E-05   52.8   0.0   93  352-450    14-110 (329)
+ 40 3FW0_A Peptidyl-glycine alpha-  81.5    0.92 1.1E-05   52.8   0.0   93  352-450    14-110 (329)
+ 41 2J42_A C2 TOXIN COMPONENT-II;   81.3    0.95 1.2E-05   61.5   0.0   63 1150-1216  185-247 (721)
+ 42 2J42_A C2 TOXIN COMPONENT-II;   80.5     1.1 1.3E-05   61.1   0.0   67  954-1024  185-251 (721)
+ 43 3Q6K_B 43.2 kDa salivary prote  80.2     1.1 1.4E-05   55.9   0.0   66  303-382    28-105 (381)
+ 44 3Q6P_B 43.2 kDa salivary prote  80.2     1.1 1.4E-05   55.9   0.0   66  303-382    28-105 (381)
+ 45 3Q6T_A 43.2 kDa salivary prote  80.2     1.1 1.4E-05   55.9   0.0   66  303-382    28-105 (381)
+ 46 3FVZ_A Peptidyl-glycine alpha-  79.8     1.2 1.4E-05   52.0   0.0   80  301-382    24-109 (329)
+ 47 3FW0_A Peptidyl-glycine alpha-  79.8     1.2 1.4E-05   52.0   0.0   80  301-382    24-109 (329)
+ 48 5WTL_A OmpA family protein; pr  79.7     1.2 1.5E-05   53.8   0.0   36 1130-1165   31-71  (261)
+ 49 5C2M_A Predicted protein; beta  79.3     1.2 1.5E-05   52.8   0.0  147  302-510    13-163 (250)
+ 50 5MIN_B Quinoprotein glucose de  79.0     1.3 1.6E-05   57.8   0.0   74  433-511    79-162 (453)
+ 51 2QC5_A Streptogramin B lactona  78.8     1.3 1.7E-05   50.6   0.0   60  302-382    63-122 (300)
+ 52 5WTL_C OmpA family protein; pr  77.0     1.7   2E-05   52.6   0.0   36 1130-1165   31-71  (261)
+ 53 2ISM_B Putative oxidoreductase  74.5     2.2 2.7E-05   51.4   0.0  126  302-450    76-222 (352)
+ 54 3HRP_A Uncharacterized protein  74.1     2.3 2.8E-05   53.1   0.0   20  493-512   323-342 (409)
+ 55 5WM0_A Peptidyl-glycine alpha-  73.2     2.5 3.1E-05   60.9   0.0   80  301-382   515-600 (976)
+ 56 5WTL_C OmpA family protein; pr  71.0       3 3.7E-05   50.5   0.0   91 1129-1241    3-98  (261)
+ 57 5WTL_A OmpA family protein; pr  70.8     3.1 3.8E-05   50.4   0.0   14  808-821    31-44  (261)
+ 58 1CRU_A SOLUBLE QUINOPROTEIN GL  70.1     3.3   4E-05   54.2   0.0   74  433-512    79-163 (454)
+ 59 5WTL_A OmpA family protein; pr  69.1     3.5 4.4E-05   49.9   0.0   13  808-820    58-70  (261)
+ 60 4NAM_A Protective antigen; ant  66.5     4.4 5.4E-05   56.0   0.0   65 1199-1264  175-241 (735)
+ 61 6FB3_B Teneurin-2; TTR, fibron  65.6     4.7 5.8E-05   62.4   0.0   56  433-510   316-380 (1859)
+ 62 3A9G_A Putative uncharacterize  65.6     4.7 5.8E-05   48.9   0.0   75  302-383   136-217 (354)
+ 63 4NAM_A Protective antigen; ant  65.2     4.8   6E-05   55.6   0.0   68 1390-1458  175-244 (735)
+ 64 3KYA_A Putative phosphatase; P  65.2     4.8   6E-05   52.4   0.0   18  302-319   140-159 (496)
+ 65 5WTL_C OmpA family protein; pr  64.0     5.3 6.6E-05   48.5   0.0   13  808-820    58-70  (261)
+ 66 1Q7F_B brain tumor CG10719-PA;  63.9     5.3 6.6E-05   46.3   0.0  148  302-511   122-269 (286)
+ 67 6SKA_A Teneurin-2, Adhesion G   63.8     5.4 6.7E-05   61.7   0.0   57  433-511   306-371 (1836)
+ 68 4NAM_A Protective antigen; ant  63.8     5.4 6.7E-05   55.2   0.0   65 1150-1215  175-241 (735)
+ 69 4NAM_A Protective antigen; ant  63.4     5.5 6.8E-05   55.1   0.0   66 1100-1166  174-241 (735)
+ 70 5WTL_A OmpA family protein; pr  62.8     5.8 7.2E-05   48.1   0.0   60 1297-1356    3-71  (261)
+ 71 6SJX_A Iron-regulated protein   60.6     6.7 8.3E-05   45.2   0.0   35 1129-1165    7-41  (182)
+ 72 3TEW_A Protective antigen; pro  58.6     7.7 9.5E-05   53.6   0.0   66 1100-1166  174-241 (715)
+ 73 3TEX_A Protective antigen; pro  58.6     7.7 9.5E-05   53.6   0.0   66 1100-1166  174-241 (715)
+ 74 6SJX_A Iron-regulated protein   57.9     8.1  0.0001   44.6   0.0   58 1079-1142    6-64  (182)
+ 75 5WTL_C OmpA family protein; pr  57.9     8.1  0.0001   46.9   0.0   59 1298-1356    4-71  (261)
+ 76 3HRP_A Uncharacterized protein  57.2     8.4  0.0001   48.1   0.0   19  493-511   380-398 (409)
+ 77 3NO2_A uncharacterized protein  55.8     9.2 0.00011   44.6   0.0  221  303-623    39-261 (276)
+ 78 3TEW_A Protective antigen; pro  55.5     9.4 0.00012   52.8   0.0   69 1390-1459  175-245 (715)
+ 79 3TEX_A Protective antigen; pro  55.5     9.4 0.00012   52.8   0.0   69 1390-1459  175-245 (715)
+ 80 3KYA_A Putative phosphatase; P  53.9      10 0.00013   49.4   0.0   20  692-711   444-464 (496)
+ 81 3TEW_A Protective antigen; pro  52.7      11 0.00014   52.1   0.0   65 1199-1264  175-241 (715)
+ 82 3TEX_A Protective antigen; pro  52.7      11 0.00014   52.1   0.0   65 1199-1264  175-241 (715)
+ 83 4ZLR_A Brain tumor protein/RNA  50.7      13 0.00016   42.8   0.0  148  302-511   118-265 (282)
+ 84 6FB3_B Teneurin-2; TTR, fibron  50.6      13 0.00016   57.9   0.0   58  302-382   315-381 (1859)
+ 85 6SKA_A Teneurin-2, Adhesion G   50.3      13 0.00016   57.7   0.0   58  302-382   305-371 (1836)
+ 86 3TEW_A Protective antigen; pro  46.7      16  0.0002   50.7   0.0   69  955-1024  176-246 (715)
+ 87 3TEX_A Protective antigen; pro  46.7      16  0.0002   50.7   0.0   69  955-1024  176-246 (715)
+ 88 6FB3_B Teneurin-2; TTR, fibron  45.9      17 0.00021   56.7   0.0   19  493-511   551-569 (1859)
+ 89 6SKA_A Teneurin-2, Adhesion G   44.7      18 0.00022   56.3   0.0   20  493-512   541-560 (1836)
+ 90 3Q6K_B 43.2 kDa salivary prote  42.5      21 0.00026   45.0   0.0   63  433-512   277-343 (381)
+ 91 3Q6P_B 43.2 kDa salivary prote  42.5      21 0.00026   45.0   0.0   63  433-512   277-343 (381)
+ 92 3Q6T_A 43.2 kDa salivary prote  42.5      21 0.00026   45.0   0.0   63  433-512   277-343 (381)
+ 93 2WFT_A HEDGEHOG-INTERACTING PR  42.1      21 0.00026   46.9   0.0   20  691-710   335-354 (458)
+ 94 4ZLR_B Brain tumor protein/RNA  41.5      22 0.00027   40.9   0.0  148  302-511   118-265 (282)
+ 95 2QC5_A Streptogramin B lactona  40.5      23 0.00029   40.6   0.0  101  365-510   189-289 (300)
+ 96 6SJX_A Iron-regulated protein   40.3      24 0.00029   41.0   0.0  117  882-1018    6-123 (182)
+ 97 2WFT_A HEDGEHOG-INTERACTING PR  40.2      24 0.00029   46.4   0.0   74  433-509   141-234 (458)
+ 98 6D69_A GH06739p; protein-prote  40.1      24  0.0003   40.1   0.0   18  494-511   282-299 (307)
+ 99 5WM0_A Peptidyl-glycine alpha-  39.3      25 0.00031   51.2   0.0   82  493-583   515-600 (976)
+100 3TC9_B Hypothetical hydrolase;  37.1      29 0.00035   44.3   0.0   61  302-382   227-289 (430)
+101 3E5Z_B putative Gluconolactona  36.8      29 0.00036   40.3   0.0   74  433-511   117-190 (296)
+102 6SJX_A Iron-regulated protein   35.3      32  0.0004   39.9   0.0   13 1053-1065   27-39  (182)
+103 2WG3_C DESERT HEDGEHOG PROTEIN  34.5      33 0.00041   45.2   0.0   20  363-382    13-34  (463)
+104 3KYA_A Putative phosphatase; P  33.5      36 0.00044   44.6   0.0   20  364-383   310-330 (496)
+105 5C2M_A Predicted protein; beta  32.2      39 0.00048   40.5   0.0  147  300-509    50-209 (250)
+106 2WG3_C DESERT HEDGEHOG PROTEIN  31.5      41  0.0005   44.4   0.0   20  300-319    13-34  (463)
+107 3FVZ_A Peptidyl-glycine alpha-  31.3      41 0.00051   39.4   0.0   31  480-512    13-43  (329)
+108 3FW0_A Peptidyl-glycine alpha-  31.3      41 0.00051   39.4   0.0   31  480-512    13-43  (329)
+109 5YYL_A Ig gamma-1 chain C regi  31.1      41 0.00051   43.4   0.0   19  365-383   252-271 (432)
+110 5YYL_B Ig gamma-1 chain C regi  31.1      41 0.00051   43.4   0.0   19  365-383   252-271 (432)
+111 3SRE_A serum paraoxonase (E.C.  30.9      42 0.00052   41.2   0.0  181  301-511    50-240 (355)
+112 5WM0_A Peptidyl-glycine alpha-  25.4      61 0.00075   47.5   0.0   19  493-511   783-801 (976)
+113 3HRP_A Uncharacterized protein  24.3      66 0.00081   40.5   0.0   20  364-383   323-342 (409)
+114 6D69_A GH06739p; protein-prote  24.2      66 0.00082   36.6   0.0   18  494-511   188-205 (307)
+115 3TC9_B Hypothetical hydrolase;  23.7      69 0.00085   41.0   0.0   19  301-319   270-289 (430)
+
+No 1
+>2RHP_A Thrombospondin-2; Extracellular matrix, calcium-binding, glycosylated, jelly-roll; HET: NAG, CA; 2.9A {Homo sapiens}
+Probab=98.31  E-value=1.2e-09  Score=143.75  Aligned_cols=221  Identities=28%  Similarity=0.289  Sum_probs=180.6  Template_Neff=9.100
+
+Q LOKIASV2_44640 1174 ADASLDSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYTFDPLDNADASLDSDDDGLINLFEFQ-KATNPWNNDTD 1252 (1547)
+Q Consensus      1174 ~d~~~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~T~p~~~DtD 1252 (1547)
+                      .....+.++||+.+.+         +.|+|+||+.+..|.++.    .......|+|+||+.+..+.+ ...++.+.|+|
+T Consensus       175 ns~~~d~d~dg~~d~~---------d~d~D~Dg~~d~~~~~~~----~~~~~~~d~d~dg~~d~~d~~~~~~~~~~~D~D  241 (622)
+T 2RHP_A          175 NSGQEDFDKDGIGDAC---------DDDDDNDGVTDEKDNCQL----LFNPRQADYDKDEVGDRCDNCPYVHNPAQIDTD  241 (622)
+T ss_dssp             CTTCCCTTCSSSCGGG---------CSSTTCSSSCTTTCTTTT----SCCTTCCCSSSSSSCGGGCSSTTSCCTTCCCTT
+T ss_pred             CCCCcccccCCCcccC---------CCCCCCCCCCcccccccc----cCCCCccCCCCCCCCCCccCCCCCCCccccCCC
+Confidence            3445778888998888         778999999999888765    333456688999999998877 55566788999
+
+
+Q LOKIASV2_44640 1253 ADGLIDGDELINDCDPLNRDSDGDLMDDGWEVQYYLDPLVDNAYDDTDADGLVNLAEF-NAGTNPRNTDTDDDGLDDNTE 1331 (1547)
+Q Consensus      1253 ~DGl~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~~dp~~~~~~~D~D~DGl~n~~E~-~~gTdP~~~DtD~DGL~D~~E 1331 (1547)
+                      +||+.+.++         .|.|+|++.+..|.++. .+  .....|+|+||+.+..+. +...++...|+|++|+++.++
+T Consensus       242 ~Dg~~d~~d---------~D~D~Dgi~d~~d~~~~-~~--~~~~~D~D~Dg~~d~~d~~~~~~~~~~~d~d~dg~~d~~~  309 (622)
+T 2RHP_A          242 NNGEGDACS---------VDIDGDDVFNERDNCPY-VY--NTDQRDTDGDGVGDHCDNCPLVHNPDQTDVDNDLVGDQCD  309 (622)
+T ss_dssp             CSSSCGGGC---------SCTTCSSSCTTTCSSTT-SC--CTTCCCTTCSSSCGGGCSSTTSCCTTCCCTTCSSSCTTTC
+T ss_pred             CCCCCcccc---------cCCCCCcccchhhcCCC-CC--CcCCCCCCCCCCCCcccCCCCCCCCCCCCCCCCCCCCccc
+Confidence            999999887         68899999999888765 22  344578999999998877 666677788999999999887
+
+
+Q LOKIASV2_44640 1332 VNTLLTNPVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEFSNATDPNNADSDADGMFDGWELQYSLNPL 1411 (1547)
+Q Consensus      1332 v~~~~TnP~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~~~gTdP~~~DsD~DG~~Dg~E~~~~lnp~ 1411 (1547)
+                      .        ..|.|+||+++..+.+    |........|+|+||+.+.+         ..|.|+||+++..|.+    |.
+T Consensus       310 ~--------~~D~D~DGi~d~~d~~----~~~~~~~~~D~D~dg~~d~~---------d~D~D~Dg~~d~~d~~----~~  364 (622)
+T 2RHP_A          310 N--------NEDIDDDGHQNNQDNC----PYISNANQADHDRDGQGDAC---------DPDDDNDGVPDDRDNC----RL  364 (622)
+T ss_dssp             C--------CCCTTSSSSCGGGCSS----TTSCCTTCCCTTCSSSCGGG---------CSCTTCSSSCGGGCTT----TT
+T ss_pred             C--------CcCCCCCCCcccccCC----CCCCccccccCCCCCCCCCC---------CCCCCCCCCCCccccC----CC
+Confidence            5        3488999999999988    66655667799999999988         6699999999999988    77
+
+
+Q LOKIASV2_44640 1412 DDNDAMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEI 1453 (1547)
+Q Consensus      1412 d~~D~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~ 1453 (1547)
+                      ..+....|.|+||+.+..         ..|.|+||++|..|.
+T Consensus       365 ~~~~~~~d~d~dG~~d~~---------d~D~D~Dgi~d~~d~  397 (622)
+T 2RHP_A          365 VFNPDQEDLDGDGRGDIC---------KDDFDNDNIPDIDDV  397 (622)
+T ss_dssp             SCCTTCCCTTCSSSCGGG---------SSCTTCSSSCGGGCS
+T ss_pred             CCCccccCCCCCCCCccc---------CCCCCCCCCCccccc
+Confidence            666667899999998877         568999999998775
+
+
+No 2
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=98.30  E-value=1.4e-09  Score=140.27  Aligned_cols=221  Identities=29%  Similarity=0.335  Sum_probs=183.7  Template_Neff=7.100
+
+Q LOKIASV2_44640 1099 PWNNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLSNLFEFQ-NATNPWNNDTDGDGCLDGWEVQYNFDPLDNADAS 1177 (1547)
+Q Consensus      1099 p~~~DtDgDG~~D~~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~t~P~~~DtDgDG~~Dg~E~~~~~dp~~~~d~~ 1177 (1547)
+                      +.+.|+|+||+.+.|+              .|.|+||+.+..+.| ...++...|+|+||+.+.++.|    |......+
+T Consensus        90 ~~~~D~d~DG~gd~cd--------------~D~D~DGi~d~~d~c~~~~n~~~~DsD~Dg~~d~~d~c----~~~~n~~q  151 (551)
+T 3FBY_A           90 SGQEDVDRDGIGDACD--------------PDADGDGVPNEKDNCPLVRNPDQRNTDEDKWGDACDNC----RSQKNDDQ  151 (551)
+T ss_dssp             TTCCCTTCSSSCGGGC--------------TTTTCSSSCGGGCSSSSSCCTTCCCTTCSSSCGGGCSS----TTSCCTTC
+T ss_pred             CCCCCCCCCCCCccCC--------------CCCCCCCCCCcccCCCCCCCCCCCCCCCCCCCcccccC----CCCCCCcc
+Confidence            3467899999999887              688999999999988 5567788899999999999987    55555667
+
+
+Q LOKIASV2_44640 1178 LDSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYTFDPLDNADASLDSDDDGLINLFEFQ-KATNPWNNDTDADGL 1256 (1547)
+Q Consensus      1178 ~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~T~p~~~DtD~DGl 1256 (1547)
+                      .|+|+||+.+.|         +.|.|+||+.+..+.|+.    .......|+|+||+.+.++.| ...++.+.|+|+||+
+T Consensus       152 ~D~D~DG~gd~c---------d~D~D~DGi~d~~d~cp~----~~n~~~~DsDgDGvgD~~D~cp~~~n~~~~D~D~Dg~  218 (551)
+T 3FBY_A          152 KDTDQDGRGDAC---------DDDIDGDRIRNQADNCPR----VPNSDQKDSDGDGIGDACDNCPQKSNPDQADVDHDFV  218 (551)
+T ss_dssp             CCTTSSSSCGGG---------CSSTTCSSSCSTTCSSTT----SCCTTCCCTTCSSSCGGGCSCTTSCCTTCCCTTCSSS
+T ss_pred             cCCCCCCCCCcC---------cCCCCCCCcccccccCCC----CCCcccCCCCCCCCCcccccCCCCCCccccCCCCCCC
+Confidence            899999999999         789999999999999876    444456789999999999988 667788889999999
+
+
+Q LOKIASV2_44640 1257 IDGDELINDCDPLNRDSDGDLMDDGWEVQYYLDPLVDNAYDDTDADGLVNLAEFNAGTNPRNTDTDDDGLDDNTEVNTLL 1336 (1547)
+Q Consensus      1257 ~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~~dp~~~~~~~D~D~DGl~n~~E~~~gTdP~~~DtD~DGL~D~~Ev~~~~ 1336 (1547)
+                      .+.++.       +.|.|+||+.+..+.|+.                         ..++...|+|+||+++.++.    
+T Consensus       219 gd~cd~-------d~D~DgDGi~D~~D~cp~-------------------------~~n~~~~DtD~DG~gD~~d~----  262 (551)
+T 3FBY_A          219 GDACDS-------DQDQDGDGHQDSRDNCPT-------------------------VPNSAQEDSDHDGQGDACDD----  262 (551)
+T ss_dssp             CTTTCC-------CCCTTCSSCCGGGCSSTT-------------------------SCCTTCCCTTCSSSCTTTCS----
+T ss_pred             CCCccc-------ccCCCCCCCCCCcCCCCC-------------------------CCCCccCCCCCCCCCCCCCC----
+Confidence            999873       346778888887777665                         23455678888888888875    
+
+
+Q LOKIASV2_44640 1337 TNPVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEFSNATDPNNADSDADGMFDGWELQ 1405 (1547)
+Q Consensus      1337 TnP~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~~~gTdP~~~DsD~DG~~Dg~E~~ 1405 (1547)
+                            |.|+||+++..+.|    |........|+|+||+.+.+         ..|.|+||+++..+.|
+T Consensus       263 ------D~D~DGi~D~~D~c----p~~~~~~~~D~d~DG~gd~~---------~~D~D~Dgv~d~~D~c  312 (551)
+T 3FBY_A          263 ------DDDNDGVPDSRDNC----RLVPNPGQEDADRDGVGDVC---------QDDFDADKVVDKIDVC  312 (551)
+T ss_dssp             ------SSSCSSSCGGGCSS----TTSCCTTCCCSSSSSSCSTT---------TTCTTCSSSCGGGCSS
+T ss_pred             ------CCCCCCCCCccccC----CCCCCCCCcCCCCCCCCCcc---------cccCCCCCCCCcccCC
+Confidence                  78999999999998    77766677899999999998         6789999999998888
+
+
+No 3
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=98.25  E-value=2.1e-09  Score=138.79  Aligned_cols=244  Identities=27%  Similarity=0.305  Sum_probs=199.5  Template_Neff=7.100
+
+Q LOKIASV2_44640 1151 NDTDGDGCLDGWEVQYN------FDPLDNADASLDSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYTFDPLDNAD 1224 (1547)
+Q Consensus      1151 ~DtDgDG~~Dg~E~~~~------~dp~~~~d~~~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~~dp~~~~d 1224 (1547)
+                      .|+|+||+++..+.|..      .++........++|+||+.+.|         ..|+|+||+.+..+.|+.    ....
+T Consensus        60 ~D~D~Dg~~d~~~~c~~~~c~~d~c~~~~~~~~~D~d~DG~gd~c---------d~D~D~DGi~d~~d~c~~----~~n~  126 (551)
+T 3FBY_A           60 RDTDLDGFPDEKLRCPERQCRKDNCVTVPNSGQEDVDRDGIGDAC---------DPDADGDGVPNEKDNCPL----VRNP  126 (551)
+T ss_dssp             ECTTSSSCCSSCCSSCSGGGSCCSSSSSCCTTCCCTTCSSSCGGG---------CTTTTCSSSCGGGCSSSS----SCCT
+T ss_pred             CCCCCCCCCCccccCCCCccccccCCCCCCCCCCCCCCCCCCccC---------CCCCCCCCCCCcccCCCC----CCCC
+Confidence            45566666665555432      1233344556889999999998         789999999999999876    3444
+
+
+Q LOKIASV2_44640 1225 ASLDSDDDGLINLFEFQ-KATNPWNNDTDADGLIDGDELINDCDPLNRDSDGDLMDDGWEVQYYLDPLVDNAYDDTDADG 1303 (1547)
+Q Consensus      1225 ~~~D~D~DGl~n~~E~~-~~T~p~~~DtD~DGl~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~~dp~~~~~~~D~D~DG 1303 (1547)
+                      ...++|+||+.+.++.| ...++.+.|+|+||+.+.|+         .|.|+|++.+..+.|+. .+  .....|+|+||
+T Consensus       127 ~~~DsD~Dg~~d~~d~c~~~~n~~q~D~D~DG~gd~cd---------~D~D~DGi~d~~d~cp~-~~--n~~~~DsDgDG  194 (551)
+T 3FBY_A          127 DQRNTDEDKWGDACDNCRSQKNDDQKDTDQDGRGDACD---------DDIDGDRIRNQADNCPR-VP--NSDQKDSDGDG  194 (551)
+T ss_dssp             TCCCTTCSSSCGGGCSSTTSCCTTCCCTTSSSSCGGGC---------SSTTCSSSCSTTCSSTT-SC--CTTCCCTTCSS
+T ss_pred             CCCCCCCCCCCcccccCCCCCCCcccCCCCCCCCCcCc---------CCCCCCCcccccccCCC-CC--CcccCCCCCCC
+Confidence            56789999999999988 66677889999999999998         68899999999998876 22  34567899999
+
+
+Q LOKIASV2_44640 1304 LVNLAEF-NAGTNPRNTDTDDDGLDDNTEVNTLLTNPVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEF 1382 (1547)
+Q Consensus      1304 l~n~~E~-~~gTdP~~~DtD~DGL~D~~Ev~~~~TnP~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~ 1382 (1547)
+                      +.+.++. +...++...|+|++|+++.++.        ..|.|+||+.+..+.|    |...+....|+|+||+.+.+  
+T Consensus       195 vgD~~D~cp~~~n~~~~D~D~Dg~gd~cd~--------d~D~DgDGi~D~~D~c----p~~~n~~~~DtD~DG~gD~~--  260 (551)
+T 3FBY_A          195 IGDACDNCPQKSNPDQADVDHDFVGDACDS--------DQDQDGDGHQDSRDNC----PTVPNSAQEDSDHDGQGDAC--  260 (551)
+T ss_dssp             SCGGGCSCTTSCCTTCCCTTCSSSCTTTCC--------CCCTTCSSCCGGGCSS----TTSCCTTCCCTTCSSSCTTT--
+T ss_pred             CCcccccCCCCCCccccCCCCCCCCCCccc--------ccCCCCCCCCCCcCCC----CCCCCCccCCCCCCCCCCCC--
+Confidence            9999887 6777888999999999999985        4588999999999999    77777778899999999988  
+
+
+Q LOKIASV2_44640 1383 SNATDPNNADSDADGMFDGWELQYSLNPLDDNDAMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEI 1453 (1547)
+Q Consensus      1383 ~~gTdP~~~DsD~DG~~Dg~E~~~~lnp~d~~D~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~ 1453 (1547)
+                             ..|.|+||+++..|.|    |+.++....|.|+||+.+.+         ..|.|+||++|..+.
+T Consensus       261 -------d~D~D~DGi~D~~D~c----p~~~~~~~~D~d~DG~gd~~---------~~D~D~Dgv~d~~D~  311 (551)
+T 3FBY_A          261 -------DDDDDNDGVPDSRDNC----RLVPNPGQEDADRDGVGDVC---------QDDFDADKVVDKIDV  311 (551)
+T ss_dssp             -------CSSSSCSSSCGGGCSS----TTSCCTTCCCSSSSSSCSTT---------TTCTTCSSSCGGGCS
+T ss_pred             -------CCCCCCCCCCCccccC----CCCCCCCCcCCCCCCCCCcc---------cccCCCCCCCCcccC
+Confidence                   6689999999999998    87777778899999999888         568999999987764
+
+
+No 4
+>2RHP_A Thrombospondin-2; Extracellular matrix, calcium-binding, glycosylated, jelly-roll; HET: NAG, CA; 2.9A {Homo sapiens}
+Probab=98.23  E-value=2.7e-09  Score=140.63  Aligned_cols=220  Identities=28%  Similarity=0.307  Sum_probs=165.4  Template_Neff=9.100
+
+Q LOKIASV2_44640 1100 WNNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLSNLFEFQ-NATNPWNNDTDGDGCLDGWEVQYNFDPLDNADASL 1178 (1547)
+Q Consensus      1100 ~~~DtDgDG~~D~~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~t~P~~~DtDgDG~~Dg~E~~~~~dp~~~~d~~~ 1178 (1547)
+                      ...|+|+||+.+.++              .|.|+||+.+..|.+ ...++...|+|+||+.+..+.|    +........
+T Consensus       177 ~~~d~d~dg~~d~~d--------------~d~D~Dg~~d~~~~~~~~~~~~~~d~d~dg~~d~~d~~----~~~~~~~~~  238 (622)
+T 2RHP_A          177 GQEDFDKDGIGDACD--------------DDDDNDGVTDEKDNCQLLFNPRQADYDKDEVGDRCDNC----PYVHNPAQI  238 (622)
+T ss_dssp             TCCCTTCSSSCGGGC--------------SSTTCSSSCTTTCTTTTSCCTTCCCSSSSSSCGGGCSS----TTSCCTTCC
+T ss_pred             CCcccccCCCcccCC--------------CCCCCCCCCcccccccccCCCCccCCCCCCCCCCccCC----CCCCCcccc
+Confidence            356788888888777              578888999888877 4567778899999999988877    444445568
+
+
+Q LOKIASV2_44640 1179 DSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYTFDPLDNADASLDSDDDGLINLFEFQ-KATNPWNNDTDADGLI 1257 (1547)
+Q Consensus      1179 D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~T~p~~~DtD~DGl~ 1257 (1547)
+                      |+|+||+.+.+         +.|.|+||+.+..|.++.    .......|+|+||+.+..+.+ ...++...|+|+||+.
+T Consensus       239 D~D~Dg~~d~~---------d~D~D~Dgi~d~~d~~~~----~~~~~~~D~D~Dg~~d~~d~~~~~~~~~~~d~d~dg~~  305 (622)
+T 2RHP_A          239 DTDNNGEGDAC---------SVDIDGDDVFNERDNCPY----VYNTDQRDTDGDGVGDHCDNCPLVHNPDQTDVDNDLVG  305 (622)
+T ss_dssp             CTTCSSSCGGG---------CSCTTCSSSCTTTCSSTT----SCCTTCCCTTCSSSCGGGCSSTTSCCTTCCCTTCSSSC
+T ss_pred             CCCCCCCCccc---------ccCCCCCcccchhhcCCC----CCCcCCCCCCCCCCCCcccCCCCCCCCCCCCCCCCCCC
+Confidence            89999999988         678999999999888765    333445688999999988877 5566677888999998
+
+
+Q LOKIASV2_44640 1258 DGDELINDCDPLNRDSDGDLMDDGWEVQYYLDPLVDNAYDDTDADGLVNLAEFNAGTNPRNTDTDDDGLDDNTEVNTLLT 1337 (1547)
+Q Consensus      1258 Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~~dp~~~~~~~D~D~DGl~n~~E~~~gTdP~~~DtD~DGL~D~~Ev~~~~T 1337 (1547)
+                      +.++.       ..|.|+|++.+..+.++.                         ..++...|+|+||+++.++.     
+T Consensus       306 d~~~~-------~~D~D~DGi~d~~d~~~~-------------------------~~~~~~~D~D~dg~~d~~d~-----  348 (622)
+T 2RHP_A          306 DQCDN-------NEDIDDDGHQNNQDNCPY-------------------------ISNANQADHDRDGQGDACDP-----  348 (622)
+T ss_dssp             TTTCC-------CCCTTSSSSCGGGCSSTT-------------------------SCCTTCCCTTCSSSCGGGCS-----
+T ss_pred             CcccC-------CcCCCCCCCcccccCCCC-------------------------CCccccccCCCCCCCCCCCC-----
+Confidence            88872       236778888877776654                         12234456777777776654     
+
+
+Q LOKIASV2_44640 1338 NPVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEFSNATDPNNADSDADGMFDGWELQ 1405 (1547)
+Q Consensus      1338 nP~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~~~gTdP~~~DsD~DG~~Dg~E~~ 1405 (1547)
+                           |.|+||+++..|.+    |........|+|+||+.+.+         ..|.|+||++|..|.+
+T Consensus       349 -----D~D~Dg~~d~~d~~----~~~~~~~~~d~d~dG~~d~~---------d~D~D~Dgi~d~~d~~  398 (622)
+T 2RHP_A          349 -----DDDNDGVPDDRDNC----RLVFNPDQEDLDGDGRGDIC---------KDDFDNDNIPDIDDVC  398 (622)
+T ss_dssp             -----CTTCSSSCGGGCTT----TTSCCTTCCCTTCSSSCGGG---------SSCTTCSSSCGGGCSS
+T ss_pred             -----CCCCCCCCCccccC----CCCCCccccCCCCCCCCccc---------CCCCCCCCCCcccccC
+Confidence                 77788888888777    65555556778888888777         5678888888887776
+
+
+No 5
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=98.15  E-value=4.9e-09  Score=135.44  Aligned_cols=152  Identities=30%  Similarity=0.305  Sum_probs=100.3  Template_Neff=7.100
+
+Q LOKIASV2_44640 1098 DPWNNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLSNLFEFQ-NATNPWNNDTDGDGCLDGWEVQYNFDPLDNADA 1176 (1547)
+Q Consensus      1098 dp~~~DtDgDG~~D~~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~t~P~~~DtDgDG~~Dg~E~~~~~dp~~~~d~ 1176 (1547)
+                      .+.+.|+|+||+.|.++              .|.|+||+.+..|.| ...++...|+|+||+.|.++.|    |......
+T Consensus       148 n~~q~D~D~DG~gd~cd--------------~D~D~DGi~d~~d~cp~~~n~~~~DsDgDGvgD~~D~c----p~~~n~~  209 (551)
+T 3FBY_A          148 NDDQKDTDQDGRGDACD--------------DDIDGDRIRNQADNCPRVPNSDQKDSDGDGIGDACDNC----PQKSNPD  209 (551)
+T ss_dssp             CTTCCCTTSSSSCGGGC--------------SSTTCSSSCSTTCSSTTSCCTTCCCTTCSSSCGGGCSC----TTSCCTT
+T ss_pred             CCcccCCCCCCCCCcCc--------------CCCCCCCcccccccCCCCCCcccCCCCCCCCCcccccC----CCCCCcc
+Confidence            34566788888888776              577888888877777 4456677788888888888776    5544555
+
+
+Q LOKIASV2_44640 1177 SLDSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYTFDPLDNADASLD-------------SDDDGLINLFEFQ-K 1242 (1547)
+Q Consensus      1177 ~~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~~dp~~~~d~~~D-------------~D~DGl~n~~E~~-~ 1242 (1547)
+                      ..|+|++|+.+.|+.       ..|+|+||+.+..+.|+.    .......|             .|+||+.+..+.| .
+T Consensus       210 ~~D~D~Dg~gd~cd~-------d~D~DgDGi~D~~D~cp~----~~n~~~~DtD~DG~gD~~d~D~D~DGi~D~~D~cp~  278 (551)
+T 3FBY_A          210 QADVDHDFVGDACDS-------DQDQDGDGHQDSRDNCPT----VPNSAQEDSDHDGQGDACDDDDDNDGVPDSRDNCRL  278 (551)
+T ss_dssp             CCCTTCSSSCTTTCC-------CCCTTCSSCCGGGCSSTT----SCCTTCCCTTCSSSCTTTCSSSSCSSSCGGGCSSTT
+T ss_pred             ccCCCCCCCCCCccc-------ccCCCCCCCCCCcCCCCC----CCCCccCCCCCCCCCCCCCCCCCCCCCCCccccCCC
+Confidence            677788888887731       346778888887777765    22222233             3444444444444 3
+
+
+Q LOKIASV2_44640 1243 ATNPWNNDTDADGLIDGDELINDCDPLNRDSDGDLMDDGWEVQYY 1287 (1547)
+Q Consensus      1243 ~T~p~~~DtD~DGl~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~ 1287 (1547)
+                      ..++...|+++||+.+.++         .|.|+|++.+..+.|+.
+T Consensus       279 ~~~~~~~D~d~DG~gd~~~---------~D~D~Dgv~d~~D~cp~  314 (551)
+T 3FBY_A          279 VPNPGQEDADRDGVGDVCQ---------DDFDADKVVDKIDVCPE  314 (551)
+T ss_dssp             SCCTTCCCSSSSSSCSTTT---------TCTTCSSSCGGGCSSTT
+T ss_pred             CCCCCCcCCCCCCCCCccc---------ccCCCCCCCCcccCCCC
+Confidence            4445566777777777776         46677777777766654
+
+
+No 6
+>2RHP_A Thrombospondin-2; Extracellular matrix, calcium-binding, glycosylated, jelly-roll; HET: NAG, CA; 2.9A {Homo sapiens}
+Probab=98.08  E-value=8.9e-09  Score=135.79  Aligned_cols=33  Identities=33%  Similarity=0.189  Sum_probs=19.6  Template_Neff=9.100
+
+Q LOKIASV2_44640 1246 PWNNDTDADGLIDGDELINDCDPLNRDSDGDLMDDGWEVQYY 1287 (1547)
+Q Consensus      1246 p~~~DtD~DGl~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~ 1287 (1547)
+                      +...|+|+||+.+.++         .|.|+||+.+..+.++.
+T Consensus       368 ~~~~d~d~dG~~d~~d---------~D~D~Dgi~d~~d~~p~  400 (622)
+T 2RHP_A          368 PDQEDLDGDGRGDICK---------DDFDNDNIPDIDDVCPE  400 (622)
+T ss_dssp             TTCCCTTCSSSCGGGS---------SCTTCSSSCGGGCSSTT
+T ss_pred             ccccCCCCCCCCcccC---------CCCCCCCCCcccccCCC
+Confidence            3345566666666555         45666677666666554
+
+
+No 7
+>1YO8_A thrombospondin-2; EGF  Ca(2+)-binding domains ; HET: CA, MAN, NAG; 2.6A {Homo sapiens}
+Probab=98.05  E-value=1.1e-08  Score=135.21  Aligned_cols=225  Identities=28%  Similarity=0.286  Sum_probs=181.4  Template_Neff=8.800
+
+Q LOKIASV2_44640 1170 PLDNADASLDSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYTFDPLDNADASLDSDDDGLINLFEFQ-KATNPWN 1248 (1547)
+Q Consensus      1170 p~~~~d~~~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~T~p~~ 1248 (1547)
+                      |........+.++||+.+.+         +.|+|+||+.+..+.++.    .......++|+||+.+..+.+ ...++.+
+T Consensus       174 p~~~~~~~~d~d~dg~~~~~---------d~D~D~Dg~~d~~~~~~~----~~~~~~~d~D~dg~~d~~d~c~~~~~~~~  240 (634)
+T 1YO8_A          174 PHLPNSGQEDFDKDGIGDAC---------DDDDDNDGVTDEKDNCQL----LFNPRQADYDKDEVGDRCDNCPYVHNPAQ  240 (634)
+T ss_dssp             TTSCCTTCCCSSCSSSCTTT---------CSSTTSSSSCTTTCSSTT----SCCTTCCCSSSSSSCGGGCSSTTSCCTTC
+T ss_pred             CCCCCCcccCCCCCCCcccC---------CCCCCCCCCCCCccCCCC----CCCCCCCCCCCCCCCccccCCCCCCCCCC
+Confidence            44444456788999999998         789999999999998875    333445688999999998887 6667778
+
+
+Q LOKIASV2_44640 1249 NDTDADGLIDGDELINDCDPLNRDSDGDLMDDGWEVQYYLDPLVDNAYDDTDADGLVNLAEF-NAGTNPRNTDTDDDGLD 1327 (1547)
+Q Consensus      1249 ~DtD~DGl~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~~dp~~~~~~~D~D~DGl~n~~E~-~~gTdP~~~DtD~DGL~ 1327 (1547)
+                      .|+|+||+.+.++         .|.|+|++.+..+.++. .+  .....|+|+||+.+..+. +...++...|+|++|++
+T Consensus       241 ~D~d~dg~~d~~d---------~D~D~Dgi~d~~d~~~~-~~--~~~~~D~DgDg~~d~~d~~p~~~~~~~~d~d~dg~~  308 (634)
+T 1YO8_A          241 IDTDNNGEGDACS---------VDIDGDDVFNERDNCPY-VY--NTDQRDTDGDGVGDHCDNCPLVHNPDQTDVDNDLVG  308 (634)
+T ss_dssp             CCTTCSSSCGGGC---------SSTTSS---S-SCSSTT-SC--CTTCCCTTCSSSCGGGCSSTTSCCTTCCCTTSSSSC
+T ss_pred             CCCCCCCCCcccC---------cCCCCCCCCcccccCCC-CC--CCCCCCCCCCCCCCcccCCCCCCCCCccCCCCCCCC
+Confidence            8999999999987         68899999999988775 22  345578999999998877 66667788899999999
+
+
+Q LOKIASV2_44640 1328 DNTEVNTLLTNPVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEFSNATDPNNADSDADGMFDGWELQYS 1407 (1547)
+Q Consensus      1328 D~~Ev~~~~TnP~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~~~gTdP~~~DsD~DG~~Dg~E~~~~ 1407 (1547)
+                      +.++.        ..|.|+||+.+..+.+    |........|.|+||+.+.+         ..|.|+||+++..+.+  
+T Consensus       309 d~~~~--------~~d~d~Dg~~d~~d~~----~~~~~~~~~d~d~dg~~d~~---------d~D~D~Dg~~d~~d~~--  365 (634)
+T 1YO8_A          309 DQCDN--------NEDIDDDGHQNNQDNC----PYISNANQADHDRDGQGDAC---------DPDDDNDGVPDDRDNC--  365 (634)
+T ss_dssp             TTTCC--------CCCTTSSSSCGGGCSS----TTSCCTTCCCTTCSSSCTTT---------CSCTTCSSSCGGGCTT--
+T ss_pred             CCCCC--------CCCCCCCCCCCCCCCC----CCCCCcccccCCCCCCCCcC---------CCCCCCCCCCCccCCC--
+Confidence            98875        3478999999999988    76666667799999999988         5689999999999988  
+
+
+Q LOKIASV2_44640 1408 LNPLDDNDAMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEI 1453 (1547)
+Q Consensus      1408 lnp~d~~D~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~ 1453 (1547)
+                        |...+....|.|+||+.+..         ..|.|+||++|..|.
+T Consensus       366 --~~~~~~~~~d~d~dG~~d~~---------d~D~D~Dgi~d~~d~  400 (634)
+T 1YO8_A          366 --RLVFNPDQEDLDGDGRGDIC---------KDDFDNDNIPDIDDV  400 (634)
+T ss_dssp             --TTSCCTTCCCTTCSSSCGGG---------SSCTTCSSSCGGGCS
+T ss_pred             --CCCCCccccCCCCCCCCCcC---------CCCCCCCCCCcccCC
+Confidence              77666678899999999877         568999999998775
+
+
+No 8
+>2RHP_A Thrombospondin-2; Extracellular matrix, calcium-binding, glycosylated, jelly-roll; HET: NAG, CA; 2.9A {Homo sapiens}
+Probab=98.03  E-value=1.3e-08  Score=134.14  Aligned_cols=134  Identities=23%  Similarity=0.268  Sum_probs=68.6  Template_Neff=9.100
+
+Q LOKIASV2_44640  757 NPKNNDTDGDGLLDGQEILNIFTEPLKNDTDEDGLLDGQEISDFSTDPLRKDTDADGCSDGWEVQYAFDPLDNADAGFDS  836 (1547)
+Q Consensus       757 ~p~~~DtDgDgl~D~~e~~~~~t~p~~~DtD~Dgl~D~~E~~~~~TdPl~~DtD~Dg~~D~~e~~~~~dp~~~~d~~~D~  836 (1547)
+                      +....|+|+||+.|..+.          |+|+||+.|..|......+|...|+|+||+.|..+.....    ......|+
+T Consensus       175 ns~~~d~d~dg~~d~~d~----------d~D~Dg~~d~~~~~~~~~~~~~~d~d~dg~~d~~d~~~~~----~~~~~~D~  240 (622)
+T 2RHP_A          175 NSGQEDFDKDGIGDACDD----------DDDNDGVTDEKDNCQLLFNPRQADYDKDEVGDRCDNCPYV----HNPAQIDT  240 (622)
+T ss_dssp             CTTCCCTTCSSSCGGGCS----------STTCSSSCTTTCTTTTSCCTTCCCSSSSSSCGGGCSSTTS----CCTTCCCT
+T ss_pred             CCCCcccccCCCcccCCC----------CCCCCCCCcccccccccCCCCccCCCCCCCCCCccCCCCC----CCccccCC
+Confidence            344556677777664443          6677777777776655667777777777777766532111    11111233
+
+
+Q LOKIASV2_44640  837 DVDDLINLYEFQNATDPWNNDSDADGCLDGWEVQYTFDPLDNTDAVVDSDDDGLINLYEFR-NATDPWNNDTDGDGCSDG  915 (1547)
+Q Consensus       837 D~D~l~n~~E~~~~TdP~~~DsD~DGl~Dg~E~~~~~dpld~~d~~~D~D~Dgl~~~~E~~-~~tdP~~~DtDgDg~~Dg  915 (1547)
+                      |.|++.+..         ..|.|+||+.+..|...    ........|.|+||+.+..+.. ....|...|+|+||+.|.
+T Consensus       241 D~Dg~~d~~---------d~D~D~Dgi~d~~d~~~----~~~~~~~~D~D~Dg~~d~~d~~~~~~~~~~~d~d~dg~~d~  307 (622)
+T 2RHP_A          241 DNNGEGDAC---------SVDIDGDDVFNERDNCP----YVYNTDQRDTDGDGVGDHCDNCPLVHNPDQTDVDNDLVGDQ  307 (622)
+T ss_dssp             TCSSSCGGG---------CSCTTCSSSCTTTCSST----TSCCTTCCCTTCSSSCGGGCSSTTSCCTTCCCTTCSSSCTT
+T ss_pred             CCCCCCccc---------ccCCCCCcccchhhcCC----CCCCcCCCCCCCCCCCCcccCCCCCCCCCCCCCCCCCCCCc
+Confidence            444433221         23455566555544311    1111123455666666554432 223444556666666665
+
+
+Q LOKIASV2_44640  916 WE  917 (1547)
+Q Consensus       916 ~E  917 (1547)
+                      .+
+T Consensus       308 ~~  309 (622)
+T 2RHP_A          308 CD  309 (622)
+T ss_dssp             TC
+T ss_pred             cc
+Confidence            43
+
+
+No 9
+>3FBY_A Cartilage oligomeric matrix protein; COMP, cartilage oligomeric matrix protein; HET: SO4, MAN, NAG, CA; 3.15A {Homo sapiens}
+Probab=98.00  E-value=1.7e-08  Score=130.62  Aligned_cols=151  Identities=25%  Similarity=0.286  Sum_probs=84.4  Template_Neff=7.100
+
+Q LOKIASV2_44640  739 DYDLDNITDCDEY----------FYYKTNPKNNDTDGDGLLDGQEILNIFTEPLKNDTDEDGLLDGQEISDFSTDPLRKD  808 (1547)
+Q Consensus       739 d~D~D~lsD~~e~----------~~~~t~p~~~DtDgDgl~D~~e~~~~~t~p~~~DtD~Dgl~D~~E~~~~~TdPl~~D  808 (1547)
+                      ++|.|++.+..+.          +....++...|+|+||+.+.++          .|+|+||+.+..|......+|...|
+T Consensus        61 D~D~Dg~~d~~~~c~~~~c~~d~c~~~~~~~~~D~d~DG~gd~cd----------~D~D~DGi~d~~d~c~~~~n~~~~D  130 (551)
+T 3FBY_A           61 DTDLDGFPDEKLRCPERQCRKDNCVTVPNSGQEDVDRDGIGDACD----------PDADGDGVPNEKDNCPLVRNPDQRN  130 (551)
+T ss_dssp             CTTSSSCCSSCCSSCSGGGSCCSSSSSCCTTCCCTTCSSSCGGGC----------TTTTCSSSCGGGCSSSSSCCTTCCC
+T ss_pred             CCCCCCCCCccccCCCCccccccCCCCCCCCCCCCCCCCCCccCC----------CCCCCCCCCCcccCCCCCCCCCCCC
+Confidence            4455555555333          2334456677899999888664          4889999999999887777888899
+
+
+Q LOKIASV2_44640  809 TDADGCSDGWEVQYAFDPLDNADAGFDSDVDDLINLYEFQNATDPWNNDSDADGCLDGWEVQYTFDPLDNTDAVVDSDDD  888 (1547)
+Q Consensus       809 tD~Dg~~D~~e~~~~~dp~~~~d~~~D~D~D~l~n~~E~~~~TdP~~~DsD~DGl~Dg~E~~~~~dpld~~d~~~D~D~D  888 (1547)
+                      +|+||+.|.++..-.    .......|.|.+++.+..         ..|+|+||+.+..|...    +.......|+|+|
+T Consensus       131 sD~Dg~~d~~d~c~~----~~n~~q~D~D~DG~gd~c---------d~D~D~DGi~d~~d~cp----~~~n~~~~DsDgD  193 (551)
+T 3FBY_A          131 TDEDKWGDACDNCRS----QKNDDQKDTDQDGRGDAC---------DDDIDGDRIRNQADNCP----RVPNSDQKDSDGD  193 (551)
+T ss_dssp             TTCSSSCGGGCSSTT----SCCTTCCCTTSSSSCGGG---------CSSTTCSSSCSTTCSST----TSCCTTCCCTTCS
+T ss_pred             CCCCCCCcccccCCC----CCCCcccCCCCCCCCCcC---------cCCCCCCCcccccccCC----CCCCcccCCCCCC
+Confidence            999999998874311    111111233444332221         23555666655544311    1111122355555
+
+
+Q LOKIASV2_44640  889 GLINLYEFR-NATDPWNNDTDGDGCSDGW  916 (1547)
+Q Consensus       889 gl~~~~E~~-~~tdP~~~DtDgDg~~Dg~  916 (1547)
+                      |+.+..+.. ....|...|+|+||+.|..
+T Consensus       194 GvgD~~D~cp~~~n~~~~D~D~Dg~gd~c  222 (551)
+T 3FBY_A          194 GIGDACDNCPQKSNPDQADVDHDFVGDAC  222 (551)
+T ss_dssp             SSCGGGCSCTTSCCTTCCCTTCSSSCTTT
+T ss_pred             CCCcccccCCCCCCccccCCCCCCCCCCc
+Confidence            555544422 2233444555555555543
+
+
+No 10
+>1YO8_A thrombospondin-2; EGF  Ca(2+)-binding domains ; HET: CA, MAN, NAG; 2.6A {Homo sapiens}
+Probab=98.00  E-value=1.7e-08  Score=133.50  Aligned_cols=219  Identities=28%  Similarity=0.315  Sum_probs=161.5  Template_Neff=8.800
+
+Q LOKIASV2_44640 1101 NNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLSNLFEFQ-NATNPWNNDTDGDGCLDGWEVQYNFDPLDNADASLD 1179 (1547)
+Q Consensus      1101 ~~DtDgDG~~D~~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~t~P~~~DtDgDG~~Dg~E~~~~~dp~~~~d~~~D 1179 (1547)
+                      ..++|+||+.+.++              .|.|+||+.+..|.+ ...++...|+|+||+.+..+.|    +......+.|
+T Consensus       181 ~~d~d~dg~~~~~d--------------~D~D~Dg~~d~~~~~~~~~~~~~~d~D~dg~~d~~d~c----~~~~~~~~~D  242 (634)
+T 1YO8_A          181 QEDFDKDGIGDACD--------------DDDDNDGVTDEKDNCQLLFNPRQADYDKDEVGDRCDNC----PYVHNPAQID  242 (634)
+T ss_dssp             CCCSSCSSSCTTTC--------------SSTTSSSSCTTTCSSTTSCCTTCCCSSSSSSCGGGCSS----TTSCCTTCCC
+T ss_pred             ccCCCCCCCcccCC--------------CCCCCCCCCCCccCCCCCCCCCCCCCCCCCCCccccCC----CCCCCCCCCC
+Confidence            46788888888877              578899999988877 4567788899999999998877    5555556789
+
+
+Q LOKIASV2_44640 1180 SDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYTFDPLDNADASLDSDDDGLINLFEFQ-KATNPWNNDTDADGLID 1258 (1547)
+Q Consensus      1180 ~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~~dp~~~~d~~~D~D~DGl~n~~E~~-~~T~p~~~DtD~DGl~D 1258 (1547)
+                      +|+||+.+.+         +.|.|+||+.+..|.++.    .......|+|+||+.+.++.+ ...++...|+|+||+.+
+T Consensus       243 ~d~dg~~d~~---------d~D~D~Dgi~d~~d~~~~----~~~~~~~D~DgDg~~d~~d~~p~~~~~~~~d~d~dg~~d  309 (634)
+T 1YO8_A          243 TDNNGEGDAC---------SVDIDGDDVFNERDNCPY----VYNTDQRDTDGDGVGDHCDNCPLVHNPDQTDVDNDLVGD  309 (634)
+T ss_dssp             TTCSSSCGGG---------CSSTTSS---S-SCSSTT----SCCTTCCCTTCSSSCGGGCSSTTSCCTTCCCTTSSSSCT
+T ss_pred             CCCCCCCccc---------CcCCCCCCCCcccccCCC----CCCCCCCCCCCCCCCCcccCCCCCCCCCccCCCCCCCCC
+Confidence            9999999998         789999999999998765    344456789999999998877 55667778899999998
+
+
+Q LOKIASV2_44640 1259 GDELINDCDPLNRDSDGDLMDDGWEVQYYLDPLVDNAYDDTDADGLVNLAEFNAGTNPRNTDTDDDGLDDNTEVNTLLTN 1338 (1547)
+Q Consensus      1259 g~E~~~~tdPl~~DtDgDg~~Dg~E~~~~~dp~~~~~~~D~D~DGl~n~~E~~~gTdP~~~DtD~DGL~D~~Ev~~~~Tn 1338 (1547)
+                      .++.       ..|.|+|++.+..+.++.                         ..++...|+|++|+++.++.      
+T Consensus       310 ~~~~-------~~d~d~Dg~~d~~d~~~~-------------------------~~~~~~~d~d~dg~~d~~d~------  351 (634)
+T 1YO8_A          310 QCDN-------NEDIDDDGHQNNQDNCPY-------------------------ISNANQADHDRDGQGDACDP------  351 (634)
+T ss_dssp             TTCC-------CCCTTSSSSCGGGCSSTT-------------------------SCCTTCCCTTCSSSCTTTCS------
+T ss_pred             CCCC-------CCCCCCCCCCCCCCCCCC-------------------------CCCcccccCCCCCCCCcCCC------
+Confidence            8872       236778888887776654                         12234456666777666654      
+
+
+Q LOKIASV2_44640 1339 PVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEFSNATDPNNADSDADGMFDGWELQ 1405 (1547)
+Q Consensus      1339 P~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~~~gTdP~~~DsD~DG~~Dg~E~~ 1405 (1547)
+                          |.|+||+++..+.+    |........|+|+||+.+.+         ..|.|+||++|..|.+
+T Consensus       352 ----D~D~Dg~~d~~d~~----~~~~~~~~~d~d~dG~~d~~---------d~D~D~Dgi~d~~d~~  401 (634)
+T 1YO8_A          352 ----DDDNDGVPDDRDNC----RLVFNPDQEDLDGDGRGDIC---------KDDFDNDNIPDIDDVC  401 (634)
+T ss_dssp             ----CTTCSSSCGGGCTT----TTSCCTTCCCTTCSSSCGGG---------SSCTTCSSSCGGGCSS
+T ss_pred             ----CCCCCCCCCccCCC----CCCCCccccCCCCCCCCCcC---------CCCCCCCCCCcccCCC
+Confidence                66777777777776    55555556677777777776         5577777887777766
+
+
+No 11
+>1YO8_A thrombospondin-2; EGF  Ca(2+)-binding domains ; HET: CA, MAN, NAG; 2.6A {Homo sapiens}
+Probab=97.78  E-value=8.5e-08  Score=127.04  Aligned_cols=135  Identities=28%  Similarity=0.219  Sum_probs=63.8  Template_Neff=8.800
+
+Q LOKIASV2_44640 1129 LDSDDDGLSNLFEFQ-NATNPWNNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLINLFEFQNATNPWNSDTDGDGC 1207 (1547)
+Q Consensus      1129 ~D~D~DGl~n~~E~~-~~t~P~~~DtDgDG~~Dg~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl 1207 (1547)
+                      .|.|+||+.+..|.+ ...++...|+|+||+.|..+.|    |........+.|++|+.+.++.       ..|.|+||+
+T Consensus       254 ~D~D~Dgi~d~~d~~~~~~~~~~~D~DgDg~~d~~d~~----p~~~~~~~~d~d~dg~~d~~~~-------~~d~d~Dg~  322 (634)
+T 1YO8_A          254 VDIDGDDVFNERDNCPYVYNTDQRDTDGDGVGDHCDNC----PLVHNPDQTDVDNDLVGDQCDN-------NEDIDDDGH  322 (634)
+T ss_dssp             SSTTSS---S-SCSSTTSCCTTCCCTTCSSSCGGGCSS----TTSCCTTCCCTTSSSSCTTTCC-------CCCTTSSSS
+T ss_pred             cCCCCCCCCcccccCCCCCCCCCCCCCCCCCCCcccCC----CCCCCCCccCCCCCCCCCCCCC-------CCCCCCCCC
+Confidence            355555555555554 3344445555666665555544    3322333445555555555511       124555555
+
+
+Q LOKIASV2_44640 1208 LDGWEVQYTFDPLDNADASL-------------DSDDDGLINLFEFQ-KATNPWNNDTDADGLIDGDELINDCDPLNRDS 1273 (1547)
+Q Consensus      1208 ~Dg~Ev~~~~dp~~~~d~~~-------------D~D~DGl~n~~E~~-~~T~p~~~DtD~DGl~Dg~E~~~~tdPl~~Dt 1273 (1547)
+                      .+..+.++.    .......             |.|+||+.+..+.+ ...++...|+|+||+.+.++         .|.
+T Consensus       323 ~d~~d~~~~----~~~~~~~d~d~dg~~d~~d~D~D~Dg~~d~~d~~~~~~~~~~~d~d~dG~~d~~d---------~D~  389 (634)
+T 1YO8_A          323 QNNQDNCPY----ISNANQADHDRDGQGDACDPDDDNDGVPDDRDNCRLVFNPDQEDLDGDGRGDICK---------DDF  389 (634)
+T ss_dssp             CGGGCSSTT----SCCTTCCCTTCSSSCTTTCSCTTCSSSCGGGCTTTTSCCTTCCCTTCSSSCGGGS---------SCT
+T ss_pred             CCCCCCCCC----CCCcccccCCCCCCCCcCCCCCCCCCCCCccCCCCCCCCccccCCCCCCCCCcCC---------CCC
+Confidence            555555443    1111112             22333333333333 23334455666666666665         466
+
+
+Q LOKIASV2_44640 1274 DGDLMDDGWEVQYY 1287 (1547)
+Q Consensus      1274 DgDg~~Dg~E~~~~ 1287 (1547)
+                      |+|++.+..+.++.
+T Consensus       390 D~Dgi~d~~d~~p~  403 (634)
+T 1YO8_A          390 DNDNIPDIDDVCPE  403 (634)
+T ss_dssp             TCSSSCGGGCSSTT
+T ss_pred             CCCCCCcccCCCCC
+Confidence            67777776666654
+
+
+No 12
+>1YO8_A thrombospondin-2; EGF  Ca(2+)-binding domains ; HET: CA, MAN, NAG; 2.6A {Homo sapiens}
+Probab=97.77  E-value=9.3e-08  Score=126.68  Aligned_cols=131  Identities=23%  Similarity=0.250  Sum_probs=63.0  Template_Neff=8.800
+
+Q LOKIASV2_44640  759 KNNDTDGDGLLDGQEILNIFTEPLKNDTDEDGLLDGQEISDFSTDPLRKDTDADGCSDGWEVQYAFDPLDNADAGFDSDV  838 (1547)
+Q Consensus       759 ~~~DtDgDgl~D~~e~~~~~t~p~~~DtD~Dgl~D~~E~~~~~TdPl~~DtD~Dg~~D~~e~~~~~dp~~~~d~~~D~D~  838 (1547)
+                      ...++|+||+.+..+.          |+|+||+.|..|......+|...|+|+||+.|..+..... |   .....|.|.
+T Consensus       180 ~~~d~d~dg~~~~~d~----------D~D~Dg~~d~~~~~~~~~~~~~~d~D~dg~~d~~d~c~~~-~---~~~~~D~d~  245 (634)
+T 1YO8_A          180 GQEDFDKDGIGDACDD----------DDDNDGVTDEKDNCQLLFNPRQADYDKDEVGDRCDNCPYV-H---NPAQIDTDN  245 (634)
+T ss_dssp             TCCCSSCSSSCTTTCS----------STTSSSSCTTTCSSTTSCCTTCCCSSSSSSCGGGCSSTTS-C---CTTCCCTTC
+T ss_pred             cccCCCCCCCcccCCC----------CCCCCCCCCCccCCCCCCCCCCCCCCCCCCCccccCCCCC-C---CCCCCCCCC
+Confidence            3456666766665443          6677777777776665666777777777777766532111 1   111123333
+
+
+Q LOKIASV2_44640  839 DDLINLYEFQNATDPWNNDSDADGCLDGWEVQYTFDPLDNTDAVVDSDDDGLINLYEFR-NATDPWNNDTDGDGCSDGW  916 (1547)
+Q Consensus       839 D~l~n~~E~~~~TdP~~~DsD~DGl~Dg~E~~~~~dpld~~d~~~D~D~Dgl~~~~E~~-~~tdP~~~DtDgDg~~Dg~  916 (1547)
+                      +++.+..         ..|.|+||+.+..|...    +.......|.|+||+.+..+.. ....|...|+|+||+.|..
+T Consensus       246 dg~~d~~---------d~D~D~Dgi~d~~d~~~----~~~~~~~~D~DgDg~~d~~d~~p~~~~~~~~d~d~dg~~d~~  311 (634)
+T 1YO8_A          246 NGEGDAC---------SVDIDGDDVFNERDNCP----YVYNTDQRDTDGDGVGDHCDNCPLVHNPDQTDVDNDLVGDQC  311 (634)
+T ss_dssp             SSSCGGG---------CSSTTSS---S-SCSST----TSCCTTCCCTTCSSSCGGGCSSTTSCCTTCCCTTSSSSCTTT
+T ss_pred             CCCCccc---------CcCCCCCCCCcccccCC----CCCCCCCCCCCCCCCCCcccCCCCCCCCCccCCCCCCCCCCC
+Confidence            3332211         23455555555544311    1111123455666666554432 2233445566666666553
+
+
+No 13
+>1UX6_A THROMBOSPONDIN-1; EXTRACELLULAR MATRIX, CALCIUM BINDING, L-TYPE; HET: CA; 1.9A {HOMO SAPIENS} SCOP: b.29.1.16, g.75.1.1
+Probab=95.99  E-value=0.00036  Score=86.40  Aligned_cols=62  Identities=26%  Similarity=0.377  Sum_probs=51.8  Template_Neff=6.700
+
+Q LOKIASV2_44640  750 EYFYYKTNPKNNDTDGDGLLDGQEILNIFTEPLKNDTDEDGLLDGQEISDFSTDPLRKDTDADGCSDGWE  819 (1547)
+Q Consensus       750 e~~~~~t~p~~~DtDgDgl~D~~e~~~~~t~p~~~DtD~Dgl~D~~E~~~~~TdPl~~DtD~Dg~~D~~e  819 (1547)
+                      .+++...||.+.|+|+||+.|.++..        .|+|+||+.|..+.+.+..++...|+|+||+.|.++
+T Consensus        14 ~~~p~~~np~q~D~D~DgvgD~cd~~--------~D~D~DGi~d~~D~cp~~~n~~~~D~D~DG~gd~cd   75 (350)
+T 1UX6_A           14 DNCPLEHNPDQLDSDSDRIGDTCDNN--------QDIDEDGHQNNLDNCPYVPNANQADHDKDGKGDACD   75 (350)
+T ss_dssp             HHSBTTTCCSSCCTTSSSBCTTTCCC--------CCTTCSSSCGGGCSSTTSCCTTCCCTTCSSSCGGGC
+T ss_pred             eeCCCCCCCCCcCCCCCCCCccCCCC--------CCCCCCCCCcccccCCCCCCccccCCCCCCCCccCC
+Confidence            35678899999999999999998852        488899999998888777778888999999888764
+
+
+No 14
+>1UX6_A THROMBOSPONDIN-1; EXTRACELLULAR MATRIX, CALCIUM BINDING, L-TYPE; HET: CA; 1.9A {HOMO SAPIENS} SCOP: b.29.1.16, g.75.1.1
+Probab=94.40  E-value=0.0072  Score=75.31  Aligned_cols=107  Identities=29%  Similarity=0.311  Sum_probs=76.1  Template_Neff=6.700
+
+Q LOKIASV2_44640 1126 DASLDSDDDGLSNLFEFQNATNPWNNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLINLFEFQNATNPWNSDTDGD 1205 (1547)
+Q Consensus      1126 d~~~D~D~DGl~n~~E~~~~t~P~~~DtDgDG~~Dg~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~~~TdP~~~DtDgD 1205 (1547)
+                      +...|.|+||+.+..+.       ..|.|+||+.+..+.|    |........|+|+||+.+.|         ..|.|+|
+T Consensus        22 p~q~D~D~DgvgD~cd~-------~~D~D~DGi~d~~D~c----p~~~n~~~~D~D~DG~gd~c---------d~D~D~D   81 (350)
+T 1UX6_A           22 PDQLDSDSDRIGDTCDN-------NQDIDEDGHQNNLDNC----PYVPNANQADHDKDGKGDAC---------DHDDDND   81 (350)
+T ss_dssp             CSSCCTTSSSBCTTTCC-------CCCTTCSSSCGGGCSS----TTSCCTTCCCTTCSSSCGGG---------CSSTTCS
+T ss_pred             CCCcCCCCCCCCccCCC-------CCCCCCCCCCcccccC----CCCCCccccCCCCCCCCccC---------CCCCCCC
+Confidence            33468888998876553       2477889999888887    55545556788888888888         6678888
+
+
+Q LOKIASV2_44640 1206 GCLDGWEVQYTFDPLDNADASLDSDDDGLINLFEFQKATNPWNNDTDADGLIDGDELINDCDPLNRDSDGDLMDDGWEVQ 1285 (1547)
+Q Consensus      1206 Gl~Dg~Ev~~~~dp~~~~d~~~D~D~DGl~n~~E~~~~T~p~~~DtD~DGl~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~ 1285 (1547)
+                      |+.+..+.|+.    .+                      ++...|+|+||+.+.|+         .|.|+|++.+..+.|
+T Consensus        82 Gv~d~~D~cp~----~~----------------------~~~~~D~d~DGigD~c~---------~D~D~Dgv~D~~D~c  126 (350)
+T 1UX6_A           82 GIPDDKDNCRL----VP----------------------NPDQKDSDGDGRGDACK---------DDFDHDSVPDIDDIC  126 (350)
+T ss_dssp             SSCGGGCTTTT----SC----------------------CTTCCCTTCSSSCGGGS---------SCTTCSSSCTTTCSS
+T ss_pred             CCCCcCCCCCC----CC----------------------CcccCCCCCCCCCCCCc---------ccCCCCCCCChhhcC
+Confidence            88887777765    22                      22345566667777776         567788888887777
+
+
+Q LOKIASV2_44640 1286 YY 1287 (1547)
+Q Consensus      1286 ~~ 1287 (1547)
+                      +.
+T Consensus       127 P~  128 (350)
+T 1UX6_A          127 PE  128 (350)
+T ss_dssp             TT
+T ss_pred             CC
+Confidence            65
+
+
+No 15
+>1UX6_A THROMBOSPONDIN-1; EXTRACELLULAR MATRIX, CALCIUM BINDING, L-TYPE; HET: CA; 1.9A {HOMO SAPIENS} SCOP: b.29.1.16, g.75.1.1
+Probab=93.41  E-value=0.02  Score=71.53  Aligned_cols=107  Identities=30%  Similarity=0.377  Sum_probs=92.3  Template_Neff=6.700
+
+Q LOKIASV2_44640 1313 GTNPRNTDTDDDGLDDNTEVNTLLTNPVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEFSNATDPNNAD 1392 (1547)
+Q Consensus      1313 gTdP~~~DtD~DGL~D~~Ev~~~~TnP~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~~~gTdP~~~D 1392 (1547)
+                      ..+|.+.|+|+||++|.|+.        ..|.|+||+.+..+.|    |........|+|+||+.+.|         ..|
+T Consensus        19 ~~np~q~D~D~DgvgD~cd~--------~~D~D~DGi~d~~D~c----p~~~n~~~~D~D~DG~gd~c---------d~D   77 (350)
+T 1UX6_A           19 EHNPDQLDSDSDRIGDTCDN--------NQDIDEDGHQNNLDNC----PYVPNANQADHDKDGKGDAC---------DHD   77 (350)
+T ss_dssp             TTCCSSCCTTSSSBCTTTCC--------CCCTTCSSSCGGGCSS----TTSCCTTCCCTTCSSSCGGG---------CSS
+T ss_pred             CCCCCCcCCCCCCCCccCCC--------CCCCCCCCCCcccccC----CCCCCccccCCCCCCCCccC---------CCC
+Confidence            56778889999999999985        3588999999999999    77666667899999999998         678
+
+
+Q LOKIASV2_44640 1393 SDADGMFDGWELQYSLNPLDDNDAMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEI 1453 (1547)
+Q Consensus      1393 sD~DG~~Dg~E~~~~lnp~d~~D~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~ 1453 (1547)
+                      .|+||+++..+.|    |+.++....|.|+||+.+.+         ..|.|+||++|.++.
+T Consensus        78 ~D~DGv~d~~D~c----p~~~~~~~~D~d~DGigD~c---------~~D~D~Dgv~D~~D~  125 (350)
+T 1UX6_A           78 DDNDGIPDDKDNC----RLVPNPDQKDSDGDGRGDAC---------KDDFDHDSVPDIDDI  125 (350)
+T ss_dssp             TTCSSSCGGGCTT----TTSCCTTCCCTTCSSSCGGG---------SSCTTCSSSCTTTCS
+T ss_pred             CCCCCCCCcCCCC----CCCCCcccCCCCCCCCCCCC---------cccCCCCCCCChhhc
+Confidence            9999999999999    88777778899999999988         568999999998764
+
+
+No 16
+>1UX6_A THROMBOSPONDIN-1; EXTRACELLULAR MATRIX, CALCIUM BINDING, L-TYPE; HET: CA; 1.9A {HOMO SAPIENS} SCOP: b.29.1.16, g.75.1.1
+Probab=93.09  E-value=0.026  Score=70.56  Aligned_cols=108  Identities=30%  Similarity=0.328  Sum_probs=79.0  Template_Neff=6.700
+
+Q LOKIASV2_44640 1243 ATNPWNNDTDADGLIDGDELINDCDPLNRDSDGDLMDDGWEVQYYLDPLVDNAYDDTDADGLVNLAEFNAGTNPRNTDTD 1322 (1547)
+Q Consensus      1243 ~T~p~~~DtD~DGl~Dg~E~~~~tdPl~~DtDgDg~~Dg~E~~~~~dp~~~~~~~D~D~DGl~n~~E~~~gTdP~~~DtD 1322 (1547)
+                      ..+|.+.|+|+||+.|.|+.       ..|.|+||+.+..+.|+.                         ..++...|+|
+T Consensus        19 ~~np~q~D~D~DgvgD~cd~-------~~D~D~DGi~d~~D~cp~-------------------------~~n~~~~D~D   66 (350)
+T 1UX6_A           19 EHNPDQLDSDSDRIGDTCDN-------NQDIDEDGHQNNLDNCPY-------------------------VPNANQADHD   66 (350)
+T ss_dssp             TTCCSSCCTTSSSBCTTTCC-------CCCTTCSSSCGGGCSSTT-------------------------SCCTTCCCTT
+T ss_pred             CCCCCCcCCCCCCCCccCCC-------CCCCCCCCCCcccccCCC-------------------------CCCccccCCC
+Confidence            44566677777888777762       246677777777777665                         2234456777
+
+
+Q LOKIASV2_44640 1323 DDGLDDNTEVNTLLTNPVNADSDADGMPDGWEVDNSLDPLNATDAFEDLDLDGLVNLYEFSNATDPNNADSDADGMFDGW 1402 (1547)
+Q Consensus      1323 ~DGL~D~~Ev~~~~TnP~~~DsD~DGlpDgwE~~~~ldp~~~~D~~~D~D~DGl~n~~E~~~gTdP~~~DsD~DG~~Dg~ 1402 (1547)
+                      +||+.+.|+.          |.|+||+++..+.|    |..+.....|.|+||+.+.|         ..|.|+||++|..
+T Consensus        67 ~DG~gd~cd~----------D~D~DGv~d~~D~c----p~~~~~~~~D~d~DGigD~c---------~~D~D~Dgv~D~~  123 (350)
+T 1UX6_A           67 KDGKGDACDH----------DDDNDGIPDDKDNC----RLVPNPDQKDSDGDGRGDAC---------KDDFDHDSVPDID  123 (350)
+T ss_dssp             CSSSCGGGCS----------STTCSSSCGGGCTT----TTSCCTTCCCTTCSSSCGGG---------SSCTTCSSSCTTT
+T ss_pred             CCCCCccCCC----------CCCCCCCCCcCCCC----CCCCCcccCCCCCCCCCCCC---------cccCCCCCCCChh
+Confidence            8888877765          77888888888888    76666667788888888888         5678888888888
+
+
+Q LOKIASV2_44640 1403 ELQ 1405 (1547)
+Q Consensus      1403 E~~ 1405 (1547)
+                      +.|
+T Consensus       124 D~c  126 (350)
+T 1UX6_A          124 DIC  126 (350)
+T ss_dssp             CSS
+T ss_pred             hcC
+Confidence            887
+
+
+No 17
+>3A9G_A Putative uncharacterized protein; PQQ dependent dehydrogenase, aldose sugar; HET: TRE; 2.39A {Pyrobaculum aerophilum}
+Probab=92.94  E-value=0.029  Score=67.43  Aligned_cols=114  Identities=18%  Similarity=0.209  Sum_probs=59.0  Template_Neff=12.100
+
+Q LOKIASV2_44640  364 ESGCFIQINQKNEIYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDS--  441 (1547)
+Q Consensus       364 D~~~~i~vd~~G~iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~--  441 (1547)
+                      ....+|++++.|++||+...                     ..|.+++..+..+ ... +...........+|+++..  
+T Consensus        29 ~~p~~i~~~~~g~l~v~~~~---------------------~~i~~~~~~~~~~-~~~-~~~~~~~~~~p~~~~~~~~~~   85 (354)
+T 3A9G_A           29 EVPWSIAPLGGGRYLVTERP---------------------GRLVLISPSGKKL-VAS-FDVANVGEAGLLGLALHPEFP   85 (354)
+T ss_dssp             SCEEEEEEEETTEEEEEETT---------------------TEEEEECSSCEEE-EEE-CCCCCSTTCSEEEEEECTTTT
+T ss_pred             CCceEEEEcCCCcEEEEecC---------------------CEEEEEcCCCCce-EEE-EEEccccccceEEEEEcCCCC
+Confidence            35678999999999998750                     2355565555432 111 1110000112457888886  
+
+
+Q LOKIASV2_44640  442 --DYIYLC--GSTREDIQTFNAFDDYRNNQDIFITKFNPDGQ------SLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       442 --g~iyv~--G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~------~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                        +.+||+  .....            +.....|.+++..+.      ...+..-+.........+|++++.|.+||+..
+T Consensus        86 ~~~~l~v~~~~~~~~------------~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~g~l~v~~~  153 (354)
+T 3A9G_A           86 KKSWVYLYASYFAEG------------GHIRNRVIRGRLDGSTFKLKEVKTLIDGIPGAYIHNGGRIRFGPDGMLYITTG  153 (354)
+T ss_dssp             TSCEEEEEEEEECGG------------GCEEEEEEEEEECSSSCCEEEEEEEEEEEECCSSCCCCCEEECTTSCEEEECC
+T ss_pred             CCCEEEEEEeecCCC------------CCccceEEEEEecCCcceeeeeeEEEecCCCCcccCcccEEECCCCCEEEEeC
+Confidence              899997  32110            001223444444432      00111111111223467899999999999864
+
+
+Q LOKIASV2_44640  512 S  512 (1547)
+Q Consensus       512 T  512 (1547)
+                      .
+T Consensus       154 ~  154 (354)
+T 3A9G_A          154 D  154 (354)
+T ss_dssp             C
+T ss_pred             C
+Confidence            3
+
+
+No 18
+>3A9G_A Putative uncharacterized protein; PQQ dependent dehydrogenase, aldose sugar; HET: TRE; 2.39A {Pyrobaculum aerophilum}
+Probab=91.62  E-value=0.065  Score=64.48  Aligned_cols=167  Identities=12%  Similarity=0.088  Sum_probs=84.1  Template_Neff=12.100
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIG-GSESESGCFIQINQK----NE  376 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylG-Gs~~D~~~~i~vd~~----G~  376 (1547)
+                      ....|+++.+|++||+...                   ..|.++++++..+ +..+.. ........+|++++.    +.
+T Consensus        30 ~p~~i~~~~~g~l~v~~~~-------------------~~i~~~~~~~~~~-~~~~~~~~~~~~~p~~~~~~~~~~~~~~   89 (354)
+T 3A9G_A           30 VPWSIAPLGGGRYLVTERP-------------------GRLVLISPSGKKL-VASFDVANVGEAGLLGLALHPEFPKKSW   89 (354)
+T ss_dssp             CEEEEEEEETTEEEEEETT-------------------TEEEEECSSCEEE-EEECCCCCSTTCSEEEEEECTTTTTSCE
+T ss_pred             CceEEEEcCCCcEEEEecC-------------------CEEEEEcCCCCce-EEEEEEccccccceEEEEEcCCCCCCCE
+Confidence            4567888888999997650                   1355555554332 211110 112234678999987    89
+
+
+Q LOKIASV2_44640  377 IYVA--GWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGET-------LNFSTYFGSSGFDGEILAGLLLDDSDYIYLC  447 (1547)
+Q Consensus       377 iyv~--G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~-------L~~STylGgs~~d~~~~~~i~vd~~g~iyv~  447 (1547)
+                      +||+  .....              + .....|.|++..+..       ..+..+ ....  .....+|++++.|.+||+
+T Consensus        90 l~v~~~~~~~~--------------~-~~~~~i~~~~~~~~~~~~~~~~~~~~~~-~~~~--~~~~~~i~~~~~g~l~v~  151 (354)
+T 3A9G_A           90 VYLYASYFAEG--------------G-HIRNRVIRGRLDGSTFKLKEVKTLIDGI-PGAY--IHNGGRIRFGPDGMLYIT  151 (354)
+T ss_dssp             EEEEEEEECGG--------------G-CEEEEEEEEEECSSSCCEEEEEEEEEEE-ECCS--SCCCCCEEECTTSCEEEE
+T ss_pred             EEEEEeecCCC--------------C-CccceEEEEEecCCcceeeeeeEEEecC-CCCc--ccCcccEEECCCCCEEEE
+Confidence            9998  33110              0 012345555554421       011111 1100  112467888888899998
+
+
+Q LOKIASV2_44640  448 GSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSL---NF--STYLGGSGYDYAKKIALDSS-NAIYVTGY  511 (1547)
+Q Consensus       448 G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L---~y--STylGGsg~D~~~~IavD~~-g~iyVtG~  511 (1547)
+                      ..........    .........|.|++..+...   .|  ...+ ..+.....+|++++. +.+||+..
+T Consensus       152 ~~~~~~~~~~----~~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~-~~~~~~p~~i~~~~~~~~l~v~~~  216 (354)
+T 3A9G_A          152 TGDAADPRLA----QDLSSLAGKILRVDEEGRPPADNPFPNSPIW-SYGHRNPQGIDWHRASGVMVATEH  216 (354)
+T ss_dssp             CCCTTCGGGG----TCTTCCSSEEEEECTTSCCCTTSSSTTCCEE-EECCSCCCEEEECTTTCCEEEEEC
+T ss_pred             eCCCCChhhh----ccccccCCeEEEECCCCCCCCCCCCCCCCee-EeCCCCceeeEEeCCCCcEEEEeC
+Confidence            6442111000    00112245677777766410   00  0001 112235678999985 89999865
+
+
+No 19
+>1Q7F_B brain tumor CG10719-PA; brat, NHL domain, NHL repeat; 1.95A {Drosophila melanogaster} SCOP: b.68.9.1
+Probab=90.87  E-value=0.094  Score=60.51  Aligned_cols=62  Identities=18%  Similarity=0.192  Sum_probs=35.1  Template_Neff=12.500
+
+Q LOKIASV2_44640  630 GVRDMTFDLFGNILLTGHTRSTDYPNTTIDSSYQGGYDIVVSLFNPDGQELNFSICFGGISDDFPNACAIDLHNSVYITG  709 (1547)
+Q Consensus       630 ~~~~i~vd~~G~i~v~G~T~S~dfP~t~~~~~~~G~~D~fv~~~~~~g~~l~~sty~GG~~~D~~~~iavd~~g~~yv~G  709 (1547)
+                      ....|++++.|++||++....                 ..|.++++.|..+  ..+........+.+|+++++|.+||+.
+T Consensus       208 ~~~~i~~~~~g~~~v~~~~~~-----------------~~i~~~~~~g~~~--~~~~~~~~~~~~~~i~~~~~g~l~v~~  268 (286)
+T 1Q7F_B          208 YPIGVGINSNGEILIADNHNN-----------------FNLTIFTQDGQLI--SALESKVKHAQCFDVALMDDGSVVLAS  268 (286)
+T ss_dssp             SEEEEEECTTCCEEEEECSSS-----------------CEEEEECTTSCEE--EEEEESSCCSCEEEEEECTTSEEEEEE
+T ss_pred             cceEEEECCCCCEEEEcCCCC-----------------ceEEEEcCCCCee--EeeccccccccceeEEEcCCCcEEEEc
+Confidence            456788888899998865321                 1233444444322  111111122345678888888888865
+
+
+Q LOKIASV2_44640  710 N  710 (1547)
+Q Consensus       710 ~  710 (1547)
+                      .
+T Consensus       269 ~  269 (286)
+T 1Q7F_B          269 K  269 (286)
+T ss_dssp             T
+T ss_pred             C
+Confidence            3
+
+
+No 20
+>4ZLR_A Brain tumor protein/RNA Complex; NHL-domain, beta-propeller, RNA binding, translational; HET: PG4, SO4, PE4, 1PE; 2.3A {Drosophila melanogaster}
+Probab=90.04  E-value=0.13  Score=58.74  Aligned_cols=63  Identities=17%  Similarity=0.200  Sum_probs=34.3  Template_Neff=12.800
+
+Q LOKIASV2_44640  629 DGVRDMTFDLFGNILLTGHTRSTDYPNTTIDSSYQGGYDIVVSLFNPDGQELNFSICFGGISDDFPNACAIDLHNSVYIT  708 (1547)
+Q Consensus       629 D~~~~i~vd~~G~i~v~G~T~S~dfP~t~~~~~~~G~~D~fv~~~~~~g~~l~~sty~GG~~~D~~~~iavd~~g~~yv~  708 (1547)
+                      .....|++++.|++||++....                 ..|..+++.+..+  ..+..........+|++++.+.+||+
+T Consensus       203 ~~~~~i~~~~~g~~~v~~~~~~-----------------~~i~~~~~~~~~~--~~~~~~~~~~~~~~i~~~~~g~~~v~  263 (282)
+T 4ZLR_A          203 NYPIGVGINSNGEILIADNHNN-----------------FNLTIFTQDGQLI--SALESKVKHAQCFDVALMDDGSVVLA  263 (282)
+T ss_dssp             CSEEEEEECTTSCEEEEECSSS-----------------CEEEEECTTSCEE--EEEEESSCCSCEEEEEEETTTEEEEE
+T ss_pred             CcceEEEECCCCCEEEEeCCCC-----------------eEEEEEeCCCcEE--EeecccccccccceEEEcCCCcEEEE
+Confidence            3456788888899988875321                 0233334444321  11111112234567888888887776
+
+
+Q LOKIASV2_44640  709 GN  710 (1547)
+Q Consensus       709 G~  710 (1547)
+                      +.
+T Consensus       264 ~~  265 (282)
+T 4ZLR_A          264 SK  265 (282)
+T ss_dssp             ET
+T ss_pred             cC
+Confidence            54
+
+
+No 21
+>2QC5_A Streptogramin B lactonase; beta propeller, LYASE; 1.8A {Staphylococcus cohnii}
+Probab=89.13  E-value=0.18  Score=57.51  Aligned_cols=18  Identities=6%  Similarity=0.106  Sum_probs=14.1  Template_Neff=13.300
+
+Q LOKIASV2_44640  365 SGCFIQINQKNEIYVAGW  382 (1547)
+Q Consensus       365 ~~~~i~vd~~G~iyv~G~  382 (1547)
+                      ....|+++++|.+||++.
+T Consensus        63 ~~~~~~~~~~g~~~~~~~   80 (300)
+T 2QC5_A           63 KVMCLIVSSLGDIWFTEN   80 (300)
+T ss_pred             CccEEEECCCCCEEEEEc
+Confidence            456788888999988764
+
+
+No 22
+>5WM0_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.1.14.17.3,4.3.2.5); PEPTIDYLGLYCINE MONOOXYGENASE, PEPTIDYLGLYCINE 2-HYDROXYLASE, PHM; 2.4A {Rattus norvegicus}
+Probab=88.97  E-value=0.19  Score=71.71  Aligned_cols=82  Identities=13%  Similarity=0.140  Sum_probs=44.8  Template_Neff=9.200
+
+Q LOKIASV2_44640  364 ESGCFIQINQKNEIYVAGWTYS----PDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLD  439 (1547)
+Q Consensus       364 D~~~~i~vd~~G~iyv~G~T~S----~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd  439 (1547)
+                      ....+|+++++|++||++....    -+|.....++....+...+..|.+++..+..+....-.+.  .  ....+|+++
+T Consensus       515 ~~v~~ia~s~dG~l~v~~~~~~~~~~~s~~~~~~~~~~~~~~~~~~~I~v~d~~tg~~~~~~~~~~--~--~~p~~ia~~  590 (976)
+T 5WM0_A          515 GQVSGVALDSKNNLVIFHRGDHVWDGNSFDSKFVYQQRGLGPIEEDTILVIDPNNAEILQSSGKNL--F--YLPHGLSID  590 (976)
+T ss_pred             CCEEEEEECCCCCEEEEecCCCcEEEEcCCCCeeecCCCcCCCCCCcEEEEeCCCCcEEeeecCCC--C--CCceEEEEC
+Confidence            3467899999999999986431    1121111111111111234667777776554432211111  1  124678898
+
+
+Q LOKIASV2_44640  440 DSDYIYLCGS  449 (1547)
+Q Consensus       440 ~~g~iyv~G~  449 (1547)
+                      .++++||++.
+T Consensus       591 ~dg~l~vt~~  600 (976)
+T 5WM0_A          591 TDGNYWVTDV  600 (976)
+T ss_pred             CCCCEEEEEC
+Confidence            8899998774
+
+
+No 23
+>4ZLR_B Brain tumor protein/RNA Complex; NHL-domain, beta-propeller, RNA binding, translational; HET: PE4, 1PE, PG4, SO4; 2.3A {Drosophila melanogaster}
+Probab=88.40  E-value=0.23  Score=56.86  Aligned_cols=62  Identities=18%  Similarity=0.192  Sum_probs=33.4  Template_Neff=12.800
+
+Q LOKIASV2_44640  630 GVRDMTFDLFGNILLTGHTRSTDYPNTTIDSSYQGGYDIVVSLFNPDGQELNFSICFGGISDDFPNACAIDLHNSVYITG  709 (1547)
+Q Consensus       630 ~~~~i~vd~~G~i~v~G~T~S~dfP~t~~~~~~~G~~D~fv~~~~~~g~~l~~sty~GG~~~D~~~~iavd~~g~~yv~G  709 (1547)
+                      ....|++++.|++|+++....                 ..|..+++.+..+  ..+..........++++++.+.+||++
+T Consensus       204 ~~~~i~~~~~g~~~~~~~~~~-----------------~~i~~~~~~~~~~--~~~~~~~~~~~~~~i~~~~~g~~~v~~  264 (282)
+T 4ZLR_B          204 YPIGVGINSNGEILIADNHNN-----------------FNLTIFTQDGQLI--SALESKVKHAQCFDVALMDDGSVVLAS  264 (282)
+T ss_dssp             SEEEEEECTTCCEEEEECSSS-----------------CEEEEECTTSCEE--EEEEESSCCSCEEEEEEETTTEEEEEE
+T ss_pred             cceEEEECCCCCEEEEeCCCC-----------------eEEEEEeCCCCEE--EeecccccccccceEEEcCCCcEEEEc
+Confidence            456788888888888765321                 0233334444321  111111122345577888888877755
+
+
+Q LOKIASV2_44640  710 N  710 (1547)
+Q Consensus       710 ~  710 (1547)
+                      .
+T Consensus       265 ~  265 (282)
+T 4ZLR_B          265 K  265 (282)
+T ss_dssp             T
+T ss_pred             C
+Confidence            3
+
+
+No 24
+>1Q7F_B brain tumor CG10719-PA; brat, NHL domain, NHL repeat; 1.95A {Drosophila melanogaster} SCOP: b.68.9.1
+Probab=87.68  E-value=0.28  Score=56.70  Aligned_cols=149  Identities=10%  Similarity=0.188  Sum_probs=73.5  Template_Neff=12.500
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIG--GSESESGCFIQINQ-KNEIY  378 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylG--Gs~~D~~~~i~vd~-~G~iy  378 (1547)
+                      ...+|+++.+|.+||+.....                  -|.++++++..+......+  .........|++++ .+++|
+T Consensus        31 ~p~~i~~~~~g~~~v~~~~~~------------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~i~   92 (286)
+T 1Q7F_B           31 EPSGVAVNAQNDIIVADTNNH------------------RIQIFDKEGRFKFQFGECGKRDSQLLYPNRVAVVRNSGDII   92 (286)
+T ss_dssp             CEEEEEECTTCCEEEEEGGGT------------------EEEEECTTSCEEEEECCBSSSTTCBSSEEEEEEETTTTEEE
+T ss_pred             CceEEEECCCCCEEEEeCCCC------------------EEEEEcCCCCEEEEecCCCCCCccccccccEEEEeCCCeEE
+Confidence            456788888899998753211                  1333444433221111001  01123466788887 78888
+
+
+Q LOKIASV2_44640  379 VAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTREDIQTFN  458 (1547)
+Q Consensus       379 v~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~sd~~t~~  458 (1547)
+                      |+....                   +.-|.+++..|..+ + ++.... .  ....+|++++.+++||++...       
+T Consensus        93 v~~~~~-------------------~~~i~~~~~~g~~~-~-~~~~~~-~--~~~~~i~~~~~g~~~v~~~~~-------  141 (286)
+T 1Q7F_B           93 VTERSP-------------------THQIQIYNQYGQFV-R-KFGATI-L--QHPRGVTVDNKGRIIVVECKV-------  141 (286)
+T ss_dssp             EEECGG-------------------GCEEEEECTTSCEE-E-EECTTT-C--SCEEEEEECTTSCEEEEETTT-------
+T ss_pred             EEecCC-------------------CCeEEEEeCCCCcc-h-hcCccc-c--CCceeEEECCCCCEEEEECCC-------
+Confidence            875421                   01123344444322 1 111110 0  124578888888999875321       
+
+
+Q LOKIASV2_44640  459 AFDDYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       459 a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                                ..|.+++..+..+ .. +..........+|++++.|++||+..
+T Consensus       142 ----------~~i~~~~~~~~~~-~~-~~~~~~~~~~~~i~~~~~g~l~v~~~  182 (286)
+T 1Q7F_B          142 ----------MRVIIFDQNGNVL-HK-FGCSKHLEFPNGVVVNDKQEIFISDN  182 (286)
+T ss_dssp             ----------TEEEEECTTSCEE-EE-EECTTTCSSEEEEEECSSSEEEEEET
+T ss_pred             ----------CEEEEEcCCCCEE-EE-EcCCCCCCCCeeEEECCCCcEEEecC
+Confidence                      1233444443211 11 11111123467789999889988753
+
+
+No 25
+>6FB3_B Teneurin-2; TTR, fibronectin, FN-plug, NHL, YD-repeat; HET: BMA, MAN, NAG; 2.38A {Gallus gallus}
+Probab=85.86  E-value=0.43  Score=73.01  Aligned_cols=60  Identities=12%  Similarity=0.244  Sum_probs=35.8  Template_Neff=9.400
+
+Q LOKIASV2_44640  365 SGCFIQINQKNEIYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGF------DGEILAGLLL  438 (1547)
+Q Consensus       365 ~~~~i~vd~~G~iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~------d~~~~~~i~v  438 (1547)
+                      ...+|+++++|++||+..                      .+|-|++++|...   +.++....      ......+|++
+T Consensus       315 ~P~~la~~~dG~l~v~d~----------------------~~ir~i~~~g~~~---~~~~~~~~~~~~~~~~~~~~~lav  369 (1859)
+T 6FB3_B          315 APVALAVGIDGSLFVGDF----------------------NYIRRIFPSRNVT---SILELRNKEFKHSNNPAHKYYLAV  369 (1859)
+T ss_dssp             CEEEEEECTTSCEEEEET----------------------TEEEEECTTSEEE---EEEECTTCCGGGTTCGGGCEEEEE
+T ss_pred             CceEEEECCCCCEEEecc----------------------ceEEEECCCCCEE---EEEeccccccCCCCCCCceeeEEE
+Confidence            467899999999999864                      1344555555321   22221110      0012467899
+
+
+Q LOKIASV2_44640  439 DD-SDYIYLCGS  449 (1547)
+Q Consensus       439 d~-~g~iyv~G~  449 (1547)
+                      ++ .|.+||+-.
+T Consensus       370 ~p~~g~lyvsd~  381 (1859)
+T 6FB3_B          370 DPVSGSLYVSDT  381 (1859)
+T ss_dssp             CSSSCCEEEEET
+T ss_pred             eCCCCeEEEEeC
+Confidence            88 899999753
+
+
+No 26
+>2ISM_B Putative oxidoreductase; BL41XU SPRING-8, bladed beta-propellor, glucose; 1.9A {Thermus thermophilus}
+Probab=85.46  E-value=0.46  Score=57.04  Aligned_cols=113  Identities=14%  Similarity=0.154  Sum_probs=56.5  Template_Neff=12.300
+
+Q LOKIASV2_44640  365 SGCFIQINQKNEIYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDS---  441 (1547)
+Q Consensus       365 ~~~~i~vd~~G~iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~---  441 (1547)
+                      ...+|+++++|.+||+...                     ..|.+++..+... +......... .....+|++++.   
+T Consensus        32 ~p~~i~~~~~g~l~v~~~~---------------------~~i~~~~~~~~~~-~~~~~~~~~~-~~~~~~i~~~~~~~~   88 (352)
+T 2ISM_B           32 VPWALAFLPDGGMLIAERP---------------------GRIRLFREGRLST-YAELSVYHRG-ESGLLGLALHPRFPQ   88 (352)
+T ss_dssp             CEEEEEECTTSCEEEEETT---------------------TEEEEEETTEEEE-EEECCCCCST-TCSEEEEEECTTTTT
+T ss_pred             CceEEEEcCCCCEEEEeCC---------------------CeEEEEeCCCCcc-eeeeeeecCC-ccCcceEEECCCCCC
+Confidence            4677888888999998542                     1234444443211 1110000000 012356888876   
+
+
+Q LOKIASV2_44640  442 -DYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQ-----SLNFSTYLGG-SGYDYAKKIALDSSNAIYVTGYS  512 (1547)
+Q Consensus       442 -g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~-----~L~ySTylGG-sg~D~~~~IavD~~g~iyVtG~T  512 (1547)
+                       +.+||+.....            +.....|.+++..+.     ...+..+-.+ .......+|++++.|.+||+...
+T Consensus        89 ~~~l~v~~~~~~------------~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~g~l~v~~~~  154 (352)
+T 2ISM_B           89 EPYVYAYRTVAE------------GGLRNQVVRLRHLGERGVLDRVVLDGIPARPHGLHSGGRIAFGPDGMLYVTTGE  154 (352)
+T ss_dssp             SCCEEEEEEECT------------TSCEEEEEEEEECSSCEEEEEEEEEEECCCTTCCCCCCCEEECTTSCEEEECCC
+T ss_pred             CCeEEEEEecCC------------CCCcceEEEEEecCCCCeEEEEEEecCCCCCCCCCCCCcEEECCCCCEEEEcCC
+Confidence             88998764210            001223445544431     1111121111 12345678999999999998643
+
+
+No 27
+>4ZLR_A Brain tumor protein/RNA Complex; NHL-domain, beta-propeller, RNA binding, translational; HET: PG4, SO4, PE4, 1PE; 2.3A {Drosophila melanogaster}
+Probab=85.31  E-value=0.48  Score=54.26  Aligned_cols=149  Identities=11%  Similarity=0.201  Sum_probs=73.4  Template_Neff=12.800
+
+Q LOKIASV2_44640  301 EIIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGG---SESESGCFIQINQ-KNE  376 (1547)
+Q Consensus       301 d~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGG---s~~D~~~~i~vd~-~G~  376 (1547)
+                      .....|+++++|.+|+++....                  -|.+++.++..+ ...-..+   ........|++++ .+.
+T Consensus        26 ~~~~~i~~~~~g~~~~~~~~~~------------------~i~~~~~~g~~~-~~~~~~~~~~~~~~~~~~i~~~~~~~~   86 (282)
+T 4ZLR_A           26 TEPSGVAVNAQNDIIVADTNNH------------------RIQIFDKEGRFK-FQFGECGKRDSQLLYPNRVAVVRNSGD   86 (282)
+T ss_dssp             SCEEEEEECTTCCEEEEEGGGT------------------EEEEECTTSCEE-EEECCBSSCC-CBSSEEEEEEETTTTE
+T ss_pred             cccEEEEECCCCCEEEEECCCC------------------EEEEEcCCCCEE-EEEcCCCCCcccccccceEEEEcCCCC
+Confidence            3567888899999988764211                  122333333221 1110011   1123456788887 788
+
+
+Q LOKIASV2_44640  377 IYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTREDIQT  456 (1547)
+Q Consensus       377 iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~sd~~t  456 (1547)
+                      +||+....                   +.-|.+++..|..+  .++....   .....+|++++.+++|+++...     
+T Consensus        87 ~~~~~~~~-------------------~~~i~~~~~~~~~~--~~~~~~~---~~~~~~i~~~~~g~~~~~~~~~-----  137 (282)
+T 4ZLR_A           87 IIVTERSP-------------------THQIQIYNQYGQFV--RKFGATI---LQHPRGVTVDNKGRIIVVECKV-----  137 (282)
+T ss_dssp             EEEEECTT-------------------TCCEEEECTTSCEE--EEECTTT---CSCEEEEEECTTCCEEEEETTT-----
+T ss_pred             EEEEecCC-------------------CCeEEEEcCCCCeE--EEeCCCC---CCCceEEEECCCCCEEEEEcCC-----
+Confidence            88875421                   12233333334322  1121111   0124568888888888876332     
+
+
+Q LOKIASV2_44640  457 FNAFDDYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       457 ~~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                                  ..|.+++..+..+ . .+...........|++++.|.+||++.
+T Consensus       138 ------------~~i~~~~~~~~~~-~-~~~~~~~~~~~~~i~~~~~g~~~v~~~  178 (282)
+T 4ZLR_A          138 ------------MRVIIFDQNGNVL-H-KFGCSKHLEFPNGVVVNDKQEIFISDN  178 (282)
+T ss_dssp             ------------TEEEEECTTSCEE-E-EEECTTTCSCEEEEEECSSSEEEEEET
+T ss_pred             ------------CEEEEEcCCCCEE-E-EEcCCCccCCceeEEECCCCeEEEEeC
+Confidence                        1233333333211 1 111111223466788888888888764
+
+
+No 28
+>2J42_A C2 TOXIN COMPONENT-II; TOXIN, CLOSTRIDIUM BOTULINUM, C2-II; 3.13A {CLOSTRIDIUM BOTULINUM}
+Probab=84.52  E-value=0.56  Score=63.60  Aligned_cols=64  Identities=27%  Similarity=0.312  Sum_probs=45.9  Template_Neff=5.000
+
+Q LOKIASV2_44640 1101 NNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLSNLFEFQNATNPWNNDTDGDGCLDGWEVQYNF 1168 (1547)
+Q Consensus      1101 ~~DtDgDG~~D~~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~~~t~P~~~DtDgDG~~Dg~E~~~~~ 1168 (1547)
+                      ..|+|+||++|.||. .|..+...   ..-...|.+....+....++|...+|+||+++|..++....
+T Consensus       185 ~~DtD~DgipD~wE~-~GYt~~~~---~~v~w~d~l~~~g~~k~~SnP~~~~T~gDpysD~ek~~~~i  248 (721)
+T 2J42_A          185 NRDTDRDGIPDEWEI-NGYTVMNQ---KAVAWDDKFAANGYKKYVSNPFKPCTANDPYTDFEKVSGQI  248 (721)
+T ss_dssp             -CCSSCSSSCHHHHH-SCEECSTT---CEECCHHHHHHHCCCCCCCCSSCSCTTCSSSCHHHHHHCCS
+T ss_pred             CCCCCCCCCccceee-cCccccCc---eeeccchhHhhCCceEeecCCCCCCCCCCCCCHHHHHHccC
+Confidence            568999999999996 55444322   12345566665555557899999999999999999876543
+
+
+No 29
+>6SKA_A Teneurin-2, Adhesion G protein-coupled receptor; adhesion, Odz, Lphn, synapse, neurons; HET: NAG, MAN, BMA; 3.86A {Gallus gallus}
+Probab=84.29  E-value=0.58  Score=71.54  Aligned_cols=21  Identities=19%  Similarity=0.400  Sum_probs=16.5  Template_Neff=9.500
+
+Q LOKIASV2_44640  692 DFPNACAIDLHNSVYITGNTE  712 (1547)
+Q Consensus       692 D~~~~iavd~~g~~yv~G~T~  712 (1547)
+                      ..+.+|+++++|.+||+....
+T Consensus       610 ~~~~~la~~~dG~l~iad~~~  630 (1836)
+T 6SKA_A          610 NSPSSLAVAPDGTIYIADLGN  630 (1836)
+T ss_dssp             CCEEEEEECTTSCEEEEEGGG
+T ss_pred             cCceEEEECCCCCEEEEECCc
+Confidence            346789999999999987653
+
+
+No 30
+>2J42_A C2 TOXIN COMPONENT-II; TOXIN, CLOSTRIDIUM BOTULINUM, C2-II; 3.13A {CLOSTRIDIUM BOTULINUM}
+Probab=84.11  E-value=0.6  Score=63.31  Aligned_cols=67  Identities=27%  Similarity=0.307  Sum_probs=51.2  Template_Neff=5.000
+
+Q LOKIASV2_44640 1390 NADSDADGMFDGWELQYSLNPLDDNDAMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEISYQFDPL 1460 (1547)
+Q Consensus      1390 ~~DsD~DG~~Dg~E~~~~lnp~d~~D~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~~~~~~pl 1460 (1547)
+                      ..|+|+||++|.||.. ++.+...   ..-+..|.+.+..+....++|+..++++|+++|..|+.+.++|.
+T Consensus       185 ~~DtD~DgipD~wE~~-GYt~~~~---~~v~w~d~l~~~g~~k~~SnP~~~~T~gDpysD~ek~~~~id~~  251 (721)
+T 2J42_A          185 NRDTDRDGIPDEWEIN-GYTVMNQ---KAVAWDDKFAANGYKKYVSNPFKPCTANDPYTDFEKVSGQIDPS  251 (721)
+T ss_dssp             -CCSSCSSSCHHHHHS-CEECSTT---CEECCHHHHHHHCCCCCCCCSSCSCTTCSSSCHHHHHHCCSCTT
+T ss_pred             CCCCCCCCCccceeec-CccccCc---eeeccchhHhhCCceEeecCCCCCCCCCCCCCHHHHHHccCCCc
+Confidence            5688999999999983 4433322   23355667777777788999999999999999999999877764
+
+
+No 31
+>3A9G_A Putative uncharacterized protein; PQQ dependent dehydrogenase, aldose sugar; HET: TRE; 2.39A {Pyrobaculum aerophilum}
+Probab=83.93  E-value=0.62  Score=56.26  Aligned_cols=77  Identities=13%  Similarity=0.182  Sum_probs=42.0  Template_Neff=12.100
+
+Q LOKIASV2_44640  364 ESGCFIQINQKNEIYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETL---NF--STYFGSSGFDGEILAGLLL  438 (1547)
+Q Consensus       364 D~~~~i~vd~~G~iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L---~~--STylGgs~~d~~~~~~i~v  438 (1547)
+                      ....+|++++.|++||+......  +....     ........|.|++..|...   .|  ...+.. ..  ....+|++
+T Consensus       135 ~~~~~i~~~~~g~l~v~~~~~~~--~~~~~-----~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~-~~--~~p~~i~~  204 (354)
+T 3A9G_A          135 HNGGRIRFGPDGMLYITTGDAAD--PRLAQ-----DLSSLAGKILRVDEEGRPPADNPFPNSPIWSY-GH--RNPQGIDW  204 (354)
+T ss_dssp             CCCCCEEECTTSCEEEECCCTTC--GGGGT-----CTTCCSSEEEEECTTSCCCTTSSSTTCCEEEE-CC--SCCCEEEE
+T ss_pred             cCcccEEECCCCCEEEEeCCCCC--hhhhc-----cccccCCeEEEECCCCCCCCCCCCCCCCeeEe-CC--CCceeeEE
+Confidence            34678999999999998654221  11110     0111246788888877520   00  011110 00  12467888
+
+
+Q LOKIASV2_44640  439 DDS-DYIYLCGST  450 (1547)
+Q Consensus       439 d~~-g~iyv~G~T  450 (1547)
+                      ++. +.+||+...
+T Consensus       205 ~~~~~~l~v~~~~  217 (354)
+T 3A9G_A          205 HRASGVMVATEHG  217 (354)
+T ss_dssp             CTTTCCEEEEECC
+T ss_pred             eCCCCcEEEEeCC
+Confidence            885 899997643
+
+
+No 32
+>3Q6K_B 43.2 kDa salivary protein; beta propeller, binding protein, serotonin; HET: CIT, SRO; 2.52A {Lutzomyia longipalpis}
+Probab=83.52  E-value=0.67  Score=57.85  Aligned_cols=65  Identities=15%  Similarity=0.207  Sum_probs=36.4  Template_Neff=10.900
+
+Q LOKIASV2_44640  630 GVRDMTFDLF-GNILLTGHTRSTDYPNTTIDSSYQGGYDIVVSLFNPDGQEL---NFSICFGGISDDFPNACAIDLHNSV  705 (1547)
+Q Consensus       630 ~~~~i~vd~~-G~i~v~G~T~S~dfP~t~~~~~~~G~~D~fv~~~~~~g~~l---~~sty~GG~~~D~~~~iavd~~g~~  705 (1547)
+                      ....|+++.. |++||+.....                  .|.+++.++..+   .+...........+.+|++++.+.+
+T Consensus       276 ~p~~i~~d~~~g~lyv~~~~~~------------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~p~~i~~d~~g~l  337 (381)
+T 3Q6K_B          276 DAIALAYDPKTKVIFFAEANTK------------------QVSCWNTQKMPLRMKNTDVVYTSSRFVFGTDISVDSKGGL  337 (381)
+T ss_dssp             CEEEEEEETTTTEEEEEESSSS------------------EEEEEETTSSSBCGGGCEEEEECTTCCSEEEEEECTTSCE
+T ss_pred             CceeEEEeCCCCEEEEEECCCC------------------EEEEEECCCCcccccceeeeecCcceecceeEEEcCCCcE
+Confidence            3456888876 89999764321                  123333333100   0111122223456788999988999
+
+
+Q LOKIASV2_44640  706 YITGNTE  712 (1547)
+Q Consensus       706 yv~G~T~  712 (1547)
+                      ||+....
+T Consensus       338 yv~~~~~  344 (381)
+T 3Q6K_B          338 WFMSNGF  344 (381)
+T ss_dssp             EEEECSC
+T ss_pred             EEEcCCC
+Confidence            9976643
+
+
+No 33
+>3Q6P_B 43.2 kDa salivary protein; ligand binding protein, beta propeller; HET: CIT, MSE; 2.75A {Lutzomyia longipalpis}
+Probab=83.52  E-value=0.67  Score=57.85  Aligned_cols=65  Identities=15%  Similarity=0.207  Sum_probs=36.4  Template_Neff=10.900
+
+Q LOKIASV2_44640  630 GVRDMTFDLF-GNILLTGHTRSTDYPNTTIDSSYQGGYDIVVSLFNPDGQEL---NFSICFGGISDDFPNACAIDLHNSV  705 (1547)
+Q Consensus       630 ~~~~i~vd~~-G~i~v~G~T~S~dfP~t~~~~~~~G~~D~fv~~~~~~g~~l---~~sty~GG~~~D~~~~iavd~~g~~  705 (1547)
+                      ....|+++.. |++||+.....                  .|.+++.++..+   .+...........+.+|++++.+.+
+T Consensus       276 ~p~~i~~d~~~g~lyv~~~~~~------------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~p~~i~~d~~g~l  337 (381)
+T 3Q6P_B          276 DAIALAYDPKTKVIFFAEANTK------------------QVSCWNTQKMPLRMKNTDVVYTSSRFVFGTDISVDSKGGL  337 (381)
+T ss_dssp             CEEEEEEETTTTEEEEEESSSS------------------EEEEEETTSSSBCGGGEEEEEECTTCCSEEEEEECTTSCE
+T ss_pred             CceeEEEeCCCCEEEEEECCCC------------------EEEEEECCCCcccccceeeeecCcceecceeEEEcCCCcE
+Confidence            3456888876 89999764321                  123333333100   0111122223456788999988999
+
+
+Q LOKIASV2_44640  706 YITGNTE  712 (1547)
+Q Consensus       706 yv~G~T~  712 (1547)
+                      ||+....
+T Consensus       338 yv~~~~~  344 (381)
+T 3Q6P_B          338 WFMSNGF  344 (381)
+T ss_dssp             EEEECSC
+T ss_pred             EEEcCCC
+Confidence            9976643
+
+
+No 34
+>3Q6T_A 43.2 kDa salivary protein; beta propeller, ligand binding, serotonin; HET: CIT; 2.93A {Lutzomyia longipalpis}
+Probab=83.52  E-value=0.67  Score=57.85  Aligned_cols=65  Identities=15%  Similarity=0.207  Sum_probs=36.4  Template_Neff=10.900
+
+Q LOKIASV2_44640  630 GVRDMTFDLF-GNILLTGHTRSTDYPNTTIDSSYQGGYDIVVSLFNPDGQEL---NFSICFGGISDDFPNACAIDLHNSV  705 (1547)
+Q Consensus       630 ~~~~i~vd~~-G~i~v~G~T~S~dfP~t~~~~~~~G~~D~fv~~~~~~g~~l---~~sty~GG~~~D~~~~iavd~~g~~  705 (1547)
+                      ....|+++.. |++||+.....                  .|.+++.++..+   .+...........+.+|++++.+.+
+T Consensus       276 ~p~~i~~d~~~g~lyv~~~~~~------------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~p~~i~~d~~g~l  337 (381)
+T 3Q6T_A          276 DAIALAYDPKTKVIFFAEANTK------------------QVSCWNTQKMPLRMKNTDVVYTSSRFVFGTDISVDSKGGL  337 (381)
+T ss_dssp             CEEEEEECTTTCEEEEEESSSS------------------EEEEEETTSCSBCGGGEEEEEECTTCCSEEEEEECTTCCE
+T ss_pred             CceeEEEeCCCCEEEEEECCCC------------------EEEEEECCCCcccccceeeeecCcceecceeEEEcCCCcE
+Confidence            3456888876 89999764321                  123333333100   0111122223456788999988999
+
+
+Q LOKIASV2_44640  706 YITGNTE  712 (1547)
+Q Consensus       706 yv~G~T~  712 (1547)
+                      ||+....
+T Consensus       338 yv~~~~~  344 (381)
+T 3Q6T_A          338 WFMSNGF  344 (381)
+T ss_dssp             EEEECSC
+T ss_pred             EEEcCCC
+Confidence            9976643
+
+
+No 35
+>3HRP_A Uncharacterized protein; NP_812590.1, Structural genomics protein of; HET: EDO; 1.7A {Bacteroides thetaiotaomicron VPI-5482}
+Probab=82.81  E-value=0.75  Score=57.16  Aligned_cols=19  Identities=16%  Similarity=0.350  Sum_probs=15.1  Template_Neff=11.800
+
+Q LOKIASV2_44640  692 DFPNACAIDLHNSVYITGN  710 (1547)
+Q Consensus       692 D~~~~iavd~~g~~yv~G~  710 (1547)
+                      ..+.+|++++.+++||+..
+T Consensus       380 ~~p~~i~~~~~g~l~v~d~  398 (409)
+T 3HRP_A          380 NYPYDICYDGEGGYWIAEA  398 (409)
+T ss_dssp             SSEEEEEECSSSEEEEEES
+T ss_pred             CCceEEEEcCCCCEEEEeC
+Confidence            4577889998899998764
+
+
+No 36
+>6D69_A GH06739p; protein-protein interaction, beta-propeller, limb girdle; 2.601A {Drosophila melanogaster}
+Probab=82.21  E-value=0.83  Score=51.70  Aligned_cols=18  Identities=28%  Similarity=0.379  Sum_probs=13.8  Template_Neff=13.800
+
+Q LOKIASV2_44640  494 YAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       494 ~~~~IavD~~g~iyVtG~  511 (1547)
+                      ....|++++.+.+|+++.
+T Consensus       141 ~~~~i~~~~~~~~~~~~~  158 (307)
+T 6D69_A          141 YPWGVTTDALGFIYVCDK  158 (307)
+T ss_pred             CeEEEEECCCCCEEEEEc
+Confidence            466788888888888764
+
+
+No 37
+>5C2M_A Predicted protein; beta-propeller, STRUCTURAL PROTEIN; 1.9A {Nematostella vectensis}
+Probab=81.65  E-value=0.9  Score=53.95  Aligned_cols=55  Identities=5%  Similarity=0.109  Sum_probs=35.9  Template_Neff=9.700
+
+Q LOKIASV2_44640  433 LAGLLLDDSDYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTG  510 (1547)
+Q Consensus       433 ~~~i~vd~~g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG  510 (1547)
+                      ..+|+++++|+||++-..                 ...|.|+++++. +     ++........+|++++.|++||+-
+T Consensus        14 ~~~i~~~~~G~l~~~~~~-----------------~~~v~~~~~~g~-~-----~~~~~~~~p~~i~~~~~G~lyv~~   68 (250)
+T 5C2M_A           14 NYIFAVSYDGELFKGSPP-----------------ESAQASWLTSAT-R-----IGTKGWANFSHLLFNPDGTLYGVV   68 (250)
+T ss_dssp             CCEEEEETTSCEEEECCC-----------------CCTTSCHHHHCE-E-----EECSCGGGCSEEEECTTSCEEEEE
+T ss_pred             ccEEEEcCCCcEEEeCCC-----------------ccccchhhccCe-E-----eeccchhcccEEEECCCCCEEEEE
+Confidence            456888889999886421                 123566666653 1     122233456679999999999985
+
+
+No 38
+>4ZLR_B Brain tumor protein/RNA Complex; NHL-domain, beta-propeller, RNA binding, translational; HET: PE4, 1PE, PG4, SO4; 2.3A {Drosophila melanogaster}
+Probab=81.63  E-value=0.91  Score=52.03  Aligned_cols=150  Identities=10%  Similarity=0.172  Sum_probs=72.1  Template_Neff=12.800
+
+Q LOKIASV2_44640  301 EIIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIG--GSESESGCFIQINQ-KNEI  377 (1547)
+Q Consensus       301 d~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylG--Gs~~D~~~~i~vd~-~G~i  377 (1547)
+                      .....|+++++|.+|+++....                  -|.+++.++..+......+  .........|++++ .+++
+T Consensus        26 ~~~~~i~~~~~g~~~~~~~~~~------------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   87 (282)
+T 4ZLR_B           26 TEPSGVAVNAQNDIIVADTNNH------------------RIQIFDKEGRFKFQFGECGKRDSQLLYPNRVAVVRNSGDI   87 (282)
+T ss_dssp             SCEEEEEECTTCCEEEEEGGGT------------------EEEEECTTSCEEEEECCBSSSTTCBSSEEEEEEETTTTEE
+T ss_pred             cccEEEEECCCCCEEEEECCCC------------------EEEEECCCCCEEEEEcCCCCCcccccccceEEEEcCCCCE
+Confidence            3567788888888888764211                  1223333332211100000  01123456788887 7888
+
+
+Q LOKIASV2_44640  378 YVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTREDIQTF  457 (1547)
+Q Consensus       378 yv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~sd~~t~  457 (1547)
+                      ||++...                   +.-|.+++..|..+ . ++....   .....+|++++.+.+|+++...      
+T Consensus        88 ~~~~~~~-------------------~~~i~~~~~~~~~~-~-~~~~~~---~~~~~~i~~~~~~~~~~~~~~~------  137 (282)
+T 4ZLR_B           88 IVTERSP-------------------THQIQIYNQYGQFV-R-KFGATI---LQHPRGVTVDNKGRIIVVECKV------  137 (282)
+T ss_dssp             EEEECTT-------------------TCCEEEECTTSCEE-E-EECTTT---CSCEEEEEECTTCCEEEEETTT------
+T ss_pred             EEEecCC-------------------CCeEEEEcCCCCeE-E-EeCCCC---CCCceEEEECCCCCEEEEEcCC------
+Confidence            8876431                   11223333333322 1 111111   0124568888888888876332      
+
+
+Q LOKIASV2_44640  458 NAFDDYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       458 ~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                                 ..|.+++..+..+ . .+.-.........|++++.|.+||++.
+T Consensus       138 -----------~~i~~~~~~~~~~-~-~~~~~~~~~~~~~i~~~~~~~~~v~~~  178 (282)
+T 4ZLR_B          138 -----------MRVIIFDQNGNVL-H-KFGCSKHLEFPNGVVVNDKQEIFISDN  178 (282)
+T ss_dssp             -----------TEEEEECTTSCEE-E-EEECTTTCSCEEEEEECSSSEEEEEET
+T ss_pred             -----------CEEEEEcCCCCEE-E-EEcCCCCcCCceeEEECCCCeEEEEeC
+Confidence                       1233333333211 1 111111223456788888888888764
+
+
+No 39
+>3FVZ_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.4.3.2.5); BETA PROPELLER, LYASE, PEPTIDE AMIDATION; HET: GOL; 2.35A {Rattus norvegicus}
+Probab=81.50  E-value=0.92  Score=52.80  Aligned_cols=93  Identities=8%  Similarity=0.028  Sum_probs=46.2  Template_Neff=13.200
+
+Q LOKIASV2_44640  352 INFSTYIGGSESESGCFIQINQKNEIYVAGWTYSP--DFPVLNAYKSVYSG--TRRNSFLCKFNPSGETLNFSTYFGSSG  427 (1547)
+Q Consensus       352 l~~sTylGGs~~D~~~~i~vd~~G~iyv~G~T~S~--dfP~~~a~~~~~~G--~~~D~Fv~Kln~~G~~L~~STylGgs~  427 (1547)
+                      ..|.+.  +.......+|+++++|++||++.....  -|...+.......+  ...+..|.+++..+..+.. .+.-.. 
+T Consensus        14 ~~w~~~--~~~~~~~~~i~~~~~g~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~-~~~~~~-   89 (329)
+T 3FVZ_A           14 LDWPGV--YLLPGQVSGVALDSKNNLVIFHRGDHVWDGNSFDSKFVYQQRGLGPIEEDTILVIDPNNAEILQ-SSGKNL-   89 (329)
+T ss_pred             cccccc--CCCCCCceEEEECCCCCEEEEecCCCcEEEECCCCCeeecCcccccCCCCcEEEEcCCCCeEee-ecCCCC-
+Confidence            455554  223445678899999999998764310  01111111111100  1123556666665443321 111111 
+
+
+Q LOKIASV2_44640  428 FDGEILAGLLLDDSDYIYLCGST  450 (1547)
+Q Consensus       428 ~d~~~~~~i~vd~~g~iyv~G~T  450 (1547)
+                        .....+|++++.+++|+++..
+T Consensus        90 --~~~~~~i~~~~~~~~~~~~~~  110 (329)
+T 3FVZ_A           90 --FYLPHGLSIDTDGNYWVTDVA  110 (329)
+T ss_pred             --CCCcceEEECCCCCEEEEeCC
+Confidence              112467888888888887643
+
+
+No 40
+>3FW0_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.4.3.2.5); BETA PROPELLER, MERCURY, LYASE, PEPTIDE; HET: HH3; 2.52A {Rattus norvegicus}
+Probab=81.50  E-value=0.92  Score=52.80  Aligned_cols=93  Identities=8%  Similarity=0.028  Sum_probs=46.2  Template_Neff=13.200
+
+Q LOKIASV2_44640  352 INFSTYIGGSESESGCFIQINQKNEIYVAGWTYSP--DFPVLNAYKSVYSG--TRRNSFLCKFNPSGETLNFSTYFGSSG  427 (1547)
+Q Consensus       352 l~~sTylGGs~~D~~~~i~vd~~G~iyv~G~T~S~--dfP~~~a~~~~~~G--~~~D~Fv~Kln~~G~~L~~STylGgs~  427 (1547)
+                      ..|.+.  +.......+|+++++|++||++.....  -|...+.......+  ...+..|.+++..+..+.. .+.-.. 
+T Consensus        14 ~~w~~~--~~~~~~~~~i~~~~~g~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~-~~~~~~-   89 (329)
+T 3FW0_A           14 LDWPGV--YLLPGQVSGVALDSKNNLVIFHRGDHVWDGNSFDSKFVYQQRGLGPIEEDTILVIDPNNAEILQ-SSGKNL-   89 (329)
+T ss_pred             cccccc--CCCCCCceEEEECCCCCEEEEecCCCcEEEECCCCCeeecCcccccCCCCcEEEEcCCCCeEee-ecCCCC-
+Confidence            455554  223445678899999999998764310  01111111111100  1123556666665443321 111111 
+
+
+Q LOKIASV2_44640  428 FDGEILAGLLLDDSDYIYLCGST  450 (1547)
+Q Consensus       428 ~d~~~~~~i~vd~~g~iyv~G~T  450 (1547)
+                        .....+|++++.+++|+++..
+T Consensus        90 --~~~~~~i~~~~~~~~~~~~~~  110 (329)
+T 3FW0_A           90 --FYLPHGLSIDTDGNYWVTDVA  110 (329)
+T ss_pred             --CCCcceEEECCCCCEEEEeCC
+Confidence              112467888888888887643
+
+
+No 41
+>2J42_A C2 TOXIN COMPONENT-II; TOXIN, CLOSTRIDIUM BOTULINUM, C2-II; 3.13A {CLOSTRIDIUM BOTULINUM}
+Probab=81.32  E-value=0.95  Score=61.55  Aligned_cols=63  Identities=27%  Similarity=0.315  Sum_probs=40.6  Template_Neff=5.000
+
+Q LOKIASV2_44640 1150 NNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQYT 1216 (1547)
+Q Consensus      1150 ~~DtDgDG~~Dg~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~~ 1216 (1547)
+                      ..|+|+||++|.||.. +......   ..-...|.+....++...|+|...+++||+++|..++...
+T Consensus       185 ~~DtD~DgipD~wE~~-GYt~~~~---~~v~w~d~l~~~g~~k~~SnP~~~~T~gDpysD~ek~~~~  247 (721)
+T 2J42_A          185 NRDTDRDGIPDEWEIN-GYTVMNQ---KAVAWDDKFAANGYKKYVSNPFKPCTANDPYTDFEKVSGQ  247 (721)
+T ss_dssp             -CCSSCSSSCHHHHHS-CEECSTT---CEECCHHHHHHHCCCCCCCCSSCSCTTCSSSCHHHHHHCC
+T ss_pred             CCCCCCCCCccceeec-CccccCc---eeeccchhHhhCCceEeecCCCCCCCCCCCCCHHHHHHcc
+Confidence            4577888888888863 2211111   1223444555555566779999999999999998887653
+
+
+No 42
+>2J42_A C2 TOXIN COMPONENT-II; TOXIN, CLOSTRIDIUM BOTULINUM, C2-II; 3.13A {CLOSTRIDIUM BOTULINUM}
+Probab=80.49  E-value=1.1  Score=61.09  Aligned_cols=67  Identities=33%  Similarity=0.380  Sum_probs=55.7  Template_Neff=5.000
+
+Q LOKIASV2_44640  954 NDDADLDGCPDVWEIQYGFDQFDPSDAYLDADSDGLINLYEFQNVTNPLNNDTDRDGCSDGWEVQYIFDPL 1024 (1547)
+Q Consensus       954 ~~DtD~DG~pD~wE~~~G~d~~~~~d~~~D~D~DGl~n~~E~~~~t~p~~~DtD~DG~~D~~E~~~~~~p~ 1024 (1547)
+                      ..|.|.||+||.||. .|+...++   ..-...|.|.+..+..+.++|...+|+||+++|..|+...+++.
+T Consensus       185 ~~DtD~DgipD~wE~-~GYt~~~~---~~v~w~d~l~~~g~~k~~SnP~~~~T~gDpysD~ek~~~~id~~  251 (721)
+T 2J42_A          185 NRDTDRDGIPDEWEI-NGYTVMNQ---KAVAWDDKFAANGYKKYVSNPFKPCTANDPYTDFEKVSGQIDPS  251 (721)
+T ss_dssp             -CCSSCSSSCHHHHH-SCEECSTT---CEECCHHHHHHHCCCCCCCCSSCSCTTCSSSCHHHHHHCCSCTT
+T ss_pred             CCCCCCCCCccceee-cCccccCc---eeeccchhHhhCCceEeecCCCCCCCCCCCCCHHHHHHccCCCc
+Confidence            348899999999999 78776543   23477888988888899999999999999999999998866664
+
+
+No 43
+>3Q6K_B 43.2 kDa salivary protein; beta propeller, binding protein, serotonin; HET: CIT, SRO; 2.52A {Lutzomyia longipalpis}
+Probab=80.19  E-value=1.1  Score=55.94  Aligned_cols=66  Identities=15%  Similarity=0.254  Sum_probs=37.4  Template_Neff=10.900
+
+Q LOKIASV2_44640  303 IEDIAIDSE-DAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRK--------TINFSTYIG---GSESESGCFIQ  370 (1547)
+Q Consensus       303 ~~~iavd~~-G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~--------~l~~sTylG---Gs~~D~~~~i~  370 (1547)
+                      ..+|+++.+ |.|||+.......-             -..|.++++.+.        .+ +.++-.   ........+|+
+T Consensus        28 p~~i~~~~~~g~i~v~~~~~~~~~-------------~~~i~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~p~~i~   93 (381)
+T 3Q6K_B           28 STAFAYDAEGEKLFLAVPRKLPRV-------------PYTLAEVDTKNSLGVKGKHSPL-LNKFSGHKTGKELTSIYQPV   93 (381)
+T ss_dssp             CCEEEEETTTTEEEEECCTTSTTC-------------SCSEEEEECTTTTTCTTCSSCC-BEECTTCSSSCSCSCEEEEE
+T ss_pred             eceEEEeCCCCEEEEEcCCCCCCC-------------CceEEEEeCCCCCCccCCCCcc-ccccCCCCCCCceeceEEEE
+Confidence            467888888 89999875321100             023445555443        11 222211   11234567899
+
+
+Q LOKIASV2_44640  371 INQKNEIYVAGW  382 (1547)
+Q Consensus       371 vd~~G~iyv~G~  382 (1547)
+                      +++.|++||+..
+T Consensus        94 ~d~~g~l~v~d~  105 (381)
+T 3Q6K_B           94 IDDCRRLWVVDI  105 (381)
+T ss_dssp             ECTTCEEEEEEC
+T ss_pred             EcCCCcEEEEEc
+Confidence            999999999854
+
+
+No 44
+>3Q6P_B 43.2 kDa salivary protein; ligand binding protein, beta propeller; HET: CIT, MSE; 2.75A {Lutzomyia longipalpis}
+Probab=80.19  E-value=1.1  Score=55.94  Aligned_cols=66  Identities=15%  Similarity=0.254  Sum_probs=37.4  Template_Neff=10.900
+
+Q LOKIASV2_44640  303 IEDIAIDSE-DAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRK--------TINFSTYIG---GSESESGCFIQ  370 (1547)
+Q Consensus       303 ~~~iavd~~-G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~--------~l~~sTylG---Gs~~D~~~~i~  370 (1547)
+                      ..+|+++.+ |.|||+.......-             -..|.++++.+.        .+ +.++-.   ........+|+
+T Consensus        28 p~~i~~~~~~g~i~v~~~~~~~~~-------------~~~i~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~p~~i~   93 (381)
+T 3Q6P_B           28 STAFAYDAEGEKLFLAVPRKLPRV-------------PYTLAEVDTKNSLGVKGKHSPL-LNKFSGHKTGKELTSIYQPV   93 (381)
+T ss_dssp             CCEEEEETTTTEEEEECCSSSTTC-------------SCSEEEEECTTTTTCTTCSSCC-BEECTTCSSSCSSSCEEEEE
+T ss_pred             eceEEEeCCCCEEEEEcCCCCCCC-------------CceEEEEeCCCCCCccCCCCcc-ccccCCCCCCCceeceEEEE
+Confidence            467888888 89999875321100             023445555443        11 222211   11234567899
+
+
+Q LOKIASV2_44640  371 INQKNEIYVAGW  382 (1547)
+Q Consensus       371 vd~~G~iyv~G~  382 (1547)
+                      +++.|++||+..
+T Consensus        94 ~d~~g~l~v~d~  105 (381)
+T 3Q6P_B           94 IDDCRRLWVVDI  105 (381)
+T ss_dssp             ECTTSEEEEEEC
+T ss_pred             EcCCCcEEEEEc
+Confidence            999999999854
+
+
+No 45
+>3Q6T_A 43.2 kDa salivary protein; beta propeller, ligand binding, serotonin; HET: CIT; 2.93A {Lutzomyia longipalpis}
+Probab=80.19  E-value=1.1  Score=55.94  Aligned_cols=66  Identities=15%  Similarity=0.254  Sum_probs=37.4  Template_Neff=10.900
+
+Q LOKIASV2_44640  303 IEDIAIDSE-DAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRK--------TINFSTYIG---GSESESGCFIQ  370 (1547)
+Q Consensus       303 ~~~iavd~~-G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~--------~l~~sTylG---Gs~~D~~~~i~  370 (1547)
+                      ..+|+++.+ |.|||+.......-             -..|.++++.+.        .+ +.++-.   ........+|+
+T Consensus        28 p~~i~~~~~~g~i~v~~~~~~~~~-------------~~~i~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~p~~i~   93 (381)
+T 3Q6T_A           28 STAFAYDAEGEKLFLAVPRKLPRV-------------PYTLAEVDTKNSLGVKGKHSPL-LNKFSGHKTGKELTSIYQPV   93 (381)
+T ss_dssp             CCEEEEETTTTEEEEECCSCSTTC-------------SCSEEEEECTTTTTCTTCCSCC-BEECTTCSSSCSCSCEEEEE
+T ss_pred             eceEEEeCCCCEEEEEcCCCCCCC-------------CceEEEEeCCCCCCccCCCCcc-ccccCCCCCCCceeceEEEE
+Confidence            467888888 89999875321100             023445555443        11 222211   11234567899
+
+
+Q LOKIASV2_44640  371 INQKNEIYVAGW  382 (1547)
+Q Consensus       371 vd~~G~iyv~G~  382 (1547)
+                      +++.|++||+..
+T Consensus        94 ~d~~g~l~v~d~  105 (381)
+T 3Q6T_A           94 IDDCRRLWVVDI  105 (381)
+T ss_dssp             ECTTSEEEEEEC
+T ss_pred             EcCCCcEEEEEc
+Confidence            999999999854
+
+
+No 46
+>3FVZ_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.4.3.2.5); BETA PROPELLER, LYASE, PEPTIDE AMIDATION; HET: GOL; 2.35A {Rattus norvegicus}
+Probab=79.84  E-value=1.2  Score=51.98  Aligned_cols=80  Identities=14%  Similarity=0.102  Sum_probs=40.3  Template_Neff=13.200
+
+Q LOKIASV2_44640  301 EIIEDIAIDSEDAIYITGQTASN--DFPIYNPIDSQ----YNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQK  374 (1547)
+Q Consensus       301 d~~~~iavd~~G~vyv~G~T~S~--~fP~~~~~~~~----~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~  374 (1547)
+                      ..+..|+++.+|++||++.....  -|...+.....    ....+..|.+++.....++. . ++........+|+++++
+T Consensus        24 ~~~~~i~~~~~g~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~-~-~~~~~~~~~~~i~~~~~  101 (329)
+T 3FVZ_A           24 GQVSGVALDSKNNLVIFHRGDHVWDGNSFDSKFVYQQRGLGPIEEDTILVIDPNNAEILQ-S-SGKNLFYLPHGLSIDTD  101 (329)
+T ss_pred             CCceEEEECCCCCEEEEecCCCcEEEECCCCCeeecCcccccCCCCcEEEEcCCCCeEee-e-cCCCCCCCcceEEECCC
+Confidence            45667888888888888753210  01111100000    00112345556654433321 1 11122344678889888
+
+
+Q LOKIASV2_44640  375 NEIYVAGW  382 (1547)
+Q Consensus       375 G~iyv~G~  382 (1547)
+                      |++||++.
+T Consensus       102 ~~~~~~~~  109 (329)
+T 3FVZ_A          102 GNYWVTDV  109 (329)
+T ss_pred             CCEEEEeC
+Confidence            99988765
+
+
+No 47
+>3FW0_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.4.3.2.5); BETA PROPELLER, MERCURY, LYASE, PEPTIDE; HET: HH3; 2.52A {Rattus norvegicus}
+Probab=79.84  E-value=1.2  Score=51.98  Aligned_cols=80  Identities=14%  Similarity=0.102  Sum_probs=40.3  Template_Neff=13.200
+
+Q LOKIASV2_44640  301 EIIEDIAIDSEDAIYITGQTASN--DFPIYNPIDSQ----YNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQK  374 (1547)
+Q Consensus       301 d~~~~iavd~~G~vyv~G~T~S~--~fP~~~~~~~~----~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~  374 (1547)
+                      ..+..|+++.+|++||++.....  -|...+.....    ....+..|.+++.....++. . ++........+|+++++
+T Consensus        24 ~~~~~i~~~~~g~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~-~-~~~~~~~~~~~i~~~~~  101 (329)
+T 3FW0_A           24 GQVSGVALDSKNNLVIFHRGDHVWDGNSFDSKFVYQQRGLGPIEEDTILVIDPNNAEILQ-S-SGKNLFYLPHGLSIDTD  101 (329)
+T ss_pred             CCceEEEECCCCCEEEEecCCCcEEEECCCCCeeecCcccccCCCCcEEEEcCCCCeEee-e-cCCCCCCCcceEEECCC
+Confidence            45667888888888888753210  01111100000    00112345556654433321 1 11122344678889888
+
+
+Q LOKIASV2_44640  375 NEIYVAGW  382 (1547)
+Q Consensus       375 G~iyv~G~  382 (1547)
+                      |++||++.
+T Consensus       102 ~~~~~~~~  109 (329)
+T 3FW0_A          102 GNYWVTDV  109 (329)
+T ss_pred             CCEEEEeC
+Confidence            99988765
+
+
+No 48
+>5WTL_A OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=79.68  E-value=1.2  Score=53.82  Aligned_cols=36  Identities=33%  Similarity=0.417  Sum_probs=19.8  Template_Neff=8.700
+
+Q LOKIASV2_44640 1130 DSDDDGLSNLFEFQN-ATNP----WNNDTDGDGCLDGWEVQ 1165 (1547)
+Q Consensus      1130 D~D~DGl~n~~E~~~-~t~P----~~~DtDgDG~~Dg~E~~ 1165 (1547)
+                      |.|+||+.+..+.|. ...+    ...|+|+||+.+..+.|
+T Consensus        31 d~d~dg~~d~~d~cp~~~~~~~~~~~~d~dgdg~~d~~d~c   71 (261)
+T 5WTL_A           31 DTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDAC   71 (261)
+T ss_dssp             CSSCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCSS
+T ss_pred             CCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCccccC
+Confidence            555566655555441 1111    12367788887777776
+
+
+No 49
+>5C2M_A Predicted protein; beta-propeller, STRUCTURAL PROTEIN; 1.9A {Nematostella vectensis}
+Probab=79.35  E-value=1.2  Score=52.81  Aligned_cols=147  Identities=12%  Similarity=0.128  Sum_probs=76.5  Template_Neff=9.700
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQKNEIYVAG  381 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~G~iyv~G  381 (1547)
+                      ....|+++++|+||++-...                  ..|.|+++++..      ++........+|++++.|++||+-
+T Consensus        13 ~~~~i~~~~~G~l~~~~~~~------------------~~v~~~~~~g~~------~~~~~~~~p~~i~~~~~G~lyv~~   68 (250)
+T 5C2M_A           13 FNYIFAVSYDGELFKGSPPE------------------SAQASWLTSATR------IGTKGWANFSHLLFNPDGTLYGVV   68 (250)
+T ss_dssp             CCCEEEEETTSCEEEECCCC------------------CTTSCHHHHCEE------EECSCGGGCSEEEECTTSCEEEEE
+T ss_pred             CccEEEEcCCCcEEEeCCCc------------------cccchhhccCeE------eeccchhcccEEEECCCCCEEEEE
+Confidence            35678899999999864211                  135666666532      232334456679999999999985
+
+
+Q LOKIASV2_44640  382 WTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTREDIQTFNAFD  461 (1547)
+Q Consensus       382 ~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~sd~~t~~a~~  461 (1547)
+                      .   ..   .-.+..  .++   ....++...+.      -++....  .....|++++.|+||++. .           
+T Consensus        69 ~---g~---i~~~~~--~~~---~~~~~~~~~~~------~~~~~~~--~~~~~i~~~~~G~lyv~~-~-----------  117 (250)
+T 5C2M_A           69 N---DK---FYKGPT--PHR---TSAEEWIAQAT------LIGDGGW--GAFRFLFFDPHGVLYGVT-E-----------  117 (250)
+T ss_dssp             T---TE---EEEECC--CSS---BCHHHHHHHSE------EEEESSS--TTCSEEEECTTSCEEEEE-T-----------
+T ss_pred             C---CE---EEEeCC--CCC---CCCcchhhcce------EecCCcc--cceeEEEECCCCcEEEEe-C-----------
+Confidence            3   00   000100  000   01111111010      1111111  124678999999999975 1           
+
+
+Q LOKIASV2_44640  462 DYRNNQDIFITKFNPDGQS-LNFS---TYLGGSGYDYAKKIALDSSNAIYVTG  510 (1547)
+Q Consensus       462 ~~~g~~D~FVaK~~~dG~~-L~yS---TylGGsg~D~~~~IavD~~g~iyVtG  510 (1547)
+                             ..|.|+++.+.. ..|.   +.++........+|+++++|.+||+.
+T Consensus       118 -------g~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~d~~G~lyv~~  163 (250)
+T 5C2M_A          118 -------DKLYKREPPSSDEDHWLGSANLLGAEGWGDFEFLFFDPEGKLYGVV  163 (250)
+T ss_dssp             -------TEEEEECCCSSTTSCHHHHCEEEESSSGGGCSEEEECTTCCEEEEE
+T ss_pred             -------CEEEEeCCCCCCcccccccceeccCCCCccccEEEECCCCcEEEEE
+Confidence                   134444443321 1111   22222223446789999999999974
+
+
+No 50
+>5MIN_B Quinoprotein glucose dehydrogenase B (E.C.1.1.5.2); Dehydrogenase, Apo form, oxidoreductase; 1.76A {Acinetobacter calcoaceticus}
+Probab=78.99  E-value=1.3  Score=57.76  Aligned_cols=74  Identities=19%  Similarity=0.320  Sum_probs=38.2  Template_Neff=9.300
+
+Q LOKIASV2_44640  433 LAGLLLDDS----DYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQ------SLNFSTYLGGSGYDYAKKIALDS  502 (1547)
+Q Consensus       433 ~~~i~vd~~----g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~------~L~ySTylGGsg~D~~~~IavD~  502 (1547)
+                      ..+|++++.    +.+||+........+..+.     ....-|.+++.++.      ...+...+.........+|++++
+T Consensus        79 p~~ia~~~~~~~~g~lyv~~~~~~~~~~~~~~-----~~~~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~  153 (453)
+T 5MIN_B           79 LLGFAFHPDFKNNPYIYISGTFKNPKSTDKAL-----PNQTIIRRYTYNKSTDTLEKPVDLLAGLPSSKDHQSGRLVIGP  153 (453)
+T ss_dssp             EEEEEECTTTTTCCEEEEEEEEECTTCCCTTS-----CEEEEEEEEEEETTTTEEEEEEEEEEEECCCSSCCEEEEEECT
+T ss_pred             eeEEEECCCCCCCCEEEEEEeecCCCCCCCCC-----CCCcEEEEEEecCCCCCcCCcEEEEecCCCCCCCCCCcEEECC
+Confidence            457888876    8999987542111111111     01223555554431      00111112222233567899999
+
+
+Q LOKIASV2_44640  503 SNAIYVTGY  511 (1547)
+Q Consensus       503 ~g~iyVtG~  511 (1547)
+                      .|.+||+..
+T Consensus       154 dg~lyv~~~  162 (453)
+T 5MIN_B          154 DQKIYYTIG  162 (453)
+T ss_dssp             TSCEEEEEC
+T ss_pred             CCcEEEEEc
+Confidence            999999864
+
+
+No 51
+>2QC5_A Streptogramin B lactonase; beta propeller, LYASE; 1.8A {Staphylococcus cohnii}
+Probab=78.80  E-value=1.3  Score=50.57  Aligned_cols=60  Identities=12%  Similarity=0.115  Sum_probs=33.3  Template_Neff=13.300
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQKNEIYVAG  381 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~G~iyv~G  381 (1547)
+                      ....|+++++|.+|+++....                  -|.+++..+..+.+..   .........|+++++|.+||++
+T Consensus        63 ~~~~~~~~~~g~~~~~~~~~~------------------~i~~~~~~~~~~~~~~---~~~~~~~~~~~~~~~g~~~~~~  121 (300)
+T 2QC5_A           63 KVMCLIVSSLGDIWFTENGAN------------------KIGKLSKKGGFTEYPL---PQPDSGPYGITEGLNGDIWFTQ  121 (300)
+T ss_pred             CccEEEECCCCCEEEEEcCCC------------------eEEEEECCCCeEeeec---CCCCCCceEEEECCCCCEEEEE
+Confidence            466788888899988764321                  1222222222111111   1112345678888889999875
+
+
+Q LOKIASV2_44640  382 W  382 (1547)
+Q Consensus       382 ~  382 (1547)
+                      .
+T Consensus       122 ~  122 (300)
+T 2QC5_A          122 L  122 (300)
+T ss_pred             c
+Confidence            4
+
+
+No 52
+>5WTL_C OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=76.99  E-value=1.7  Score=52.64  Aligned_cols=36  Identities=33%  Similarity=0.417  Sum_probs=19.6  Template_Neff=8.700
+
+Q LOKIASV2_44640 1130 DSDDDGLSNLFEFQN-ATNP----WNNDTDGDGCLDGWEVQ 1165 (1547)
+Q Consensus      1130 D~D~DGl~n~~E~~~-~t~P----~~~DtDgDG~~Dg~E~~ 1165 (1547)
+                      |.|+||+.+..+.|. ...+    ...|+|+||+.+..+.|
+T Consensus        31 d~d~dg~~d~~d~cp~~~~~~~~~~~~d~d~dg~~d~~d~c   71 (261)
+T 5WTL_C           31 DTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDAC   71 (261)
+T ss_dssp             CTTCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCSS
+T ss_pred             CCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCccccC
+Confidence            455555555554441 1111    12467788888777776
+
+
+No 53
+>2ISM_B Putative oxidoreductase; BL41XU SPRING-8, bladed beta-propellor, glucose; 1.9A {Thermus thermophilus}
+Probab=74.49  E-value=2.2  Score=51.45  Aligned_cols=126  Identities=11%  Similarity=0.145  Sum_probs=62.8  Template_Neff=12.300
+
+Q LOKIASV2_44640  302 IIEDIAIDSE----DAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRK-----TINFSTYIGG-SESESGCFIQI  371 (1547)
+Q Consensus       302 ~~~~iavd~~----G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~-----~l~~sTylGG-s~~D~~~~i~v  371 (1547)
+                      ...+|+++.+    +.+||+......             .....|.+++..+.     ..++..+-.+ .......+|++
+T Consensus        76 ~~~~i~~~~~~~~~~~l~v~~~~~~~-------------~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~  142 (352)
+T 2ISM_B           76 GLLGLALHPRFPQEPYVYAYRTVAEG-------------GLRNQVVRLRHLGERGVLDRVVLDGIPARPHGLHSGGRIAF  142 (352)
+T ss_dssp             SEEEEEECTTTTTSCCEEEEEEECTT-------------SCEEEEEEEEECSSCEEEEEEEEEEECCCTTCCCCCCCEEE
+T ss_pred             CcceEEECCCCCCCCeEEEEEecCCC-------------CCcceEEEEEecCCCCeEEEEEEecCCCCCCCCCCCCcEEE
+Confidence            3567788876    889987642110             01123445554431     1112222111 12345678999
+
+
+Q LOKIASV2_44640  372 NQKNEIYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLN---F-------STYFGSSGFDGEILAGLLLDDS  441 (1547)
+Q Consensus       372 d~~G~iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~---~-------STylGgs~~d~~~~~~i~vd~~  441 (1547)
+                      ++.|.+||+....+. +...   +. .  ......|.|++.+|....   |       ...+... .  ....+|++++.
+T Consensus       143 ~~~g~l~v~~~~~~~-~~~~---~~-~--~~~~~~i~~~~~~g~~~~~~~~~~~~~~~~~~~~~~-~--~~p~~i~~~~~  212 (352)
+T 2ISM_B          143 GPDGMLYVTTGEVYE-RELA---QD-L--ASLGGKILRLTPEGEPAPGNPFLGRRGARPEVYSLG-H--RNPQGLAWHPK  212 (352)
+T ss_dssp             CTTSCEEEECCCTTC-GGGG---GC-T--TCSSSEEEEECTTSSBCTTCTTSSCTTSCTTEEEEC-C--SSBCCCEECTT
+T ss_pred             CCCCCEEEEcCCcch-hhhh---hh-h--hhcCCeEEEECCCCCCCCCCCCcCCCCCCHhheecC-c--cCCceEEEcCC
+Confidence            999999998654321 1000   00 0  112356777777665200   0       0111111 1  12457888887
+
+
+Q LOKIASV2_44640  442 -DYIYLCGST  450 (1547)
+Q Consensus       442 -g~iyv~G~T  450 (1547)
+                       +.+||+...
+T Consensus       213 ~~~l~v~~~~  222 (352)
+T 2ISM_B          213 TGELFSSEHG  222 (352)
+T ss_dssp             TCCEEEEECC
+T ss_pred             CCCEEEEeCC
+Confidence             899997643
+
+
+No 54
+>3HRP_A Uncharacterized protein; NP_812590.1, Structural genomics protein of; HET: EDO; 1.7A {Bacteroides thetaiotaomicron VPI-5482}
+Probab=74.11  E-value=2.3  Score=53.07  Aligned_cols=20  Identities=10%  Similarity=0.228  Sum_probs=15.9  Template_Neff=11.800
+
+Q LOKIASV2_44640  493 DYAKKIALDSSNAIYVTGYS  512 (1547)
+Q Consensus       493 D~~~~IavD~~g~iyVtG~T  512 (1547)
+                      ....+|++++.|++||+...
+T Consensus       323 ~~p~~i~~~~~g~l~v~~~~  342 (409)
+T 3HRP_A          323 AQPNGMTVDEDGNFYIVDGF  342 (409)
+T ss_dssp             SSEEEEEECTTCCEEEEETT
+T ss_pred             CCceEEEECCCCCEEEEeCC
+Confidence            35678999999999998653
+
+
+No 55
+>5WM0_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.1.14.17.3,4.3.2.5); PEPTIDYLGLYCINE MONOOXYGENASE, PEPTIDYLGLYCINE 2-HYDROXYLASE, PHM; 2.4A {Rattus norvegicus}
+Probab=73.16  E-value=2.5  Score=60.93  Aligned_cols=80  Identities=16%  Similarity=0.139  Sum_probs=44.7  Template_Neff=9.200
+
+Q LOKIASV2_44640  301 EIIEDIAIDSEDAIYITGQTAS----NDFPIYNPID--SQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQK  374 (1547)
+Q Consensus       301 d~~~~iavd~~G~vyv~G~T~S----~~fP~~~~~~--~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~  374 (1547)
+                      ..+.+|+++.+|++||++....    .+|.....+.  ......+..|.+++.....++..  ++........+|+++++
+T Consensus       515 ~~v~~ia~s~dG~l~v~~~~~~~~~~~s~~~~~~~~~~~~~~~~~~~I~v~d~~tg~~~~~--~~~~~~~~p~~ia~~~d  592 (976)
+T 5WM0_A          515 GQVSGVALDSKNNLVIFHRGDHVWDGNSFDSKFVYQQRGLGPIEEDTILVIDPNNAEILQS--SGKNLFYLPHGLSIDTD  592 (976)
+T ss_pred             CCEEEEEECCCCCEEEEecCCCcEEEEcCCCCeeecCCCcCCCCCCcEEEEeCCCCcEEee--ecCCCCCCceEEEECCC
+Confidence            3567899999999999886431    1121110000  00011234566666655444322  22223345678999999
+
+
+Q LOKIASV2_44640  375 NEIYVAGW  382 (1547)
+Q Consensus       375 G~iyv~G~  382 (1547)
+                      |++||++.
+T Consensus       593 g~l~vt~~  600 (976)
+T 5WM0_A          593 GNYWVTDV  600 (976)
+T ss_pred             CCEEEEEC
+Confidence            99998875
+
+
+No 56
+>5WTL_C OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=70.99  E-value=3  Score=50.48  Aligned_cols=91  Identities=25%  Similarity=0.252  Sum_probs=53.1  Template_Neff=8.700
+
+Q LOKIASV2_44640 1129 LDSDDDGLSNLFEFQN-ATNPWN----NDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLINLFEFQNATNPWNSDTD 1203 (1547)
+Q Consensus      1129 ~D~D~DGl~n~~E~~~-~t~P~~----~DtDgDG~~Dg~E~~~~~dp~~~~d~~~D~D~DGl~n~~E~~~~TdP~~~DtD 1203 (1547)
+                      .|.|+||+.+..+.|. ..++..    .|+|+||+.|..+.|    |......    +.+    .|          +|+|
+T Consensus         3 ~d~d~dg~~d~~d~c~~~~~~~~~~~~~d~d~dg~~d~~d~c----p~~~~~~----~~~----~~----------~d~d   60 (261)
+T 5WTL_C            3 KDTDKDGIPDNKDACPEVPGLKEFNGCPDTDGDGIPDKDDAC----PQVKGPK----EFN----GC----------PDTD   60 (261)
+T ss_dssp             CCSSCSSSCGGGCSSTTSCCBTTTTSBCCTTCSSSCGGGCSS----TTSCCCG----GGT----TC----------CCSS
+T ss_pred             CCCCCCCCCCccCCCCCCCCchhcCCCCCCCCCCCCCccccC----CCCCCCc----ccC----CC----------CCCC
+Confidence            3677888888777662 222222    378899999888877    3322110    011    12          4778
+
+
+Q LOKIASV2_44640 1204 GDGCLDGWEVQYTFDPLDNADASLDSDDDGLINLFEFQ 1241 (1547)
+Q Consensus      1204 gDGl~Dg~Ev~~~~dp~~~~d~~~D~D~DGl~n~~E~~ 1241 (1547)
+                      +||+.+..+.|+............++|+||+.+..+.|
+T Consensus        61 ~dg~~d~~d~cp~~~~~~~~~gc~d~D~Dgv~d~~d~c   98 (261)
+T 5WTL_C           61 GDGIPDKDDACPEVAGPKEFNGCPDTDGDGIPDKDDKC   98 (261)
+T ss_dssp             CSSSCGGGCSSTTSCCCGGGTSCCCTTCSSSCTTTCSS
+T ss_pred             CCCCCCccccCCCCCCCcccCCCCCCCCCCCCCCcCCC
+Confidence            88888888887752111111122367777777776655
+
+
+No 57
+>5WTL_A OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=70.84  E-value=3.1  Score=50.43  Aligned_cols=14  Identities=43%  Similarity=0.520  Sum_probs=10.1  Template_Neff=8.700
+
+Q LOKIASV2_44640  808 DTDADGCSDGWEVQ  821 (1547)
+Q Consensus       808 DtD~Dg~~D~~e~~  821 (1547)
+                      |+|+||+.|..+.+
+T Consensus        31 d~d~dg~~d~~d~c   44 (261)
+T 5WTL_A           31 DTDGDGIPDKDDAC   44 (261)
+T ss_dssp             CSSCSSSCGGGCSS
+T ss_pred             CCCCCCCCCccccC
+Confidence            77888888876543
+
+
+No 58
+>1CRU_A SOLUBLE QUINOPROTEIN GLUCOSE DEHYDROGENASE (E.C.1.1.99.17); BETA-PROPELLER, SUPERBARREL, COMPLEX WITH THE; HET: HDN, PQQ; 1.5A {Acinetobacter calcoaceticus} SCOP: b.68.2.1
+Probab=70.09  E-value=3.3  Score=54.22  Aligned_cols=74  Identities=18%  Similarity=0.260  Sum_probs=38.8  Template_Neff=9.300
+
+Q LOKIASV2_44640  433 LAGLLLDDS----DYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQ-------SLNFSTYLGGSGYDYAKKIALD  501 (1547)
+Q Consensus       433 ~~~i~vd~~----g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~-------~L~ySTylGGsg~D~~~~IavD  501 (1547)
+                      ..+|++++.    +.+||+........+..     ......-|.|++..+.       ...... +.........+|+++
+T Consensus        79 p~gi~~~~~~~~~g~lyvs~~~~~~~~~~~-----~~~~~~~I~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~i~~~  152 (454)
+T 1CRU_A           79 LLGFAFHPDFKNNPYIYISGTFKNPKSTDK-----ELPNQTIIRRYTYNKSTDTLEKPVDLLAG-LPSSKDHQSGRLVIG  152 (454)
+T ss_dssp             EEEEEECTTTTTSCEEEEEEEEECTTC--C-----CSCEEEEEEEEEEETTTTEEEEEEEEEEE-ECCCSSCCEEEEEEC
+T ss_pred             eeEEEECCCCCCCCEEEEEeecCCCCCCCC-----CCCCCceEEEEEcCCCCCCcCCcEEEEeC-CCCCCCCCCCcEEEC
+Confidence            456888876    89999875322111100     0111234555554431       011111 222223456789999
+
+
+Q LOKIASV2_44640  502 SSNAIYVTGYS  512 (1547)
+Q Consensus       502 ~~g~iyVtG~T  512 (1547)
+                      +.|.+||+...
+T Consensus       153 ~dg~lyv~~~~  163 (454)
+T 1CRU_A          153 PDQKIYYTIGD  163 (454)
+T ss_dssp             TTSCEEEEECC
+T ss_pred             CCCCEEEEecC
+Confidence            99999998653
+
+
+No 59
+>5WTL_A OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=69.13  E-value=3.5  Score=49.90  Aligned_cols=13  Identities=46%  Similarity=0.621  Sum_probs=7.5  Template_Neff=8.700
+
+Q LOKIASV2_44640  808 DTDADGCSDGWEV  820 (1547)
+Q Consensus       808 DtD~Dg~~D~~e~  820 (1547)
+                      |+|+||+.|.++.
+T Consensus        58 d~dgdg~~d~~d~   70 (261)
+T 5WTL_A           58 DTDGDGIPDKDDA   70 (261)
+T ss_dssp             CSSCSSSCGGGCS
+T ss_pred             CCCCCCCCCcccc
+Confidence            5566666665543
+
+
+No 60
+>4NAM_A Protective antigen; anthrax, toxin, 5-fluorotryptophan, pore; 1.7A {Bacillus anthracis}
+Probab=66.49  E-value=4.4  Score=55.98  Aligned_cols=65  Identities=17%  Similarity=-0.013  Sum_probs=31.0  Template_Neff=5.400
+
+Q LOKIASV2_44640 1199 NSDTDGDGCLDGWEVQYTFDPLDN--ADASLDSDDDGLINLFEFQKATNPWNNDTDADGLIDGDELIN 1264 (1547)
+Q Consensus      1199 ~~DtDgDGl~Dg~Ev~~~~dp~~~--~d~~~D~D~DGl~n~~E~~~~T~p~~~DtD~DGl~Dg~E~~~ 1264 (1547)
+                      ..|+|+||++|.||....+ ....  .......+++.+.........++|...++++|+++|..++..
+T Consensus       175 ~~DsD~DGIPD~wE~~GYt-v~~~~~~~~~v~W~~~~~~~~Gy~ky~SnP~~~~T~GDpyTD~eKvtg  241 (735)
+T 4NAM_A          175 VPDRDNDGIPDSLEVEGYT-VDVKNKRTFLSPYISNIHEKKGLTKYKSSPEKXSTASDPYSDFEKVTG  241 (735)
+T ss_dssp             CCCTTSSSSCHHHHHHCEE-EEC----CEEEECCTTTC----CCCBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             CCCCCCCCCCccceecCee-eeeCCceeEEeecCCchhhccCeEEEecCCCCCCCCCCCCCCHHHHHc
+Confidence            4678888888888864220 0000  000111122211111111145566677777887777766543
+
+
+No 61
+>6FB3_B Teneurin-2; TTR, fibronectin, FN-plug, NHL, YD-repeat; HET: BMA, MAN, NAG; 2.38A {Gallus gallus}
+Probab=65.56  E-value=4.7  Score=62.36  Aligned_cols=56  Identities=16%  Similarity=0.217  Sum_probs=35.5  Template_Neff=9.400
+
+Q LOKIASV2_44640  433 LAGLLLDDSDYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSLNFSTYLGGS--------GYDYAKKIALDS-S  503 (1547)
+Q Consensus       433 ~~~i~vd~~g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGs--------g~D~~~~IavD~-~  503 (1547)
+                      ..+|++++.|.+||+..                   .+|-|++++|...   +.++..        .......|++++ .
+T Consensus       316 P~~la~~~dG~l~v~d~-------------------~~ir~i~~~g~~~---~~~~~~~~~~~~~~~~~~~~~lav~p~~  373 (1859)
+T 6FB3_B          316 PVALAVGIDGSLFVGDF-------------------NYIRRIFPSRNVT---SILELRNKEFKHSNNPAHKYYLAVDPVS  373 (1859)
+T ss_dssp             EEEEEECTTSCEEEEET-------------------TEEEEECTTSEEE---EEEECTTCCGGGTTCGGGCEEEEECSSS
+T ss_pred             ceEEEECCCCCEEEecc-------------------ceEEEECCCCCEE---EEEeccccccCCCCCCCceeeEEEeCCC
+Confidence            35788888899888753                   1455666665421   222221        123567899999 8
+
+
+Q LOKIASV2_44640  504 NAIYVTG  510 (1547)
+Q Consensus       504 g~iyVtG  510 (1547)
+                      |.+||+-
+T Consensus       374 g~lyvsd  380 (1859)
+T 6FB3_B          374 GSLYVSD  380 (1859)
+T ss_dssp             CCEEEEE
+T ss_pred             CeEEEEe
+Confidence            9999975
+
+
+No 62
+>3A9G_A Putative uncharacterized protein; PQQ dependent dehydrogenase, aldose sugar; HET: TRE; 2.39A {Pyrobaculum aerophilum}
+Probab=65.56  E-value=4.7  Score=48.88  Aligned_cols=75  Identities=11%  Similarity=0.164  Sum_probs=40.9  Template_Neff=12.100
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTI------NFSTYIGGSESESGCFIQINQK-  374 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l------~~sTylGGs~~D~~~~i~vd~~-  374 (1547)
+                      ...+|+++.+|.+||+......  +...   .........|.|++.++...      ....+  ........+|++++. 
+T Consensus       136 ~~~~i~~~~~g~l~v~~~~~~~--~~~~---~~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~--~~~~~~p~~i~~~~~~  208 (354)
+T 3A9G_A          136 NGGRIRFGPDGMLYITTGDAAD--PRLA---QDLSSLAGKILRVDEEGRPPADNPFPNSPIW--SYGHRNPQGIDWHRAS  208 (354)
+T ss_dssp             CCCCEEECTTSCEEEECCCTTC--GGGG---TCTTCCSSEEEEECTTSCCCTTSSSTTCCEE--EECCSCCCEEEECTTT
+T ss_pred             CcccEEECCCCCEEEEeCCCCC--hhhh---ccccccCCeEEEECCCCCCCCCCCCCCCCee--EeCCCCceeeEEeCCC
+Confidence            4567888888999998653211  1100   00112245677777765410      00001  011234678999985 
+
+
+Q LOKIASV2_44640  375 NEIYVAGWT  383 (1547)
+Q Consensus       375 G~iyv~G~T  383 (1547)
+                      |.+||+...
+T Consensus       209 ~~l~v~~~~  217 (354)
+T 3A9G_A          209 GVMVATEHG  217 (354)
+T ss_dssp             CCEEEEECC
+T ss_pred             CcEEEEeCC
+Confidence            999998653
+
+
+No 63
+>4NAM_A Protective antigen; anthrax, toxin, 5-fluorotryptophan, pore; 1.7A {Bacillus anthracis}
+Probab=65.23  E-value=4.8  Score=55.60  Aligned_cols=68  Identities=16%  Similarity=0.079  Sum_probs=41.0  Template_Neff=5.400
+
+Q LOKIASV2_44640 1390 NADSDADGMFDGWELQYSLNPLDD--NDAMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEISYQFD 1458 (1547)
+Q Consensus      1390 ~~DsD~DG~~Dg~E~~~~lnp~d~--~D~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~~~~~~ 1458 (1547)
+                      ..|+|+||++|.||.. ++.....  ..+...-+.+.+....+....++|+..++++|+++|..++...++
+T Consensus       175 ~~DsD~DGIPD~wE~~-GYtv~~~~~~~~~v~W~~~~~~~~Gy~ky~SnP~~~~T~GDpyTD~eKvtg~id  244 (735)
+T 4NAM_A          175 VPDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPYISNIHEKKGLTKYKSSPEKXSTASDPYSDFEKVTGRID  244 (735)
+T ss_dssp             CCCTTSSSSCHHHHHH-CEEEEC----CEEEECCTTTC----CCCBCCCTTCSSTTSSSSCHHHHHHTCSC
+T ss_pred             CCCCCCCCCCccceec-CeeeeeCCceeEEeecCCchhhccCeEEEecCCCCCCCCCCCCCCHHHHHccCC
+Confidence            5689999999999975 3322111  111222222222222333457889999999999999988877433
+
+
+No 64
+>3KYA_A Putative phosphatase; Putative phosphatase, Structural Genomics, Joint; HET: EDO, ACT; 1.77A {Bacteroides thetaiotaomicron}
+Probab=65.17  E-value=4.8  Score=52.37  Aligned_cols=18  Identities=22%  Similarity=0.246  Sum_probs=14.2  Template_Neff=11.000
+
+Q LOKIASV2_44640  302 IIEDIAIDSED--AIYITGQ  319 (1547)
+Q Consensus       302 ~~~~iavd~~G--~vyv~G~  319 (1547)
+                      ....|+++.+|  ++||+..
+T Consensus       140 ~p~~i~~d~~g~~~l~v~d~  159 (496)
+T 3KYA_A          140 DNGRLAFDPLNKDHLYICYD  159 (496)
+T ss_dssp             SEEEEEEETTEEEEEEEEEE
+T ss_pred             CCcEEEECCCCCCeEEEEEc
+Confidence            45678889888  8998765
+
+
+No 65
+>5WTL_C OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=63.97  E-value=5.3  Score=48.45  Aligned_cols=13  Identities=46%  Similarity=0.621  Sum_probs=7.4  Template_Neff=8.700
+
+Q LOKIASV2_44640  808 DTDADGCSDGWEV  820 (1547)
+Q Consensus       808 DtD~Dg~~D~~e~  820 (1547)
+                      |+|+||+.|.++.
+T Consensus        58 d~d~dg~~d~~d~   70 (261)
+T 5WTL_C           58 DTDGDGIPDKDDA   70 (261)
+T ss_dssp             CSSCSSSCGGGCS
+T ss_pred             CCCCCCCCCcccc
+Confidence            5566666655543
+
+
+No 66
+>1Q7F_B brain tumor CG10719-PA; brat, NHL domain, NHL repeat; 1.95A {Drosophila melanogaster} SCOP: b.68.9.1
+Probab=63.85  E-value=5.3  Score=46.31  Aligned_cols=148  Identities=15%  Similarity=0.171  Sum_probs=76.1  Template_Neff=12.500
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQKNEIYVAG  381 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~G~iyv~G  381 (1547)
+                      ....|+++.+|++||++...                  ..|.+++..+..+ .... ..........|++++.|++||+.
+T Consensus       122 ~~~~i~~~~~g~~~v~~~~~------------------~~i~~~~~~~~~~-~~~~-~~~~~~~~~~i~~~~~g~l~v~~  181 (286)
+T 1Q7F_B          122 HPRGVTVDNKGRIIVVECKV------------------MRVIIFDQNGNVL-HKFG-CSKHLEFPNGVVVNDKQEIFISD  181 (286)
+T ss_dssp             CEEEEEECTTSCEEEEETTT------------------TEEEEECTTSCEE-EEEE-CTTTCSSEEEEEECSSSEEEEEE
+T ss_pred             CceeEEECCCCCEEEEECCC------------------CEEEEEcCCCCEE-EEEc-CCCCCCCCeeEEECCCCcEEEec
+Confidence            35678888889999875321                  1233344433221 1111 11112335678999989999875
+
+
+Q LOKIASV2_44640  382 WTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTREDIQTFNAFD  461 (1547)
+Q Consensus       382 ~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~sd~~t~~a~~  461 (1547)
+                      ...                    .-|.+++.+|..+  ..+.....  .....+|++++.|++||++....         
+T Consensus       182 ~~~--------------------~~i~~~~~~~~~~--~~~~~~~~--~~~~~~i~~~~~g~~~v~~~~~~---------  228 (286)
+T 1Q7F_B          182 NRA--------------------HCVKVFNYEGQYL--RQIGGEGI--TNYPIGVGINSNGEILIADNHNN---------  228 (286)
+T ss_dssp             TTT--------------------TEEEEEETTCCEE--EEECCTTT--SCSEEEEEECTTCCEEEEECSSS---------
+T ss_pred             CCC--------------------CeEEEEeCCCCeE--EEEcCCCC--CCcceEEEECCCCCEEEEcCCCC---------
+Confidence            421                    1122333344322  11111110  11246788988899999864321         
+
+
+Q LOKIASV2_44640  462 DYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       462 ~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                             ..|.+++..|..+  .++..........+|++++.|++||+..
+T Consensus       229 -------~~i~~~~~~g~~~--~~~~~~~~~~~~~~i~~~~~g~l~v~~~  269 (286)
+T 1Q7F_B          229 -------FNLTIFTQDGQLI--SALESKVKHAQCFDVALMDDGSVVLASK  269 (286)
+T ss_dssp             -------CEEEEECTTSCEE--EEEEESSCCSCEEEEEECTTSEEEEEET
+T ss_pred             -------ceEEEEcCCCCee--EeeccccccccceeEEEcCCCcEEEEcC
+Confidence                   1344455555322  1222222223456899999999888653
+
+
+No 67
+>6SKA_A Teneurin-2, Adhesion G protein-coupled receptor; adhesion, Odz, Lphn, synapse, neurons; HET: NAG, MAN, BMA; 3.86A {Gallus gallus}
+Probab=63.77  E-value=5.4  Score=61.68  Aligned_cols=57  Identities=16%  Similarity=0.208  Sum_probs=35.1  Template_Neff=9.500
+
+Q LOKIASV2_44640  433 LAGLLLDDSDYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSLNFSTYLGG--------SGYDYAKKIALDS-S  503 (1547)
+Q Consensus       433 ~~~i~vd~~g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGG--------sg~D~~~~IavD~-~  503 (1547)
+                      ..+|++++.|++||+..                   .+|-|++++|...   +.++.        ........||+++ .
+T Consensus       306 P~~la~~~dG~l~v~d~-------------------~~ir~~~~~g~~~---~~~~~~~~~~~~~~~~~~p~~la~~p~~  363 (1836)
+T 6SKA_A          306 PVALAVGIDGSLFVGDF-------------------NYIRRIFPSRNVT---SILELRNKEFKHSNNPAHKYYLAVDPVS  363 (1836)
+T ss_dssp             EEEEEECTTSCEEEEET-------------------TEEEEECTTSEEE---EEEECTTCCGGGTTCGGGCEEEEECSSS
+T ss_pred             ceEEEECCCCCEEEecc-------------------ceEEEECCCCCEE---EEEeccccccCCCCCCCceeEEEEeCCC
+Confidence            35788888999998763                   1344555554311   12221        1123467899999 8
+
+
+Q LOKIASV2_44640  504 NAIYVTGY  511 (1547)
+Q Consensus       504 g~iyVtG~  511 (1547)
+                      |.+||+..
+T Consensus       364 g~lyvsd~  371 (1836)
+T 6SKA_A          364 GSLYVSDT  371 (1836)
+T ss_dssp             CCEEEEET
+T ss_pred             CeEEEEeC
+Confidence            99999763
+
+
+No 68
+>4NAM_A Protective antigen; anthrax, toxin, 5-fluorotryptophan, pore; 1.7A {Bacillus anthracis}
+Probab=63.75  E-value=5.4  Score=55.17  Aligned_cols=65  Identities=18%  Similarity=-0.001  Sum_probs=32.3  Template_Neff=5.400
+
+Q LOKIASV2_44640 1150 NNDTDGDGCLDGWEVQYNFDPLDN--ADASLDSDDDGLINLFEFQNATNPWNSDTDGDGCLDGWEVQY 1215 (1547)
+Q Consensus      1150 ~~DtDgDG~~Dg~E~~~~~dp~~~--~d~~~D~D~DGl~n~~E~~~~TdP~~~DtDgDGl~Dg~Ev~~ 1215 (1547)
+                      ..|+|+||++|.||.. +......  .......+++.+...-+....++|...+++||.++|..++..
+T Consensus       175 ~~DsD~DGIPD~wE~~-GYtv~~~~~~~~~v~W~~~~~~~~Gy~ky~SnP~~~~T~GDpyTD~eKvtg  241 (735)
+T 4NAM_A          175 VPDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPYISNIHEKKGLTKYKSSPEKXSTASDPYSDFEKVTG  241 (735)
+T ss_dssp             CCCTTSSSSCHHHHHH-CEEEEC----CEEEECCTTTC----CCCBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             CCCCCCCCCCccceec-CeeeeeCCceeEEeecCCchhhccCeEEEecCCCCCCCCCCCCCCHHHHHc
+Confidence            4567777777777753 2111100  001111122211111122235788888899998888866654
+
+
+No 69
+>4NAM_A Protective antigen; anthrax, toxin, 5-fluorotryptophan, pore; 1.7A {Bacillus anthracis}
+Probab=63.44  E-value=5.5  Score=55.09  Aligned_cols=66  Identities=18%  Similarity=-0.004  Sum_probs=37.9  Template_Neff=5.400
+
+Q LOKIASV2_44640 1100 WNNDTDGDGCLDGWEVQYNFDPLDN--ADASLDSDDDGLSNLFEFQNATNPWNNDTDGDGCLDGWEVQY 1166 (1547)
+Q Consensus      1100 ~~~DtDgDG~~D~~E~~~~~dp~~~--~d~~~D~D~DGl~n~~E~~~~t~P~~~DtDgDG~~Dg~E~~~ 1166 (1547)
+                      ...|+|+||++|.||+. |......  .......+++-+...-+....++|...+++||+++|..++..
+T Consensus       174 ~~~DsD~DGIPD~wE~~-GYtv~~~~~~~~~v~W~~~~~~~~Gy~ky~SnP~~~~T~GDpyTD~eKvtg  241 (735)
+T 4NAM_A          174 TVPDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPYISNIHEKKGLTKYKSSPEKXSTASDPYSDFEKVTG  241 (735)
+T ss_dssp             CCCCTTSSSSCHHHHHH-CEEEEC----CEEEECCTTTC----CCCBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             CCCCCCCCCCCccceec-CeeeeeCCceeEEeecCCchhhccCeEEEecCCCCCCCCCCCCCCHHHHHc
+Confidence            45689999999999964 4332111  111122222222222222256788889999999999877653
+
+
+No 70
+>5WTL_A OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=62.76  E-value=5.8  Score=48.14  Aligned_cols=60  Identities=30%  Similarity=0.496  Sum_probs=32.2  Template_Neff=8.700
+
+Q LOKIASV2_44640 1297 DDTDADGLVNLAEF-NAGTNPRN----TDTDDDGLDDNTEVNTLLTNPV----NADSDADGMPDGWEVD 1356 (1547)
+Q Consensus      1297 ~D~D~DGl~n~~E~-~~gTdP~~----~DtD~DGL~D~~Ev~~~~TnP~----~~DsD~DGlpDgwE~~ 1356 (1547)
+                      .|.|+||+.+..+. +...++..    .|+|+||+.|.++.......+.    ..|.|+||+++.++.|
+T Consensus         3 ~d~d~dg~~d~~d~c~~~~~~~~~~~~~d~d~dg~~d~~d~cp~~~~~~~~~~~~d~dgdg~~d~~d~c   71 (261)
+T 5WTL_A            3 KDTDKDGIPDNKDACPEVPGLKEFNGCPDTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDAC   71 (261)
+T ss_dssp             -CCSCSSSCSTTCSSTTSCCBGGGTSBCCSSCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCSS
+T ss_pred             CCCCCCCCCCccCCCCCCCCchhcCCCCCCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCccccC
+Confidence            35678888876654 22222222    2677777777654322111111    1366777777777766
+
+
+No 71
+>6SJX_A Iron-regulated protein FrpA; Repeat in toxin proteins, calcium; HET: CA; NMR {Neisseria meningitidis serogroup C}
+Probab=60.63  E-value=6.7  Score=45.25  Aligned_cols=35  Identities=23%  Similarity=0.156  Sum_probs=18.2  Template_Neff=7.500
+
+Q LOKIASV2_44640 1129 LDSDDDGLSNLFEFQNATNPWNNDTDGDGCLDGWEVQ 1165 (1547)
+Q Consensus      1129 ~D~D~DGl~n~~E~~~~t~P~~~DtDgDG~~Dg~E~~ 1165 (1547)
+                      .|.+++|+.-....  .......|.++||.....|..
+T Consensus         7 ldl~g~gi~~~~~~--~~~~~~~D~d~DG~~~~~e~~   41 (182)
+T 6SJX_A            7 LDLDGDGIETVATK--GFSGSLFDHNRDGIRTATGWV   41 (182)
+T ss_dssp             ECSSSSCCCEEECC--SSTTSCCCSSSCSSCCBSEEE
+T ss_pred             eCCCCCceeeeecc--CCCcceeccCCCCceeeccee
+Confidence            57777776332110  011234567777776655543
+
+
+No 72
+>3TEW_A Protective antigen; protein transport, toxin; HET: MXE; 1.45A {Bacillus anthracis}
+Probab=58.62  E-value=7.7  Score=53.62  Aligned_cols=66  Identities=18%  Similarity=-0.025  Sum_probs=38.1  Template_Neff=5.400
+
+Q LOKIASV2_44640 1100 WNNDTDGDGCLDGWEVQYNFDPLDNAD--ASLDSDDDGLSNLFEFQNATNPWNNDTDGDGCLDGWEVQY 1166 (1547)
+Q Consensus      1100 ~~~DtDgDG~~D~~E~~~~~dp~~~~d--~~~D~D~DGl~n~~E~~~~t~P~~~DtDgDG~~Dg~E~~~ 1166 (1547)
+                      ...|+|+||++|.||.. |..+-....  .....+.+-....-+....++|....+.||+++|..++..
+T Consensus       174 ~~~DsD~DGIPD~wE~n-GYtv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~  241 (715)
+T 3TEW_A          174 TVPDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTG  241 (715)
+T ss_dssp             CCCCTTCSSSCHHHHHH-CEEEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             CCCCCCCCCCCcceeec-ceEeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHh
+Confidence            45688999999999864 544432110  1112222211111122246788888999999999877654
+
+
+No 73
+>3TEX_A Protective antigen; protein transport, toxin; 1.7A {Bacillus anthracis}
+Probab=58.62  E-value=7.7  Score=53.62  Aligned_cols=66  Identities=18%  Similarity=-0.025  Sum_probs=38.1  Template_Neff=5.400
+
+Q LOKIASV2_44640 1100 WNNDTDGDGCLDGWEVQYNFDPLDNAD--ASLDSDDDGLSNLFEFQNATNPWNNDTDGDGCLDGWEVQY 1166 (1547)
+Q Consensus      1100 ~~~DtDgDG~~D~~E~~~~~dp~~~~d--~~~D~D~DGl~n~~E~~~~t~P~~~DtDgDG~~Dg~E~~~ 1166 (1547)
+                      ...|+|+||++|.||.. |..+-....  .....+.+-....-+....++|....+.||+++|..++..
+T Consensus       174 ~~~DsD~DGIPD~wE~n-GYtv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~  241 (715)
+T 3TEX_A          174 TVPDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTG  241 (715)
+T ss_dssp             CCCCTTCSSSCHHHHHH-CEEEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             CCCCCCCCCCCcceeec-ceEeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHh
+Confidence            45688999999999864 544432110  1112222211111122246788888999999999877654
+
+
+No 74
+>6SJX_A Iron-regulated protein FrpA; Repeat in toxin proteins, calcium; HET: CA; NMR {Neisseria meningitidis serogroup C}
+Probab=57.87  E-value=8.1  Score=44.62  Aligned_cols=58  Identities=19%  Similarity=0.066  Sum_probs=27.6  Template_Neff=7.500
+
+Q LOKIASV2_44640 1079 VLDSDVDDLINLYEFQNATDPWNNDTDGDGCLDGWEVQYNFDPLDNADASLDSDDDGLSNL-FEF 1142 (1547)
+Q Consensus      1079 ~~D~D~D~l~n~~E~~~~tdp~~~DtDgDG~~D~~E~~~~~dp~~~~d~~~D~D~DGl~n~-~E~ 1142 (1547)
+                      +.|.+++|+.-.. .. .......|.++||.....|+....+.    -...|.++||.-+. .|.
+T Consensus         6 vldl~g~gi~~~~-~~-~~~~~~~D~d~DG~~~~~e~~~~~d~----fl~~D~n~DG~I~~~~E~   64 (182)
+T 6SJX_A            6 ALDLDGDGIETVA-TK-GFSGSLFDHNRDGIRTATGWVSADDG----LLVRDLNGNGIIDNGAEL   64 (182)
+T ss_dssp             EECSSSSCCCEEE-CC-SSTTSCCCSSSCSSCCBSEEECTTSE----EEECCTTSSSCCCSTTSB
+T ss_pred             eeCCCCCceeeee-cc-CCCcceeccCCCCceeecceeccCCe----eeEEcCCCCCeecChhHh
+Confidence            4677777742211 00 01123457777777766654332221    12245556665443 444
+
+
+No 75
+>5WTL_C OmpA family protein; prokaryote, TT3R, TSP3, Calcium-binding motif; HET: CA, SO4, MES; 2.298A {Capnocytophaga gingivalis}
+Probab=57.87  E-value=8.1  Score=46.93  Aligned_cols=59  Identities=31%  Similarity=0.502  Sum_probs=31.7  Template_Neff=8.700
+
+Q LOKIASV2_44640 1298 DTDADGLVNLAEF-NAGTNPRN----TDTDDDGLDDNTEVNTLLTNPV----NADSDADGMPDGWEVD 1356 (1547)
+Q Consensus      1298 D~D~DGl~n~~E~-~~gTdP~~----~DtD~DGL~D~~Ev~~~~TnP~----~~DsD~DGlpDgwE~~ 1356 (1547)
+                      |.|+||+.+..+. +...++..    .|+|+||+.|..+.......+.    ..|.|+||+.+.++.|
+T Consensus         4 d~d~dg~~d~~d~c~~~~~~~~~~~~~d~d~dg~~d~~d~cp~~~~~~~~~~~~d~d~dg~~d~~d~c   71 (261)
+T 5WTL_C            4 DTDKDGIPDNKDACPEVPGLKEFNGCPDTDGDGIPDKDDACPQVKGPKEFNGCPDTDGDGIPDKDDAC   71 (261)
+T ss_dssp             CSSCSSSCGGGCSSTTSCCBTTTTSBCCTTCSSSCGGGCSSTTSCCCGGGTTCCCSSCSSSCGGGCSS
+T ss_pred             CCCCCCCCCccCCCCCCCCchhcCCCCCCCCCCCCCccccCCCCCCCcccCCCCCCCCCCCCCccccC
+Confidence            5677888776654 22222221    2677777776654322111111    1366777777777766
+
+
+No 76
+>3HRP_A Uncharacterized protein; NP_812590.1, Structural genomics protein of; HET: EDO; 1.7A {Bacteroides thetaiotaomicron VPI-5482}
+Probab=57.20  E-value=8.4  Score=48.13  Aligned_cols=19  Identities=16%  Similarity=0.413  Sum_probs=15.0  Template_Neff=11.800
+
+Q LOKIASV2_44640  493 DYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       493 D~~~~IavD~~g~iyVtG~  511 (1547)
+                      ....+|++++.|++||+..
+T Consensus       380 ~~p~~i~~~~~g~l~v~d~  398 (409)
+T 3HRP_A          380 NYPYDICYDGEGGYWIAEA  398 (409)
+T ss_dssp             SSEEEEEECSSSEEEEEES
+T ss_pred             CCceEEEEcCCCCEEEEeC
+Confidence            3567899999899998764
+
+
+No 77
+>3NO2_A uncharacterized protein; six-bladed beta-propeller, Structural Genomics, Joint; HET: PEG, CIT; 1.35A {Bacteroides caccae}
+Probab=55.80  E-value=9.2  Score=44.63  Aligned_cols=221  Identities=13%  Similarity=0.040  Sum_probs=110.8  Template_Neff=12.000
+
+Q LOKIASV2_44640  303 IEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQKNEIYVAGW  382 (1547)
+Q Consensus       303 ~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~G~iyv~G~  382 (1547)
+                      ...+++..+|++++++.                    ..|.+++++| .++|.--+++.  .....+++.++|++++++.
+T Consensus        39 ~~~~~~~~~g~~~~~~~--------------------~~i~~~d~~g-~~~~~~~~~~~--~~~~~~~~~~~g~~~~~~~   95 (276)
+T 3NO2_A           39 CNSVAATKAGEILFSYS--------------------KGAKMITRDG-RELWNIAAPAG--CEMQTARILPDGNALVAWC   95 (276)
+T ss_dssp             CCEEEECTTSCEEEECB--------------------SEEEEECTTS-CEEEEEECCTT--CEEEEEEECTTSCEEEEEE
+T ss_pred             cceEEECCCCcEEEEEc--------------------CeEEEECCCC-CEEEEEeCCCC--CceeEEEECCCCCEEEEEe
+Confidence            45567777788776642                    0255666665 34565444321  2245667777888777753
+
+
+Q LOKIASV2_44640  383 TYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSG-FDGEILAGLLLDDSDYIYLCGSTREDIQTFNAFD  461 (1547)
+Q Consensus       383 T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~-~d~~~~~~i~vd~~g~iyv~G~T~sd~~t~~a~~  461 (1547)
+                      ..                   ...|.++++.|..+ |..-+.+.. ........+++.+.|+++|++..           
+T Consensus        96 ~~-------------------~~~i~~~d~~g~~~-~~~~~~~~~~~~~~~~~~~~~~~~g~~~v~~~~-----------  144 (276)
+T 3NO2_A           96 GH-------------------PSTILEVNMKGEVL-SKTEFETGIERPHAQFRQINKNKKGNYLVPLFA-----------  144 (276)
+T ss_dssp             ST-------------------TEEEEEECTTSCEE-EEEEECCSCSSGGGSCSCCEECTTSCEEEEETT-----------
+T ss_pred             CC-------------------CceEEEEcCCCCEE-EEEEccCCCCCcccceeeeeeCCCCCEEEeeCC-----------
+Confidence            10                   13455666666533 332222110 00011234556666776665431           
+
+
+Q LOKIASV2_44640  462 DYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGYSGSNDFPTINAYKSYKEGGSTNQYKEAIVT  541 (1547)
+Q Consensus       462 ~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~T~S~dfPt~~a~~~~~~gg~~~~~~D~Fv~  541 (1547)
+                            ...|.+++..|. ++|.--+++    ...++++.+.|+++|++..                        +..|.
+T Consensus       145 ------~~~v~~~d~~g~-~~~~~~~~~----~~~~~~~~~~g~~~v~~~~------------------------~~~v~  189 (276)
+T 3NO2_A          145 ------TSEVREIAPNGQ-LLNSVKLSG----TPFSSAFLDNGDCLVACGD------------------------AHCFV  189 (276)
+T ss_dssp             ------TTEEEEECTTSC-EEEEEECSS----CCCEEEECTTSCEEEECBT------------------------TSEEE
+T ss_pred             ------CCeEEEECCCCC-EEEEEecCC----CcceEEECCCCCEEEEeCC------------------------CCEEE
+Confidence                  234556666554 334322221    2345677777888776532                        11244
+
+
+Q LOKIASV2_44640  542 KINPD-GQSLNFSTYLGGSDEYNSDYGRVIDVDKDGYIYVAGKTSDNDFPTQNAYDSTFGGTYDIFFTKFNPSGQTINFS  620 (1547)
+Q Consensus       542 kl~~~-g~~L~ySTylGGs~~~~~d~g~~i~vD~~G~iyv~G~T~S~dfPt~~a~q~t~~G~~D~Fv~kl~~~g~~l~yS  620 (1547)
+                      ++++. |. ++|....+........+...+++..+|++||++..... ..        ........|.+++++|. +.|.
+T Consensus       190 ~~d~~tg~-~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~v~~~~~~~-~~--------~~~~~~~~i~~~d~~G~-~~w~  258 (276)
+T 3NO2_A          190 QLNLESNR-IVRRVNANDIEGVQLFFVAQLFPLQNGGLYICNWQGHD-RE--------AGKGKHPQLVEIDSEGK-VVWQ  258 (276)
+T ss_dssp             EECTTTCC-EEEEEEGGGSBSCCCSEEEEEEECTTSCEEEEEECTTC-TT--------GGGSCCCSEEEECTTSB-EEEE
+T ss_pred             EEeCcCCe-EEEeeCcccCCCCcccceeeEEECCCCCEEEEeecCCc-cc--------cCCCCCCeEEEEcCCCC-EEEE
+Confidence            56665 43 44433222110000122345667788999998764321 10        01123567888888664 5665
+
+
+Q LOKIASV2_44640  621 TYL  623 (1547)
+Q Consensus       621 Tyl  623 (1547)
+                      ...
+T Consensus       259 ~~~  261 (276)
+T 3NO2_A          259 LND  261 (276)
+T ss_dssp             ECC
+T ss_pred             EeC
+Confidence            443
+
+
+No 78
+>3TEW_A Protective antigen; protein transport, toxin; HET: MXE; 1.45A {Bacillus anthracis}
+Probab=55.52  E-value=9.4  Score=52.83  Aligned_cols=69  Identities=17%  Similarity=0.068  Sum_probs=42.6  Template_Neff=5.400
+
+Q LOKIASV2_44640 1390 NADSDADGMFDGWELQYSLNPLDDND--AMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEISYQFDP 1459 (1547)
+Q Consensus      1390 ~~DsD~DG~~Dg~E~~~~lnp~d~~D--~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~~~~~~p 1459 (1547)
+                      ..|+|+||++|.||.. ++.+.....  ....-+.+......+....++|+...+.+|+++|..++...+++
+T Consensus       175 ~~DsD~DGIPD~wE~n-GYtv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~~iD~  245 (715)
+T 3TEW_A          175 VPDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDK  245 (715)
+T ss_dssp             CCCTTCSSSCHHHHHH-CEEEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHTCSCT
+T ss_pred             CCCCCCCCCCcceeec-ceEeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHhcCCc
+Confidence            5688999999999975 444432111  11122222221122333478899999999999999888774443
+
+
+No 79
+>3TEX_A Protective antigen; protein transport, toxin; 1.7A {Bacillus anthracis}
+Probab=55.52  E-value=9.4  Score=52.83  Aligned_cols=69  Identities=17%  Similarity=0.068  Sum_probs=42.6  Template_Neff=5.400
+
+Q LOKIASV2_44640 1390 NADSDADGMFDGWELQYSLNPLDDND--AMLDPDADNVFNLYEFQNATNPLNNDTDADGMPDGWEISYQFDP 1459 (1547)
+Q Consensus      1390 ~~DsD~DG~~Dg~E~~~~lnp~d~~D--~~~D~D~D~l~n~~E~~~~t~P~~~DtD~DglpD~~E~~~~~~p 1459 (1547)
+                      ..|+|+||++|.||.. ++.+.....  ....-+.+......+....++|+...+.+|+++|..++...+++
+T Consensus       175 ~~DsD~DGIPD~wE~n-GYtv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~~iD~  245 (715)
+T 3TEX_A          175 VPDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDK  245 (715)
+T ss_dssp             CCCTTCSSSCHHHHHH-CEEEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHTCSCT
+T ss_pred             CCCCCCCCCCcceeec-ceEeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHhcCCc
+Confidence            5688999999999975 444432111  11122222221122333478899999999999999888774443
+
+
+No 80
+>3KYA_A Putative phosphatase; Putative phosphatase, Structural Genomics, Joint; HET: EDO, ACT; 1.77A {Bacteroides thetaiotaomicron}
+Probab=53.89  E-value=10  Score=49.40  Aligned_cols=20  Identities=10%  Similarity=0.086  Sum_probs=15.2  Template_Neff=11.000
+
+Q LOKIASV2_44640  692 DFPNACAIDL-HNSVYITGNT  711 (1547)
+Q Consensus       692 D~~~~iavd~-~g~~yv~G~T  711 (1547)
+                      ..+.+|++++ .+.+||+...
+T Consensus       444 ~~p~~i~~d~~~g~lyv~d~~  464 (496)
+T 3KYA_A          444 RDVSGLVYDDVKEMFYVHDQV  464 (496)
+T ss_dssp             SSEEEEEEETTTTEEEEEETT
+T ss_pred             cCeEEEEEECCCCeEEEEeCC
+Confidence            3577888987 7899987654
+
+
+No 81
+>3TEW_A Protective antigen; protein transport, toxin; HET: MXE; 1.45A {Bacillus anthracis}
+Probab=52.73  E-value=11  Score=52.15  Aligned_cols=65  Identities=17%  Similarity=-0.023  Sum_probs=30.6  Template_Neff=5.400
+
+Q LOKIASV2_44640 1199 NSDTDGDGCLDGWEVQYTFDPLDNAD--ASLDSDDDGLINLFEFQKATNPWNNDTDADGLIDGDELIN 1264 (1547)
+Q Consensus      1199 ~~DtDgDGl~Dg~Ev~~~~dp~~~~d--~~~D~D~DGl~n~~E~~~~T~p~~~DtD~DGl~Dg~E~~~ 1264 (1547)
+                      ..|+|+||++|.||...- .+.....  .....+++...........++|....+.+|+++|...+..
+T Consensus       175 ~~DsD~DGIPD~wE~nGY-tv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~  241 (715)
+T 3TEW_A          175 VPDRDNDGIPDSLEVEGY-TVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTG  241 (715)
+T ss_dssp             CCCTTCSSSCHHHHHHCE-EEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             CCCCCCCCCCcceeecce-EeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHh
+Confidence            467888888888886421 1100000  0111111111101111134556667777777777765443
+
+
+No 82
+>3TEX_A Protective antigen; protein transport, toxin; 1.7A {Bacillus anthracis}
+Probab=52.73  E-value=11  Score=52.15  Aligned_cols=65  Identities=17%  Similarity=-0.023  Sum_probs=30.6  Template_Neff=5.400
+
+Q LOKIASV2_44640 1199 NSDTDGDGCLDGWEVQYTFDPLDNAD--ASLDSDDDGLINLFEFQKATNPWNNDTDADGLIDGDELIN 1264 (1547)
+Q Consensus      1199 ~~DtDgDGl~Dg~Ev~~~~dp~~~~d--~~~D~D~DGl~n~~E~~~~T~p~~~DtD~DGl~Dg~E~~~ 1264 (1547)
+                      ..|+|+||++|.||...- .+.....  .....+++...........++|....+.+|+++|...+..
+T Consensus       175 ~~DsD~DGIPD~wE~nGY-tv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~  241 (715)
+T 3TEX_A          175 VPDRDNDGIPDSLEVEGY-TVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTG  241 (715)
+T ss_dssp             CCCTTCSSSCHHHHHHCE-EEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHT
+T ss_pred             CCCCCCCCCCcceeecce-EeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHh
+Confidence            467888888888886421 1100000  0111111111101111134556667777777777765443
+
+
+No 83
+>4ZLR_A Brain tumor protein/RNA Complex; NHL-domain, beta-propeller, RNA binding, translational; HET: PG4, SO4, PE4, 1PE; 2.3A {Drosophila melanogaster}
+Probab=50.67  E-value=13  Score=42.84  Aligned_cols=148  Identities=15%  Similarity=0.180  Sum_probs=73.6  Template_Neff=12.800
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQKNEIYVAG  381 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~G~iyv~G  381 (1547)
+                      .+..|+++.+|++||++...                  ..|.+++.++..+ .. +...........|++++.|++||++
+T Consensus       118 ~~~~i~~~~~g~~~~~~~~~------------------~~i~~~~~~~~~~-~~-~~~~~~~~~~~~i~~~~~g~~~v~~  177 (282)
+T 4ZLR_A          118 HPRGVTVDNKGRIIVVECKV------------------MRVIIFDQNGNVL-HK-FGCSKHLEFPNGVVVNDKQEIFISD  177 (282)
+T ss_dssp             CEEEEEECTTCCEEEEETTT------------------TEEEEECTTSCEE-EE-EECTTTCSCEEEEEECSSSEEEEEE
+T ss_pred             CceEEEECCCCCEEEEEcCC------------------CEEEEEcCCCCEE-EE-EcCCCccCCceeEEECCCCeEEEEe
+Confidence            45677888888888876421                  1223333333211 11 1111122335678888889998876
+
+
+Q LOKIASV2_44640  382 WTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTREDIQTFNAFD  461 (1547)
+Q Consensus       382 ~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~sd~~t~~a~~  461 (1547)
+                      ...                    .-|.+++..|..+ . .+.....  ......|++++.|++||++....         
+T Consensus       178 ~~~--------------------~~i~~~~~~~~~~-~-~~~~~~~--~~~~~~i~~~~~g~~~v~~~~~~---------  224 (282)
+T 4ZLR_A          178 NRA--------------------HCVKVFNYEGQYL-R-QIGGEGI--TNYPIGVGINSNGEILIADNHNN---------  224 (282)
+T ss_dssp             TTT--------------------TEEEEEETTCCEE-E-EECCTTT--SCSEEEEEECTTSCEEEEECSSS---------
+T ss_pred             CCC--------------------CeEEEEcCCCCeE-E-EEcCCCC--CCcceEEEECCCCCEEEEeCCCC---------
+Confidence            431                    1122333333322 1 1111100  11246788888889998874321         
+
+
+Q LOKIASV2_44640  462 DYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       462 ~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                             ..|..++..+..+  ..+..........+|++++.|.+||++.
+T Consensus       225 -------~~i~~~~~~~~~~--~~~~~~~~~~~~~~i~~~~~g~~~v~~~  265 (282)
+T 4ZLR_A          225 -------FNLTIFTQDGQLI--SALESKVKHAQCFDVALMDDGSVVLASK  265 (282)
+T ss_dssp             -------CEEEEECTTSCEE--EEEEESSCCSCEEEEEEETTTEEEEEET
+T ss_pred             -------eEEEEEeCCCcEE--EeecccccccccceEEEcCCCcEEEEcC
+Confidence                   0233334433321  1111111223466889999888887654
+
+
+No 84
+>6FB3_B Teneurin-2; TTR, fibronectin, FN-plug, NHL, YD-repeat; HET: BMA, MAN, NAG; 2.38A {Gallus gallus}
+Probab=50.64  E-value=13  Score=57.93  Aligned_cols=58  Identities=10%  Similarity=0.333  Sum_probs=36.8  Template_Neff=9.400
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSE--------SESGCFIQINQ  373 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~--------~D~~~~i~vd~  373 (1547)
+                      ...+|+++++|+|||+..                    .+|-|++++|...   +.++...        ....+.|++++
+T Consensus       315 ~P~~la~~~dG~l~v~d~--------------------~~ir~i~~~g~~~---~~~~~~~~~~~~~~~~~~~~~lav~p  371 (1859)
+T 6FB3_B          315 APVALAVGIDGSLFVGDF--------------------NYIRRIFPSRNVT---SILELRNKEFKHSNNPAHKYYLAVDP  371 (1859)
+T ss_dssp             CEEEEEECTTSCEEEEET--------------------TEEEEECTTSEEE---EEEECTTCCGGGTTCGGGCEEEEECS
+T ss_pred             CceEEEECCCCCEEEecc--------------------ceEEEECCCCCEE---EEEeccccccCCCCCCCceeeEEEeC
+Confidence            456788888888888753                    1355666665321   2222211        13457899999
+
+
+Q LOKIASV2_44640  374 -KNEIYVAGW  382 (1547)
+Q Consensus       374 -~G~iyv~G~  382 (1547)
+                       +|.+||+-.
+T Consensus       372 ~~g~lyvsd~  381 (1859)
+T 6FB3_B          372 VSGSLYVSDT  381 (1859)
+T ss_dssp             SSCCEEEEET
+T ss_pred             CCCeEEEEeC
+Confidence             899999753
+
+
+No 85
+>6SKA_A Teneurin-2, Adhesion G protein-coupled receptor; adhesion, Odz, Lphn, synapse, neurons; HET: NAG, MAN, BMA; 3.86A {Gallus gallus}
+Probab=50.26  E-value=13  Score=57.75  Aligned_cols=58  Identities=10%  Similarity=0.333  Sum_probs=36.3  Template_Neff=9.500
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGS--------ESESGCFIQINQ  373 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs--------~~D~~~~i~vd~  373 (1547)
+                      ...+||++++|++||+..                    -+|-|++++|...   +.++..        .......|++++
+T Consensus       305 ~P~~la~~~dG~l~v~d~--------------------~~ir~~~~~g~~~---~~~~~~~~~~~~~~~~~~p~~la~~p  361 (1836)
+T 6SKA_A          305 APVALAVGIDGSLFVGDF--------------------NYIRRIFPSRNVT---SILELRNKEFKHSNNPAHKYYLAVDP  361 (1836)
+T ss_dssp             CEEEEEECTTSCEEEEET--------------------TEEEEECTTSEEE---EEEECTTCCGGGTTCGGGCEEEEECS
+T ss_pred             CceEEEECCCCCEEEecc--------------------ceEEEECCCCCEE---EEEeccccccCCCCCCCceeEEEEeC
+Confidence            456788999999998763                    1344555554321   222221        123457899999
+
+
+Q LOKIASV2_44640  374 -KNEIYVAGW  382 (1547)
+Q Consensus       374 -~G~iyv~G~  382 (1547)
+                       +|++||+..
+T Consensus       362 ~~g~lyvsd~  371 (1836)
+T 6SKA_A          362 VSGSLYVSDT  371 (1836)
+T ss_dssp             SSCCEEEEET
+T ss_pred             CCCeEEEEeC
+Confidence             899999864
+
+
+No 86
+>3TEW_A Protective antigen; protein transport, toxin; HET: MXE; 1.45A {Bacillus anthracis}
+Probab=46.72  E-value=16  Score=50.72  Aligned_cols=69  Identities=23%  Similarity=0.080  Sum_probs=46.5  Template_Neff=5.400
+
+Q LOKIASV2_44640  955 DDADLDGCPDVWEIQYGFDQFDPSD--AYLDADSDGLINLYEFQNVTNPLNNDTDRDGCSDGWEVQYIFDPL 1024 (1547)
+Q Consensus       955 ~DtD~DG~pD~wE~~~G~d~~~~~d--~~~D~D~DGl~n~~E~~~~t~p~~~DtD~DG~~D~~E~~~~~~p~ 1024 (1547)
+                      .|+|.||+||.||.. |+.......  ....-+.+-+...-+..+.++|...+++||+++|..++...+++.
+T Consensus       176 ~DsD~DGIPD~wE~n-GYtv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~~iD~~  246 (715)
+T 3TEW_A          176 PDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDKN  246 (715)
+T ss_dssp             CCTTCSSSCHHHHHH-CEEEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHTCSCTT
+T ss_pred             CCCCCCCCCcceeec-ceEeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHhcCCcC
+Confidence            488999999999987 776643211  222223333322334456889999999999999999998744443
+
+
+No 87
+>3TEX_A Protective antigen; protein transport, toxin; 1.7A {Bacillus anthracis}
+Probab=46.72  E-value=16  Score=50.72  Aligned_cols=69  Identities=23%  Similarity=0.080  Sum_probs=46.5  Template_Neff=5.400
+
+Q LOKIASV2_44640  955 DDADLDGCPDVWEIQYGFDQFDPSD--AYLDADSDGLINLYEFQNVTNPLNNDTDRDGCSDGWEVQYIFDPL 1024 (1547)
+Q Consensus       955 ~DtD~DG~pD~wE~~~G~d~~~~~d--~~~D~D~DGl~n~~E~~~~t~p~~~DtD~DG~~D~~E~~~~~~p~ 1024 (1547)
+                      .|+|.||+||.||.. |+.......  ....-+.+-+...-+..+.++|...+++||+++|..++...+++.
+T Consensus       176 ~DsD~DGIPD~wE~n-GYtv~~~~~~~~vv~W~d~~~~~~Gy~ky~SnP~~~~T~GDpytD~eKvt~~iD~~  246 (715)
+T 3TEX_A          176 PDRDNDGIPDSLEVE-GYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDKN  246 (715)
+T ss_dssp             CCTTCSSSCHHHHHH-CEEEEECSSCEEEEECCHHHHTTTTCCCBCCCTTCSSTTSSSSCHHHHHHTCSCTT
+T ss_pred             CCCCCCCCCcceeec-ceEeeecCceeEEeecCCcchhccCeeEEecCccccccCCCCCCCHHHHHhcCCcC
+Confidence            488999999999987 776643211  222223333322334456889999999999999999998744443
+
+
+No 88
+>6FB3_B Teneurin-2; TTR, fibronectin, FN-plug, NHL, YD-repeat; HET: BMA, MAN, NAG; 2.38A {Gallus gallus}
+Probab=45.88  E-value=17  Score=56.66  Aligned_cols=19  Identities=21%  Similarity=0.473  Sum_probs=15.7  Template_Neff=9.400
+
+Q LOKIASV2_44640  493 DYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       493 D~~~~IavD~~g~iyVtG~  511 (1547)
+                      ..+.+|++++.|++||+..
+T Consensus       551 ~~p~~ia~~~~G~Lyva~~  569 (1859)
+T 6FB3_B          551 ESASAIAISHTGVLYISET  569 (1859)
+T ss_dssp             SSEEEEEECTTCCEEEEEE
+T ss_pred             cceeEEEECCCCCEEEEeC
+Confidence            3577899999999999864
+
+
+No 89
+>6SKA_A Teneurin-2, Adhesion G protein-coupled receptor; adhesion, Odz, Lphn, synapse, neurons; HET: NAG, MAN, BMA; 3.86A {Gallus gallus}
+Probab=44.72  E-value=18  Score=56.27  Aligned_cols=20  Identities=20%  Similarity=0.458  Sum_probs=16.1  Template_Neff=9.500
+
+Q LOKIASV2_44640  493 DYAKKIALDSSNAIYVTGYS  512 (1547)
+Q Consensus       493 D~~~~IavD~~g~iyVtG~T  512 (1547)
+                      ..+.+||+++.|++||+...
+T Consensus       541 ~~p~~ia~~~~G~lyva~~~  560 (1836)
+T 6SKA_A          541 ESASAIAISHTGVLYISETD  560 (1836)
+T ss_dssp             SSEEEEEECTTCCEEEEEEC
+T ss_pred             cceeEEEECCCCCEEEEeCC
+Confidence            45788999999999998643
+
+
+No 90
+>3Q6K_B 43.2 kDa salivary protein; beta propeller, binding protein, serotonin; HET: CIT, SRO; 2.52A {Lutzomyia longipalpis}
+Probab=42.55  E-value=21  Score=44.99  Aligned_cols=63  Identities=16%  Similarity=0.312  Sum_probs=36.0  Template_Neff=10.900
+
+Q LOKIASV2_44640  433 LAGLLLDDS-DYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSL---NFSTYLGGSGYDYAKKIALDSSNAIYV  508 (1547)
+Q Consensus       433 ~~~i~vd~~-g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L---~ySTylGGsg~D~~~~IavD~~g~iyV  508 (1547)
+                      ..+|++++. +++||+.....                 -|.+++..+..+   .+..+..........+|++++.|.+||
+T Consensus       277 p~~i~~d~~~g~lyv~~~~~~-----------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~p~~i~~d~~g~lyv  339 (381)
+T 3Q6K_B          277 AIALAYDPKTKVIFFAEANTK-----------------QVSCWNTQKMPLRMKNTDVVYTSSRFVFGTDISVDSKGGLWF  339 (381)
+T ss_dssp             EEEEEEETTTTEEEEEESSSS-----------------EEEEEETTSSSBCGGGCEEEEECTTCCSEEEEEECTTSCEEE
+T ss_pred             ceeEEEeCCCCEEEEEECCCC-----------------EEEEEECCCCcccccceeeeecCcceecceeEEEcCCCcEEE
+Confidence            456888876 89999764321                 233444443101   111122222334577899998899999
+
+
+Q LOKIASV2_44640  509 TGYS  512 (1547)
+Q Consensus       509 tG~T  512 (1547)
+                      +...
+T Consensus       340 ~~~~  343 (381)
+T 3Q6K_B          340 MSNG  343 (381)
+T ss_dssp             EECS
+T ss_pred             EcCC
+Confidence            8653
+
+
+No 91
+>3Q6P_B 43.2 kDa salivary protein; ligand binding protein, beta propeller; HET: CIT, MSE; 2.75A {Lutzomyia longipalpis}
+Probab=42.55  E-value=21  Score=44.99  Aligned_cols=63  Identities=16%  Similarity=0.312  Sum_probs=36.0  Template_Neff=10.900
+
+Q LOKIASV2_44640  433 LAGLLLDDS-DYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSL---NFSTYLGGSGYDYAKKIALDSSNAIYV  508 (1547)
+Q Consensus       433 ~~~i~vd~~-g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L---~ySTylGGsg~D~~~~IavD~~g~iyV  508 (1547)
+                      ..+|++++. +++||+.....                 -|.+++..+..+   .+..+..........+|++++.|.+||
+T Consensus       277 p~~i~~d~~~g~lyv~~~~~~-----------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~p~~i~~d~~g~lyv  339 (381)
+T 3Q6P_B          277 AIALAYDPKTKVIFFAEANTK-----------------QVSCWNTQKMPLRMKNTDVVYTSSRFVFGTDISVDSKGGLWF  339 (381)
+T ss_dssp             EEEEEEETTTTEEEEEESSSS-----------------EEEEEETTSSSBCGGGEEEEEECTTCCSEEEEEECTTSCEEE
+T ss_pred             ceeEEEeCCCCEEEEEECCCC-----------------EEEEEECCCCcccccceeeeecCcceecceeEEEcCCCcEEE
+Confidence            456888876 89999764321                 233444443101   111122222334577899998899999
+
+
+Q LOKIASV2_44640  509 TGYS  512 (1547)
+Q Consensus       509 tG~T  512 (1547)
+                      +...
+T Consensus       340 ~~~~  343 (381)
+T 3Q6P_B          340 MSNG  343 (381)
+T ss_dssp             EECS
+T ss_pred             EcCC
+Confidence            8653
+
+
+No 92
+>3Q6T_A 43.2 kDa salivary protein; beta propeller, ligand binding, serotonin; HET: CIT; 2.93A {Lutzomyia longipalpis}
+Probab=42.55  E-value=21  Score=44.99  Aligned_cols=63  Identities=16%  Similarity=0.312  Sum_probs=36.0  Template_Neff=10.900
+
+Q LOKIASV2_44640  433 LAGLLLDDS-DYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSL---NFSTYLGGSGYDYAKKIALDSSNAIYV  508 (1547)
+Q Consensus       433 ~~~i~vd~~-g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L---~ySTylGGsg~D~~~~IavD~~g~iyV  508 (1547)
+                      ..+|++++. +++||+.....                 -|.+++..+..+   .+..+..........+|++++.|.+||
+T Consensus       277 p~~i~~d~~~g~lyv~~~~~~-----------------~i~~~~~~g~~~~~~~~~~~~~~~~~~~p~~i~~d~~g~lyv  339 (381)
+T 3Q6T_A          277 AIALAYDPKTKVIFFAEANTK-----------------QVSCWNTQKMPLRMKNTDVVYTSSRFVFGTDISVDSKGGLWF  339 (381)
+T ss_dssp             EEEEEECTTTCEEEEEESSSS-----------------EEEEEETTSCSBCGGGEEEEEECTTCCSEEEEEECTTCCEEE
+T ss_pred             ceeEEEeCCCCEEEEEECCCC-----------------EEEEEECCCCcccccceeeeecCcceecceeEEEcCCCcEEE
+Confidence            456888876 89999764321                 233444443101   111122222334577899998899999
+
+
+Q LOKIASV2_44640  509 TGYS  512 (1547)
+Q Consensus       509 tG~T  512 (1547)
+                      +...
+T Consensus       340 ~~~~  343 (381)
+T 3Q6T_A          340 MSNG  343 (381)
+T ss_dssp             EECS
+T ss_pred             EcCC
+Confidence            8653
+
+
+No 93
+>2WFT_A HEDGEHOG-INTERACTING PROTEIN; MEMBRANE, SECRETED, DEVELOPMENT, DISULFIDE BOND; 2.8A {HOMO SAPIENS}
+Probab=42.14  E-value=21  Score=46.87  Aligned_cols=20  Identities=20%  Similarity=0.139  Sum_probs=16.3  Template_Neff=9.700
+
+Q LOKIASV2_44640  691 DDFPNACAIDLHNSVYITGN  710 (1547)
+Q Consensus       691 ~D~~~~iavd~~g~~yv~G~  710 (1547)
+                      ...+.+|+++++|++||+-.
+T Consensus       335 ~~~p~~i~~~~~G~lyv~d~  354 (458)
+T 2WFT_A          335 SGHILGFGEDELGEVYILSS  354 (458)
+T ss_dssp             SSEEEEEEECTTSCEEEEEE
+T ss_pred             CCceeEEEECCCCCEEEEec
+Confidence            34578899999999999765
+
+
+No 94
+>4ZLR_B Brain tumor protein/RNA Complex; NHL-domain, beta-propeller, RNA binding, translational; HET: PE4, 1PE, PG4, SO4; 2.3A {Drosophila melanogaster}
+Probab=41.49  E-value=22  Score=40.93  Aligned_cols=148  Identities=15%  Similarity=0.186  Sum_probs=72.4  Template_Neff=12.800
+
+Q LOKIASV2_44640  302 IIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQKNEIYVAG  381 (1547)
+Q Consensus       302 ~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~G~iyv~G  381 (1547)
+                      ....|+++++|.+||++...                  ..|.+++.++..+ .. +.-.........|++++.|++||++
+T Consensus       118 ~~~~i~~~~~~~~~~~~~~~------------------~~i~~~~~~~~~~-~~-~~~~~~~~~~~~i~~~~~~~~~v~~  177 (282)
+T 4ZLR_B          118 HPRGVTVDNKGRIIVVECKV------------------MRVIIFDQNGNVL-HK-FGCSKHLEFPNGVVVNDKQEIFISD  177 (282)
+T ss_dssp             CEEEEEECTTCCEEEEETTT------------------TEEEEECTTSCEE-EE-EECTTTCSCEEEEEECSSSEEEEEE
+T ss_pred             CceEEEECCCCCEEEEEcCC------------------CEEEEEcCCCCEE-EE-EcCCCCcCCceeEEECCCCeEEEEe
+Confidence            45577888888888875421                  1222333333211 11 1001112335678888888888876
+
+
+Q LOKIASV2_44640  382 WTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTREDIQTFNAFD  461 (1547)
+Q Consensus       382 ~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~sd~~t~~a~~  461 (1547)
+                      ...                    .-|.+++..|..+  .++.....  ......|++++.|++||++....         
+T Consensus       178 ~~~--------------------~~i~~~~~~~~~~--~~~~~~~~--~~~~~~i~~~~~g~~~~~~~~~~---------  224 (282)
+T 4ZLR_B          178 NRA--------------------HCVKVFNYEGQYL--RQIGGEGI--TNYPIGVGINSNGEILIADNHNN---------  224 (282)
+T ss_dssp             TTT--------------------TEEEEEETTCCEE--EEESCTTT--SCSEEEEEECTTCCEEEEECSSS---------
+T ss_pred             CCC--------------------CeEEEEcCCCCEE--EEEcCCCC--CCcceEEEECCCCCEEEEeCCCC---------
+Confidence            421                    1122233333322  11111110  11346788888889988764321         
+
+
+Q LOKIASV2_44640  462 DYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       462 ~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                             ..|..++..+..+  ..+..........+|++++.|.+||++.
+T Consensus       225 -------~~i~~~~~~~~~~--~~~~~~~~~~~~~~i~~~~~g~~~v~~~  265 (282)
+T 4ZLR_B          225 -------FNLTIFTQDGQLI--SALESKVKHAQCFDVALMDDGSVVLASK  265 (282)
+T ss_dssp             -------CEEEEECTTSCEE--EEEEESSCCSCEEEEEEETTTEEEEEET
+T ss_pred             -------eEEEEEeCCCCEE--EeecccccccccceEEEcCCCcEEEEcC
+Confidence                   0233334433221  1111111223466788998888887654
+
+
+No 95
+>2QC5_A Streptogramin B lactonase; beta propeller, LYASE; 1.8A {Staphylococcus cohnii}
+Probab=40.48  E-value=23  Score=40.63  Aligned_cols=101  Identities=7%  Similarity=0.075  Sum_probs=52.2  Template_Neff=13.300
+
+Q LOKIASV2_44640  365 SGCFIQINQKNEIYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYI  444 (1547)
+Q Consensus       365 ~~~~i~vd~~G~iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~i  444 (1547)
+                      ....|+++++|++|+++...                    .-|.+++..+..+.+.. ...    ......|++++.+.+
+T Consensus       189 ~~~~~~~~~~g~~~~~~~~~--------------------~~i~~~~~~~~~~~~~~-~~~----~~~~~~~~~~~~g~~  243 (300)
+T 2QC5_A          189 APVGITSGNDGALWFVEIMG--------------------NKIGRITTTGEISEYDI-PTP----NARPHAITAGKNSEI  243 (300)
+T ss_pred             CCcEEEECCCCCEEEEeCCC--------------------CeEEEEcCCCCceeeec-CCC----CCCcEEEEECCCCCE
+Confidence            45678888889988876531                    12233333332221111 111    112456778888888
+
+
+Q LOKIASV2_44640  445 YLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTG  510 (1547)
+Q Consensus       445 yv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG  510 (1547)
+                      |+++...                 ..|.+++..+....+.   ..........|++++.|.+||++
+T Consensus       244 ~~~~~~~-----------------~~i~~~~~~~~~~~~~---~~~~~~~~~~~~~~~~g~~~~~~  289 (300)
+T 2QC5_A          244 WFTEWGA-----------------NQIGRITNDNTIQEYQ---LQTENAEPHGITFGKDGSVWFAL  289 (300)
+T ss_pred             EEEECCC-----------------CcEEEEeCCCCeEEee---cCCCCCCceEEEECCCCCEEEEc
+Confidence            8865321                 1233333333222111   11122456788899988888875
+
+
+No 96
+>6SJX_A Iron-regulated protein FrpA; Repeat in toxin proteins, calcium; HET: CA; NMR {Neisseria meningitidis serogroup C}
+Probab=40.32  E-value=24  Score=40.97  Aligned_cols=117  Identities=22%  Similarity=0.243  Sum_probs=53.9  Template_Neff=7.500
+
+Q LOKIASV2_44640  882 VVDSDDDGLINLYEFRNATDPWNNDTDGDGCSDGWEVQYTFDPLDNTDAFDDPDGDGLNNL-QEFQYGTNPLVNDDADLD  960 (1547)
+Q Consensus       882 ~~D~D~Dgl~~~~E~~~~tdP~~~DtDgDg~~Dg~E~~~~~dp~~~~d~~~D~DgDGl~n~-~E~~~gt~P~~~~DtD~D  960 (1547)
+                      +.|.++||+.-....  .......|.|+||....-|+....+-    -...|.++||.-+. .|+.....+...      
+T Consensus         6 vldl~g~gi~~~~~~--~~~~~~~D~d~DG~~~~~e~~~~~d~----fl~~D~n~DG~I~~~~E~~~~~~~~~~------   73 (182)
+T 6SJX_A            6 ALDLDGDGIETVATK--GFSGSLFDHNRDGIRTATGWVSADDG----LLVRDLNGNGIIDNGAELFGDNTKLAD------   73 (182)
+T ss_dssp             EECSSSSCCCEEECC--SSTTSCCCSSSCSSCCBSEEECTTSE----EEECCTTSSSCCCSTTSBSSTTSBCTT------
+T ss_pred             eeCCCCCceeeeecc--CCCcceeccCCCCceeecceeccCCe----eeEEcCCCCCeecChhHhcccchhhcC------
+Confidence            457777775321110  11223567777777766555422111    12346777776555 676432221110      
+
+
+Q LOKIASV2_44640  961 GCPDVWEIQYGFDQFDPSDAYLDADSDGLINLYEFQNVTNPLNNDTDRDGCSDGWEVQ 1018 (1547)
+Q Consensus       961 G~pD~wE~~~G~d~~~~~d~~~D~D~DGl~n~~E~~~~t~p~~~DtD~DG~~D~~E~~ 1018 (1547)
+                      +.    ....++..+    +..|.++||.....+.....--...|.++||+.+..|+.
+T Consensus        74 ~~----~~~~~~~~l----~~~D~n~DG~i~~~d~~~~~~f~~~D~n~DG~~~~~El~  123 (182)
+T 6SJX_A           74 GS----FAKHGYAAL----AELDSNGDNIINAADAAFQSLRVWQDLNQDGISQANELR  123 (182)
+T ss_dssp             SC----BCSSGGGGG----GGGCSSSSSEEETTSTHHHHCEEECCSSCCSCCCGGGEE
+T ss_pred             Cc----cccchHHHH----HHHhhCCCCeechhHHHHHHhHhHcccCCCCCcCHHHHH
+Confidence            00    001111111    235667777765553222222233466666666666553
+
+
+No 97
+>2WFT_A HEDGEHOG-INTERACTING PROTEIN; MEMBRANE, SECRETED, DEVELOPMENT, DISULFIDE BOND; 2.8A {HOMO SAPIENS}
+Probab=40.20  E-value=24  Score=46.42  Aligned_cols=74  Identities=12%  Similarity=0.167  Sum_probs=39.8  Template_Neff=9.700
+
+Q LOKIASV2_44640  433 LAGLLLDDSDYIYLC-GSTRED-IQTFNAFDDYRNNQDIFITKFNPDGQS--LNF---------------STYLGGSGYD  493 (1547)
+Q Consensus       433 ~~~i~vd~~g~iyv~-G~T~sd-~~t~~a~~~~~g~~D~FVaK~~~dG~~--L~y---------------STylGGsg~D  493 (1547)
+                      ..+|++++.|.+||+ |..... .+...+..  .......|.||++++..  +.|               .. +-..+.-
+T Consensus       141 ~~~l~~~~~G~lyv~~g~~~~~~~~~~~~~~--~~~~~g~i~ri~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~gl~  217 (458)
+T 2WFT_A          141 GGQLLFGPDGFLYIILGDGMITLDDMEEMDG--LSDFTGSVLRLDVDTDMCNVPYSIPRSNPHFNSTNQPPE-VFAHGLH  217 (458)
+T ss_dssp             EEEEEECTTSCEEEEECCTTCCHHHHHTCSS--CCSCTTEEEEEBCCCCCSSSSCBCCTTSTTSSCSSSCTT-EEEECCC
+T ss_pred             cccEEECCCCceEEEecCCcccccccccccc--cccCCCcEEEEeCCCCCCCCCCCCCCCCCCCCCCCCCCc-EEEEccC
+Confidence            467999999999995 433211 11111111  11234578888887640  000               11 1112334
+
+
+Q LOKIASV2_44640  494 YAKKIALDSS-NAIYVT  509 (1547)
+Q Consensus       494 ~~~~IavD~~-g~iyVt  509 (1547)
+                      ...+|++++. ++|||.
+T Consensus       218 ~p~gi~~~~~~~~l~~~  234 (458)
+T 2WFT_A          218 DPGRCAVDRHPTDININ  234 (458)
+T ss_dssp             SBCBCEEECCSSCSSCC
+T ss_pred             CcccceecCCCCCccee
+Confidence            5778999987 888654
+
+
+No 98
+>6D69_A GH06739p; protein-protein interaction, beta-propeller, limb girdle; 2.601A {Drosophila melanogaster}
+Probab=40.10  E-value=24  Score=40.14  Aligned_cols=18  Identities=22%  Similarity=0.161  Sum_probs=14.1  Template_Neff=13.800
+
+Q LOKIASV2_44640  494 YAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       494 ~~~~IavD~~g~iyVtG~  511 (1547)
+                      ....|++++.|.+||++.
+T Consensus       282 ~~~~~~~~~~g~~~~~~~  299 (307)
+T 6D69_A          282 GLEGVAIMSNGNILVCDR  299 (307)
+T ss_pred             ceEEEEECCCCCEEEEec
+Confidence            466788888888888764
+
+
+No 99
+>5WM0_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.1.14.17.3,4.3.2.5); PEPTIDYLGLYCINE MONOOXYGENASE, PEPTIDYLGLYCINE 2-HYDROXYLASE, PHM; 2.4A {Rattus norvegicus}
+Probab=39.32  E-value=25  Score=51.19  Aligned_cols=82  Identities=20%  Similarity=0.238  Sum_probs=42.0  Template_Neff=9.200
+
+Q LOKIASV2_44640  493 DYAKKIALDSSNAIYVTGYSGS----NDFPTINAYKSYKEGGSTNQYKEAIVTKINPDGQSLNFSTYLGGSDEYNSDYGR  568 (1547)
+Q Consensus       493 D~~~~IavD~~g~iyVtG~T~S----~dfPt~~a~~~~~~gg~~~~~~D~Fv~kl~~~g~~L~ySTylGGs~~~~~d~g~  568 (1547)
+                      ....+|++++.|++||++....    .+|.....++....    ....+..|.+++.....+...... +.    .....
+T Consensus       515 ~~v~~ia~s~dG~l~v~~~~~~~~~~~s~~~~~~~~~~~~----~~~~~~~I~v~d~~tg~~~~~~~~-~~----~~~p~  585 (976)
+T 5WM0_A          515 GQVSGVALDSKNNLVIFHRGDHVWDGNSFDSKFVYQQRGL----GPIEEDTILVIDPNNAEILQSSGK-NL----FYLPH  585 (976)
+T ss_pred             CCEEEEEECCCCCEEEEecCCCcEEEEcCCCCeeecCCCc----CCCCCCcEEEEeCCCCcEEeeecC-CC----CCCce
+Confidence            3567899999999999875431    11211111100000    011234456666655444322111 11    12345
+
+
+Q LOKIASV2_44640  569 VIDVDKDGYIYVAGK  583 (1547)
+Q Consensus       569 ~i~vD~~G~iyv~G~  583 (1547)
+                      .|+++.+|++||++.
+T Consensus       586 ~ia~~~dg~l~vt~~  600 (976)
+T 5WM0_A          586 GLSIDTDGNYWVTDV  600 (976)
+T ss_pred             EEEECCCCCEEEEEC
+Confidence            688888899998874
+
+
+No 100
+>3TC9_B Hypothetical hydrolase; 6-bladed beta-propeller, Immunoglobulin-like, Structural Genomics; HET: PO4, EDO; 2.23A {Bacteroides thetaiotaomicron}
+Probab=37.15  E-value=29  Score=44.32  Aligned_cols=61  Identities=10%  Similarity=0.129  Sum_probs=35.4  Template_Neff=11.300
+
+Q LOKIASV2_44640  302 IIEDIAIDS-EDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKTINFSTYIGGSESESGCFIQINQKNE-IYV  379 (1547)
+Q Consensus       302 ~~~~iavd~-~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~l~~sTylGGs~~D~~~~i~vd~~G~-iyv  379 (1547)
+                      ....|+++. .|++|++....                  .-|.|+++.+..+  .++++.........|++++.|+ +||
+T Consensus       227 ~~~~i~~~~~~~~lyv~~~~~------------------~~i~~~~~~~~~~--~~~~~~~~~~~p~~i~~~~~g~~lyv  286 (430)
+T 3TC9_B          227 NCNGAETHPINGELYFNSWNA------------------GQVFRYDFTTQET--TPLFTIQDSGWEFHIQFHPSGNYAYI  286 (430)
+T ss_dssp             SCCCEEECTTTCCEEEEETTT------------------TEEEEECTTTCCE--EEEEECSSSSCCEEEEECTTSSEEEE
+T ss_pred             CceeEEEeCCCCEEEEEECCC------------------CEEEEEECCCCce--eeeeecCCCCcEEEEEEeCCCCEEEE
+Confidence            456788887 78888864321                  1244555543322  2222322233466799999888 888
+
+
+Q LOKIASV2_44640  380 AGW  382 (1547)
+Q Consensus       380 ~G~  382 (1547)
+                      +..
+T Consensus       287 ~~~  289 (430)
+T 3TC9_B          287 VVV  289 (430)
+T ss_dssp             EET
+T ss_pred             EEE
+Confidence            754
+
+
+No 101
+>3E5Z_B putative Gluconolactonase; X-Ray NESG Q9RXN3 gluconolactonase, Structural; HET: MSE; 2.01A {Deinococcus radiodurans}
+Probab=36.84  E-value=29  Score=40.30  Aligned_cols=74  Identities=11%  Similarity=0.109  Sum_probs=38.8  Template_Neff=12.800
+
+Q LOKIASV2_44640  433 LAGLLLDDSDYIYLCGSTREDIQTFNAFDDYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       433 ~~~i~vd~~g~iyv~G~T~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~  511 (1547)
+                      ...|++++.|.+|+++...........+..........|.++++.+....   ...  ......+|++++.|.+||++.
+T Consensus       117 ~~~i~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~---~~~--~~~~~~~i~~~~~g~~~~~~~  190 (296)
+T 3E5Z_B          117 PNDVCLAPDGSLWFSDPTYGIDKPEEGYGGEMELPGRWVFRLAPDGTLSA---PIR--DRVKPNGLAFLPSGNLLVSDT  190 (296)
+T ss_dssp             CCCEEECTTSCEEEECCSHHHHCGGGSCCCCCCSSSCCEEEECTTSCEEE---EEC--CCSSEEEEEECTTSCEEEEET
+T ss_pred             CCcEEECCCCcEEEeCCCcCCCCCcccCCCccccCCeEEEEECCCCCEEc---Ccc--CccCcceEEEcCCCCEEEEEC
+Confidence            45688888889888875432111111110011112245666766653221   111  123466788888888887754
+
+
+No 102
+>6SJX_A Iron-regulated protein FrpA; Repeat in toxin proteins, calcium; HET: CA; NMR {Neisseria meningitidis serogroup C}
+Probab=35.31  E-value=32  Score=39.94  Aligned_cols=13  Identities=23%  Similarity=0.225  Sum_probs=5.8  Template_Neff=7.500
+
+Q LOKIASV2_44640 1053 NDTDGDGCSDGWE 1065 (1547)
+Q Consensus      1053 ~DtDgDG~~Dg~E 1065 (1547)
+                      .|.++||.....|
+T Consensus        27 ~D~d~DG~~~~~e   39 (182)
+T 6SJX_A           27 FDHNRDGIRTATG   39 (182)
+T ss_dssp             CCSSSCSSCCBSE
+T ss_pred             eccCCCCceeecc
+Confidence            3445555444333
+
+
+No 103
+>2WG3_C DESERT HEDGEHOG PROTEIN N-PRODUCT, HEDGEHOG-INTERACTING; LIPOPROTEIN, DEVELOPMENT, MEMBRANE, SECRETED, PROTEASE; HET: PO4, NAG; 2.6A {HOMO SAPIENS}
+Probab=34.54  E-value=33  Score=45.17  Aligned_cols=20  Identities=0%  Similarity=-0.100  Sum_probs=16.2  Template_Neff=9.700
+
+Q LOKIASV2_44640  363 SESGCFIQINQKN--EIYVAGW  382 (1547)
+Q Consensus       363 ~D~~~~i~vd~~G--~iyv~G~  382 (1547)
+                      .....+|+++++|  .+||+..
+T Consensus        13 l~~P~~la~~~~G~~~l~v~~~   34 (463)
+T 2WG3_C           13 LRQPVGALHSGDGSQRLFILEK   34 (463)
+T ss_dssp             ESSEEEEECCSSSSCCEEEEET
+T ss_pred             cCCceEEEeCCCCCceEEEEEe
+Confidence            4456789999999  9999875
+
+
+No 104
+>3KYA_A Putative phosphatase; Putative phosphatase, Structural Genomics, Joint; HET: EDO, ACT; 1.77A {Bacteroides thetaiotaomicron}
+Probab=33.47  E-value=36  Score=44.63  Aligned_cols=20  Identities=15%  Similarity=0.001  Sum_probs=15.0  Template_Neff=11.000
+
+Q LOKIASV2_44640  364 ESGCFIQINQKN-EIYVAGWT  383 (1547)
+Q Consensus       364 D~~~~i~vd~~G-~iyv~G~T  383 (1547)
+                      ....+|++++.| .+||+...
+T Consensus       310 ~~p~~i~~~~~g~~lyv~~~~  330 (496)
+T 3KYA_A          310 SWEFQIFIHPTGKYAYFGVIN  330 (496)
+T ss_dssp             SCCEEEEECTTSSEEEEEETT
+T ss_pred             CCcEEEEEeCCCCEEEEEEeC
+Confidence            345678999888 79987654
+
+
+No 105
+>5C2M_A Predicted protein; beta-propeller, STRUCTURAL PROTEIN; 1.9A {Nematostella vectensis}
+Probab=32.16  E-value=39  Score=40.54  Aligned_cols=147  Identities=15%  Similarity=0.226  Sum_probs=74.4  Template_Neff=9.700
+
+Q LOKIASV2_44640  300 WEIIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRK--TINFS---TYIGGSESESGCFIQINQK  374 (1547)
+Q Consensus       300 ~d~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~--~l~~s---TylGGs~~D~~~~i~vd~~  374 (1547)
+                      .....+|+++.+|++||+-.  .                  -|.|+++.+.  ...|.   .-++.........|+++++
+T Consensus        50 ~~~p~~i~~~~~G~lyv~~~--g------------------~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~  109 (250)
+T 5C2M_A           50 WANFSHLLFNPDGTLYGVVN--D------------------KFYKGPTPHRTSAEEWIAQATLIGDGGWGAFRFLFFDPH  109 (250)
+T ss_dssp             GGGCSEEEECTTSCEEEEET--T------------------EEEEECCCSSBCHHHHHHHSEEEEESSSTTCSEEEECTT
+T ss_pred             hhcccEEEECCCCCEEEEEC--C------------------EEEEeCCCCCCCCcchhhcceEecCCcccceeEEEECCC
+Confidence            34556799999999999853  0                  1222222110  00111   1122223345678999999
+
+
+Q LOKIASV2_44640  375 NEIYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGET-LNF---STYFGSSGFDGEILAGLLLDDSDYIYLCGST  450 (1547)
+Q Consensus       375 G~iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~-L~~---STylGgs~~d~~~~~~i~vd~~g~iyv~G~T  450 (1547)
+                      |.|||+. .                     +.|.|+++.+.. ..|   .+.++....  ....+|+++++|.+||+.  
+T Consensus       110 G~lyv~~-~---------------------g~i~~~~~~~~~~~~~~~~~~~~~~~~~--~~~~~i~~d~~G~lyv~~--  163 (250)
+T 5C2M_A          110 GVLYGVT-E---------------------DKLYKREPPSSDEDHWLGSANLLGAEGW--GDFEFLFFDPEGKLYGVV--  163 (250)
+T ss_dssp             SCEEEEE-T---------------------TEEEEECCCSSTTSCHHHHCEEEESSSG--GGCSEEEECTTCCEEEEE--
+T ss_pred             CcEEEEe-C---------------------CEEEEeCCCCCCcccccccceeccCCCC--ccccEEEECCCCcEEEEE--
+Confidence            9999985 1                     133344443321 111   122221111  124579999999999974  
+
+
+Q LOKIASV2_44640  451 REDIQTFNAFDDYRNNQDIFITKFNPDGQS-LNF---STYLGGSGYDYAKKIALDSSNAIYVT  509 (1547)
+Q Consensus       451 ~sd~~t~~a~~~~~g~~D~FVaK~~~dG~~-L~y---STylGGsg~D~~~~IavD~~g~iyVt  509 (1547)
+                      .                 .-|.|+++++.. ..|   ...+.........+|+++++|.+||+
+T Consensus       164 ~-----------------~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~g~lyv~  209 (250)
+T 5C2M_A          164 N-----------------GKLHKGDPPKDRHDAWLGSSTLFKGELWGNFRHLFFTSNGHLCGA  209 (250)
+T ss_dssp             T-----------------TEEEEESCCSSTTCCHHHHCEECSCSCGGGCSEEEECTTCCEEEE
+T ss_pred             C-----------------CEEEEeCCCCCCCccccccceeeecCccccccEEEECCCCeEEEE
+Confidence            1                 122233332210 001   01111223335678999999999987
+
+
+No 106
+>2WG3_C DESERT HEDGEHOG PROTEIN N-PRODUCT, HEDGEHOG-INTERACTING; LIPOPROTEIN, DEVELOPMENT, MEMBRANE, SECRETED, PROTEASE; HET: PO4, NAG; 2.6A {HOMO SAPIENS}
+Probab=31.49  E-value=41  Score=44.42  Aligned_cols=20  Identities=5%  Similarity=0.062  Sum_probs=15.7  Template_Neff=9.700
+
+Q LOKIASV2_44640  300 WEIIEDIAIDSED--AIYITGQ  319 (1547)
+Q Consensus       300 ~d~~~~iavd~~G--~vyv~G~  319 (1547)
+                      ......|+++++|  .+||+..
+T Consensus        13 l~~P~~la~~~~G~~~l~v~~~   34 (463)
+T 2WG3_C           13 LRQPVGALHSGDGSQRLFILEK   34 (463)
+T ss_dssp             ESSEEEEECCSSSSCCEEEEET
+T ss_pred             cCCceEEEeCCCCCceEEEEEe
+Confidence            3456688999999  8999875
+
+
+No 107
+>3FVZ_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.4.3.2.5); BETA PROPELLER, LYASE, PEPTIDE AMIDATION; HET: GOL; 2.35A {Rattus norvegicus}
+Probab=31.34  E-value=41  Score=39.43  Aligned_cols=31  Identities=19%  Similarity=0.130  Sum_probs=20.7  Template_Neff=13.200
+
+Q LOKIASV2_44640  480 SLNFSTYLGGSGYDYAKKIALDSSNAIYVTGYS  512 (1547)
+Q Consensus       480 ~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~T  512 (1547)
+                      ...|...  +.......+|++++.|.+||++..
+T Consensus        13 ~~~w~~~--~~~~~~~~~i~~~~~g~~~~~~~~   43 (329)
+T 3FVZ_A           13 ELDWPGV--YLLPGQVSGVALDSKNNLVIFHRG   43 (329)
+T ss_pred             hcccccc--CCCCCCceEEEECCCCCEEEEecC
+Confidence            3455554  223445778899999999998754
+
+
+No 108
+>3FW0_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.4.3.2.5); BETA PROPELLER, MERCURY, LYASE, PEPTIDE; HET: HH3; 2.52A {Rattus norvegicus}
+Probab=31.34  E-value=41  Score=39.43  Aligned_cols=31  Identities=19%  Similarity=0.130  Sum_probs=20.7  Template_Neff=13.200
+
+Q LOKIASV2_44640  480 SLNFSTYLGGSGYDYAKKIALDSSNAIYVTGYS  512 (1547)
+Q Consensus       480 ~L~ySTylGGsg~D~~~~IavD~~g~iyVtG~T  512 (1547)
+                      ...|...  +.......+|++++.|.+||++..
+T Consensus        13 ~~~w~~~--~~~~~~~~~i~~~~~g~~~~~~~~   43 (329)
+T 3FW0_A           13 ELDWPGV--YLLPGQVSGVALDSKNNLVIFHRG   43 (329)
+T ss_pred             hcccccc--CCCCCCceEEEECCCCCEEEEecC
+Confidence            3455554  223445778899999999998754
+
+
+No 109
+>5YYL_A Ig gamma-1 chain C region; Complex, Royal jelly, SIGNALING PROTEIN; HET: NAG, 94R; 2.65A {Apis mellifera}
+Probab=31.14  E-value=41  Score=43.41  Aligned_cols=19  Identities=5%  Similarity=0.065  Sum_probs=15.1  Template_Neff=10.600
+
+Q LOKIASV2_44640  365 SGCFIQINQKN-EIYVAGWT  383 (1547)
+Q Consensus       365 ~~~~i~vd~~G-~iyv~G~T  383 (1547)
+                      ...+|++++.| .+||+...
+T Consensus       252 ~p~gia~~~~g~~lyv~~~~  271 (432)
+T 5YYL_A          252 GISGMALSPMTNNLYYSPVA  271 (432)
+T ss_dssp             CEEEEEECTTTCEEEEEESS
+T ss_pred             CcceEEECCCCCeEEEEcCC
+Confidence            56789999988 89998654
+
+
+No 110
+>5YYL_B Ig gamma-1 chain C region; Complex, Royal jelly, SIGNALING PROTEIN; HET: NAG, 94R; 2.65A {Apis mellifera}
+Probab=31.14  E-value=41  Score=43.41  Aligned_cols=19  Identities=5%  Similarity=0.065  Sum_probs=14.3  Template_Neff=10.600
+
+Q LOKIASV2_44640  365 SGCFIQINQKN-EIYVAGWT  383 (1547)
+Q Consensus       365 ~~~~i~vd~~G-~iyv~G~T  383 (1547)
+                      ...+|++++.| .+||+...
+T Consensus       252 ~p~gia~~~~g~~lyv~~~~  271 (432)
+T 5YYL_B          252 GISGMALSPMTNNLYYSPVA  271 (432)
+T ss_dssp             CC-CCEECTTTCEEEECCSS
+T ss_pred             CcceEEECCCCCeEEEEcCC
+Confidence            56789999988 89998654
+
+
+No 111
+>3SRE_A serum paraoxonase (E.C.3.1.1.2); directed evolution, 6-blades-propeller fold, HYDROLASE; HET: LMT; 1.99A {artificial gene}
+Probab=30.89  E-value=42  Score=41.17  Aligned_cols=181  Identities=15%  Similarity=0.183  Sum_probs=81.0  Template_Neff=11.800
+
+Q LOKIASV2_44640  301 EIIEDIAIDSEDAIYITGQTASNDFPIYNPIDSQYNDYDAFLMKINPDRKT-INFSTYIGGS----ESESGCFIQI--NQ  373 (1547)
+Q Consensus       301 d~~~~iavd~~G~vyv~G~T~S~~fP~~~~~~~~~~~~D~FV~Kl~~~g~~-l~~sTylGGs----~~D~~~~i~v--d~  373 (1547)
+                      ....+|+++.+|.+||++...   +|......   ...+..|..++..+.. .++.--+.|.    ......+|++  ++
+T Consensus        50 ~~p~~i~~~~~g~~~v~~~~~---~~~~~~~~---~~~~~~i~~~d~~~~~~~~~~~~~~~~~~~~~~~~p~~i~~~~~~  123 (355)
+T 3SRE_A           50 NGSEDLEILPNGLAFISSGLK---YPGIMSFD---PDKSGKILLMDLNEKEPAVSELEIIGNTLDISSFNPHGISTFIDD  123 (355)
+T ss_dssp             SCCCEEEECTTSEEEEEECCC-----------------CCEEEEEETTSSSCCEEECEEECSSCCGGGCCEEEEEEEECT
+T ss_pred             CCcceEEEcCCCcEEEEecCC---CCCCccCC---CCCCCeEEEEeCCCCCCceEEeeccCCCCcccccccceEEEEECC
+Confidence            456788888889999987532   22111110   0012334444444331 1111111111    1234567888  88
+
+
+Q LOKIASV2_44640  374 KNE--IYVAGWTYSPDFPVLNAYKSVYSGTRRNSFLCKFNPSGETLNFSTYFGSSGFDGEILAGLLLDDSDYIYLCGSTR  451 (1547)
+Q Consensus       374 ~G~--iyv~G~T~S~dfP~~~a~~~~~~G~~~D~Fv~Kln~~G~~L~~STylGgs~~d~~~~~~i~vd~~g~iyv~G~T~  451 (1547)
+                      +|+  +||+.....                .....|.+++..+..+....-++....  ....+|++++.|++||+....
+T Consensus       124 ~g~~~l~v~~~~~~----------------~~~~~i~~~~~~~~~~~~~~~~~~~~~--~~~~~i~~~~~g~~~v~~~~~  185 (355)
+T 3SRE_A          124 DNTVYLLVVNHPGS----------------SSTVEVFKFQEEEKSLLHLKTIRHKLL--PSVNDIVAVGPEHFYATNDHY  185 (355)
+T ss_dssp             TCCEEEEEEECSTT----------------CCEEEEEEEETTTTEEEEEEEECCTTC--SSEEEEEEEETTEEEEEESCS
+T ss_pred             CCeEEEEEEeCCCC----------------CCeEEEEEEeCccceEEEEEEeeCCcC--CCcccEEEeCCCcEEEEcccc
+Confidence            888  888754210                012344555554422211111111111  124678888888999987542
+
+
+Q LOKIASV2_44640  452 EDIQTFNAFDDYRNNQDIFITKFNPDGQSLNFSTYLGGSGYDYAKKIALDSSN-AIYVTGY  511 (1547)
+Q Consensus       452 sd~~t~~a~~~~~g~~D~FVaK~~~dG~~L~ySTylGGsg~D~~~~IavD~~g-~iyVtG~  511 (1547)
+                      ........+..........|.+++......    .  ........+|++++.| .+||+..
+T Consensus       186 ~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~----~--~~~~~~~~~i~~~~~g~~l~v~~~  240 (355)
+T 3SRE_A          186 FIDPYLKSWEMHLGLAWSFVTYYSPNDVRV----V--AEGFDFANGINISPDGKYVYIAEL  240 (355)
+T ss_dssp             CSSHHHHHHHHHTTCCCEEEEEECTTCCEE----E--EEEESSEEEEEECTTSSEEEEEEG
+T ss_pred             ccccchHHHHHHhcCCCcEEEEEchhheEE----e--ecCcccCceEEECCCCCEEEEEEC
+Confidence            111000000000011133455555431100    0  0112346789999988 8888753
+
+
+No 112
+>5WM0_A Peptidyl-glycine alpha-amidating monooxygenase (E.C.1.14.17.3,4.3.2.5); PEPTIDYLGLYCINE MONOOXYGENASE, PEPTIDYLGLYCINE 2-HYDROXYLASE, PHM; 2.4A {Rattus norvegicus}
+Probab=25.37  E-value=61  Score=47.45  Aligned_cols=19  Identities=16%  Similarity=0.384  Sum_probs=14.5  Template_Neff=9.200
+
+Q LOKIASV2_44640  493 DYAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       493 D~~~~IavD~~g~iyVtG~  511 (1547)
+                      ....+|++++.|.+||++.
+T Consensus       783 ~~p~~ia~s~dG~l~v~~~  801 (976)
+T 5WM0_A          783 DMPHDIVASEDGTVYIGDA  801 (976)
+T ss_pred             CCceEEEECCCCCEEEEEc
+Confidence            4567888888888888753
+
+
+No 113
+>3HRP_A Uncharacterized protein; NP_812590.1, Structural genomics protein of; HET: EDO; 1.7A {Bacteroides thetaiotaomicron VPI-5482}
+Probab=24.31  E-value=66  Score=40.45  Aligned_cols=20  Identities=5%  Similarity=0.149  Sum_probs=16.1  Template_Neff=11.800
+
+Q LOKIASV2_44640  364 ESGCFIQINQKNEIYVAGWT  383 (1547)
+Q Consensus       364 D~~~~i~vd~~G~iyv~G~T  383 (1547)
+                      ....+|+++++|++||+...
+T Consensus       323 ~~p~~i~~~~~g~l~v~~~~  342 (409)
+T 3HRP_A          323 AQPNGMTVDEDGNFYIVDGF  342 (409)
+T ss_dssp             SSEEEEEECTTCCEEEEETT
+T ss_pred             CCceEEEECCCCCEEEEeCC
+Confidence            34678999999999998754
+
+
+No 114
+>6D69_A GH06739p; protein-protein interaction, beta-propeller, limb girdle; 2.601A {Drosophila melanogaster}
+Probab=24.24  E-value=66  Score=36.64  Aligned_cols=18  Identities=22%  Similarity=0.305  Sum_probs=13.7  Template_Neff=13.800
+
+Q LOKIASV2_44640  494 YAKKIALDSSNAIYVTGY  511 (1547)
+Q Consensus       494 ~~~~IavD~~g~iyVtG~  511 (1547)
+                      ....|++++.|++|+++.
+T Consensus       188 ~~~~~~~~~~~~~~~~~~  205 (307)
+T 6D69_A          188 HPHYIAVSNTNRVIVSDS  205 (307)
+T ss_pred             ceeEEEEcCCCCEEEEeC
+Confidence            466788888888888764
+
+
+No 115
+>3TC9_B Hypothetical hydrolase; 6-bladed beta-propeller, Immunoglobulin-like, Structural Genomics; HET: PO4, EDO; 2.23A {Bacteroides thetaiotaomicron}
+Probab=23.70  E-value=69  Score=40.99  Aligned_cols=19  Identities=16%  Similarity=0.055  Sum_probs=13.8  Template_Neff=11.300
+
+Q LOKIASV2_44640  301 EIIEDIAIDSEDA-IYITGQ  319 (1547)
+Q Consensus       301 d~~~~iavd~~G~-vyv~G~  319 (1547)
+                      .....|+++..|+ +||+..
+T Consensus       270 ~~p~~i~~~~~g~~lyv~~~  289 (430)
+T 3TC9_B          270 GWEFHIQFHPSGNYAYIVVV  289 (430)
+T ss_dssp             SCCEEEEECTTSSEEEEEET
+T ss_pred             CcEEEEEEeCCCCEEEEEEE
+Confidence            3456788888887 888654
+
+

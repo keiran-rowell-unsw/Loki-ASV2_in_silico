@@ -1,0 +1,2385 @@
+Query         LOKIASV2_40800 hypothetical protein
+Match_columns 2326
+No_of_seqs    370 out of 407
+Neff          6.05956
+Searched_HMMs 80799
+Date          Sat Sep 14 11:26:57 2024
+Command       /usr/bin/hhsearch -i /tmp/tmpl7jz1gsc/query.a3m -o /tmp/tmpl7jz1gsc/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4E9L_A FdeC; invasin-like, bac  96.0 0.00033   4E-09   92.0   0.0  311 1849-2177   44-368 (420)
+  2 4E9L_A FdeC; invasin-like, bac  94.9  0.0035 4.3E-08   82.6   0.0  331 1749-2104   49-398 (420)
+  3 4E9L_A FdeC; invasin-like, bac  93.8   0.015 1.8E-07   76.9   0.0  347  979-1345   19-382 (420)
+  4 4E9L_A FdeC; invasin-like, bac  93.3   0.022 2.7E-07   75.4   0.0  249 1914-2176    6-261 (420)
+  5 3E8V_A Possible transglutamina  88.1    0.25 3.1E-06   50.2   0.0   55  412-468     2-59  (82)
+  6 1CWV_A INVASIN; INTEGRIN-BINDI  85.9    0.42 5.2E-06   65.3   0.0  240 1914-2177   26-272 (492)
+  7 1CWV_A INVASIN; INTEGRIN-BINDI  85.3    0.48   6E-06   64.8   0.0  253 1809-2089   24-288 (492)
+  8 1CWV_A INVASIN; INTEGRIN-BINDI  83.7    0.65 8.1E-06   63.6   0.0  252 1065-1342   22-282 (492)
+  9 5LDY_A Ig domain protein group  81.8    0.88 1.1E-05   60.2   0.0  244 1914-2174   43-300 (357)
+ 10 5LDY_B Ig domain protein group  81.8    0.88 1.1E-05   60.2   0.0  244 1914-2174   43-300 (357)
+ 11 1WLH_A Gelation factor; ABP-12  73.6     2.4 2.9E-05   53.9   0.0  242 1910-2178   18-266 (311)
+ 12 4ILT_C Intradiol ring-cleavage  72.9     2.5 3.1E-05   49.6   0.0   61  407-468    29-98  (155)
+ 13 4ILT_D Intradiol ring-cleavage  72.9     2.5 3.1E-05   49.6   0.0   61  407-468    29-98  (155)
+ 14 1WLH_B Gelation factor; ABP-12  72.0     2.8 3.4E-05   53.3   0.0  242 1910-2178   18-266 (311)
+ 15 4OQ1_A Cell wall surface ancho  70.3     3.2   4E-05   54.6   0.0  135  410-550   148-313 (368)
+ 16 5LDY_A Ig domain protein group  68.4     3.8 4.7E-05   54.6   0.0  139  409-550    43-189 (357)
+ 17 5LDY_B Ig domain protein group  68.4     3.8 4.7E-05   54.6   0.0  139  409-550    43-189 (357)
+ 18 4OQ1_A Cell wall surface ancho  68.0     3.9 4.8E-05   53.9   0.0   63  409-472    48-118 (368)
+ 19 6FWV_B Collagen Adhesion prote  66.9     4.3 5.3E-05   56.3   0.0  132  409-548   258-392 (526)
+ 20 4UIC_A SURFACE LAYER PROTEIN;   63.8     5.4 6.6E-05   59.1   0.0  307 1810-2153  450-781 (814)
+ 21 6FWV_A Collagen Adhesion prote  63.1     5.6   7E-05   55.2   0.0  132  409-548   258-392 (526)
+ 22 4UIC_A SURFACE LAYER PROTEIN;   61.6     6.3 7.8E-05   58.4   0.0  302 1702-2048  450-781 (814)
+ 23 2BOY_A 3-CHLOROCATECHOL 1,2-DI  60.7     6.7 8.2E-05   50.0   0.0   57  408-465   100-170 (254)
+ 24 2BOY_B 3-CHLOROCATECHOL 1,2-DI  59.9     7.1 8.7E-05   49.8   0.0   57  408-465   100-170 (254)
+ 25 6R6I_A Transthyretin; Amyloido  59.4     7.3   9E-05   45.7   0.0   59  408-467    27-94  (147)
+ 26 3HHY_A Catechol 1,2-dioxygenas  58.7     7.6 9.5E-05   50.2   0.0   58  408-466   129-200 (280)
+ 27 6R66_A Transthyretin; Amyloido  58.7     7.7 9.5E-05   45.5   0.0   60  408-468    27-95  (147)
+ 28 1TMX_A hydroxyquinol 1,2-dioxy  57.8     8.1  0.0001   50.3   0.0   58  407-465   130-200 (293)
+ 29 3N9T_A PnpC (E.C.1.13.11.37);   57.3     8.4  0.0001   50.0   0.0   57  407-464   126-196 (290)
+ 30 5LDY_A Ig domain protein group  57.1     8.5 0.00011   51.4   0.0  136  409-547   141-299 (357)
+ 31 5LDY_B Ig domain protein group  57.1     8.5 0.00011   51.4   0.0  136  409-547   141-299 (357)
+ 32 2XSU_A CATECHOL 1,2 DIOXYGENAS  57.0     8.6 0.00011   50.4   0.0   57  408-465   134-204 (312)
+ 33 3MV4_N Protocatechuate 3,4-dio  57.0     8.6 0.00011   48.7   0.0   59  406-465    73-150 (238)
+ 34 3O5U_A Chlorocatechol 1,2-diox  56.9     8.6 0.00011   49.2   0.0   56  408-464   101-171 (257)
+ 35 3O6J_B Chlorocatechol 1,2-diox  56.9     8.6 0.00011   49.2   0.0   56  408-464   101-171 (257)
+ 36 3I4Y_A Catechol 1,2-dioxygenas  56.2       9 0.00011   49.4   0.0   57  408-465   119-189 (270)
+ 37 3TH1_A Chlorocatechol 1,2-diox  56.1       9 0.00011   49.1   0.0   57  408-465    97-167 (260)
+ 38 3TH1_C Chlorocatechol 1,2-diox  56.1       9 0.00011   49.1   0.0   57  408-465    97-167 (260)
+ 39 6FWV_B Collagen Adhesion prote  54.8     9.9 0.00012   52.9   0.0  134  408-547   344-482 (526)
+ 40 2XSV_A CATECHOL 1,2 DIOXYGENAS  54.3      10 0.00013   49.8   0.0   57  408-465   134-204 (312)
+ 41 5FTX_A SURFACE LAYER PROTEIN;   54.3      10 0.00013   54.9   0.0  268 1852-2151   73-363 (653)
+ 42 1CWV_A INVASIN; INTEGRIN-BINDI  54.0      10 0.00013   52.4   0.0  136  409-550    26-170 (492)
+ 43 1DLQ_A CATECHOL 1,2-DIOXYGENAS  52.0      12 0.00015   49.3   0.0   58  407-465   130-203 (311)
+ 44 1DMH_B CATECHOL 1,2-DIOXYGENAS  52.0      12 0.00015   49.3   0.0   58  407-465   130-203 (311)
+ 45 1EOA_B PROTOCATECHUATE 3,4-DIO  52.0      12 0.00015   47.6   0.0   58  407-465    75-151 (241)
+ 46 2BUQ_B PROTOCATECHUATE 3,4-DIO  52.0      12 0.00015   47.6   0.0   58  407-465    75-151 (241)
+ 47 2BV0_B PROTOCATECHUATE 3,4-DIO  52.0      12 0.00015   47.6   0.0   58  407-465    75-151 (241)
+ 48 2AZQ_A catechol 1,2-dioxygenas  51.6      12 0.00015   49.2   0.0   57  408-465   130-200 (311)
+ 49 4UIC_A SURFACE LAYER PROTEIN;   51.4      12 0.00015   55.6   0.0  137 2017-2176  450-590 (814)
+ 50 6FWV_A Collagen Adhesion prote  50.5      13 0.00016   51.8   0.0  134  408-547   344-482 (526)
+ 51 4ILV_B Intradiol ring-cleavage  49.1      14 0.00017   47.2   0.0   55  408-463    62-125 (248)
+ 52 3PCB_D PROTOCATECHUATE 3,4-DIO  47.0      16  0.0002   45.2   0.0   57  407-464    45-116 (200)
+ 53 4WHS_A 3,4-PCD alpha subunit (  47.0      16  0.0002   45.2   0.0   57  407-464    45-116 (200)
+ 54 4WHP_D 3,4-PCD alpha subunit (  45.6      17 0.00021   46.1   0.0   58  406-464    73-149 (238)
+ 55 4WHS_D 3,4-PCD alpha subunit (  45.6      17 0.00021   46.1   0.0   58  406-464    73-149 (238)
+ 56 5VG2_A Intradiol ring-cleavage  45.4      17 0.00022   45.8   0.0   56  407-463    36-117 (229)
+ 57 3PHS_A Cell wall surface ancho  45.2      18 0.00022   45.3   0.0   57  411-468    28-106 (249)
+ 58 6BDJ_U Tetur07g02040; dioxygen  43.7      19 0.00024   45.9   0.0   56  407-463    61-142 (245)
+ 59 6BDJ_A Tetur07g02040; dioxygen  42.7      20 0.00025   45.7   0.0   55  408-463    62-142 (245)
+ 60 4UIC_A SURFACE LAYER PROTEIN;   41.0      23 0.00028   52.9   0.0  235 1913-2177  450-700 (814)
+ 61 5UMH_B Catechol 1,2-dioxygenas  40.6      23 0.00029   46.8   0.0   56  408-464   139-210 (319)
+ 62 2BUZ_A PROTOCATECHUATE 3,4-DIO  39.9      24  0.0003   44.0   0.0   58  407-465    49-126 (209)
+ 63 2BV0_A PROTOCATECHUATE 3,4-DIO  39.9      24  0.0003   44.0   0.0   58  407-465    49-126 (209)
+ 64 4UJ6_A SURFACE LAYER PROTEIN;   39.2      25 0.00031   52.0   0.0  232 1914-2177  347-591 (760)
+ 65 1WLH_A Gelation factor; ABP-12  38.3      27 0.00033   44.8   0.0  225 1850-2102   60-292 (311)
+ 66 2L16_A Sec-independent protein  36.6      30 0.00037   36.6   0.0   50 2249-2298   22-71  (78)
+ 67 1WLH_B Gelation factor; ABP-12  36.2      30 0.00037   44.2   0.0  225 1850-2102   60-292 (311)
+ 68 1WLH_B Gelation factor; ABP-12  35.8      31 0.00038   44.1   0.0   69 1066-1139   19-90  (311)
+ 69 5FTX_A SURFACE LAYER PROTEIN;   35.2      32  0.0004   50.1   0.0  421 1699-2176   31-517 (653)
+ 70 1WLH_A Gelation factor; ABP-12  33.8      35 0.00043   43.8   0.0   69 1066-1139   19-90  (311)
+ 71 3RKP_A Collagen adhesion prote  31.5      41  0.0005   44.4   0.0   58  407-465     4-62  (355)
+ 72 4UJ6_A SURFACE LAYER PROTEIN;   30.7      43 0.00053   49.8   0.0  236 1912-2177  449-700 (760)
+ 73 3KPT_B Collagen adhesion prote  29.9      45 0.00056   43.9   0.0   58  407-465     4-62  (355)
+ 74 5N40_A Putative invasin; Adhes  29.4      46 0.00057   44.7   0.0  158 1811-1981   27-206 (352)
+ 75 4OQ1_A Cell wall surface ancho  27.4      53 0.00066   43.7   0.0   58  409-467   256-323 (368)
+ 76 2LV4_A Putative outer membrane  26.8      55 0.00068   37.4   0.0   55  406-469    61-119 (146)
+ 77 6FWV_A Collagen Adhesion prote  26.5      56  0.0007   45.8   0.0   59  409-469   436-496 (526)
+ 78 5N40_A Putative invasin; Adhes  26.1      58 0.00072   43.8   0.0   59  409-469    27-88  (352)
+ 79 5LDY_A Ig domain protein group  26.0      58 0.00072   43.9   0.0  237 1811-2068   43-300 (357)
+ 80 5LDY_B Ig domain protein group  26.0      58 0.00072   43.9   0.0  237 1811-2068   43-300 (357)
+ 81 5FTX_A SURFACE LAYER PROTEIN;   25.4      61 0.00075   47.5   0.0  236 1910-2177   31-282 (653)
+ 82 6FWV_B Collagen Adhesion prote  24.8      64 0.00079   45.3   0.0   58  410-469   437-496 (526)
+ 83 6RPT_A Complement C5, Putative  24.1      67 0.00083   36.7   0.0   46  409-454    40-94  (133)
+ 84 5N40_A Putative invasin; Adhes  23.4      70 0.00087   43.1   0.0  147 2018-2178   27-191 (352)
+ 85 4UJ6_A SURFACE LAYER PROTEIN;   22.8      74 0.00091   47.5   0.0  240 1067-1343  449-712 (760)
+ 86 1WLH_A Gelation factor; ABP-12  21.2      83   0.001   40.5   0.0  211 1006-1244   63-282 (311)
+ 87 4ZJH_A alpha-2-Macroglobulin;   20.7      87  0.0011   38.4   0.0   46  411-456   141-187 (208)
+ 88 1WLH_B Gelation factor; ABP-12  20.6      87  0.0011   40.3   0.0  211 1006-1244   63-282 (311)
+ 89 6HIF_d Hydrazine dehydrogenase  20.5      88  0.0011   34.0   0.0   51  410-469    30-80  (114)
+
+No 1
+>4E9L_A FdeC; invasin-like, bacterial immunoglobulin, pathogenic, vaccine; 1.9A {Escherichia coli}
+Probab=96.02  E-value=0.00033  Score=91.96  Aligned_cols=311  Identities=11%  Similarity=0.117  Sum_probs=179.8  Template_Neff=10.300
+
+Q LOKIASV2_40800 1849 LTPQSGSTYQRTFNTINFGQQGTYTFQISFQLNQYQSRQVIITVYINGIT---TDMTTEEDEYSVLWNEIMVFSVNFSDT 1925 (2326)
+Q Consensus      1849 l~~~s~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~~~~~i~i~V~~i~---T~lt~~~~~~sv~wge~i~itv~y~D~ 1925 (2326)
+                      ..++++|.|.+++.+.   ..|.++|++++.+......+..+.|......   ..+..+  +..+..++...++++++|.
+T Consensus        44 ~~td~~G~~~~~~~~~---~~G~~~v~a~~~~~~~~~~~~~v~v~~~~~~~~~~~~~~~--~~~~~~~~~~~~~v~~~D~  118 (420)
+T 4E9L_A           44 ISEIKPGVYSATVSST---RAGNVVVRAFSEQYQLGTLQQTLKFVAGPLDAAHSSITLN--PDKPVVGGTVTAIWTAKDA  118 (420)
+T ss_dssp             -------------------------------------------CCCCCCCGGGCEEEEE--SSSCBTTSEEEEEEECBCT
+T ss_pred             eEEeCCeEEEEEEEec---CCceEEEEEEECCccceeccEEEEEEcCCCCcccceEEeC--CCCCccCCEEEEEEEEEcC
+Confidence            4578899999999876   6899999999987654334445555544322   333333  3445667778889999999
+
+
+Q LOKIASV2_40800 1926 HNNLPITDGTLNYSVGQVSGF----IGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFIDINRIPTR 2001 (2326)
+Q Consensus      1926 ~~n~pI~~Atvsy~~~~~sg~----~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I~~ipT~ 2001 (2326)
+                      + |+|++++.+.|........    .....++++|.|++.+.+.  ..+|.+.|++++.+.........  +.+......
+T Consensus       119 ~-g~pv~~~~v~~~~~~~~~~~~~~~~~~~t~~~G~~~~~~~a~--~~~G~~~i~~~~~~~~~~~~~~~--v~~~~~~~~  193 (420)
+T 4E9L_A          119 N-DNPVTGLNPDAPSLSGAAAAGSTASGWTDNGDGTWTAQISLG--TTAGELDVMPKLNGQDAAANAAK--VTVVADALS  193 (420)
+T ss_dssp             T-CCBCCSCCCCCCEEESGGGTTCEECCCEECSSSEEEEEEECC--SCCEEEEEECEETTEECSSSCEE--EEEBCCSBC
+T ss_pred             C-CCcCCCCcCcccccCccccCCCccccEEeCCCeEEEEEEEcC--CCceEEEEEEEECCccccccceE--EEEEeCCCC
+Confidence            8 9999999999987654321    1334578899999999855  67899999998876543222233  444444332
+
+
+Q LOKIASV2_40800 2002 INNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENANIAYVEWELVGEG--ITREFNLIETGQGTYLLDFNTSTRPLGDY 2079 (2326)
+Q Consensus      2002 Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~g--i~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y 2079 (2326)
+                      .....+......+..++...+++.++|.+|+|+.+..+   .|...+..  ........++++|.|.+++. .....|.|
+T Consensus       194 ~~~~~~~~~~~~~~~g~~~~~~~~~~D~~g~~v~~~~v---~~~~~~~~~~~~~~~~~~t~~~G~~~~t~~-~~~~~g~~  269 (420)
+T 4E9L_A          194 SNQSKVSVAEDHVKAGESTTVTLVAKDAHGNAISGLSL---SASLTGTASEGATVSSWTEKGDGSYVATLT-TGGKTGEL  269 (420)
+T ss_dssp             TTTCEEEESCSEEETTCEEEEEEECBBTTCCBCCSCCE---EEEEESGGGTTCEECCCEEEETTEEEEEEE-CCSCCEEE
+T ss_pred             cccceEEEcCCeeeCCCeEEEEEEEECCCCCccCCcEE---EEEEecCCCCCceeeeeEEcCCeEEEEEEE-cCCCceEE
+Confidence            22222222233445567788999999999999999988   77665422  11224567789999999987 45679999
+
+
+Q LOKIASV2_40800 2080 NFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKTPLSGATVTLEFEAWDIQ-- 2157 (2326)
+Q Consensus      2080 ~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~~I~gAtV~l~~~~~~~~-- 2157 (2326)
+                      .|.+.+.+.....  .+..+.+..+...... ..+.........+....|+++++|.. |+|+.|++|.|........  
+T Consensus       270 ~v~~~~~~~~~~~--~~~~~~v~~~~~~~~~-~~~~~~~~~~~~~~~~~~~v~v~D~~-gn~v~~~~V~~~~~~~~~~~~  345 (420)
+T 4E9L_A          270 RVMPLFNGQPAAT--EAAQLTVIAGEMSSAN-STLVADNKTPTVKTTTELTFTMKDAY-GNPVTGLKPDAPVFSGAASTG  345 (420)
+T ss_dssp             EEEEEETTEECSS--SCEEEEEECCSBCTTT-CEEEESCSSCBTTCEEEEEEECBBTT-SCBCCSCCCCCCEEESGGGCS
+T ss_pred             EEEeEECCccccc--ccceEEEEcCCCCccc-ceEEECCCCCCCCceEEEEEEEEcCC-CCcCCCccceeeeecCCcCCC
+Confidence            9999887765432  3345555554432221 22333343456677889999999998 9999999999987543210  
+
+
+Q LOKIASV2_40800 2158 ---NITLTEVENQNGTYRYVLDT 2177 (2326)
+Q Consensus      2158 ---~~~~t~~~~~~GtY~~~i~t 2177 (2326)
+                         .......++.+|.|++++.+
+T Consensus       346 ~~~~~~~~~~t~~~G~~~~~~~~  368 (420)
+T 4E9L_A          346 SERPSAGNWTEKGNGVYVSTLTL  368 (420)
+T ss_dssp             SSCCEECCCEEEETTEEEEEEEC
+T ss_pred             CCCCccCccEEcCCeEEEEEEEe
+Confidence               12244567889999999875
+
+
+No 2
+>4E9L_A FdeC; invasin-like, bacterial immunoglobulin, pathogenic, vaccine; 1.9A {Escherichia coli}
+Probab=94.91  E-value=0.0035  Score=82.57  Aligned_cols=331  Identities=15%  Similarity=0.150  Sum_probs=168.6  Template_Neff=10.300
+
+Q LOKIASV2_40800 1749 EEKYQRIFNSTAFGNNGTYTFQIQAERSGYGSRQMVITVQILIVPTNLVSNHANNEINTYWGDSFTLDLDLFDIRDPQNP 1828 (2326)
+Q Consensus      1749 ~g~Y~l~inTT~lg~~GtYt~tIt~~ks~Y~s~~~~itl~I~~ipT~li~~~~~~~~s~~wGdnvtI~i~~~d~~d~~~~ 1828 (2326)
+                      +|.|.+.+...   ..|.|++++++...........+.+...........- .........++..++.+.+.|   . ++
+T Consensus        49 ~G~~~~~~~~~---~~G~~~v~a~~~~~~~~~~~~~v~v~~~~~~~~~~~~-~~~~~~~~~~~~~~~~v~~~D---~-~g  120 (420)
+T 4E9L_A           49 PGVYSATVSST---RAGNVVVRAFSEQYQLGTLQQTLKFVAGPLDAAHSSI-TLNPDKPVVGGTVTAIWTAKD---A-ND  120 (420)
+T ss_dssp             --------------------------------------CCCCCCCGGGCEE-EEESSSCBTTSEEEEEEECBC---T-TC
+T ss_pred             CeEEEEEEEec---CCceEEEEEEECCccceeccEEEEEEcCCCCcccceE-EeCCCCCccCCEEEEEEEEEc---C-CC
+Confidence            46787766532   4688888887754432222222333222111111000 001112234455666665433   2 34
+
+
+Q LOKIASV2_40800 1829 QPINQASVLSYTVA-GFG-----TGYLTPQSGSTYQRTFN-TINFGQQGTYTFQISFQLNQYQSRQVIITVYINGIT--- 1898 (2326)
+Q Consensus      1829 ~~I~~asi~~~s~~-~~~-----s~~l~~~s~G~Y~itin-Ts~~~~~GtYt~~Itask~~Y~~~~~~i~i~V~~i~--- 1898 (2326)
+                      .|+.+..+. +... ...     .....++.+|.|.+++. ..   ..|.+.+.+.+.+.........+.+......   
+T Consensus       121 ~pv~~~~v~-~~~~~~~~~~~~~~~~~~t~~~G~~~~~~~a~~---~~G~~~i~~~~~~~~~~~~~~~v~~~~~~~~~~~  196 (420)
+T 4E9L_A          121 NPVTGLNPD-APSLSGAAAAGSTASGWTDNGDGTWTAQISLGT---TAGELDVMPKLNGQDAAANAAKVTVVADALSSNQ  196 (420)
+T ss_dssp             CBCCSCCCC-CCEEESGGGTTCEECCCEECSSSEEEEEEECCS---CCEEEEEECEETTEECSSSCEEEEEBCCSBCTTT
+T ss_pred             CcCCCCcCc-ccccCccccCCCccccEEeCCCeEEEEEEEcCC---CceEEEEEEEECCccccccceEEEEEeCCCCccc
+Confidence            567654331 1111 100     12244688999999987 44   6899999988876442223334444443321   
+
+
+Q LOKIASV2_40800 1899 TDMTTEEDEYSVLWNEIMVFSVNFSDTHNNLPITDGTLNYSVGQVSG---FIGNLNHSENGIYTLTLNSTQFPSVGTYTM 1975 (2326)
+Q Consensus      1899 T~lt~~~~~~sv~wge~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg---~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I 1975 (2326)
+                      ..+...  ...+..++...+++.++|.+ |+|+.+..|.|.......   ......++.+|.|++++.+.  ..+|.+.|
+T Consensus       197 ~~~~~~--~~~~~~g~~~~~~~~~~D~~-g~~v~~~~v~~~~~~~~~~~~~~~~~~t~~~G~~~~t~~~~--~~~g~~~v  271 (420)
+T 4E9L_A          197 SKVSVA--EDHVKAGESTTVTLVAKDAH-GNAISGLSLSASLTGTASEGATVSSWTEKGDGSYVATLTTG--GKTGELRV  271 (420)
+T ss_dssp             CEEEES--CSEEETTCEEEEEEECBBTT-CCBCCSCCEEEEEESGGGTTCEECCCEEEETTEEEEEEECC--SCCEEEEE
+T ss_pred             ceEEEc--CCeeeCCCeEEEEEEEECCC-CCccCCcEEEEEEecCCCCCceeeeeEEcCCeEEEEEEEcC--CCceEEEE
+Confidence            122222  33455677788999999998 999999999988754321   12335568899999999844  57899999
+
+
+Q LOKIASV2_40800 1976 RITATKFQYETQILDIFIDINRIPTRINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENANIAYVEWELVGEG----- 2050 (2326)
+Q Consensus      1976 ~Ita~k~nY~t~~~~~~l~I~~ipT~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~g----- 2050 (2326)
+                      ++.............  +.+...........+.........+....+++.++|..|+++.|..|   .|......     
+T Consensus       272 ~~~~~~~~~~~~~~~--~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~v~D~~gn~v~~~~V---~~~~~~~~~~~~~  346 (420)
+T 4E9L_A          272 MPLFNGQPAATEAAQ--LTVIAGEMSSANSTLVADNKTPTVKTTTELTFTMKDAYGNPVTGLKP---DAPVFSGAASTGS  346 (420)
+T ss_dssp             EEEETTEECSSSCEE--EEEECCSBCTTTCEEEESCSSCBTTCEEEEEEECBBTTSCBCCSCCC---CCCEEESGGGCSS
+T ss_pred             EeEECCcccccccce--EEEEcCCCCcccceEEECCCCCCCCceEEEEEEEEcCCCCcCCCccc---eeeeecCCcCCCC
+Confidence            888765543222223  33433322111111111222233455678889999999999999888   67543321     
+
+
+Q LOKIASV2_40800 2051 -ITREFNLIETGQGTYLLDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPR 2104 (2326)
+Q Consensus      2051 -i~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R 2104 (2326)
+                       ......+.++.+|.|.+++. .....|.|.|.+++.+.....  .+..++|.+.
+T Consensus       347 ~~~~~~~~~t~~~G~~~~~~~-~~~~~G~~ti~a~~~g~~~~~--~~~~~~v~~~  398 (420)
+T 4E9L_A          347 ERPSAGNWTEKGNGVYVSTLT-LGSAAGQLSVMPRVNGQNAVA--QPLVLNVAGD  398 (420)
+T ss_dssp             SCCEECCCEEEETTEEEEEEE-CCSCCEEEEEECEETTEECSS--SCEEEEEBC-
+T ss_pred             CCCccCccEEcCCeEEEEEEE-eecCceEEEEEEEECCEECcc--cCEEEEEEcc
+Confidence             01123566789999999998 436789999999888765332  3344554443
+
+
+No 3
+>4E9L_A FdeC; invasin-like, bacterial immunoglobulin, pathogenic, vaccine; 1.9A {Escherichia coli}
+Probab=93.75  E-value=0.015  Score=76.92  Aligned_cols=347  Identities=14%  Similarity=0.101  Sum_probs=133.0  Template_Neff=10.300
+
+Q LOKIASV2_40800  979 SQDLSGATVKLNWDFET--NVRLVEQTAHGMTNYTYMINTSKSDTLGQYRFDLSISLLNHTSHTTYFNLRIEEIETSVNE 1056 (2326)
+Q Consensus       979 ~~~L~gatiT~~W~~~~--~~~~~e~~~~g~g~Yt~~inTS~~~~~G~Y~i~I~as~~Nytt~t~~f~l~I~ei~T~Ln~ 1056 (2326)
+                      ++++.|+.+++......  +........+..|.|.+.+...   ..|.|.+.+.+...........+.+...+.......
+T Consensus        19 g~~v~g~~v~~~~~~~~~~~~~~~~~~td~~G~~~~~~~~~---~~G~~~v~a~~~~~~~~~~~~~v~v~~~~~~~~~~~   95 (420)
+T 4E9L_A           19 GNPVTGEASRLRLVPQDTNGVTVGAISEIKPGVYSATVSST---RAGNVVVRAFSEQYQLGTLQQTLKFVAGPLDAAHSS   95 (420)
+T ss_dssp             --------------------------------------------------------------------CCCCCCCGGGCE
+T ss_pred             CCccCCceEEEEEecCCCCCceeeeeEEeCCeEEEEEEEec---CCceEEEEEEECCccceeccEEEEEEcCCCCcccce
+Confidence            45677777765542211  1111111223457888877642   368888888776533221222222222111100000
+
+
+Q LOKIASV2_40800 1057 ADYEDPIEVYWGKDITLSVNYTDAFNNVPISDADVNYFIQGDNEEY----LIDETSTPGIYNYSFNSASLGSYGTYSFFI 1132 (2326)
+Q Consensus      1057 ~~~~~~i~v~~Ge~v~~~v~Y~Dt~n~t~IsgA~vt~~i~g~~~~~----~i~et~~~G~Ys~~lnts~lg~~G~Y~i~I 1132 (2326)
+                      .. .....+..+....+++...|. ++.||.++.+.+........-    ....+..+|.|.+.+....  ..|.|.+.+
+T Consensus        96 ~~-~~~~~~~~~~~~~~~v~~~D~-~g~pv~~~~v~~~~~~~~~~~~~~~~~~~t~~~G~~~~~~~a~~--~~G~~~i~~  171 (420)
+T 4E9L_A           96 IT-LNPDKPVVGGTVTAIWTAKDA-NDNPVTGLNPDAPSLSGAAAAGSTASGWTDNGDGTWTAQISLGT--TAGELDVMP  171 (420)
+T ss_dssp             EE-EESSSCBTTSEEEEEEECBCT-TCCBCCSCCCCCCEEESGGGTTCEECCCEECSSSEEEEEEECCS--CCEEEEEEC
+T ss_pred             EE-eCCCCCccCCEEEEEEEEEcC-CCCcCCCCcCcccccCccccCCCccccEEeCCCeEEEEEEEcCC--CceEEEEEE
+Confidence            00 112223445567777777775 467999888776654322100    0012345799998886322  468888876
+
+
+Q LOKIASV2_40800 1133 NAQKDNYAPQQLWVQVNVLIIPTELTTP-NDQISVLATGEFELSVEFFNTSEAISEPITSGATVSYSVSGPS--SIVPGT 1209 (2326)
+Q Consensus      1133 ~a~k~NY~~~~~~i~I~V~~ipT~Lt~~-~~~~si~~~~~~~v~i~y~~t~~~~~~pIt~gAtvt~~~sg~~--svv~gt 1209 (2326)
+                      .+....-......+.+........+... .........+...+.+...+   ..+.|+. +..+.|...+..  ......
+T Consensus       172 ~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~D---~~g~~v~-~~~v~~~~~~~~~~~~~~~~  247 (420)
+T 4E9L_A          172 KLNGQDAAANAAKVTVVADALSSNQSKVSVAEDHVKAGESTTVTLVAKD---AHGNAIS-GLSLSASLTGTASEGATVSS  247 (420)
+T ss_dssp             EETTEECSSSCEEEEEBCCSBCTTTCEEEESCSEEETTCEEEEEEECBB---TTCCBCC-SCCEEEEEESGGGTTCEECC
+T ss_pred             EECCccccccceEEEEEeCCCCcccceEEEcCCeeeCCCeEEEEEEEEC---CCCCccC-CcEEEEEEecCCCCCceeee
+Confidence            6543322112222222222111111100 01111112223344444433   2345664 566777764421  111133
+
+
+Q LOKIASV2_40800 1210 LTHVGGGAYNKSFDASSFPVTGTYTFQITAMKAEHVTQQLTITVDIGIVP-TQLIRDQSSIEIYWGDSFELLVTYQDISD 1288 (2326)
+Q Consensus      1210 lt~lg~G~Y~it~dTs~~~~~GtYti~Itask~ny~~~~~tisI~V~~ip-T~l~~~~~~~~~ywGd~~t~~vtY~D~~~ 1288 (2326)
+                      ....++|.|.+++.....  .|.|.|.+.............+.+...... ..+...........|+...|.+.-.|..+
+T Consensus       248 ~~t~~~G~~~~t~~~~~~--~g~~~v~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~v~D~~g  325 (420)
+T 4E9L_A          248 WTEKGDGSYVATLTTGGK--TGELRVMPLFNGQPAATEAAQLTVIAGEMSSANSTLVADNKTPTVKTTTELTFTMKDAYG  325 (420)
+T ss_dssp             CEEEETTEEEEEEECCSC--CEEEEEEEEETTEECSSSCEEEEEECCSBCTTTCEEEESCSSCBTTCEEEEEEECBBTTS
+T ss_pred             eEEcCCeEEEEEEEcCCC--ceEEEEEeEECCcccccccceEEEEcCCCCcccceEEECCCCCCCCceEEEEEEEEcCCC
+Confidence            445678999999875433  578888887755433222222222221110 00111111223566888888888887543
+
+
+Q LOKIASV2_40800 1289 PENPIDIDDGEVYFELASIS-------TKNGYLDPILNGQYQKDFVSSTYFDQPGTYTFELEAS 1345 (2326)
+Q Consensus      1289 ~~n~i~I~~a~v~~~l~s~~-------~~~g~~t~~~nG~Y~i~~~tts~~~~pgtYti~Itas 1345 (2326)
+                        +++  ++..|.+......       ..........+|.|.+.+..   ...+|.|+|.+.+.
+T Consensus       326 --n~v--~~~~V~~~~~~~~~~~~~~~~~~~~~~t~~~G~~~~~~~~---~~~~G~~ti~a~~~  382 (420)
+T 4E9L_A          326 --NPV--TGLKPDAPVFSGAASTGSERPSAGNWTEKGNGVYVSTLTL---GSAAGQLSVMPRVN  382 (420)
+T ss_dssp             --CBC--CSCCCCCCEEESGGGCSSSCCEECCCEEEETTEEEEEEEC---CSCCEEEEEECEET
+T ss_pred             --CcC--CCccceeeeecCCcCCCCCCCccCccEEcCCeEEEEEEEe---ecCceEEEEEEEEC
+Confidence              333  4555644332210       01122233468999887642   13468887665554
+
+
+No 4
+>4E9L_A FdeC; invasin-like, bacterial immunoglobulin, pathogenic, vaccine; 1.9A {Escherichia coli}
+Probab=93.32  E-value=0.022  Score=75.39  Aligned_cols=249  Identities=14%  Similarity=0.208  Sum_probs=104.3  Template_Neff=10.300
+
+Q LOKIASV2_40800 1914 EIMVFSVNFSDTHNNLPITDGTLNYSVGQVS--G-FIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILD 1990 (2326)
+Q Consensus      1914 e~i~itv~y~D~~~n~pI~~Atvsy~~~~~s--g-~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~ 1990 (2326)
+                      +...+++.++|.. |+|+.|+.|.|......  . ......++.+|.|++++..   ...|.+.|++.+.+.........
+T Consensus         6 ~~~~~~~~v~D~~-g~~v~g~~v~~~~~~~~~~~~~~~~~~td~~G~~~~~~~~---~~~G~~~v~a~~~~~~~~~~~~~   81 (420)
+T 4E9L_A            6 QAYTLTLTAVDSE-GNPVTGEASRLRLVPQDTNGVTVGAISEIKPGVYSATVSS---TRAGNVVVRAFSEQYQLGTLQQT   81 (420)
+T ss_dssp             --------------------------------------------------------------------------------
+T ss_pred             cEEEEEEEEECCC-CCccCCceEEEEEecCCCCCceeeeeEEeCCeEEEEEEEe---cCCceEEEEEEECCccceeccEE
+Confidence            4577889999998 99999999999864321  1 1234567889999999983   47899999998876442222223
+
+
+Q LOKIASV2_40800 1991 IFIDINRIPTRINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENANIAYVEWELVGEGI---TREFNLIETGQGTYLL 2067 (2326)
+Q Consensus      1991 ~~l~I~~ipT~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi---~~~~~Lie~gnG~Y~L 2067 (2326)
+                        +.+...+.......+......+.+++...+++.++|..|+|+.+..+   .|.......   .......++++|.|++
+T Consensus        82 --v~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~v~~~D~~g~pv~~~~v---~~~~~~~~~~~~~~~~~~~t~~~G~~~~  156 (420)
+T 4E9L_A           82 --LKFVAGPLDAAHSSITLNPDKPVVGGTVTAIWTAKDANDNPVTGLNP---DAPSLSGAAAAGSTASGWTDNGDGTWTA  156 (420)
+T ss_dssp             ----CCCCCCCGGGCEEEEESSSCBTTSEEEEEEECBCTTCCBCCSCCC---CCCEEESGGGTTCEECCCEECSSSEEEE
+T ss_pred             --EEEEcCCCCcccceEEeCCCCCccCCEEEEEEEEEcCCCCcCCCCcC---cccccCccccCCCccccEEeCCCeEEEE
+Confidence              33433322211112222222344455677888899999999999888   666543221   1123456788999999
+
+
+Q LOKIASV2_40800 2068 DFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKTPLSGATV 2147 (2326)
+Q Consensus      2068 dfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~~I~gAtV 2147 (2326)
+                      .+. .....|.|.+.+...+.....  ....+.+..+...... ..+.........|....+++.++|.. |+|+.|+.|
+T Consensus       157 ~~~-a~~~~G~~~i~~~~~~~~~~~--~~~~v~~~~~~~~~~~-~~~~~~~~~~~~g~~~~~~~~~~D~~-g~~v~~~~v  231 (420)
+T 4E9L_A          157 QIS-LGTTAGELDVMPKLNGQDAAA--NAAKVTVVADALSSNQ-SKVSVAEDHVKAGESTTVTLVAKDAH-GNAISGLSL  231 (420)
+T ss_dssp             EEE-CCSCCEEEEEECEETTEECSS--SCEEEEEBCCSBCTTT-CEEEESCSEEETTCEEEEEEECBBTT-CCBCCSCCE
+T ss_pred             EEE-cCCCceEEEEEEEECCccccc--cceEEEEEeCCCCccc-ceEEEcCCeeeCCCeEEEEEEEECCC-CCccCCcEE
+Confidence            986 467789999998876544211  2233444333321111 11122222234466788999999998 999999999
+
+
+Q LOKIASV2_40800 2148 TLEFEAWDIQ-NITLTEVENQNGTYRYVLD 2176 (2326)
+Q Consensus      2148 ~l~~~~~~~~-~~~~t~~~~~~GtY~~~i~ 2176 (2326)
+                      .|........ .......++.+|.|++++.
+T Consensus       232 ~~~~~~~~~~~~~~~~~~t~~~G~~~~t~~  261 (420)
+T 4E9L_A          232 SASLTGTASEGATVSSWTEKGDGSYVATLT  261 (420)
+T ss_dssp             EEEEESGGGTTCEECCCEEEETTEEEEEEE
+T ss_pred             EEEEecCCCCCceeeeeEEcCCeEEEEEEE
+Confidence            9987643210 1123456788999999887
+
+
+No 5
+>3E8V_A Possible transglutaminase-family protein; STRUCTURAL GENOMICS, UNKNOWN FUNCTION, PSI-2; 2.4A {Bacteroides fragilis NCTC 9343}
+Probab=88.05  E-value=0.25  Score=50.18  Aligned_cols=55  Identities=20%  Similarity=0.240  Sum_probs=41.9  Template_Neff=9.700
+
+Q LOKIASV2_40800  412 NFKIQVLDLDGFPIPNAEVVINKTD---VENEQTQFTDSVGEVLFTGVNINQEYNITVNY  468 (2326)
+Q Consensus       412 ~v~i~~~DiDG~~vpna~V~ln~~~---~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvny  468 (2326)
+                      .++..|+|.+|+||++|.|.+....   ........||.+|...|.. +.+ .|.+.+..
+T Consensus         2 ~v~g~V~d~~g~pv~~a~V~~~~~~~~~~~~~~~~~Td~~G~~~~~~-~~g-~~~v~~~~   59 (82)
+T 3E8V_A            2 KGSVLVTDAEGQPVADATVEFKVYNYAEFYTVATKHTDRSGHASLTA-GKG-DMLVWASK   59 (82)
+T ss_dssp             EEEEEEECTTSCBCTTCEEEEEEEETTEEEEEEEEECCTTSEEEEEC-CSE-EEEEEEEE
+T ss_pred             eEEEEEECCCCCccCCcEEEEEEcCCcceeeeeEEEeCCCcEEEEEe-cCe-eEEEEEEe
+Confidence            5778899999999999999984332   1112467899999999997 444 78888774
+
+
+No 6
+>1CWV_A INVASIN; INTEGRIN-BINDING PROTEIN, INV GENE, STRUCTURAL; HET: CIT; 2.3A {Yersinia pseudotuberculosis} SCOP: d.169.1.3, b.1.14.1
+Probab=85.89  E-value=0.42  Score=65.34  Aligned_cols=240  Identities=13%  Similarity=0.176  Sum_probs=150.4  Template_Neff=9.800
+
+Q LOKIASV2_40800 1914 EIMVFSVNFSDTHNNLPITDGTLNYSVGQVSGF-IGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIF 1992 (2326)
+Q Consensus      1914 e~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg~-~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~ 1992 (2326)
+                      +...+++.++|.. |+|+.+..|.|....+... .....++.+|.+++++.+   ..+|.+.|++...+...   ...  
+T Consensus        26 ~~~~~~~~v~D~~-g~~i~~~~V~~~~~~~~~~~~~~~~td~~G~a~~~lt~---~~~G~~~v~a~~~g~~~---~~~--   96 (492)
+T 1CWV_A           26 TAITVEFTVADFE-GKPLAGQEVVITTNNGALPNKITEKTDANGVARIALTN---TTDGVTVVTAEVEGQRQ---SVD--   96 (492)
+T ss_dssp             SCEEEEEEEECTT-SCBCCSCEEEEECCTTCBSCEEEEECCTTSEEEEEEBC---SSCEEEEEEEEETTEEE---EEE--
+T ss_pred             ceEEEEEEEECCC-CCcCCCcEEEEEeCCCCCCCceeeeeCCCcEEEEEEEe---cCCEEEEEEEEEcCeec---ceE--
+Confidence            4577889999997 9999999999987654321 113456889999999884   36899999888765432   112  
+
+
+Q LOKIASV2_40800 1993 IDINRIPTRINNSIFIQVDYAINI--STDHVYSIEYYDTEGNPIENANIAYVEWELVGEGITREFNLIETGQGTYLLDFN 2070 (2326)
+Q Consensus      1993 l~I~~ipT~Ln~s~~~~~~~~v~v--~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi~~~~~Lie~gnG~Y~Ldfd 2070 (2326)
+                      +.+......+....+......+.+  .+...+++.++|..|+|+.+..|   .|...+..   .....++++|.|++++.
+T Consensus        97 ~~~~~~~~~~~~~~l~~~~~~~~a~~~~~~~~t~~v~D~~g~pv~~~~V---~~~~~~~~---~~~~~t~~~G~~~~~lt  170 (492)
+T 1CWV_A           97 THFVKGTIAADKSTLAAVPTSIIADGLMASTITLELKDTYGDPQAGANV---AFDTTLGN---MGVITDHNDGTYSAPLT  170 (492)
+T ss_dssp             EEEECCCBCGGGCEEEEESSEEETTSSCCEEEEEECBBTTSCBCCSCCE---EEEESSSE---ECCCEECSSSEEEEEEE
+T ss_pred             EEEEcCCcccccceEEEecCeeecCCeeeEEEEEEEECCCCCcCCCCEE---EEEeCCCc---cceEEeCCCcEEEEEEE
+Confidence            222222211111112222222223  24677888899999999999988   77765422   13445678999999987
+
+
+Q LOKIASV2_40800 2071 TSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPI-KYQLGAEFSG--TKIAQQEGKDLIFEISLQDSVTKTPLSGAT- 2146 (2326)
+Q Consensus      2071 Te~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i-~~~l~~~~~~--~~i~~~~G~~i~~~i~L~D~~~~~~I~gAt- 2146 (2326)
+                        ....|.+.|.+.+.+.....  ....+++...+. .... ..+..  .......+....++++++|.. |+|+.|+. 
+T Consensus       171 --~~~~G~~~ita~~~~~~~~~--~~~~v~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~a~v~D~~-gn~v~~~~~  244 (492)
+T 1CWV_A          171 --STTLGVATVTVKVDGAAFSV--PSVTVNFTADPIPDAGR-SSFTVSTPDILADGTMSSTLSFVPVDKN-GHFISGMQG  244 (492)
+T ss_dssp             --CSSCEEEEEEEEETTEEEEE--EEEEEEEECCSSCCTTT-CEEEESCSEEETTSCCCEEEEEECBCTT-SCBCCSCCS
+T ss_pred             --eCCCEEEEEEEEECCeeccc--ceEEEEEeCCCCCCCce-eEEEEeCCeeecCCCceeEEEEEEECCC-CCcccCccc
+Confidence              45789999999887654221  223344433321 0000 11222  222234456788999999988 99999988 
+
+
+Q LOKIASV2_40800 2147 VTLEFEAWDIQNITLTEVENQNGTYRYVLDT 2177 (2326)
+Q Consensus      2147 V~l~~~~~~~~~~~~t~~~~~~GtY~~~i~t 2177 (2326)
+                      |.|...+..   ......++.+|.++++++.
+T Consensus       245 v~~~~~~~~---~~~~~~t~~~G~~~~~~~~  272 (492)
+T 1CWV_A          245 LSFTQNGVP---VSISPITEQPDSYTATVVG  272 (492)
+T ss_dssp             EEEEEEESC---CEECCCEECSSCEEEEEEC
+T ss_pred             eEEeeCCCe---eeecceecCCCEEEEEEEc
+Confidence            888765432   1122345678888887764
+
+
+No 7
+>1CWV_A INVASIN; INTEGRIN-BINDING PROTEIN, INV GENE, STRUCTURAL; HET: CIT; 2.3A {Yersinia pseudotuberculosis} SCOP: d.169.1.3, b.1.14.1
+Probab=85.28  E-value=0.48  Score=64.83  Aligned_cols=253  Identities=13%  Similarity=0.174  Sum_probs=153.2  Template_Neff=9.800
+
+Q LOKIASV2_40800 1809 WGDSFTLDLDLFDIRDPQNPQPINQASVLSYTVAGFG---TGYLTPQSGSTYQRTFNTINFGQQGTYTFQISFQLNQYQS 1885 (2326)
+Q Consensus      1809 wGdnvtI~i~~~d~~d~~~~~~I~~asi~~~s~~~~~---s~~l~~~s~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~ 1885 (2326)
+                      -++.+++.+.+.|   . .+.|+.+..+ .+......   .....++.+|.+.+++...   .+|.+.|++...+..   
+T Consensus        24 ~~~~~~~~~~v~D---~-~g~~i~~~~V-~~~~~~~~~~~~~~~~td~~G~a~~~lt~~---~~G~~~v~a~~~g~~---   92 (492)
+T 1CWV_A           24 GKTAITVEFTVAD---F-EGKPLAGQEV-VITTNNGALPNKITEKTDANGVARIALTNT---TDGVTVVTAEVEGQR---   92 (492)
+T ss_dssp             SSSCEEEEEEEEC---T-TSCBCCSCEE-EEECCTTCBSCEEEEECCTTSEEEEEEBCS---SCEEEEEEEEETTEE---
+T ss_pred             CCceEEEEEEEEC---C-CCCcCCCcEE-EEEeCCCCCCCceeeeeCCCcEEEEEEEec---CCEEEEEEEEEcCee---
+Confidence            3466777777654   2 3456665433 22221110   0123467899999998876   689999998887643   
+
+
+Q LOKIASV2_40800 1886 RQVIITVYINGIT---TDMTTEEDEYSVLWN--EIMVFSVNFSDTHNNLPITDGTLNYSVGQVSGFIGNLNHSENGIYTL 1960 (2326)
+Q Consensus      1886 ~~~~i~i~V~~i~---T~lt~~~~~~sv~wg--e~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg~~~~l~~~g~G~Y~~ 1960 (2326)
+                      ....+.|......   ..+...  +....++  +...+++.++|.. |+|+.++.|.|.+.....  ....++.+|.+++
+T Consensus        93 ~~~~~~~~~~~~~~~~~~l~~~--~~~~~a~~~~~~~~t~~v~D~~-g~pv~~~~V~~~~~~~~~--~~~~t~~~G~~~~  167 (492)
+T 1CWV_A           93 QSVDTHFVKGTIAADKSTLAAV--PTSIIADGLMASTITLELKDTY-GDPQAGANVAFDTTLGNM--GVITDHNDGTYSA  167 (492)
+T ss_dssp             EEEEEEEECCCBCGGGCEEEEE--SSEEETTSSCCEEEEEECBBTT-SCBCCSCCEEEEESSSEE--CCCEECSSSEEEE
+T ss_pred             cceEEEEEcCCcccccceEEEe--cCeeecCCeeeEEEEEEEECCC-CCcCCCCEEEEEeCCCcc--ceEEeCCCcEEEE
+Confidence            1223333332211   233333  2233333  4578889999998 999999999998765432  2345678999999
+
+
+Q LOKIASV2_40800 1961 TLNSTQFPSVGTYTMRITATKFQYETQILDIFIDINRIPT-RINNSIFIQVDYAINI--STDHVYSIEYYDTEGNPIENA 2037 (2326)
+Q Consensus      1961 tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I~~ipT-~Ln~s~~~~~~~~v~v--~~~~~ftf~Y~Dt~~~~I~~a 2037 (2326)
+                      ++.+.   .+|.+.|++...+.........  +.+.+.+. ......+........+  +....+++.++|.+|+++.+.
+T Consensus       168 ~lt~~---~~G~~~ita~~~~~~~~~~~~~--v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~a~v~D~~gn~v~~~  242 (492)
+T 1CWV_A          168 PLTST---TLGVATVTVKVDGAAFSVPSVT--VNFTADPIPDAGRSSFTVSTPDILADGTMSSTLSFVPVDKNGHFISGM  242 (492)
+T ss_dssp             EEECS---SCEEEEEEEEETTEEEEEEEEE--EEEECCSSCCTTTCEEEESCSEEETTSCCCEEEEEECBCTTSCBCCSC
+T ss_pred             EEEeC---CCEEEEEEEEECCeecccceEE--EEEeCCCCCCCceeEEEEeCCeeecCCCceeEEEEEEECCCCCcccCc
+Confidence            99843   6899999988776542212222  33433321 1111111111112222  345678889999999999998
+
+
+Q LOKIASV2_40800 2038 N-IAYVEWELVGEGITREFNLIETGQGTYLLDFNTSTRPLGDYNFVIHLGKDN 2089 (2326)
+Q Consensus      2038 ~-i~~~~We~~g~gi~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y~I~Vtl~K~N 2089 (2326)
+                      . +   .|...+...  .....++.+|.|.+++.  ....|.+.|.+.+.+..
+T Consensus       243 ~~v---~~~~~~~~~--~~~~~t~~~G~~~~~~~--~~~~G~~~vta~~~~~~  288 (492)
+T 1CWV_A          243 QGL---SFTQNGVPV--SISPITEQPDSYTATVV--GNSVGDVTITPQVDTLI  288 (492)
+T ss_dssp             CSE---EEEEEESCC--EECCCEECSSCEEEEEE--CSSCEEEEEEEEETTEE
+T ss_pred             cce---EEeeCCCee--eecceecCCCEEEEEEE--ccCCEEEEEEEEECCee
+Confidence            7 6   787544221  12334567899999887  56789999888876544
+
+
+No 8
+>1CWV_A INVASIN; INTEGRIN-BINDING PROTEIN, INV GENE, STRUCTURAL; HET: CIT; 2.3A {Yersinia pseudotuberculosis} SCOP: d.169.1.3, b.1.14.1
+Probab=83.67  E-value=0.65  Score=63.60  Aligned_cols=252  Identities=14%  Similarity=0.161  Sum_probs=122.4  Template_Neff=9.800
+
+Q LOKIASV2_40800 1065 VYWGKDITLSVNYTDAFNNVPISDADVNYFIQGDNEEY-LIDETSTPGIYNYSFNSASLGSYGTYSFFINAQKDNYAPQQ 1143 (2326)
+Q Consensus      1065 v~~Ge~v~~~v~Y~Dt~n~t~IsgA~vt~~i~g~~~~~-~i~et~~~G~Ys~~lnts~lg~~G~Y~i~I~a~k~NY~~~~ 1143 (2326)
+                      ..-++.+.+++.+.|. ++.+|.+..+.+......... ....+...|.+.+.+.+.   ..|.+.|...+.... ....
+T Consensus        22 a~~~~~~~~~~~v~D~-~g~~i~~~~V~~~~~~~~~~~~~~~~td~~G~a~~~lt~~---~~G~~~v~a~~~g~~-~~~~   96 (492)
+T 1CWV_A           22 ANGKTAITVEFTVADF-EGKPLAGQEVVITTNNGALPNKITEKTDANGVARIALTNT---TDGVTVVTAEVEGQR-QSVD   96 (492)
+T ss_dssp             SSSSSCEEEEEEEECT-TSCBCCSCEEEEECCTTCBSCEEEEECCTTSEEEEEEBCS---SCEEEEEEEEETTEE-EEEE
+T ss_pred             CCCCceEEEEEEEECC-CCCcCCCcEEEEEeCCCCCCCceeeeeCCCcEEEEEEEec---CCEEEEEEEEEcCee-cceE
+Confidence            3345678899999997 567899988876654322100 011234579999888653   357777665443211 1112
+
+
+Q LOKIASV2_40800 1144 LWVQVN-VLIIPTELTTPNDQISVLAT--GEFELSVEFFNTSEAISEPITSGATVSYSVSGPSSIVPGTLTHVGGGAYNK 1220 (2326)
+Q Consensus      1144 ~~i~I~-V~~ipT~Lt~~~~~~si~~~--~~~~v~i~y~~t~~~~~~pIt~gAtvt~~~sg~~svv~gtlt~lg~G~Y~i 1220 (2326)
+                      +.|... +......|....  ......  ..+.+++.+.+.   .+.|+. +..|.|...+...   ......++|.|.+
+T Consensus        97 ~~~~~~~~~~~~~~l~~~~--~~~~a~~~~~~~~t~~v~D~---~g~pv~-~~~V~~~~~~~~~---~~~~t~~~G~~~~  167 (492)
+T 1CWV_A           97 THFVKGTIAADKSTLAAVP--TSIIADGLMASTITLELKDT---YGDPQA-GANVAFDTTLGNM---GVITDHNDGTYSA  167 (492)
+T ss_dssp             EEEECCCBCGGGCEEEEES--SEEETTSSCCEEEEEECBBT---TSCBCC-SCCEEEEESSSEE---CCCEECSSSEEEE
+T ss_pred             EEEEcCCcccccceEEEec--CeeecCCeeeEEEEEEEECC---CCCcCC-CCEEEEEeCCCcc---ceEEeCCCcEEEE
+Confidence            222110 000011222211  111222  234455555442   345665 5778888754321   2334456899998
+
+
+Q LOKIASV2_40800 1221 SFDASSFPVTGTYTFQITAMKAEHVTQQLTITVDIGIV----PTQLIRDQSSIEIYWGDSFELLVTYQDISDPENPIDID 1296 (2326)
+Q Consensus      1221 t~dTs~~~~~GtYti~Itask~ny~~~~~tisI~V~~i----pT~l~~~~~~~~~ywGd~~t~~vtY~D~~~~~n~i~I~ 1296 (2326)
+                      .+....   .|.+.|..+............+.+.....    ...+.........--++...+.+.+.|..+  ++  ++
+T Consensus       168 ~lt~~~---~G~~~ita~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~a~v~D~~g--n~--v~  240 (492)
+T 1CWV_A          168 PLTSTT---LGVATVTVKVDGAAFSVPSVTVNFTADPIPDAGRSSFTVSTPDILADGTMSSTLSFVPVDKNG--HF--IS  240 (492)
+T ss_dssp             EEECSS---CEEEEEEEEETTEEEEEEEEEEEEECCSSCCTTTCEEEESCSEEETTSCCCEEEEEECBCTTS--CB--CC
+T ss_pred             EEEeCC---CEEEEEEEEECCeecccceEEEEEeCCCCCCCceeEEEEeCCeeecCCCceeEEEEEEECCCC--Cc--cc
+Confidence            887653   47777776655432211112222221111    011222222233334577888898888543  33  34
+
+
+Q LOKIASV2_40800 1297 DGE-VYFELASISTKNGYLDPILNGQYQKDFVSSTYFDQPGTYTFEL 1342 (2326)
+Q Consensus      1297 ~a~-v~~~l~s~~~~~g~~t~~~nG~Y~i~~~tts~~~~pgtYti~I 1342 (2326)
+                      +.. +.+....... ........+|.|...+..    ..+|.++|..
+T Consensus       241 ~~~~v~~~~~~~~~-~~~~~t~~~G~~~~~~~~----~~~G~~~vta  282 (492)
+T 1CWV_A          241 GMQGLSFTQNGVPV-SISPITEQPDSYTATVVG----NSVGDVTITP  282 (492)
+T ss_dssp             SCCSEEEEEEESCC-EECCCEECSSCEEEEEEC----SSCEEEEEEE
+T ss_pred             CccceEEeeCCCee-eecceecCCCEEEEEEEc----cCCEEEEEEE
+Confidence            444 5444322111 011112257888876632    2467765443
+
+
+No 9
+>5LDY_A Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=81.82  E-value=0.88  Score=60.22  Aligned_cols=244  Identities=19%  Similarity=0.201  Sum_probs=151.5  Template_Neff=8.500
+
+Q LOKIASV2_40800 1914 EIMVFSVNFSDTHNNLPITDGTLNYSVGQVSGFIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFI 1993 (2326)
+Q Consensus      1914 e~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l 1993 (2326)
+                      +...++++++|.+ |+|+.|+.|.|.......  ....++.+|.|++++.++  ..+|.+.|++.+.+.... ....  +
+T Consensus        43 ~~~~ltv~v~D~~-G~pv~g~~V~~~~~~~~~--~~~~Td~~G~at~tlt~~--~~~G~~~Ita~~~g~~~~-~~~~--v  114 (357)
+T 5LDY_A           43 DTSVVTLTLRDNN-NNPVTGQTVVFTSTLGTL--GNVTEQASGLYTATLTAG--TVSGVASLSVSVGGNALG-VTGN--I  114 (357)
+T ss_dssp             CEEEEEEECBCTT-SCBCCSCCEEEECSSSEE--CCCEECTTSEEEEEEECC--SCCEEEECEEEETTEECC-CCCE--E
+T ss_pred             cEEEEEEEEECCC-CCcCCCcEEEEEecCCcc--cceEecCCeEEEEEEEcC--CCceEEEEEEEEcCeece-eeeE--E
+Confidence            4678889999998 999999999988765432  345678999999999865  578999998887664421 1122  3
+
+
+Q LOKIASV2_40800 1994 DINRIPTRINNSIFIQVDYAINI--STDHVYSIEYYDTEGNPIENANIAYVEWELVGEGITREFNLIETGQGTYLLDFNT 2071 (2326)
+Q Consensus      1994 ~I~~ipT~Ln~s~~~~~~~~v~v--~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi~~~~~Lie~gnG~Y~LdfdT 2071 (2326)
+                      .+...........+........+  +....+++.++|.+|+|+.|..|   .|...+... ......++.+|.|.+.+. 
+T Consensus       115 ~~~~~~~~~~~~~l~~~~~~~~a~g~~~~~vtv~v~D~~Gnpv~g~~V---~f~~~~~~~-~~~~~~Td~~G~at~t~t-  189 (357)
+T 5LDY_A          115 TLAPGALDAARSILAVNKPSINADDRIGSTITFTAQDAQGNAITGLDI---AFMTDLENS-QIMTLVDHNDGTYTANIN-  189 (357)
+T ss_dssp             EEECCSCCTTTCEEEESCSEEESSCSSCEEEEEECCCTTSCCCCSCCE---EEEESSTTE-EECCCEECSSSEEEEEEE-
+T ss_pred             EEccCCccceeeEEEEcCCeeecCCCceEEEEEEEECCCCCcCCCcEE---EEEeCCCCc-eeeeEEeCCCeEEEEEEE-
+Confidence            33332211111112111222222  45677889999999999999888   776544221 123456788999999997 
+
+
+Q LOKIASV2_40800 2072 STRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQ---LGAEF---SGTKIAQQE----GKDLIFEISLQDSVTKTP 2141 (2326)
+Q Consensus      2072 e~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~---l~~~~---~~~~i~~~~----G~~i~~~i~L~D~~~~~~ 2141 (2326)
+                       ....|.+.|.+...+...... ....+++........   ....+   .........    ++...+++.++|.. |+|
+T Consensus       190 -~~~~G~~~ita~~~~~~~~~~-~~~~vt~~~~~~~~~~~~~~l~~~~~~~~~~~a~g~~~~~~~~~vta~v~D~~-Gnp  266 (357)
+T 5LDY_A          190 -GTQTGIANIAVQSSGATIAGL-AATMVTITPGAWNTTQATPVMTVALPITTCQSSSGVYKRYYIGIVTHELYDNY-GNE  266 (357)
+T ss_dssp             -ESSCEECCEEEEESSCBCCSC-CCCCCEEECCCBCSSCCSCCEEEECCCSCCEESSSSEECEEEEEEECCEEBSS-CCE
+T ss_pred             -ecCCeEEEEEEEEcCCccccc-eeEEEEEecCCcccccccceEEEecCCCcceecccceeeceEEEEEEEEECCC-CCc
+Confidence             567899999988776543211 112344443322211   00011   111111222    56788999999999 999
+
+
+Q LOKIASV2_40800 2142 LSGATVTLEFEAWDIQ--NITLTEVENQNGTYRYV 2174 (2326)
+Q Consensus      2142 I~gAtV~l~~~~~~~~--~~~~t~~~~~~GtY~~~ 2174 (2326)
+                      +.|++ .+....+.+.  .......++.+|.+++.
+T Consensus       267 v~~~~-~~~~~~g~~~~~~~~~~~~Td~~G~A~~~  300 (357)
+T 5LDY_A          267 ISGIL-TYNLGAGRYTTVTSQNSSVSGSNGLTRRS  300 (357)
+T ss_dssp             ECCEE-EEEECCEEEEETTSCEEEECCEEEEEEET
+T ss_pred             cCCcE-EEEcCCceeEEeecCCcceeccccEEEEe
+Confidence            99999 6655433211  11123577889998765
+
+
+No 10
+>5LDY_B Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=81.82  E-value=0.88  Score=60.22  Aligned_cols=244  Identities=19%  Similarity=0.201  Sum_probs=151.5  Template_Neff=8.500
+
+Q LOKIASV2_40800 1914 EIMVFSVNFSDTHNNLPITDGTLNYSVGQVSGFIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFI 1993 (2326)
+Q Consensus      1914 e~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l 1993 (2326)
+                      +...++++++|.+ |+|+.|+.|.|.......  ....++.+|.|++++.++  ..+|.+.|++.+.+.... ....  +
+T Consensus        43 ~~~~ltv~v~D~~-G~pv~g~~V~~~~~~~~~--~~~~Td~~G~at~tlt~~--~~~G~~~Ita~~~g~~~~-~~~~--v  114 (357)
+T 5LDY_B           43 DTSVVTLTLRDNN-NNPVTGQTVVFTSTLGTL--GNVTEQASGLYTATLTAG--TVSGVASLSVSVGGNALG-VTGN--I  114 (357)
+T ss_dssp             CEEEEECCCBCTT-CCBCCSCCEEEEESSSEE--CCCEECSSSCEEEEEECC--SCCEEEEEEEEETTEECS-CCEE--E
+T ss_pred             cEEEEEEEEECCC-CCcCCCcEEEEEecCCcc--cceEecCCeEEEEEEEcC--CCceEEEEEEEEcCeece-eeeE--E
+Confidence            4678889999998 999999999988765432  345678999999999865  578999998887664421 1122  3
+
+
+Q LOKIASV2_40800 1994 DINRIPTRINNSIFIQVDYAINI--STDHVYSIEYYDTEGNPIENANIAYVEWELVGEGITREFNLIETGQGTYLLDFNT 2071 (2326)
+Q Consensus      1994 ~I~~ipT~Ln~s~~~~~~~~v~v--~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi~~~~~Lie~gnG~Y~LdfdT 2071 (2326)
+                      .+...........+........+  +....+++.++|.+|+|+.|..|   .|...+... ......++.+|.|.+.+. 
+T Consensus       115 ~~~~~~~~~~~~~l~~~~~~~~a~g~~~~~vtv~v~D~~Gnpv~g~~V---~f~~~~~~~-~~~~~~Td~~G~at~t~t-  189 (357)
+T 5LDY_B          115 TLAPGALDAARSILAVNKPSINADDRIGSTITFTAQDAQGNAITGLDI---AFMTDLENS-QIMTLVDHNDGTYTANIN-  189 (357)
+T ss_dssp             EEECCSBCGGGCEEEESCSEEETTCSSCEEEEEECBBTTSCBCCSCCC---CEEECSTTE-EECCCEECSSSEEEEEEE-
+T ss_pred             EEccCCccceeeEEEEcCCeeecCCCceEEEEEEEECCCCCcCCCcEE---EEEeCCCCc-eeeeEEeCCCeEEEEEEE-
+Confidence            33332211111112111222222  45677889999999999999888   776544221 123456788999999997 
+
+
+Q LOKIASV2_40800 2072 STRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQ---LGAEF---SGTKIAQQE----GKDLIFEISLQDSVTKTP 2141 (2326)
+Q Consensus      2072 e~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~---l~~~~---~~~~i~~~~----G~~i~~~i~L~D~~~~~~ 2141 (2326)
+                       ....|.+.|.+...+...... ....+++........   ....+   .........    ++...+++.++|.. |+|
+T Consensus       190 -~~~~G~~~ita~~~~~~~~~~-~~~~vt~~~~~~~~~~~~~~l~~~~~~~~~~~a~g~~~~~~~~~vta~v~D~~-Gnp  266 (357)
+T 5LDY_B          190 -GTQTGIANIAVQSSGATIAGL-AATMVTITPGAWNTTQATPVMTVALPITTCQSSSGVYKRYYIGIVTHELYDNY-GNE  266 (357)
+T ss_dssp             -ESSCEEEEEEEEETTEECCSC-CCCEEEEECCSBCTTCCSCSEEEECCSSCCCCSSSSBCCEEEEEEECCEEBTT-SCE
+T ss_pred             -ecCCeEEEEEEEEcCCccccc-eeEEEEEecCCcccccccceEEEecCCCcceecccceeeceEEEEEEEEECCC-CCc
+Confidence             567899999988776543211 112344443322211   00011   111111222    56788999999999 999
+
+
+Q LOKIASV2_40800 2142 LSGATVTLEFEAWDIQ--NITLTEVENQNGTYRYV 2174 (2326)
+Q Consensus      2142 I~gAtV~l~~~~~~~~--~~~~t~~~~~~GtY~~~ 2174 (2326)
+                      +.|++ .+....+.+.  .......++.+|.+++.
+T Consensus       267 v~~~~-~~~~~~g~~~~~~~~~~~~Td~~G~A~~~  300 (357)
+T 5LDY_B          267 ISGIL-TYNLGAGRYTTVTSQNSSVSGSNGLTRRS  300 (357)
+T ss_dssp             ECCEE-EEEECCEEEEETTCCEEEECCEEEEEEES
+T ss_pred             cCCcE-EEEcCCceeEEeecCCcceeccccEEEEe
+Confidence            99999 6655433211  11123577889998765
+
+
+No 11
+>1WLH_A Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=73.59  E-value=2.4  Score=53.95  Aligned_cols=242  Identities=14%  Similarity=0.167  Sum_probs=132.3  Template_Neff=10.800
+
+Q LOKIASV2_40800 1910 VLWNEIMVFSVNFSDTHNNLPITDGT--LNYSVGQVSGFIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQ 1987 (2326)
+Q Consensus      1910 v~wge~i~itv~y~D~~~n~pI~~At--vsy~~~~~sg~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~ 1987 (2326)
+                      ...|+...|++..+|.+ |+|+....  +.+................+|.|.+++. .  ..+|.|.|.+...+......
+T Consensus        18 ~~~g~~~~f~v~~~d~~-gn~~~~~~~~~~~~i~~~~~~~~~~~~~~~g~y~v~~~-p--~~~G~~~i~v~~~~~~i~~s   93 (311)
+T 1WLH_A           18 GECFQPSKFKIHAVDPD-GVHRTDGGDGFVVTIEGPAPVDPVMVDNGDGTYDVEFE-P--KEAGDYVINLTLDGDNVNGF   93 (311)
+T ss_pred             cccCCcEEEEEEEECCC-CCeeccCCcceEEEEECCCCceEEEEeCCCcEEEEEEE-c--cCCEEEEEEEEECCEECCCC
+Confidence            35667788899999987 88886432  3222222211112233567899999998 4  58999999998877654333
+
+
+Q LOKIASV2_40800 1988 ILDIFIDINRIPTRINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIEN--ANIAYVEWELVGEGI-TREFNLIETGQGT 2064 (2326)
+Q Consensus      1988 ~~~~~l~I~~ipT~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~--a~i~~~~We~~g~gi-~~~~~Lie~gnG~ 2064 (2326)
+                      ...  +.+.+..................++....+.+..+|..|+++..  ..+   ......... ..........+|.
+T Consensus        94 p~~--~~v~~~~~~~~~~~~~~~~~~~~~g~~~~~~v~~~D~~gn~~~~~~~~~---~v~~~~~~~~~~~~~~~~~~~g~  168 (311)
+T 1WLH_A           94 PKT--VTVKPAPSAEHSYAEGEGLVKVFDNAPAEFTIFAVDTKGVARTDGGDPF---EVAINGPDGLVVDAKVTDNNDGT  168 (311)
+T ss_pred             CEE--EEEecCCCccccEEEecCCceeeCCCCEEEEEEEEcCCCCcccCCCceE---EEEEECCCCCeeEEEEEECCCCE
+Confidence            333  33333211000000001111234455677888888999987632  112   121111110 0112234457899
+
+
+Q LOKIASV2_40800 2065 YLLDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKTPLS- 2143 (2326)
+Q Consensus      2065 Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~~I~- 2143 (2326)
+                      |.+.+.  ....|.|.+.+.+.+.....  .++.+.+......            ....+....|.+.++|.. |++.. 
+T Consensus       169 y~~~~~--~~~~G~~~i~v~~~g~~i~~--sp~~~~v~~~~~~------------~~~~~~~~~~~v~~~d~~-gn~~~~  231 (311)
+T 1WLH_A          169 YGVVYD--APVEGNYNVNVTLRGNPIKN--MPIDVKCIEGANG------------EDSSFGSFTFTVAAKNKK-GEVKTY  231 (311)
+T ss_pred             EEEEEe--CCCCEEEEEEEEECCEECCC--CCEEEEEEeCCCC------------cccCCCCEEEEEEEEcCC-CCccCC
+Confidence            999997  67899999999887654332  3334433321100            112345678888889987 66654 
+
+
+Q LOKIASV2_40800 2144 -GATVTLEFEAWDIQNITLTEVENQNGTYRYVLDTN 2178 (2326)
+Q Consensus      2144 -gAtV~l~~~~~~~~~~~~t~~~~~~GtY~~~i~t~ 2178 (2326)
+                       +..+.+.+.+... .......+..+|.|.+.+.+.
+T Consensus       232 ~~~~~~~~~~~~~~-~~~~~~~~~~~g~~~~~~~~~  266 (311)
+T 1WLH_A          232 GGDKFEVSITGPAE-EITLDAIDNQDGTYTAAYSLV  266 (311)
+T ss_pred             CCCeEEEEEECCCC-CceEEEEeCCCCEEEEEEECC
+Confidence             3334443332210 112234456789998888763
+
+
+No 12
+>4ILT_C Intradiol ring-cleavage dioxygenase; iron center, intradiol dioxygenase, carbohydrate; 2.55A {Streptomyces sp. SirexAA-E}
+Probab=72.85  E-value=2.5  Score=49.56  Aligned_cols=61  Identities=15%  Similarity=0.094  Sum_probs=46.4  Template_Neff=7.700
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVEN---------EQTQFTDSVGEVLFTGVNINQEYNITVNY  468 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~---------~~~~~T~~~G~~~F~~i~~~~~Yn~tvny  468 (2326)
+                      +.....++.+|+|.+|+||++|.|.|+..+...         -....||.+|...|..+..+ .|.+.+..
+T Consensus        29 ~g~~~~i~G~V~d~~g~Pl~gA~V~iw~~~~~g~y~~~~~~~~g~~~Td~~G~f~f~ti~pg-~y~~r~~h   98 (155)
+T 4ILT_C           29 PGVPLTVSGYVFGRACKPLTGVLLDFWQADTGGAYDMTGFAFRGHQFTGADGSFTLRTIVPG-LYPGRTRH   98 (155)
+T ss_dssp             CSCEEEEEEEEECGGGCBCSSCEEEEECCCTTSCCCSSSCTTEEEEECCTTSEEEEEEECCC-CCTTSCSE
+T ss_pred             CCCeEEEEEEEECCCCCccCCcEEEEEeCCCCCcccCCCceeeEEEecCCCCeEEEEEeCCC-cCCCCccE
+Confidence            445678888999999999999999997643211         12367999999999999765 68765553
+
+
+No 13
+>4ILT_D Intradiol ring-cleavage dioxygenase; iron center, intradiol dioxygenase, carbohydrate; 2.55A {Streptomyces sp. SirexAA-E}
+Probab=72.85  E-value=2.5  Score=49.56  Aligned_cols=61  Identities=15%  Similarity=0.094  Sum_probs=46.4  Template_Neff=7.700
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVEN---------EQTQFTDSVGEVLFTGVNINQEYNITVNY  468 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~---------~~~~~T~~~G~~~F~~i~~~~~Yn~tvny  468 (2326)
+                      +.....++.+|+|.+|+||++|.|.|+..+...         -....||.+|...|..+..+ .|.+.+..
+T Consensus        29 ~g~~~~i~G~V~d~~g~Pl~gA~V~iw~~~~~g~y~~~~~~~~g~~~Td~~G~f~f~ti~pg-~y~~r~~h   98 (155)
+T 4ILT_D           29 PGVPLTVSGYVFGRACKPLTGVLLDFWQADTGGAYDMTGFAFRGHQFTGADGSFTLRTIVPG-LYPGRTRH   98 (155)
+T ss_dssp             SSCEEEEEEEEECGGGCBCSSCEEEEECCCTTSCCCSSSCTTEEEEECCTTCEEEEEEECCC-CCTTSCSE
+T ss_pred             CCCeEEEEEEEECCCCCccCCcEEEEEeCCCCCcccCCCceeeEEEecCCCCeEEEEEeCCC-cCCCCccE
+Confidence            445678888999999999999999997643211         12367999999999999765 68765553
+
+
+No 14
+>1WLH_B Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=72.01  E-value=2.8  Score=53.30  Aligned_cols=242  Identities=14%  Similarity=0.167  Sum_probs=129.5  Template_Neff=10.900
+
+Q LOKIASV2_40800 1910 VLWNEIMVFSVNFSDTHNNLPITDGT--LNYSVGQVSGFIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQ 1987 (2326)
+Q Consensus      1910 v~wge~i~itv~y~D~~~n~pI~~At--vsy~~~~~sg~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~ 1987 (2326)
+                      ...|....|++..+|.+ |+|+....  +.+................+|.|.+++. .  ..+|.|.|.+...+......
+T Consensus        18 ~~~g~~~~f~v~~~d~~-gn~~~~~~~~~~~~i~~~~~~~~~~~~~~~g~y~v~~~-p--~~~G~~~i~v~~~~~~i~~s   93 (311)
+T 1WLH_B           18 GECFQPSKFKIHAVDPD-GVHRTDGGDGFVVTIEGPAPVDPVMVDNGDGTYDVEFE-P--KEAGDYVINLTLDGDNVNGF   93 (311)
+T ss_dssp             BCSSSCEEEEEECCSSS-CC---CCCCCEECCEESSSCBCCEEECCSSSEEEEEEC-C--CSCSEEEECCEESSCBCTTC
+T ss_pred             cccCCCeEEEEEEECCC-CCeeccCCCeEEEEEECCCCCCcEEEECCCcEEEEEEe-c--cCCEEEEEEEEECCEEcCCc
+Confidence            35567788899999987 88886433  2222222111112233567899999998 4  58999999998876654333
+
+
+Q LOKIASV2_40800 1988 ILDIFIDINRIPTRINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIEN--ANIAYVEWELVGEGI-TREFNLIETGQGT 2064 (2326)
+Q Consensus      1988 ~~~~~l~I~~ipT~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~--a~i~~~~We~~g~gi-~~~~~Lie~gnG~ 2064 (2326)
+                      ...  +.+.+..................++....+.+..+|..|+++..  ..+   ......... ..........+|.
+T Consensus        94 p~~--~~v~~~~~~~~~~~~~~~~~~~~~g~~~~~~v~~~D~~gn~~~~~~~~~---~v~~~~~~~~~~~~~~~~~~~g~  168 (311)
+T 1WLH_B           94 PKT--VTVKPAPSAEHSYAEGEGLVKVFDNAPAEFTIFAVDTKGVARTDGGDPF---EVAINGPDGLVVDAKVTDNNDGT  168 (311)
+T ss_dssp             SEE--EEBCCCBCTTTCEEESGGGTEEETTSCEEEEEECBBTTSCBCCSCCCCE---EEEEECTTSCEECCEECCCTTSE
+T ss_pred             cEE--EEEeCCCCccccEEEeecceeeeCCCCeEEEEEEECCCCCeeCCCCCcE---EEEEECCCCCEEEEEEEeCCCCE
+Confidence            333  33332211000000001111234456677888888999987632  112   121111110 0112234457899
+
+
+Q LOKIASV2_40800 2065 YLLDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKTPLS- 2143 (2326)
+Q Consensus      2065 Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~~I~- 2143 (2326)
+                      |.+.+.  ....|.|.+.+.+.+.....  .++.+.+......            ....+....|.+.++|.. |++.. 
+T Consensus       169 ~~~~~~--~~~~G~~~i~v~~~g~~i~~--sp~~v~v~~~~~~------------~~~~~~~~~~~v~~~d~~-gn~~~~  231 (311)
+T 1WLH_B          169 YGVVYD--APVEGNYNVNVTLRGNPIKN--MPIDVKCIEGANG------------EDSSFGSFTFTVAAKNKK-GEVKTY  231 (311)
+T ss_dssp             EEEEEC--CCSSEEEEEEEEETTEECTT--CSEEEEEECCCCG------------GGCEEEEEEEEEECBCTT-SCBCSS
+T ss_pred             EEEEEE--CCCCEEEEEEEEECCEECCC--CCEEEEEEeCCCC------------CccccccEEEEEEEECCC-CCcccc
+Confidence            999997  67899999999887654332  3334433322110            012345678888889987 66544 
+
+
+Q LOKIASV2_40800 2144 -GATVTLEFEAWDIQNITLTEVENQNGTYRYVLDTN 2178 (2326)
+Q Consensus      2144 -gAtV~l~~~~~~~~~~~~t~~~~~~GtY~~~i~t~ 2178 (2326)
+                       +..+.+.+.+... ..........+|.|.+.+.+.
+T Consensus       232 ~~~~~~~~~~~~~~-~~~~~~~~~~~g~y~~~~~~~  266 (311)
+T 1WLH_B          232 GGDKFEVSITGPAE-EITLDAIDNQDGTYTAAYSLV  266 (311)
+T ss_dssp             CCSCEEEEEEECEE-EEECCEEECSSSEEEEEEEEE
+T ss_pred             CCCeEEEEEECCCC-ceEEEEEeCCCCEEEEEEEec
+Confidence             2333333322110 111234456788888888653
+
+
+No 15
+>4OQ1_A Cell wall surface anchor family; CnaB domain, IgG-rev fold, pilin; 1.85A {Streptococcus pneumoniae}
+Probab=70.29  E-value=3.2  Score=54.62  Aligned_cols=135  Identities=16%  Similarity=0.178  Sum_probs=75.2  Template_Neff=10.200
+
+Q LOKIASV2_40800  410 SSNFKIQVLDLDGFPIPNAEVVINK-------------------TDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYTN  470 (2326)
+Q Consensus       410 ~~~v~i~~~DiDG~~vpna~V~ln~-------------------~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt~  470 (2326)
+                      ...+++...|.+|.++++|++.|..                   ..........||.+|.+.|.+++.| .|.+..--..
+T Consensus       148 ~~~i~~~k~d~~~~~~~g~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~td~~G~~~~~~L~~g-~Y~v~e~~~~  226 (368)
+T 4OQ1_A          148 TTKVKLIKVDQDHNRLEGVGFKLVSVARDVSAAAVPLIGEYRYSSSGQVGRTLYTDKNGEIFVTNLPLG-NYRFKEVEPL  226 (368)
+T ss_dssp             CCEEEEEEEETTCCBCCSCEEEEEEEETTEEEEECCEETTTEECTTSBSCCCEECCTTSEEEEECCCSE-EEEEEEEECC
+T ss_pred             eceEEEEEEcCCCCeeCCcEEEEEEecCCccccccceecceEecCCCceeeEEEeCCCCEEEEcccCCe-EEEEEEEeCC
+Confidence            4567778889999999999998843                   1111223556899999999999876 6766643221
+
+
+Q LOKIASV2_40800  471 TGLEQ---DLEYQIGFVDKVVLTDFNYNYTM-ATSLWSMDFYVDDYD-NVPISNAFVVIYNNSAG-------EEPIANSS  538 (2326)
+Q Consensus       471 ~g~~~---~~~~~~~~~~~~~~~~~~~~~~i-~~~lwtidF~i~D~d-~~pl~~g~v~v~n~~~~-------~~~l~~~t  538 (2326)
+                      .|...   .............     ..+.. ....-++.+...|-+ +.|+....+.|+....+       +......+
+T Consensus       227 ~gy~~~~~~~~~~v~~~~~~~-----~~~~n~~~~~~~v~~~k~~~~~~~~l~g~~~~l~~~~~~~~~~~~~~g~~~~~~  301 (368)
+T 4OQ1_A          227 AGYAVTTLDTDVQLVDHQLVT-----ITVVNQKLPRGNVDFMKVDGRTNTSLQGAMFKVMKEESGHYTPVLQNGKEVVVT  301 (368)
+T ss_dssp             TTEEESCSEEEEEECSSSCEE-----EEEEEEECCBCCEEEEEEETTTCCBCSCCEEEEEEEETTEEEECEETTEECEEE
+T ss_pred             CCeecCCCCeEEEEeCCCeEE-----EEEEccccCcceEEEEEEeCCCCceeCCcEEEEEECCCCceeeeeeCCeEEEEE
+Confidence            12110   0000000000000     00000 011233455666666 88999888888765422       01233456
+
+
+Q LOKIASV2_40800  539 LDDNGYTTIRVQ  550 (2326)
+Q Consensus       539 l~~~G~atFrw~  550 (2326)
+                      .|.+|+.+|.-+
+T Consensus       302 td~~G~~~~~~l  313 (368)
+T 4OQ1_A          302 SGKDGRFRVEGL  313 (368)
+T ss_dssp             CCTTSEEEECSC
+T ss_pred             cCCCCeEEEccc
+Confidence            677788776543
+
+
+No 16
+>5LDY_A Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=68.41  E-value=3.8  Score=54.57  Aligned_cols=139  Identities=14%  Similarity=0.128  Sum_probs=74.9  Template_Neff=8.500
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVENEQTQFTDSVGEVLFT---GVNINQEYNITVNYTNTGLE--QDLEYQIGF  483 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~---~i~~~~~Yn~tvnyt~~g~~--~~~~~~~~~  483 (2326)
+                      ....++++++|.+|+||+|+.|.+....... ....||.+|.+.|+   +-.. +.|.+++.+......  ..+.+....
+T Consensus        43 ~~~~ltv~v~D~~G~pv~g~~V~~~~~~~~~-~~~~Td~~G~at~tlt~~~~~-G~~~Ita~~~g~~~~~~~~v~~~~~~  120 (357)
+T 5LDY_A           43 DTSVVTLTLRDNNNNPVTGQTVVFTSTLGTL-GNVTEQASGLYTATLTAGTVS-GVASLSVSVGGNALGVTGNITLAPGA  120 (357)
+T ss_dssp             CEEEEEEECBCTTSCBCCSCCEEEECSSSEE-CCCEECTTSEEEEEEECCSCC-EEEECEEEETTEECCCCCEEEEECCS
+T ss_pred             cEEEEEEEEECCCCCcCCCcEEEEEecCCcc-cceEecCCeEEEEEEEcCCCc-eEEEEEEEEcCeeceeeeEEEEccCC
+Confidence            4578999999999999999999773322222 35578999999885   2223 368887766422111  111111100
+
+
+Q LOKIASV2_40800  484 VD--KVVLTDFNYNYTMA-TSLWSMDFYVDDYDNVPISNAFVVIYNNSAGEEPIANSSLDDNGYTTIRVQ  550 (2326)
+Q Consensus       484 ~~--~~~~~~~~~~~~i~-~~lwtidF~i~D~d~~pl~~g~v~v~n~~~~~~~l~~~tl~~~G~atFrw~  550 (2326)
+                      ..  ...+.......... -+-..+.+.+.|-.|.|+...-|.+.-+ .+.........|.+|+++|++.
+T Consensus       121 ~~~~~~~l~~~~~~~~a~g~~~~~vtv~v~D~~Gnpv~g~~V~f~~~-~~~~~~~~~~Td~~G~at~t~t  189 (357)
+T 5LDY_A          121 LDAARSILAVNKPSINADDRIGSTITFTAQDAQGNAITGLDIAFMTD-LENSQIMTLVDHNDGTYTANIN  189 (357)
+T ss_dssp             CCTTTCEEEESCSEEESSCSSCEEEEEECCCTTSCCCCSCCEEEEES-STTEEECCCEECSSSEEEEEEE
+T ss_pred             ccceeeEEEEcCCeeecCCCceEEEEEEEECCCCCcCCCcEEEEEeC-CCCceeeeEEeCCCeEEEEEEE
+Confidence            00  00000000000000 1122456778999999998766665322 1111122345567888888765
+
+
+No 17
+>5LDY_B Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=68.41  E-value=3.8  Score=54.57  Aligned_cols=139  Identities=14%  Similarity=0.128  Sum_probs=74.9  Template_Neff=8.500
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVENEQTQFTDSVGEVLFT---GVNINQEYNITVNYTNTGLE--QDLEYQIGF  483 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~---~i~~~~~Yn~tvnyt~~g~~--~~~~~~~~~  483 (2326)
+                      ....++++++|.+|+||+|+.|.+....... ....||.+|.+.|+   +-.. +.|.+++.+......  ..+.+....
+T Consensus        43 ~~~~ltv~v~D~~G~pv~g~~V~~~~~~~~~-~~~~Td~~G~at~tlt~~~~~-G~~~Ita~~~g~~~~~~~~v~~~~~~  120 (357)
+T 5LDY_B           43 DTSVVTLTLRDNNNNPVTGQTVVFTSTLGTL-GNVTEQASGLYTATLTAGTVS-GVASLSVSVGGNALGVTGNITLAPGA  120 (357)
+T ss_dssp             CEEEEECCCBCTTCCBCCSCCEEEEESSSEE-CCCEECSSSCEEEEEECCSCC-EEEEEEEEETTEECSCCEEEEEECCS
+T ss_pred             cEEEEEEEEECCCCCcCCCcEEEEEecCCcc-cceEecCCeEEEEEEEcCCCc-eEEEEEEEEcCeeceeeeEEEEccCC
+Confidence            4578999999999999999999773322222 35578999999885   2223 368887766422111  111111100
+
+
+Q LOKIASV2_40800  484 VD--KVVLTDFNYNYTMA-TSLWSMDFYVDDYDNVPISNAFVVIYNNSAGEEPIANSSLDDNGYTTIRVQ  550 (2326)
+Q Consensus       484 ~~--~~~~~~~~~~~~i~-~~lwtidF~i~D~d~~pl~~g~v~v~n~~~~~~~l~~~tl~~~G~atFrw~  550 (2326)
+                      ..  ...+.......... -+-..+.+.+.|-.|.|+...-|.+.-+ .+.........|.+|+++|++.
+T Consensus       121 ~~~~~~~l~~~~~~~~a~g~~~~~vtv~v~D~~Gnpv~g~~V~f~~~-~~~~~~~~~~Td~~G~at~t~t  189 (357)
+T 5LDY_B          121 LDAARSILAVNKPSINADDRIGSTITFTAQDAQGNAITGLDIAFMTD-LENSQIMTLVDHNDGTYTANIN  189 (357)
+T ss_dssp             BCGGGCEEEESCSEEETTCSSCEEEEEECBBTTSCBCCSCCCCEEEC-STTEEECCCEECSSSEEEEEEE
+T ss_pred             ccceeeEEEEcCCeeecCCCceEEEEEEEECCCCCcCCCcEEEEEeC-CCCceeeeEEeCCCeEEEEEEE
+Confidence            00  00000000000000 1122456778999999998766665322 1111122345567888888765
+
+
+No 18
+>4OQ1_A Cell wall surface anchor family; CnaB domain, IgG-rev fold, pilin; 1.85A {Streptococcus pneumoniae}
+Probab=67.97  E-value=3.9  Score=53.87  Aligned_cols=63  Identities=8%  Similarity=-0.065  Sum_probs=41.2  Template_Neff=10.200
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDG--FPIPNAEVVINKTDVENEQTQ------FTDSVGEVLFTGVNINQEYNITVNYTNTG  472 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG--~~vpna~V~ln~~~~~~~~~~------~T~~~G~~~F~~i~~~~~Yn~tvnyt~~g  472 (2326)
+                      ....++|.-+|.++  .+++++.|.|...+.......      .||++|...|.+++.| .|-+.......|
+T Consensus        48 ~~~~i~i~k~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~Td~~G~~~~~~l~~G-~Y~v~e~~~p~g  118 (368)
+T 4OQ1_A           48 DGHRLQVWKLDDSYSYDDRVQIVRDLHSWDENKLSSFKKTSFEMTFLENQIEVSHIPNG-LYYVRSIIQTDA  118 (368)
+T ss_dssp             SSEEEEEEECCTTCCGGGHHHHHHHHSSCCGGGTTTSEEEEEEEEECSSCEEEEEECSE-EEEEEEEEECSS
+T ss_pred             CCcEEEEEEeCCCCcccchHhHHHhHhhcCcccccccccceEEEeecCCeEEEecCCCe-EEEEEEEecCCC
+Confidence            44555666666655  679999998844332222223      7999999999999876 687765543333
+
+
+No 19
+>6FWV_B Collagen Adhesion protein; LPXTG-anchored, surface protein, thioester domain; HET: MSE; 2.58A {Bacillus anthracis}
+Probab=66.86  E-value=4.3  Score=56.30  Aligned_cols=132  Identities=17%  Similarity=0.169  Sum_probs=75.6  Template_Neff=10.200
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYTNTGLEQDL-EYQIGFVDKV  487 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt~~g~~~~~-~~~~~~~~~~  487 (2326)
+                      ....+++.++|.+|++++||+|.|....  ......||.+|...|.+++.| .|-+..-....|..... .........-
+T Consensus       258 ~~g~i~~~k~d~~~~~l~ga~~~l~~~~--~~~~~~Td~~G~~~~~~l~~G-~Y~v~e~~~p~gy~~~~~~~~~~v~~~~  334 (526)
+T 6FWV_B          258 SVGSLKIMKLGEKKEVLKGAVFEVSNEN--FKQNVTTSDKGIAELGNLPIG-IYSVKEIQAPAGYVLDRSVKKIEVKTGE  334 (526)
+T ss_dssp             CEEEEEEEEECSSSCBCCCCEEEEEETT--EEEEEECCTTSEEEEEEEESE-EEEEEEEECCTTBCCCCCCEEEEECTTC
+T ss_pred             cccEEEEEEECCCCCeecCcEEEEEcCC--CceEEEeCCCcEEEEcccCCe-EEEEEEEECCCCeEecCCeeEEEEccCC
+Confidence            3467888899999999999999884433  224567999999999999876 68777654333321100 0000000000
+
+
+Q LOKIASV2_40800  488 VLTDFNYNYTMATSLWSMDFYVDDYD--NVPISNAFVVIYNNSAGEEPIANSSLDDNGYTTIR  548 (2326)
+Q Consensus       488 ~~~~~~~~~~i~~~lwtidF~i~D~d--~~pl~~g~v~v~n~~~~~~~l~~~tl~~~G~atFr  548 (2326)
+                      .   ....+.....--.+.+...|-+  +.|+...-+.|++.. + ..+.....|++|...|+
+T Consensus       335 ~---~~~~~~~~~~~g~i~~~k~d~~~~~~~l~g~~~~l~~~~-g-~~~~~~~td~~G~~~~~  392 (526)
+T 6FWV_B          335 T---AVLELKNENVKGELEITKVDVADGNTKLPNAEFTIYNEQ-G-KEVVKGKTDEKGVAKFK  392 (526)
+T ss_dssp             E---EEEEEECCBCEEEEEEEEEESSCTTCBCCSCEEEEEETT-C-CEEEEEECCTTSEEEEE
+T ss_pred             e---EEEEEecceeceeEEEEEEeCCCCCeecCCcEEEEEeCC-C-CEEEEEEECCCCeEEEE
+Confidence            0   0000111111112333444443  578888888887643 2 34556667788887774
+
+
+No 20
+>4UIC_A SURFACE LAYER PROTEIN; SUGAR BINDING PROTEIN, S-LAYER, SBSC; 2.9A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=63.82  E-value=5.4  Score=59.06  Aligned_cols=307  Identities=14%  Similarity=0.186  Sum_probs=175.4  Template_Neff=8.600
+
+Q LOKIASV2_40800 1810 GDSFTLDLDLFDIRDPQNPQPINQAS---VLSYTVAGFGTGYLTPQSGSTYQRTFNTINFGQQGTYTFQISFQLNQYQSR 1886 (2326)
+Q Consensus      1810 GdnvtI~i~~~d~~d~~~~~~I~~as---i~~~s~~~~~s~~l~~~s~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~~ 1886 (2326)
+                      ++.+++.+.+.|   . .+.|+.+..   .+.+....  .....++.+|.+..    .   ..|.+.|+++..+..   .
+T Consensus       450 ~~~~tvt~~v~D---~-~g~pv~~~~~~~~Vt~~~~~--~~~~~td~~G~~t~----~---~~G~~~Vtat~~~~~---~  513 (814)
+T 4UIC_A          450 SGTLTLTAKFKD---Q-YGNELTGKVAGTDYTFESLN--PEVLVVAPDGSVTP----I---VPGTALVKVKYGEVT---K  513 (814)
+T ss_pred             CcEEEEEEEEEC---C-CCCcCCCccccceeEEEecC--CceeeecCCeEEEE----e---cCeEEEEEEEECCee---e
+Confidence            356666666543   3 245666532   12222211  11234567888764    2   467777877765532   2
+
+
+Q LOKIASV2_40800 1887 QVIITVYINGITTDMTTEEDEYSVLWNEIMVFSVNFSDTHNNLPITDGTLNYSVGQVSGF--IGNLNHSENGIYTLTLNS 1964 (2326)
+Q Consensus      1887 ~~~i~i~V~~i~T~lt~~~~~~sv~wge~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg~--~~~l~~~g~G~Y~~tinT 1964 (2326)
+                      ...+.|...+....+........+..++...+++.++|.+ |+|+.+. |.|........  .....++.+|.+++++. 
+T Consensus       514 ~~~vtv~~~~~~~~l~~~~~~~~~~~~~~~~ltv~v~D~~-Gn~v~~~-V~~~~~~~~~~~~~~s~~Td~~G~at~tlt-  590 (814)
+T 4UIC_A          514 TIPVTVKANPVLETIAVDSTGVSVAKGQKATFKVTLKDQY-GNKFTGN-VNVTSDKTETATVSVSNSGIGQSEYTVTVN-  590 (814)
+T ss_pred             eEEEEEEeCCCcceEEECCCeeeecCCceeEEEEEEECCC-CCcccce-EEEEecCCCeeEEeceEEeCCCcEEEEEEE-
+Confidence            3334444432222333331123344556788899999998 9999999 99887544211  12345788999999986 
+
+
+Q LOKIASV2_40800 1965 TQFPSVGTYTMRITATKFQYETQILDIFIDINRIPTRINNS-------IFIQVDYAINISTDHVYSIEYYDTEGNPIENA 2037 (2326)
+Q Consensus      1965 S~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I~~ipT~Ln~s-------~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a 2037 (2326)
+                      +  ..+|.++|++...+...   ...  +.+..........       .+.........+....+++.++|.+|+++.+.
+T Consensus       591 ~--~~~G~~tVta~~~~~~~---s~~--vtv~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~ltv~v~D~~Gn~v~~~  663 (814)
+T 4UIC_A          591 G--VAEGSTTITIKSGTKEV---KVP--VNVVAGGPVANYQIKVLDDGKIDKSATESPANNDVQLKVYAVDANGNIVGDI  663 (814)
+T ss_pred             e--cCCeEEEEEEEECCcce---eEE--EEEEeCCCCceEEEEEeeeeeecCCCCCCCCCCeEEEEEEEEcCCCCcCCCc
+Confidence            4  46898888887755431   122  3333321110000       01111122334556788888999999999998
+
+
+Q LOKIASV2_40800 2038 NIAYVEWELVGEG------ITREFNLIETGQGTYLLDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIK---- 2107 (2326)
+Q Consensus      2038 ~i~~~~We~~g~g------i~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~---- 2107 (2326)
+                      .+   .|......      ........++++|.|.+++. .....|.+.|+++..+....    ...+.|...++.    
+T Consensus       664 ~v---~~~~~~~~~~~~~~~~~~~~~~Td~~G~atvt~~-~~~~aG~~tVtat~~~~~~~----s~~v~v~~~~~~~~~~  735 (814)
+T 4UIC_A          664 TN---DVTITSEATDTNGVIVNASKSTANGDTVYVITDN-GSKKVGKETLTVKLGTVTLG----TVDVEVIDTTLKATVV  735 (814)
+T ss_pred             EE---EEEEeCCCCCCCceEEeeceEEeCCCcEEEEEEe-cCCCCEEEEEEEEECCccce----eEEEEEEcCCCCCCcC
+Confidence            77   44332211      01112345788999999986 34568999998888654321    233344331110    
+
+
+Q LOKIASV2_40800 2108 ---YQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKTPLSGATVTLEFEA 2153 (2326)
+Q Consensus      2108 ---~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~~I~gAtV~l~~~~ 2153 (2326)
+                         ... ..+...+. ...+....+++.++|.. |+|++|..|.|...+
+T Consensus       736 ~~~~~~-~~l~~~~~-~~~~~~~~lt~~v~D~~-Gnpv~g~~V~~s~~~  781 (814)
+T 4UIC_A          736 TKKADL-IELDAADN-GDALAKLLANLDIKDQN-GNPMVDSAATPNTNE  781 (814)
+T ss_pred             ccccee-EEEEEcCC-CCCCceEEEEEEEECCC-CCCCCCcEEEEEeCC
+Confidence               000 11211111 34567789999999999 999999999998754
+
+
+No 21
+>6FWV_A Collagen Adhesion protein; LPXTG-anchored, surface protein, thioester domain; HET: MSE; 2.58A {Bacillus anthracis}
+Probab=63.15  E-value=5.6  Score=55.17  Aligned_cols=132  Identities=17%  Similarity=0.169  Sum_probs=75.0  Template_Neff=10.200
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYTNTGLEQDL-EYQIGFVDKV  487 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt~~g~~~~~-~~~~~~~~~~  487 (2326)
+                      ....+++.++|.+|++++||+|.|....  ......||.+|...|.+++.| .|-+..-....|..... .........-
+T Consensus       258 ~~g~i~~~k~d~~~~~l~g~~~~l~~~~--~~~~~~td~~G~~~~~~l~~G-~Y~v~e~~~p~gy~~~~~~~~v~~~~~~  334 (526)
+T 6FWV_A          258 SVGSLKIMKLGEKKEVLKGAVFEVSNEN--FKQNVTTSDKGIAELGNLPIG-IYSVKEIQAPAGYVLDRSVKKIEVKTGE  334 (526)
+T ss_dssp             CEEEEEEEEECSSSCBCCCCEEEEEETT--EEEEEECCTTSEEEEEEEESE-EEEEEEEECCTTBCCCCCCEEEEECTTC
+T ss_pred             cccEEEEEEECCCCCeecCcEEEEEcCC--CceEEEeCCCcEEEEeccCCe-EEEEEEEeCCCCeEecCCceEEEEccCC
+Confidence            3567888899999999999999985433  224567999999999999876 58776654333321100 0000000000
+
+
+Q LOKIASV2_40800  488 VLTDFNYNYTMATSLWSMDFYVDDYD--NVPISNAFVVIYNNSAGEEPIANSSLDDNGYTTIR  548 (2326)
+Q Consensus       488 ~~~~~~~~~~i~~~lwtidF~i~D~d--~~pl~~g~v~v~n~~~~~~~l~~~tl~~~G~atFr  548 (2326)
+                      .   ....+.....--++.+...|-+  +.||...-+.|++.. + ........|++|...|.
+T Consensus       335 ~---~~~~~~~~~~~g~i~~~k~d~~~~~~~l~g~~~~l~~~~-~-~~~~~~~td~~G~~~~~  392 (526)
+T 6FWV_A          335 T---AVLELKNENVKGELEITKVDVADGNTKLPNAEFTIYNEQ-G-KEVVKGKTDEKGVAKFK  392 (526)
+T ss_dssp             E---EEEEEECCBCEEEEEEEEEESSCTTCBCCSCEEEEEETT-C-CEEEEEECCTTSEEEEE
+T ss_pred             e---EEEEEecceeceeEEEEEEeCCCCCeecCCcEEEEEeCC-C-CEEEEEEeCCCCeEEEE
+Confidence            0   0000111111112233344433  578888888887643 2 24556667778887774
+
+
+No 22
+>4UIC_A SURFACE LAYER PROTEIN; SUGAR BINDING PROTEIN, S-LAYER, SBSC; 2.9A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=61.61  E-value=6.3  Score=58.38  Aligned_cols=302  Identities=15%  Similarity=0.155  Sum_probs=161.0  Template_Neff=8.600
+
+Q LOKIASV2_40800 1702 GENFTLSLAYEDITQSPSVPVTAAD----VLFSVTGPAGFSDNGELVYDGTEEKYQRIFNSTAFGNNGTYTFQIQAERSG 1777 (2326)
+Q Consensus      1702 GdN~Tisv~Y~D~~~stgi~Is~A~----i~~s~t~~~~~s~~g~li~dgt~g~Y~l~inTT~lg~~GtYt~tIt~~ks~ 1777 (2326)
+                      ++.+++.+...|..   +.++.+..    +.|.+..+...      ..+ .+|.+..       ...|.+++++++... 
+T Consensus       450 ~~~~tvt~~v~D~~---g~pv~~~~~~~~Vt~~~~~~~~~------~td-~~G~~t~-------~~~G~~~Vtat~~~~-  511 (814)
+T 4UIC_A          450 SGTLTLTAKFKDQY---GNELTGKVAGTDYTFESLNPEVL------VVA-PDGSVTP-------IVPGTALVKVKYGEV-  511 (814)
+T ss_pred             CcEEEEEEEEECCC---CCcCCCccccceeEEEecCCcee------eec-CCeEEEE-------ecCeEEEEEEEECCe-
+Confidence            46777877777743   23455544    66655443211      111 1244442       135777776665321 
+
+
+Q LOKIASV2_40800 1778 YGSRQMVITVQILIVPTNLVSNHANNEINTYWGDSFTLDLDLFDIRDPQNPQPINQASVLSYTVAGFG----TGYLTPQS 1853 (2326)
+Q Consensus      1778 Y~s~~~~itl~I~~ipT~li~~~~~~~~s~~wGdnvtI~i~~~d~~d~~~~~~I~~asi~~~s~~~~~----s~~l~~~s 1853 (2326)
+                        .....+++.-......+...  +......-++..++.+...|   . ++.++.+.  +.+......    .....++.
+T Consensus       512 --~~~~~vtv~~~~~~~~l~~~--~~~~~~~~~~~~~ltv~v~D---~-~Gn~v~~~--V~~~~~~~~~~~~~~s~~Td~  581 (814)
+T 4UIC_A          512 --TKTIPVTVKANPVLETIAVD--STGVSVAKGQKATFKVTLKD---Q-YGNKFTGN--VNVTSDKTETATVSVSNSGIG  581 (814)
+T ss_pred             --eeeEEEEEEeCCCcceEEEC--CCeeeecCCceeEEEEEEEC---C-CCCcccce--EEEEecCCCeeEEeceEEeCC
+Confidence              12222222221111222221  11223345677777777654   2 23456654  232221110    11234678
+
+
+Q LOKIASV2_40800 1854 GSTYQRTFNTINFGQQGTYTFQISFQLNQYQSRQVIITVYINGITTDMT--------TEEDEYSVLWNEIMVFSVNFSDT 1925 (2326)
+Q Consensus      1854 ~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~~~~~i~i~V~~i~T~lt--------~~~~~~sv~wge~i~itv~y~D~ 1925 (2326)
+                      +|.+.+++...   ..|.+++++...+..   ....+.|........+.        .......+..++...+++.+.|.
+T Consensus       582 ~G~at~tlt~~---~~G~~tVta~~~~~~---~s~~vtv~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~ltv~v~D~  655 (814)
+T 4UIC_A          582 QSEYTVTVNGV---AEGSTTITIKSGTKE---VKVPVNVVAGGPVANYQIKVLDDGKIDKSATESPANNDVQLKVYAVDA  655 (814)
+T ss_pred             CcEEEEEEEec---CCeEEEEEEEECCcc---eeEEEEEEeCCCCceEEEEEeeeeeecCCCCCCCCCCeEEEEEEEEcC
+Confidence            89999998765   678888888776542   22333333321111110        11002223445667888999999
+
+
+Q LOKIASV2_40800 1926 HNNLPITDGTLNYSVGQVSG----F---IGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFIDINRI 1998 (2326)
+Q Consensus      1926 ~~n~pI~~Atvsy~~~~~sg----~---~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I~~i 1998 (2326)
+                      + |+|+.+..+.|.+.....    .   .....++++|.+++++.++  ..+|.++|+++..+....  ...  +.|...
+T Consensus       656 ~-Gn~v~~~~v~~~~~~~~~~~~~~~~~~~~~~Td~~G~atvt~~~~--~~aG~~tVtat~~~~~~~--s~~--v~v~~~  728 (814)
+T 4UIC_A          656 N-GNIVGDITNDVTITSEATDTNGVIVNASKSTANGDTVYVITDNGS--KKVGKETLTVKLGTVTLG--TVD--VEVIDT  728 (814)
+T ss_pred             C-CCcCCCcEEEEEEeCCCCCCCceEEeeceEEeCCCcEEEEEEecC--CCCEEEEEEEEECCccce--eEE--EEEEcC
+Confidence            8 999999999988764321    1   1223568899999999744  468999998887654321  222  333331
+
+
+Q LOKIASV2_40800 1999 PT-----R--INNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENANIAYVEWELVG 2048 (2326)
+Q Consensus      1999 pT-----~--Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g 2048 (2326)
+                      +.     .  .....+...+. ...+....+++.+.|.+|+|+.|..|   .|...+
+T Consensus       729 ~~~~~~~~~~~~~~~l~~~~~-~~~~~~~~lt~~v~D~~Gnpv~g~~V---~~s~~~  781 (814)
+T 4UIC_A          729 TLKATVVTKKADLIELDAADN-GDALAKLLANLDIKDQNGNPMVDSAA---TPNTNE  781 (814)
+T ss_pred             CCCCCcCcccceeEEEEEcCC-CCCCceEEEEEEEECCCCCCCCCcEE---EEEeCC
+Confidence            10     0  11111111111 22345678888999999999999998   887654
+
+
+No 23
+>2BOY_A 3-CHLOROCATECHOL 1,2-DIOXYGENASE (E.C.1.13.11.1); BETA BARREL, OXIDOREDUCTASE, DIOXYGENASE; HET: MG, BHO, LPP; 1.9A {RHODOCOCCUS OPACUS}
+Probab=60.75  E-value=6.7  Score=50.04  Aligned_cols=57  Identities=21%  Similarity=0.301  Sum_probs=44.4  Template_Neff=6.100
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|..+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+-
+T Consensus       100 G~~l~i~G~V~d~~G~Pi~gA~vdiWqad~~G~Y~~~~~~~~~~~~RG~~~TD~~G~y~f~Ti~P~-~Y~ip  170 (254)
+T 2BOY_A          100 GDTLIFRGEVVDQEGAPLADVLLDMWQADAAGEYSFINPTLPDYLFRGKIRTDENGRFTLRTIVPA-PYEIP  170 (254)
+T ss_pred             CCeEEEEEEEEcCCCCcCCCcEEEEEecCCCCCccCCCCCCCCCCCeeEEEcCCCCcEEEEEECCC-CCCCC
+Confidence            455788899999999999999999977654321              1345999999999999765 57654
+
+
+No 24
+>2BOY_B 3-CHLOROCATECHOL 1,2-DIOXYGENASE (E.C.1.13.11.1); BETA BARREL, OXIDOREDUCTASE, DIOXYGENASE; HET: MG, BHO, LPP; 1.9A {RHODOCOCCUS OPACUS}
+Probab=59.89  E-value=7.1  Score=49.81  Aligned_cols=57  Identities=21%  Similarity=0.301  Sum_probs=44.4  Template_Neff=6.000
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|+.+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+-
+T Consensus       100 G~~l~i~G~V~d~~G~Pi~gA~vdvWqad~~G~Y~~~~~~~~~~~~RG~~~Td~~G~y~f~Ti~P~-~Y~ip  170 (254)
+T 2BOY_B          100 GDTLIFRGEVVDQEGAPLADVLLDMWQADAAGEYSFINPTLPDYLFRGKIRTDENGRFTLRTIVPA-PYEIP  170 (254)
+T ss_dssp             SCEEEEEEEEECTTSCBCTTCEEEEEECCTTSCCBTTBTTSCTTTTEEEEECCTTSEEEEEEECCC-CEECC
+T ss_pred             CCEEEEEEEEECCCCCccCCcEEEEEecCCCCcccccCCCCCCCCCeeEEEeCCCCcEEEEEecCC-CccCC
+Confidence            456788999999999999999999977654321              1345999999999999664 57654
+
+
+No 25
+>6R6I_A Transthyretin; Amyloidosis, tetramer, binding protein, TRANSPORT; HET: PO4, H50; 1.467A {Homo sapiens}
+Probab=59.43  E-value=7.3  Score=45.67  Aligned_cols=59  Identities=19%  Similarity=0.202  Sum_probs=42.0  Template_Neff=7.000
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDL-DGFPIPNAEVVINKTD-V-E--NEQTQFTDSVGEVLF----TGVNINQEYNITVN  467 (2326)
+Q Consensus       408 ~~~~~v~i~~~Di-DG~~vpna~V~ln~~~-~-~--~~~~~~T~~~G~~~F----~~i~~~~~Yn~tvn  467 (2326)
+                      .....|+..|+|. +|+|++|+.|.|.... . .  ......||.+|++.+    .+++.| .|.+++.
+T Consensus        27 ~~~~~IsghVldt~~G~Pa~gv~V~L~~~~~~~~~~~~~~~~Td~dGr~~~~~~~~~~~~G-~Ykv~f~   94 (147)
+T 6R6I_A           27 ESKCPLMVKVLDAVRGSPTINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEG-IYKVEID   94 (147)
+T ss_dssp             ---CCEEEEEEETTTTEECCSCEEEEEEECTTSCEEEEEEEECCTTSEECCSCCTTTCCSE-EEEEEEC
+T ss_pred             CccCcEEEEEeeCCCCeecCCeEEEEEEeCCCCCeeeceEEEeCCCceEEeCcCCccCCCE-EEEEEEE
+Confidence            4567788889998 9999999999884332 1 1  123567999999998    356654 6877775
+
+
+No 26
+>3HHY_A Catechol 1,2-dioxygenase (E.C.1.13.11.1); beta-sandwich, Aromatic hydrocarbons catabolism, Dioxygenase; HET: CAQ, 6PL; 1.55A {Rhodococcus opacus}
+Probab=58.72  E-value=7.6  Score=50.19  Aligned_cols=58  Identities=28%  Similarity=0.298  Sum_probs=45.0  Template_Neff=5.900
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNITV  466 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~tv  466 (2326)
+                      ...-.|+-+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+..
+T Consensus       129 G~~l~i~G~V~d~~G~Pi~gA~vdiWqad~~G~Y~~~~~~~~~~~lRG~~~Td~~G~y~f~Ti~Pg-~Y~ip~  200 (280)
+T 3HHY_A          129 ITPLVFSGQVTDLDGNGLAGAKVELWHADNDGYYSQFAPHLPEWNLRGTIIADEEGRYEITTIQPA-PYQIPT  200 (280)
+T ss_dssp             SCEEEEEEEEECTTSCBCSSCEEEEECCCTTSCCTTSSTTSCTTTTEEEEECCTTSEEEEEEECCC-CEECCC
+T ss_pred             CceEEEEEEEEcCCCCcCCCcEEEEEecCCCCCcccccCCCCCccceEEEEeCCCCcEEEEEeCCC-CccCCC
+Confidence            345688999999999999999999977654321              1255999999999999765 677653
+
+
+No 27
+>6R66_A Transthyretin; Amyloidosis, tetramer, binding protein, TRANSPORT; HET: JTN; 1.3A {Homo sapiens}
+Probab=58.69  E-value=7.7  Score=45.51  Aligned_cols=60  Identities=18%  Similarity=0.197  Sum_probs=42.2  Template_Neff=6.900
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDL-DGFPIPNAEVVINKTDV--E--NEQTQFTDSVGEVLFT----GVNINQEYNITVNY  468 (2326)
+Q Consensus       408 ~~~~~v~i~~~Di-DG~~vpna~V~ln~~~~--~--~~~~~~T~~~G~~~F~----~i~~~~~Yn~tvny  468 (2326)
+                      .....|+..|+|. +|+|++|+.|.|.....  .  ......||.+|++.+.    +++.| .|.+++.-
+T Consensus        27 ~~~g~Is~hVlDt~~G~Pa~gv~V~L~~~~~~~~~~~~~~~~TdadGr~~~~~~~~~~~~G-~Ykv~f~~   95 (147)
+T 6R66_A           27 ESKCPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEG-IYKVEIDT   95 (147)
+T ss_dssp             ---CCEEEEEEETTTTEECTTCEEEEEEECTTSCEEEEEEEECCTTSEECCSCCTTTCCSE-EEEEEECH
+T ss_pred             CccCcEEEEEEeCCCCeecCCeEEEEEEcCCCCCeeeceEEEeCCCceEEeCcCCccCCCE-EEEEEEEc
+Confidence            4567788888998 99999999999844321  1  1235679999999983    56654 68777763
+
+
+No 28
+>1TMX_A hydroxyquinol 1,2-dioxygenase (E.C.1.13.11.37); beta barrel, OXIDOREDUCTASE; HET: BEZ, HGX, SO4; 1.75A {Pimelobacter simplex}
+Probab=57.79  E-value=8.1  Score=50.27  Aligned_cols=58  Identities=21%  Similarity=0.302  Sum_probs=44.5  Template_Neff=5.900
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-Q------------TQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-~------------~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|.-+|+|.||+|||||.|.++..+.... .            ...||.+|...|.-|..+ .|.+-
+T Consensus       130 ~G~~l~i~G~V~d~~G~Pv~gA~vdvWqad~~G~Y~~~~~~~~~~~RG~~~TD~~G~y~f~Ti~Pg-~Y~ip  200 (293)
+T 1TMX_A          130 AGEPCWVEGTVTDTDGNPVPDARIEVWEADDDGFYDVQYDDDRTAARAHLLSGPDGGYAFWAITPT-PYPIP  200 (293)
+T ss_dssp             CSCEEEEEEEEEETTSCBCTTCEEEEECCCTTSCCGGGSSSCCCCSEEEEECCTTSEEEEEEECCC-CEECC
+T ss_pred             CCCeEEEEEEEECCCCCcCCCcEEEEEecCCCCCcceecCCCCCCCeEEEEcCCCCeEEEEEECCC-CcCCC
+Confidence            3455778899999999999999999977654431 1            226999999999999665 57653
+
+
+No 29
+>3N9T_A PnpC (E.C.1.13.11.37); PHOSPHOLIPID BINDS, N-TERMINAL HELIX TUNNEL; HET: HGX, FLC; 2.0A {Pseudomonas putida}
+Probab=57.26  E-value=8.4  Score=50.03  Aligned_cols=57  Identities=21%  Similarity=0.165  Sum_probs=44.1  Template_Neff=5.700
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      ....--|..+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+
+T Consensus       126 ~G~~l~v~G~V~d~~G~Pi~gA~VdvWqad~~G~Y~~~~~~~~~~~lRG~~~TD~~G~y~f~Ti~Pg-~Y~i  196 (290)
+T 3N9T_A          126 DGVPALVYGRVLDVQGRPVVGAVLDVWQTADNGMYSGQDPDQPFGNLRGRYRSDNDGCFAIQTTVPV-CYPI  196 (290)
+T ss_dssp             CSCEEEEEEEEEETTSCBCSSCEEEEECCCTTSCCTTTSTTSCTTTTEEEEECCTTSEEEEEEECCC-CEEC
+T ss_pred             CCceEEEEEEEECCCCCccCCcEEEEEecccCCCcCCCCCCCCCCcCeeEEEcCCCCeEEEEEeccC-CcCC
+Confidence            3456778899999999999999999977654321              1345999999999999665 5765
+
+
+No 30
+>5LDY_A Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=57.08  E-value=8.5  Score=51.39  Aligned_cols=136  Identities=15%  Similarity=0.087  Sum_probs=74.6  Template_Neff=8.500
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVEN-EQTQFTDSVGEVLFTG--VNINQEYNITVNYTNTGLEQDLEYQIGFVD  485 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~-~~~~~T~~~G~~~F~~--i~~~~~Yn~tvnyt~~g~~~~~~~~~~~~~  485 (2326)
+                      ....+++.++|..|+|++|.+|.+....... ..+..||.+|.+.|+=  ... +.|.+++.+..............+..
+T Consensus       141 ~~~~vtv~v~D~~Gnpv~g~~V~f~~~~~~~~~~~~~Td~~G~at~t~t~~~~-G~~~ita~~~~~~~~~~~~~~vt~~~  219 (357)
+T 5LDY_A          141 IGSTITFTAQDAQGNAITGLDIAFMTDLENSQIMTLVDHNDGTYTANINGTQT-GIANIAVQSSGATIAGLAATMVTITP  219 (357)
+T ss_dssp             SCEEEEEECCCTTSCCCCSCCEEEEESSTTEEECCCEECSSSEEEEEEEESSC-EECCEEEEESSCBCCSCCCCCCEEEC
+T ss_pred             ceEEEEEEEECCCCCcCCCcEEEEEeCCCCceeeeEEeCCCeEEEEEEEecCC-eEEEEEEEEcCCccccceeEEEEEec
+Confidence            4467899999999999999999763222111 2245689999887662  223 46888887753222110001111110
+
+
+Q LOKIASV2_40800  486 -KVVLT----DFNY-----NYTMA------TSLWSMDFYVDDYDNVPISNAFVVIYNNSAGEE-PI---ANSSLDDNGYT  545 (2326)
+Q Consensus       486 -~~~~~----~~~~-----~~~i~------~~lwtidF~i~D~d~~pl~~g~v~v~n~~~~~~-~l---~~~tl~~~G~a  545 (2326)
+                       .....    .+..     ...+.      -+-.++.+.+.|-+|.|+...-  .++...+.. .+   .....|++|.|
+T Consensus       220 ~~~~~~~~~~~l~~~~~~~~~~~a~g~~~~~~~~~vta~v~D~~Gnpv~~~~--~~~~~~g~~~~~~~~~~~~Td~~G~A  297 (357)
+T 5LDY_A          220 GAWNTTQATPVMTVALPITTCQSSSGVYKRYYIGIVTHELYDNYGNEISGIL--TYNLGAGRYTTVTSQNSSVSGSNGLT  297 (357)
+T ss_dssp             CCBCSSCCSCCEEEECCCSCCEESSSSEECEEEEEEECCEEBSSCCEECCEE--EEEECCEEEEETTSCEEEECCEEEEE
+T ss_pred             CCcccccccceEEEecCCCcceecccceeeceEEEEEEEEECCCCCccCCcE--EEEcCCceeEEeecCCcceeccccEE
+Confidence             00000    0000     00011      2334566778999999998766  444433321 11   13577889998
+
+
+Q LOKIASV2_40800  546 TI  547 (2326)
+Q Consensus       546 tF  547 (2326)
+                      +|
+T Consensus       298 ~~  299 (357)
+T 5LDY_A          298 RR  299 (357)
+T ss_dssp             EE
+T ss_pred             EE
+Confidence            76
+
+
+No 31
+>5LDY_B Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=57.08  E-value=8.5  Score=51.39  Aligned_cols=136  Identities=15%  Similarity=0.087  Sum_probs=74.6  Template_Neff=8.500
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVEN-EQTQFTDSVGEVLFTG--VNINQEYNITVNYTNTGLEQDLEYQIGFVD  485 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~-~~~~~T~~~G~~~F~~--i~~~~~Yn~tvnyt~~g~~~~~~~~~~~~~  485 (2326)
+                      ....+++.++|..|+|++|.+|.+....... ..+..||.+|.+.|+=  ... +.|.+++.+..............+..
+T Consensus       141 ~~~~vtv~v~D~~Gnpv~g~~V~f~~~~~~~~~~~~~Td~~G~at~t~t~~~~-G~~~ita~~~~~~~~~~~~~~vt~~~  219 (357)
+T 5LDY_B          141 IGSTITFTAQDAQGNAITGLDIAFMTDLENSQIMTLVDHNDGTYTANINGTQT-GIANIAVQSSGATIAGLAATMVTITP  219 (357)
+T ss_dssp             SCEEEEEECBBTTSCBCCSCCCCEEECSTTEEECCCEECSSSEEEEEEEESSC-EEEEEEEEETTEECCSCCCCEEEEEC
+T ss_pred             ceEEEEEEEECCCCCcCCCcEEEEEeCCCCceeeeEEeCCCeEEEEEEEecCC-eEEEEEEEEcCCccccceeEEEEEec
+Confidence            4467899999999999999999763222111 2245689999887662  223 46888887753222110001111110
+
+
+Q LOKIASV2_40800  486 -KVVLT----DFNY-----NYTMA------TSLWSMDFYVDDYDNVPISNAFVVIYNNSAGEE-PI---ANSSLDDNGYT  545 (2326)
+Q Consensus       486 -~~~~~----~~~~-----~~~i~------~~lwtidF~i~D~d~~pl~~g~v~v~n~~~~~~-~l---~~~tl~~~G~a  545 (2326)
+                       .....    .+..     ...+.      -+-.++.+.+.|-+|.|+...-  .++...+.. .+   .....|++|.|
+T Consensus       220 ~~~~~~~~~~~l~~~~~~~~~~~a~g~~~~~~~~~vta~v~D~~Gnpv~~~~--~~~~~~g~~~~~~~~~~~~Td~~G~A  297 (357)
+T 5LDY_B          220 GAWNTTQATPVMTVALPITTCQSSSGVYKRYYIGIVTHELYDNYGNEISGIL--TYNLGAGRYTTVTSQNSSVSGSNGLT  297 (357)
+T ss_dssp             CSBCTTCCSCSEEEECCSSCCCCSSSSBCCEEEEEEECCEEBTTSCEECCEE--EEEECCEEEEETTCCEEEECCEEEEE
+T ss_pred             CCcccccccceEEEecCCCcceecccceeeceEEEEEEEEECCCCCccCCcE--EEEcCCceeEEeecCCcceeccccEE
+Confidence             00000    0000     00011      2334566778999999998766  444433321 11   13577889998
+
+
+Q LOKIASV2_40800  546 TI  547 (2326)
+Q Consensus       546 tF  547 (2326)
+                      +|
+T Consensus       298 ~~  299 (357)
+T 5LDY_B          298 RR  299 (357)
+T ss_dssp             EE
+T ss_pred             EE
+Confidence            76
+
+
+No 32
+>2XSU_A CATECHOL 1,2 DIOXYGENASE; OXIDOREDUCTASE; HET: PIE; 1.6A {ACINETOBACTER RADIORESISTENS}
+Probab=56.99  E-value=8.6  Score=50.43  Aligned_cols=57  Identities=19%  Similarity=0.120  Sum_probs=44.3  Template_Neff=5.600
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|.-+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+-
+T Consensus       134 G~~l~v~G~V~D~~G~Pi~gA~VdvWqad~~G~Y~~~~~~~~~~~~RG~~~TD~~G~y~f~Ti~Pg-~Y~ip  204 (312)
+T 2XSU_A          134 VDTLIIEGTVTDTEGNIIEGAKVEVWHANSLGNYSFFDKSQSDFNLRRTILTDVNGKYVALTTMPV-GYGCP  204 (312)
+T ss_dssp             SCEEEEEEEEEETTSCBCTTCEEEEECCCTTSCCBTTBTTSCTTTTEEEEECCTTSEEEEEEECCC-CEECC
+T ss_pred             ccEEEEEEEEECCCCCcCCCCEEEEEeeCCCCCcccccCCCCCCCCceEEEeCCCCeEEEEEeCCC-CCCCC
+Confidence            356778899999999999999999977654321              1236999999999999765 67764
+
+
+No 33
+>3MV4_N Protocatechuate 3,4-dioxygenase alpha chain (E.C.1.13.11.3); intradiol, non-heme, holoenzyme, ferric iron; HET: GOL, BME, SO4, CO3; 1.59A {Pseudomonas putida}
+Probab=56.97  E-value=8.6  Score=48.69  Aligned_cols=59  Identities=20%  Similarity=0.150  Sum_probs=44.8  Template_Neff=6.400
+
+Q LOKIASV2_40800  406 MESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       406 ~e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      .....-.|..+|+|.+|+|||||.|.++..+....                   ....||++|...|.-|..+ .|-+.
+T Consensus        73 ~~G~~l~l~G~V~D~~g~Pv~gA~VeiWqad~~G~Y~~~~~~~~~~~~~~~~~rG~~~TD~~G~y~f~TI~PG-~Y~~~  150 (238)
+T 3MV4_N           73 PIGERIIVAGRVVDQYGKPVPNTLVEMWQANAGGRYRHKNDRYLAPLDPNFGGVGRCLTDSDGYYSFRTIKPG-PHPWR  150 (238)
+T ss_dssp             CSSCEEEEEEEEEETTSCBCTTCEEEEEECCTTSCCSSTTCCCSSCCCTTCCCEEEEECCTTSEEEEEEECCC-CEEES
+T ss_pred             CCCCeEEEEEEEEcCCCCcCCCeEEEEEeCCCCCCcccccccCCCCCCCCCCCeeEEEcCCCCEEEEEEeCCc-CCCCC
+Confidence            34456778889999999999999999976553221                   1255999999999999765 57654
+
+
+No 34
+>3O5U_A Chlorocatechol 1,2-dioxygenase (E.C.1.13.11.-); BETA BARREL, OXIDOREDUCTASE; HET: MYY, GOL, DHB; 2.35A {Rhodococcus opacus}
+Probab=56.90  E-value=8.6  Score=49.20  Aligned_cols=56  Identities=20%  Similarity=0.265  Sum_probs=43.9  Template_Neff=6.200
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE---------------QTQFTDSVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~---------------~~~~T~~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      ...-.|+.+|+|.||+|||||.|.++..+....               ....||.+|...|.-|..+ .|.+
+T Consensus       101 G~~l~v~G~V~d~~G~Pi~gA~vdiWqad~~G~Y~~~~~~~~~~~~~RG~~~TD~~G~~~f~Ti~Pg-~Y~i  171 (257)
+T 3O5U_A          101 GDRMRFTGSVRDTSGTPITGAVIDVWHSTNDGNYSFFSPALPDQYLLRGRVVPAEDGSIEFHSIRPV-PYEI  171 (257)
+T ss_dssp             SCEEEEEEEEECTTCCBCTTCEEEEECCCTTSCCTTSCTTSCSSCTTEEEECCCTTSEEEEEEECCC-CEEC
+T ss_pred             CCEEEEEEEEECCCCCcCCCcEEEEEecCCCCCccccCCCCCCCccceEEEecCCCCeEEEEEeCCc-cccC
+Confidence            456778899999999999999999977654321               1256999999999999665 6765
+
+
+No 35
+>3O6J_B Chlorocatechol 1,2-dioxygenase (E.C.1.13.11.-); BETA BARREL, OXIDOREDUCTASE; HET: MYY; 2.9A {RHODOCOCCUS OPACUS}
+Probab=56.90  E-value=8.6  Score=49.20  Aligned_cols=56  Identities=20%  Similarity=0.265  Sum_probs=43.9  Template_Neff=6.200
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE---------------QTQFTDSVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~---------------~~~~T~~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      ...-.|+.+|+|.||+|||||.|.++..+....               ....||.+|...|.-|..+ .|.+
+T Consensus       101 G~~l~v~G~V~d~~G~Pi~gA~vdiWqad~~G~Y~~~~~~~~~~~~~RG~~~TD~~G~~~f~Ti~Pg-~Y~i  171 (257)
+T 3O6J_B          101 GDRMRFTGSVRDTSGTPITGAVIDVWHSTNDGNYSFFSPALPDQYLLRGRVVPAEDGSIEFHSIRPV-PYEI  171 (257)
+T ss_dssp             SCEEEEEEEEECSSSCBCTTEEEEEECCCTTSCCTTSCTTSCSSCSSEEEECCCTTSCEEEEEECCC-CEEC
+T ss_pred             CCEEEEEEEEECCCCCcCCCcEEEEEecCCCCCccccCCCCCCCccceEEEecCCCCeEEEEEeCCc-cccC
+Confidence            456778899999999999999999977654321               1256999999999999665 6765
+
+
+No 36
+>3I4Y_A Catechol 1,2-dioxygenase (E.C.1.13.11.1); beta-sandwich, Aromatic hydrocarbons catabolism, Dioxygenase; HET: 35C, 6PL; 1.85A {Rhodococcus opacus}
+Probab=56.19  E-value=9  Score=49.36  Aligned_cols=57  Identities=28%  Similarity=0.303  Sum_probs=44.4  Template_Neff=6.100
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|+.+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+-
+T Consensus       119 G~~l~v~G~V~d~~G~Pi~gA~vdvWq~d~~G~Y~~~~~~~~~~~~RG~~~Td~~G~y~f~Ti~P~-~Y~ip  189 (270)
+T 3I4Y_A          119 ITPLVFSGQVTDLDGNGLAGAKVELWHADNDGYYSQFAPHLPEWNLRGTIIADEEGRYEITTIQPA-PYQIP  189 (270)
+T ss_dssp             SCEEEEEEEEECSSSCBCTTEEEEEECCCTTSCCTTSSTTSCTTTTEEEEEECTTSEEEEEEECCC-CEECC
+T ss_pred             CceEEEEEEEEcCCCCccCCcEEEEEecCCCCCcccccCCCCCccceeEEEeCCCCcEEEEEeCCC-CCCCC
+Confidence            345688899999999999999999977654321              1255999999999999765 67654
+
+
+No 37
+>3TH1_A Chlorocatechol 1,2-dioxygenase (E.C.1.13.11.-); Catechol 1,2-dioxygenase family, oxidoreductase, iron; HET: 3PH, DTD, GOL; 3.4A {Pseudomonas putida}
+Probab=56.14  E-value=9  Score=49.07  Aligned_cols=57  Identities=16%  Similarity=0.054  Sum_probs=44.3  Template_Neff=6.000
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|+.+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+-
+T Consensus        97 G~~l~v~G~V~d~~G~Pi~gA~vdiWqad~~G~Y~~~~~~~~~~~lRG~~~Td~~G~y~f~Ti~Pg-~Y~ip  167 (260)
+T 3TH1_A           97 HKPLIIRGTVRSDTGELLAGAVIDVWHSTPDGLYSGIHDNIPVDYYRGKLVTDSQGNYRVRTTMPV-PYQIP  167 (260)
+T ss_dssp             CCEEEEEEEEEETTSCBCSSCEEEEEECCTTSCCTTTSTTCCTTBTEEEEECCTTSEEEEEEECCC-CEECC
+T ss_pred             CcEEEEEEEEEcCCCCcCCCcEEEEEEcCCCCCcCCccCCCCCCCCeeEEEcCCCCcEEEEecCCC-CccCC
+Confidence            456778889999999999999999977654321              1245999999999999765 67754
+
+
+No 38
+>3TH1_C Chlorocatechol 1,2-dioxygenase (E.C.1.13.11.-); Catechol 1, 2-dioxygenase family, oxidoreductase; HET: GOL, DTD, 3PH; 3.4A {Pseudomonas putida}
+Probab=56.14  E-value=9  Score=49.07  Aligned_cols=57  Identities=16%  Similarity=0.054  Sum_probs=44.3  Template_Neff=6.000
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|+.+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+-
+T Consensus        97 G~~l~v~G~V~d~~G~Pi~gA~vdiWqad~~G~Y~~~~~~~~~~~lRG~~~Td~~G~y~f~Ti~Pg-~Y~ip  167 (260)
+T 3TH1_C           97 HKPLIIRGTVRSDTGELLAGAVIDVWHSTPDGLYSGIHDNIPVDYYRGKLVTDSQGNYRVRTTMPV-PYQIP  167 (260)
+T ss_dssp             CCCEEEEEEEEESSCCCCSSCEEEEEECCTTSCCSCC---CCSSTTEEEEECCSSCEEEEEECCCC-CEECC
+T ss_pred             CcEEEEEEEEEcCCCCcCCCcEEEEEEcCCCCCcCCccCCCCCCCCeeEEEcCCCCcEEEEecCCC-CccCC
+Confidence            456778889999999999999999977654321              1245999999999999765 67754
+
+
+No 39
+>6FWV_B Collagen Adhesion protein; LPXTG-anchored, surface protein, thioester domain; HET: MSE; 2.58A {Bacillus anthracis}
+Probab=54.75  E-value=9.9  Score=52.88  Aligned_cols=134  Identities=17%  Similarity=0.245  Sum_probs=74.3  Template_Neff=10.200
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLD--GFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYTNTGLEQD-LEYQIGFV  484 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiD--G~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt~~g~~~~-~~~~~~~~  484 (2326)
+                      .....+++...|.+  |.++++|+|.|...+........||++|...| +++.| .|.+...-...|.... ........
+T Consensus       344 ~~~g~i~~~k~d~~~~~~~l~g~~~~l~~~~g~~~~~~~td~~G~~~~-~l~~G-~Y~v~e~~~~~gy~~~~~~~~~~v~  421 (526)
+T 6FWV_B          344 NVKGELEITKVDVADGNTKLPNAEFTIYNEQGKEVVKGKTDEKGVAKF-KLPYG-KYTYKETIAPNGYVINEETFAFEIK  421 (526)
+T ss_dssp             BCEEEEEEEEEESSCTTCBCCSCEEEEEETTCCEEEEEECCTTSEEEE-EEESE-EEEEEEEECCTTEECCCCEEEEEEC
+T ss_pred             eeceeEEEEEEeCCCCCeecCCcEEEEEeCCCCEEEEEEECCCCeEEE-EcCCE-EEEEEEEeCCCCeeeCCCcEEEEEe
+Confidence            34566777778865  68999999999654433334567999999999 69876 6888765432222110 00000000
+
+
+Q LOKIASV2_40800  485 DKVVLTDFNYNYTMATSLWSMDFYVDDYD--NVPISNAFVVIYNNSAGEEPIANSSLDDNGYTTI  547 (2326)
+Q Consensus       485 ~~~~~~~~~~~~~i~~~lwtidF~i~D~d--~~pl~~g~v~v~n~~~~~~~l~~~tl~~~G~atF  547 (2326)
+                      ..-...  ...+.....--.+.+...|.+  +.|+...-+.+++.. + ..+...+.|++|...|
+T Consensus       422 ~~~~~~--~~~~~~~~~~~~i~~~~~d~~~~~~~~~ga~~~l~~~~-~-~~~~~~~td~~G~~~~  482 (526)
+T 6FWV_B          422 ENGEII--KHIVQDKKVEGELEITKVDVADGNTKLPNAEFTIYNEQ-G-KEVVKGKTNEQGIAKF  482 (526)
+T ss_dssp             STTCEE--EEEEEEEECEEEEEEEEEESSCCC--CCCCEEEEEESS-C-CEEEEEECCGGGEEEE
+T ss_pred             eCCEEE--EEEEeCceeeeeEEEEEEECCCCCeEccCcEEEEEeCC-C-CEEEEEEeCCCcEEEE
+Confidence            000000  000000000112344455544  689988888898753 3 3466677888998777
+
+
+No 40
+>2XSV_A CATECHOL 1,2 DIOXYGENASE; OXIDOREDUCTASE; HET: PIE; 1.8A {ACINETOBACTER RADIORESISTENS}
+Probab=54.32  E-value=10  Score=49.79  Aligned_cols=57  Identities=19%  Similarity=0.120  Sum_probs=44.1  Template_Neff=5.600
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|..+|+|.||+|||||.|.++..+....              ....||.+|...|.-|..+ .|.+-
+T Consensus       134 G~~l~v~G~V~D~~G~Pi~gA~VdvWqad~~G~Y~~~~~~~~~~~~RG~~~TD~~G~y~f~Ti~Pg-~Y~ip  204 (312)
+T 2XSV_A          134 VDTLIIEGTVTDTEGNIIEGAKVEVWHANSLGNYSFFDKSQSDFNLRRTILTDVNGKYVALTTMPV-GYGCP  204 (312)
+T ss_dssp             SCEEEEEEEEECTTSCBCTTCEEEEECCCTTSCCBTTBTTSCTTTTEEEEECCTTSEEEEEEECCC-CEECC
+T ss_pred             ccEEEEEEEEECCCCCcCCCCEEEEEeeCCCCCcccccCCCCCCCCceEEEeCCCCeEEEEEeCCC-CCCCC
+Confidence            355788899999999999999999977654321              1236999999999999665 57654
+
+
+No 41
+>5FTX_A SURFACE LAYER PROTEIN; CELL ADHESION, SURFACE LAYER, SELF-ASSEMBLY; 4.1A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=54.29  E-value=10  Score=54.88  Aligned_cols=268  Identities=13%  Similarity=0.164  Sum_probs=155.7  Template_Neff=7.200
+
+Q LOKIASV2_40800 1852 QSGSTYQRTFNTINFGQQGTYTFQISFQLNQYQSRQVIITVYINGITTDMTTEEDEYSVLWNEIMVFSVNFSDTHNNLPI 1931 (2326)
+Q Consensus      1852 ~s~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~~~~~i~i~V~~i~T~lt~~~~~~sv~wge~i~itv~y~D~~~n~pI 1931 (2326)
+                      +.+|.+..    .   ..|++.|++.+.+..   ....+.+........+........+..++...+++.++|.+ ++|+
+T Consensus        73 d~~G~ita----~---~~Gt~tITas~~~~s---~s~~VtV~~~~~v~~Itlt~~~~~la~G~t~tLtatv~D~~-GnpV  141 (653)
+T 5FTX_A           73 APDGSVTP----I---VPGTALVKVKYGEVT---KTIPVTVKANPVLETIAVDSTGVSVAKGQKATFKVTLKDQY-GNKF  141 (653)
+T ss_dssp             CTTSBEEE----C---SSEEEEEEEESTTCC---EEEEEEEBCCCCEEEEEESCSCBCBBTTCEEEEEEEEEETT-SSBC
+T ss_pred             CCCCeEEE----c---CCeEEEEEEEECCEE---EEEEEEEecCCceeEEEEeCCceeecCCCEEEEEEEEEcCC-CCee
+Confidence            45666552    2   467888887775521   23333333321111222211133355567788899999998 9999
+
+
+Q LOKIASV2_40800 1932 TDGTLNYSVGQVSGFIGN--LNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFIDINRIPTRINNSIFI- 2008 (2326)
+Q Consensus      1932 ~~Atvsy~~~~~sg~~~~--l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I~~ipT~Ln~s~~~- 2008 (2326)
+                      .+. +.|...........  ...+.+|.|++.+..   ..+|..+|++++.+..   ....  +.+........ ..+. 
+T Consensus       142 ~~~-Vtwsss~~~i~tvs~~~~gd~~G~~tvtlTa---~~aGt~tITat~~g~s---~s~t--VtV~~~~~~~s-i~lt~  211 (653)
+T 5FTX_A          142 TGN-VNVTSDKTETATVSVSNSGIGQSEYTVTVNG---VAEGSTTITIKSGTKE---VKVP--VNVVAGGPVAN-YQIKV  211 (653)
+T ss_dssp             CBC-CEEEETTTTTBCCEESGGGCSBSEEEEEEEB---CSSEEEEEEEEETTEE---EEEE--EEEBCCCCCCC-EEEEE
+T ss_pred             cce-EEEEeCCCCeEEEEeccccccCeEEEEEEEe---ecCeEEEEEEEECCEE---EEEE--EEEEcCCCceE-EEEEE
+Confidence            888 88776544321111  145678999999973   4789999988875533   1222  44433111000 0111 
+
+
+Q LOKIASV2_40800 2009 -------QVDYAINISTDHVYSIEYYDTEGNPIENA--NIAYVEWELVGEGIT--REFNLIETGQGTYLLDFNTSTR--- 2074 (2326)
+Q Consensus      2009 -------~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a--~i~~~~We~~g~gi~--~~~~Lie~gnG~Y~LdfdTe~~--- 2074 (2326)
+                             .....+..++...+++.++|.+|+|+.+.  .+   .|........  ......++++|.+.+.+.  ..   
+T Consensus       212 ~~~~~v~~~~~~a~~g~t~~ltatv~D~~GnpV~g~t~~V---~~sss~~~~~tv~~~~~~Td~nG~atvtlT--a~~~~  286 (653)
+T 5FTX_A          212 LDDGKIDKSATESPANNDVQLKVYAVDANGNIVGDITNDV---TITSEATDTNGVIVNASKSTANGDTVYVIT--DNGSK  286 (653)
+T ss_dssp             CSCSEEECSSSCSSCCCCEEEEEEEECTTSCEEEECTTSC---EEECCSSCSSSCCEEEEEEEETTEEEEEEE--ESCCS
+T ss_pred             cCCCcccCCccccCCCCceEEEEEEEcCCCCcccccccee---EEEecCCCcceEEEcceEeCCCceEEEEEE--ECCCc
+Confidence                   11223344566788889999999999987  66   7876543211  112345678898888886  45   
+
+
+Q LOKIASV2_40800 2075 PLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFS--GTKIAQQE----GKDLIFEISLQDSVTKTPLSGATVT 2148 (2326)
+Q Consensus      2075 ~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~--~~~i~~~~----G~~i~~~i~L~D~~~~~~I~gAtV~ 2148 (2326)
+                      ..|.+.|.+.+.+...    ....+++......... ..+.  ........    .....++++++|.. |+|+.|..|.
+T Consensus       287 ~aG~~tItAt~~g~~~----~s~~vtV~~~~~~~~~-~~l~~~~~~i~a~g~~~g~~~~tltvtV~D~~-GNpV~g~~Vt  360 (653)
+T 5FTX_A          287 KVGKETLTVKLGTVTL----GTVDVEVIDTTLKATV-VTKKADLIELDAADNGDALAKLLANLDIKDQN-GNPMVDSAAT  360 (653)
+T ss_dssp             SCEEEEEEEESSSSCC----CEEEEEEECCSCCCCE-EEESCSEEECCGGGTTBTHHHHHTTEEEECTT-SCBCCCCTTS
+T ss_pred             cceEEEEEEEECCeee----eEEEEEEEeCCCcceE-EEEEEeccEEecCCCCCcccEEEEEEEEECCC-CCccCCcEEE
+Confidence            7899999988865432    1333444333211111 1111  11111112    35678999999999 9999999999
+
+
+Q LOKIASV2_40800 2149 LEF 2151 (2326)
+Q Consensus      2149 l~~ 2151 (2326)
+                      |..
+T Consensus       361 fs~  363 (653)
+T 5FTX_A          361 PNT  363 (653)
+T ss_dssp             TTS
+T ss_pred             EEc
+Confidence            986
+
+
+No 42
+>1CWV_A INVASIN; INTEGRIN-BINDING PROTEIN, INV GENE, STRUCTURAL; HET: CIT; 2.3A {Yersinia pseudotuberculosis} SCOP: d.169.1.3, b.1.14.1
+Probab=54.00  E-value=10  Score=52.42  Aligned_cols=136  Identities=17%  Similarity=0.196  Sum_probs=73.3  Template_Neff=9.800
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVEN--EQTQFTDSVGEVLFT--GVNINQEYNITVNYTNTGLEQDLEYQIGFV  484 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~--~~~~~T~~~G~~~F~--~i~~~~~Yn~tvnyt~~g~~~~~~~~~~~~  484 (2326)
+                      ....++++++|.+|+||+++.|.+-......  .....||.+|.+.++  ....| .+.+++.+........+.+.....
+T Consensus        26 ~~~~~~~~v~D~~g~~i~~~~V~~~~~~~~~~~~~~~~td~~G~a~~~lt~~~~G-~~~v~a~~~g~~~~~~~~~~~~~~  104 (492)
+T 1CWV_A           26 TAITVEFTVADFEGKPLAGQEVVITTNNGALPNKITEKTDANGVARIALTNTTDG-VTVVTAEVEGQRQSVDTHFVKGTI  104 (492)
+T ss_dssp             SCEEEEEEEECTTSCBCCSCEEEEECCTTCBSCEEEEECCTTSEEEEEEBCSSCE-EEEEEEEETTEEEEEEEEEECCCB
+T ss_pred             ceEEEEEEEECCCCCcCCCcEEEEEeCCCCCCCceeeeeCCCcEEEEEEEecCCE-EEEEEEEEcCeecceEEEEEcCCc
+Confidence            4577999999999999999999763222211  124568999999874  33334 688887764211111111111000
+
+
+Q LOKIASV2_40800  485 D--KVVLTDFNYNYTMAT---SLWSMDFYVDDYDNVPISNAFVVIYNNSAGEEPIANSSLDDNGYTTIRVQ  550 (2326)
+Q Consensus       485 ~--~~~~~~~~~~~~i~~---~lwtidF~i~D~d~~pl~~g~v~v~n~~~~~~~l~~~tl~~~G~atFrw~  550 (2326)
+                      .  ...+.-...  .+.+   .--++...+.|-+|.|+...-|.+.-+. +  .+.....+.+|+++++..
+T Consensus       105 ~~~~~~l~~~~~--~~~a~~~~~~~~t~~v~D~~g~pv~~~~V~~~~~~-~--~~~~~~t~~~G~~~~~lt  170 (492)
+T 1CWV_A          105 AADKSTLAAVPT--SIIADGLMASTITLELKDTYGDPQAGANVAFDTTL-G--NMGVITDHNDGTYSAPLT  170 (492)
+T ss_dssp             CGGGCEEEEESS--EEETTSSCCEEEEEECBBTTSCBCCSCCEEEEESS-S--EECCCEECSSSEEEEEEE
+T ss_pred             ccccceEEEecC--eeecCCeeeEEEEEEEECCCCCcCCCCEEEEEeCC-C--ccceEEeCCCcEEEEEEE
+Confidence            0  000000000  0111   2233455678888999987777764321 1  123444567787766443
+
+
+No 43
+>1DLQ_A CATECHOL 1,2-DIOXYGENASE (E.C.1.13.11.1); METALLOPROTEIN, DIOXYGENASE, MERCURY, AROMATIC COMPOUND; HET: LIO; 2.3A {Acinetobacter sp.} SCOP: b.3.6.1
+Probab=51.97  E-value=12  Score=49.28  Aligned_cols=58  Identities=22%  Similarity=0.310  Sum_probs=44.7  Template_Neff=5.800
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE----------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~----------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|+.+|+|.||+|||||.|.++..+....                ....||.+|...|.-|..+ .|.+-
+T Consensus       130 ~G~~l~l~G~V~D~~G~Pv~gA~VdiWqad~~G~Y~~~~~~~~~~~~~~RG~~~TD~~G~y~F~Ti~Pg-~Y~ip  203 (311)
+T 1DLQ_A          130 NGHTLILHGTIFDADGKPLPNAKVEIWHANTKGFYSHFDPTGEQQAFNMRRSIITDENGQYRVRTILPA-GYGCP  203 (311)
+T ss_dssp             TCCEEEEEEEEECTTSCBCTTCEEEEECCCTTSCCTTSCTTCCCCTTTTEEEEECCTTSEEEEEEECCC-CBCCC
+T ss_pred             CCCEEEEEEEEECCCCCcCCCCEEEEEccCCCCccccCCCCCCCCCCCCceEEEcCCCCeEEEEEeCCC-CCCCC
+Confidence            3456788899999999999999999977654321                1246999999999999765 57654
+
+
+No 44
+>1DMH_B CATECHOL 1,2-DIOXYGENASE (E.C.1.13.11.1); DIOXYGENASE, AROMATIC HYDROCARBON DEGRADATION, ALPHA/BETA; HET: MCT, LIO; 1.7A {Acinetobacter sp.} SCOP: b.3.6.1
+Probab=51.97  E-value=12  Score=49.28  Aligned_cols=58  Identities=22%  Similarity=0.310  Sum_probs=44.7  Template_Neff=5.800
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE----------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~----------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|+.+|+|.||+|||||.|.++..+....                ....||.+|...|.-|..+ .|.+-
+T Consensus       130 ~G~~l~l~G~V~D~~G~Pv~gA~VdiWqad~~G~Y~~~~~~~~~~~~~~RG~~~TD~~G~y~F~Ti~Pg-~Y~ip  203 (311)
+T 1DMH_B          130 NGHTLILHGTIFDADGKPLPNAKVEIWHANTKGFYSHFDPTGEQQAFNMRRSIITDENGQYRVRTILPA-GYGCP  203 (311)
+T ss_dssp             TCCEEEEEEEEECTTSSBCTTCEEEEECCCTTSCCTTSCTTCCCCTTTTEEEEECCTTSEEEEEEECCC-CCBCC
+T ss_pred             CCCEEEEEEEEECCCCCcCCCCEEEEEccCCCCccccCCCCCCCCCCCCceEEEcCCCCeEEEEEeCCC-CCCCC
+Confidence            3456788899999999999999999977654321                1246999999999999765 57654
+
+
+No 45
+>1EOA_B PROTOCATECHUATE 3,4-DIOXYGENASE ALPHA CHAIN (E.C.1.13.11.3)/PROTOCATECHUATE; beta-sandwich mixed alpha/beta structure dioxygenase; 2.15A {Acinetobacter sp.} SCOP: b.3.6.1
+Probab=51.96  E-value=12  Score=47.63  Aligned_cols=58  Identities=21%  Similarity=0.181  Sum_probs=44.2  Template_Neff=6.400
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|..+|+|.+|+|||+|.|.++..+....                   ....||++|...|.-|..+ .|.+.
+T Consensus        75 ~G~~l~l~G~V~D~~G~PV~~A~VeiWqada~G~Y~~~~~~~~~~~~~~f~~rG~~~TD~~G~y~f~TI~PG-~Y~~~  151 (241)
+T 1EOA_B           75 IGERVIVHGYVRDQFGRPVKNALVEVWQANASGRYRHPNDQYIGAMDPNFGGCGRMLTDDNGYYVFRTIKPG-PYPWR  151 (241)
+T ss_dssp             SSCEEEEEEEEEETTSCBCTTCEEEEECCCTTSCCSSTTCCCSSCCCTTCCCEEEEECCTTSEEEEEEECCC-CEEES
+T ss_pred             CCCEEEEEEEEEcCCCCccCCcEEEEEecCCCCCCCCCCccccCcCCCCCCCeeEEecCCCCeEEEEeeCCc-cCCCc
+Confidence            4456778889999999999999999976543221                   1245999999999999765 57653
+
+
+No 46
+>2BUQ_B PROTOCATECHUATE 3,4-DIOXYGENASE ALPHA CHAIN (E.C.1.13.11.3); OXIDOREDUCTASE, DIOXYGENASE, AROMATIC DEGRADATION, NON-HEME; HET: CAQ; 1.8A {ACINETOBACTER CALCOACETICUS} SCOP: b.3.6.1
+Probab=51.96  E-value=12  Score=47.63  Aligned_cols=58  Identities=21%  Similarity=0.181  Sum_probs=44.2  Template_Neff=6.400
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|..+|+|.+|+|||+|.|.++..+....                   ....||++|...|.-|..+ .|.+.
+T Consensus        75 ~G~~l~l~G~V~D~~G~PV~~A~VeiWqada~G~Y~~~~~~~~~~~~~~f~~rG~~~TD~~G~y~f~TI~PG-~Y~~~  151 (241)
+T 2BUQ_B           75 IGERVIVHGYVRDQFGRPVKNALVEVWQANASGRYRHPNDQYIGAMDPNFGGCGRMLTDDNGYYVFRTIKPG-PYPWR  151 (241)
+T ss_dssp             SSCEEEEEEEEEETTSCBCCSCEEEEECCCTTSCCSSTTCCCSSCCCTTCCCEEEEECCTTSEEEEEEECCC-CEEES
+T ss_pred             CCCEEEEEEEEEcCCCCccCCcEEEEEecCCCCCCCCCCccccCcCCCCCCCeeEEecCCCCeEEEEeeCCc-cCCCc
+Confidence            4456778889999999999999999976543221                   1245999999999999765 57653
+
+
+No 47
+>2BV0_B PROTOCATECHUATE 3,4-DIOXYGENASE ALPHA CHAIN (E.C.1.13.11.3); DIOXYGENASE, AROMATIC DEGRADATION, NON-HEME IRON; HET: DHB; 1.8A {ACINETOBACTER CALCOACETICUS} SCOP: b.3.6.1
+Probab=51.96  E-value=12  Score=47.63  Aligned_cols=58  Identities=21%  Similarity=0.181  Sum_probs=44.2  Template_Neff=6.400
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|..+|+|.+|+|||+|.|.++..+....                   ....||++|...|.-|..+ .|.+.
+T Consensus        75 ~G~~l~l~G~V~D~~G~PV~~A~VeiWqada~G~Y~~~~~~~~~~~~~~f~~rG~~~TD~~G~y~f~TI~PG-~Y~~~  151 (241)
+T 2BV0_B           75 IGERVIVHGYVRDQFGRPVKNALVEVWQANASGRYRHPNDQYIGAMDPNFGGCGRMLTDDNGYYVFRTIKPG-PYPWR  151 (241)
+T ss_dssp             SSCEEEEEEEEEETTSCBCCSCEEEEECCCTTSCCSSTTCCCSSCCCTTCCCEEEEECCTTSEEEEEEECCC-CEEES
+T ss_pred             CCCEEEEEEEEEcCCCCccCCcEEEEEecCCCCCCCCCCccccCcCCCCCCCeeEEecCCCCeEEEEeeCCc-cCCCc
+Confidence            4456778889999999999999999976543221                   1245999999999999765 57653
+
+
+No 48
+>2AZQ_A catechol 1,2-dioxygenase (E.C.1.13.11.1); CTD  Catechol  Dioxygenase; HET: PCF; 2.65A {Pseudomonas putida}
+Probab=51.64  E-value=12  Score=49.18  Aligned_cols=57  Identities=21%  Similarity=0.275  Sum_probs=44.2  Template_Neff=5.700
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE--------------QTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~--------------~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ...-.|..+|+|.||+|||||.|.++..+....              .-..||.+|...|.-|..+ .|.+-
+T Consensus       130 G~~l~v~G~V~D~~G~Pi~gA~vdiWqad~~G~Y~~~~~~~~~~~lRG~~~TD~~G~y~f~Ti~Pg-~Y~ip  200 (311)
+T 2AZQ_A          130 GVVMFLQGQVFDANGKPLAGATVDLWHANTQGTYSYFDSTQSEFNLRRRIITDAEGRYRARSIVPS-GYGCD  200 (311)
+T ss_dssp             CCEEEEEEEEECSSSCBCTTCEEEEECCCTTSCCBTTBTTSCTTTTEEEEECCTTCEEEEEEECCC-CEECC
+T ss_pred             ccEEEEEEEEECCCCCcCCCCEEEEEecCCCCCcccccCCCCCccCeEEEEeCCCCeEEEEeeCCC-CCCCC
+Confidence            456788899999999999999999977654331              1245999999999999765 57653
+
+
+No 49
+>4UIC_A SURFACE LAYER PROTEIN; SUGAR BINDING PROTEIN, S-LAYER, SBSC; 2.9A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=51.42  E-value=12  Score=55.56  Aligned_cols=137  Identities=14%  Similarity=0.267  Sum_probs=86.4  Template_Neff=8.600
+
+Q LOKIASV2_40800 2017 STDHVYSIEYYDTEGNPIENAN----IAYVEWELVGEGITREFNLIETGQGTYLLDFNTSTRPLGDYNFVIHLGKDNYIE 2092 (2326)
+Q Consensus      2017 ~~~~~ftf~Y~Dt~~~~I~~a~----i~~~~We~~g~gi~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~ 2092 (2326)
+                      .+...+++.+.|..|+|+.+..    +   .|......     ...++.+|.++.      ...|.+.|.++..+..   
+T Consensus       450 ~~~~tvt~~v~D~~g~pv~~~~~~~~V---t~~~~~~~-----~~~td~~G~~t~------~~~G~~~Vtat~~~~~---  512 (814)
+T 4UIC_A          450 SGTLTLTAKFKDQYGNELTGKVAGTDY---TFESLNPE-----VLVVAPDGSVTP------IVPGTALVKVKYGEVT---  512 (814)
+T ss_pred             CcEEEEEEEEECCCCCcCCCcccccee---EEEecCCc-----eeeecCCeEEEE------ecCeEEEEEEEECCee---
+Confidence            3566788889999999999876    7   78765422     124567788763      3567888887776532   
+
+
+Q LOKIASV2_40800 2093 RSGAIRIAIEPRPIKYQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKTPLSGATVTLEFEAWDIQNITLTEVENQNGTYR 2172 (2326)
+Q Consensus      2093 rs~~I~LtI~~R~i~~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~~I~gAtV~l~~~~~~~~~~~~t~~~~~~GtY~ 2172 (2326)
+                        ....+++...+....  ..+.+.......+....++++++|.. |+|+.|. |.|...............++.+|.++
+T Consensus       513 --~~~~vtv~~~~~~~~--l~~~~~~~~~~~~~~~~ltv~v~D~~-Gn~v~~~-V~~~~~~~~~~~~~~s~~Td~~G~at  586 (814)
+T 4UIC_A          513 --KTIPVTVKANPVLET--IAVDSTGVSVAKGQKATFKVTLKDQY-GNKFTGN-VNVTSDKTETATVSVSNSGIGQSEYT  586 (814)
+T ss_pred             --eeEEEEEEeCCCcce--EEECCCeeeecCCceeEEEEEEECCC-CCcccce-EEEEecCCCeeEEeceEEeCCCcEEE
+Confidence              223344443321111  12222333445677889999999999 9999999 99887643211112234567788887
+
+
+Q LOKIASV2_40800 2173 YVLD 2176 (2326)
+Q Consensus      2173 ~~i~ 2176 (2326)
+                      +++.
+T Consensus       587 ~tlt  590 (814)
+T 4UIC_A          587 VTVN  590 (814)
+T ss_pred             EEEE
+Confidence            7764
+
+
+No 50
+>6FWV_A Collagen Adhesion protein; LPXTG-anchored, surface protein, thioester domain; HET: MSE; 2.58A {Bacillus anthracis}
+Probab=50.47  E-value=13  Score=51.80  Aligned_cols=134  Identities=17%  Similarity=0.249  Sum_probs=75.4  Template_Neff=10.200
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLD--GFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYTNTGLEQD-LEYQIGFV  484 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiD--G~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt~~g~~~~-~~~~~~~~  484 (2326)
+                      .....+++.+.|.+  |.++++|+|.|...+........||++|...| +|+.| .|.+...-...|.... ........
+T Consensus       344 ~~~g~i~~~k~d~~~~~~~l~g~~~~l~~~~~~~~~~~~td~~G~~~~-~l~~G-~Y~v~e~~~~~gy~~~~~~~~v~v~  421 (526)
+T 6FWV_A          344 NVKGELEITKVDVADGNTKLPNAEFTIYNEQGKEVVKGKTDEKGVAKF-KLPYG-KYTYKETIAPNGYVINEETFAFEIK  421 (526)
+T ss_dssp             BCEEEEEEEEEESSCTTCBCCSCEEEEEETTCCEEEEEECCTTSEEEE-EEESE-EEEEEEEECCTTEECCCCEEEEEEC
+T ss_pred             eeceeEEEEEEeCCCCCeecCCcEEEEEeCCCCEEEEEEeCCCCeEEE-EcCCE-EEEEEEEeCCCCeeeCCCcEEEEEe
+Confidence            34566777778864  68999999999554333334567999999999 69875 6887765432221100 00000000
+
+
+Q LOKIASV2_40800  485 DKVVLTDFNYNYTMATSLWSMDFYVDDYD--NVPISNAFVVIYNNSAGEEPIANSSLDDNGYTTI  547 (2326)
+Q Consensus       485 ~~~~~~~~~~~~~i~~~lwtidF~i~D~d--~~pl~~g~v~v~n~~~~~~~l~~~tl~~~G~atF  547 (2326)
+                      ..-..  ....+.....--.+.+...|.+  +.|+...-+.+++.. + ..+.....|++|...|
+T Consensus       422 ~~~~~--~~~~~~~~~~~~~i~~~~~d~~~~~~~~~ga~~~l~~~~-~-~~~~~~~td~~G~~~~  482 (526)
+T 6FWV_A          422 ENGEI--IKHIVQDKKVEGELEITKVDVADGNTKLPNAEFTIYNEQ-G-KEVVKGKTNEQGIAKF  482 (526)
+T ss_dssp             STTCE--EEEEEEEEECEEEEEEEEEESSSSSCCCCSCEEEEECSS-C-CEEEEEECCSTTEEEE
+T ss_pred             eCCEE--EEEEEeCceeeeeEEEEEEECCCCCeEcCCcEEEEEeCC-C-CEEEEEEeCCCcEEEE
+Confidence            00000  0000000000012344455554  688888888888753 3 2466677888998777
+
+
+No 51
+>4ILV_B Intradiol ring-cleavage dioxygenase; iron center, intradiol dioxygenase, carbohydrate; HET: EDO; 2.06A {Streptomyces sp. SirexAA-E}
+Probab=49.06  E-value=14  Score=47.18  Aligned_cols=55  Identities=16%  Similarity=0.144  Sum_probs=31.2  Template_Neff=6.600
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE---------QTQFTDSVGEVLFTGVNINQEYN  463 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~---------~~~~T~~~G~~~F~~i~~~~~Yn  463 (2326)
+                      ...-.|+.+|+|.+|+|||+|.|.|+..+....         ....||.+|...|.-+..+ .|.
+T Consensus        62 G~~l~l~G~V~d~~g~Pv~~A~veiW~~d~~G~Y~~~~~~~rG~~~Td~~G~~~f~Ti~Pg-~Y~  125 (248)
+T 4ILV_B           62 GVPLTVSGYVFGRACKPLTGVLLDFWQADTGGAYDMTGFAFRGHQFTGADGSFTLRTIVPG-LYP  125 (248)
+T ss_dssp             SCEEEEEEEEEEE------------ECCCTTSCCCSSSCTTEEEEECCTTCEEEEEEECCC-CBT
+T ss_pred             CCeEEEEEEEECCCCCcCCCcEEEEEecCCCCCCCCCCccceEEEcCCCCCeEEEEEeCCC-CCC
+Confidence            345678888999999999999999977654321         2467999999999999665 565
+
+
+No 52
+>3PCB_D PROTOCATECHUATE 3,4-DIOXYGENASE, BETA-MERCAPTOETHANOL, 3-HYDROXYBENZOIC ACID; DIOXYGENASE, IRON, NONHEME, METALLOPROTEIN, OXIDOREDUCTASE; HET: BME, 3HB; 2.19A {Pseudomonas putida} SCOP: b.3.6.1
+Probab=47.02  E-value=16  Score=45.23  Aligned_cols=57  Identities=21%  Similarity=0.144  Sum_probs=42.7  Template_Neff=6.900
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-Q-------------TQFTD-SVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-~-------------~~~T~-~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      ....-.|..+|+|.+|+|||+|.|.++..+.... .             ...|| .+|...|.-|..+ .|.+
+T Consensus        45 ~G~~l~i~G~V~d~~g~Pv~~A~VeiWqad~~G~Y~~~~~~~~~~~~rG~~~tdd~~G~y~f~Ti~Pg-~Y~~  116 (200)
+T 3PCB_D           45 PGEHILLLGQVYDGNGHLVRDSFLEVWQADANGEYQDAYNLENAFNSFGRTATTFDAGEWTLHTVKPG-VVNN  116 (200)
+T ss_pred             CCCeEEEEEEEECCCCCccCCcEEEEEEeCCCCCccccccCCCCccCeeEEEecCCCCEEEEEEeCCC-CccC
+Confidence            4456788999999999999999999976554321 1             11365 9999999999765 5754
+
+
+No 53
+>4WHS_A 3,4-PCD alpha subunit (E.C.1.13.11.13), 3,4-PCD; dioxygen activation, non-heme iron, intradiol; HET: MUC, BME, 3N8; 1.35A {Pseudomonas putida}
+Probab=47.02  E-value=16  Score=45.23  Aligned_cols=57  Identities=21%  Similarity=0.144  Sum_probs=42.7  Template_Neff=6.900
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-Q-------------TQFTD-SVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-~-------------~~~T~-~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      ....-.|..+|+|.+|+|||+|.|.++..+.... .             ...|| .+|...|.-|..+ .|.+
+T Consensus        45 ~G~~l~i~G~V~d~~g~Pv~~A~VeiWqad~~G~Y~~~~~~~~~~~~rG~~~tdd~~G~y~f~Ti~Pg-~Y~~  116 (200)
+T 4WHS_A           45 PGEHILLLGQVYDGNGHLVRDSFLEVWQADANGEYQDAYNLENAFNSFGRTATTFDAGEWTLHTVKPG-VVNN  116 (200)
+T ss_dssp             SSCEEEEEEEEECTTSCBCTTCEEEEEECCTTSCCCCBCCTTSSBCSEEEEECCTTTCEEEEEEECCC-CCBC
+T ss_pred             CCCeEEEEEEEECCCCCccCCcEEEEEEeCCCCCccccccCCCCccCeeEEEecCCCCEEEEEEeCCC-CccC
+Confidence            4456788999999999999999999976554321 1             11365 9999999999765 5754
+
+
+No 54
+>4WHP_D 3,4-PCD alpha subunit (E.C.1.13.11.13), 3,4-PCD; dioxygen activation, non-heme iron, intradiol; HET: SO4; 1.541A {Pseudomonas putida}
+Probab=45.57  E-value=17  Score=46.13  Aligned_cols=58  Identities=22%  Similarity=0.211  Sum_probs=43.4  Template_Neff=6.300
+
+Q LOKIASV2_40800  406 MESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTDSVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       406 ~e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      .....-.|+.+|+|.+|+|||||.|.|+..+....                   ....||.+|...|.-|-.+ .|-+
+T Consensus        73 ~~G~~l~l~G~V~D~~g~Pv~~A~veiWqada~G~Y~~~~~~~~~~~~~~~~~rG~~~TD~~G~~~F~TI~Pg-~Y~~  149 (238)
+T 4WHP_D           73 PIGERIIVAGRVVDQYGKPVPNTLVEMWQANAGGRYRHKNDRYLAPLDPNFGGVGRCLTDSDGYYSFRTIKPG-PYPW  149 (238)
+T ss_pred             CCCCEEEEEEEEECCCCCcCCCcEEEEEecCCCCCCCCcCcccCCCCCCCCCCeeEEEcCCCCEEEEEEcCCC-CCCC
+Confidence            34456778889999999999999999976653221                   1245899999999998655 5654
+
+
+No 55
+>4WHS_D 3,4-PCD alpha subunit (E.C.1.13.11.13), 3,4-PCD; dioxygen activation, non-heme iron, intradiol; HET: 3N8, BME, MUC; 1.35A {Pseudomonas putida}
+Probab=45.57  E-value=17  Score=46.13  Aligned_cols=58  Identities=22%  Similarity=0.211  Sum_probs=43.4  Template_Neff=6.300
+
+Q LOKIASV2_40800  406 MESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTDSVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       406 ~e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      .....-.|+.+|+|.+|+|||||.|.|+..+....                   ....||.+|...|.-|-.+ .|-+
+T Consensus        73 ~~G~~l~l~G~V~D~~g~Pv~~A~veiWqada~G~Y~~~~~~~~~~~~~~~~~rG~~~TD~~G~~~F~TI~Pg-~Y~~  149 (238)
+T 4WHS_D           73 PIGERIIVAGRVVDQYGKPVPNTLVEMWQANAGGRYRHKNDRYLAPLDPNFGGVGRCLTDSDGYYSFRTIKPG-PYPW  149 (238)
+T ss_pred             CCCCEEEEEEEEECCCCCcCCCcEEEEEecCCCCCCCCcCcccCCCCCCCCCCeeEEEcCCCCEEEEEEcCCC-CCCC
+Confidence            34456778889999999999999999976653221                   1245899999999998655 5654
+
+
+No 56
+>5VG2_A Intradiol ring-cleavage Dioxygenase; Tetranychus urticae, Dioxygenase, Catechol, intradiol; HET: CAC; 2.46A {Tetranychus urticae}
+Probab=45.41  E-value=17  Score=45.83  Aligned_cols=56  Identities=27%  Similarity=0.354  Sum_probs=41.6  Template_Neff=6.100
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLD-GFPIPNAEVVINKTDVENE-------------------------QTQFTDSVGEVLFTGVNINQ  460 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiD-G~~vpna~V~ln~~~~~~~-------------------------~~~~T~~~G~~~F~~i~~~~  460 (2326)
+                      ....-.|+++|+|.+ |+|||+|.|.|+..+....                         -.+.||.+|.+.|.=|-.+ 
+T Consensus        36 ~G~pl~l~g~V~D~~~c~Pv~~a~VeiWhada~G~Ysg~~~~~~~~~~~~~~~~~~~~lRG~~~TD~~G~~~F~TI~PG-  114 (229)
+T 5VG2_A           36 IGIRLNVTLNLVDFNTCKPIKGAKVYIWQPDYSGIYSGFMDKPRVKREKMYPKDPRRFLRGTQVTNENGTVTFETLFPG-  114 (229)
+T ss_dssp             CSCEEEEEEEEEETTTCCBCCSCEEEEECCCTTSCCTTCCSSCCCCCSSCCCSSCCCTTEEEEECCTTSEEEEEEECCC-
+T ss_pred             CCcEEEEEEEEEeCCCCeeCCCCEEEEEeeCCCCCccCCCCCccccccccCCCCCCCcceEEEEeCCCCEEEEEEecCC-
+Confidence            345677999999985 9999999999966543210                         1346999999999998555 
+
+
+Q LOKIASV2_40800  461 EYN  463 (2326)
+Q Consensus       461 ~Yn  463 (2326)
+                      -|-
+T Consensus       115 ~Y~  117 (229)
+T 5VG2_A          115 HYP  117 (229)
+T ss_dssp             CCT
+T ss_pred             CCC
+Confidence            564
+
+
+No 57
+>3PHS_A Cell wall surface anchor family; Ig-like fold, IgG-rev fold, GBS52; 1.8A {Streptococcus agalactiae}
+Probab=45.17  E-value=18  Score=45.33  Aligned_cols=57  Identities=14%  Similarity=0.126  Sum_probs=42.1  Template_Neff=9.900
+
+Q LOKIASV2_40800  411 SNFKIQVLDLDGFPIPNAEVVINKTDVE----------------------NEQTQFTDSVGEVLFTGVNINQEYNITVNY  468 (2326)
+Q Consensus       411 ~~v~i~~~DiDG~~vpna~V~ln~~~~~----------------------~~~~~~T~~~G~~~F~~i~~~~~Yn~tvny  468 (2326)
+                      ..+++.+.|.+|.++++|.+.|...+..                      ......||.+|.+.|.+++.| .|-+...-
+T Consensus        28 ~~~~~~~~d~~~~~l~g~~f~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~td~~G~~~~~~l~~G-~Y~i~e~~  106 (249)
+T 3PHS_A           28 PNPQLEIAPKEGTPIEGVLYQLYQLKSTEDGDLLAHWNSLTITELKKQAQQVFEATTNQQGKATFNQLPDG-IYYGLAVK  106 (249)
+T ss_pred             CCeeEEEECCCCCccCCcEEEEEeCCCCCCCceeecccccccceecCCCCEEeEEEeCCCCeEEEccCCCe-EEEEEEEe
+Confidence            3388899999999999999988543211                      112456899999999999876 67665543
+
+
+No 58
+>6BDJ_U Tetur07g02040; dioxygenase, two-spotted spider mite, agricultural; 2.15A {Tetranychus urticae}
+Probab=43.74  E-value=19  Score=45.91  Aligned_cols=56  Identities=27%  Similarity=0.354  Sum_probs=41.4  Template_Neff=6.000
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLD-GFPIPNAEVVINKTDVENE-------------------------QTQFTDSVGEVLFTGVNINQ  460 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiD-G~~vpna~V~ln~~~~~~~-------------------------~~~~T~~~G~~~F~~i~~~~  460 (2326)
+                      ....-.|+++|+|.+ |+|||||.|.|+..+....                         -.+.||.+|.+.|.=|-.+ 
+T Consensus        61 ~G~pl~L~g~V~D~~~c~Pv~~A~VeIWhada~G~Ys~~~~~~~~~~~~~~~~~~~~~lRG~~~TD~~G~~~F~TI~PG-  139 (245)
+T 6BDJ_U           61 IGIRLNVTLNLVDFNTCKPIKGAKVYIWQPDYSGIYSGFMDKPRVKREKMYPKDPRRFLRGTQVTNENGTVTFETLFPG-  139 (245)
+T ss_pred             CCCeEEEEEEEEeCCCCccCCCcEEEEEeeCCCCCccCCCCCCCCCCCCCCCCCCCCCceeEeecCCCCEEEEEEecCC-
+Confidence            345577999999984 9999999999966543210                         1346999999999998554 
+
+
+Q LOKIASV2_40800  461 EYN  463 (2326)
+Q Consensus       461 ~Yn  463 (2326)
+                      .|.
+T Consensus       140 ~Y~  142 (245)
+T 6BDJ_U          140 HYP  142 (245)
+T ss_pred             CCC
+Confidence            565
+
+
+No 59
+>6BDJ_A Tetur07g02040; dioxygenase, two-spotted spider mite, agricultural; 2.15A {Tetranychus urticae}
+Probab=42.73  E-value=20  Score=45.68  Aligned_cols=55  Identities=27%  Similarity=0.376  Sum_probs=41.0  Template_Neff=5.900
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLD-GFPIPNAEVVINKTDVENE-------------------------QTQFTDSVGEVLFTGVNINQE  461 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiD-G~~vpna~V~ln~~~~~~~-------------------------~~~~T~~~G~~~F~~i~~~~~  461 (2326)
+                      ...-.|+++|+|.+ |+|||||.|.|+..+....                         -.+.||.+|.+.|.=|-.+ .
+T Consensus        62 G~pL~L~g~V~D~~tc~Pv~~A~VdIWhada~G~Ys~~~~~~~~~~~~~~~~~~~~~lRG~~~TD~~G~~~F~TI~PG-~  140 (245)
+T 6BDJ_A           62 GIRLNVTLNLVDFNTCKPIKGAKVYIWQPDYSGIYSGFMDKPRVKREKMYPKDPRRFLRGTQVTNENGTVTFETLFPG-H  140 (245)
+T ss_dssp             SCEEEEEEEEEETTTCCBCCSCEEEEECCCTTSCCTTCTTCCCCCSSCCCCCSCCCTTEEEEECCTTSEEEEEEECCC-C
+T ss_pred             CCEEEEEEEEEeCCCCeeCCCCEEEEEccCCCCCccCCCCCccccccccCCCCCCCcceEEEEeCCCCEEEEEEecCC-C
+Confidence            45577999999985 9999999999966543210                         1346999999999998554 5
+
+
+Q LOKIASV2_40800  462 YN  463 (2326)
+Q Consensus       462 Yn  463 (2326)
+                      |.
+T Consensus       141 Y~  142 (245)
+T 6BDJ_A          141 YP  142 (245)
+T ss_dssp             CT
+T ss_pred             CC
+Confidence            65
+
+
+No 60
+>4UIC_A SURFACE LAYER PROTEIN; SUGAR BINDING PROTEIN, S-LAYER, SBSC; 2.9A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=41.04  E-value=23  Score=52.91  Aligned_cols=235  Identities=11%  Similarity=0.112  Sum_probs=142.4  Template_Neff=8.600
+
+Q LOKIASV2_40800 1913 NEIMVFSVNFSDTHNNLPITDGT----LNYSVGQVSGFIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQI 1988 (2326)
+Q Consensus      1913 ge~i~itv~y~D~~~n~pI~~At----vsy~~~~~sg~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~ 1988 (2326)
+                      .+...+++.++|.. |+|+.+..    |+|.......    ..++.+|.++.       ...|.+.|+++..+..   ..
+T Consensus       450 ~~~~tvt~~v~D~~-g~pv~~~~~~~~Vt~~~~~~~~----~~td~~G~~t~-------~~~G~~~Vtat~~~~~---~~  514 (814)
+T 4UIC_A          450 SGTLTLTAKFKDQY-GNELTGKVAGTDYTFESLNPEV----LVVAPDGSVTP-------IVPGTALVKVKYGEVT---KT  514 (814)
+T ss_pred             CcEEEEEEEEECCC-CCcCCCccccceeEEEecCCce----eeecCCeEEEE-------ecCeEEEEEEEECCee---ee
+Confidence            35577888999998 99999987    8888755432    24567888763       2467788877765432   12
+
+
+Q LOKIASV2_40800 1989 LDIFIDINRIPTRINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENANIAYVEWELVGEGI-TREFNLIETGQGTYLL 2067 (2326)
+Q Consensus      1989 ~~~~l~I~~ipT~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi-~~~~~Lie~gnG~Y~L 2067 (2326)
+                      ..  +.+.+.+... ...+.+.......+....+++.++|.+|+++.+. |   .|....... .......++++|.+.+
+T Consensus       515 ~~--vtv~~~~~~~-~l~~~~~~~~~~~~~~~~ltv~v~D~~Gn~v~~~-V---~~~~~~~~~~~~~~s~~Td~~G~at~  587 (814)
+T 4UIC_A          515 IP--VTVKANPVLE-TIAVDSTGVSVAKGQKATFKVTLKDQYGNKFTGN-V---NVTSDKTETATVSVSNSGIGQSEYTV  587 (814)
+T ss_pred             EE--EEEEeCCCcc-eEEECCCeeeecCCceeEEEEEEECCCCCcccce-E---EEEecCCCeeEEeceEEeCCCcEEEE
+Confidence            22  4444332111 1111111222334566788899999999999998 8   787654321 1123456788999999
+
+
+Q LOKIASV2_40800 2068 DFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLG------AEFSGTKIAQQEGKDLIFEISLQDSVTKTP 2141 (2326)
+Q Consensus      2068 dfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~------~~~~~~~i~~~~G~~i~~~i~L~D~~~~~~ 2141 (2326)
+                      ++.  ....|.+.|.+...+..     ....+++..........      ..+.........+....+++.++|.+ |+|
+T Consensus       588 tlt--~~~~G~~tVta~~~~~~-----~s~~vtv~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~ltv~v~D~~-Gn~  659 (814)
+T 4UIC_A          588 TVN--GVAEGSTTITIKSGTKE-----VKVPVNVVAGGPVANYQIKVLDDGKIDKSATESPANNDVQLKVYAVDAN-GNI  659 (814)
+T ss_pred             EEE--ecCCeEEEEEEEECCcc-----eeEEEEEEeCCCCceEEEEEeeeeeecCCCCCCCCCCeEEEEEEEEcCC-CCc
+Confidence            886  56789988888776543     12333443321110000      00111222334567788999999998 999
+
+
+Q LOKIASV2_40800 2142 LSGATVTLEFEAWDIQ-----NITLTEVENQNGTYRYVLDT 2177 (2326)
+Q Consensus      2142 I~gAtV~l~~~~~~~~-----~~~~t~~~~~~GtY~~~i~t 2177 (2326)
+                      +.|..|.|........     .......++.+|.|++++..
+T Consensus       660 v~~~~v~~~~~~~~~~~~~~~~~~~~~~Td~~G~atvt~~~  700 (814)
+T 4UIC_A          660 VGDITNDVTITSEATDTNGVIVNASKSTANGDTVYVITDNG  700 (814)
+T ss_pred             CCCcEEEEEEeCCCCCCCceEEeeceEEeCCCcEEEEEEec
+Confidence            9999988876532100     01122356789999988863
+
+
+No 61
+>5UMH_B Catechol 1,2-dioxygenase (E.C.1.13.11.1); DIOXYGENASE, AROMATIC HYDROCARBON DEGRADATION, ALPHA/BETA; HET: EDO, PG4, PG6; 1.35A {Burkholderia multivorans (strain ATCC 17616 / 249)}
+Probab=40.57  E-value=23  Score=46.84  Aligned_cols=56  Identities=20%  Similarity=0.129  Sum_probs=42.5  Template_Neff=5.600
+
+Q LOKIASV2_40800  408 SVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE----------------QTQFTDSVGEVLFTGVNINQEYNI  464 (2326)
+Q Consensus       408 ~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~----------------~~~~T~~~G~~~F~~i~~~~~Yn~  464 (2326)
+                      ...-.|..+|+|.||+|||||.|.++..+....                --..||.+|...|.-|-.+ .|-+
+T Consensus       139 G~~l~v~G~V~d~~G~PI~gA~vdiWqad~~G~Y~~~~~~~~~~~~~~RG~~~TD~~G~y~f~Ti~P~-~Ypi  210 (319)
+T 5UMH_B          139 AGPLVIRGTVTGTDGKPLAGALVECWHANSKGFYSHFDPTGAQTAFNLRGAVRTDANGKYEFRTLMPV-GYGC  210 (319)
+T ss_dssp             SCEEEEEEEEEETTSCBCTTCEEEEEECCTTSCCTTSCTTSCCCTTTTEEEEECCTTSEEEEEEECCC-CEEC
+T ss_pred             CceEEEEEEEECCCCCcCCCcEEEEEecCCCCCccccCCCCCCCCccCeeEEeeCCCCeEEEEEECCC-CcCC
+Confidence            355778899999999999999999977654320                0234889999999998655 5654
+
+
+No 62
+>2BUZ_A PROTOCATECHUATE 3,4-DIOXYGENASE ALPHA CHAIN (E.C.1.13.11.3); OXIDOREDUCTASE, DIOXYGENASE, AROMATIC DEGRADATION, NON-HEME; HET: 4NC; 1.8A {ACINETOBACTER CALCOACETICUS} SCOP: b.3.6.1
+Probab=39.89  E-value=24  Score=44.02  Aligned_cols=58  Identities=17%  Similarity=0.152  Sum_probs=41.2  Template_Neff=6.800
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTD-SVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~-~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|..+|+|.||+|||||.|.|+..+....                   ....|| .+|...|.-|..+ -|...
+T Consensus        49 ~G~~l~l~G~V~d~~g~Pi~~A~veiWqad~~G~Y~~~~~~~~~~~~~~~rG~~~t~td~~~G~~~f~Ti~Pg-~Y~~~  126 (209)
+T 2BUZ_A           49 QGQRIRLEGQVFDGLGLPLRDVLIEIWQADTNGVYPSQADTQGKQVDPNFLGWGRTGADFGTGFWSFNTIKPG-AVPGR  126 (209)
+T ss_dssp             CSCEEEEEECEECTTSCBCSSCEEEEECCCTTSCCSSTTCCSCCCCCTTCCCEEEEECCTTTCCEEEEEECCC-CCBCG
+T ss_pred             CCCEEEEEEEEEcCCCCccCCeEEEEEecCCCCCCCCcccCCCCCCCCCcceEEEEcCCCCCcEEEEEEECCc-CCCCC
+Confidence            3456788899999999999999999976654321                   011244 5799999888655 56653
+
+
+No 63
+>2BV0_A PROTOCATECHUATE 3,4-DIOXYGENASE ALPHA CHAIN (E.C.1.13.11.3); DIOXYGENASE, AROMATIC DEGRADATION, NON-HEME IRON; HET: DHB; 1.8A {ACINETOBACTER CALCOACETICUS} SCOP: b.3.6.1
+Probab=39.89  E-value=24  Score=44.02  Aligned_cols=58  Identities=17%  Similarity=0.152  Sum_probs=41.2  Template_Neff=6.800
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVENE-------------------QTQFTD-SVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~-------------------~~~~T~-~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      ....-.|..+|+|.||+|||||.|.|+..+....                   ....|| .+|...|.-|..+ -|...
+T Consensus        49 ~G~~l~l~G~V~d~~g~Pi~~A~veiWqad~~G~Y~~~~~~~~~~~~~~~rG~~~t~td~~~G~~~f~Ti~Pg-~Y~~~  126 (209)
+T 2BV0_A           49 QGQRIRLEGQVFDGLGLPLRDVLIEIWQADTNGVYPSQADTQGKQVDPNFLGWGRTGADFGTGFWSFNTIKPG-AVPGR  126 (209)
+T ss_dssp             CSCEEEEEECEECTTSCBCSSCEEEEECCCTTSCCSSTTCCSCSCCCTTCCCEEEEECCTTTCCEEEEEECCC-CCBCG
+T ss_pred             CCCEEEEEEEEEcCCCCccCCeEEEEEecCCCCCCCCcccCCCCCCCCCcceEEEEcCCCCCcEEEEEEECCc-CCCCC
+Confidence            3456788899999999999999999976654321                   011244 5799999888655 56653
+
+
+No 64
+>4UJ6_A SURFACE LAYER PROTEIN; MEMBRANE PROTEIN, SELF-ASSEMBLY; 3.4A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=39.17  E-value=25  Score=52.01  Aligned_cols=232  Identities=13%  Similarity=0.174  Sum_probs=123.4  Template_Neff=8.600
+
+Q LOKIASV2_40800 1914 EIMVFSVNFSDTHNNLPIT-DGTLNYSVGQVSGFI-GNLNHS-ENGIYTLTLNSTQFPSVGTYTM-RITATKFQYETQIL 1989 (2326)
+Q Consensus      1914 e~i~itv~y~D~~~n~pI~-~Atvsy~~~~~sg~~-~~l~~~-g~G~Y~~tinTS~~~~~G~Y~I-~Ita~k~nY~t~~~ 1989 (2326)
+                      +...+.+++.|.+ |+|++ |..|+|....+.... ....+. ..|.+++++. +  ...+...+ .+......  ....
+T Consensus       347 ~~~~~~~~~~D~~-g~~v~~g~~V~~s~~~~~~~~~~t~~tg~~~g~~tat~~-g--~~~~~~~~v~~~~~~~~--~~~~  420 (760)
+T 4UJ6_A          347 VDLTKYVTVKDAA-GNVIKSGFELEFTSSEKLTQGKFINTTGKKSVIVNATVK-G--TNVTTGNVILAVEDEKA--AEVS  420 (760)
+T ss_pred             ceEEEEEEEECCC-CCccCCCCeEEEEeCCCCeecceecCCCceEEEEEEEEe-c--cccceeEEEEEEcCCCC--Ceee
+Confidence            3567778899998 99996 999999865443210 111112 2566665554 2  12222221 11111100  0011
+
+
+Q LOKIASV2_40800 1990 DIFIDINRIPT-----RINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENA----NIAYVEWELVGEGITREFNLIET 2060 (2326)
+Q Consensus      1990 ~~~l~I~~ipT-----~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a----~i~~~~We~~g~gi~~~~~Lie~ 2060 (2326)
+                      .  +.+...+.     ...+..+.. +.....+....+++.+.|..|+++.+.    .+   .|......     ...++
+T Consensus       421 ~--~~~~~~~~~~~~~~a~g~~~~~-~~~~~~~~~~~lt~~v~D~~g~~v~~~~~~~~V---~~~s~~~~-----~~~td  489 (760)
+T 4UJ6_A          421 E--LKLTKDNKEVVTLYANGNAFDK-DGNQISSGTLTLTAKFKDQYGNELTGKVAGTDY---TFESLNPE-----VLVVA  489 (760)
+T ss_pred             E--EEEEeCCCCceeeeecCccccC-CCCCCCCCeeEEEEEEECCCCCcCCCcccCceE---EEEeCCCC-----eEEEC
+Confidence            1  12211111     000000000 112223466778889999999999886    57   78765421     13456
+
+
+Q LOKIASV2_40800 2061 GQGTYLLDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKT 2140 (2326)
+Q Consensus      2061 gnG~Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~ 2140 (2326)
+                      .+|.++      ....|.+.|.++..+..     ....+++...+. ... ..+.........++...++++++|.. |+
+T Consensus       490 ~~G~~t------~~~~G~~~Vtas~~~~~-----~~~~vtv~~~~~-~~~-l~i~~~~~~~~~g~~~~lt~~v~D~~-Gn  555 (760)
+T 4UJ6_A          490 PDGSVT------PIVPGTALVKVKYGEVT-----KTIPVTVKANPV-LET-IAVDSTGVSVAKGQKATFKVTLKDQY-GN  555 (760)
+T ss_pred             CCcEEE------EeeCeEEEEEEEeCCce-----eEEEEEEEcCCC-cee-EEECCCeeeecCCceeEEEEEEECCC-CC
+Confidence            788887      23578888888776532     223344433210 000 11222233345677888999999998 99
+
+
+Q LOKIASV2_40800 2141 PLSGATVTLEFEAWDIQNITLTEVENQNGTYRYVLDT 2177 (2326)
+Q Consensus      2141 ~I~gAtV~l~~~~~~~~~~~~t~~~~~~GtY~~~i~t 2177 (2326)
+                      |+.|. |.|...............++.+|.+++.+..
+T Consensus       556 ~v~~~-V~~~~~~~~~~~~~~~~~Td~~G~a~~~vt~  591 (760)
+T 4UJ6_A          556 KFTGN-VNVTSDKTETATVSVSNSGIGQSEYTVTVNG  591 (760)
+T ss_pred             cCcce-EEEEECCCCeeEEEeeEEeCCCcEEEEEEEe
+Confidence            99999 9988764321111122345678888777754
+
+
+No 65
+>1WLH_A Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=38.31  E-value=27  Score=44.80  Aligned_cols=225  Identities=15%  Similarity=0.241  Sum_probs=128.8  Template_Neff=10.800
+
+Q LOKIASV2_40800 1850 TPQSGSTYQRTFNTINFGQQGTYTFQISFQLNQYQSRQVIITVYINGIT--TDMTTEEDEYSVLWNEIMVFSVNFSDTHN 1927 (2326)
+Q Consensus      1850 ~~~s~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~~~~~i~i~V~~i~--T~lt~~~~~~sv~wge~i~itv~y~D~~~ 1927 (2326)
+                      ....+|.|.+++.+.   ..|.|.+.+...+......+..+.+......  ..+... .......+....+.+.++|.+ 
+T Consensus        60 ~~~~~g~y~v~~~p~---~~G~~~i~v~~~~~~i~~sp~~~~v~~~~~~~~~~~~~~-~~~~~~~g~~~~~~v~~~D~~-  134 (311)
+T 1WLH_A           60 VDNGDGTYDVEFEPK---EAGDYVINLTLDGDNVNGFPKTVTVKPAPSAEHSYAEGE-GLVKVFDNAPAEFTIFAVDTK-  134 (311)
+T ss_pred             EeCCCcEEEEEEEcc---CCEEEEEEEEECCEECCCCCEEEEEecCCCccccEEEec-CCceeeCCCCEEEEEEEEcCC-
+Confidence            345789999999987   7899999999887655444444444432211  111111 011245566677888888987 
+
+
+Q LOKIASV2_40800 1928 NLPITDG--TLNYSVGQVSGF--IGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFIDINRIPTRIN 2003 (2326)
+Q Consensus      1928 n~pI~~A--tvsy~~~~~sg~--~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I~~ipT~Ln 2003 (2326)
+                      ++++...  .+........+.  ........+|.|.+.+. .  ...|.|.+.+...+.........  +.+......  
+T Consensus       135 gn~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~g~y~~~~~-~--~~~G~~~i~v~~~g~~i~~sp~~--~~v~~~~~~--  207 (311)
+T 1WLH_A          135 GVARTDGGDPFEVAINGPDGLVVDAKVTDNNDGTYGVVYD-A--PVEGNYNVNVTLRGNPIKNMPID--VKCIEGANG--  207 (311)
+T ss_pred             CCcccCCCceEEEEEECCCCCeeEEEEEECCCCEEEEEEe-C--CCCEEEEEEEEECCEECCCCCEE--EEEEeCCCC--
+Confidence            7776432  122221111111  11223456899999997 3  47899999988876554332223  333222110  
+
+
+Q LOKIASV2_40800 2004 NSIFIQVDYAINISTDHVYSIEYYDTEGNPIEN--ANIAYVEWELVGEGITREFNLIETGQGTYLLDFNTSTRPLGDYNF 2081 (2326)
+Q Consensus      2004 ~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~--a~i~~~~We~~g~gi~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y~I 2081 (2326)
+                               ....+....|.+..+|..|++...  ..+   .....+........+.+..+|.|.+.|.  ....|.|.+
+T Consensus       208 ---------~~~~~~~~~~~v~~~d~~gn~~~~~~~~~---~~~~~~~~~~~~~~~~~~~~g~~~~~~~--~~~~G~~~v  273 (311)
+T 1WLH_A          208 ---------EDSSFGSFTFTVAAKNKKGEVKTYGGDKF---EVSITGPAEEITLDAIDNQDGTYTAAYS--LVGNGRFST  273 (311)
+T ss_pred             ---------cccCCCCEEEEEEEEcCCCCccCCCCCeE---EEEEECCCCCceEEEEeCCCCEEEEEEE--CCCCEEEEE
+Confidence                     011234566777788888876541  122   2222221111112345677999999998  678999999
+
+
+Q LOKIASV2_40800 2082 VIHLGKDNYIERSGAIRIAIE 2102 (2326)
+Q Consensus      2082 ~Vtl~K~NY~~rs~~I~LtI~ 2102 (2326)
+                      .+.+.+.....  .++.+.+.
+T Consensus       274 ~v~~~g~~i~~--sp~~~~v~  292 (311)
+T 1WLH_A          274 GVKLNGKHIEG--SPFKQVLG  292 (311)
+T ss_pred             EEEECCEECCC--CCeEEEEe
+Confidence            99887765433  34444443
+
+
+No 66
+>2L16_A Sec-independent protein translocase protein tatAd; membrane protein, PROTEIN TRANSPORT; NMR {Bacillus subtilis}
+Probab=36.58  E-value=30  Score=36.65  Aligned_cols=50  Identities=10%  Similarity=-0.012  Sum_probs=21.9  Template_Neff=6.000
+
+Q LOKIASV2_40800 2249 RYANIPEIVKKIDKTKKAIKKGATISDERMTLSADEEIVKKLGDKWEILD 2298 (2326)
+Q Consensus      2249 q~arIP~fVKkirkmkk~Ik~~K~Is~~~~~~sk~e~i~~~~~~~W~~lg 2298 (2326)
+                      =-.|+|+..|.+-++.|.+|+...=-++-+....++-=.+.+.++++.++
+T Consensus        22 GPkkLP~~ar~lGk~i~~~r~~~~~~~~e~~~~~~~~e~~~~~k~~~~~~   71 (78)
+T 2L16_A           22 GPSKLPEIGRAAGRTLLEFKSATKSLVSGDEKEEKSAELTAVKQDKNAGL   71 (78)
+T ss_dssp             CTTTHHHHHHHHHHHHHHHHHHHHHHHHCCC-------------------
+T ss_pred             ChhhHHHHHHHHHHHHHHHHHHHHHhhhcchhhHhHHHHHHHHHHHHHHh
+Confidence            35799999999999988888665433333322222222344455555443
+
+
+No 67
+>1WLH_B Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=36.22  E-value=30  Score=44.24  Aligned_cols=225  Identities=15%  Similarity=0.241  Sum_probs=128.3  Template_Neff=10.900
+
+Q LOKIASV2_40800 1850 TPQSGSTYQRTFNTINFGQQGTYTFQISFQLNQYQSRQVIITVYINGIT--TDMTTEEDEYSVLWNEIMVFSVNFSDTHN 1927 (2326)
+Q Consensus      1850 ~~~s~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~~~~~i~i~V~~i~--T~lt~~~~~~sv~wge~i~itv~y~D~~~ 1927 (2326)
+                      ....+|.|.+++.+.   ..|.|.+.+...+......+..+.+......  ..+... .......+....+.+.++|.+ 
+T Consensus        60 ~~~~~g~y~v~~~p~---~~G~~~i~v~~~~~~i~~sp~~~~v~~~~~~~~~~~~~~-~~~~~~~g~~~~~~v~~~D~~-  134 (311)
+T 1WLH_B           60 VDNGDGTYDVEFEPK---EAGDYVINLTLDGDNVNGFPKTVTVKPAPSAEHSYAEGE-GLVKVFDNAPAEFTIFAVDTK-  134 (311)
+T ss_dssp             ECCSSSEEEEEECCC---SCSEEEECCEESSCBCTTCSEEEEBCCCBCTTTCEEESG-GGTEEETTSCEEEEEECBBTT-
+T ss_pred             EECCCcEEEEEEecc---CCEEEEEEEEECCEEcCCccEEEEEeCCCCccccEEEee-cceeeeCCCCeEEEEEEECCC-
+Confidence            345789999999987   7899999998887655444444444432211  111111 011245566677888888987 
+
+
+Q LOKIASV2_40800 1928 NLPITDG--TLNYSVGQVSGF--IGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFIDINRIPTRIN 2003 (2326)
+Q Consensus      1928 n~pI~~A--tvsy~~~~~sg~--~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I~~ipT~Ln 2003 (2326)
+                      ++++...  .+........+.  ........+|.|.+.+. .  ...|.|.+.+...+.........  +.+......  
+T Consensus       135 gn~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~g~~~~~~~-~--~~~G~~~i~v~~~g~~i~~sp~~--v~v~~~~~~--  207 (311)
+T 1WLH_B          135 GVARTDGGDPFEVAINGPDGLVVDAKVTDNNDGTYGVVYD-A--PVEGNYNVNVTLRGNPIKNMPID--VKCIEGANG--  207 (311)
+T ss_dssp             SCBCCSCCCCEEEEEECTTSCEECCEECCCTTSEEEEEEC-C--CSSEEEEEEEEETTEECTTCSEE--EEEECCCCG--
+T ss_pred             CCeeCCCCCcEEEEEECCCCCEEEEEEEeCCCCEEEEEEE-C--CCCEEEEEEEEECCEECCCCCEE--EEEEeCCCC--
+Confidence            7776432  122221111111  11223446899999987 3  47899999988776553332223  333322110  
+
+
+Q LOKIASV2_40800 2004 NSIFIQVDYAINISTDHVYSIEYYDTEGNPIEN--ANIAYVEWELVGEGITREFNLIETGQGTYLLDFNTSTRPLGDYNF 2081 (2326)
+Q Consensus      2004 ~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~--a~i~~~~We~~g~gi~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y~I 2081 (2326)
+                               ....+....|.+..+|..|++...  ..+   .....+........+....+|.|.+.|.  ....|.|.+
+T Consensus       208 ---------~~~~~~~~~~~v~~~d~~gn~~~~~~~~~---~~~~~~~~~~~~~~~~~~~~g~y~~~~~--~~~~G~~~v  273 (311)
+T 1WLH_B          208 ---------EDSSFGSFTFTVAAKNKKGEVKTYGGDKF---EVSITGPAEEITLDAIDNQDGTYTAAYS--LVGNGRFST  273 (311)
+T ss_dssp             ---------GGCEEEEEEEEEECBCTTSCBCSSCCSCE---EEEEEECEEEEECCEEECSSSEEEEEEE--EEESEEEEE
+T ss_pred             ---------CccccccEEEEEEEECCCCCccccCCCeE---EEEEECCCCceEEEEEeCCCCEEEEEEE--ecCCeEEEE
+Confidence                     011234566777788888876541  112   2222221111112345677999999998  678999999
+
+
+Q LOKIASV2_40800 2082 VIHLGKDNYIERSGAIRIAIE 2102 (2326)
+Q Consensus      2082 ~Vtl~K~NY~~rs~~I~LtI~ 2102 (2326)
+                      .+.+.+.....  .++.+.+.
+T Consensus       274 ~v~~~~~~i~~--sp~~~~v~  292 (311)
+T 1WLH_B          274 GVKLNGKHIEG--SPFKQVLG  292 (311)
+T ss_dssp             EEEESSSBCSS--CSEEEEES
+T ss_pred             EEEECCEECCC--CCeEEEec
+Confidence            99887765433  34444443
+
+
+No 68
+>1WLH_B Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=35.81  E-value=31  Score=44.15  Aligned_cols=69  Identities=17%  Similarity=0.244  Sum_probs=36.1  Template_Neff=10.900
+
+Q LOKIASV2_40800 1066 YWGKDITLSVNYTDAFNNVPISDAD--VNYFIQGDNE-EYLIDETSTPGIYNYSFNSASLGSYGTYSFFINAQKDNY 1139 (2326)
+Q Consensus      1066 ~~Ge~v~~~v~Y~Dt~n~t~IsgA~--vt~~i~g~~~-~~~i~et~~~G~Ys~~lnts~lg~~G~Y~i~I~a~k~NY 1139 (2326)
+                      .-|+...|.+...|... .++....  +...+..... ...+ ....+|.|.+++...   ..|.|.+.|.......
+T Consensus        19 ~~g~~~~f~v~~~d~~g-n~~~~~~~~~~~~i~~~~~~~~~~-~~~~~g~y~v~~~p~---~~G~~~i~v~~~~~~i   90 (311)
+T 1WLH_B           19 ECFQPSKFKIHAVDPDG-VHRTDGGDGFVVTIEGPAPVDPVM-VDNGDGTYDVEFEPK---EAGDYVINLTLDGDNV   90 (311)
+T ss_dssp             CSSSCEEEEEECCSSSC-C---CCCCCEECCEESSSCBCCEE-ECCSSSEEEEEECCC---SCSEEEECCEESSCBC
+T ss_pred             ccCCCeEEEEEEECCCC-CeeccCCCeEEEEEECCCCCCcEE-EECCCcEEEEEEecc---CCEEEEEEEEECCEEc
+Confidence            34677777777777533 3443222  2222222111 1111 123579999988753   4688999887765443
+
+
+No 69
+>5FTX_A SURFACE LAYER PROTEIN; CELL ADHESION, SURFACE LAYER, SELF-ASSEMBLY; 4.1A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=35.23  E-value=32  Score=50.14  Aligned_cols=421  Identities=14%  Similarity=0.128  Sum_probs=211.5  Template_Neff=7.200
+
+Q LOKIASV2_40800 1699 IYWGENFTLSLAYEDITQSPSVPVTAA----DVLFSVTGPAGFSDNGELVYDGTEEKYQRIFNSTAFGNNGTYTFQIQAE 1774 (2326)
+Q Consensus      1699 v~~GdN~Tisv~Y~D~~~stgi~Is~A----~i~~s~t~~~~~s~~g~li~dgt~g~Y~l~inTT~lg~~GtYt~tIt~~ 1774 (2326)
+                      +.-++.+++.+.+.|..   +.++.+.    .+.|....+...    .  .+ .+|.+.-       ...|+++|++++.
+T Consensus        31 ~~~g~t~tltatv~D~~---g~~vt~~~~~~~Vtwsss~~~va----t--vd-~~G~ita-------~~~Gt~tITas~~   93 (653)
+T 5FTX_A           31 QISSGTLTLTAKFKDQY---GNELTGKVAGTDYTFESLNPEVL----V--VA-PDGSVTP-------IVPGTALVKVKYG   93 (653)
+T ss_dssp             EECSSCEEEEEEEECSS---SCEECSCCBTTTBEEEESCTTTE----E--EC-TTSBEEE-------CSSEEEEEEEEST
+T ss_pred             eecCcEEEEEEEEECCC---CCccCCcccCceEEEEECCCCcE----E--EC-CCCeEEE-------cCCeEEEEEEEEC
+Confidence            44577888888888843   2334444    455554332110    0  11 1233331       1358888877764
+
+
+Q LOKIASV2_40800 1775 RSGYGSRQMVITVQILIVP--TNLVSNHANNEINTYWGDSFTLDLDLFDIRDPQNPQPINQASVLSYTVAGFGTGY---- 1848 (2326)
+Q Consensus      1775 ks~Y~s~~~~itl~I~~ip--T~li~~~~~~~~s~~wGdnvtI~i~~~d~~d~~~~~~I~~asi~~~s~~~~~s~~---- 1848 (2326)
+                      .   ...  .+.+.+...+  ..+....  ......-|+...+.+...|   . ++.|+.+.  ..+.........    
+T Consensus        94 ~---~s~--s~~VtV~~~~~v~~Itlt~--~~~~la~G~t~tLtatv~D---~-~GnpV~~~--Vtwsss~~~i~tvs~~  160 (653)
+T 5FTX_A           94 E---VTK--TIPVTVKANPVLETIAVDS--TGVSVAKGQKATFKVTLKD---Q-YGNKFTGN--VNVTSDKTETATVSVS  160 (653)
+T ss_dssp             T---CCE--EEEEEEBCCCCEEEEEESC--SCBCBBTTCEEEEEEEEEE---T-TSSBCCBC--CEEEETTTTTBCCEES
+T ss_pred             C---EEE--EEEEEEecCCceeEEEEeC--CceeecCCCEEEEEEEEEc---C-CCCeecce--EEEEeCCCCeEEEEec
+Confidence            3   122  2222222221  1221111  1223455777777776543   2 23455543  222111110001    
+
+
+Q LOKIASV2_40800 1849 LTPQSGSTYQRTFNTINFGQQGTYTFQISFQLNQYQSRQVIITVYINGIT--TDMT------TEEDEYSVLWNEIMVFSV 1920 (2326)
+Q Consensus      1849 l~~~s~G~Y~itinTs~~~~~GtYt~~Itask~~Y~~~~~~i~i~V~~i~--T~lt------~~~~~~sv~wge~i~itv 1920 (2326)
+                      ...+.+|.|.+++...   ..|..++++++.+..   ....+.|......  ..+.      .......+..++...+++
+T Consensus       161 ~~gd~~G~~tvtlTa~---~aGt~tITat~~g~s---~s~tVtV~~~~~~~si~lt~~~~~~v~~~~~~a~~g~t~~lta  234 (653)
+T 5FTX_A          161 NSGIGQSEYTVTVNGV---AEGSTTITIKSGTKE---VKVPVNVVAGGPVANYQIKVLDDGKIDKSATESPANNDVQLKV  234 (653)
+T ss_dssp             GGGCSBSEEEEEEEBC---SSEEEEEEEEETTEE---EEEEEEEBCCCCCCCEEEEECSCSEEECSSSCSSCCCCEEEEE
+T ss_pred             cccccCeEEEEEEEee---cCeEEEEEEEECCEE---EEEEEEEEcCCCceEEEEEEcCCCcccCCccccCCCCceEEEE
+Confidence            1345789999999876   689998888876532   2333444331111  1222      111123344556688899
+
+
+Q LOKIASV2_40800 1921 NFSDTHNNLPITDG--TLNYSVGQVSGF---IGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQILDIFIDI 1995 (2326)
+Q Consensus      1921 ~y~D~~~n~pI~~A--tvsy~~~~~sg~---~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~~~~~~l~I 1995 (2326)
+                      .++|.+ ++|+.+.  .+.|........   .....++.+|.+++.+.......+|.++|+++..+...  ....  +.+
+T Consensus       235 tv~D~~-GnpV~g~t~~V~~sss~~~~~tv~~~~~~Td~nG~atvtlTa~~~~~aG~~tItAt~~g~~~--~s~~--vtV  309 (653)
+T 5FTX_A          235 YAVDAN-GNIVGDITNDVTITSEATDTNGVIVNASKSTANGDTVYVITDNGSKKVGKETLTVKLGTVTL--GTVD--VEV  309 (653)
+T ss_dssp             EEECTT-SCEEEECTTSCEEECCSSCSSSCCEEEEEEEETTEEEEEEEESCCSSCEEEEEEEESSSSCC--CEEE--EEE
+T ss_pred             EEEcCC-CCccccccceeEEEecCCCcceEEEcceEeCCCceEEEEEEECCCccceEEEEEEEECCeee--eEEE--EEE
+Confidence            999998 9999998  788876544321   11234567898888887220117899999887755432  1222  333
+
+
+Q LOKIASV2_40800 1996 NRIPTRINNSIFIQVDYAINI------STDHVYSIEYYDTEGNPIENANIAYVEWELVGEG-IT---REFNLIETGQGTY 2065 (2326)
+Q Consensus      1996 ~~ipT~Ln~s~~~~~~~~v~v------~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~g-i~---~~~~Lie~gnG~Y 2065 (2326)
+                      ...........+......+..      .....+++.++|.+|+|+.|..|   .|...+.. ..   ..+...++.++..
+T Consensus       310 ~~~~~~~~~~~l~~~~~~i~a~g~~~g~~~~tltvtV~D~~GNpV~g~~V---tfs~~~~~~~~~~~~~~~~~t~~~~~~  386 (653)
+T 5FTX_A          310 IDTTLKATVVTKKADLIELDAADNGDALAKLLANLDIKDQNGNPMVDSAA---TPNTNEKLQALKSVLSGIVSSDTSVIG  386 (653)
+T ss_dssp             ECCSCCCCEEEESCSEEECCGGGTTBTHHHHHTTEEEECTTSCBCCCCTT---STTSCHHHHHHHHHEEEEEESCTTTSC
+T ss_pred             EeCCCcceEEEEEEeccEEecCCCCCcccEEEEEEEEECCCCCccCCcEE---EEEcCchhhheeeeeeeeEeecCceee
+Confidence            332111111111111111111      23567888899999999999998   77653221 00   0011122222222
+
+
+Q LOKIASV2_40800 2066 -------------LLDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFSGTKIA-------QQEGK 2125 (2326)
+Q Consensus      2066 -------------~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~~~~i~-------~~~G~ 2125 (2326)
+                                   ...+  .....|.+.+.+++......   +...+.+.....      .+.++...       +..-+
+T Consensus       387 sv~~~~~~~~~~~~~~~--~~~~a~t~tv~v~~~~~~~~---~~~~~~v~~~~~------~~~~~~~~~~~~~~~~~g~~  455 (653)
+T 5FTX_A          387 SVSNVDNLKDDASISGL--AVKKAGTVTLTLVFNEDSKI---APIAITVKAPAA------TQDGVTVTGLDLVPGVTGVG  455 (653)
+T ss_dssp             CBSCGGGCEESSSEECC--BCCSSEEEEEEEEECTTTTC---CCCEEEEEECBC------BGGGCCSCSCEEEECSSSSS
+T ss_pred             EEEeecccCCCcceeeE--EEeeceeeEEEEEeCCCcce---eeEEEEEcCCCc------ccccceeeeeecCCCccccc
+Confidence                         2111  13345677777777655411   233333322111      11111111       11234
+
+
+Q LOKIASV2_40800 2126 DLIFEISLQDSVTKT-----------PLSGAT--VTLEFEAWDIQNITLTEVENQNGTYRYVLD 2176 (2326)
+Q Consensus      2126 ~i~~~i~L~D~~~~~-----------~I~gAt--V~l~~~~~~~~~~~~t~~~~~~GtY~~~i~ 2176 (2326)
+                      ...|+++++|.. |+           |++|..  |.|.-..+.. .......++.+|.|..++.
+T Consensus       456 ~~~~t~t~~d~~-G~~v~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~  517 (653)
+T 5FTX_A          456 KTKFTATDKIKS-GHKLYYAVDDSAVPAPAVGTTRNSTKFANEI-TVGTTEVAANAGQIITVIE  517 (653)
+T ss_dssp             EEEEECSSCCCT-TCEEEEEEESSCCCCCBTTCBCCTTTCCEEE-CTTTCEEECCTTCEEEEEE
+T ss_pred             eEEEEEEEEEcC-CCeeEEeecCcCCCCCCCCcccccccccCee-EEeeeeehhhcCcEEEEEE
+Confidence            578889999998 88           777777  7775332221 1122344567888887766
+
+
+No 70
+>1WLH_A Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=33.79  E-value=35  Score=43.75  Aligned_cols=69  Identities=17%  Similarity=0.244  Sum_probs=37.4  Template_Neff=10.800
+
+Q LOKIASV2_40800 1066 YWGKDITLSVNYTDAFNNVPISDA--DVNYFIQGDNE-EYLIDETSTPGIYNYSFNSASLGSYGTYSFFINAQKDNY 1139 (2326)
+Q Consensus      1066 ~~Ge~v~~~v~Y~Dt~n~t~IsgA--~vt~~i~g~~~-~~~i~et~~~G~Ys~~lnts~lg~~G~Y~i~I~a~k~NY 1139 (2326)
+                      .-|+...|.+...|... .++...  .+...+..... ...+ ....+|.|.+++...   ..|.|.+.|.......
+T Consensus        19 ~~g~~~~f~v~~~d~~g-n~~~~~~~~~~~~i~~~~~~~~~~-~~~~~g~y~v~~~p~---~~G~~~i~v~~~~~~i   90 (311)
+T 1WLH_A           19 ECFQPSKFKIHAVDPDG-VHRTDGGDGFVVTIEGPAPVDPVM-VDNGDGTYDVEFEPK---EAGDYVINLTLDGDNV   90 (311)
+T ss_pred             ccCCcEEEEEEEECCCC-CeeccCCcceEEEEECCCCceEEE-EeCCCcEEEEEEEcc---CCEEEEEEEEECCEEC
+Confidence            35677778877777533 344322  12222222111 1111 123579999988753   4688999887765443
+
+
+No 71
+>3RKP_A Collagen adhesion protein; intramolecular amide bond, jelly-roll, Ig; 2.243A {Bacillus cereus}
+Probab=31.49  E-value=41  Score=44.39  Aligned_cols=58  Identities=17%  Similarity=0.212  Sum_probs=42.9  Template_Neff=10.400
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVE-NEQTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~-~~~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      +.....|+|.-.|.+|.+++||+..|...+.. ..+.-.|+.+|.+.|.++++| .|-+.
+T Consensus         4 ~~~~g~l~i~K~d~~~~~l~Ga~f~l~~~~~~~~~~~~~T~~~G~~~~~~l~~G-~Y~v~   62 (355)
+T 3RKP_A            4 EIKRGAVDLIKTGVNEKAMAGAVFSLFKKDGTEVKKELATDANGHIRVQGLEYG-EYYFQ   62 (355)
+T ss_dssp             --CCEEEEEEEECTTSCBCCSCEEEEEETTSCEEEEEEECCTTSEEEEEEECSE-EEEEE
+T ss_pred             eeeeeeEEEEEeCCCCCccCCcEEEEEeCCCCeeeEEEEeCCCCeEEEeeecCe-EEEEE
+Confidence            44557788888899999999999988443322 224567999999999999986 56654
+
+
+No 72
+>4UJ6_A SURFACE LAYER PROTEIN; MEMBRANE PROTEIN, SELF-ASSEMBLY; 3.4A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=30.69  E-value=43  Score=49.79  Aligned_cols=236  Identities=11%  Similarity=0.155  Sum_probs=141.2  Template_Neff=8.600
+
+Q LOKIASV2_40800 1912 WNEIMVFSVNFSDTHNNLPITDG----TLNYSVGQVSGFIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYETQ 1987 (2326)
+Q Consensus      1912 wge~i~itv~y~D~~~n~pI~~A----tvsy~~~~~sg~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~t~ 1987 (2326)
+                      .++...+++.++|.. |+|+.+.    .|.|....+..    ..++.+|.++     .  ...|.+.|+++..+..   .
+T Consensus       449 ~~~~~~lt~~v~D~~-g~~v~~~~~~~~V~~~s~~~~~----~~td~~G~~t-----~--~~~G~~~Vtas~~~~~---~  513 (760)
+T 4UJ6_A          449 SSGTLTLTAKFKDQY-GNELTGKVAGTDYTFESLNPEV----LVVAPDGSVT-----P--IVPGTALVKVKYGEVT---K  513 (760)
+T ss_pred             CCCeeEEEEEEECCC-CCcCCCcccCceEEEEeCCCCe----EEECCCcEEE-----E--eeCeEEEEEEEeCCce---e
+Confidence            346677889999998 9999997    68887654322    3456788887     2  3578888887765432   1
+
+
+Q LOKIASV2_40800 1988 ILDIFIDINRIPTRINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENANIAYVEWELVGEGI-TREFNLIETGQGTYL 2066 (2326)
+Q Consensus      1988 ~~~~~l~I~~ipT~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi-~~~~~Lie~gnG~Y~ 2066 (2326)
+                      ...  +.+.+.+. .....+......+..++...+++.++|.+|+++.+. +   .|....... .......++.+|.+.
+T Consensus       514 ~~~--vtv~~~~~-~~~l~i~~~~~~~~~g~~~~lt~~v~D~~Gn~v~~~-V---~~~~~~~~~~~~~~~~~Td~~G~a~  586 (760)
+T 4UJ6_A          514 TIP--VTVKANPV-LETIAVDSTGVSVAKGQKATFKVTLKDQYGNKFTGN-V---NVTSDKTETATVSVSNSGIGQSEYT  586 (760)
+T ss_pred             EEE--EEEEcCCC-ceeEEECCCeeeecCCceeEEEEEEECCCCCcCcce-E---EEEECCCCeeEEEeeEEeCCCcEEE
+Confidence            222  44433321 111111111122333556788889999999999988 7   787654321 111234567889999
+
+
+Q LOKIASV2_40800 2067 LDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPI--KYQL----GAEFSGTKIAQQEGKDLIFEISLQDSVTKT 2140 (2326)
+Q Consensus      2067 LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i--~~~l----~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~ 2140 (2326)
+                      +.+.  ....|.+.|.+...+...     ...+.+.....  .+..    ...+.........+....+++.++|.+ |+
+T Consensus       587 ~~vt--~~~~G~~tVtat~~~~~~-----s~~v~v~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~lta~v~D~~-Gn  658 (760)
+T 4UJ6_A          587 VTVN--GVAEGSTTITIKSGTKEV-----KVPVNVVAGGPVANYQIKVLDDGKIDKSATESPANNDVQLKVYAVDAN-GN  658 (760)
+T ss_pred             EEEE--ecCCEEEEEEEEECCcee-----EEEEEEEeCCCCceEEEEEeeeeEecCCcceecCCCeEEEEEEEECCC-CC
+Confidence            8886  567899998888765432     23333333211  0000    000111122234567788999999998 99
+
+
+Q LOKIASV2_40800 2141 PLSGATVTLEFEAWDIQ--N---ITLTEVENQNGTYRYVLDT 2177 (2326)
+Q Consensus      2141 ~I~gAtV~l~~~~~~~~--~---~~~t~~~~~~GtY~~~i~t 2177 (2326)
+                      |+.|..+.|........  .   ......++.+|.|++++..
+T Consensus       659 ~v~~~~v~~~~~~~~~~~~~~~~~~~~~~Td~~G~~~vt~~~  700 (760)
+T 4UJ6_A          659 IVGDITNDVTITSEATDTNGVIVNASKSTANGDTVYVITDNG  700 (760)
+T ss_pred             cCCCcEEEEEEeCCCCcceeEEEecceEEeCCCcEEEEEEec
+Confidence            99999988776542100  0   0112345778999888764
+
+
+No 73
+>3KPT_B Collagen adhesion protein; Intramolecular Amide Bond, Pilin Subunit; 2.102A {Bacillus cereus ATCC 14579}
+Probab=29.88  E-value=45  Score=43.92  Aligned_cols=58  Identities=17%  Similarity=0.212  Sum_probs=43.1  Template_Neff=10.500
+
+Q LOKIASV2_40800  407 ESVSSNFKIQVLDLDGFPIPNAEVVINKTDVE-NEQTQFTDSVGEVLFTGVNINQEYNIT  465 (2326)
+Q Consensus       407 e~~~~~v~i~~~DiDG~~vpna~V~ln~~~~~-~~~~~~T~~~G~~~F~~i~~~~~Yn~t  465 (2326)
+                      +.....++|.=+|.+|++++||+..|...+.. ..+...|+.+|.+.|.++++| .|-+.
+T Consensus         4 ~~~~g~~~i~K~d~~~~~l~ga~f~l~~~~~~~~~~~~~t~~~G~~~~~~L~~G-~Y~i~   62 (355)
+T 3KPT_B            4 EIKRGAVDLIKTGVNEKAMAGAVFSLFKKDGTEVKKELATDANGHIRVQGLEYG-EYYFQ   62 (355)
+T ss_dssp             CCCEEEEEEEEECGGGCBCCSCEEEEEETTSCEEEEEEECCTTSEEEEEEEESE-EEEEE
+T ss_pred             eeeeeeEEEEEeCCCCCccCccEEEEEeCCCCeeEEEEEeCCCCeEEEeccCCe-eEEEE
+Confidence            34556777777899999999999988443322 223557999999999999886 66664
+
+
+No 74
+>5N40_A Putative invasin; Adhesin, C-type lectin-like fold, cell; HET: PEG; 1.7A {Yersinia pseudotuberculosis serotype O:1b}
+Probab=29.44  E-value=46  Score=44.73  Aligned_cols=158  Identities=18%  Similarity=0.191  Sum_probs=89.2  Template_Neff=8.400
+
+Q LOKIASV2_40800 1811 DSFTLDLDLFDIRDPQNPQPINQASVLSYTVAGFGTGYLTPQSGSTYQRTFNT-INFGQQGTYTFQISFQLNQYQSRQVI 1889 (2326)
+Q Consensus      1811 dnvtI~i~~~d~~d~~~~~~I~~asi~~~s~~~~~s~~l~~~s~G~Y~itinT-s~~~~~GtYt~~Itask~~Y~~~~~~ 1889 (2326)
+                      +..++.+.+.|   . ++.|+.+..+ .+...........++++|.|++++.+ .   .+|.++|.+.+.+.........
+T Consensus        27 ~~~~vt~tv~D---~-~Gnpv~g~~V-~~~~~~~~~~~~~Td~~G~~t~~lta~~---~ag~~~vta~~~g~~~~~~~~~   98 (352)
+T 5N40_A           27 DTSVVTLTLRD---S-NNNPVTGQTV-AFTSTLGTLDNVTEQASGLYTATLTAGT---LTGTASLSVNVDGNNLGTTPAT   98 (352)
+T ss_dssp             CEEEEEEECBB---T-TSCBCCSCCE-EEEESSSEECCCEEETTTEEEEEEECCS---CCEEEEEEEEETTEECCCCCCE
+T ss_pred             eEEEEEEEEEC---C-CCCccCCcEE-EEEecCCcccceeecCCcEEEEEEEcCC---CCeEEEEEEEEcCCccCccCeE
+Confidence            55666666544   2 3456765443 22111111122457899999999984 4   5788888888876543222234
+
+
+Q LOKIASV2_40800 1890 ITVYINGITTDMTTEEDEYSVLWNEIMVFSVNFSDTHNNL-PITDGTLNYSVGQVS---G----------------FIGN 1949 (2326)
+Q Consensus      1890 i~i~V~~i~T~lt~~~~~~sv~wge~i~itv~y~D~~~n~-pI~~Atvsy~~~~~s---g----------------~~~~ 1949 (2326)
+                      +.|....  ..+........+..++.+.++++++|.. |+ |+++..+.|......   +                ....
+T Consensus        99 v~f~~~~--~~l~~~~~~~~a~~~~~~tltvtv~D~~-gn~pv~~~~v~~~~~~~~~~~g~~v~~~~~~~~~~~~~~~~~  175 (352)
+T 5N40_A           99 INVIPAP--VDLTVLTDNARKNIGQAISLTVIAKYKS-TDVVAPNVKMTFEQVAVVNRQNSPVSSSGVVQIADANYDAFT  175 (352)
+T ss_dssp             EEEECCC--EEEEEEESCSEEETTSCEEEEEEEEETT-SSCBCTTCEEEEEEEEEECTTSCBCSSSCCCEETTEEGGGCC
+T ss_pred             EEEecCC--ceeeeecccchhcCCceEEEEEEEEeCC-CCcccCCeEEEEEEeceEcCCCCcccccceEEEcCCCcceeE
+Confidence            4443332  2232221122234456688899999987 76 899999988754321   0                0112
+
+
+Q LOKIASV2_40800 1950 LNHSENGIYTLTLNSTQFPSVGT-YTMRITATK 1981 (2326)
+Q Consensus      1950 l~~~g~G~Y~~tinTS~~~~~G~-Y~I~Ita~k 1981 (2326)
+                      ..++.+|.+++++...  ...|. ..|+++..+
+T Consensus       176 ~~Td~~G~at~tlt~~--~~~g~~t~vta~~~~  206 (352)
+T 5N40_A          176 GMTDANGQLTVSVTDP--NGIGVQTTLRAAAES  206 (352)
+T ss_dssp             EECCTTSEEEEEEECT--TCCSCEEEEEEEETT
+T ss_pred             EEeCCCcEEEEEEECC--CCCceEEEEEEEecC
+Confidence            3567888888888744  22332 345555543
+
+
+No 75
+>4OQ1_A Cell wall surface anchor family; CnaB domain, IgG-rev fold, pilin; 1.85A {Streptococcus pneumoniae}
+Probab=27.37  E-value=53  Score=43.70  Aligned_cols=58  Identities=14%  Similarity=0.122  Sum_probs=43.1  Template_Neff=10.200
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLD-GFPIPNAEVVINKTDVE---------NEQTQFTDSVGEVLFTGVNINQEYNITVN  467 (2326)
+Q Consensus       409 ~~~~v~i~~~DiD-G~~vpna~V~ln~~~~~---------~~~~~~T~~~G~~~F~~i~~~~~Yn~tvn  467 (2326)
+                      ....+++..+|.+ |+++++|+|.|......         ......||.+|...|.+|+.| .|.+...
+T Consensus       256 ~~~~v~~~k~~~~~~~~l~g~~~~l~~~~~~~~~~~~~~g~~~~~~td~~G~~~~~~l~~G-~Y~v~e~  323 (368)
+T 4OQ1_A          256 PRGNVDFMKVDGRTNTSLQGAMFKVMKEESGHYTPVLQNGKEVVVTSGKDGRFRVEGLEYG-TYYLWEL  323 (368)
+T ss_dssp             CBCCEEEEEEETTTCCBCSCCEEEEEEEETTEEEECEETTEECEEECCTTSEEEECSCBSE-EEEEEEE
+T ss_pred             CcceEEEEEEeCCCCceeCCcEEEEEECCCCceeeeeeCCeEEEEEcCCCCeEEEcccCCe-EEEEEEE
+Confidence            4567888888988 99999999988443211         112456899999999999876 6776654
+
+
+No 76
+>2LV4_A Putative outer membrane or exported; Antivirulence, Adhesion, PROTEIN BINDING; NMR {Salmonella enterica subsp. enterica serovar Typhimurium str. LT2}
+Probab=26.78  E-value=55  Score=37.36  Aligned_cols=55  Identities=16%  Similarity=0.233  Sum_probs=35.4  Template_Neff=2.100
+
+Q LOKIASV2_40800  406 MESVSSNFKIQVLDLDGFPIPNAEVVIN--KT--DVENEQTQFTDSVGEVLFTGVNINQEYNITVNYT  469 (2326)
+Q Consensus       406 ~e~~~~~v~i~~~DiDG~~vpna~V~ln--~~--~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt  469 (2326)
+                      +-...+.|+++++|+||+||-++++.+-  .-  .+.++.       |.+-=.+ +.| +|-=+|.|.
+T Consensus        61 ~PGESA~vt~ivKDidnNPIn~~~i~~~~~~~~~~G~Wd~-------~~vKkg~-nPG-eY~qtiTY~  119 (146)
+T 2LV4_A           61 SPGESATITTIVKDIDGNPVNEVHINKTVARENLKGLWDY-------GPLKKEN-VPG-KYTQVITYR  119 (146)
+T ss_dssp             CTTCEEEEEEECBBTTSCBCCCCCCBCCEECSCSSSEEEE-------CCCEECS-SSS-EEEEEEEEE
+T ss_pred             CCCCceEEEEEEEcCCCCcccceeeEehhccccCCCceec-------cccccCC-CCC-ceEEEEEEc
+Confidence            3345689999999999999999988772  11  122221       1122222 334 788888887
+
+
+No 77
+>6FWV_A Collagen Adhesion protein; LPXTG-anchored, surface protein, thioester domain; HET: MSE; 2.58A {Bacillus anthracis}
+Probab=26.52  E-value=56  Score=45.80  Aligned_cols=59  Identities=20%  Similarity=0.289  Sum_probs=43.6  Template_Neff=10.200
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLD--GFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYT  469 (2326)
+Q Consensus       409 ~~~~v~i~~~DiD--G~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt  469 (2326)
+                      ....+++.+.|.+  |.++++|.|.|...+........||++|.+.| +|+.| .|.+.....
+T Consensus       436 ~~~~i~~~~~d~~~~~~~~~ga~~~l~~~~~~~~~~~~td~~G~~~~-~l~~G-~Y~v~e~~~  496 (526)
+T 6FWV_A          436 VEGELEITKVDVADGNTKLPNAEFTIYNEQGKEVVKGKTNEQGIAKF-KLPYG-KYTYKETIA  496 (526)
+T ss_dssp             CEEEEEEEEEESSSSSCCCCSCEEEEECSSCCEEEEEECCSTTEEEE-EEESE-EEEEEEEEC
+T ss_pred             eeeeEEEEEEECCCCCeEcCCcEEEEEeCCCCEEEEEEeCCCcEEEE-EeCCE-EEEEEEEEC
+Confidence            3456777888875  79999999999544333334567999999999 89876 688776543
+
+
+No 78
+>5N40_A Putative invasin; Adhesin, C-type lectin-like fold, cell; HET: PEG; 1.7A {Yersinia pseudotuberculosis serotype O:1b}
+Probab=26.07  E-value=58  Score=43.85  Aligned_cols=59  Identities=15%  Similarity=0.068  Sum_probs=41.1  Template_Neff=8.400
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGV---NINQEYNITVNYT  469 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i---~~~~~Yn~tvnyt  469 (2326)
+                      ....|+++++|.+|+||+|+.|.+....... ....||.+|.+++.=-   .. +.+.+++...
+T Consensus        27 ~~~~vt~tv~D~~Gnpv~g~~V~~~~~~~~~-~~~~Td~~G~~t~~lta~~~a-g~~~vta~~~   88 (352)
+T 5N40_A           27 DTSVVTLTLRDSNNNPVTGQTVAFTSTLGTL-DNVTEQASGLYTATLTAGTLT-GTASLSVNVD   88 (352)
+T ss_dssp             CEEEEEEECBBTTSCBCCSCCEEEEESSSEE-CCCEEETTTEEEEEEECCSCC-EEEEEEEEET
+T ss_pred             eEEEEEEEEECCCCCccCCcEEEEEecCCcc-cceeecCCcEEEEEEEcCCCC-eEEEEEEEEc
+Confidence            5578999999999999999999773322222 3456899999876522   23 3567766654
+
+
+No 79
+>5LDY_A Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=25.98  E-value=58  Score=43.88  Aligned_cols=237  Identities=16%  Similarity=0.164  Sum_probs=135.4  Template_Neff=8.500
+
+Q LOKIASV2_40800 1811 DSFTLDLDLFDIRDPQNPQPINQASVLSYTVAGFGTGYLTPQSGSTYQRTFNT-INFGQQGTYTFQISFQLNQYQSRQVI 1889 (2326)
+Q Consensus      1811 dnvtI~i~~~d~~d~~~~~~I~~asi~~~s~~~~~s~~l~~~s~G~Y~itinT-s~~~~~GtYt~~Itask~~Y~~~~~~ 1889 (2326)
+                      +..++.+.+.|   . .+.|+.+..+ .+...........++.+|.|.+++.. .   ..|.+.+.+.+.+.... ....
+T Consensus        43 ~~~~ltv~v~D---~-~G~pv~g~~V-~~~~~~~~~~~~~Td~~G~at~tlt~~~---~~G~~~Ita~~~g~~~~-~~~~  113 (357)
+T 5LDY_A           43 DTSVVTLTLRD---N-NNNPVTGQTV-VFTSTLGTLGNVTEQASGLYTATLTAGT---VSGVASLSVSVGGNALG-VTGN  113 (357)
+T ss_dssp             CEEEEEEECBC---T-TSCBCCSCCE-EEECSSSEECCCEECTTSEEEEEEECCS---CCEEEECEEEETTEECC-CCCE
+T ss_pred             cEEEEEEEEEC---C-CCCcCCCcEE-EEEecCCcccceEecCCeEEEEEEEcCC---CceEEEEEEEEcCeece-eeeE
+Confidence            56677776544   2 3456765443 22221111123456889999999984 4   57899988888764321 1233
+
+
+Q LOKIASV2_40800 1890 ITVYINGIT---TDMTTEEDEYSVLW--NEIMVFSVNFSDTHNNLPITDGTLNYSVGQVSGFIGNLNHSENGIYTLTLNS 1964 (2326)
+Q Consensus      1890 i~i~V~~i~---T~lt~~~~~~sv~w--ge~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg~~~~l~~~g~G~Y~~tinT 1964 (2326)
+                      +.|......   ..+...  +.....  ++...++++++|.. |+|+.|..|.|.............++.+|.|++++. 
+T Consensus       114 v~~~~~~~~~~~~~l~~~--~~~~~a~g~~~~~vtv~v~D~~-Gnpv~g~~V~f~~~~~~~~~~~~~Td~~G~at~t~t-  189 (357)
+T 5LDY_A          114 ITLAPGALDAARSILAVN--KPSINADDRIGSTITFTAQDAQ-GNAITGLDIAFMTDLENSQIMTLVDHNDGTYTANIN-  189 (357)
+T ss_dssp             EEEECCSCCTTTCEEEES--CSEEESSCSSCEEEEEECCCTT-SCCCCSCCEEEEESSTTEEECCCEECSSSEEEEEEE-
+T ss_pred             EEEccCCccceeeEEEEc--CCeeecCCCceEEEEEEEECCC-CCcCCCcEEEEEeCCCCceeeeEEeCCCeEEEEEEE-
+Confidence            444333211   233332  222233  45578889999998 999999999988654432223346788999999998 
+
+
+Q LOKIASV2_40800 1965 TQFPSVGTYTMRITATKFQYETQI-LDIFIDINRIPTRINN--SIFIQ---VDYAINI------STDHVYSIEYYDTEGN 2032 (2326)
+Q Consensus      1965 S~~~~~G~Y~I~Ita~k~nY~t~~-~~~~l~I~~ipT~Ln~--s~~~~---~~~~v~v------~~~~~ftf~Y~Dt~~~ 2032 (2326)
+                      .  ..+|.+.|+++..+....... ..  +.+.+.+.....  ..+..   .......      ++...+++.++|.+|+
+T Consensus       190 ~--~~~G~~~ita~~~~~~~~~~~~~~--vt~~~~~~~~~~~~~~l~~~~~~~~~~~a~g~~~~~~~~~vta~v~D~~Gn  265 (357)
+T 5LDY_A          190 G--TQTGIANIAVQSSGATIAGLAATM--VTITPGAWNTTQATPVMTVALPITTCQSSSGVYKRYYIGIVTHELYDNYGN  265 (357)
+T ss_dssp             E--SSCEECCEEEEESSCBCCSCCCCC--CEEECCCBCSSCCSCCEEEECCCSCCEESSSSEECEEEEEEECCEEBSSCC
+T ss_pred             e--cCCeEEEEEEEEcCCccccceeEE--EEEecCCcccccccceEEEecCCCcceecccceeeceEEEEEEEEECCCCC
+Confidence            4  578999999887665432111 12  444433221110  00111   1111111      3467888999999999
+
+
+Q LOKIASV2_40800 2033 PIENANIAYVEWELVGEG---ITREFNLIETGQGTYLLD 2068 (2326)
+Q Consensus      2033 ~I~~a~i~~~~We~~g~g---i~~~~~Lie~gnG~Y~Ld 2068 (2326)
+                      |+.+..    .|......   ........++++|.+++.
+T Consensus       266 pv~~~~----~~~~~~g~~~~~~~~~~~~Td~~G~A~~~  300 (357)
+T 5LDY_A          266 EISGIL----TYNLGAGRYTTVTSQNSSVSGSNGLTRRS  300 (357)
+T ss_dssp             EECCEE----EEEECCEEEEETTSCEEEECCEEEEEEET
+T ss_pred             ccCCcE----EEEcCCceeEEeecCCcceeccccEEEEe
+Confidence            999876    23322211   011234577888988754
+
+
+No 80
+>5LDY_B Ig domain protein group 1; Adhesin, Autotransporter, Cell adhesion; HET: PO4; 2.6A {Yersinia pseudotuberculosis}
+Probab=25.98  E-value=58  Score=43.88  Aligned_cols=237  Identities=16%  Similarity=0.164  Sum_probs=135.4  Template_Neff=8.500
+
+Q LOKIASV2_40800 1811 DSFTLDLDLFDIRDPQNPQPINQASVLSYTVAGFGTGYLTPQSGSTYQRTFNT-INFGQQGTYTFQISFQLNQYQSRQVI 1889 (2326)
+Q Consensus      1811 dnvtI~i~~~d~~d~~~~~~I~~asi~~~s~~~~~s~~l~~~s~G~Y~itinT-s~~~~~GtYt~~Itask~~Y~~~~~~ 1889 (2326)
+                      +..++.+.+.|   . .+.|+.+..+ .+...........++.+|.|.+++.. .   ..|.+.+.+.+.+.... ....
+T Consensus        43 ~~~~ltv~v~D---~-~G~pv~g~~V-~~~~~~~~~~~~~Td~~G~at~tlt~~~---~~G~~~Ita~~~g~~~~-~~~~  113 (357)
+T 5LDY_B           43 DTSVVTLTLRD---N-NNNPVTGQTV-VFTSTLGTLGNVTEQASGLYTATLTAGT---VSGVASLSVSVGGNALG-VTGN  113 (357)
+T ss_dssp             CEEEEECCCBC---T-TCCBCCSCCE-EEEESSSEECCCEECSSSCEEEEEECCS---CCEEEEEEEEETTEECS-CCEE
+T ss_pred             cEEEEEEEEEC---C-CCCcCCCcEE-EEEecCCcccceEecCCeEEEEEEEcCC---CceEEEEEEEEcCeece-eeeE
+Confidence            56677776544   2 3456765443 22221111123456889999999984 4   57899988888764321 1233
+
+
+Q LOKIASV2_40800 1890 ITVYINGIT---TDMTTEEDEYSVLW--NEIMVFSVNFSDTHNNLPITDGTLNYSVGQVSGFIGNLNHSENGIYTLTLNS 1964 (2326)
+Q Consensus      1890 i~i~V~~i~---T~lt~~~~~~sv~w--ge~i~itv~y~D~~~n~pI~~Atvsy~~~~~sg~~~~l~~~g~G~Y~~tinT 1964 (2326)
+                      +.|......   ..+...  +.....  ++...++++++|.. |+|+.|..|.|.............++.+|.|++++. 
+T Consensus       114 v~~~~~~~~~~~~~l~~~--~~~~~a~g~~~~~vtv~v~D~~-Gnpv~g~~V~f~~~~~~~~~~~~~Td~~G~at~t~t-  189 (357)
+T 5LDY_B          114 ITLAPGALDAARSILAVN--KPSINADDRIGSTITFTAQDAQ-GNAITGLDIAFMTDLENSQIMTLVDHNDGTYTANIN-  189 (357)
+T ss_dssp             EEEECCSBCGGGCEEEES--CSEEETTCSSCEEEEEECBBTT-SCBCCSCCCCEEECSTTEEECCCEECSSSEEEEEEE-
+T ss_pred             EEEccCCccceeeEEEEc--CCeeecCCCceEEEEEEEECCC-CCcCCCcEEEEEeCCCCceeeeEEeCCCeEEEEEEE-
+Confidence            444333211   233332  222233  45578889999998 999999999988654432223346788999999998 
+
+
+Q LOKIASV2_40800 1965 TQFPSVGTYTMRITATKFQYETQI-LDIFIDINRIPTRINN--SIFIQ---VDYAINI------STDHVYSIEYYDTEGN 2032 (2326)
+Q Consensus      1965 S~~~~~G~Y~I~Ita~k~nY~t~~-~~~~l~I~~ipT~Ln~--s~~~~---~~~~v~v------~~~~~ftf~Y~Dt~~~ 2032 (2326)
+                      .  ..+|.+.|+++..+....... ..  +.+.+.+.....  ..+..   .......      ++...+++.++|.+|+
+T Consensus       190 ~--~~~G~~~ita~~~~~~~~~~~~~~--vt~~~~~~~~~~~~~~l~~~~~~~~~~~a~g~~~~~~~~~vta~v~D~~Gn  265 (357)
+T 5LDY_B          190 G--TQTGIANIAVQSSGATIAGLAATM--VTITPGAWNTTQATPVMTVALPITTCQSSSGVYKRYYIGIVTHELYDNYGN  265 (357)
+T ss_dssp             E--SSCEEEEEEEEETTEECCSCCCCE--EEEECCSBCTTCCSCSEEEECCSSCCCCSSSSBCCEEEEEEECCEEBTTSC
+T ss_pred             e--cCCeEEEEEEEEcCCccccceeEE--EEEecCCcccccccceEEEecCCCcceecccceeeceEEEEEEEEECCCCC
+Confidence            4  578999999887665432111 12  444433221110  00111   1111111      3467888999999999
+
+
+Q LOKIASV2_40800 2033 PIENANIAYVEWELVGEG---ITREFNLIETGQGTYLLD 2068 (2326)
+Q Consensus      2033 ~I~~a~i~~~~We~~g~g---i~~~~~Lie~gnG~Y~Ld 2068 (2326)
+                      |+.+..    .|......   ........++++|.+++.
+T Consensus       266 pv~~~~----~~~~~~g~~~~~~~~~~~~Td~~G~A~~~  300 (357)
+T 5LDY_B          266 EISGIL----TYNLGAGRYTTVTSQNSSVSGSNGLTRRS  300 (357)
+T ss_dssp             EECCEE----EEEECCEEEEETTCCEEEECCEEEEEEES
+T ss_pred             ccCCcE----EEEcCCceeEEeecCCcceeccccEEEEe
+Confidence            999876    23322211   011234577888988754
+
+
+No 81
+>5FTX_A SURFACE LAYER PROTEIN; CELL ADHESION, SURFACE LAYER, SELF-ASSEMBLY; 4.1A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=25.38  E-value=61  Score=47.49  Aligned_cols=236  Identities=13%  Similarity=0.166  Sum_probs=139.7  Template_Neff=7.200
+
+Q LOKIASV2_40800 1910 VLWNEIMVFSVNFSDTHNNLPITDG----TLNYSVGQVSGFIGNLNHSENGIYTLTLNSTQFPSVGTYTMRITATKFQYE 1985 (2326)
+Q Consensus      1910 v~wge~i~itv~y~D~~~n~pI~~A----tvsy~~~~~sg~~~~l~~~g~G~Y~~tinTS~~~~~G~Y~I~Ita~k~nY~ 1985 (2326)
+                      ...++.+.+++.++|.+ ++++.+.    .+.|.......    ...+.+|.++     .  ...|++.|++.+....  
+T Consensus        31 ~~~g~t~tltatv~D~~-g~~vt~~~~~~~Vtwsss~~~v----atvd~~G~it-----a--~~~Gt~tITas~~~~s--   96 (653)
+T 5FTX_A           31 QISSGTLTLTAKFKDQY-GNELTGKVAGTDYTFESLNPEV----LVVAPDGSVT-----P--IVPGTALVKVKYGEVT--   96 (653)
+T ss_dssp             EECSSCEEEEEEEECSS-SCEECSCCBTTTBEEEESCTTT----EEECTTSBEE-----E--CSSEEEEEEEESTTCC--
+T ss_pred             eecCcEEEEEEEEECCC-CCccCCcccCceEEEEECCCCc----EEECCCCeEE-----E--cCCeEEEEEEEECCEE--
+Confidence            34566788889999998 8999887    78887654321    1234567665     2  3578888887775421  
+
+
+Q LOKIASV2_40800 1986 TQILDIFIDINRIPTRINNSIFIQVDYAINISTDHVYSIEYYDTEGNPIENANIAYVEWELVGEGITRE-FNLIETGQGT 2064 (2326)
+Q Consensus      1986 t~~~~~~l~I~~ipT~Ln~s~~~~~~~~v~v~~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi~~~-~~Lie~gnG~ 2064 (2326)
+                       ....  +.+.+.+. +....+......+..++...+++.++|.+|+++.+. +   .|.......... .....+.+|.
+T Consensus        97 -~s~~--VtV~~~~~-v~~Itlt~~~~~la~G~t~tLtatv~D~~GnpV~~~-V---twsss~~~i~tvs~~~~gd~~G~  168 (653)
+T 5FTX_A           97 -KTIP--VTVKANPV-LETIAVDSTGVSVAKGQKATFKVTLKDQYGNKFTGN-V---NVTSDKTETATVSVSNSGIGQSE  168 (653)
+T ss_dssp             -EEEE--EEEBCCCC-EEEEEESCSCBCBBTTCEEEEEEEEEETTSSBCCBC-C---EEEETTTTTBCCEESGGGCSBSE
+T ss_pred             -EEEE--EEEecCCc-eeEEEEeCCceeecCCCEEEEEEEEEcCCCCeecce-E---EEEeCCCCeEEEEeccccccCeE
+Confidence             1222  44433321 111111112223445667788899999999998876 6   787654321111 1113457899
+
+
+Q LOKIASV2_40800 2065 YLLDFNTSTRPLGDYNFVIHLGKDNYIERSGAIRIAIEPRPIKYQLGAEFS--------GTKIAQQEGKDLIFEISLQDS 2136 (2326)
+Q Consensus      2065 Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I~LtI~~R~i~~~l~~~~~--------~~~i~~~~G~~i~~~i~L~D~ 2136 (2326)
+                      |++.+.  ....|.+.|.+...+..     ....+++........  ..+.        ........++...+++.++|.
+T Consensus       169 ~tvtlT--a~~aGt~tITat~~g~s-----~s~tVtV~~~~~~~s--i~lt~~~~~~v~~~~~~a~~g~t~~ltatv~D~  239 (653)
+T 5FTX_A          169 YTVTVN--GVAEGSTTITIKSGTKE-----VKVPVNVVAGGPVAN--YQIKVLDDGKIDKSATESPANNDVQLKVYAVDA  239 (653)
+T ss_dssp             EEEEEE--BCSSEEEEEEEEETTEE-----EEEEEEEBCCCCCCC--EEEEECSCSEEECSSSCSSCCCCEEEEEEEECT
+T ss_pred             EEEEEE--eecCeEEEEEEEECCEE-----EEEEEEEEcCCCceE--EEEEEcCCCcccCCccccCCCCceEEEEEEEcC
+Confidence            999987  56789999988875533     233444433110000  1111        233345667788999999999
+
+
+Q LOKIASV2_40800 2137 VTKTPLSGA--TVTLEFEAWDIQNI-TLTEVENQNGTYRYVLDT 2177 (2326)
+Q Consensus      2137 ~~~~~I~gA--tV~l~~~~~~~~~~-~~t~~~~~~GtY~~~i~t 2177 (2326)
+                      + |+|+.|.  .|.|.......... .....++.+|.+++.++.
+T Consensus       240 ~-GnpV~g~t~~V~~sss~~~~~tv~~~~~~Td~nG~atvtlTa  282 (653)
+T 5FTX_A          240 N-GNIVGDITNDVTITSEATDTNGVIVNASKSTANGDTVYVITD  282 (653)
+T ss_dssp             T-SCEEEECTTSCEEECCSSCSSSCCEEEEEEEETTEEEEEEEE
+T ss_pred             C-CCccccccceeEEEecCCCcceEEEcceEeCCCceEEEEEEE
+Confidence            8 9999998  88887765321100 112234567766665543
+
+
+No 82
+>6FWV_B Collagen Adhesion protein; LPXTG-anchored, surface protein, thioester domain; HET: MSE; 2.58A {Bacillus anthracis}
+Probab=24.80  E-value=64  Score=45.31  Aligned_cols=58  Identities=19%  Similarity=0.275  Sum_probs=40.9  Template_Neff=10.200
+
+Q LOKIASV2_40800  410 SSNFKIQVLDLD--GFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYT  469 (2326)
+Q Consensus       410 ~~~v~i~~~DiD--G~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt  469 (2326)
+                      ...+++.+.|.+  |.++++|+|.|...+........||++|.+.| +|+.| .|.+...-.
+T Consensus       437 ~~~i~~~~~d~~~~~~~~~ga~~~l~~~~~~~~~~~~td~~G~~~~-~l~~G-~Y~v~e~~~  496 (526)
+T 6FWV_B          437 EGELEITKVDVADGNTKLPNAEFTIYNEQGKEVVKGKTNEQGIAKF-KLPYG-KYTYKETIA  496 (526)
+T ss_dssp             EEEEEEEEEESSCCC--CCCCEEEEEESSCCEEEEEECCGGGEEEE-EEESE-EEEEEEEEC
+T ss_pred             eeeEEEEEEECCCCCeEccCcEEEEEeCCCCEEEEEEeCCCcEEEE-EeCCE-EEEEEEEEC
+Confidence            456777788865  79999999999544333334567999999999 89876 687766543
+
+
+No 83
+>6RPT_A Complement C5, Putative 8.9 kDa; complement, inhibitor, innate immunity, inflammation; HET: GOL; 2.7A {Homo sapiens}
+Probab=24.12  E-value=67  Score=36.67  Aligned_cols=46  Identities=20%  Similarity=0.114  Sum_probs=31.9  Template_Neff=9.100
+
+Q LOKIASV2_40800  409 VSSNFKIQVLDLDGFPIPNAEVVIN-KTDVE--------NEQTQFTDSVGEVLFT  454 (2326)
+Q Consensus       409 ~~~~v~i~~~DiDG~~vpna~V~ln-~~~~~--------~~~~~~T~~~G~~~F~  454 (2326)
+                      ....++|.+.+.||.|+++..|.+. .....        ...+..+|.+|.+.|.
+T Consensus        40 lpy~~~v~v~~~DG~P~~~~~v~v~~~~~~~~~~~~~~~~~~~~ttd~~G~~~f~   94 (133)
+T 6RPT_A           40 IPYPIKVQVKDSLDQLVGGVPVTLNAQTIDVNQETSDLDPSKSVTRVDDGVASFV   94 (133)
+T ss_dssp             SCEEEEEEEECTTSCBCCSCEEEEEEEEEETTSCEEECCCEEEECCTTTCEEEEE
+T ss_pred             CCeEEEEEEECCCCCccCCccEEEEEeeeccCCCCCCCCCceeEEeCCCCEEEEE
+Confidence            3467889999999999999998762 21110        0123458889988884
+
+
+No 84
+>5N40_A Putative invasin; Adhesin, C-type lectin-like fold, cell; HET: PEG; 1.7A {Yersinia pseudotuberculosis serotype O:1b}
+Probab=23.37  E-value=70  Score=43.10  Aligned_cols=147  Identities=14%  Similarity=0.213  Sum_probs=97.8  Template_Neff=8.400
+
+Q LOKIASV2_40800 2018 TDHVYSIEYYDTEGNPIENANIAYVEWELVGEGITREFNLIETGQGTYLLDFNTSTRPLGDYNFVIHLGKDNYIERSGAI 2097 (2326)
+Q Consensus      2018 ~~~~ftf~Y~Dt~~~~I~~a~i~~~~We~~g~gi~~~~~Lie~gnG~Y~LdfdTe~~~iG~Y~I~Vtl~K~NY~~rs~~I 2097 (2326)
+                      +...+++.++|.+|+|+.|..|   .|......   .....++++|.|++.+. ....+|.+.|.+.+.+.....  ...
+T Consensus        27 ~~~~vt~tv~D~~Gnpv~g~~V---~~~~~~~~---~~~~~Td~~G~~t~~lt-a~~~ag~~~vta~~~g~~~~~--~~~   97 (352)
+T 5N40_A           27 DTSVVTLTLRDSNNNPVTGQTV---AFTSTLGT---LDNVTEQASGLYTATLT-AGTLTGTASLSVNVDGNNLGT--TPA   97 (352)
+T ss_dssp             CEEEEEEECBBTTSCBCCSCCE---EEEESSSE---ECCCEEETTTEEEEEEE-CCSCCEEEEEEEEETTEECCC--CCC
+T ss_pred             eEEEEEEEEECCCCCccCCcEE---EEEecCCc---ccceeecCCcEEEEEEE-cCCCCeEEEEEEEEcCCccCc--cCe
+Confidence            4567889999999999999988   77664321   23456889999999987 456789999988887654321  122
+
+
+Q LOKIASV2_40800 2098 RIAIEPRPIKYQLGAEFSGTKIAQQEGKDLIFEISLQDSVTKT-PLSGATVTLEFEAWD------IQ-----------NI 2159 (2326)
+Q Consensus      2098 ~LtI~~R~i~~~l~~~~~~~~i~~~~G~~i~~~i~L~D~~~~~-~I~gAtV~l~~~~~~------~~-----------~~ 2159 (2326)
+                      .+.+......  +  .+......+..++.+.++++++|.. |+ |++|+.|.|......      ..           ..
+T Consensus        98 ~v~f~~~~~~--l--~~~~~~~~a~~~~~~tltvtv~D~~-gn~pv~~~~v~~~~~~~~~~~g~~v~~~~~~~~~~~~~~  172 (352)
+T 5N40_A           98 TINVIPAPVD--L--TVLTDNARKNIGQAISLTVIAKYKS-TDVVAPNVKMTFEQVAVVNRQNSPVSSSGVVQIADANYD  172 (352)
+T ss_dssp             EEEEECCCEE--E--EEEESCSEEETTSCEEEEEEEEETT-SSCBCTTCEEEEEEEEEECTTSCBCSSSCCCEETTEEGG
+T ss_pred             EEEEecCCce--e--eeecccchhcCCceEEEEEEEEeCC-CCcccCCeEEEEEEeceEcCCCCcccccceEEEcCCCcc
+Confidence            3333322211  1  1122223345677889999999998 76 899999998764310      00           01
+
+
+Q LOKIASV2_40800 2160 TLTEVENQNGTYRYVLDTN 2178 (2326)
+Q Consensus      2160 ~~t~~~~~~GtY~~~i~t~ 2178 (2326)
+                      .....++.+|.++++++..
+T Consensus       173 ~~~~~Td~~G~at~tlt~~  191 (352)
+T 5N40_A          173 AFTGMTDANGQLTVSVTDP  191 (352)
+T ss_dssp             GCCEECCTTSEEEEEEECT
+T ss_pred             eeEEEeCCCcEEEEEEECC
+Confidence            2345678999999998764
+
+
+No 85
+>4UJ6_A SURFACE LAYER PROTEIN; MEMBRANE PROTEIN, SELF-ASSEMBLY; 3.4A {GEOBACILLUS STEAROTHERMOPHILUS}
+Probab=22.79  E-value=74  Score=47.48  Aligned_cols=240  Identities=16%  Similarity=0.133  Sum_probs=109.0  Template_Neff=8.600
+
+Q LOKIASV2_40800 1067 WGKDITLSVNYTDAFNNVPISDA----DVNYFIQGDNEEYLIDETSTPGIYNYSFNSASLGSYGTYSFFINAQKDNYAPQ 1142 (2326)
+Q Consensus      1067 ~Ge~v~~~v~Y~Dt~n~t~IsgA----~vt~~i~g~~~~~~i~et~~~G~Ys~~lnts~lg~~G~Y~i~I~a~k~NY~~~ 1142 (2326)
+                      -++.+.+.+.+.|.. +.++.+.    .+.+.....  ..  ..+...|.+..    .   ..|.+.|.+.+...   ..
+T Consensus       449 ~~~~~~lt~~v~D~~-g~~v~~~~~~~~V~~~s~~~--~~--~~td~~G~~t~----~---~~G~~~Vtas~~~~---~~  513 (760)
+T 4UJ6_A          449 SSGTLTLTAKFKDQY-GNELTGKVAGTDYTFESLNP--EV--LVVAPDGSVTP----I---VPGTALVKVKYGEV---TK  513 (760)
+T ss_pred             CCCeeEEEEEEECCC-CCcCCCcccCceEEEEeCCC--Ce--EEECCCcEEEE----e---eCeEEEEEEEeCCc---ee
+Confidence            357788888888874 5588775    455443221  11  12334577661    1   24666665544321   12
+
+
+Q LOKIASV2_40800 1143 QLWVQVNVLII--PTELTTPNDQISVLATGEFELSVEFFNTSEAISEPITSGATVSYSVSGPSSI-VPGTLTHVGGGAYN 1219 (2326)
+Q Consensus      1143 ~~~i~I~V~~i--pT~Lt~~~~~~si~~~~~~~v~i~y~~t~~~~~~pIt~gAtvt~~~sg~~sv-v~gtlt~lg~G~Y~ 1219 (2326)
+                        .+.+.|...  ...|................+++...+.   .+.|+. +. |+|....+... ........++|.|.
+T Consensus       514 --~~~vtv~~~~~~~~l~i~~~~~~~~~g~~~~lt~~v~D~---~Gn~v~-~~-V~~~~~~~~~~~~~~~~~Td~~G~a~  586 (760)
+T 4UJ6_A          514 --TIPVTVKANPVLETIAVDSTGVSVAKGQKATFKVTLKDQ---YGNKFT-GN-VNVTSDKTETATVSVSNSGIGQSEYT  586 (760)
+T ss_pred             --EEEEEEEcCCCceeEEECCCeeeecCCceeEEEEEEECC---CCCcCc-ce-EEEEECCCCeeEEEeeEEeCCCcEEE
+Confidence              222333322  1233322222211112223444444332   335664 45 77776533211 11122334578888
+
+
+Q LOKIASV2_40800 1220 KSFDASSFPVTGTYTFQITAMKAEHVTQQLTITVDIGIV--PTQ--------LIRDQSSIEIYWGDSFELLVTYQDISDP 1289 (2326)
+Q Consensus      1220 it~dTs~~~~~GtYti~Itask~ny~~~~~tisI~V~~i--pT~--------l~~~~~~~~~ywGd~~t~~vtY~D~~~~ 1289 (2326)
+                      +.+...   ..|.++++.+.....   .  ...+.+..-  +..        +..........-|+...|.+.-.|..+ 
+T Consensus       587 ~~vt~~---~~G~~tVtat~~~~~---~--s~~v~v~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~lta~v~D~~G-  657 (760)
+T 4UJ6_A          587 VTVNGV---AEGSTTITIKSGTKE---V--KVPVNVVAGGPVANYQIKVLDDGKIDKSATESPANNDVQLKVYAVDANG-  657 (760)
+T ss_pred             EEEEec---CCEEEEEEEEECCce---e--EEEEEEEeCCCCceEEEEEeeeeEecCCcceecCCCeEEEEEEEECCCC-
+Confidence            888543   247777766554332   1  122222221  111        111112233456777888887776543 
+
+
+Q LOKIASV2_40800 1290 ENPIDIDDGEVYFELASISTKN-------GYLDPILNGQYQKDFVSSTYFDQPGTYTFELE 1343 (2326)
+Q Consensus      1290 ~n~i~I~~a~v~~~l~s~~~~~-------g~~t~~~nG~Y~i~~~tts~~~~pgtYti~It 1343 (2326)
+                       ++  +.+..+.+.+.+.....       .......+|.|.+.+...   ..+|.++|.+.
+T Consensus       658 -n~--v~~~~v~~~~~~~~~~~~~~~~~~~~~~Td~~G~~~vt~~~~---~~~G~~tItat  712 (760)
+T 4UJ6_A          658 -NI--VGDITNDVTITSEATDTNGVIVNASKSTANGDTVYVITDNGS---KKVGKETLTVK  712 (760)
+T ss_pred             -Cc--CCCcEEEEEEeCCCCcceeEEEecceEEeCCCcEEEEEEecC---CCCEEEEEEEE
+Confidence             23  33445544444321100       011123468887765321   24677755444
+
+
+No 86
+>1WLH_A Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=21.25  E-value=83  Score=40.50  Aligned_cols=211  Identities=14%  Similarity=0.208  Sum_probs=97.3  Template_Neff=10.800
+
+Q LOKIASV2_40800 1006 GMTNYTYMINTSKSDTLGQYRFDLSISLLNHTSHTTYFNLRIEEIE----TSVNEADYEDPIEVYWGKDITLSVNYTDAF 1081 (2326)
+Q Consensus      1006 g~g~Yt~~inTS~~~~~G~Y~i~I~as~~Nytt~t~~f~l~I~ei~----T~Ln~~~~~~~i~v~~Ge~v~~~v~Y~Dt~ 1081 (2326)
+                      +.|.|.+.+-..   ..|.|.+.+......-...  .|.+.+..-.    ..+..   .....+.-|+...|.+...|..
+T Consensus        63 ~~g~y~v~~~p~---~~G~~~i~v~~~~~~i~~s--p~~~~v~~~~~~~~~~~~~---~~~~~~~~g~~~~~~v~~~D~~  134 (311)
+T 1WLH_A           63 GDGTYDVEFEPK---EAGDYVINLTLDGDNVNGF--PKTVTVKPAPSAEHSYAEG---EGLVKVFDNAPAEFTIFAVDTK  134 (311)
+T ss_pred             CCcEEEEEEEcc---CCEEEEEEEEECCEECCCC--CEEEEEecCCCccccEEEe---cCCceeeCCCCEEEEEEEEcCC
+Confidence            346787777533   3689999887765433222  2333332211    11111   1111244577777887777765
+
+
+Q LOKIASV2_40800 1082 NNVPIS--DADVNYFIQGDNEEY--LIDETSTPGIYNYSFNSASLGSYGTYSFFINAQKDNYAPQQLWVQVNVLIIPTEL 1157 (2326)
+Q Consensus      1082 n~t~Is--gA~vt~~i~g~~~~~--~i~et~~~G~Ys~~lnts~lg~~G~Y~i~I~a~k~NY~~~~~~i~I~V~~ipT~L 1157 (2326)
+                      .+ ++.  +..+...+....+..  .......+|.|.+.+...   ..|.|.+.+......-.....  .+.|.......
+T Consensus       135 gn-~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~g~y~~~~~~~---~~G~~~i~v~~~g~~i~~sp~--~~~v~~~~~~~  208 (311)
+T 1WLH_A          135 GV-ARTDGGDPFEVAINGPDGLVVDAKVTDNNDGTYGVVYDAP---VEGNYNVNVTLRGNPIKNMPI--DVKCIEGANGE  208 (311)
+T ss_pred             CC-cccCCCceEEEEEECCCCCeeEEEEEECCCCEEEEEEeCC---CCEEEEEEEEECCEECCCCCE--EEEEEeCCCCc
+Confidence            43 221  112222222111110  001112468998888653   367898888765533222222  22232211110
+
+
+Q LOKIASV2_40800 1158 TTPNDQISVLATGEFELSVEFFNTSEAISEPIT-SGATVSYSVSGPSSIVPGTLTHVGGGAYNKSFDASSFPVTGTYTFQ 1236 (2326)
+Q Consensus      1158 t~~~~~~si~~~~~~~v~i~y~~t~~~~~~pIt-~gAtvt~~~sg~~svv~gtlt~lg~G~Y~it~dTs~~~~~GtYti~ 1236 (2326)
+                             . .......+.+.-.+..   +.+.. .+..+...+.++.........+.++|.|.++|....   .|.|.+.
+T Consensus       209 -------~-~~~~~~~~~v~~~d~~---gn~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~---~G~~~v~  274 (311)
+T 1WLH_A          209 -------D-SSFGSFTFTVAAKNKK---GEVKTYGGDKFEVSITGPAEEITLDAIDNQDGTYTAAYSLVG---NGRFSTG  274 (311)
+T ss_pred             -------c-cCCCCEEEEEEEEcCC---CCccCCCCCeEEEEEECCCCCceEEEEeCCCCEEEEEEECCC---CEEEEEE
+Confidence                   0 0111222333222211   11111 112233333333322223345667899999998864   4889999
+
+
+Q LOKIASV2_40800 1237 ITAMKAEH 1244 (2326)
+Q Consensus      1237 Itask~ny 1244 (2326)
+                      +......-
+T Consensus       275 v~~~g~~i  282 (311)
+T 1WLH_A          275 VKLNGKHI  282 (311)
+T ss_pred             EEECCEEC
+Confidence            87765433
+
+
+No 87
+>4ZJH_A alpha-2-Macroglobulin; Bacterial pan-proteinase inhibitor, membrane protein; 1.6A {Escherichia coli (strain K12)}
+Probab=20.68  E-value=87  Score=38.40  Aligned_cols=46  Identities=17%  Similarity=0.201  Sum_probs=34.3  Template_Neff=9.700
+
+Q LOKIASV2_40800  411 SNFKIQVLDLD-GFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGV  456 (2326)
+Q Consensus       411 ~~v~i~~~DiD-G~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i  456 (2326)
+                      ....|-|.|.. |.||+||+|.+............||.+|.+.|..-
+T Consensus       141 ~~~~v~v~d~~tG~Pv~~a~V~~~~~~~~~~~~~~Td~~G~~~~~~~  187 (208)
+T 4ZJH_A          141 NRLDIFTQSLENGAAQQGIEVSLLNEKGQTLTQATSDAQGHVQLEND  187 (208)
+T ss_dssp             TEEEEEEEETTTCCBCSSCEEEEECTTCCEEEEEECCTTSEEEEECC
+T ss_pred             CeEEEEEEEcCCCcccCCCEEEEECCCCCEeeEEEeCCCCeEEecCC
+Confidence            45667777775 99999999998543222235678999999999876
+
+
+No 88
+>1WLH_B Gelation factor; ABP-120, filamin, Immunoglobulin fold, rod; 2.8A {Dictyostelium discoideum} SCOP: b.1.18.10
+Probab=20.65  E-value=87  Score=40.26  Aligned_cols=211  Identities=14%  Similarity=0.208  Sum_probs=97.0  Template_Neff=10.900
+
+Q LOKIASV2_40800 1006 GMTNYTYMINTSKSDTLGQYRFDLSISLLNHTSHTTYFNLRIEEIE----TSVNEADYEDPIEVYWGKDITLSVNYTDAF 1081 (2326)
+Q Consensus      1006 g~g~Yt~~inTS~~~~~G~Y~i~I~as~~Nytt~t~~f~l~I~ei~----T~Ln~~~~~~~i~v~~Ge~v~~~v~Y~Dt~ 1081 (2326)
+                      +.|.|.+.+-..   ..|.|.+.+......-...  .+.+.+..-.    ..+..   .....+.-|+...|.+...|..
+T Consensus        63 ~~g~y~v~~~p~---~~G~~~i~v~~~~~~i~~s--p~~~~v~~~~~~~~~~~~~---~~~~~~~~g~~~~~~v~~~D~~  134 (311)
+T 1WLH_B           63 GDGTYDVEFEPK---EAGDYVINLTLDGDNVNGF--PKTVTVKPAPSAEHSYAEG---EGLVKVFDNAPAEFTIFAVDTK  134 (311)
+T ss_dssp             SSSEEEEEECCC---SCSEEEECCEESSCBCTTC--SEEEEBCCCBCTTTCEEES---GGGTEEETTSCEEEEEECBBTT
+T ss_pred             CCcEEEEEEecc---CCEEEEEEEEECCEEcCCc--cEEEEEeCCCCccccEEEe---ecceeeeCCCCeEEEEEEECCC
+Confidence            346787777533   3589999887765433222  2333332211    11111   1111244577777887777765
+
+
+Q LOKIASV2_40800 1082 NNVPIS--DADVNYFIQGDNEEY--LIDETSTPGIYNYSFNSASLGSYGTYSFFINAQKDNYAPQQLWVQVNVLIIPTEL 1157 (2326)
+Q Consensus      1082 n~t~Is--gA~vt~~i~g~~~~~--~i~et~~~G~Ys~~lnts~lg~~G~Y~i~I~a~k~NY~~~~~~i~I~V~~ipT~L 1157 (2326)
+                      .+ ++.  +..+...+....+..  .......+|.|.+.+...   ..|.|.+.+......-....  +.+.|.......
+T Consensus       135 gn-~~~~~~~~~~v~~~~~~~~~~~~~~~~~~~g~~~~~~~~~---~~G~~~i~v~~~g~~i~~sp--~~v~v~~~~~~~  208 (311)
+T 1WLH_B          135 GV-ARTDGGDPFEVAINGPDGLVVDAKVTDNNDGTYGVVYDAP---VEGNYNVNVTLRGNPIKNMP--IDVKCIEGANGE  208 (311)
+T ss_dssp             SC-BCCSCCCCEEEEEECTTSCEECCEECCCTTSEEEEEECCC---SSEEEEEEEEETTEECTTCS--EEEEEECCCCGG
+T ss_pred             CC-eeCCCCCcEEEEEECCCCCEEEEEEEeCCCCEEEEEEECC---CCEEEEEEEEECCEECCCCC--EEEEEEeCCCCC
+Confidence            43 221  112222222211110  001112468998888653   46789888876543322222  222332211110
+
+
+Q LOKIASV2_40800 1158 TTPNDQISVLATGEFELSVEFFNTSEAISEPIT-SGATVSYSVSGPSSIVPGTLTHVGGGAYNKSFDASSFPVTGTYTFQ 1236 (2326)
+Q Consensus      1158 t~~~~~~si~~~~~~~v~i~y~~t~~~~~~pIt-~gAtvt~~~sg~~svv~gtlt~lg~G~Y~it~dTs~~~~~GtYti~ 1236 (2326)
+                      .        .......+.+.-.+..   +.+.. ....+...+.++.........+.++|.|.++|....   .|.|.+.
+T Consensus       209 ~--------~~~~~~~~~v~~~d~~---gn~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~y~~~~~~~~---~G~~~v~  274 (311)
+T 1WLH_B          209 D--------SSFGSFTFTVAAKNKK---GEVKTYGGDKFEVSITGPAEEITLDAIDNQDGTYTAAYSLVG---NGRFSTG  274 (311)
+T ss_dssp             G--------CEEEEEEEEEECBCTT---SCBCSSCCSCEEEEEEECEEEEECCEEECSSSEEEEEEEEEE---SEEEEEE
+T ss_pred             c--------cccccEEEEEEEECCC---CCccccCCCeEEEEEECCCCceEEEEEeCCCCEEEEEEEecC---CeEEEEE
+Confidence            0        0111222333222211   11111 112233333333322222345667899999998863   5889999
+
+
+Q LOKIASV2_40800 1237 ITAMKAEH 1244 (2326)
+Q Consensus      1237 Itask~ny 1244 (2326)
+                      +......-
+T Consensus       275 v~~~~~~i  282 (311)
+T 1WLH_B          275 VKLNGKHI  282 (311)
+T ss_dssp             EEESSSBC
+T ss_pred             EEECCEEC
+Confidence            87765433
+
+
+No 89
+>6HIF_d Hydrazine dehydrogenase (E.C.1.7.2.8), Uncharacterized protein; anammox, hydrazine, dehydrogenase, P460, redox; HET: GOL, SO4, HEC; 2.8A {Kuenenia stuttgartiensis}
+Probab=20.53  E-value=88  Score=34.04  Aligned_cols=51  Identities=22%  Similarity=0.367  Sum_probs=39.7  Template_Neff=10.200
+
+Q LOKIASV2_40800  410 SSNFKIQVLDLDGFPIPNAEVVINKTDVENEQTQFTDSVGEVLFTGVNINQEYNITVNYT  469 (2326)
+Q Consensus       410 ~~~v~i~~~DiDG~~vpna~V~ln~~~~~~~~~~~T~~~G~~~F~~i~~~~~Yn~tvnyt  469 (2326)
+                      ...+..+++| .|.|+|+++|.+..      ....++.+|...| .++.+ .|.+.+.+.
+T Consensus        30 ~~~i~g~v~~-~~~~~~~~~v~~~~------~~~~t~~~G~~~~-~~~~g-~~~v~i~~~   80 (114)
+T 6HIF_d           30 PAKLWVTAIA-IGTPIVGAEIKVGD------EECTTGNNGTCVF-ELRPG-TYAISVHEH   80 (114)
+T ss_pred             CcEEEEEEEE-CCcccCCCEEEECc------eEEEeCCCeEEEE-EeCCE-EEEEEEEeC
+Confidence            4668888899 99999999998732      2356889999999 88765 688877753
+
+

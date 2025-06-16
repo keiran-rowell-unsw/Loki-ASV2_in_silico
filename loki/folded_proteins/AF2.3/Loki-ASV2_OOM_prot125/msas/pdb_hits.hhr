@@ -1,0 +1,464 @@
+Query         LOKIASV2_23150 hypothetical protein
+Match_columns 1271
+No_of_seqs    39 out of 45
+Neff          3.51761
+Searched_HMMs 80799
+Date          Wed Sep 11 12:09:42 2024
+Command       /usr/bin/hhsearch -i /tmp/tmp826xwopt/query.a3m -o /tmp/tmp826xwopt/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4AG6_B TYPE IV SECRETORY PATHW  96.7 3.5E-05 4.3E-10   84.5   0.0  337  561-949     1-383 (392)
+  2 4AG6_D TYPE IV SECRETORY PATHW  96.6 5.2E-05 6.5E-10   83.2   0.0  337  561-949     1-383 (392)
+  3 4D2I_A HERA; HYDROLASE, NURA,   96.6 5.4E-05 6.7E-10   87.6   0.0  334  566-949   117-464 (500)
+  4 1E9R_F CONJUGAL TRANSFER PROTE  95.8 0.00052 6.5E-09   78.4   0.0  336  587-948    45-423 (437)
+  5 1E9S_F CONJUGAL TRANSFER PROTE  95.8 0.00052 6.5E-09   78.4   0.0  336  587-948    45-423 (437)
+  6 1GKI_A CONJUGAL TRANSFER PROTE  95.8 0.00052 6.5E-09   78.4   0.0  336  587-948    45-423 (437)
+  7 4KFR_A Genome packaging NTPase  38.2      27 0.00033   36.2   0.0  107  820-945    96-203 (212)
+  8 4KFU_A Genome packaging NTPase  38.2      27 0.00033   36.2   0.0  107  820-945    96-203 (212)
+  9 3BS4_A Uncharacterized protein  20.5      88  0.0011   35.1   0.0   44  595-638    20-64  (260)
+ 10 5IJN_S NUCLEAR PORE COMPLEX PR  19.1      99  0.0012   41.4   0.0   16 1044-1059  304-319 (599)
+
+No 1
+>4AG6_B TYPE IV SECRETORY PATHWAY VIRB4; HYDROLASE, TYPE IV SECRETION, CONJUGATION; HET: SO4; 2.35A {THERMOANAEROBACTER PSEUDETHANOLICUS}
+Probab=96.67  E-value=3.5e-05  Score=84.53  Aligned_cols=337  Identities=8%  Similarity=0.058  Sum_probs=232.9  Template_Neff=11.300
+
+Q LOKIASV2_23150  561 FSTPL-LNDAIVFGHTFNSENFSQEITGGLSHEEL-----MFNILFAGDFYRMTHMAVIRTVTELIKHDYPVIIFDWEGT  634 (1271)
+Q Consensus       561 FNTPL-L~N~I~iG~TiNTE~le~Evp~GFt~eQl-----k~nLLi~ng~~~~re~~~mkiV~ELvk~~~PsiIFDf~G~  634 (1271)
+                      +++++ +++|+.+|.+.++      .|++++....     ..|++|+|+||||||+++..++.+++.+|.+++++|+||+
+T Consensus         1 ~~~~~~~~~g~~lG~~~~~------~~v~l~~~~~~~~~~~~h~~i~G~tGsGKT~~~~~~l~~~~~~~~~~ii~D~kge   74 (392)
+T 4AG6_B            1 TASGINDGSGIVLGKDRDG------GLVLVDIWKRGGDRTNSNWTILAKPGAGKSFTAKMLLLREYMQGSRVIIIDPERE   74 (392)
+T ss_pred             CCCcccCCCceEeEEeCCC------CeeEeCCCCCCCCcCcccEEEEcCCCCCHHHHHHHHHHHHHHCCCcEEEECCCch
+Confidence            46788 8999999999777      7899998765     7899999999999999999999999989999999999999
+
+
+Q LOKIASV2_23150  635 WKNLYPIIQNNQIPANKFQYLTVGDEIGLQSFQLSNPARGD---A-------QIEYVTRIITILQNLFRY-STHDLELFR  703 (1271)
+Q Consensus       635 WSkLi~~F~~t~~~~n~flyfklG~~f~i~pl~~s~~~~d~---~-------n~eYl~y~~D~~amaFK~-d~rtie~fk  703 (1271)
+                      +..++...++.      ++.++ +.+..+||+.........   .       .....+.+..++....+. .+.....+.
+T Consensus        75 ~~~~~~~~~~~------~~~~~-~~~~~~Npl~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~l~  147 (392)
+T 4AG6_B           75 YKEMCRKLGGV------WINCT-GGEGKINPLQVRLRPVEEEDEENAVFQSPLALHIQTLRTFFSLYLRDLTDTEKAALE  147 (392)
+T ss_pred             HHHHHHHhCCe------EEEcC-CCCceecccccCCCCCCCCCCccccccchHHHHHHHHHHHHHHhCCCCCHHHHHHHH
+Confidence            99888766443      55566 567789999865332110   0       011223333333322211 122222222
+
+
+Q LOKIASV2_23150  704 SILLNE------------------DCGDLMHMKANFPKLLEDKGNKLSYYKTPVFALLSMLTQDIYLDIFGRDITQYCHP  765 (1271)
+Q Consensus       704 ~tI~~n------------------p~~D~~sl~l~l~~~~~~~~~~~s~~~~~l~sl~~~~~qd~~~~~~~~~~~~~i~~  765 (1271)
+                      .++...                  ..+++.++.+.+    .............+...++.+.++.++.+|+...      
+T Consensus       148 ~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~----~~~~~~~~~~~~~l~~~l~~~~~~~~~~~f~~~~------  217 (392)
+T 4AG6_B          148 DALVEVYKEAGITWDTDPRGVPNDKWPTVKELYEYC----VKKAEENPETYGRLSVLLKRAAEGADSYLWAGPT------  217 (392)
+T ss_pred             HHHHHHHHHcCCCCCccccCCCCCCCCcHHHHHHHH----HHhhhcCHHHHHHHHHHHHHHhcCCchhccCCCC------
+Confidence            222211                  223455665555    2222222334455666666666545566776654      
+
+
+Q LOKIASV2_23150  766 WEIFQSTNVWIINLMPIRNTQLKAL--FIHLFLAQLLSFYNNSGIPDEILPQFTKKSPVISVIPHG-EFVFPKSSDHHKV  842 (1271)
+Q Consensus       766 ~~fi~n~KTvIIDLs~l~d~~kK~f--f~f~ilsKiIHyi~~s~~~de~~~k~i~~iP~Idv~f~~-~f~~d~~~~ygKi  842 (1271)
+                       .+..++++++++++.+........  .+..++..++....+.        .   ..|++ +++|| |.+.+.+ +....
+T Consensus       218 -~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~--------~---~~~~~-i~lDE~~~~~~~~-~~~~~  283 (392)
+T 4AG6_B          218 -AVEADSDFIVFDVHDLQNAEDQVKRAQYFNVLSFAWNILERD--------R---RERTV-LVVDEAWMLVDPQ-TPQAI  283 (392)
+T ss_pred             -ccCCCCCEEEEEccccCCchHHHHHHHHHHHHHHHHHHHHcC--------C---CCCEE-EEEeCHHHhCCCC-CHHHH
+Confidence             234578999999999876532221  1233444444332221        3   56788 99999 9987632 12345
+
+
+Q LOKIASV2_23150  843 DSIAEILIHLNEAQFPVIMETNQINRLDP--------EIFSVFETIFGFRTSKYQNQKTLSNLLHLDSQFVNTTHKKYRK  914 (1271)
+Q Consensus       843 ~kf~~~L~pL~~~gFG~I~sanQI~yLHP--------nvfnyf~NiitFratD~RDia~L~n~MNLqEl~G~GyYS~sRn  914 (1271)
+                      +.+.++++++|++|+++++++|+++++.+        .++++|+++++++.++ ++++.+++.+|+++            
+T Consensus       284 ~~l~~~l~~~R~~g~~~~~~~Q~~~~l~~~~~~~~~~~i~~n~~~~i~~~~~~-~~~~~~~~~~g~~~------------  350 (392)
+T 4AG6_B          284 AFLRDTSKRIRKYNGSLIVISQNVIDFLAPEVQRYGQALLDNPTYKLLLAQGE-KDLEAITTLMNLSE------------  350 (392)
+T ss_pred             HHHHHHHHHHHhcCcEEEEEeCCHHHhccccCHHHHHHHHhhcccEEEecCCH-HHHHHHHHHhCCCH------------
+Confidence            67999999999999999999999999864        5899999999999766 68999999999887            
+
+
+Q LOKIASV2_23150  915 VSYQHQFLSHLDWNHTIIFRPNYQHPFVFSFDYQE  949 (1271)
+Q Consensus       915 ~tYQi~YL~~l~~nEvIvKR~Di~QPFP~~id~~e  949 (1271)
+                        ++.+.+.++++|++++..+....++.+++++.|
+T Consensus       351 --~~~~~l~~l~~g~~~~~~~~~~~~~~~~~~~~e  383 (392)
+T 4AG6_B          351 --AEHDLLVNAKRGEGLFVAGTQRIHIKIEAAPYE  383 (392)
+T ss_pred             --HHHHHHhcCCCCcEEEEeCCeEEEEEEEcCHHH
+Confidence              788899999999999987776778888888776
+
+
+No 2
+>4AG6_D TYPE IV SECRETORY PATHWAY VIRB4; HYDROLASE, TYPE IV SECRETION, CONJUGATION; HET: SO4, MSE; 2.35A {THERMOANAEROBACTER PSEUDETHANOLICUS}
+Probab=96.57  E-value=5.2e-05  Score=83.22  Aligned_cols=337  Identities=8%  Similarity=0.058  Sum_probs=96.7  Template_Neff=11.300
+
+Q LOKIASV2_23150  561 FSTPL-LNDAIVFGHTFNSENFSQEITGGLSHEEL-----MFNILFAGDFYRMTHMAVIRTVTELIKHDYPVIIFDWEGT  634 (1271)
+Q Consensus       561 FNTPL-L~N~I~iG~TiNTE~le~Evp~GFt~eQl-----k~nLLi~ng~~~~re~~~mkiV~ELvk~~~PsiIFDf~G~  634 (1271)
+                      +++++ +++|+.+|.+.++      .|++++....     ..|++|+|+||||||+++..++.+++.+|.+++++|+||+
+T Consensus         1 ~~~~~~~~~g~~lG~~~~~------~~v~l~~~~~~~~~~~~h~~i~G~tGsGKT~~~~~ll~~~~~~~~~~ii~D~kge   74 (392)
+T 4AG6_D            1 TASGINDGSGIVLGKDRDG------GLVLVDIWKRGGDRTNSNWTILAKPGAGKSFTAKMLLLREYMQGSRVIIIDPERE   74 (392)
+T ss_dssp             ----------------------------------------------------CHHHHHHHHHHHHHTCC---CEEC----
+T ss_pred             CCCccccCCceEEEEeCCC------CeEEEeCCCCCCccccCCEEEEeCCCCCHHHHHHHHHHHHHhcCCeEEEECCchH
+Confidence            46788 8999999999777      7899998765     7899999999999999999999999989999999999999
+
+
+Q LOKIASV2_23150  635 WKNLYPIIQNNQIPANKFQYLTVGDEIGLQSFQLSNPARGD---A-------QIEYVTRIITILQNLFRY-STHDLELFR  703 (1271)
+Q Consensus       635 WSkLi~~F~~t~~~~n~flyfklG~~f~i~pl~~s~~~~d~---~-------n~eYl~y~~D~~amaFK~-d~rtie~fk  703 (1271)
+                      +..++...++.      ++.++ +.+..+||+.........   .       .....+.+..++....+. .+.....+.
+T Consensus        75 ~~~~~~~~~~~------~~~~~-~~~~~~npl~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~l~  147 (392)
+T 4AG6_D           75 YKEMCRKLGGV------WINCT-GGEGKINPLQVRLRPVEEEDEENAVFQSPLALHIQTLRTFFSLYLRDLTDTEKAALE  147 (392)
+T ss_dssp             ------------------CCCS-SCC---CTTCC--------------CCCHHHHHHHHHHHHHHHHCCSCCHHHHHHHH
+T ss_pred             HHHHHHHhCCE------EEEcC-CCCCeecCeeeeccccCccCcccccccchHHHHHHHHHHHHHHhccCCCHHHHHHHH
+Confidence            99888766443      55555 567789999865332110   0       011223333333222211 122222222
+
+
+Q LOKIASV2_23150  704 SILLNE------------------DCGDLMHMKANFPKLLEDKGNKLSYYKTPVFALLSMLTQDIYLDIFGRDITQYCHP  765 (1271)
+Q Consensus       704 ~tI~~n------------------p~~D~~sl~l~l~~~~~~~~~~~s~~~~~l~sl~~~~~qd~~~~~~~~~~~~~i~~  765 (1271)
+                      .++...                  ..+++.++.+.+    .............+...++.+..+.++.+|+...      
+T Consensus       148 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~----~~~~~~~~~~~~~l~~~l~~~~~~~~~~~f~~~~------  217 (392)
+T 4AG6_D          148 DALVEVYKEAGITWDTDPRGVPNDKWPTVKELYEYC----VKKAEENPETYGRLSVLLKRAAEGADSYLWAGPT------  217 (392)
+T ss_dssp             HHHHHHHHHHTCCSSCCTTSCC--CCCCHHHHHHHH----HHHTTTCHHHHHHHHHHHHHHHHSTTHHHHSCC-------
+T ss_pred             HHHHHHHHHcCCCCCCCCCCCCCCCCCCHHHHHHHH----HHHhhcChhHhhHHHHHHHHHHcCCcccccCCCC------
+Confidence            222211                  223556666555    2221222333455666666666545566776654      
+
+
+Q LOKIASV2_23150  766 WEIFQSTNVWIINLMPIRNTQLKAL--FIHLFLAQLLSFYNNSGIPDEILPQFTKKSPVISVIPHG-EFVFPKSSDHHKV  842 (1271)
+Q Consensus       766 ~~fi~n~KTvIIDLs~l~d~~kK~f--f~f~ilsKiIHyi~~s~~~de~~~k~i~~iP~Idv~f~~-~f~~d~~~~ygKi  842 (1271)
+                       .+..++++++++++.+........  .+..++..++....+.        .   ..|++ +++|| |.+...+ +....
+T Consensus       218 -~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~--------~---~~~~~-~~lDE~~~~~~~~-~~~~~  283 (392)
+T 4AG6_D          218 -AVEADSDFIVFDVHDLQNAEDQVKRAQYFNVLSFAWNILERD--------R---RERTV-LVVDEAWMLVDPQ-TPQAI  283 (392)
+T ss_dssp             -----------CCCGGGC----CHHHHHHHHHHHHHHHHHHTC----------------C-EEETTC--------CTHHH
+T ss_pred             -cCCCCCCEEEEehHHhccCChHHHHHHHHHHHHHHHHHHhcC--------C---cccEE-EEEeCHHHHhCCC-CHHHH
+Confidence             234578999999999876432221  1233444444333221        3   56788 99999 9987632 12345
+
+
+Q LOKIASV2_23150  843 DSIAEILIHLNEAQFPVIMETNQINRLDP--------EIFSVFETIFGFRTSKYQNQKTLSNLLHLDSQFVNTTHKKYRK  914 (1271)
+Q Consensus       843 ~kf~~~L~pL~~~gFG~I~sanQI~yLHP--------nvfnyf~NiitFratD~RDia~L~n~MNLqEl~G~GyYS~sRn  914 (1271)
+                      +.+.++++++|++|+++++++|+++++.+        .++++|+++++++.++ ++++.+++.+|+++            
+T Consensus       284 ~~l~~~~~~~R~~g~~~~~~~Q~~~~l~~~~~~~~~~~i~~~~~~~i~~~~~~-~~~~~~~~~~g~~~------------  350 (392)
+T 4AG6_D          284 AFLRDTSKRIRKYNGSLIVISQNVIDFLAPEVQRYGQALLDNPTYKLLLAQGE-KDLEAITTLMNLSE------------  350 (392)
+T ss_dssp             HHHHHHTTSCC---CCEEECC-----------------------------------------------------------
+T ss_pred             HHHHHHHHHHHHhCcEEEEEeCCHHHhcCHHHHHHHHHHHcccceeecccCCH-HHHHHHHHHcCCCH------------
+Confidence            67999999999999999999999999864        5789999999999766 68999999999888            
+
+
+Q LOKIASV2_23150  915 VSYQHQFLSHLDWNHTIIFRPNYQHPFVFSFDYQE  949 (1271)
+Q Consensus       915 ~tYQi~YL~~l~~nEvIvKR~Di~QPFP~~id~~e  949 (1271)
+                        .+.+.+.++++|++++..+....++.+++.+.|
+T Consensus       351 --~~~~~i~~l~~g~~~~~~~~~~~~~~~~~~~~e  383 (392)
+T 4AG6_D          351 --AEHDLLVNAKRGEGLFVAGTQRIHIKIEAAPYE  383 (392)
+T ss_dssp             -----------------------------------
+T ss_pred             --HHHHHHHcCCCCcEEEEECCceEEEEEEcCHHH
+Confidence              778899999999999987766677888777776
+
+
+No 3
+>4D2I_A HERA; HYDROLASE, NURA, HELICASE, TRANSLOCASE, DNA; HET: ANP; 2.841A {SULFOLOBUS SOLFATARICUS}
+Probab=96.56  E-value=5.4e-05  Score=87.58  Aligned_cols=334  Identities=15%  Similarity=0.135  Sum_probs=210.1  Template_Neff=10.500
+
+Q LOKIASV2_23150  566 LNDAIVFGHTFN-SENFSQEITGGLSHEELMFNILFAGDFYRMTHMAVIRTVTELIKHDYPVIIFDWEGTWKNLYPIIQN  644 (1271)
+Q Consensus       566 L~N~I~iG~TiN-TE~le~Evp~GFt~eQlk~nLLi~ng~~~~re~~~mkiV~ELvk~~~PsiIFDf~G~WSkLi~~F~~  644 (1271)
+                      .++++.+|+..+ +      .|++++.+.+.+|++|+|+||+|||+++..++.+++..|.+++|+|++|+|..+....  
+T Consensus       117 ~~~~i~iG~~~~~~------~~v~l~~~~~~~h~~I~G~tGsGKS~~~~~l~~~~~~~~~~vii~D~~gey~~~~~~~--  188 (500)
+T 4D2I_A          117 QDGQIRIGSLIGKN------VEVKLNINSFARHLAILAATGSGKSNTVAVLSQRISELGGSVLIFDYHGEYYDSDIKN--  188 (500)
+T ss_dssp             TTCCEEEEEESSSC------CEEEECSGGGGGCEEEECSTTSSHHHHHHHHHHHHHHTTCCEEEEESSSTTTTSCCTT--
+T ss_pred             CCCCEEEEEEeCCC------ceeEEeHHHhcceEEEEcCCCCCHHHHHHHHHHHHHHcCCeEEEEeCCCccccccccc--
+Confidence            468899998765 5      8899998888899999999999999999999999998899999999999998664321  
+
+
+Q LOKIASV2_23150  645 NQIPANKFQYLTVGDEIGLQSFQLSNPARGD------AQIEYVTRIITILQNLFRYSTHDLELFRSILLNE--DCGDL-M  715 (1271)
+Q Consensus       645 t~~~~n~flyfklG~~f~i~pl~~s~~~~d~------~n~eYl~y~~D~~amaFK~d~rtie~fk~tI~~n--p~~D~-~  715 (1271)
+                                +. .....+||+...+.....      ........+..++.    .   ....+..++...  +.+++ .
+T Consensus       189 ----------~~-~~~~~~np~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~----~---~~~~~~~~~~~~~~~~~~~~~  250 (500)
+T 4D2I_A          189 ----------LN-RIEPKLNPLYMTPREFSTLLEIRENAIIQYRILRRAFI----K---VTNGIRAALAAGQIPFSTLNS  250 (500)
+T ss_dssp             ----------EE-EECCCBCGGGCCHHHHHHHTTCCTTCHHHHHHHHHHHH----H---HHHHHHHHHHHTCSCGGGSHH
+T ss_pred             ----------cC-CCCCCCCcccCCHHHHHHHhcccccHHHHHHHHHHHHH----H---HHHHHHHHHHcCCCChhhhhH
+Confidence                      12 234567777654322110      00011111111111    0   000111111100  11111 2
+
+
+Q LOKIASV2_23150  716 HMKANFPKLLEDKG--NKLSYYKTPVFALLSMLTQDIYLDIFGRDITQYCHPWEIFQSTNVWIINLMPIRNTQLKALFIH  793 (1271)
+Q Consensus       716 sl~l~l~~~~~~~~--~~~s~~~~~l~sl~~~~~qd~~~~~~~~~~~~~i~~~~fi~n~KTvIIDLs~l~d~~kK~ff~f  793 (1271)
+                      ++.+.+........  .........+...+..+.. .+..+++....   ++.+...++++++++++.+....... .+.
+T Consensus       251 ~~~~~l~~~~~~~~~~~~~~~~~~~l~~~l~~~~~-~~~~~~~~~~~---~~~~~l~~~~~~vi~l~~l~~~~~~~-i~~  325 (500)
+T 4D2I_A          251 QFYELMADALETQGNSDKKSSAKDEVLNKFEEFMD-RYSNVIDLTSS---DIIEKVKRGKVNVVSLTQLDEDSMDA-VVS  325 (500)
+T ss_dssp             HHHHHHHHHC------------CHHHHHHHHHHHH-HTTTTBCSSSC---CHHHHCCTTSEEEEECTTCCHHHHHH-HHH
+T ss_pred             HHHHHHHHHHHhCCCCCCCCchHHHHHHHHHHHHH-HhhhhcCCCch---hHHHHHhCCCEEEEEcccCCHHHHHH-HHH
+Confidence            33333311111110  1112233455555555554 33455554331   22344457899999999987654333 344
+
+
+Q LOKIASV2_23150  794 LFLAQLLSFYNNSGIPDEILPQFTKKSPVISVIPHG-EFVFPKSSDHHKVDSIAEILIHLNEAQFPVIMETNQINRLDPE  872 (1271)
+Q Consensus       794 ~ilsKiIHyi~~s~~~de~~~k~i~~iP~Idv~f~~-~f~~d~~~~ygKi~kf~~~L~pL~~~gFG~I~sanQI~yLHPn  872 (1271)
+                      .+++.++........ .+....   ..|++ +++|| |.+.+.+......+.+.++++++||+|+++++++|+++++.+.
+T Consensus       326 ~i~~~i~~~~~~~~~-~~~~~~---~~~~~-iviDEa~~~~~~~~~~~~~~~i~~i~~~gRk~g~~l~~~tQ~~~~l~~~  400 (500)
+T 4D2I_A          326 HYLRRILDSRKDFKR-SKNSGL---KFPII-AVIEEAHVFLSKNENTLTKYWASRIAREGRKFGVGLTIVSQRPKGLDEN  400 (500)
+T ss_dssp             HHHHHHHHHHHHHHH-HSSSSC---CSCEE-EEETTHHHHCCSSSCCHHHHHHHHHHHHGGGGTEEEEEEESCGGGSCHH
+T ss_pred             HHHHHHHHHHHHHHH-HhcCCC---CCCEE-EEEeChhHhcCCCCCchHHHHHHHHHHhHHhcCCEEEEEEcCcccCCHH
+Confidence            455555544322100 000113   46788 99999 9998753211234568999999999999999999999999999
+
+
+Q LOKIASV2_23150  873 IFSVFETIFGFRTSKYQNQKTLSNLL-HLDSQFVNTTHKKYRKVSYQHQFLSHLDWNHTIIFRPNYQHPFVFSFDYQE  949 (1271)
+Q Consensus       873 vfnyf~NiitFratD~RDia~L~n~M-NLqEl~G~GyYS~sRn~tYQi~YL~~l~~nEvIvKR~Di~QPFP~~id~~e  949 (1271)
+                      ++++|+++++++..++++++.+++.+ ++++              .+.+.+..+++|+|++.......|+.+++++.+
+T Consensus       401 il~~~~t~i~~~~~~~~d~~~i~~~~~~~~~--------------~~~~~l~~l~~ge~l~~~~~~~~p~~v~v~~~~  464 (500)
+T 4D2I_A          401 ILSQMTNKIILKIIEPTDKKYILESSDNLSE--------------DLAEQLSSLDVGEAIIIGKIVKLPAVVKIDMFE  464 (500)
+T ss_dssp             HHTTCCEEEECCCCCHHHHHHHHTTCSSCCH--------------HHHTTGGGCCTTEEEEESTTSSSCEEEEECCCS
+T ss_pred             HHHhccceeeceeCCHHHHHHHHHhccCCCH--------------HHHHhhhCCCCceEEEEecccCCCEEEEeeccc
+Confidence            99999999999987667888887776 5666              778889999999999987766678888887754
+
+
+No 4
+>1E9R_F CONJUGAL TRANSFER PROTEIN TRWB; COUPLING PROTEIN, BACTERIAL CONJUGATION, F1-ATPASE-LIKE; HET: SO4; 2.4A {ESCHERICHIA COLI} SCOP: c.37.1.11
+Probab=95.85  E-value=0.00052  Score=78.36  Aligned_cols=336  Identities=9%  Similarity=-0.022  Sum_probs=174.8  Template_Neff=10.500
+
+Q LOKIASV2_23150  587 GGLSHEELMFNILFAGDFYRMTHMAVIRTVTELIKHDYPVIIFDWEGTWKNLYPIIQNNQIPANKFQYLTVGDEIGLQSF  666 (1271)
+Q Consensus       587 ~GFt~eQlk~nLLi~ng~~~~re~~~mkiV~ELvk~~~PsiIFDf~G~WSkLi~~F~~t~~~~n~flyfklG~~f~i~pl  666 (1271)
+                      +.++......|++|+|+||||||++++.++.+++..|.+++++|++|++...+...+.      .++...-..+..+|||
+T Consensus        45 ~~l~~~~~~~h~~I~G~tGsGKT~~~~~li~~~~~~g~~~ii~D~kge~~~~~~~~~~------~~i~~~~~~~~~~np~  118 (437)
+T 1E9R_F           45 VPMPRDAEPRHLLVNGATGTGKSVLLRELAYTGLLRGDRMVIVDPNGDMLSKFGRDKD------IILNPYDQRTKGWSFF  118 (437)
+T ss_dssp             EECCTTTGGGCEEEEECTTSSHHHHHHHHHHHHHHTTCEEEEEEETTHHHHHHCCTTC------EEECTTBTTCCCCCGG
+T ss_pred             EECCCccCCCeEEEEcCCCCcHHHHHHHHHHHHhhcCCcEEEECCCchHHHHhCCCCC------EEECCcccCCCCCchH
+Confidence            4455555678999999999999999999999999899999999999998765543211      1222220235688998
+
+
+Q LOKIASV2_23150  667 QLSNPARGDAQIEYVTRIITILQNLF-RY-STHDLELFRSILLNE---DCGDLMHMKANFPKL--------LEDKG----  729 (1271)
+Q Consensus       667 ~~s~~~~d~~n~eYl~y~~D~~amaF-K~-d~rtie~fk~tI~~n---p~~D~~sl~l~l~~~--------~~~~~----  729 (1271)
+                      ........  .......+........ .. .......+..++...   ..+++.++...+...        +....    
+T Consensus       119 ~~~~~~~~--~~~l~~~l~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~l~~~l~~~~~~~l~~~l~~~~~~~~  196 (437)
+T 1E9R_F          119 NEIRNDYD--WQRYALSVVPRGKTDEAEEWASYGRLLLRETAKKLALIGTPSMRELFHWTTIATFDDLRGFLEGTLAESL  196 (437)
+T ss_dssp             GGCCSTTH--HHHHHHHHSCBCSSHHHHHHHHHHHHHHHHHHHHHHHTTCCCHHHHHCCCCCSCHHHHHHHHTTSTHHHH
+T ss_pred             HHhcChhh--HHHHHHHhCCCCCCCCchhHHHHHHHHHHHHHHHHHHcCCCCHHHHHHHHhcCCHHHHHHHhccChHHHH
+Confidence            75432111  0111111111100000 00 111112222222111   112222322222100        00000    
+
+
+Q LOKIASV2_23150  730 NKLSYYKTPVFALLSMLTQDIYLDIFGRDITQYCHPWEIFQ--STNVWIINLMPIRNTQLKALFIHLFLAQLLSFYNNSG  807 (1271)
+Q Consensus       730 ~~~s~~~~~l~sl~~~~~qd~~~~~~~~~~~~~i~~~~fi~--n~KTvIIDLs~l~d~~kK~ff~f~ilsKiIHyi~~s~  807 (1271)
+                      .........+...+...........+.... ..+++.++..  ++++++++++......... .+..++..++.......
+T Consensus       197 ~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~-~~~~~~~~~~~~~~~~v~i~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~  274 (437)
+T 1E9R_F          197 FAGSNEASKALTSARFVLSDKLPEHVTMPD-GDFSIRSWLEDPNGGNLFITWREDMGPALRP-LISAWVDVVCTSILSLP  274 (437)
+T ss_dssp             TCSSHHHHHHHHHHHHHHHHHSHHHHHSCC-CCCCHHHHHHCTTCCCEEEEECGGGHHHHHH-HHHHHHHHHHHHGGGSC
+T ss_pred             hCCCchhHHHHHHHHHHHHhhccHhhcCCC-CCccHHHHHhCCCCCcEEEecChhhHHHHHH-HHHHHHHHHHHHHhcCC
+Confidence            000000111111111111111111111111 1123333333  5778888887654332222 22333433333322110
+
+
+Q LOKIASV2_23150  808 IPDEILPQFTKKSPVISVIPHG-EFVFPKSSDHHKVDSIAEILIHLNEAQFPVIMETNQINRLDP--------EIFSVFE  878 (1271)
+Q Consensus       808 ~~de~~~k~i~~iP~Idv~f~~-~f~~d~~~~ygKi~kf~~~L~pL~~~gFG~I~sanQI~yLHP--------nvfnyf~  878 (1271)
+                           ...   ..+++ +++|| |.+...       +.+.++++++|++|+++++++|+++++.+        .++++|+
+T Consensus       275 -----~~~---~~~~~-iilDE~~~~~~~-------~~l~~~~~~~Rk~g~~~~~~~Q~~~~l~~~~g~~~~~~i~~n~~  338 (437)
+T 1E9R_F          275 -----EEP---KRRLW-LFIDELASLEKL-------ASLADALTKGRKAGLRVVAGLQSTSQLDDVYGVKEAQTLRASFR  338 (437)
+T ss_dssp             -----CCT---TCCEE-EEESCGGGSCBC-------SSHHHHHHHCTTTTEEEEEEESCHHHHHHHHCHHHHHHHHTTCC
+T ss_pred             -----CCC---CCcEE-EEEeChhhcchh-------hHHHHHHHHHHhcCeEEEEEeCCHHHHHHHHCHHHHHHHHHhCC
+Confidence                 013   46778 99999 998753       24788999999999999999999999986        4999999
+
+
+Q LOKIASV2_23150  879 TIFGFRT--SKYQNQKTLSNLLHLDSQFVN-------TTHKKYRKV------SYQHQFLSHLDWNHTIIFRPNYQHPFVF  943 (1271)
+Q Consensus       879 NiitFra--tD~RDia~L~n~MNLqEl~G~-------GyYS~sRn~------tYQi~YL~~l~~nEvIvKR~Di~QPFP~  943 (1271)
+                      ++++++.  .+.++++.+++.+|.......       +.++.++..      ....+.+.+|++|++++..++...+..+
+T Consensus       339 ~~i~~~~~~~~~~~~~~~~~~~G~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~L~~g~~~~~~~~~~p~~~~  418 (437)
+T 1E9R_F          339 SLVVLGGSRTDPKTNEDMSLSLGEHEVERDRYSKNTGKHHSTGRALERVRERVVMPAEIANLPDLTAYVGFAGNRPIAKV  418 (437)
+T ss_dssp             EEEEEECCTTCHHHHHHHHHHHCEEEEEEEC-------------CEEEEEEESSCHHHHHTCCTTEEEEECSSSCCEEEE
+T ss_pred             cEEEEecCCCCHHHHHHHHHHHCceEEEEEeeccCCCCCcCCcceeEEEEEEccCHHHHhcCCCCcEEEEecCCCCeeEe
+Confidence            9999986  455788888888863321000       011111111      1234568889999999887654445555
+
+
+Q LOKIASV2_23150  944 SFDYQ  948 (1271)
+Q Consensus       944 ~id~~  948 (1271)
+                      +++..
+T Consensus       419 ~~~~~  423 (437)
+T 1E9R_F          419 PLEIK  423 (437)
+T ss_dssp             ECCCC
+T ss_pred             ecccc
+Confidence            55443
+
+
+No 5
+>1E9S_F CONJUGAL TRANSFER PROTEIN TRWB; COUPLING PROTEIN, BACTERIAL CONJUGATION, F1-ATPASE-LIKE; 2.5A {ESCHERICHIA COLI} SCOP: c.37.1.11
+Probab=95.85  E-value=0.00052  Score=78.36  Aligned_cols=336  Identities=9%  Similarity=-0.022  Sum_probs=174.9  Template_Neff=10.500
+
+Q LOKIASV2_23150  587 GGLSHEELMFNILFAGDFYRMTHMAVIRTVTELIKHDYPVIIFDWEGTWKNLYPIIQNNQIPANKFQYLTVGDEIGLQSF  666 (1271)
+Q Consensus       587 ~GFt~eQlk~nLLi~ng~~~~re~~~mkiV~ELvk~~~PsiIFDf~G~WSkLi~~F~~t~~~~n~flyfklG~~f~i~pl  666 (1271)
+                      +.++......|++|+|+||||||++++.++.+++..|.+++++|++|++...+...+.      .++...-..+..+|||
+T Consensus        45 ~~l~~~~~~~h~~I~G~tGsGKT~~~~~li~~~~~~g~~~ii~D~kge~~~~~~~~~~------~~i~~~~~~~~~~np~  118 (437)
+T 1E9S_F           45 VPMPRDAEPRHLLVNGATGTGKSVLLRELAYTGLLRGDRMVIVDPNGDMLSKFGRDKD------IILNPYDQRTKGWSFF  118 (437)
+T ss_dssp             EECCTTTGGGCEEEECCTTSSHHHHHHHHHHHHHHTTCEEEEEEETTHHHHHHCCSSC------EEECTTCTTCCCCCGG
+T ss_pred             EECCCccCCCeEEEEcCCCCcHHHHHHHHHHHHhhcCCcEEEECCCchHHHHhCCCCC------EEECCcccCCCCCchH
+Confidence            4455555678999999999999999999999999899999999999998765543211      1222220235688998
+
+
+Q LOKIASV2_23150  667 QLSNPARGDAQIEYVTRIITILQNLF-RY-STHDLELFRSILLNE---DCGDLMHMKANFPKL--------LEDKG----  729 (1271)
+Q Consensus       667 ~~s~~~~d~~n~eYl~y~~D~~amaF-K~-d~rtie~fk~tI~~n---p~~D~~sl~l~l~~~--------~~~~~----  729 (1271)
+                      ........  .......+........ .. .......+..++...   ..+++.++...+...        +....    
+T Consensus       119 ~~~~~~~~--~~~l~~~l~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~l~~~l~~~~~~~l~~~l~~~~~~~~  196 (437)
+T 1E9S_F          119 NEIRNDYD--WQRYALSVVPRGKTDEAEEWASYGRLLLRETAKKLALIGTPSMRELFHWTTIATFDDLRGFLEGTLAESL  196 (437)
+T ss_dssp             GGCCSTTH--HHHHHHHHSCBCSSHHHHHHHHHHHHHHHHHHHHHHHTTCCCHHHHHCCCCCSCHHHHHHHTTTSTTTTT
+T ss_pred             HHhcChhh--HHHHHHHhCCCCCCCCchhHHHHHHHHHHHHHHHHHHcCCCCHHHHHHHHhcCCHHHHHHHhccChHHHH
+Confidence            75432111  0111111111100000 00 111112222222111   112222322222100        00000    
+
+
+Q LOKIASV2_23150  730 NKLSYYKTPVFALLSMLTQDIYLDIFGRDITQYCHPWEIFQ--STNVWIINLMPIRNTQLKALFIHLFLAQLLSFYNNSG  807 (1271)
+Q Consensus       730 ~~~s~~~~~l~sl~~~~~qd~~~~~~~~~~~~~i~~~~fi~--n~KTvIIDLs~l~d~~kK~ff~f~ilsKiIHyi~~s~  807 (1271)
+                      .........+...+...........+.... ..+++.++..  ++++++++++......... .+..++..++.......
+T Consensus       197 ~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~-~~~~~~~~~~~~~~~~v~i~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~  274 (437)
+T 1E9S_F          197 FAGSNEASKALTSARFVLSDKLPEHVTMPD-GDFSIRSWLEDPNGGNLFITWREDMGPALRP-LISAWVDVVCTSILSLP  274 (437)
+T ss_dssp             TSSSHHHHHHHHHHHHHHHHHSHHHHHSCC-CCCCHHHHHHCTTCCCEEEEECGGGHHHHHH-HHHHHHHHHHHHGGGSC
+T ss_pred             hCCCchhHHHHHHHHHHHHhhccHhhcCCC-CCccHHHHHhCCCCCcEEEecChhhHHHHHH-HHHHHHHHHHHHHhcCC
+Confidence            000000111111111111111111111111 1123333333  5778888887654332222 22333433333322110
+
+
+Q LOKIASV2_23150  808 IPDEILPQFTKKSPVISVIPHG-EFVFPKSSDHHKVDSIAEILIHLNEAQFPVIMETNQINRLDP--------EIFSVFE  878 (1271)
+Q Consensus       808 ~~de~~~k~i~~iP~Idv~f~~-~f~~d~~~~ygKi~kf~~~L~pL~~~gFG~I~sanQI~yLHP--------nvfnyf~  878 (1271)
+                           ...   ..+++ +++|| |.+...       +.+.++++++|++|+++++++|+++++.+        .++++|+
+T Consensus       275 -----~~~---~~~~~-iilDE~~~~~~~-------~~l~~~~~~~Rk~g~~~~~~~Q~~~~l~~~~g~~~~~~i~~n~~  338 (437)
+T 1E9S_F          275 -----EEP---KRRLW-LFIDELASLEKL-------ASLADALTKGRKAGLRVVAGLQSTSQLDDVYGVKEAQTLRASFR  338 (437)
+T ss_dssp             -----CCT---TCCEE-EEEEEGGGSCBC-------SSHHHHHHHCTTTTEEEEEEECCHHHHHHHHCHHHHHHHHTTCC
+T ss_pred             -----CCC---CCcEE-EEEeChhhcchh-------hHHHHHHHHHHhcCeEEEEEeCCHHHHHHHHCHHHHHHHHHhCC
+Confidence                 013   46778 99999 998753       24788999999999999999999999986        4999999
+
+
+Q LOKIASV2_23150  879 TIFGFRT--SKYQNQKTLSNLLHLDSQFVN-------TTHKKYRKV------SYQHQFLSHLDWNHTIIFRPNYQHPFVF  943 (1271)
+Q Consensus       879 NiitFra--tD~RDia~L~n~MNLqEl~G~-------GyYS~sRn~------tYQi~YL~~l~~nEvIvKR~Di~QPFP~  943 (1271)
+                      ++++++.  .+.++++.+++.+|.......       +.++.++..      ....+.+.+|++|++++..++...+..+
+T Consensus       339 ~~i~~~~~~~~~~~~~~~~~~~G~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~L~~g~~~~~~~~~~p~~~~  418 (437)
+T 1E9S_F          339 SLVVLGGSRTDPKTNEDMSLSLGEHEVERDRYSKNTGKHHSTGRALERVRERVVMPAEIANLPDLTAYVGFAGNRPIAKV  418 (437)
+T ss_dssp             EEEECCCCTTCHHHHHHHHHHHCEEEEEEEECBCC--------CEEEEEEEESSCHHHHHTCCTTEEEEECSSSCCEEEE
+T ss_pred             cEEEEecCCCCHHHHHHHHHHHCceEEEEEeeccCCCCCcCCcceeEEEEEEccCHHHHhcCCCCcEEEEecCCCCeeEe
+Confidence            9999986  455788888888863321000       011111111      1234568889999999887654445555
+
+
+Q LOKIASV2_23150  944 SFDYQ  948 (1271)
+Q Consensus       944 ~id~~  948 (1271)
+                      +++..
+T Consensus       419 ~~~~~  423 (437)
+T 1E9S_F          419 PLEIK  423 (437)
+T ss_dssp             ECCCC
+T ss_pred             ecccc
+Confidence            55443
+
+
+No 6
+>1GKI_A CONJUGAL TRANSFER PROTEIN TRWB; COUPLING PROTEIN, BACTERIAL CONJUGATION, F1-ATPASE-LIKE; HET: ADP, EPE; 3.0A {ESCHERICHIA COLI} SCOP: c.37.1.11
+Probab=95.85  E-value=0.00052  Score=78.36  Aligned_cols=336  Identities=9%  Similarity=-0.022  Sum_probs=174.8  Template_Neff=10.500
+
+Q LOKIASV2_23150  587 GGLSHEELMFNILFAGDFYRMTHMAVIRTVTELIKHDYPVIIFDWEGTWKNLYPIIQNNQIPANKFQYLTVGDEIGLQSF  666 (1271)
+Q Consensus       587 ~GFt~eQlk~nLLi~ng~~~~re~~~mkiV~ELvk~~~PsiIFDf~G~WSkLi~~F~~t~~~~n~flyfklG~~f~i~pl  666 (1271)
+                      +.++......|++|+|+||||||++++.++.+++..|.+++++|++|++...+...+.      .++...-..+..+|||
+T Consensus        45 ~~l~~~~~~~h~~I~G~tGsGKT~~~~~li~~~~~~g~~~ii~D~kge~~~~~~~~~~------~~i~~~~~~~~~~np~  118 (437)
+T 1GKI_A           45 VPMPRDAEPRHLLVNGATGTGKSVLLRELAYTGLLRGDRMVIVDPNGDMLSKFGRDKD------IILNPYDQRTKGWSFF  118 (437)
+T ss_dssp             EECCGGGGGGCEEEECCTTSSHHHHHHHHHHHHHHTTCEEEEEEETTHHHHHHCCSSC------EEECTTBTTCCCCCGG
+T ss_pred             EECCCccCCCeEEEEcCCCCcHHHHHHHHHHHHhhcCCcEEEECCCchHHHHhCCCCC------EEECCcccCCCCCchH
+Confidence            4455555678999999999999999999999999899999999999998765543211      1222220235688998
+
+
+Q LOKIASV2_23150  667 QLSNPARGDAQIEYVTRIITILQNLF-RY-STHDLELFRSILLNE---DCGDLMHMKANFPKL--------LEDKG----  729 (1271)
+Q Consensus       667 ~~s~~~~d~~n~eYl~y~~D~~amaF-K~-d~rtie~fk~tI~~n---p~~D~~sl~l~l~~~--------~~~~~----  729 (1271)
+                      ........  .......+........ .. .......+..++...   ..+++.++...+...        +....    
+T Consensus       119 ~~~~~~~~--~~~l~~~l~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~l~~~l~~~~~~~l~~~l~~~~~~~~  196 (437)
+T 1GKI_A          119 NEIRNDYD--WQRYALSVVPRGKTDEAEEWASYGRLLLRETAKKLALIGTPSMRELFHWTTIATFDDLRGFLEGTLAESL  196 (437)
+T ss_dssp             GGCCSTTH--HHHHHHHHSCBCSSHHHHHHHHHHHHHHHHHHHHHHHTTCCCHHHHHHHHHTSCHHHHHHHHTTSTHHHH
+T ss_pred             HHhcChhh--HHHHHHHhCCCCCCCCchhHHHHHHHHHHHHHHHHHHcCCCCHHHHHHHHhcCCHHHHHHHhccChHHHH
+Confidence            75432111  0111111111100000 00 111112222222111   112222322222100        00000    
+
+
+Q LOKIASV2_23150  730 NKLSYYKTPVFALLSMLTQDIYLDIFGRDITQYCHPWEIFQ--STNVWIINLMPIRNTQLKALFIHLFLAQLLSFYNNSG  807 (1271)
+Q Consensus       730 ~~~s~~~~~l~sl~~~~~qd~~~~~~~~~~~~~i~~~~fi~--n~KTvIIDLs~l~d~~kK~ff~f~ilsKiIHyi~~s~  807 (1271)
+                      .........+...+...........+.... ..+++.++..  ++++++++++......... .+..++..++.......
+T Consensus       197 ~~~~~~~~~~~~~~~~~l~~~~~~~~~~~~-~~~~~~~~~~~~~~~~v~i~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~  274 (437)
+T 1GKI_A          197 FAGSNEASKALTSARFVLSDKLPEHVTMPD-GDFSIRSWLEDPNGGNLFITWREDMGPALRP-LISAWVDVVCTSILSLP  274 (437)
+T ss_dssp             TCSSHHHHHHHHHHHHHHHHHTHHHHTSCC-CCCCHHHHHHCTTCCCEEEEECGGGHHHHHH-HHHHHHHHHHHHGGGSC
+T ss_pred             hCCCchhHHHHHHHHHHHHhhccHhhcCCC-CCccHHHHHhCCCCCcEEEecChhhHHHHHH-HHHHHHHHHHHHHhcCC
+Confidence            000000111111111111111111111111 1123333333  5778888887654332222 22333433333322110
+
+
+Q LOKIASV2_23150  808 IPDEILPQFTKKSPVISVIPHG-EFVFPKSSDHHKVDSIAEILIHLNEAQFPVIMETNQINRLDP--------EIFSVFE  878 (1271)
+Q Consensus       808 ~~de~~~k~i~~iP~Idv~f~~-~f~~d~~~~ygKi~kf~~~L~pL~~~gFG~I~sanQI~yLHP--------nvfnyf~  878 (1271)
+                           ...   ..+++ +++|| |.+...       +.+.++++++|++|+++++++|+++++.+        .++++|+
+T Consensus       275 -----~~~---~~~~~-iilDE~~~~~~~-------~~l~~~~~~~Rk~g~~~~~~~Q~~~~l~~~~g~~~~~~i~~n~~  338 (437)
+T 1GKI_A          275 -----EEP---KRRLW-LFIDELASLEKL-------ASLADALTKGRKAGLRVVAGLQSTSQLDDVYGVKEAQTLRASFR  338 (437)
+T ss_dssp             -----CCT---TCCEE-EEESCGGGSCBC-------SSHHHHHHHCTTTTEEEEEEESCHHHHHHHHCHHHHHHHHHTCC
+T ss_pred             -----CCC---CCcEE-EEEeChhhcchh-------hHHHHHHHHHHhcCeEEEEEeCCHHHHHHHHCHHHHHHHHHhCC
+Confidence                 013   46778 99999 998753       24788999999999999999999999986        4999999
+
+
+Q LOKIASV2_23150  879 TIFGFRT--SKYQNQKTLSNLLHLDSQFVN-------TTHKKYRKV------SYQHQFLSHLDWNHTIIFRPNYQHPFVF  943 (1271)
+Q Consensus       879 NiitFra--tD~RDia~L~n~MNLqEl~G~-------GyYS~sRn~------tYQi~YL~~l~~nEvIvKR~Di~QPFP~  943 (1271)
+                      ++++++.  .+.++++.+++.+|.......       +.++.++..      ....+.+.+|++|++++..++...+..+
+T Consensus       339 ~~i~~~~~~~~~~~~~~~~~~~G~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~L~~g~~~~~~~~~~p~~~~  418 (437)
+T 1GKI_A          339 SLVVLGGSRTDPKTNEDMSLSLGEHEVERDRYSKNTGKHHSTGRALERVRERVVMPAEIANLPDLTAYVGFAGNRPIAKV  418 (437)
+T ss_dssp             EEEECCCCTTCHHHHHHHHHHHCEEEEEEC--------------CCEEEEEESSCHHHHHTCCTTEEEEECSSSCCEEEE
+T ss_pred             cEEEEecCCCCHHHHHHHHHHHCceEEEEEeeccCCCCCcCCcceeEEEEEEccCHHHHhcCCCCcEEEEecCCCCeeEe
+Confidence            9999986  455788888888863321000       011111111      1234568889999999887654445555
+
+
+Q LOKIASV2_23150  944 SFDYQ  948 (1271)
+Q Consensus       944 ~id~~  948 (1271)
+                      +++..
+T Consensus       419 ~~~~~  423 (437)
+T 1GKI_A          419 PLEIK  423 (437)
+T ss_dssp             ECCCC
+T ss_pred             ecccc
+Confidence            55443
+
+
+No 7
+>4KFR_A Genome packaging NTPase B204 (E.C.3.-.-.-); FtsK-HerA superfamily, P-loop ATPase, genome; HET: SO4; 1.956A {Sulfolobus turreted icosahedral virus 2}
+Probab=38.23  E-value=27  Score=36.20  Aligned_cols=107  Identities=18%  Similarity=0.231  Sum_probs=80.8  Template_Neff=11.400
+
+Q LOKIASV2_23150  820 SPVISVIPHG-EFVFPKSSDHHKVDSIAEILIHLNEAQFPVIMETNQINRLDPEIFSVFETIFGFRTSKYQNQKTLSNLL  898 (1271)
+Q Consensus       820 iP~Idv~f~~-~f~~d~~~~ygKi~kf~~~L~pL~~~gFG~I~sanQI~yLHPnvfnyf~NiitFratD~RDia~L~n~M  898 (1271)
+                      .+.+ +++|| +.+.+..  ......+.++++.+|++|+.+++++|++..+.+.+.+++...+.++..+.++++.+.+.+
+T Consensus        96 ~~~~-lviDe~~~~~~~~--~~~~~~l~~ll~~~~~~~~~ii~~s~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  172 (212)
+T 4KFR_A           96 GTTV-LIIDEAYYHFKYK--QKVTPAIDEALHANRHAGLGLILSTQRVYDLMPIVYKQADLIIMFYTREPNELRWISKYI  172 (212)
+T ss_dssp             SSEE-EEESCGGGTSBTT--CCCCHHHHHHHHSHHHHTEEEEEEESSGGGBCHHHHHHCSEEEECCCCCHHHHHHHHHHT
+T ss_pred             CCEE-EEEeChHHhhccc--ccchHHHHHHHHHHHHcCCEEEEEecCHHHcCHHHHhhCcEEEEeeCCCHHHHHHHHHHC
+Confidence            3456 88999 7776532  123456888889999999999999999999988899999999999977756777777766
+
+
+Q LOKIASV2_23150  899 HLDSQFVNTTHKKYRKVSYQHQFLSHLDWNHTIIFRPNYQHPFVFSF  945 (1271)
+Q Consensus       899 NLqEl~G~GyYS~sRn~tYQi~YL~~l~~nEvIvKR~Di~QPFP~~i  945 (1271)
+                      +.+.                .+.+..+++|++++.......+.+...
+T Consensus       173 ~~~~----------------~~~~~~~~~~~~~~~~~~~~~~~~~~~  203 (212)
+T 4KFR_A          173 SAEA----------------AEKVKTLKQYHFLIYDVNSQTIKIHKP  203 (212)
+T ss_dssp             CHHH----------------HHHHTTCCTTCEEEEETTTTEEEEECC
+T ss_pred             CHHH----------------HHHHHcCCCCeEEEEeCCCCceEEecc
+Confidence            5433                345777899999998765554444433
+
+
+No 8
+>4KFU_A Genome packaging NTPase B204 (E.C.3.-.-.-); FtsK-HerA superfamily, P-loop ATPase, genome; HET: FLC, ACP; 1.892A {Sulfolobus turreted icosahedral virus 2}
+Probab=38.23  E-value=27  Score=36.20  Aligned_cols=107  Identities=18%  Similarity=0.231  Sum_probs=80.8  Template_Neff=11.400
+
+Q LOKIASV2_23150  820 SPVISVIPHG-EFVFPKSSDHHKVDSIAEILIHLNEAQFPVIMETNQINRLDPEIFSVFETIFGFRTSKYQNQKTLSNLL  898 (1271)
+Q Consensus       820 iP~Idv~f~~-~f~~d~~~~ygKi~kf~~~L~pL~~~gFG~I~sanQI~yLHPnvfnyf~NiitFratD~RDia~L~n~M  898 (1271)
+                      .+.+ +++|| +.+.+..  ......+.++++.+|++|+.+++++|++..+.+.+.+++...+.++..+.++++.+.+.+
+T Consensus        96 ~~~~-lviDe~~~~~~~~--~~~~~~l~~ll~~~~~~~~~ii~~s~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  172 (212)
+T 4KFU_A           96 GTTV-LIIDEAYYHFKYK--QKVTPAIDEALHANRHAGLGLILSTQRVYDLMPIVYKQADLIIMFYTREPNELRWISKYI  172 (212)
+T ss_dssp             SSEE-EEETTGGGTSBTT--CCCCHHHHHHHHSTTTTTEEEEEEESSGGGBCHHHHHHCSEEEECCCCCHHHHHHHHHHT
+T ss_pred             CCEE-EEEeChHHhhccc--ccchHHHHHHHHHHHHcCCEEEEEecCHHHcCHHHHhhCcEEEEeeCCCHHHHHHHHHHC
+Confidence            3456 88999 7776532  123456888889999999999999999999988899999999999977756777777766
+
+
+Q LOKIASV2_23150  899 HLDSQFVNTTHKKYRKVSYQHQFLSHLDWNHTIIFRPNYQHPFVFSF  945 (1271)
+Q Consensus       899 NLqEl~G~GyYS~sRn~tYQi~YL~~l~~nEvIvKR~Di~QPFP~~i  945 (1271)
+                      +.+.                .+.+..+++|++++.......+.+...
+T Consensus       173 ~~~~----------------~~~~~~~~~~~~~~~~~~~~~~~~~~~  203 (212)
+T 4KFU_A          173 SAEA----------------AEKVKTLKQYHFLIYDVNSQTIKIHKP  203 (212)
+T ss_dssp             CHHH----------------HHHGGGCCTTCEEEEETTTTEEEEECC
+T ss_pred             CHHH----------------HHHHHcCCCCeEEEEeCCCCceEEecc
+Confidence            5433                345777899999998765554444433
+
+
+No 9
+>3BS4_A Uncharacterized protein PH0321, Unknown peptide; STRUCTURAL GENOMICS, UNKNOWN FUNCTION, PSI-2; 1.6A {Pyrococcus horikoshii}
+Probab=20.53  E-value=88  Score=35.12  Aligned_cols=44  Identities=16%  Similarity=0.058  Sum_probs=37.6  Template_Neff=10.000
+
+Q LOKIASV2_23150  595 MFNILFA-GDFYRMTHMAVIRTVTELIKHDYPVIIFDWEGTWKNL  638 (1271)
+Q Consensus       595 k~nLLi~-ng~~~~re~~~mkiV~ELvk~~~PsiIFDf~G~WSkL  638 (1271)
+                      ...++|. |++|+|||.++..++...+..|.++++++.......+
+T Consensus        20 g~~vli~~g~~gsgk~~l~~~~~~~~l~~~~~vl~is~~~~~~~~   64 (260)
+T 3BS4_A           20 HSLILIHEEDASSRGKDILFYILSRKLKSDNLVGMFSISYPLQLI   64 (260)
+T ss_dssp             TCEEEEEECSGGGCHHHHHHHHHHHHHHTTCEEEEEECSSCHHHH
+T ss_pred             CcEEEEEECCCCCCHHHHHHHHHHHHHhcCCeEEEEeCCCCHHHH
+Confidence            3578999 9999999999999999888889999999987754443
+
+
+No 10
+>5IJN_S NUCLEAR PORE COMPLEX PROTEIN NUP155; Nuclear pore complex, Nucleocytoplasmic transport; 21.4A {Homo sapiens}
+Probab=19.11  E-value=99  Score=41.41  Aligned_cols=16  Identities=19%  Similarity=-0.010  Sum_probs=8.1  Template_Neff=5.300
+
+Q LOKIASV2_23150 1044 IQKRYKKIKEILVQFI 1059 (1271)
+Q Consensus      1044 ~kk~~K~Ird~~~~ll 1059 (1271)
+                      +...++++|++..+.+
+T Consensus       304 d~~aI~~LK~ev~qdL  319 (599)
+T 5IJN_S          304 NTLNIDKLKIETAQEL  319 (599)
+T ss_dssp             HHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHH
+Confidence            4455555555544443
+
+
