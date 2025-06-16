@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#PBS -l select=1:host=k100:ncpus=8:ngpus=1:mem=300gb
+#PBS -l walltime=24:00:00
+#PBS -q mwacgpu
+#PBS -M k.rowell@unsw.edu.au 
+#PBS -m ae
+#PBS -j oe
+
+module load cuda/12.5.0
+source /home/z3374843/.bashrc 
+
+cd $PBS_O_WORKDIR
+
+
+mmseqs gpuserver /mnt/af2/mmseqs-GPU/colabfold_envdb_202108_db --max-seqs 10000 --db-load-mode 0 --prefilter-mode 1 &
+PID1=!$
+mmseqs gpuserver /mnt/af2/mmseqs-GPU/uniref30_2302_db --max-seqs 10000 --db-load-mode 0 --prefilter-mode 1 &
+PID2=!$
+
+colabfold_search --mmseqs /srv/scratch/sbf/gitrepo/MMseqs2/build/bin/mmseqs --gpu 1 --gpu-server 1 /srv/scratch/z3374843/Loki-ASV2_in_silico/sequence_files/loki-ASV2_dfast_all_protein_ORFs.fasta  /mnt/af2/mmseqs-GPU/ loki_proteome_msas_GPU_w_server
+
