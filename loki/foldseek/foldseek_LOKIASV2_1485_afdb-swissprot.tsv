@@ -1,0 +1,992 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0A9J6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0A9J6-F1-model_v4 Ribokinase	0.372	311	193	1	311	1	309	3.393E-37	1407
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0A9J7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0A9J7-F1-model_v4 Ribokinase	0.372	311	193	1	311	1	309	1.555E-36	1382
+LOKIASV2_1485_ESMFold_ribokinase	AF-P44331-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P44331-F1-model_v4 Ribokinase	0.385	306	186	4	309	2	305	9.181E-37	1375
+LOKIASV2_1485_ESMFold_ribokinase	AF-P83534-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P83534-F1-model_v4 Bifunctional ribokinase/ribose-5-phosphate isomerase A	0.318	306	208	5	310	2	307	5.639E-36	1331
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0A0H2WZY4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0A0H2WZY4-F1-model_v4 Ribokinase	0.345	302	197	4	305	2	303	3.969E-36	1328
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8R1Q9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8R1Q9-F1-model_v4 Ribokinase	0.276	305	218	1	302	13	317	9.751E-34	1232
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9H477-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9H477-F1-model_v4 Ribokinase	0.283	305	216	1	302	12	316	1.652E-33	1224
+LOKIASV2_1485_ESMFold_ribokinase	AF-O60116-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O60116-F1-model_v4 Ribokinase	0.319	317	210	5	313	2	318	4.738E-33	1212
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9K6K1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9K6K1-F1-model_v4 Ribokinase	0.316	310	200	3	312	2	294	3.749E-33	1210
+LOKIASV2_1485_ESMFold_ribokinase	AF-P36945-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P36945-F1-model_v4 Ribokinase	0.346	303	190	5	307	2	292	1.187E-31	1154
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1A6H3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1A6H3-F1-model_v4 Ribokinase	0.296	312	216	2	309	66	377	9.954E-32	1152
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CF42-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CF42-F1-model_v4 Ribokinase	0.345	309	194	5	313	2	298	9.387E-32	1134
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q54UQ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q54UQ4-F1-model_v4 Ribokinase	0.316	314	203	6	303	4	317	8.854E-32	1133
+LOKIASV2_1485_ESMFold_ribokinase	AF-E9AD19-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-E9AD19-F1-model_v4 Ribokinase	0.275	308	215	2	299	13	320	2.971E-30	1093
+LOKIASV2_1485_ESMFold_ribokinase	AF-P32143-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P32143-F1-model_v4 Sulfofructose kinase	0.245	307	223	5	311	2	298	7.740E-28	985
+LOKIASV2_1485_ESMFold_ribokinase	AF-P25332-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P25332-F1-model_v4 Ribokinase	0.271	329	217	7	305	3	331	5.137E-28	962
+LOKIASV2_1485_ESMFold_ribokinase	AF-O82616-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O82616-F1-model_v4 Probable fructokinase-5	0.213	322	243	1	310	1	322	1.563E-27	935
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LNE4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LNE4-F1-model_v4 Probable fructokinase-3	0.222	322	240	1	310	5	326	1.626E-26	895
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LNE3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LNE3-F1-model_v4 Probable fructokinase-2	0.222	321	240	2	310	7	327	1.446E-26	894
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q42896-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q42896-F1-model_v4 Fructokinase-2	0.223	320	239	2	309	7	326	3.096E-26	883
+LOKIASV2_1485_ESMFold_ribokinase	AF-P33020-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P33020-F1-model_v4 Uncharacterized sugar kinase YeiI	0.203	307	243	1	307	54	359	1.505E-25	882
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9M1B9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9M1B9-F1-model_v4 Probable fructokinase-4	0.217	325	241	1	309	1	325	2.920E-26	872
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7XJ81-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7XJ81-F1-model_v4 Fructokinase-2	0.223	320	239	2	309	7	326	7.452E-26	871
+LOKIASV2_1485_ESMFold_ribokinase	AF-P30235-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P30235-F1-model_v4 Pseudouridine kinase	0.176	309	253	1	309	1	308	5.785E-25	868
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57849-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57849-F1-model_v4 Nucleoside kinase	0.240	310	227	1	310	1	300	5.560E-26	866
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0JGZ6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0JGZ6-F1-model_v4 Fructokinase-1	0.219	320	240	2	309	3	322	4.399E-26	865
+LOKIASV2_1485_ESMFold_ribokinase	AF-A2WXV8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A2WXV8-F1-model_v4 Fructokinase-1	0.219	320	240	2	309	3	322	5.244E-26	858
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6XZ79-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6XZ79-F1-model_v4 Fructokinase-1	0.214	322	242	1	309	1	322	4.946E-26	850
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9C524-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9C524-F1-model_v4 Probable fructokinase-6, chloroplastic	0.194	323	249	1	310	60	382	2.138E-25	850
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6XZ78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6XZ78-F1-model_v4 Fructokinase-2	0.206	323	245	2	311	13	335	1.190E-25	845
+LOKIASV2_1485_ESMFold_ribokinase	AF-O27587-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O27587-F1-model_v4 Nucleoside kinase	0.207	310	239	1	310	1	303	3.840E-25	842
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9SID0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9SID0-F1-model_v4 Probable fructokinase-1	0.220	324	240	1	309	1	324	2.702E-25	839
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0J8G4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0J8G4-F1-model_v4 Fructokinase-2	0.206	318	242	5	310	17	334	2.702E-25	838
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6M229-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6M229-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.235	319	235	2	309	9	327	1.902E-25	835
+LOKIASV2_1485_ESMFold_ribokinase	AF-A2YQL4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A2YQL4-F1-model_v4 Fructokinase-2	0.206	318	242	5	310	17	334	4.071E-25	833
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5JDG9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5JDG9-F1-model_v4 ADP-dependent ribose-1-phosphate kinase	0.233	307	217	4	310	2	285	1.102E-24	824
+LOKIASV2_1485_ESMFold_ribokinase	AF-P77493-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P77493-F1-model_v4 Uncharacterized sugar kinase YdjH	0.228	314	239	3	312	2	315	1.313E-24	814
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9KAG8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9KAG8-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.201	318	246	1	309	7	324	1.565E-24	806
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LK43-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LK43-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.204	319	245	2	310	9	327	2.811E-24	802
+LOKIASV2_1485_ESMFold_ribokinase	AF-O24767-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O24767-F1-model_v4 Guanosine-inosine kinase	0.168	302	250	5	306	2	302	1.146E-23	799
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9FLH8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9FLH8-F1-model_v4 Probable fructokinase-7	0.198	321	245	6	312	23	343	6.766E-24	799
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5WKY9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5WKY9-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.209	319	245	2	312	8	326	2.358E-24	796
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XP78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XP78-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.224	316	237	3	309	11	326	2.811E-24	783
+LOKIASV2_1485_ESMFold_ribokinase	AF-P42414-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P42414-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.187	313	247	7	311	13	325	3.767E-24	781
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Y9Y2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Y9Y2-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.215	317	242	3	311	9	325	2.981E-24	781
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q704D0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q704D0-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.211	310	241	3	309	15	324	1.866E-24	778
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q65D02-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q65D02-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.192	315	247	5	311	11	325	6.381E-24	777
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q92EQ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q92EQ5-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.215	317	242	3	311	9	325	3.995E-24	777
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4IPB3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4IPB3-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.213	321	242	5	312	12	332	3.160E-24	774
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5YBJ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5YBJ5-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.200	317	246	1	309	1	317	1.727E-23	773
+LOKIASV2_1485_ESMFold_ribokinase	AF-P37829-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P37829-F1-model_v4 Fructokinase	0.222	312	240	2	311	8	319	5.049E-24	772
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TUZ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TUZ4-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.224	316	237	3	309	11	326	6.381E-24	772
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2V4J8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2V4J8-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.231	317	235	3	309	11	327	1.146E-23	771
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1KZA1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1KZA1-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.217	313	238	7	311	13	325	5.353E-24	770
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CT14-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CT14-F1-model_v4 Bifunctional protein HldE	0.209	312	243	5	312	2	313	2.811E-24	769
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q17WK1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q17WK1-F1-model_v4 Bifunctional protein HldE	0.211	309	240	5	309	2	310	3.995E-24	768
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q07RN1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q07RN1-F1-model_v4 Bifunctional protein HldE	0.206	310	240	5	307	14	323	9.614E-24	768
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q63B75-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q63B75-F1-model_v4 5-dehydro-2-deoxygluconokinase 1	0.196	318	246	2	308	9	326	1.831E-23	766
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZKZ0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZKZ0-F1-model_v4 Bifunctional protein HldE	0.209	312	243	5	312	2	313	5.676E-24	765
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q97U29-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q97U29-F1-model_v4 2-dehydro-3-deoxygluconokinase/2-dehydro-3-deoxygalactonokinase	0.239	312	234	5	312	2	313	6.381E-24	763
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8DCT6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8DCT6-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.211	313	240	7	311	13	325	9.068E-24	762
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5KYR3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5KYR3-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.211	316	241	5	310	12	327	1.366E-23	762
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2TJ78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2TJ78-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.231	317	235	3	309	11	327	2.758E-23	760
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q723S9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q723S9-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.217	313	238	7	311	13	325	1.366E-23	758
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6HIK4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6HIK4-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.198	318	245	2	308	9	326	2.454E-23	758
+LOKIASV2_1485_ESMFold_ribokinase	AF-O34768-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O34768-F1-model_v4 Uncharacterized sugar kinase YdjE	0.223	316	234	3	304	2	317	1.831E-23	757
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8GLU7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8GLU7-F1-model_v4 Bifunctional protein HldE	0.195	311	249	3	313	9	318	1.215E-23	757
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0REB4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0REB4-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.192	315	245	5	308	12	326	1.831E-23	756
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1EVJ1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1EVJ1-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.192	315	245	5	308	12	326	3.920E-23	755
+LOKIASV2_1485_ESMFold_ribokinase	AF-P50845-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P50845-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.194	309	243	7	309	5	313	4.672E-23	754
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z7L8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z7L8-F1-model_v4 Bifunctional protein HldE	0.206	312	244	5	312	2	313	1.146E-23	754
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1AV12-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1AV12-F1-model_v4 Bifunctional protein HldE	0.190	316	251	3	313	14	329	4.156E-23	753
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3MZC0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3MZC0-F1-model_v4 Bifunctional protein HldE	0.195	311	249	3	313	9	318	1.628E-23	752
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8EVR4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8EVR4-F1-model_v4 Bifunctional protein HldE	0.193	311	248	2	309	3	313	7.607E-24	751
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZAH9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZAH9-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.189	312	246	7	310	13	324	4.954E-23	750
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3STQ8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3STQ8-F1-model_v4 Bifunctional protein HldE	0.205	310	240	5	307	14	323	3.920E-23	748
+LOKIASV2_1485_ESMFold_ribokinase	AF-P06999-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P06999-F1-model_v4 ATP-dependent 6-phosphofructokinase isozyme 2	0.208	306	241	4	309	2	306	1.449E-23	747
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q81QB7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q81QB7-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.196	318	246	2	308	9	326	7.464E-23	745
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4V1F7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4V1F7-F1-model_v4 5-dehydro-2-deoxygluconokinase 2	0.195	320	247	1	308	7	326	1.125E-22	743
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZE26-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZE26-F1-model_v4 Bifunctional protein HldE	0.179	311	254	1	310	1	311	6.639E-23	740
+LOKIASV2_1485_ESMFold_ribokinase	AF-D9TT10-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-D9TT10-F1-model_v4 ATP-dependent 6-phosphofructokinase	0.217	311	241	3	313	14	322	1.727E-23	739
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3LHY4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3LHY4-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.194	317	246	3	308	10	326	5.905E-23	739
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6N2R5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6N2R5-F1-model_v4 Bifunctional protein HldE	0.200	310	242	5	307	14	323	4.156E-23	739
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5G6F4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5G6F4-F1-model_v4 Bifunctional protein HldE	0.176	314	254	5	313	16	329	3.288E-23	739
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q13AN7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q13AN7-F1-model_v4 Bifunctional protein HldE	0.212	323	241	1	307	1	323	5.569E-23	738
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2USX2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2USX2-F1-model_v4 Bifunctional protein HldE	0.209	312	243	5	312	2	313	3.101E-23	737
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4AAB0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4AAB0-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.196	319	248	1	309	1	319	1.125E-22	736
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3PAZ0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3PAZ0-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.195	318	246	2	308	9	326	1.598E-22	735
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID2-F1-model_v4 Putative ATP-dependent 6-phosphofructokinase isozyme 2	0.188	306	247	3	308	10	314	1.061E-22	735
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q898F0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q898F0-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.189	316	247	5	309	12	327	9.434E-23	734
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6JM82-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6JM82-F1-model_v4 Bifunctional protein HldE	0.211	309	240	5	309	2	310	4.406E-23	733
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q96XN9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q96XN9-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.220	310	239	5	312	2	311	7.914E-23	730
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9CES5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9CES5-F1-model_v4 Tagatose kinase	0.215	310	239	4	309	13	322	2.602E-23	726
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q31WY3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q31WY3-F1-model_v4 Bifunctional protein HldE	0.180	309	252	5	313	11	318	1.000E-22	726
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q74BF6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q74BF6-F1-model_v4 Bifunctional protein HldE	0.184	314	251	5	313	16	329	1.192E-22	726
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q39X60-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q39X60-F1-model_v4 Bifunctional protein HldE	0.188	312	248	3	309	14	325	1.507E-22	723
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q601P9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q601P9-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.196	319	248	1	309	1	319	2.553E-22	722
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q30T22-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q30T22-F1-model_v4 Bifunctional protein HldE	0.202	312	246	2	310	6	317	1.340E-22	721
+LOKIASV2_1485_ESMFold_ribokinase	AF-B3QJ47-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B3QJ47-F1-model_v4 Bifunctional protein HldE	0.202	310	241	5	307	14	323	7.914E-23	721
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5EN78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5EN78-F1-model_v4 Bifunctional protein HldE	0.197	310	243	5	307	14	323	1.598E-22	721
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5UEH8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5UEH8-F1-model_v4 Bifunctional protein HldE	0.204	313	247	1	313	7	317	8.391E-23	720
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2IZP7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2IZP7-F1-model_v4 Bifunctional protein HldE	0.209	310	239	5	307	14	323	3.043E-22	718
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q89HR3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q89HR3-F1-model_v4 Bifunctional protein HldE	0.200	310	242	5	307	18	327	3.043E-22	718
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7GZF6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7GZF6-F1-model_v4 Bifunctional protein HldE	0.174	311	255	1	310	1	311	3.226E-22	717
+LOKIASV2_1485_ESMFold_ribokinase	AF-O25529-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O25529-F1-model_v4 Bifunctional protein HldE	0.207	312	243	5	312	2	313	1.061E-22	716
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5FS52-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5FS52-F1-model_v4 Bifunctional protein HldE	0.208	316	246	3	313	6	321	3.421E-22	716
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0RQR9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0RQR9-F1-model_v4 Bifunctional protein HldE	0.198	309	247	5	313	2	310	2.553E-22	715
+LOKIASV2_1485_ESMFold_ribokinase	AF-D4GR05-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-D4GR05-F1-model_v4 2-dehydro-3-deoxygalactonokinase	0.183	314	252	4	313	2	315	1.000E-22	714
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XEW9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XEW9-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	1.000E-22	714
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q31IC2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q31IC2-F1-model_v4 Bifunctional protein HldE	0.206	307	241	4	310	8	312	1.628E-23	714
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4A8D9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4A8D9-F1-model_v4 5-dehydro-2-deoxygluconokinase	0.196	319	248	1	309	1	319	6.907E-22	713
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5FHT5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5FHT5-F1-model_v4 Bifunctional protein HldE	0.190	306	246	5	310	11	315	1.192E-22	713
+LOKIASV2_1485_ESMFold_ribokinase	AF-D4GSE6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-D4GSE6-F1-model_v4 2-dehydro-3-deoxygluconokinase/2-dehydro-3-deoxygalactonokinase	0.170	311	251	7	310	4	314	6.907E-22	712
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID3-F1-model_v4 Putative ATP-dependent 6-phosphofructokinase isozyme 2	0.189	306	247	3	308	10	314	2.553E-22	712
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0HFL0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0HFL0-F1-model_v4 Bifunctional protein HldE	0.179	306	250	5	310	11	315	3.627E-22	712
+LOKIASV2_1485_ESMFold_ribokinase	AF-O05074-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O05074-F1-model_v4 Bifunctional protein HldE	0.203	311	245	3	313	9	317	1.421E-22	712
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4EW46-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4EW46-F1-model_v4 Bifunctional protein HldE	0.193	310	248	4	313	11	318	6.261E-23	711
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4TI51-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4TI51-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	1.340E-22	710
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2SN34-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2SN34-F1-model_v4 Bifunctional protein HldE	0.160	306	255	5	310	11	315	2.407E-22	710
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4T670-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4T670-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	1.598E-22	710
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q219E2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q219E2-F1-model_v4 Bifunctional protein HldE	0.197	310	243	5	307	14	323	6.144E-22	709
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7M9U1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7M9U1-F1-model_v4 Bifunctional protein HldE	0.198	312	247	1	309	5	316	2.553E-22	708
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5UCC3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5UCC3-F1-model_v4 Bifunctional protein HldE	0.206	311	245	3	313	9	317	2.141E-22	708
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1QNS3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1QNS3-F1-model_v4 Bifunctional protein HldE	0.203	310	241	5	307	14	323	6.907E-22	707
+LOKIASV2_1485_ESMFold_ribokinase	AF-B3E5M9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B3E5M9-F1-model_v4 Bifunctional protein HldE	0.195	311	246	5	310	16	326	3.627E-22	707
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CME6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CME6-F1-model_v4 Bifunctional protein HldE	0.189	311	251	1	311	7	316	2.271E-22	706
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7N0K1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7N0K1-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	1.192E-22	706
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8FB71-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8FB71-F1-model_v4 Bifunctional protein HldE	0.165	310	254	6	310	18	327	3.421E-22	706
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q98I54-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q98I54-F1-model_v4 Bifunctional protein HldE	0.186	310	248	5	310	22	331	3.043E-22	705
+LOKIASV2_1485_ESMFold_ribokinase	AF-P40713-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P40713-F1-model_v4 Fructokinase	0.191	304	244	4	305	2	305	3.043E-22	704
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9N5X8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9N5X8-F1-model_v4 Bifunctional protein HldE	0.185	309	250	5	313	11	318	3.043E-22	704
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2U1F7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2U1F7-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	1.421E-22	704
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7UIW0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7UIW0-F1-model_v4 Bifunctional protein HldE	0.188	307	248	5	311	11	317	1.264E-22	703
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4TVT4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4TVT4-F1-model_v4 Bifunctional protein HldE	0.185	309	250	5	313	11	318	3.846E-22	703
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8I5B0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8I5B0-F1-model_v4 Bifunctional protein HldE	0.205	314	245	2	310	5	318	1.315E-21	703
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5F696-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5F696-F1-model_v4 Bifunctional protein HldE	0.185	309	250	5	313	11	318	3.627E-22	702
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6I423-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6I423-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	1.598E-22	702
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5QZ36-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5QZ36-F1-model_v4 Bifunctional protein HldE	0.184	311	251	3	313	10	318	2.271E-22	701
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0HYC0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0HYC0-F1-model_v4 Bifunctional protein HldE	0.179	306	250	5	310	11	315	8.233E-22	700
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6VP06-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6VP06-F1-model_v4 Bifunctional protein HldE	0.188	308	248	3	310	9	315	2.707E-22	699
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LQC9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LQC9-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	2.020E-22	699
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4YYB6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4YYB6-F1-model_v4 Bifunctional protein HldE	0.203	310	241	5	307	14	323	8.730E-22	699
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4QKN8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4QKN8-F1-model_v4 Bifunctional protein HldE	0.205	307	242	1	307	7	312	3.421E-22	698
+LOKIASV2_1485_ESMFold_ribokinase	AF-P76658-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P76658-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	2.271E-22	698
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q53W83-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q53W83-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.188	305	244	5	309	2	303	7.324E-22	697
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7WGU8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7WGU8-F1-model_v4 D-beta-D-heptose 7-phosphate kinase	0.181	303	246	4	306	11	311	4.156E-23	697
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8EAZ2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8EAZ2-F1-model_v4 Bifunctional protein HldE	0.183	306	248	5	310	11	315	4.324E-22	697
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0T0L1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0T0L1-F1-model_v4 Bifunctional protein HldE	0.184	306	248	5	310	11	315	4.861E-22	697
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PC86-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PC86-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	4.324E-22	697
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0L7X0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0L7X0-F1-model_v4 Bifunctional protein HldE	0.195	314	246	5	310	12	325	6.514E-22	697
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YXJ0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YXJ0-F1-model_v4 Bifunctional protein HldE	0.184	309	251	5	313	11	318	3.421E-22	696
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6Q4Z6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6Q4Z6-F1-model_v4 Bifunctional protein HldE	0.196	310	246	4	313	2	308	1.340E-22	695
+LOKIASV2_1485_ESMFold_ribokinase	AF-P57168-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P57168-F1-model_v4 Uncharacterized sugar kinase BU060	0.206	306	241	4	309	11	314	7.324E-22	694
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HUG9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HUG9-F1-model_v4 Bifunctional protein HldE	0.170	307	252	4	310	10	314	3.043E-22	693
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9L2P0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9L2P0-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	5.154E-22	693
+LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZQW9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZQW9-F1-model_v4 Bifunctional protein HldE	0.184	309	251	5	313	11	318	4.584E-22	692
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1XG57-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1XG57-F1-model_v4 Bifunctional protein HldE	0.184	309	251	5	313	11	318	5.465E-22	692
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4ZZ15-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4ZZ15-F1-model_v4 Bifunctional protein HldE	0.175	307	251	4	310	10	314	4.078E-22	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VM30-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VM30-F1-model_v4 Bifunctional protein HldE	0.190	309	249	3	311	9	316	8.730E-22	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MAC8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MAC8-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	4.324E-22	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5REF8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5REF8-F1-model_v4 Bifunctional protein HldE	0.185	309	250	5	313	11	318	9.256E-22	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7CPR9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7CPR9-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	6.514E-22	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-C5BHH2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C5BHH2-F1-model_v4 Bifunctional protein HldE	0.182	303	246	5	307	11	312	2.271E-22	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5BG11-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5BG11-F1-model_v4 Bifunctional protein HldE	0.185	309	250	5	313	11	318	7.324E-22	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3IHX7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3IHX7-F1-model_v4 Bifunctional protein HldE	0.194	307	244	4	310	12	315	1.041E-21	691
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q493X3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q493X3-F1-model_v4 Bifunctional protein HldE	0.194	306	245	5	310	11	315	3.043E-22	690
+LOKIASV2_1485_ESMFold_ribokinase	AF-O59128-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O59128-F1-model_v4 Putative sugar kinase PH1459	0.195	305	240	1	305	2	300	3.846E-22	689
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q87VF4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q87VF4-F1-model_v4 Bifunctional protein HldE	0.172	307	252	4	310	10	314	4.324E-22	689
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8A4K6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8A4K6-F1-model_v4 Bifunctional protein HldE	0.178	309	252	5	313	11	318	5.794E-22	689
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TD55-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TD55-F1-model_v4 Bifunctional protein HldE	0.186	305	247	5	309	11	314	3.846E-22	689
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57JQ9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57JQ9-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	7.765E-22	688
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q32BR2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q32BR2-F1-model_v4 Bifunctional protein HldE	0.178	309	252	5	313	11	318	6.514E-22	688
+LOKIASV2_1485_ESMFold_ribokinase	AF-C0PYX3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C0PYX3-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	8.730E-22	688
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VQQ6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VQQ6-F1-model_v4 Bifunctional protein HldE	0.214	307	239	4	310	11	315	1.061E-22	688
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1RGD1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1RGD1-F1-model_v4 Bifunctional protein HldE	0.186	307	247	4	310	11	315	6.514E-22	687
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q88D93-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q88D93-F1-model_v4 Bifunctional protein HldE	0.180	307	249	4	310	10	314	3.846E-22	686
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9KDJ2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9KDJ2-F1-model_v4 Bifunctional protein HldE	0.197	306	244	5	310	13	317	8.730E-22	686
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9N9S2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9N9S2-F1-model_v4 Bifunctional protein HldE	0.198	306	244	5	310	13	317	1.869E-21	686
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6WJS7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6WJS7-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	9.256E-22	686
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5YR91-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5YR91-F1-model_v4 Bifunctional protein HldE	0.184	309	251	5	313	11	318	7.765E-22	686
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7UBI8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7UBI8-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	5.794E-22	686
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4VR47-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4VR47-F1-model_v4 Bifunctional protein HldE	0.170	305	251	6	310	12	314	4.078E-22	685
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6VDB5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6VDB5-F1-model_v4 Bifunctional protein HldE	0.170	307	252	4	310	10	314	5.794E-22	685
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0KPL4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0KPL4-F1-model_v4 Bifunctional protein HldE	0.187	305	246	5	309	11	314	4.324E-22	685
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7AAQ7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7AAQ7-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	6.144E-22	685
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IRR4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IRR4-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	6.144E-22	685
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9MPW3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9MPW3-F1-model_v4 Bifunctional protein HldE	0.188	305	246	5	309	11	314	9.256E-22	685
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1J331-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1J331-F1-model_v4 Bifunctional protein HldE	0.182	307	249	4	310	10	314	5.794E-22	684
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q83B60-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q83B60-F1-model_v4 Bifunctional protein HldE	0.198	306	244	5	310	13	317	2.228E-21	684
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LUZ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LUZ5-F1-model_v4 Bifunctional protein HldE	0.180	307	250	5	311	11	316	1.395E-21	684
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3D837-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3D837-F1-model_v4 Bifunctional protein HldE	0.191	303	244	5	307	11	312	6.514E-22	684
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7NJR5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7NJR5-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	6.144E-22	684
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q65T41-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q65T41-F1-model_v4 Bifunctional protein HldE	0.199	305	243	3	307	9	312	8.233E-22	683
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4Y9Z9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4Y9Z9-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	1.103E-21	683
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R6S9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R6S9-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	7.765E-22	683
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7MP93-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7MP93-F1-model_v4 Bifunctional protein HldE	0.192	306	246	5	310	11	315	8.233E-22	682
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4WEI4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4WEI4-F1-model_v4 Bifunctional protein HldE	0.181	309	251	5	313	11	318	9.256E-22	682
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1LF43-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1LF43-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	7.324E-22	682
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1AFX4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1AFX4-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	7.765E-22	682
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0KL32-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0KL32-F1-model_v4 Bifunctional protein HldE	0.182	307	249	4	310	10	314	6.907E-22	681
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8EE43-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8EE43-F1-model_v4 Bifunctional protein HldE	0.187	306	247	5	310	11	315	1.240E-21	681
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LZK1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LZK1-F1-model_v4 Bifunctional protein HldE	0.184	309	251	5	313	11	318	1.103E-21	681
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1I411-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1I411-F1-model_v4 Bifunctional protein HldE	0.181	305	247	6	310	12	314	6.907E-22	680
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1S3I3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1S3I3-F1-model_v4 Bifunctional protein HldE	0.184	306	248	5	310	11	315	6.514E-22	680
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0KTG8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0KTG8-F1-model_v4 Bifunctional protein HldE	0.180	306	249	5	310	11	315	1.568E-21	679
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7N0C3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7N0C3-F1-model_v4 Bifunctional protein HldE	0.175	310	253	4	313	11	318	7.765E-22	678
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0VM60-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0VM60-F1-model_v4 Bifunctional protein HldE	0.185	306	248	5	310	12	316	7.765E-22	678
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VFZ3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VFZ3-F1-model_v4 Bifunctional protein HldE	0.195	316	250	2	313	6	321	1.662E-21	678
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3QAN3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3QAN3-F1-model_v4 Bifunctional protein HldE	0.183	306	248	5	310	11	315	7.765E-22	677
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4KJA9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4KJA9-F1-model_v4 Bifunctional protein HldE	0.171	305	250	6	310	12	314	9.815E-22	676
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5EEZ1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5EEZ1-F1-model_v4 Bifunctional protein HldE	0.160	312	257	4	310	15	326	5.362E-21	676
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5W9W6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5W9W6-F1-model_v4 Bifunctional protein HldE	0.178	307	250	4	310	10	314	5.154E-22	675
+LOKIASV2_1485_ESMFold_ribokinase	AF-P44482-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P44482-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.197	313	246	5	311	2	314	3.627E-22	674
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4SIG6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4SIG6-F1-model_v4 Bifunctional protein HldE	0.187	309	250	4	312	10	317	9.256E-22	674
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5FB67-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5FB67-F1-model_v4 Bifunctional protein HldE	0.175	305	249	4	308	11	313	1.662E-21	674
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FDH5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FDH5-F1-model_v4 Bifunctional protein HldE	0.188	303	244	5	307	11	312	9.256E-22	674
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q02F21-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q02F21-F1-model_v4 Bifunctional protein HldE	0.170	308	252	3	310	10	314	2.271E-22	673
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6TE31-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6TE31-F1-model_v4 Bifunctional protein HldE	0.189	306	247	5	310	11	315	1.662E-21	673
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6ELZ7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6ELZ7-F1-model_v4 Bifunctional protein HldE	0.175	305	249	4	308	11	313	1.982E-21	672
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LGY7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LGY7-F1-model_v4 Bifunctional protein HldE	0.186	303	245	5	307	11	312	7.765E-22	672
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6W0Z9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6W0Z9-F1-model_v4 Bifunctional protein HldE	0.157	309	260	5	313	11	319	6.514E-22	671
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7ND40-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7ND40-F1-model_v4 Bifunctional protein HldE	0.184	309	251	5	313	11	318	2.816E-21	671
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZRT3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZRT3-F1-model_v4 Bifunctional protein HldE	0.185	305	247	5	309	11	314	9.815E-22	671
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7V388-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7V388-F1-model_v4 Bifunctional protein HldE	0.165	308	254	3	310	10	314	6.514E-22	670
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8APT1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8APT1-F1-model_v4 Bifunctional protein HldE	0.181	309	251	5	313	11	318	2.505E-21	670
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8CVJ1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8CVJ1-F1-model_v4 Bifunctional protein HldE	0.186	306	247	4	309	10	314	4.498E-21	670
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5EWS4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5EWS4-F1-model_v4 Bifunctional protein HldE	0.220	305	234	3	307	12	312	8.730E-22	670
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0I1X5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0I1X5-F1-model_v4 Bifunctional protein HldE	0.191	306	245	2	307	8	311	5.794E-22	669
+LOKIASV2_1485_ESMFold_ribokinase	AF-P26984-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P26984-F1-model_v4 Fructokinase	0.203	302	238	4	303	2	303	2.228E-21	668
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEX1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEX1-F1-model_v4 1-phosphofructokinase	0.194	306	244	4	309	2	305	2.656E-21	668
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4XPU9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4XPU9-F1-model_v4 Bifunctional protein HldE	0.175	307	251	4	310	10	314	1.982E-21	668
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2VGJ9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2VGJ9-F1-model_v4 Bifunctional protein HldE	0.191	307	246	3	309	10	314	1.869E-21	668
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEW9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEW9-F1-model_v4 1-phosphofructokinase	0.193	306	245	4	309	2	305	2.101E-21	667
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7HUC7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7HUC7-F1-model_v4 Bifunctional protein HldE	0.180	312	251	4	310	17	328	4.769E-21	667
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2NWD9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2NWD9-F1-model_v4 Bifunctional protein HldE	0.185	308	249	3	310	10	315	1.568E-21	666
+LOKIASV2_1485_ESMFold_ribokinase	AF-C6DDL3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C6DDL3-F1-model_v4 Bifunctional protein HldE	0.185	307	248	4	310	11	315	1.763E-21	665
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8FZZ3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8FZZ3-F1-model_v4 Bifunctional protein HldE	0.187	304	246	5	308	11	313	2.101E-21	664
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2K2H4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2K2H4-F1-model_v4 Bifunctional protein HldE	0.180	306	249	5	310	11	315	3.166E-21	664
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1H3A0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1H3A0-F1-model_v4 Bifunctional protein HldE	0.187	314	250	2	310	15	328	1.021E-20	664
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEX0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEX0-F1-model_v4 1-phosphofructokinase	0.196	306	244	4	309	2	305	1.103E-21	663
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEX2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0AEX2-F1-model_v4 1-phosphofructokinase	0.194	306	244	4	309	2	305	3.166E-21	662
+LOKIASV2_1485_ESMFold_ribokinase	AF-O31714-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O31714-F1-model_v4 1-phosphofructokinase	0.163	302	246	7	308	2	296	6.028E-21	661
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8KA54-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8KA54-F1-model_v4 Uncharacterized sugar kinase BUsg_057	0.195	306	245	3	308	9	313	8.233E-22	661
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q07Y78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q07Y78-F1-model_v4 Bifunctional protein HldE	0.186	306	247	5	310	11	315	4.498E-21	661
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q48P39-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q48P39-F1-model_v4 Bifunctional protein HldE	0.171	305	250	6	310	12	314	1.568E-21	660
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3KJ28-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3KJ28-F1-model_v4 Bifunctional protein HldE	0.171	305	250	6	310	12	314	2.505E-21	660
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1JM26-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1JM26-F1-model_v4 Bifunctional protein HldE	0.181	303	247	5	307	11	312	2.656E-21	660
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7VIX1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7VIX1-F1-model_v4 Bifunctional protein HldE	0.171	307	252	2	308	9	313	7.186E-21	659
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5E2L7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5E2L7-F1-model_v4 Bifunctional protein HldE	0.175	305	249	4	308	11	313	5.057E-21	659
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1DGT9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1DGT9-F1-model_v4 Bifunctional protein HldE	0.167	308	253	3	310	10	314	1.315E-21	658
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZKR2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZKR2-F1-model_v4 Aminoimidazole riboside kinase	0.216	311	243	1	311	1	311	5.685E-21	657
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9R7D5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9R7D5-F1-model_v4 Bifunctional protein HldE	0.178	309	252	5	313	11	318	7.186E-21	657
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3KDB8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3KDB8-F1-model_v4 Bifunctional protein HldE	0.182	307	249	4	310	10	314	2.362E-21	656
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R1M6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R1M6-F1-model_v4 Bifunctional protein HldE	0.176	304	249	4	307	10	312	1.763E-21	656
+LOKIASV2_1485_ESMFold_ribokinase	AF-P45543-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P45543-F1-model_v4 Fructoselysine 6-kinase	0.201	289	206	5	293	2	260	9.449E-20	655
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1JQV6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1JQV6-F1-model_v4 Bifunctional protein HldE	0.185	307	248	3	309	10	314	3.357E-21	654
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5XU40-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5XU40-F1-model_v4 Bifunctional protein HldE	0.192	306	246	5	310	11	315	8.566E-21	654
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3A526-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3A526-F1-model_v4 Bifunctional protein HldE	0.141	311	262	5	310	16	326	6.028E-21	654
+LOKIASV2_1485_ESMFold_ribokinase	AF-P22824-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P22824-F1-model_v4 Fructokinase	0.187	305	246	5	308	2	306	2.318E-20	653
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4THT9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4THT9-F1-model_v4 Bifunctional protein HldE	0.184	307	250	5	311	11	317	6.392E-21	653
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q12RC7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q12RC7-F1-model_v4 Bifunctional protein HldE	0.190	306	246	5	310	11	315	5.685E-21	653
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0BUU1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0BUU1-F1-model_v4 Bifunctional protein HldE	0.193	316	245	5	309	6	321	4.242E-21	653
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6D164-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6D164-F1-model_v4 Bifunctional protein HldE	0.189	306	246	4	309	11	314	4.001E-21	652
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2W993-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2W993-F1-model_v4 Bifunctional protein HldE	0.169	313	255	3	310	15	327	7.927E-20	652
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q83JB1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q83JB1-F1-model_v4 Fructoselysine 6-kinase	0.204	289	205	5	293	2	260	7.927E-20	651
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7MWN3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7MWN3-F1-model_v4 Bifunctional protein HldE	0.153	305	256	4	308	11	313	1.217E-20	651
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1SZY2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1SZY2-F1-model_v4 Bifunctional protein HldE	0.174	307	252	4	310	11	316	1.148E-20	651
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q665V3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q665V3-F1-model_v4 Bifunctional protein HldE	0.180	305	248	5	309	11	314	7.619E-21	651
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q607M3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q607M3-F1-model_v4 Bifunctional protein HldE	0.171	301	247	4	304	9	307	9.082E-21	650
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q02974-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q02974-F1-model_v4 Ketohexokinase	0.171	294	242	1	293	1	294	1.538E-20	649
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8GJU3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8GJU3-F1-model_v4 Bifunctional protein HldE	0.182	311	253	3	313	10	319	6.028E-21	649
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1C374-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1C374-F1-model_v4 Bifunctional protein HldE	0.181	309	251	3	311	10	316	7.186E-21	649
+LOKIASV2_1485_ESMFold_ribokinase	AF-P50053-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P50053-F1-model_v4 Ketohexokinase	0.162	293	244	1	292	1	293	1.730E-20	648
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5F5J2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5F5J2-F1-model_v4 Bifunctional protein HldE	0.164	307	254	2	308	9	313	1.083E-20	647
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0TTF2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0TTF2-F1-model_v4 Bifunctional protein HldE	0.181	307	249	4	310	11	315	1.148E-20	647
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3LQY0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3LQY0-F1-model_v4 Bifunctional protein HldE	0.164	312	258	2	313	9	318	1.291E-20	646
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZI60-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZI60-F1-model_v4 Bifunctional protein HldE	0.180	306	249	5	310	11	315	1.368E-20	646
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9HDB1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9HDB1-F1-model_v4 Bifunctional protein HldE	0.187	310	247	5	309	6	315	2.816E-21	646
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1IJZ0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1IJZ0-F1-model_v4 Bifunctional protein HldE	0.192	309	246	5	310	19	327	2.101E-21	646
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7FE79-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7FE79-F1-model_v4 Bifunctional protein HldE	0.180	306	249	5	310	11	315	1.368E-20	645
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q87SJ9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q87SJ9-F1-model_v4 Bifunctional protein HldE	0.150	305	257	4	308	11	313	1.368E-20	644
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5RD71-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5RD71-F1-model_v4 Ketohexokinase	0.161	293	245	1	293	1	293	1.631E-20	643
+LOKIASV2_1485_ESMFold_ribokinase	AF-P26420-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P26420-F1-model_v4 Fructokinase	0.190	304	244	4	305	2	305	5.915E-20	643
+LOKIASV2_1485_ESMFold_ribokinase	AF-P23386-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P23386-F1-model_v4 1-phosphofructokinase	0.174	305	251	4	308	2	306	7.619E-21	643
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7MNY3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7MNY3-F1-model_v4 Bifunctional protein HldE	0.161	305	253	4	308	11	313	1.148E-20	643
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2RY67-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2RY67-F1-model_v4 Bifunctional protein HldE	0.157	312	259	3	310	16	327	1.368E-20	643
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DEH7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DEH7-F1-model_v4 Bifunctional protein HldE	0.161	305	253	4	308	11	313	1.217E-20	642
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0A4T7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0A4T7-F1-model_v4 Bifunctional protein HldE	0.179	307	250	4	310	11	315	4.242E-21	641
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CMD4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CMD4-F1-model_v4 Bifunctional protein HldE	0.181	303	247	5	307	11	312	1.368E-20	638
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1WZB3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1WZB3-F1-model_v4 Bifunctional protein HldE	0.178	306	250	3	308	9	313	2.606E-20	638
+LOKIASV2_1485_ESMFold_ribokinase	AF-E0J5J4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-E0J5J4-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.167	308	246	4	299	2	309	1.021E-20	635
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1TYR4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1TYR4-F1-model_v4 Bifunctional protein HldE	0.173	306	250	4	309	13	315	6.272E-20	635
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3J7Y0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3J7Y0-F1-model_v4 Bifunctional protein HldE	0.166	306	253	4	309	11	314	5.362E-21	632
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5FVE7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5FVE7-F1-model_v4 Bifunctional protein HldE	0.170	311	256	4	313	18	328	7.927E-20	629
+LOKIASV2_1485_ESMFold_ribokinase	AF-P45416-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P45416-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.162	308	247	4	299	3	310	2.458E-20	628
+LOKIASV2_1485_ESMFold_ribokinase	AF-P97328-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P97328-F1-model_v4 Ketohexokinase	0.168	294	243	1	293	1	294	8.912E-20	627
+LOKIASV2_1485_ESMFold_ribokinase	AF-P37647-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P37647-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.167	308	246	4	299	2	309	1.944E-20	627
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0T663-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0T663-F1-model_v4 Bifunctional protein HldE	0.159	312	258	5	312	15	326	4.163E-20	627
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8X839-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8X839-F1-model_v4 Fructoselysine 6-kinase	0.191	289	209	5	293	2	260	5.162E-19	625
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q15UF1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q15UF1-F1-model_v4 2-dehydro-3-deoxygluconokinase	0.165	311	256	3	310	2	312	2.318E-20	622
+LOKIASV2_1485_ESMFold_ribokinase	AF-D4GYE6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-D4GYE6-F1-model_v4 1-phosphofructokinase	0.200	307	235	6	312	2	296	8.405E-20	621
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0C190-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0C190-F1-model_v4 Bifunctional protein HldE	0.225	314	239	4	312	14	327	3.703E-20	621
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9A2C5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9A2C5-F1-model_v4 Bifunctional protein HldE	0.170	310	253	5	310	15	324	1.002E-19	620
+LOKIASV2_1485_ESMFold_ribokinase	AF-P44330-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P44330-F1-model_v4 1-phosphofructokinase	0.179	306	249	4	309	2	305	3.926E-20	619
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8H086-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8H086-F1-model_v4 Bifunctional protein HldE	0.191	305	244	4	308	11	313	1.944E-20	619
+LOKIASV2_1485_ESMFold_ribokinase	AF-O51575-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O51575-F1-model_v4 1-phosphofructokinase	0.187	302	240	7	308	2	297	5.261E-20	617
+LOKIASV2_1485_ESMFold_ribokinase	AF-P47143-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P47143-F1-model_v4 Adenosine kinase	0.225	325	222	7	293	5	329	4.592E-19	612
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID4-F1-model_v4 Adenosine kinase	0.183	321	248	5	308	1	321	1.083E-20	606
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WID5-F1-model_v4 Adenosine kinase	0.181	321	248	5	308	1	321	1.944E-20	602
+LOKIASV2_1485_ESMFold_ribokinase	AF-P23354-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P23354-F1-model_v4 1-phosphofructokinase	0.170	308	252	4	308	3	310	7.778E-19	601
+LOKIASV2_1485_ESMFold_ribokinase	AF-P83736-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P83736-F1-model_v4 Adenosine kinase	0.181	321	248	5	308	1	321	2.062E-20	601
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7H2L7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7H2L7-F1-model_v4 Bifunctional protein HldE	0.188	305	243	2	306	7	306	1.266E-19	601
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5JEK6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5JEK6-F1-model_v4 Cytidine kinase	0.224	289	210	7	295	4	275	9.449E-20	600
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HTW1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HTW1-F1-model_v4 Bifunctional protein HldE	0.188	308	245	2	309	7	309	1.509E-19	595
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5U4N0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5U4N0-F1-model_v4 Adenosine kinase	0.181	321	248	5	308	1	321	5.579E-20	589
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1W0D6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1W0D6-F1-model_v4 Bifunctional protein HldE	0.188	306	244	2	307	7	307	3.633E-19	585
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q55480-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q55480-F1-model_v4 Uncharacterized sugar kinase slr0537	0.178	329	253	1	309	1	329	9.449E-20	584
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8FMK8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8FMK8-F1-model_v4 Bifunctional protein HldE	0.188	305	243	2	306	7	306	4.331E-19	581
+LOKIASV2_1485_ESMFold_ribokinase	AF-F4I0K2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-F4I0K2-F1-model_v4 Fructokinase-like 2, chloroplastic	0.137	342	256	2	299	202	543	6.154E-19	575
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6TG09-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6TG09-F1-model_v4 Bifunctional protein HldE	0.190	305	242	2	306	7	306	4.869E-19	573
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9M394-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9M394-F1-model_v4 Fructokinase-like 1, chloroplastic	0.168	371	259	1	312	98	468	5.162E-19	567
+LOKIASV2_1485_ESMFold_ribokinase	AF-O93919-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O93919-F1-model_v4 Adenosine kinase	0.187	334	237	1	293	1	334	1.150E-17	563
+LOKIASV2_1485_ESMFold_ribokinase	AF-P76419-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P76419-F1-model_v4 Uncharacterized sugar kinase YegV	0.179	311	251	2	312	15	321	1.948E-17	562
+LOKIASV2_1485_ESMFold_ribokinase	AF-O32153-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O32153-F1-model_v4 Fructosamine kinase FrlD	0.204	289	209	6	294	2	264	5.371E-18	561
+LOKIASV2_1485_ESMFold_ribokinase	AF-B9DU93-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B9DU93-F1-model_v4 Tagatose-6-phosphate kinase	0.167	304	252	6	309	2	304	2.820E-18	560
+LOKIASV2_1485_ESMFold_ribokinase	AF-P26421-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P26421-F1-model_v4 Tagatose-6-phosphate kinase	0.154	303	255	6	308	2	303	1.317E-18	556
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q833W9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q833W9-F1-model_v4 Tagatose-6-phosphate kinase	0.194	303	243	6	308	2	304	2.660E-18	549
+LOKIASV2_1485_ESMFold_ribokinase	AF-P65699-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P65699-F1-model_v4 Tagatose-6-phosphate kinase	0.178	303	247	6	308	2	303	3.171E-18	540
+LOKIASV2_1485_ESMFold_ribokinase	AF-P78825-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P78825-F1-model_v4 Adenosine kinase	0.188	326	235	4	293	3	328	1.634E-17	540
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5XII4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5XII4-F1-model_v4 Tagatose-6-phosphate kinase	0.177	303	247	6	308	2	302	1.219E-17	539
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9SF85-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9SF85-F1-model_v4 Adenosine kinase 1	0.180	326	235	7	293	10	335	1.453E-17	538
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5IUY2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5IUY2-F1-model_v4 Tagatose-6-phosphate kinase	0.178	303	247	6	308	2	303	4.249E-18	536
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GEN6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GEN6-F1-model_v4 Tagatose-6-phosphate kinase	0.178	303	247	6	308	2	303	4.777E-18	535
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1C7G0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1C7G0-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	246	6	308	2	302	9.831E-19	534
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DXC2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DXC2-F1-model_v4 Tagatose-6-phosphate kinase	0.202	303	240	6	308	2	303	8.092E-18	534
+LOKIASV2_1485_ESMFold_ribokinase	AF-O29891-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O29891-F1-model_v4 Uncharacterized sugar kinase AF_0356	0.264	249	180	50	298	2	246	1.802E-16	533
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7X575-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7X575-F1-model_v4 Tagatose-6-phosphate kinase	0.178	303	247	6	308	2	303	6.038E-18	533
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1CEF2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1CEF2-F1-model_v4 Tagatose-6-phosphate kinase	0.181	303	246	6	308	2	302	1.243E-18	532
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XNK5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XNK5-F1-model_v4 Tagatose-6-phosphate kinase	0.169	303	250	6	308	2	303	1.371E-17	532
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8YYG0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8YYG0-F1-model_v4 Tagatose-6-phosphate kinase	0.178	303	247	6	308	2	303	6.402E-18	531
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8E346-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8E346-F1-model_v4 Tagatose-6-phosphate kinase 2	0.202	303	240	6	308	2	303	1.293E-17	531
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q54MB5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q54MB5-F1-model_v4 Adenosine kinase	0.174	329	241	1	293	1	329	1.948E-17	531
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1CKT7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1CKT7-F1-model_v4 Tagatose-6-phosphate kinase	0.175	303	248	6	308	2	302	2.509E-18	529
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0A0B8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0A0B8-F1-model_v4 Tagatose-6-phosphate kinase	0.178	303	247	6	308	2	303	7.198E-18	529
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4L872-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4L872-F1-model_v4 Tagatose-6-phosphate kinase	0.181	303	247	6	308	2	303	9.646E-18	529
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3JZ20-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3JZ20-F1-model_v4 Tagatose-6-phosphate kinase	0.196	303	242	6	308	2	303	1.371E-17	528
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q04KC3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q04KC3-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	246	6	308	2	302	1.766E-18	527
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5X9Y3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5X9Y3-F1-model_v4 Tagatose-6-phosphate kinase	0.177	303	247	6	308	2	302	2.322E-17	527
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2IPT7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2IPT7-F1-model_v4 Tagatose-6-phosphate kinase	0.183	303	245	6	308	2	302	1.243E-18	527
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6QJ37-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6QJ37-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	247	6	308	2	303	6.038E-18	527
+LOKIASV2_1485_ESMFold_ribokinase	AF-P65698-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P65698-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	247	6	308	2	303	5.695E-18	527
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2YYJ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2YYJ5-F1-model_v4 Tagatose-6-phosphate kinase	0.177	303	248	6	308	2	303	6.038E-18	526
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CRJ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CRJ4-F1-model_v4 Tagatose-6-phosphate kinase	0.169	303	250	6	308	2	303	2.190E-17	525
+LOKIASV2_1485_ESMFold_ribokinase	AF-O49923-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O49923-F1-model_v4 Adenosine kinase	0.189	332	237	1	293	1	332	3.709E-17	525
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HE12-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HE12-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	247	6	308	2	303	7.632E-18	524
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HM37-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HM37-F1-model_v4 Tagatose-6-phosphate kinase	0.169	303	250	6	308	2	303	2.462E-17	524
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8RMD4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8RMD4-F1-model_v4 Acarbose 7(IV)-phosphotransferase	0.170	313	247	1	313	1	298	5.270E-17	523
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q48RC4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q48RC4-F1-model_v4 Tagatose-6-phosphate kinase	0.177	303	247	6	308	2	302	1.023E-17	523
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6U3S3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6U3S3-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	247	6	308	2	303	8.580E-18	522
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LZG0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LZG0-F1-model_v4 Adenosine kinase 2	0.182	326	234	7	293	11	336	1.541E-17	522
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9USY1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9USY1-F1-model_v4 Pseudouridine-metabolizing bifunctional protein C1861.05	0.150	360	259	1	306	387	746	1.837E-17	522
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1JEY9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1JEY9-F1-model_v4 Tagatose-6-phosphate kinase	0.173	303	248	6	308	2	302	9.646E-18	520
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IBZ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IBZ5-F1-model_v4 Tagatose-6-phosphate kinase	0.183	303	245	6	308	2	302	2.366E-18	520
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2FET9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2FET9-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	247	6	308	2	303	9.646E-18	520
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HJT3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HJT3-F1-model_v4 Nucleoside kinase	0.184	309	233	5	313	2	287	2.610E-17	518
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0DC12-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0DC12-F1-model_v4 Tagatose-6-phosphate kinase	0.174	303	248	6	308	2	302	1.837E-17	517
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6G7C1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6G7C1-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	247	6	308	2	303	1.371E-17	517
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DPP1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DPP1-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	246	6	308	2	302	4.777E-18	516
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1CRA6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1CRA6-F1-model_v4 Tagatose-6-phosphate kinase	0.183	303	245	6	308	2	302	3.565E-18	515
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8ZQ64-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8ZQ64-F1-model_v4 Tagatose-6-phosphate kinase	0.183	303	245	6	308	2	302	4.008E-18	514
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0A0B9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0A0B9-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	247	6	308	2	303	1.634E-17	514
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8E4R7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8E4R7-F1-model_v4 Tagatose-6-phosphate kinase 1	0.186	303	244	6	308	2	302	5.695E-18	510
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1JJZ7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1JJZ7-F1-model_v4 Tagatose-6-phosphate kinase	0.171	303	249	6	308	2	302	1.634E-17	508
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3CPH5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3CPH5-F1-model_v4 Tagatose-6-phosphate kinase	0.196	305	240	6	310	2	301	6.788E-18	508
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1J9U8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1J9U8-F1-model_v4 Tagatose-6-phosphate kinase	0.169	303	249	6	308	2	302	6.038E-18	507
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q99Y14-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q99Y14-F1-model_v4 Tagatose-6-phosphate kinase	0.170	303	249	6	308	2	302	1.732E-17	507
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q97QL2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q97QL2-F1-model_v4 Tagatose-6-phosphate kinase	0.180	303	246	6	308	2	302	6.038E-18	506
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1J4Q3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1J4Q3-F1-model_v4 Tagatose-6-phosphate kinase	0.164	303	251	6	308	2	302	5.588E-17	505
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0DC13-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0DC13-F1-model_v4 Tagatose-6-phosphate kinase	0.170	303	249	6	308	2	302	2.322E-17	504
+LOKIASV2_1485_ESMFold_ribokinase	AF-A2RGF2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A2RGF2-F1-model_v4 Tagatose-6-phosphate kinase	0.167	303	250	6	308	2	302	5.925E-17	503
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NZD9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NZD9-F1-model_v4 Tagatose-6-phosphate kinase	0.170	303	249	6	308	2	302	1.196E-16	496
+LOKIASV2_1485_ESMFold_ribokinase	AF-P23391-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P23391-F1-model_v4 Tagatose-6-phosphate kinase	0.178	303	247	6	308	2	303	9.646E-18	495
+LOKIASV2_1485_ESMFold_ribokinase	AF-P42720-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P42720-F1-model_v4 Fructokinase	0.183	307	241	7	313	2	297	3.171E-18	494
+LOKIASV2_1485_ESMFold_ribokinase	AF-P75038-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P75038-F1-model_v4 Putative 1-phosphofructokinase	0.186	286	223	5	290	6	280	3.639E-16	469
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q49396-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q49396-F1-model_v4 Putative 1-phosphofructokinase	0.184	290	224	3	292	10	285	1.603E-16	462
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9Z5B5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9Z5B5-F1-model_v4 Bifunctional protein HldE	0.167	298	242	2	299	9	300	1.174E-15	442
+LOKIASV2_1485_ESMFold_ribokinase	AF-P23060-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P23060-F1-model_v4 Protein MAK32	0.159	340	257	7	313	14	353	7.209E-15	418
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9TVW2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9TVW2-F1-model_v4 Adenosine kinase	0.190	355	240	2	298	8	362	2.466E-14	417
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q09839-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q09839-F1-model_v4 Uncharacterized protein C16C9.01c	0.145	340	262	2	309	5	344	6.048E-15	399
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9SX54-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9SX54-F1-model_v4 Putative fructokinase-8	0.223	200	141	128	310	8	207	3.792E-12	383
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q93Z01-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q93Z01-F1-model_v4 Inositol 3-kinase	0.158	307	237	3	309	19	300	1.428E-13	382
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q84R36-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q84R36-F1-model_v4 Inositol 3-kinase	0.176	311	246	1	311	38	336	9.863E-13	344
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5GA22-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5GA22-F1-model_v4 Inositol 3-kinase	0.158	310	252	4	313	29	328	2.111E-12	323
+LOKIASV2_1485_ESMFold_ribokinase	AF-P39610-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P39610-F1-model_v4 Pyridoxine kinase	0.135	311	234	1	311	1	271	7.657E-12	321
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HRG7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HRG7-F1-model_v4 Putative pyridoxine kinase	0.120	302	230	4	305	3	264	3.792E-12	313
+LOKIASV2_1485_ESMFold_ribokinase	AF-O31620-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O31620-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.125	311	236	1	311	1	271	1.808E-10	298
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HI96-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HI96-F1-model_v4 Putative pyridoxine kinase	0.134	302	226	4	305	3	264	2.197E-11	291
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CTQ7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CTQ7-F1-model_v4 Putative pyridoxine kinase	0.140	305	226	1	305	1	264	8.608E-12	285
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NVH3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NVH3-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.129	291	216	1	291	1	249	1.431E-10	285
+LOKIASV2_1485_ESMFold_ribokinase	AF-P24261-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P24261-F1-model_v4 Fructokinase	0.207	182	131	138	303	36	217	5.723E-09	284
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GEY2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GEY2-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.129	291	216	1	291	1	249	2.033E-10	281
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6G7L7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6G7L7-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.126	305	232	1	305	1	266	2.155E-10	280
+LOKIASV2_1485_ESMFold_ribokinase	AF-P66915-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P66915-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.123	291	217	1	291	1	249	2.155E-10	280
+LOKIASV2_1485_ESMFold_ribokinase	AF-P44697-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P44697-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.138	305	230	1	305	1	268	1.917E-10	272
+LOKIASV2_1485_ESMFold_ribokinase	AF-P99124-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P99124-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.123	291	217	1	291	1	249	4.352E-10	272
+LOKIASV2_1485_ESMFold_ribokinase	AF-P55882-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P55882-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.140	304	226	1	304	1	264	1.132E-10	270
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1AYE5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1AYE5-F1-model_v4 Pyridoxal kinase PdxY	0.137	307	239	1	307	1	278	1.200E-10	269
+LOKIASV2_1485_ESMFold_ribokinase	AF-O83153-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O83153-F1-model_v4 Putative pyridoxine kinase	0.096	308	241	4	311	2	269	1.324E-09	267
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q48BL6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q48BL6-F1-model_v4 Pyridoxal kinase PdxY	0.144	306	235	1	306	1	276	1.200E-10	265
+LOKIASV2_1485_ESMFold_ribokinase	AF-P56904-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P56904-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.103	310	237	4	313	2	266	1.774E-09	264
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q141E8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q141E8-F1-model_v4 Pyridoxal kinase PdxY	0.106	303	242	4	306	2	273	1.200E-10	262
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q88C26-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q88C26-F1-model_v4 Pyridoxal kinase PdxY	0.133	306	238	1	306	1	276	1.273E-10	260
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q87TZ6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q87TZ6-F1-model_v4 Pyridoxal kinase PdxY	0.127	306	240	1	306	1	276	2.569E-10	259
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4ZL75-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4ZL75-F1-model_v4 Pyridoxal kinase PdxY	0.148	306	234	1	306	1	276	2.285E-10	259
+LOKIASV2_1485_ESMFold_ribokinase	AF-P76422-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P76422-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.140	304	226	1	304	1	264	2.724E-10	258
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZBR6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZBR6-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.112	305	237	1	305	1	268	2.834E-09	258
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5WB73-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5WB73-F1-model_v4 Pyridoxal kinase PdxY	0.136	306	238	1	306	1	276	2.033E-10	257
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3K4G7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3K4G7-F1-model_v4 Pyridoxal kinase PdxY	0.139	306	237	1	306	1	276	1.431E-10	256
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1I2L8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1I2L8-F1-model_v4 Pyridoxal kinase PdxY	0.130	306	239	1	306	1	276	2.155E-10	256
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q02DJ3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q02DJ3-F1-model_v4 Pyridoxal kinase PdxY	0.121	306	242	1	306	1	276	1.517E-10	255
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6VEZ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6VEZ4-F1-model_v4 Pyridoxal kinase PdxY	0.124	306	241	1	306	1	276	2.155E-10	252
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7V753-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7V753-F1-model_v4 Pyridoxal kinase PdxY	0.124	306	241	1	306	1	276	1.517E-10	252
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5E345-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5E345-F1-model_v4 Pyridoxal kinase PdxY	0.134	303	237	4	306	2	276	5.188E-10	251
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WG77-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WG77-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.114	298	231	4	301	3	264	1.028E-08	250
+LOKIASV2_1485_ESMFold_ribokinase	AF-P66914-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P66914-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.112	301	232	4	304	3	264	7.669E-09	250
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q62LP6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q62LP6-F1-model_v4 Pyridoxal kinase PdxY	0.113	307	244	5	311	2	277	9.879E-10	250
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1JFM7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1JFM7-F1-model_v4 Pyridoxal kinase PdxY	0.136	286	219	1	286	1	254	3.247E-10	250
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0KR83-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0KR83-F1-model_v4 Pyridoxal kinase PdxY	0.130	306	239	1	306	1	276	2.889E-10	249
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2JCI0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2JCI0-F1-model_v4 Pyridoxal kinase PdxY	0.115	302	239	5	306	2	272	1.047E-09	247
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0UUD2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0UUD2-F1-model_v4 Pyridoxal kinase PdxY	0.120	305	240	4	308	2	275	1.404E-09	246
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CIM6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CIM6-F1-model_v4 Pyridoxal kinase PdxY	0.102	305	246	4	308	2	276	7.816E-10	246
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3K4B8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3K4B8-F1-model_v4 Pyridoxal kinase PdxY	0.125	306	241	1	306	1	276	9.317E-10	246
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1C792-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1C792-F1-model_v4 Pyridoxal kinase PdxY	0.102	305	246	4	308	2	276	1.995E-09	245
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q83KY1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q83KY1-F1-model_v4 Pyridoxal kinase PdxY	0.116	306	240	4	309	2	274	6.184E-10	245
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LP62-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LP62-F1-model_v4 Pyridoxal kinase PdxY	0.153	304	229	4	307	2	272	6.952E-10	245
+LOKIASV2_1485_ESMFold_ribokinase	AF-P61422-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P61422-F1-model_v4 Thiamine biosynthesis bifunctional protein ThiED	0.140	305	227	5	309	226	490	3.379E-09	245
+LOKIASV2_1485_ESMFold_ribokinase	AF-O85786-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O85786-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.105	304	232	4	307	3	262	8.132E-09	243
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2SXQ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2SXQ4-F1-model_v4 Pyridoxal kinase PdxY	0.123	304	240	8	311	3	277	5.832E-10	243
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HT57-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HT57-F1-model_v4 Pyridoxal kinase PdxY	0.121	306	242	1	306	1	276	4.352E-10	243
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5UA83-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5UA83-F1-model_v4 Pyridoxal kinase PdxY	0.134	310	240	4	313	2	279	1.517E-10	243
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7CIR8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7CIR8-F1-model_v4 Pyridoxal kinase PdxY	0.100	303	246	5	307	2	275	2.242E-09	242
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q39I40-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q39I40-F1-model_v4 Pyridoxal kinase PdxY	0.113	307	244	5	311	2	277	2.378E-09	242
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4K3F6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4K3F6-F1-model_v4 Pyridoxal kinase PdxY	0.139	306	237	1	306	1	276	9.317E-10	242
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1J237-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1J237-F1-model_v4 Pyridoxal kinase PdxY	0.120	304	252	1	304	1	287	8.287E-10	241
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q63SC2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q63SC2-F1-model_v4 Pyridoxal kinase PdxY	0.116	307	243	5	311	2	277	3.186E-09	240
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q55EK9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q55EK9-F1-model_v4 Pyridoxal kinase	0.155	303	246	4	306	2	293	2.285E-10	240
+LOKIASV2_1485_ESMFold_ribokinase	AF-O01824-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O01824-F1-model_v4 Putative pyridoxal kinase	0.142	309	237	3	311	14	290	4.352E-10	240
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1BXQ7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1BXQ7-F1-model_v4 Pyridoxal kinase PdxY	0.113	307	244	5	311	2	277	5.090E-09	237
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0I3D2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0I3D2-F1-model_v4 Pyridoxal kinase PdxY	0.119	305	241	4	308	2	275	9.879E-10	236
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3JQA6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3JQA6-F1-model_v4 Pyridoxal kinase PdxY	0.117	304	242	8	311	3	277	1.404E-09	236
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8X649-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8X649-F1-model_v4 Pyridoxal kinase PdxY	0.119	306	240	4	309	2	274	1.774E-09	235
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q320Z3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q320Z3-F1-model_v4 Pyridoxal kinase PdxY	0.122	310	243	4	313	2	279	2.673E-09	235
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6AFC1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6AFC1-F1-model_v4 Pyridoxal kinase PdxY	0.141	245	191	86	308	28	272	6.557E-10	234
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q66A50-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q66A50-F1-model_v4 Pyridoxal kinase PdxY	0.099	303	246	5	307	2	275	6.822E-09	234
+LOKIASV2_1485_ESMFold_ribokinase	AF-P44690-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P44690-F1-model_v4 Pyridoxal kinase PdxY	0.143	310	237	4	313	2	279	3.443E-10	234
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1RBF9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1RBF9-F1-model_v4 Pyridoxal kinase PdxY	0.119	306	240	4	309	2	274	2.242E-09	233
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7MGA4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7MGA4-F1-model_v4 Pyridoxal kinase PdxY	0.165	308	230	4	311	2	277	2.378E-09	233
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6NG19-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6NG19-F1-model_v4 Pyridoxal kinase PdxY	0.123	302	235	5	306	2	270	2.834E-09	232
+LOKIASV2_1485_ESMFold_ribokinase	AF-B3H2H2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B3H2H2-F1-model_v4 Pyridoxal kinase PdxY	0.127	304	237	4	307	2	274	3.186E-09	232
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3N2D3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3N2D3-F1-model_v4 Pyridoxal kinase PdxY	0.126	304	238	4	307	2	274	1.673E-09	231
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8D4Q2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8D4Q2-F1-model_v4 Pyridoxal kinase PdxY	0.165	308	230	4	311	2	277	3.379E-09	231
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9RYX0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9RYX0-F1-model_v4 Pyridoxal kinase PdxY	0.127	304	244	1	304	6	286	5.397E-09	231
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3Z1Z2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3Z1Z2-F1-model_v4 Pyridoxal kinase PdxY	0.119	306	240	4	309	2	274	3.186E-09	230
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q87FP6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q87FP6-F1-model_v4 Pyridoxal kinase PdxY	0.147	308	235	4	311	2	277	2.521E-09	230
+LOKIASV2_1485_ESMFold_ribokinase	AF-O14242-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O14242-F1-model_v4 Putative pyridoxal kinase C6F6.11c	0.127	311	262	1	311	1	301	1.047E-09	229
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7N5Q6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7N5Q6-F1-model_v4 Pyridoxal kinase PdxY	0.161	310	232	4	313	2	278	4.528E-09	228
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WG76-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WG76-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.114	308	232	4	311	3	265	3.127E-08	227
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FH89-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FH89-F1-model_v4 Pyridoxal kinase PdxY	0.119	306	240	4	309	2	274	2.834E-09	227
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0THJ1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0THJ1-F1-model_v4 Pyridoxal kinase PdxY	0.113	305	244	4	308	2	277	5.723E-09	227
+LOKIASV2_1485_ESMFold_ribokinase	AF-O25515-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O25515-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.110	305	238	1	305	1	268	8.970E-08	226
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6VNE5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6VNE5-F1-model_v4 Pyridoxal kinase PdxY	0.109	310	245	4	313	2	277	2.521E-09	225
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZPM8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZPM8-F1-model_v4 Pyridoxal kinase PdxY	0.118	305	239	5	309	2	273	4.027E-09	225
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q32FD7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q32FD7-F1-model_v4 Pyridoxal kinase PdxY	0.119	306	240	4	309	2	274	2.673E-09	225
+LOKIASV2_1485_ESMFold_ribokinase	AF-P77150-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P77150-F1-model_v4 Pyridoxal kinase PdxY	0.119	310	244	4	313	2	279	2.834E-09	225
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7N3W7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7N3W7-F1-model_v4 Pyridoxal kinase PdxY	0.116	310	244	4	313	2	278	6.822E-09	223
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1PCB1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1PCB1-F1-model_v4 Pyridoxal kinase	0.143	313	247	1	313	1	289	2.834E-09	223
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZL00-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZL00-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.104	305	238	1	305	1	267	4.190E-08	222
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8W1X2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8W1X2-F1-model_v4 Pyridoxal kinase	0.132	312	249	2	313	13	300	1.881E-09	222
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CNY1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CNY1-F1-model_v4 Pyridoxal kinase PdxY	0.130	304	237	4	307	2	274	3.582E-09	221
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PIK8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PIK8-F1-model_v4 Pyridoxal kinase PdxY	0.116	305	240	5	309	2	273	4.528E-09	220
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7NPV5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7NPV5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.113	284	222	1	284	10	260	3.127E-08	219
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q08224-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q08224-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase THI20	0.095	298	243	2	299	21	289	3.727E-08	219
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LL66-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LL66-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.122	310	228	1	310	10	270	4.711E-08	218
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q08975-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q08975-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase THI21	0.106	299	242	2	300	21	292	5.296E-08	218
+LOKIASV2_1485_ESMFold_ribokinase	AF-O94266-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O94266-F1-model_v4 Putative hydroxymethylpyrimidine/phosphomethylpyrimidine kinase 2	0.100	300	249	4	303	35	312	7.097E-08	218
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7UGB9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7UGB9-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.120	284	220	1	284	10	260	5.615E-08	217
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7N609-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7N609-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.123	284	219	1	284	10	260	5.296E-08	217
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57PI7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57PI7-F1-model_v4 Pyridoxal kinase PdxY	0.116	305	240	5	309	2	273	8.132E-09	217
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7M6S8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7M6S8-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.116	284	221	1	284	10	260	5.954E-08	216
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TF48-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TF48-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.120	284	220	1	284	10	260	6.313E-08	215
+LOKIASV2_1485_ESMFold_ribokinase	AF-P82197-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P82197-F1-model_v4 Pyridoxal kinase	0.123	306	262	1	306	1	300	2.673E-09	215
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MY71-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MY71-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.120	284	220	1	284	10	260	7.525E-08	214
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5YZW5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5YZW5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.123	284	219	1	284	10	260	8.460E-08	212
+LOKIASV2_1485_ESMFold_ribokinase	AF-O35331-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O35331-F1-model_v4 Pyridoxal kinase	0.128	308	262	1	308	1	302	5.090E-09	211
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XBL0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XBL0-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.126	284	219	1	284	10	260	8.460E-08	210
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q65UE8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q65UE8-F1-model_v4 Pyridoxal kinase PdxY	0.111	308	245	4	311	2	278	3.315E-08	210
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1ADT5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1ADT5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.123	284	219	1	284	10	260	1.202E-07	208
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MHS2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MHS2-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.119	284	220	1	284	10	260	1.134E-07	208
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1LML3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1LML3-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.123	284	219	1	284	10	260	1.134E-07	207
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R8V2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R8V2-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.120	284	220	1	284	10	260	1.519E-07	207
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YZC3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YZC3-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.119	284	220	1	284	10	260	1.519E-07	206
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8K183-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8K183-F1-model_v4 Pyridoxal kinase	0.110	308	268	1	308	1	302	4.528E-09	206
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6D5V1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6D5V1-F1-model_v4 Pyridoxal kinase PdxY	0.099	305	246	4	308	2	275	3.515E-08	205
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2TX08-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2TX08-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.125	284	219	1	284	10	260	7.525E-08	204
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q83K78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q83K78-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.123	284	219	1	284	10	260	2.036E-07	204
+LOKIASV2_1485_ESMFold_ribokinase	AF-O48881-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O48881-F1-model_v4 Thiamine biosynthetic bifunctional enzyme BTH1, chloroplastic	0.125	310	237	1	310	29	300	2.474E-08	204
+LOKIASV2_1485_ESMFold_ribokinase	AF-O94265-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O94265-F1-model_v4 Putative hydroxymethylpyrimidine/phosphomethylpyrimidine kinase 1	0.111	300	247	4	303	2	280	1.377E-08	203
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LCG3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LCG3-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.119	284	220	1	284	10	260	2.427E-07	202
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6I4Z5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6I4Z5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.125	284	219	1	284	10	260	1.134E-07	202
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZPL9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZPL9-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.124	284	219	1	284	10	260	2.427E-07	200
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0II59-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0II59-F1-model_v4 Pyridoxal kinase	0.142	313	260	1	313	1	304	4.801E-09	199
+LOKIASV2_1485_ESMFold_ribokinase	AF-O67772-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O67772-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.148	241	197	61	292	4	244	3.952E-08	198
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FFB5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FFB5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.124	284	219	1	284	10	260	3.877E-07	197
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IX53-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IX53-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.123	311	229	2	312	11	272	3.657E-07	196
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2QWK9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2QWK9-F1-model_v4 Probable thiamine biosynthetic bifunctional enzyme, chloroplastic	0.106	307	239	2	308	54	321	2.427E-07	196
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7WII1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7WII1-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.121	281	215	4	284	16	261	1.920E-07	192
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2L1P5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2L1P5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.124	288	223	1	288	10	265	2.289E-07	191
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0RU82-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0RU82-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.114	308	223	2	309	26	278	4.622E-07	190
+LOKIASV2_1485_ESMFold_ribokinase	AF-O46560-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O46560-F1-model_v4 Pyridoxal kinase	0.132	312	264	2	313	10	314	4.801E-09	189
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5M731-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5M731-F1-model_v4 Thiamine biosynthetic bifunctional enzyme TH1, chloroplastic	0.114	311	238	1	311	27	296	1.811E-07	189
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VYK4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VYK4-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.121	281	215	4	284	16	261	2.427E-07	188
+LOKIASV2_1485_ESMFold_ribokinase	AF-O00764-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O00764-F1-model_v4 Pyridoxal kinase	0.115	313	268	1	313	1	304	1.028E-08	188
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1S0R2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1S0R2-F1-model_v4 Bifunctional NAD(P)H-hydrate repair enzyme Nnr	0.123	306	225	4	309	245	502	6.693E-08	188
+LOKIASV2_1485_ESMFold_ribokinase	AF-E3LAQ9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-E3LAQ9-F1-model_v4 ATP-dependent (S)-NAD(P)H-hydrate dehydratase 1	0.086	307	265	4	310	101	391	1.275E-07	186
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q32DD5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q32DD5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.127	284	218	1	284	10	260	1.406E-06	184
+LOKIASV2_1485_ESMFold_ribokinase	AF-P40191-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P40191-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.128	263	226	53	312	10	272	3.449E-07	184
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8A2R4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8A2R4-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.141	251	198	53	284	10	260	2.427E-07	183
+LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZVU9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZVU9-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.134	263	224	53	312	10	272	1.519E-07	183
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9A498-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9A498-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.123	309	223	4	312	28	282	2.574E-07	183
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1LFU5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1LFU5-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.130	248	199	59	288	18	265	3.253E-07	181
+LOKIASV2_1485_ESMFold_ribokinase	AF-O74860-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O74860-F1-model_v4 Putative pyridoxal kinase C18.10	0.144	288	229	1	288	9	276	6.693E-08	179
+LOKIASV2_1485_ESMFold_ribokinase	AF-D2RXF6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-D2RXF6-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.120	306	209	6	311	20	257	1.920E-07	176
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7W6K7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7W6K7-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.141	250	198	54	284	12	261	4.111E-07	176
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZBL1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZBL1-F1-model_v4 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	0.123	270	225	55	311	10	279	2.427E-07	175
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PNC8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PNC8-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.124	284	218	1	284	15	264	1.406E-06	175
+LOKIASV2_1485_ESMFold_ribokinase	AF-P36059-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P36059-F1-model_v4 ATP-dependent (S)-NAD(P)H-hydrate dehydratase	0.104	304	269	6	309	34	334	2.036E-07	175
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9USL6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9USL6-F1-model_v4 Putative hydroxymethylpyrimidine/phosphomethylpyrimidine kinase C18B5.05c	0.090	312	262	2	313	11	299	8.301E-07	174
+LOKIASV2_1485_ESMFold_ribokinase	AF-P40192-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P40192-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.151	246	194	61	289	24	269	1.581E-06	173
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PBP3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PBP3-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.135	308	223	6	313	31	289	9.895E-07	173
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8E2P6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8E2P6-F1-model_v4 Bifunctional NAD(P)H-hydrate repair enzyme Nnr	0.116	305	233	5	309	247	511	1.049E-06	173
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z4W1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z4W1-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.125	283	217	2	284	16	264	2.525E-06	170
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TX67-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TX67-F1-model_v4 Bifunctional NAD(P)H-hydrate repair enzyme Nnr	0.105	305	217	5	309	238	480	4.111E-07	170
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z6Q3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z6Q3-F1-model_v4 Putative pyridoxal kinase PdxY	0.104	257	202	5	261	2	227	9.895E-07	167
+LOKIASV2_1485_ESMFold_ribokinase	AF-C6DBE0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C6DBE0-F1-model_v4 Hydroxyethylthiazole kinase	0.139	265	210	45	309	10	254	7.384E-07	167
+LOKIASV2_1485_ESMFold_ribokinase	AF-P96051-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P96051-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.116	310	226	1	310	16	272	8.802E-07	166
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9X024-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9X024-F1-model_v4 Bifunctional NAD(P)H-hydrate repair enzyme Nnr	0.121	309	228	1	309	224	483	1.777E-06	166
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1L3W1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1L3W1-F1-model_v4 Bifunctional NAD(P)H-hydrate repair enzyme Nnr	0.137	304	223	5	308	239	497	1.491E-06	166
+LOKIASV2_1485_ESMFold_ribokinase	AF-P31806-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P31806-F1-model_v4 Bifunctional NAD(P)H-hydrate repair enzyme Nnr	0.113	313	226	1	313	246	501	1.884E-06	166
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5R0D9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5R0D9-F1-model_v4 Hydroxyethylthiazole kinase	0.097	266	219	43	308	8	251	1.049E-06	163
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6D299-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6D299-F1-model_v4 Hydroxyethylthiazole kinase	0.133	265	212	45	309	10	254	1.406E-06	162
+LOKIASV2_1485_ESMFold_ribokinase	AF-C0Q0Y8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C0Q0Y8-F1-model_v4 Hydroxyethylthiazole kinase	0.115	264	214	45	308	9	251	1.180E-06	162
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5FMW2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5FMW2-F1-model_v4 Hydroxyethylthiazole kinase	0.108	264	216	45	308	9	251	1.326E-06	162
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1XA89-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1XA89-F1-model_v4 Pyridoxine/pyridoxal/pyridoxamine kinase	0.134	263	224	53	312	10	272	2.118E-06	160
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z5C8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z5C8-F1-model_v4 Hydroxyethylthiazole kinase	0.101	266	218	43	308	8	251	1.491E-06	158
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ESZ2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ESZ2-F1-model_v4 Hydroxyethylthiazole kinase 1	0.151	205	159	121	308	40	244	1.227E-05	157
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8MK93-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8MK93-F1-model_v4 Hydroxyethylthiazole kinase	0.113	262	220	46	307	6	254	2.118E-06	156
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6W6A1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6W6A1-F1-model_v4 Hydroxyethylthiazole kinase	0.109	267	220	45	311	13	260	2.525E-06	156
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1HX32-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1HX32-F1-model_v4 Hydroxyethylthiazole kinase	0.136	265	209	45	309	2	244	9.332E-07	155
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5EXY6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5EXY6-F1-model_v4 Hydroxyethylthiazole kinase	0.097	266	219	43	308	8	251	3.805E-06	154
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5F8G9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5F8G9-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.126	309	232	1	309	30	295	1.551E-05	154
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57688-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57688-F1-model_v4 Bifunctional thiamine biosynthesis protein ThiDN	0.150	241	196	59	299	2	233	5.842E-07	154
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9N7J2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9N7J2-F1-model_v4 Hydroxyethylthiazole kinase	0.115	264	214	45	308	9	251	4.277E-06	153
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57MJ3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57MJ3-F1-model_v4 Hydroxyethylthiazole kinase	0.102	266	218	43	308	8	251	1.180E-06	153
+LOKIASV2_1485_ESMFold_ribokinase	AF-P55883-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P55883-F1-model_v4 Hydroxyethylthiazole kinase	0.104	266	218	43	308	8	251	8.802E-07	153
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0BVF4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0BVF4-F1-model_v4 Hydroxyethylthiazole kinase	0.120	200	159	126	307	58	257	4.718E-05	153
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZA59-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZA59-F1-model_v4 Hydroxyethylthiazole kinase	0.120	263	219	45	307	3	252	1.676E-06	152
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PMV9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PMV9-F1-model_v4 Hydroxyethylthiazole kinase	0.105	266	217	43	308	8	251	1.676E-06	151
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8FIR7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8FIR7-F1-model_v4 Hydroxyethylthiazole kinase	0.145	263	212	45	307	4	252	3.384E-06	151
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q83KH2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q83KH2-F1-model_v4 Hydroxyethylthiazole kinase	0.114	264	214	45	308	9	251	7.245E-06	150
+LOKIASV2_1485_ESMFold_ribokinase	AF-P39593-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P39593-F1-model_v4 Hydroxyethylthiazole kinase	0.108	263	221	45	307	4	252	3.588E-06	150
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TMD5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TMD5-F1-model_v4 Hydroxyethylthiazole kinase	0.153	202	154	127	309	45	246	3.132E-05	149
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q312G9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q312G9-F1-model_v4 Hydroxyethylthiazole kinase	0.120	269	217	45	313	7	254	7.245E-06	149
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PS50-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PS50-F1-model_v4 Hydroxyethylthiazole kinase	0.138	202	157	127	309	45	246	3.733E-05	148
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q186F4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q186F4-F1-model_v4 Hydroxyethylthiazole kinase	0.128	265	209	45	309	2	242	1.157E-05	148
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FFY0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FFY0-F1-model_v4 Hydroxyethylthiazole kinase	0.114	264	214	45	308	9	251	6.444E-06	148
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q893Q9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q893Q9-F1-model_v4 Hydroxyethylthiazole kinase	0.110	268	227	46	313	6	261	4.535E-06	148
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q323B8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q323B8-F1-model_v4 Hydroxyethylthiazole kinase	0.121	264	213	45	308	9	251	1.029E-05	147
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7GKQ7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7GKQ7-F1-model_v4 Hydroxyethylthiazole kinase	0.122	261	224	46	306	3	258	3.805E-06	147
+LOKIASV2_1485_ESMFold_ribokinase	AF-C4XIJ3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C4XIJ3-F1-model_v4 Hydroxyethylthiazole kinase	0.106	266	218	43	308	4	248	6.078E-06	147
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7NCD4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7NCD4-F1-model_v4 Hydroxyethylthiazole kinase	0.118	264	213	45	308	9	251	1.227E-05	146
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4T9W1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4T9W1-F1-model_v4 Hydroxyethylthiazole kinase	0.118	264	213	45	308	9	251	1.998E-06	146
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1DCM4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1DCM4-F1-model_v4 Hydroxyethylthiazole kinase	0.104	266	217	43	308	9	251	2.677E-06	146
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4WCE6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4WCE6-F1-model_v4 Hydroxyethylthiazole kinase	0.107	263	212	46	308	10	247	1.157E-05	145
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7VS66-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7VS66-F1-model_v4 Hydroxyethylthiazole kinase	0.128	201	160	127	311	50	250	6.323E-05	145
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5BF36-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5BF36-F1-model_v4 Hydroxyethylthiazole kinase	0.115	263	210	46	308	14	251	2.246E-06	145
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1LN84-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1LN84-F1-model_v4 Hydroxyethylthiazole kinase	0.116	264	214	45	308	9	251	9.157E-06	144
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8I3J5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8I3J5-F1-model_v4 Hydroxyethylthiazole kinase	0.130	267	219	43	309	6	258	6.078E-06	144
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CG46-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CG46-F1-model_v4 Hydroxyethylthiazole kinase	0.126	264	208	46	309	3	241	6.078E-06	143
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q32EA0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q32EA0-F1-model_v4 Hydroxyethylthiazole kinase	0.108	264	216	45	308	9	251	1.227E-05	143
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4TNK3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4TNK3-F1-model_v4 Hydroxyethylthiazole kinase	0.115	263	210	46	308	14	251	3.010E-06	143
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0SE82-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0SE82-F1-model_v4 Hydroxyethylthiazole kinase	0.109	268	217	46	313	12	256	9.157E-06	143
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2GBV7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2GBV7-F1-model_v4 Hydroxyethylthiazole kinase	0.100	263	215	46	308	4	243	1.092E-05	142
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0T335-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0T335-F1-model_v4 Hydroxyethylthiazole kinase	0.118	264	213	45	308	9	251	1.744E-05	142
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R9W8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1R9W8-F1-model_v4 Hydroxyethylthiazole kinase	0.118	264	213	45	308	9	251	1.744E-05	142
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7N7S2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7N7S2-F1-model_v4 Hydroxyethylthiazole kinase	0.118	265	213	45	309	6	248	2.478E-05	142
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9MKV9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9MKV9-F1-model_v4 Hydroxyethylthiazole kinase	0.102	266	218	43	308	8	251	4.809E-06	142
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4J233-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4J233-F1-model_v4 Hydroxyethylthiazole kinase	0.155	263	200	46	308	10	247	9.709E-06	142
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8AEC1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8AEC1-F1-model_v4 Hydroxyethylthiazole kinase	0.119	269	218	45	313	9	257	2.079E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2TY84-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2TY84-F1-model_v4 Hydroxyethylthiazole kinase	0.108	264	216	45	308	9	251	1.157E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0K3V0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0K3V0-F1-model_v4 Hydroxyethylthiazole kinase	0.123	267	217	46	312	5	252	1.029E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6ERB4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6ERB4-F1-model_v4 Hydroxyethylthiazole kinase	0.120	263	211	45	307	6	246	1.645E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0SMR8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0SMR8-F1-model_v4 Hydroxyethylthiazole kinase	0.098	268	220	46	313	12	256	1.551E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0R980-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0R980-F1-model_v4 Hydroxyethylthiazole kinase	0.107	267	222	43	309	4	253	1.029E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q65DJ9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q65DJ9-F1-model_v4 Hydroxyethylthiazole kinase	0.115	265	220	45	309	4	253	1.157E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6M1W7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6M1W7-F1-model_v4 Hydroxyethylthiazole kinase	0.111	265	222	43	307	9	259	2.079E-05	141
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MWQ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MWQ4-F1-model_v4 Hydroxyethylthiazole kinase	0.113	264	215	45	308	9	251	1.227E-05	140
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LIQ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LIQ4-F1-model_v4 Hydroxyethylthiazole kinase	0.147	265	211	43	307	11	258	1.744E-05	140
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IYX7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IYX7-F1-model_v4 Hydroxyethylthiazole kinase	0.118	264	213	45	308	9	251	1.551E-05	139
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4SXX8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4SXX8-F1-model_v4 Hydroxyethylthiazole kinase	0.104	266	218	43	308	8	251	4.535E-06	139
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5RBY7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5RBY7-F1-model_v4 Hydroxyethylthiazole kinase	0.115	264	214	45	308	9	251	4.535E-06	139
+LOKIASV2_1485_ESMFold_ribokinase	AF-B3QT42-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B3QT42-F1-model_v4 Hydroxyethylthiazole kinase	0.104	268	219	46	313	11	255	1.744E-05	138
+LOKIASV2_1485_ESMFold_ribokinase	AF-C5D2N0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C5D2N0-F1-model_v4 Hydroxyethylthiazole kinase	0.118	266	217	43	308	3	249	1.029E-05	138
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3Z0A6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3Z0A6-F1-model_v4 Hydroxyethylthiazole kinase	0.111	264	215	45	308	9	251	1.960E-05	137
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZNS3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZNS3-F1-model_v4 Hydroxyethylthiazole kinase	0.117	264	214	45	308	9	251	1.645E-05	137
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7M485-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7M485-F1-model_v4 Hydroxyethylthiazole kinase	0.111	264	215	45	308	9	251	1.849E-05	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8A1W9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8A1W9-F1-model_v4 Hydroxyethylthiazole kinase	0.114	264	214	45	308	9	251	2.478E-05	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7NPM9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7NPM9-F1-model_v4 Hydroxyethylthiazole kinase	0.111	264	215	45	308	9	251	2.627E-05	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8GHT4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8GHT4-F1-model_v4 Hydroxyethylthiazole kinase	0.125	264	212	45	308	11	253	6.833E-06	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0KBA7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0KBA7-F1-model_v4 Hydroxyethylthiazole kinase	0.133	267	214	46	312	5	252	1.645E-05	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8DJ66-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8DJ66-F1-model_v4 Hydroxyethylthiazole kinase	0.105	266	225	46	311	3	254	3.958E-05	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3L626-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3L626-F1-model_v4 Hydroxyethylthiazole kinase	0.107	267	222	43	309	4	253	1.645E-05	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7H7H4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7H7H4-F1-model_v4 Hydroxyethylthiazole kinase	0.122	265	218	45	309	5	253	9.709E-06	136
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1YJJ2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1YJJ2-F1-model_v4 Hydroxyethylthiazole kinase	0.126	200	158	126	307	41	240	4.718E-05	135
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LV66-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LV66-F1-model_v4 Hydroxyethylthiazole kinase	0.106	264	215	45	308	10	251	2.079E-05	135
+LOKIASV2_1485_ESMFold_ribokinase	AF-P76423-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P76423-F1-model_v4 Hydroxyethylthiazole kinase	0.114	264	214	45	308	9	251	2.627E-05	135
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TFY8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0TFY8-F1-model_v4 Hydroxyethylthiazole kinase	0.117	264	214	45	308	9	251	1.960E-05	135
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q81Z96-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q81Z96-F1-model_v4 Hydroxyethylthiazole kinase	0.107	267	222	43	309	4	253	2.079E-05	135
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q02YS4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q02YS4-F1-model_v4 Hydroxyethylthiazole kinase	0.128	252	203	59	310	12	245	5.003E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5XP99-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5XP99-F1-model_v4 Hydroxyethylthiazole kinase	0.116	264	213	45	308	8	249	4.450E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7L9X5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7L9X5-F1-model_v4 Hydroxyethylthiazole kinase	0.113	264	215	45	308	9	251	2.204E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1ACX0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1ACX0-F1-model_v4 Hydroxyethylthiazole kinase	0.117	264	214	45	308	9	251	2.079E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q824E8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q824E8-F1-model_v4 Hydroxyethylthiazole kinase	0.139	265	206	45	309	8	247	1.849E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1X7J5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1X7J5-F1-model_v4 Hydroxyethylthiazole kinase	0.114	264	214	45	308	9	251	3.320E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5E0Q5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5E0Q5-F1-model_v4 Hydroxyethylthiazole kinase	0.105	263	215	45	307	9	249	2.337E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q63GK4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q63GK4-F1-model_v4 Hydroxyethylthiazole kinase	0.114	267	221	43	309	4	253	1.092E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0LP26-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0LP26-F1-model_v4 Hydroxyethylthiazole kinase	0.124	264	215	45	308	3	249	1.849E-05	134
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5L6R4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5L6R4-F1-model_v4 Hydroxyethylthiazole kinase	0.125	269	216	43	311	5	252	2.478E-05	133
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6HYU5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6HYU5-F1-model_v4 Hydroxyethylthiazole kinase	0.117	264	214	45	308	9	251	2.204E-05	133
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2A1A8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2A1A8-F1-model_v4 Hydroxyethylthiazole kinase	0.104	265	223	45	309	9	258	9.157E-06	133
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7UFC1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7UFC1-F1-model_v4 Hydroxyethylthiazole kinase	0.123	264	210	45	308	9	248	4.197E-05	132
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8X7G3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8X7G3-F1-model_v4 Hydroxyethylthiazole kinase	0.108	264	216	45	308	9	251	3.958E-05	132
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1CD76-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1CD76-F1-model_v4 Hydroxyethylthiazole kinase 2	0.114	256	213	55	310	11	251	2.627E-05	132
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3PBW0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3PBW0-F1-model_v4 Hydroxyethylthiazole kinase	0.107	267	222	43	309	4	253	2.478E-05	131
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7JN71-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7JN71-F1-model_v4 Hydroxyethylthiazole kinase	0.114	267	221	43	309	4	253	2.337E-05	131
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q03XM8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q03XM8-F1-model_v4 Hydroxyethylthiazole kinase 2	0.129	268	223	43	310	2	258	1.029E-05	131
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2UY66-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2UY66-F1-model_v4 Hydroxyethylthiazole kinase	0.118	265	221	43	307	9	259	3.521E-05	131
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8J4C1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8J4C1-F1-model_v4 Hydroxyethylthiazole kinase	0.102	263	235	45	307	4	266	2.204E-05	131
+LOKIASV2_1485_ESMFold_ribokinase	AF-A2RKJ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A2RKJ5-F1-model_v4 Hydroxyethylthiazole kinase	0.122	250	205	61	310	12	245	2.954E-05	130
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6TBJ8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6TBJ8-F1-model_v4 Hydroxyethylthiazole kinase	0.126	264	211	45	308	8	249	5.624E-05	130
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z7K9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z7K9-F1-model_v4 Hydroxyethylthiazole kinase	0.121	269	216	45	313	2	248	3.132E-05	130
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q87JW7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q87JW7-F1-model_v4 Hydroxyethylthiazole kinase	0.119	265	213	45	309	6	248	7.109E-05	130
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5WDP1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5WDP1-F1-model_v4 Hydroxyethylthiazole kinase	0.130	266	211	43	308	3	246	1.551E-05	130
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6HP18-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6HP18-F1-model_v4 Hydroxyethylthiazole kinase	0.114	267	221	43	309	4	253	1.849E-05	130
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9JRZ9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9JRZ9-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.126	309	232	1	309	30	295	1.204E-04	130
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5YV51-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5YV51-F1-model_v4 Hydroxyethylthiazole kinase	0.111	264	215	45	308	9	251	5.003E-05	129
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MEF9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MEF9-F1-model_v4 Hydroxyethylthiazole kinase	0.117	264	214	45	308	9	251	3.958E-05	129
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q03NR9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q03NR9-F1-model_v4 Hydroxyethylthiazole kinase	0.139	265	214	47	311	3	251	4.450E-05	129
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1VBV4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1VBV4-F1-model_v4 Hydroxyethylthiazole kinase	0.133	266	212	43	308	4	248	3.733E-05	129
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7HT69-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7HT69-F1-model_v4 Hydroxyethylthiazole kinase	0.115	267	220	43	309	4	253	1.463E-05	129
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8FJW2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8FJW2-F1-model_v4 Hydroxyethylthiazole kinase	0.121	263	218	45	307	2	250	3.132E-05	129
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q723Z1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q723Z1-F1-model_v4 Hydroxyethylthiazole kinase	0.129	202	157	127	307	47	248	2.733E-04	129
+LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZSI8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZSI8-F1-model_v4 Hydroxyethylthiazole kinase	0.117	264	214	45	308	9	251	4.718E-05	128
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q73E73-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q73E73-F1-model_v4 Hydroxyethylthiazole kinase	0.111	267	221	43	309	4	253	2.204E-05	127
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7GKR3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7GKR3-F1-model_v4 Hydroxyethylthiazole kinase	0.119	265	219	45	309	4	253	1.380E-05	127
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZKZ9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ZKZ9-F1-model_v4 Hydroxyethylthiazole kinase	0.140	255	204	59	313	10	247	2.954E-05	126
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6A3G5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6A3G5-F1-model_v4 Hydroxyethylthiazole kinase	0.108	263	215	46	308	7	248	7.992E-05	126
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q04YC8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q04YC8-F1-model_v4 Hydroxyethylthiazole kinase	0.097	268	221	46	313	19	264	1.071E-04	125
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q729I7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q729I7-F1-model_v4 Hydroxyethylthiazole kinase	0.136	266	211	43	308	4	248	6.323E-05	125
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q97EL4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q97EL4-F1-model_v4 Hydroxyethylthiazole kinase	0.109	264	225	46	309	5	258	1.960E-05	125
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q253G3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q253G3-F1-model_v4 Hydroxyethylthiazole kinase	0.132	265	207	45	309	8	247	3.132E-05	124
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q81IG9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q81IG9-F1-model_v4 Hydroxyethylthiazole kinase	0.095	267	225	43	309	4	253	1.645E-05	124
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7IVS8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7IVS8-F1-model_v4 Hydroxyethylthiazole kinase	0.114	267	221	43	309	4	253	7.682E-06	124
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3CS46-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3CS46-F1-model_v4 Hydroxyethylthiazole kinase	0.132	265	214	43	307	15	262	2.337E-05	124
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q466J4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q466J4-F1-model_v4 Hydroxyethylthiazole kinase	0.135	251	202	59	309	13	246	1.136E-04	123
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8F0X6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8F0X6-F1-model_v4 Hydroxyethylthiazole kinase	0.140	265	208	45	309	15	257	5.304E-05	123
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9VRN3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9VRN3-F1-model_v4 Hydroxyethylthiazole kinase	0.095	262	233	45	306	4	262	2.204E-05	123
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1JQJ2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1JQJ2-F1-model_v4 Hydroxyethylthiazole kinase	0.104	266	218	43	308	7	250	1.435E-04	122
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q72U64-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q72U64-F1-model_v4 Hydroxyethylthiazole kinase	0.149	267	207	43	309	14	257	5.624E-05	122
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2TQ14-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2TQ14-F1-model_v4 Hydroxyethylthiazole kinase	0.132	262	214	46	307	12	259	7.109E-05	122
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q04V49-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q04V49-F1-model_v4 Hydroxyethylthiazole kinase	0.097	268	221	46	313	19	264	1.071E-04	121
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VU32-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VU32-F1-model_v4 ADP-dependent (S)-NAD(P)H-hydrate dehydratase	0.123	310	225	1	310	25	282	2.040E-04	121
+LOKIASV2_1485_ESMFold_ribokinase	AF-B9J2L4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B9J2L4-F1-model_v4 Hydroxyethylthiazole kinase	0.121	267	219	43	309	4	253	2.954E-05	120
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q830K4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q830K4-F1-model_v4 Hydroxyethylthiazole kinase	0.114	208	160	128	309	49	256	2.898E-04	120
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q03CB3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q03CB3-F1-model_v4 Hydroxyethylthiazole kinase	0.128	263	221	45	307	9	262	2.079E-05	120
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1EVE5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1EVE5-F1-model_v4 Hydroxyethylthiazole kinase	0.116	267	220	43	309	4	253	8.474E-05	117
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4IN26-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4IN26-F1-model_v4 Hydroxyethylthiazole kinase	0.101	260	229	46	305	7	262	7.537E-05	117
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1KZ32-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1KZ32-F1-model_v4 Hydroxyethylthiazole kinase	0.114	262	214	46	307	6	248	1.711E-04	117
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6AQZ6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6AQZ6-F1-model_v4 Hydroxyethylthiazole kinase	0.100	262	223	46	307	3	251	7.992E-05	117
+LOKIASV2_1485_ESMFold_ribokinase	AF-K7VCB9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-K7VCB9-F1-model_v4 Hydroxyethylthiazole kinase	0.139	269	211	45	313	21	266	7.109E-05	117
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CT25-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1CT25-F1-model_v4 Hydroxyethylthiazole kinase	0.138	255	204	59	313	11	248	8.985E-05	116
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8DET2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8DET2-F1-model_v4 Hydroxyethylthiazole kinase	0.104	262	217	46	307	6	248	1.204E-04	116
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2LWX9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2LWX9-F1-model_v4 Hydroxyethylthiazole kinase	0.110	269	223	43	311	5	256	1.204E-04	116
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8R807-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8R807-F1-model_v4 Hydroxyethylthiazole kinase	0.111	267	219	43	309	3	249	4.718E-05	115
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8GJF9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8GJF9-F1-model_v4 Hydroxyethylthiazole kinase	0.101	263	220	45	307	3	248	1.522E-04	114
+LOKIASV2_1485_ESMFold_ribokinase	AF-C0ZGJ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C0ZGJ5-F1-model_v4 Hydroxyethylthiazole kinase	0.122	267	219	43	309	4	253	2.431E-04	114
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1M5U3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1M5U3-F1-model_v4 Hydroxyethylthiazole kinase	0.122	263	212	46	308	7	248	2.578E-04	112
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8FUD3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8FUD3-F1-model_v4 Hydroxyethylthiazole kinase	0.138	267	216	43	309	2	252	2.733E-04	111
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5KZU2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5KZU2-F1-model_v4 Hydroxyethylthiazole kinase	0.124	264	215	45	308	5	250	1.277E-04	111
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IEG7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IEG7-F1-model_v4 Hydroxyethylthiazole kinase 1	0.120	265	213	43	307	4	246	8.985E-05	109
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2USY3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2USY3-F1-model_v4 Hydroxyethylthiazole kinase	0.133	255	205	59	313	10	247	3.258E-04	106
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q92EW7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q92EW7-F1-model_v4 Hydroxyethylthiazole kinase	0.102	262	220	46	307	3	248	3.884E-04	106
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q63L73-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q63L73-F1-model_v4 Hydroxyethylthiazole kinase	0.103	265	219	45	309	11	255	7.396E-04	106
+LOKIASV2_1485_ESMFold_ribokinase	AF-B3W782-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B3W782-F1-model_v4 Hydroxyethylthiazole kinase	0.137	263	218	45	307	9	262	1.435E-04	106
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0AZ87-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0AZ87-F1-model_v4 Hydroxyethylthiazole kinase	0.123	263	217	45	307	3	250	4.630E-04	105
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q58733-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q58733-F1-model_v4 Uncharacterized protein MJ1337	0.114	202	162	124	307	29	230	4.816E-03	103
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ESJ1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ESJ1-F1-model_v4 Hydroxyethylthiazole kinase 2	0.103	248	203	61	308	15	241	2.040E-04	103
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q24XQ1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q24XQ1-F1-model_v4 Hydroxyethylthiazole kinase	0.137	267	216	43	309	2	252	1.887E-03	93
+LOKIASV2_1485_ESMFold_ribokinase	AF-C0QAT7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C0QAT7-F1-model_v4 Hydroxyethylthiazole kinase	0.132	273	234	43	313	22	294	1.887E-03	91
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q39T49-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q39T49-F1-model_v4 Lipid-A-disaccharide synthase	0.131	196	131	1	196	3	154	8.650E-03	74
+LOKIASV2_1485_ESMFold_ribokinase	AF-O51752-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O51752-F1-model_v4 Coenzyme A biosynthesis bifunctional protein CoaBC	0.113	238	165	5	242	187	373	9.348E-04	70
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4T3E7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4T3E7-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	8.005E-02	64
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q31TC7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q31TC7-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	9.542E-02	63
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4TFD0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4TFD0-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	8.999E-02	63
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7NGD0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7NGD0-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.137E-01	62
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9N512-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9N512-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.073E-01	62
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PJ63-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5PJ63-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.073E-01	62
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z169-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z169-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.073E-01	62
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5BKK4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5BKK4-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.073E-01	62
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q12UJ8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q12UJ8-F1-model_v4 3-dehydroquinate dehydratase	0.131	213	151	14	226	13	187	2.250E-03	62
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LLX8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LLX8-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.279E-01	61
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0SX89-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0SX89-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.356E-01	60
+LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZR73-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZR73-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.356E-01	60
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57GJ6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57GJ6-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.356E-01	60
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q83P27-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q83P27-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.438E-01	60
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MLK1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MLK1-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.438E-01	60
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5R0R3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5R0R3-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.356E-01	60
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2TY68-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2TY68-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.524E-01	59
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z2K2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z2K2-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.524E-01	59
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IT10-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IT10-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.616E-01	59
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FAI9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FAI9-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.616E-01	59
+LOKIASV2_1485_ESMFold_ribokinase	AF-P39304-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P39304-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.524E-01	59
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q46DZ7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q46DZ7-F1-model_v4 3-dehydroquinate dehydratase	0.128	223	158	4	226	13	194	6.455E-03	59
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XDI7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8XDI7-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.927E-01	58
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8A7U2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8A7U2-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.714E-01	58
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q328K1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q328K1-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.144	99	82	130	226	70	168	1.714E-01	58
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7NTQ2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7NTQ2-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.927E-01	58
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1XDU7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1XDU7-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.714E-01	58
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MT10-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MT10-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.927E-01	58
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7M8V6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7M8V6-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	1.927E-01	57
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZV66-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZV66-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	2.166E-01	57
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PXE7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PXE7-F1-model_v4 3-dehydroquinate dehydratase	0.159	182	143	45	226	24	194	8.158E-03	57
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YUF2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YUF2-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	2.297E-01	56
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8THC4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8THC4-F1-model_v4 3-dehydroquinate dehydratase	0.146	213	155	14	226	12	194	1.031E-02	56
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6T4L2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6T4L2-F1-model_v4 3-dehydroquinate dehydratase	0.113	268	195	44	311	31	251	1.465E-02	56
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q75BA5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q75BA5-F1-model_v4 Chitobiosyldiphosphodolichol beta-mannosyltransferase	0.097	229	172	2	230	60	251	3.739E-02	55
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GJ99-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GJ99-F1-model_v4 3-hexulose-6-phosphate synthase	0.117	281	181	5	285	2	207	1.303E-02	54
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LCQ5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LCQ5-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.153	99	81	130	226	70	168	2.903E-01	54
+LOKIASV2_1485_ESMFold_ribokinase	AF-P37678-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P37678-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase SgbH	0.121	102	85	130	227	70	171	3.890E-01	54
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0PYE7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0PYE7-F1-model_v4 3-dehydroquinate dehydratase	0.111	267	195	44	310	30	249	1.852E-02	54
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7A774-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7A774-F1-model_v4 3-hexulose-6-phosphate synthase	0.120	281	180	5	285	2	207	1.229E-02	53
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q99W39-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q99W39-F1-model_v4 3-hexulose-6-phosphate synthase	0.120	281	180	5	285	2	207	1.303E-02	52
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2G0K7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2G0K7-F1-model_v4 3-hexulose-6-phosphate synthase	0.146	223	159	5	227	2	188	1.303E-02	52
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2IL69-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2IL69-F1-model_v4 Lipid-A-disaccharide synthase	0.131	143	105	45	187	25	146	8.005E-02	52
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3JAC1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3JAC1-F1-model_v4 Lipid-A-disaccharide synthase	0.131	187	123	1	187	1	143	2.631E-02	52
+LOKIASV2_1485_ESMFold_ribokinase	AF-O29333-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O29333-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.134	188	149	119	306	8	180	3.137E-02	51
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2FJ70-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2FJ70-F1-model_v4 3-hexulose-6-phosphate synthase	0.141	223	160	5	227	2	188	2.631E-02	51
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HIA5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HIA5-F1-model_v4 3-hexulose-6-phosphate synthase	0.142	223	160	5	227	2	188	2.082E-02	51
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2YS94-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2YS94-F1-model_v4 3-hexulose-6-phosphate synthase	0.141	223	160	5	227	2	188	2.082E-02	51
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q46GE2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q46GE2-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.095	269	184	43	311	18	221	2.341E-02	51
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8MJ87-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8MJ87-F1-model_v4 3-dehydroquinate dehydratase	0.114	265	194	46	310	31	250	1.382E-02	51
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q49VB7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q49VB7-F1-model_v4 3-hexulose-6-phosphate synthase 3	0.133	223	161	5	227	2	188	3.526E-02	50
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57700-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57700-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.111	208	143	17	224	4	165	2.082E-02	50
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TS37-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TS37-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.095	269	184	43	311	18	221	2.208E-02	50
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5Y1W9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5Y1W9-F1-model_v4 3-dehydroquinate dehydratase	0.116	268	194	44	311	31	251	2.790E-02	50
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q321F0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q321F0-F1-model_v4 3-dehydroquinate dehydratase	0.109	307	208	4	310	15	249	4.457E-02	50
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8GGX9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8GGX9-F1-model_v4 Bifunctional enzyme Fae/Hps	0.104	226	170	4	229	172	362	6.844E-03	50
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GBR7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GBR7-F1-model_v4 3-hexulose-6-phosphate synthase	0.120	281	180	5	285	2	207	2.208E-02	49
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4RLX9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4RLX9-F1-model_v4 3-dehydroquinate dehydratase	0.117	310	208	1	310	14	249	5.313E-02	49
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1XY49-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1XY49-F1-model_v4 Tryptophan synthase alpha chain	0.098	303	226	4	306	16	266	2.082E-02	49
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7I6C9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7I6C9-F1-model_v4 Bifunctional enzyme Fae/Hps	0.114	176	131	47	222	186	334	5.011E-02	49
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1ABN0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1ABN0-F1-model_v4 3-dehydroquinate dehydratase	0.111	223	168	4	226	15	204	4.204E-02	47
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57PS8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57PS8-F1-model_v4 3-dehydroquinate dehydratase	0.107	307	209	4	310	15	249	5.011E-02	47
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q88SD8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q88SD8-F1-model_v4 3-dehydroquinate dehydratase	0.125	267	193	47	313	32	252	8.999E-02	47
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1D393-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1D393-F1-model_v4 Lipid-A-disaccharide synthase	0.088	196	138	1	196	1	152	1.927E-01	47
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6ALW0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6ALW0-F1-model_v4 Lipid-A-disaccharide synthase	0.090	211	166	2	212	7	189	8.005E-02	47
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9INR9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9INR9-F1-model_v4 Lipid-A-disaccharide synthase	0.092	219	140	4	222	2	156	2.435E-01	47
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q65JU4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q65JU4-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.107	148	125	122	269	15	155	1.616E-01	46
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NXX1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NXX1-F1-model_v4 3-hexulose-6-phosphate synthase	0.149	223	158	5	227	2	188	4.726E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q49WT0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q49WT0-F1-model_v4 3-hexulose-6-phosphate synthase 2	0.125	218	140	5	222	2	162	6.715E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q977X5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q977X5-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.091	269	185	43	311	12	215	5.634E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5F3B2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5F3B2-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.112	226	148	1	226	1	168	7.550E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6I2A1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6I2A1-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.108	226	149	1	226	1	168	6.333E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9Z8Z9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9Z8Z9-F1-model_v4 Ribulose-phosphate 3-epimerase	0.131	173	125	45	217	22	166	1.356E-01	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZYF5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZYF5-F1-model_v4 3-dehydroquinate dehydratase	0.106	223	169	4	226	15	204	7.120E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IQ63-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IQ63-F1-model_v4 3-dehydroquinate dehydratase	0.106	223	169	4	226	15	204	5.973E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4UHR6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4UHR6-F1-model_v4 Lipid-A-disaccharide synthase	0.108	143	108	45	187	25	146	2.738E-01	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2FQ74-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2FQ74-F1-model_v4 Bifunctional enzyme Fae/Hps	0.098	226	171	4	229	172	362	1.747E-02	45
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CQ69-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CQ69-F1-model_v4 3-hexulose-6-phosphate synthase	0.141	223	160	5	227	2	188	8.999E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HRH7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5HRH7-F1-model_v4 3-hexulose-6-phosphate synthase	0.145	223	159	5	227	2	188	7.550E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4L3P8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4L3P8-F1-model_v4 3-hexulose-6-phosphate synthase	0.132	222	141	5	226	2	164	6.333E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4TT28-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4TT28-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.112	226	148	1	226	1	168	8.488E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5R9E3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5R9E3-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.112	226	148	1	226	1	168	8.999E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LZM2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6LZM2-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.104	209	142	5	213	7	166	2.631E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9A6C3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9A6C3-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.109	198	143	1	198	1	162	3.739E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PV88-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PV88-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.100	295	192	17	311	7	220	5.313E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q186A6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q186A6-F1-model_v4 3-dehydroquinate dehydratase	0.142	196	140	115	310	87	250	1.279E-01	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-A9VI98-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A9VI98-F1-model_v4 Uroporphyrinogen decarboxylase	0.082	132	87	123	218	177	308	2.903E-01	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5YTA5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5YTA5-F1-model_v4 Uroporphyrinogen decarboxylase	0.109	114	74	134	217	202	315	1.356E-01	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1VWH6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1VWH6-F1-model_v4 Uroporphyrinogen decarboxylase	0.120	143	91	124	227	198	340	1.073E-01	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8THA9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8THA9-F1-model_v4 Bifunctional enzyme Fae/Hps	0.084	224	171	1	224	169	356	2.482E-02	44
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q49WT7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q49WT7-F1-model_v4 3-hexulose-6-phosphate synthase 1	0.119	281	181	5	285	2	207	6.715E-02	43
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0T9J7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0T9J7-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.112	226	148	1	226	1	168	1.012E-01	43
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5F8N0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5F8N0-F1-model_v4 3-dehydroquinate dehydratase	0.105	310	210	1	310	14	249	1.356E-01	43
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9JTR9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9JTR9-F1-model_v4 3-dehydroquinate dehydratase	0.119	310	207	1	310	14	249	1.137E-01	43
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5FS97-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5FS97-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.112	226	148	1	226	1	168	1.206E-01	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-O31642-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O31642-F1-model_v4 Uncharacterized oxidoreductase YjdA	0.085	219	166	2	220	4	185	9.542E-02	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5YPY0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5YPY0-F1-model_v4 3-dehydroquinate dehydratase	0.106	223	169	4	226	15	204	8.999E-02	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Y9N4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Y9N4-F1-model_v4 3-dehydroquinate dehydratase	0.116	222	163	126	310	27	248	8.488E-02	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6IBD3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6IBD3-F1-model_v4 3-dehydroquinate dehydratase	0.102	223	170	4	226	15	204	8.999E-02	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q65M66-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q65M66-F1-model_v4 3-dehydroquinate dehydratase	0.144	267	188	44	310	30	250	1.073E-01	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5WKM9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5WKM9-F1-model_v4 3-dehydroquinate dehydratase	0.106	266	195	44	309	30	248	1.616E-01	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PXE1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PXE1-F1-model_v4 Bifunctional enzyme Fae/Hps	0.090	221	167	4	224	172	356	2.790E-02	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0W644-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0W644-F1-model_v4 Bifunctional enzyme Fae/Hps	0.092	290	197	1	290	169	386	2.790E-02	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2NE86-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2NE86-F1-model_v4 Bifunctional enzyme Fae/Hps	0.096	227	179	3	229	174	372	2.482E-02	42
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3A6G9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3A6G9-F1-model_v4 Putative 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.128	160	119	61	220	3	140	3.078E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-P42405-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P42405-F1-model_v4 3-hexulose-6-phosphate synthase	0.119	183	152	45	227	16	188	1.817E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7UQK5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7UQK5-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.102	226	150	1	226	1	168	1.438E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VAP8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7VAP8-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.134	176	122	121	296	18	159	3.078E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1KUQ1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1KUQ1-F1-model_v4 3-dehydroquinate dehydratase	0.120	310	207	1	310	14	249	1.137E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2TQ57-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2TQ57-F1-model_v4 3-dehydroquinate dehydratase	0.113	190	139	121	310	93	250	1.616E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q21VV5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q21VV5-F1-model_v4 3-dehydroquinate dehydratase	0.132	266	188	45	310	36	253	1.438E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q31PU7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q31PU7-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.106	317	275	2	310	13	329	4.726E-02	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-A6T4Y4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A6T4Y4-F1-model_v4 Lipid-A-disaccharide synthase	0.086	196	140	1	196	1	154	6.214E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0PQ21-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0PQ21-F1-model_v4 Trans-acting enoyl reductase	0.079	124	84	43	166	19	110	6.986E-01	41
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q48907-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q48907-F1-model_v4 3-hexulose-6-phosphate synthase	0.115	209	142	14	222	2	163	2.903E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZK87-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8ZK87-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.112	226	148	1	226	1	168	1.817E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-P36923-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P36923-F1-model_v4 3-dehydroquinate dehydratase	0.095	299	213	12	310	14	249	1.616E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9JYT0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9JYT0-F1-model_v4 3-dehydroquinate dehydratase	0.136	158	127	68	225	58	205	1.524E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-P73191-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P73191-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.102	230	199	4	226	3	232	6.333E-02	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7Z323-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7Z323-F1-model_v4 Uroporphyrinogen decarboxylase	0.109	132	85	123	218	179	310	1.817E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8JE78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8JE78-F1-model_v4 Lipid-A-disaccharide synthase	0.130	143	105	45	187	25	146	4.917E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8A861-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8A861-F1-model_v4 L-Ala-D/L-Glu epimerase	0.098	180	128	47	226	184	326	5.213E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q12UK3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q12UK3-F1-model_v4 Bifunctional enzyme Fae/Hps	0.079	226	178	4	229	172	365	2.790E-02	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q04855-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q04855-F1-model_v4 Uncharacterized protein AZC_3085	0.110	180	126	43	222	546	688	2.166E-01	40
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q30XT2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q30XT2-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.078	229	198	1	229	1	216	7.120E-02	39
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2LQ82-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2LQ82-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.080	195	170	121	306	22	216	4.125E-01	39
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q59087-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q59087-F1-model_v4 Catabolic 3-dehydroquinate dehydratase	0.107	313	213	1	313	32	271	2.166E-01	39
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7JDM6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7JDM6-F1-model_v4 Uroporphyrinogen decarboxylase	0.106	137	86	122	218	172	308	2.903E-01	39
+LOKIASV2_1485_ESMFold_ribokinase	AF-C0ZYX0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C0ZYX0-F1-model_v4 Uroporphyrinogen decarboxylase	0.137	111	71	136	218	207	317	3.078E-01	39
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q46DY5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q46DY5-F1-model_v4 Bifunctional enzyme Fae/Hps	0.083	221	169	4	224	172	356	5.973E-02	39
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0B7U9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0B7U9-F1-model_v4 Bifunctional enzyme Fae/Hps	0.093	226	171	4	229	172	361	3.526E-02	39
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1APM0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1APM0-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.090	144	92	121	222	17	160	7.408E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7V5Y2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7V5Y2-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.112	165	123	121	285	18	156	6.986E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3A2I0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3A2I0-F1-model_v4 3-dehydroquinate dehydratase	0.123	158	126	69	226	60	204	2.903E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7Z2G6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7Z2G6-F1-model_v4 3-dehydroquinate dehydratase	0.110	267	195	44	310	30	249	3.263E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5P8W0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5P8W0-F1-model_v4 3-dehydroquinate dehydratase	0.120	212	151	99	310	81	253	4.125E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q73C99-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q73C99-F1-model_v4 Uroporphyrinogen decarboxylase	0.086	132	87	123	218	177	308	2.903E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7IKE2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7IKE2-F1-model_v4 Uroporphyrinogen decarboxylase	0.087	132	87	123	218	177	308	3.460E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5R421-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5R421-F1-model_v4 Lipid-A-disaccharide synthase	0.096	219	166	2	220	4	188	3.890E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-O27518-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O27518-F1-model_v4 Bifunctional enzyme Fae/Hps	0.101	227	181	3	229	171	372	5.313E-02	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9GZE9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9GZE9-F1-model_v4 Lipid droplet localized protein	0.127	224	121	1	224	1	140	4.125E-01	38
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1LQL6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1LQL6-F1-model_v4 3-keto-L-gulonate-6-phosphate decarboxylase UlaD	0.110	226	149	1	226	1	168	4.637E-01	37
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5N4D1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5N4D1-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.105	316	275	3	310	14	329	8.999E-02	37
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q81GW6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q81GW6-F1-model_v4 Uroporphyrinogen decarboxylase	0.087	132	87	123	218	177	308	4.125E-01	37
+LOKIASV2_1485_ESMFold_ribokinase	AF-P10441-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P10441-F1-model_v4 Lipid-A-disaccharide synthase	0.108	220	167	1	220	1	188	2.903E-01	37
+LOKIASV2_1485_ESMFold_ribokinase	AF-P32701-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P32701-F1-model_v4 Probable cyclic di-GMP phosphodiesterase PdeC	0.084	180	122	45	224	345	478	5.213E-01	37
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WM13-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WM13-F1-model_v4 Uncharacterized protein Rv1354c	0.088	180	130	43	222	422	565	2.903E-01	37
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q12X87-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q12X87-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.111	170	112	123	292	17	143	2.738E-01	36
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q38X91-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q38X91-F1-model_v4 3-dehydroquinate dehydratase	0.116	186	147	59	225	9	194	2.903E-01	36
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4IKU7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4IKU7-F1-model_v4 Uroporphyrinogen decarboxylase	0.115	132	84	123	218	177	308	2.903E-01	36
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7HGF9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7HGF9-F1-model_v4 Uroporphyrinogen decarboxylase	0.088	170	140	123	276	177	346	1.524E-01	36
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q57T26-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q57T26-F1-model_v4 Lipid-A-disaccharide synthase	0.086	219	168	2	220	4	188	7.854E-01	36
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5F8U3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5F8U3-F1-model_v4 Lipid-A-disaccharide synthase	0.096	219	166	2	220	4	188	6.214E-01	36
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1XD51-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1XD51-F1-model_v4 Lipid-A-disaccharide synthase	0.104	220	168	1	220	1	188	3.669E-01	36
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4UGH8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4UGH8-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.108	184	162	123	306	17	199	5.528E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q92J79-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q92J79-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.109	225	188	59	270	1	225	1.714E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-P35146-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P35146-F1-model_v4 3-dehydroquinate dehydratase	0.107	266	195	44	309	30	248	4.373E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8FBM5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8FBM5-F1-model_v4 Uroporphyrinogen decarboxylase	0.097	139	88	120	218	172	310	4.917E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8YEE8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8YEE8-F1-model_v4 Leu/Ile/Val-binding protein homolog 3	0.074	314	288	1	312	20	333	5.313E-02	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1LGY4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1LGY4-F1-model_v4 Lipid-A-disaccharide synthase	0.079	196	141	1	196	1	154	8.830E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZRS4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C4ZRS4-F1-model_v4 Lipid-A-disaccharide synthase	0.104	220	168	1	220	1	188	4.373E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IQF9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IQF9-F1-model_v4 Lipid-A-disaccharide synthase	0.098	220	169	1	220	1	188	5.861E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z9A1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8Z9A1-F1-model_v4 Lipid-A-disaccharide synthase	0.090	219	167	2	220	4	188	8.328E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5RHG7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5RHG7-F1-model_v4 Lipid-A-disaccharide synthase	0.096	219	166	2	220	4	188	6.986E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-P76446-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P76446-F1-model_v4 Probable cyclic di-GMP phosphodiesterase PdeN	0.064	176	124	45	220	336	469	4.917E-01	35
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q1QVK2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q1QVK2-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.090	313	214	1	313	1	236	2.297E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3AC06-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3AC06-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.093	216	168	123	308	15	230	3.460E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3MCR5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3MCR5-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.093	231	200	4	225	24	254	2.738E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q81U23-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q81U23-F1-model_v4 Uroporphyrinogen decarboxylase	0.109	121	82	126	218	188	308	7.854E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8G3D4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8G3D4-F1-model_v4 Leu/Ile/Val-binding protein homolog 3	0.074	314	288	1	312	20	333	5.011E-02	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q47F79-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q47F79-F1-model_v4 Lipid-A-disaccharide synthase	0.094	220	168	1	220	1	186	7.854E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7N849-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7N849-F1-model_v4 Lipid-A-disaccharide synthase	0.104	220	168	1	220	1	188	4.917E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FL07-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FL07-F1-model_v4 Lipid-A-disaccharide synthase	0.100	220	168	1	220	1	188	4.637E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7NVY1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7NVY1-F1-model_v4 Lipid-A-disaccharide synthase	0.098	220	170	1	220	4	193	4.373E-01	34
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2N9N4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2N9N4-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.098	136	89	123	222	15	150	7.854E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q2IGK0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q2IGK0-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.108	136	88	123	222	17	152	1.255E+00	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7NIT2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7NIT2-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.111	232	198	3	226	2	233	4.373E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q63ES5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q63ES5-F1-model_v4 Uroporphyrinogen decarboxylase	0.095	170	138	123	276	177	346	3.263E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7GM02-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7GM02-F1-model_v4 Uroporphyrinogen decarboxylase	0.101	169	137	123	275	177	345	3.078E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6HM98-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6HM98-F1-model_v4 Uroporphyrinogen decarboxylase	0.096	170	138	123	276	177	346	3.890E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-B6JM91-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B6JM91-F1-model_v4 Lipid-A-disaccharide synthase	0.107	155	132	61	209	2	156	6.589E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-P30852-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P30852-F1-model_v4 Protein Smf	0.104	213	162	4	216	107	288	1.330E+00	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3Z5H6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3Z5H6-F1-model_v4 Lipid-A-disaccharide synthase	0.094	220	169	1	220	1	188	6.589E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z0G1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B5Z0G1-F1-model_v4 Lipid-A-disaccharide synthase	0.099	220	168	1	220	1	188	9.927E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3CUG8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3CUG8-F1-model_v4 Bifunctional enzyme Fae/Hps	0.070	229	179	1	229	169	362	1.817E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-P77334-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P77334-F1-model_v4 Cyclic di-GMP phosphodiesterase PdeR	0.104	178	120	47	224	482	616	8.328E-01	33
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q4S2L4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q4S2L4-F1-model_v4 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.166	47	38	120	166	51	97	9.187E+00	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LBW4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9LBW4-F1-model_v4 3-hexulose-6-phosphate synthase	0.087	213	171	17	229	2	189	7.854E-01	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8J9L8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8J9L8-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.115	136	88	123	222	17	152	1.783E+00	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3M508-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3M508-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.080	180	126	43	222	19	156	4.637E-01	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DPI7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8DPI7-F1-model_v4 DNA processing protein DprA	0.087	207	158	3	209	105	278	8.830E-01	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9KDL0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9KDL0-F1-model_v4 Uroporphyrinogen decarboxylase	0.111	139	87	120	218	169	307	4.637E-01	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0RAS3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0RAS3-F1-model_v4 Uroporphyrinogen decarboxylase	0.096	169	137	123	275	177	345	4.637E-01	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZWC8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7ZWC8-F1-model_v4 Lipid-A-disaccharide synthase	0.082	220	172	1	220	1	188	1.183E+00	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-O53176-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O53176-F1-model_v4 Putative trans-acting enoyl reductase Rv2449c	0.104	123	81	44	166	20	110	2.686E+00	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8R127-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8R127-F1-model_v4 Saccharopine dehydrogenase-like oxidoreductase	0.113	223	129	2	224	5	150	8.830E-01	32
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7HZJ8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7HZJ8-F1-model_v4 Uroporphyrinogen decarboxylase	0.083	137	88	122	218	172	308	6.214E-01	31
+LOKIASV2_1485_ESMFold_ribokinase	AF-B4TK57-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B4TK57-F1-model_v4 Lipid-A-disaccharide synthase	0.091	220	170	1	220	1	188	8.830E-01	31
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4W6S7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4W6S7-F1-model_v4 Lipid-A-disaccharide synthase	0.086	219	168	2	220	4	188	9.927E-01	31
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5U6W1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5U6W1-F1-model_v4 Trans-acting enoyl reductase	0.089	242	175	43	284	19	211	9.363E-01	31
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WGV4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WGV4-F1-model_v4 Trans-acting enoyl reductase	0.082	242	176	43	284	19	211	9.927E-01	31
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q55434-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q55434-F1-model_v4 Phytochrome-like protein cph2	0.084	204	176	12	215	622	814	3.460E-01	31
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7LW61-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7LW61-F1-model_v4 Lipid-A-disaccharide synthase	0.097	220	169	1	220	1	188	1.255E+00	30
+LOKIASV2_1485_ESMFold_ribokinase	AF-B7MP42-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B7MP42-F1-model_v4 Lipid-A-disaccharide synthase	0.078	196	141	1	196	1	154	1.496E+00	30
+LOKIASV2_1485_ESMFold_ribokinase	AF-A0A098D6U0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A0A098D6U0-F1-model_v4 Non-reducing polyketide synthase ZEA1	0.135	59	47	123	177	307	365	6.465E+00	30
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q493B0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q493B0-F1-model_v4 3-dehydroquinate dehydratase	0.064	166	94	1	166	1	101	8.830E-01	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q46CC9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q46CC9-F1-model_v4 Putative 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.145	113	86	61	173	24	124	2.389E+00	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8YR77-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8YR77-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.102	228	196	8	226	26	253	1.330E+00	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2VHX9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2VHX9-F1-model_v4 Lipid-A-disaccharide synthase	0.077	196	140	1	196	1	153	2.533E+00	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NBX0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8NBX0-F1-model_v4 Saccharopine dehydrogenase-like oxidoreductase	0.105	165	105	2	166	5	122	1.682E+00	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-D4ATC3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-D4ATC3-F1-model_v4 1,3-beta-glucanosyltransferase ARB_07487	0.131	129	90	122	226	84	212	2.389E+00	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HYT3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9HYT3-F1-model_v4 Uncharacterized signaling protein PA3311	0.075	179	130	44	222	586	726	9.363E-01	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ABX9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9ABX9-F1-model_v4 Uncharacterized signaling protein CC_0091	0.070	179	126	44	222	615	751	1.116E+00	29
+LOKIASV2_1485_ESMFold_ribokinase	AF-A3CWL4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A3CWL4-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.118	240	194	5	225	3	242	1.330E+00	28
+LOKIASV2_1485_ESMFold_ribokinase	AF-P32395-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P32395-F1-model_v4 Uroporphyrinogen decarboxylase	0.095	139	89	120	218	172	310	7.854E-01	28
+LOKIASV2_1485_ESMFold_ribokinase	AF-P43862-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P43862-F1-model_v4 DNA-processing protein A	0.100	169	134	4	172	110	259	2.686E+00	28
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7D745-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7D745-F1-model_v4 Putative trans-acting enoyl reductase MT2525	0.086	166	100	1	166	1	110	4.550E+00	28
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q12175-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q12175-F1-model_v4 MutS protein homolog 5	0.134	94	69	124	217	103	183	1.116E+00	28
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q31II2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q31II2-F1-model_v4 3-dehydroquinate dehydratase	0.095	163	87	4	166	2	98	8.830E-01	27
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YSH4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q3YSH4-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.088	209	164	128	308	16	224	1.586E+00	27
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0AXG7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0AXG7-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.055	222	175	123	308	17	238	2.125E+00	27
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8A556-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8A556-F1-model_v4 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.137	101	79	116	216	46	138	4.291E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TTA0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8TTA0-F1-model_v4 Putative 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.134	157	114	61	217	28	160	2.125E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-O43598-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O43598-F1-model_v4 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.097	81	50	122	202	73	128	6.855E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-C6BZZ8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C6BZZ8-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.102	226	188	4	229	2	211	7.854E-01	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q58842-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q58842-F1-model_v4 Bifunctional enzyme Fae/Hps	0.075	202	137	2	203	159	307	1.255E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-O33949-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O33949-F1-model_v4 Muconate cycloisomerase 1-2	0.106	271	204	43	313	151	379	1.890E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7N8N4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7N8N4-F1-model_v4 Lipid-A-disaccharide synthase	0.074	194	138	3	196	11	160	4.291E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-B0XT72-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B0XT72-F1-model_v4 1,3-beta-glucanosyltransferase gel1	0.137	72	58	127	198	74	141	2.125E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0C7S9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0C7S9-F1-model_v4 1,3-beta-glucanosyltransferase gel1	0.101	124	89	127	226	74	197	2.533E+00	26
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q30SR5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q30SR5-F1-model_v4 3-dehydroquinate dehydratase	0.088	106	86	61	166	3	97	2.253E+00	25
+LOKIASV2_1485_ESMFold_ribokinase	AF-O34311-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-O34311-F1-model_v4 Signaling protein YkoW	0.103	189	166	125	313	615	800	5.213E-01	25
+LOKIASV2_1485_ESMFold_ribokinase	AF-B3SAE4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B3SAE4-F1-model_v4 Putative 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.123	106	79	61	166	6	96	3.600E+00	24
+LOKIASV2_1485_ESMFold_ribokinase	AF-P57479-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P57479-F1-model_v4 3-dehydroquinate dehydratase	0.081	166	92	1	166	1	101	2.686E+00	24
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PW97-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8PW97-F1-model_v4 Putative 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.144	156	112	61	216	26	157	4.047E+00	24
+LOKIASV2_1485_ESMFold_ribokinase	AF-A5G5A2-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A5G5A2-F1-model_v4 Orotidine 5'-phosphate decarboxylase	0.046	222	176	127	312	20	241	1.682E+00	24
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9USU5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9USU5-F1-model_v4 1,3-beta-glucanosyltransferase gas2	0.132	181	143	119	299	59	224	5.861E-01	24
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9FGT7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9FGT7-F1-model_v4 Two-component response regulator ARR18	0.090	252	207	59	310	18	245	1.183E+00	24
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6MD85-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6MD85-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.081	190	141	124	313	52	205	1.783E+00	24
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q03655-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q03655-F1-model_v4 Probable 1,3-beta-glucanosyltransferase GAS3	0.101	109	79	126	214	80	188	4.550E+00	23
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q03899-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q03899-F1-model_v4 F-box protein YDR131C	0.083	157	139	61	217	41	193	3.395E+00	23
+LOKIASV2_1485_ESMFold_ribokinase	AF-P0CI61-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P0CI61-F1-model_v4 Catabolic 3-dehydroquinase	0.085	106	86	61	166	4	98	4.047E+00	21
+LOKIASV2_1485_ESMFold_ribokinase	AF-P05147-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P05147-F1-model_v4 Catabolic 3-dehydroquinase	0.084	163	89	4	166	2	99	8.172E+00	21
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7IAK4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7IAK4-F1-model_v4 50S ribosomal protein L1	0.108	181	135	61	241	61	212	1.330E+00	21
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CQE3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8CQE3-F1-model_v4 Uncharacterized response regulatory protein SE_0165	0.089	250	213	61	310	4	238	4.047E+00	21
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5QY78-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5QY78-F1-model_v4 Type III pantothenate kinase	0.110	203	159	100	279	14	216	4.637E-01	21
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6YJI5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6YJI5-F1-model_v4 tRNA (guanine(10)-N2)-methyltransferase homolog	0.085	260	149	61	224	111	370	3.078E-01	21
+LOKIASV2_1485_ESMFold_ribokinase	AF-A2RMM5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A2RMM5-F1-model_v4 UDP-N-acetylmuramyl-tripeptide synthetase	0.083	279	199	3	281	108	325	5.115E+00	21
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q12UY1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q12UY1-F1-model_v4 Putative 2'-deoxynucleoside 5'-phosphate N-hydrolase 1	0.128	106	81	61	166	3	96	8.664E+00	20
+LOKIASV2_1485_ESMFold_ribokinase	AF-B8E0Z3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B8E0Z3-F1-model_v4 3-dehydroquinate dehydratase	0.110	106	83	61	166	5	98	6.465E+00	20
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q11A09-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q11A09-F1-model_v4 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase	0.126	194	164	1	189	1	194	2.389E+00	20
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q566V3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q566V3-F1-model_v4 rRNA methyltransferase 3A, mitochondrial	0.126	182	140	45	205	147	328	1.438E-01	20
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7GA85-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7GA85-F1-model_v4 UPF0371 protein CLI_0399	0.109	208	166	123	309	94	301	1.116E+00	20
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1IEY8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1IEY8-F1-model_v4 UPF0371 protein CLD_0424	0.109	208	166	123	309	94	301	9.927E-01	20
+LOKIASV2_1485_ESMFold_ribokinase	AF-A1CPW7-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A1CPW7-F1-model_v4 Catabolic 3-dehydroquinase	0.082	163	89	4	166	2	99	6.098E+00	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1A4E4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1A4E4-F1-model_v4 3-dehydroquinate dehydratase	0.103	106	84	61	166	3	97	6.465E+00	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0D131-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0D131-F1-model_v4 Catabolic 3-dehydroquinase 1	0.076	163	90	4	166	2	99	5.424E+00	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-P59968-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P59968-F1-model_v4 Uncharacterized tRNA/rRNA methyltransferase Mb0905	0.116	226	198	47	271	54	279	9.927E-01	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WLH5-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WLH5-F1-model_v4 Bifunctional protein Rv2228c	0.113	237	177	11	247	162	361	8.830E-01	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WLH4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WLH4-F1-model_v4 Uncharacterized protein MT2287	0.102	236	178	12	247	163	361	8.830E-01	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q7Z4G4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q7Z4G4-F1-model_v4 tRNA (guanine(10)-N2)-methyltransferase homolog	0.079	149	132	61	204	110	258	5.861E-01	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-A8MJ53-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A8MJ53-F1-model_v4 UPF0371 protein Clos_2302	0.097	208	168	123	309	94	301	1.183E+00	19
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q47UY4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q47UY4-F1-model_v4 Type III pantothenate kinase	0.113	231	182	106	311	19	249	2.848E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2VBS6-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2VBS6-F1-model_v4 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	0.090	81	71	12	90	2	82	7.707E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-P9WFY3-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P9WFY3-F1-model_v4 Uncharacterized tRNA/rRNA methyltransferase Rv0881	0.094	226	203	47	271	54	279	1.183E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q5R962-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q5R962-F1-model_v4 tRNA (guanine(10)-N2)-methyltransferase homolog	0.078	133	97	61	166	110	242	1.053E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2TP27-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2TP27-F1-model_v4 UPF0371 protein CLL_A2797	0.109	208	166	123	309	94	301	1.783E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-B1KUD0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B1KUD0-F1-model_v4 UPF0371 protein CLK_3516	0.109	208	166	123	309	94	301	1.783E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-C3KZE8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C3KZE8-F1-model_v4 UPF0371 protein CLJ_B0384	0.109	208	166	123	309	94	301	1.783E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-A7FQY1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A7FQY1-F1-model_v4 UPF0371 protein CLB_0371	0.109	208	166	123	309	94	301	1.783E+00	18
+LOKIASV2_1485_ESMFold_ribokinase	AF-P64956-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-P64956-F1-model_v4 Uncharacterized protein Mb2253c	0.113	237	177	11	247	162	361	1.330E+00	17
+LOKIASV2_1485_ESMFold_ribokinase	AF-C1FRL0-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-C1FRL0-F1-model_v4 UPF0371 protein CLM_0396	0.105	208	166	123	309	94	301	2.533E+00	17
+LOKIASV2_1485_ESMFold_ribokinase	AF-B2UWS9-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-B2UWS9-F1-model_v4 UPF0371 protein CLH_2534	0.109	208	166	123	309	94	301	2.389E+00	17
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q12040-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q12040-F1-model_v4 Broad-specificity phosphatase YOR283W	0.078	83	72	12	90	15	97	4.824E+00	16
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q0C678-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q0C678-F1-model_v4 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	0.079	79	69	14	89	2	80	4.291E+00	16
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GPJ4-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q6GPJ4-F1-model_v4 rRNA methyltransferase 3, mitochondrial	0.127	180	139	47	206	123	302	1.255E+00	16
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q02X53-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q02X53-F1-model_v4 UDP-N-acetylmuramyl-tripeptide synthetase	0.091	279	197	3	281	108	325	6.855E+00	16
+LOKIASV2_1485_ESMFold_ribokinase	AF-A4QNL8-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-A4QNL8-F1-model_v4 rRNA methyltransferase 3, mitochondrial	0.103	180	144	45	206	123	302	2.253E+00	15
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CEN1-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q9CEN1-F1-model_v4 UDP-N-acetylmuramyl-tripeptide synthetase	0.133	161	116	147	281	165	325	7.269E+00	15
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q18A92-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q18A92-F1-model_v4 UPF0371 protein CD630_08980	0.121	205	161	123	306	94	298	5.115E+00	14
+LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FN87-F1-model_v4	LOKIASV2_1485_ESMFold_ribokinase	AF-Q8FN87-F1-model_v4 Gamma-glutamyl phosphate reductase	0.093	221	190	6	226	136	345	6.465E+00	13

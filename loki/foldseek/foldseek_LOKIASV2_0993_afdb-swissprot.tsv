@@ -1,0 +1,961 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9AI65-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9AI65-F1-model_v4 Alpha-glucosidase	0.418	453	251	1	433	1	453	1.457E-41	1732
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P06720-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P06720-F1-model_v4 Alpha-galactosidase	0.257	445	319	1	430	1	445	1.971E-30	1148
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P30877-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P30877-F1-model_v4 Alpha-galactosidase	0.232	445	329	1	430	1	445	5.406E-30	1136
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O34645-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O34645-F1-model_v4 Alpha-galactosidase	0.261	427	314	5	430	2	428	5.140E-30	1126
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9X4Y0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9X4Y0-F1-model_v4 Alpha-galactosidase	0.259	436	315	5	430	4	439	3.325E-29	1118
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-I3VRU1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-I3VRU1-F1-model_v4 Alpha-galacturonidase	0.233	449	327	4	430	10	458	5.430E-27	1033
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97LM4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97LM4-F1-model_v4 Maltose-6'-phosphate glucosidase MalH	0.227	439	332	4	433	3	441	8.551E-27	1009
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q034G9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q034G9-F1-model_v4 6-phospho-alpha-glucosidase 2	0.220	444	337	1	433	1	444	2.230E-26	1002
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-D3T426-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-D3T426-F1-model_v4 Alpha-galacturonidase	0.237	447	327	1	430	4	450	4.012E-27	1000
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9KTB9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9KTB9-F1-model_v4 Alpha-galacturonidase	0.221	452	334	4	433	10	461	1.648E-26	987
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03C44-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03C44-F1-model_v4 6-phospho-alpha-glucosidase 1	0.232	435	329	4	433	5	439	6.434E-26	982
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C7NB67-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C7NB67-F1-model_v4 6-phospho-alpha-glucosidase	0.239	436	326	4	432	3	438	1.917E-26	975
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O06901-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O06901-F1-model_v4 Maltose-6'-phosphate glucosidase	0.203	437	341	4	432	3	439	7.873E-26	969
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P39130-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P39130-F1-model_v4 Alpha-galacturonidase	0.229	434	325	4	425	9	442	1.157E-26	969
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P54716-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P54716-F1-model_v4 Maltose-6'-phosphate glucosidase	0.237	438	327	4	433	5	442	3.694E-26	960
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9AGA6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9AGA6-F1-model_v4 6-phospho-alpha-glucosidase	0.207	434	338	4	430	3	436	1.304E-25	958
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P46320-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P46320-F1-model_v4 Probable 6-phospho-beta-glucosidase	0.265	433	315	1	430	1	433	5.817E-26	947
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O33830-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O33830-F1-model_v4 Alpha-glucosidase	0.214	463	329	4	423	3	465	3.019E-26	940
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97DP6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97DP6-F1-model_v4 Phospho-alpha-glucosidase PagL	0.229	440	331	4	433	3	442	2.512E-25	925
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17411-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17411-F1-model_v4 6-phospho-beta-glucosidase	0.252	436	321	1	430	1	436	5.355E-25	904
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O86960-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O86960-F1-model_v4 Alpha-glucosidase	0.206	463	333	4	423	3	465	3.762E-25	901
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9X108-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9X108-F1-model_v4 6-phospho-beta-glucosidase BglT	0.237	429	316	5	433	1	415	2.169E-22	818
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P31450-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P31450-F1-model_v4 Putative inactive 6-phospho-alpha-glucosidase	0.252	200	147	4	203	3	200	5.110E-11	405
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5GT41-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5GT41-F1-model_v4 Malate dehydrogenase	0.167	390	260	1	390	1	313	2.789E-11	347
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C0R4Y0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C0R4Y0-F1-model_v4 Malate dehydrogenase	0.179	392	258	1	392	1	315	3.085E-11	344
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q73G44-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q73G44-F1-model_v4 Malate dehydrogenase	0.178	392	258	1	392	1	315	2.789E-11	343
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4IY35-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4IY35-F1-model_v4 Malate dehydrogenase	0.175	400	259	5	404	4	318	1.244E-11	338
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O26290-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O26290-F1-model_v4 Malate dehydrogenase	0.133	389	274	5	393	1	317	1.267E-10	338
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q14IT0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q14IT0-F1-model_v4 Malate dehydrogenase	0.173	400	260	5	404	4	318	1.376E-11	335
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92IA0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92IA0-F1-model_v4 Malate dehydrogenase	0.152	389	263	1	389	1	311	5.375E-11	334
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2A3K7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2A3K7-F1-model_v4 Malate dehydrogenase	0.184	400	256	5	404	4	318	2.398E-11	333
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0Q6K3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0Q6K3-F1-model_v4 Malate dehydrogenase	0.179	400	258	5	404	4	318	2.789E-11	332
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7IBL9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7IBL9-F1-model_v4 Malate dehydrogenase	0.181	393	256	1	393	1	314	3.413E-11	332
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q11CV9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q11CV9-F1-model_v4 Malate dehydrogenase	0.185	401	258	4	404	3	320	4.859E-11	330
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2W064-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2W064-F1-model_v4 Malate dehydrogenase	0.159	390	263	4	393	3	316	5.375E-11	329
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q57AX1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q57AX1-F1-model_v4 Malate dehydrogenase	0.172	403	263	1	403	1	319	5.945E-11	328
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2SH29-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2SH29-F1-model_v4 Malate dehydrogenase	0.181	400	257	5	404	4	318	4.392E-11	327
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1LZN1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1LZN1-F1-model_v4 Malate dehydrogenase	0.158	395	266	4	398	3	319	6.253E-11	326
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7KVX2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7KVX2-F1-model_v4 Malate dehydrogenase	0.153	395	268	4	398	3	319	8.047E-11	324
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1QQR2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1QQR2-F1-model_v4 Malate dehydrogenase	0.176	403	263	1	403	1	320	4.392E-11	324
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PHY2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PHY2-F1-model_v4 Probable malate dehydrogenase	0.146	376	248	5	380	1	291	6.698E-10	323
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2GGI2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2GGI2-F1-model_v4 Malate dehydrogenase	0.175	389	256	1	389	1	311	1.551E-10	323
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8GNM0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8GNM0-F1-model_v4 Malate dehydrogenase	0.187	400	255	5	404	4	318	1.863E-11	323
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8LJK6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8LJK6-F1-model_v4 Malate dehydrogenase	0.171	393	259	1	393	1	314	9.362E-11	323
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-D9PVI7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-D9PVI7-F1-model_v4 Malate dehydrogenase	0.125	389	277	5	393	1	317	2.322E-10	322
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4FP28-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4FP28-F1-model_v4 Malate dehydrogenase	0.178	409	261	5	413	2	319	4.392E-11	321
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3IZ83-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3IZ83-F1-model_v4 Malate dehydrogenase	0.174	398	263	1	398	1	319	6.917E-11	321
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8ILC6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8ILC6-F1-model_v4 Malate dehydrogenase	0.171	404	264	1	404	1	320	1.036E-10	321
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q20XN0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q20XN0-F1-model_v4 Malate dehydrogenase 2	0.154	401	266	5	405	4	318	9.362E-11	320
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2NGI3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2NGI3-F1-model_v4 Malate dehydrogenase	0.123	389	272	5	393	2	312	1.055E-09	319
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3PN14-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3PN14-F1-model_v4 Malate dehydrogenase	0.174	398	263	1	398	1	319	8.047E-11	319
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3PN92-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3PN92-F1-model_v4 Malate dehydrogenase	0.149	389	264	1	389	1	311	3.476E-10	317
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7NC13-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7NC13-F1-model_v4 Malate dehydrogenase	0.193	400	253	5	404	4	318	2.061E-11	317
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0TZT2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0TZT2-F1-model_v4 Malate dehydrogenase	0.178	400	258	5	404	4	318	6.577E-11	317
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9W386-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9W386-F1-model_v4 Malate dehydrogenase	0.164	398	266	1	398	1	319	1.402E-10	317
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3SVK5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3SVK5-F1-model_v4 Malate dehydrogenase	0.180	400	260	4	403	3	320	7.651E-11	317
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8EZ58-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8EZ58-F1-model_v4 Malate dehydrogenase	0.163	391	261	1	391	1	313	1.333E-10	316
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2RV34-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2RV34-F1-model_v4 Malate dehydrogenase	0.153	390	263	4	393	3	314	1.996E-10	316
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1RIT9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1RIT9-F1-model_v4 Malate dehydrogenase	0.163	390	260	1	390	1	312	2.701E-10	315
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C0RFH2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C0RFH2-F1-model_v4 Malate dehydrogenase	0.171	400	262	4	403	3	319	1.804E-10	315
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6UDP3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6UDP3-F1-model_v4 Malate dehydrogenase	0.168	400	263	4	403	3	319	1.631E-10	315
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6L903-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6L903-F1-model_v4 Malate dehydrogenase	0.147	389	262	5	393	2	309	9.847E-11	314
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HBC0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HBC0-F1-model_v4 Malate dehydrogenase	0.174	389	256	1	389	1	311	1.631E-10	314
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7SI97-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7SI97-F1-model_v4 L-lactate dehydrogenase	0.149	389	266	1	389	1	314	4.705E-10	314
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5E935-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5E935-F1-model_v4 Malate dehydrogenase	0.178	399	260	5	403	4	320	8.902E-11	314
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9KNB4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9KNB4-F1-model_v4 Malate dehydrogenase	0.174	398	263	1	398	1	319	1.474E-10	313
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0UCF0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0UCF0-F1-model_v4 Malate dehydrogenase	0.165	399	263	5	403	4	319	1.267E-10	313
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5FHP3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5FHP3-F1-model_v4 Malate dehydrogenase	0.137	389	265	5	393	1	308	3.656E-10	312
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GN82-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GN82-F1-model_v4 Malate dehydrogenase	0.164	389	259	1	389	1	311	4.473E-10	311
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0BXA8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0BXA8-F1-model_v4 Malate dehydrogenase	0.156	389	262	1	389	1	311	2.207E-10	311
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2S881-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2S881-F1-model_v4 Malate dehydrogenase	0.168	400	263	4	403	3	319	2.322E-10	311
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2J3G8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2J3G8-F1-model_v4 Malate dehydrogenase	0.184	400	259	4	403	3	320	1.474E-10	311
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4YKC5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4YKC5-F1-model_v4 Malate dehydrogenase	0.179	399	259	5	403	4	320	1.146E-10	311
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3QSH8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3QSH8-F1-model_v4 Malate dehydrogenase	0.153	389	259	5	393	1	307	1.579E-09	310
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9JTS9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9JTS9-F1-model_v4 Malate dehydrogenase	0.173	400	261	4	403	3	319	3.476E-10	310
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6WXE7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6WXE7-F1-model_v4 Malate dehydrogenase	0.171	403	264	1	403	1	319	1.996E-10	310
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F6M1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F6M1-F1-model_v4 L-lactate dehydrogenase	0.150	389	257	5	393	1	303	5.204E-10	309
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8A0W0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8A0W0-F1-model_v4 Malate dehydrogenase	0.137	389	265	5	393	2	309	3.845E-10	309
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3YS64-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3YS64-F1-model_v4 Malate dehydrogenase	0.167	389	258	1	389	1	311	5.204E-10	309
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZDF3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZDF3-F1-model_v4 Malate dehydrogenase	0.161	389	260	1	389	1	311	3.845E-10	309
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9JCF5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9JCF5-F1-model_v4 Malate dehydrogenase	0.169	400	263	4	403	3	319	4.473E-10	309
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q13DR6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q13DR6-F1-model_v4 Malate dehydrogenase	0.178	400	261	4	403	3	320	1.804E-10	309
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TWG5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TWG5-F1-model_v4 Malate dehydrogenase	0.133	389	269	5	393	2	312	4.044E-10	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5V5U9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5V5U9-F1-model_v4 Malate dehydrogenase	0.163	395	264	4	398	3	319	3.142E-10	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YLR9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YLR9-F1-model_v4 Malate dehydrogenase	0.171	403	264	1	403	1	319	3.142E-10	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2G946-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2G946-F1-model_v4 Malate dehydrogenase	0.183	390	254	4	393	3	314	2.322E-10	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YJE7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YJE7-F1-model_v4 Malate dehydrogenase	0.172	403	263	1	403	1	319	2.988E-10	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8IJB4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8IJB4-F1-model_v4 Malate dehydrogenase	0.168	399	262	5	403	4	319	1.804E-10	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4WNM7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4WNM7-F1-model_v4 Malate dehydrogenase	0.169	393	260	1	393	1	314	2.988E-10	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3Q761-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3Q761-F1-model_v4 Malate dehydrogenase	0.180	403	262	1	403	1	320	6.917E-11	308
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5VSQ4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5VSQ4-F1-model_v4 Malate dehydrogenase	0.169	403	264	1	403	1	319	3.476E-10	307
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5LXE1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5LXE1-F1-model_v4 Malate dehydrogenase	0.176	398	262	1	398	1	319	3.476E-10	307
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9EYJ6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9EYJ6-F1-model_v4 Malate dehydrogenase	0.166	400	264	4	403	3	319	4.473E-10	307
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q89X59-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q89X59-F1-model_v4 Malate dehydrogenase	0.179	399	259	5	403	4	320	1.715E-10	307
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q21CW7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q21CW7-F1-model_v4 Malate dehydrogenase 1	0.175	400	262	4	403	3	320	7.651E-11	307
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q25QU7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q25QU7-F1-model_v4 Malate dehydrogenase	0.140	389	264	5	393	1	308	6.055E-10	306
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GWI0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GWI0-F1-model_v4 Malate dehydrogenase	0.161	390	261	1	390	1	312	6.055E-10	306
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SP77-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SP77-F1-model_v4 L-lactate dehydrogenase	0.183	389	254	1	389	1	312	8.196E-10	306
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5FGT9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5FGT9-F1-model_v4 Malate dehydrogenase	0.168	389	258	1	389	5	315	3.845E-10	306
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0CIT1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0CIT1-F1-model_v4 Malate dehydrogenase	0.171	400	262	4	403	3	319	4.253E-10	306
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2K3E9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2K3E9-F1-model_v4 Malate dehydrogenase	0.175	400	261	4	403	3	319	5.204E-10	305
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80458-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80458-F1-model_v4 Malate dehydrogenase	0.178	403	262	1	403	1	320	9.847E-11	305
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5L8Z8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5L8Z8-F1-model_v4 Malate dehydrogenase	0.139	389	264	5	393	2	309	4.473E-10	304
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q68WZ8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q68WZ8-F1-model_v4 Malate dehydrogenase	0.168	390	259	1	390	1	312	3.476E-10	304
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9M8R3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9M8R3-F1-model_v4 Malate dehydrogenase	0.168	400	263	4	403	3	319	4.948E-10	304
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4K2E2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4K2E2-F1-model_v4 Malate dehydrogenase	0.147	393	268	1	393	1	315	9.066E-10	304
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GRV2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GRV2-F1-model_v4 Malate dehydrogenase	0.152	389	263	1	389	1	311	6.055E-10	303
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P84793-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P84793-F1-model_v4 L-lactate dehydrogenase	0.144	389	268	1	389	1	314	1.109E-09	303
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C6E487-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C6E487-F1-model_v4 Malate dehydrogenase	0.144	388	268	4	391	3	316	1.837E-09	303
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8EM38-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8EM38-F1-model_v4 Malate dehydrogenase	0.172	396	262	4	399	3	320	7.792E-10	303
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1UQV8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1UQV8-F1-model_v4 Malate dehydrogenase	0.186	405	256	4	408	3	318	1.333E-10	302
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q07UX5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q07UX5-F1-model_v4 Malate dehydrogenase	0.175	400	262	4	403	3	320	1.267E-10	302
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7CWK7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7CWK7-F1-model_v4 Malate dehydrogenase	0.165	400	264	4	403	3	319	6.698E-10	300
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5ZSS0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5ZSS0-F1-model_v4 Malate dehydrogenase	0.168	400	263	4	403	3	319	7.409E-10	300
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3CM44-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3CM44-F1-model_v4 Malate dehydrogenase	0.165	389	260	1	389	1	312	4.253E-10	299
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2S1S1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2S1S1-F1-model_v4 L-lactate dehydrogenase	0.167	389	259	1	389	1	312	3.366E-09	299
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2IG85-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2IG85-F1-model_v4 Malate dehydrogenase	0.169	390	258	4	393	3	314	4.473E-10	299
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FYF4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FYF4-F1-model_v4 Malate dehydrogenase	0.168	400	263	4	403	3	319	5.474E-10	299
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q49VN8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q49VN8-F1-model_v4 Malate dehydrogenase	0.155	390	259	1	390	1	308	3.043E-09	298
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5EIU8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5EIU8-F1-model_v4 Malate dehydrogenase	0.141	388	269	4	391	3	316	7.792E-10	298
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q28U77-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q28U77-F1-model_v4 Malate dehydrogenase	0.179	393	257	1	393	1	314	7.044E-10	298
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6Q388-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6Q388-F1-model_v4 Malate dehydrogenase	0.126	394	272	1	394	1	312	2.615E-09	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q169U9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q169U9-F1-model_v4 Malate dehydrogenase	0.167	398	265	1	398	1	319	1.055E-09	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9IZV5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9IZV5-F1-model_v4 Malate dehydrogenase	0.171	407	263	4	410	3	320	9.847E-11	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3PQ91-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3PQ91-F1-model_v4 Malate dehydrogenase	0.176	399	260	5	403	4	319	6.368E-10	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q84FY8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q84FY8-F1-model_v4 Malate dehydrogenase	0.163	395	264	4	398	3	319	7.044E-10	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98EC4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98EC4-F1-model_v4 Malate dehydrogenase	0.162	404	267	1	404	1	320	9.066E-10	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YP78-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YP78-F1-model_v4 Malate dehydrogenase	0.143	390	262	4	393	13	319	1.661E-09	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O67655-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O67655-F1-model_v4 Malate dehydrogenase 1	0.142	426	287	1	426	1	335	2.988E-10	297
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6ZZC6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6ZZC6-F1-model_v4 Malate dehydrogenase	0.149	387	260	4	390	6	311	1.579E-09	296
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q27743-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q27743-F1-model_v4 L-lactate dehydrogenase	0.145	393	265	1	393	1	311	7.044E-10	296
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6FYD0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6FYD0-F1-model_v4 Malate dehydrogenase	0.184	407	259	4	410	3	320	2.568E-10	296
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O33525-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O33525-F1-model_v4 Malate dehydrogenase	0.170	400	262	4	403	3	319	7.409E-10	296
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2GCH6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2GCH6-F1-model_v4 Malate dehydrogenase	0.147	389	266	5	393	1	313	7.409E-10	295
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-E8ME30-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-E8ME30-F1-model_v4 L-lactate dehydrogenase 2	0.154	385	260	5	389	9	316	3.656E-10	295
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0AKT3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0AKT3-F1-model_v4 Malate dehydrogenase	0.167	398	265	1	398	1	319	9.066E-10	295
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7NHJ3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7NHJ3-F1-model_v4 Malate dehydrogenase	0.128	392	269	2	393	6	314	5.863E-09	295
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8MAC1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8MAC1-F1-model_v4 Malate dehydrogenase	0.119	401	266	7	407	2	304	1.357E-09	294
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7HT37-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7HT37-F1-model_v4 Malate dehydrogenase	0.165	407	271	5	411	4	329	1.996E-10	294
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6G1M0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6G1M0-F1-model_v4 Malate dehydrogenase	0.171	407	263	4	410	3	320	1.631E-10	293
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8GVT2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8GVT2-F1-model_v4 Malate dehydrogenase	0.149	400	269	4	403	3	319	1.109E-09	293
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3MDN9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3MDN9-F1-model_v4 Malate dehydrogenase	0.143	390	262	4	393	14	320	2.248E-09	293
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3J7E7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3J7E7-F1-model_v4 Malate dehydrogenase	0.150	402	262	1	402	1	309	9.066E-10	292
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q64P62-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q64P62-F1-model_v4 Malate dehydrogenase	0.144	389	263	5	393	2	309	4.948E-10	292
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q74D53-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q74D53-F1-model_v4 Malate dehydrogenase	0.139	388	269	4	391	3	316	1.291E-09	292
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3M9U0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3M9U0-F1-model_v4 Malate dehydrogenase	0.161	404	268	1	404	1	320	1.003E-09	292
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46BQ2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46BQ2-F1-model_v4 Malate dehydrogenase	0.152	385	255	5	389	2	303	3.200E-09	291
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4ULY2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4ULY2-F1-model_v4 Malate dehydrogenase	0.157	393	259	1	393	1	308	6.055E-10	291
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0BXA0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0BXA0-F1-model_v4 Malate dehydrogenase	0.148	390	265	4	393	3	314	1.227E-09	291
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59390-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59390-F1-model_v4 L-lactate dehydrogenase 2	0.158	389	256	3	391	4	308	4.792E-09	290
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1I3T1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1I3T1-F1-model_v4 Malate dehydrogenase	0.145	400	260	4	403	3	307	8.620E-10	290
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8EUE8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8EUE8-F1-model_v4 Malate dehydrogenase	0.160	390	258	4	393	3	310	1.055E-09	290
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2GK85-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2GK85-F1-model_v4 Malate dehydrogenase	0.158	391	264	4	394	6	320	2.032E-09	290
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q27797-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q27797-F1-model_v4 L-lactate dehydrogenase	0.139	389	271	5	393	9	324	1.055E-09	290
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PT42-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PT42-F1-model_v4 L-lactate dehydrogenase B chain	0.130	386	268	4	389	20	328	2.137E-09	290
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PVJ7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PVJ7-F1-model_v4 Malate dehydrogenase	0.143	385	258	5	389	2	303	2.032E-09	289
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1ZG93-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1ZG93-F1-model_v4 Malate dehydrogenase	0.160	393	263	1	393	1	314	7.044E-10	289
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CW93-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CW93-F1-model_v4 L-lactate dehydrogenase 2	0.159	385	258	5	389	9	316	5.204E-10	289
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1GQY3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1GQY3-F1-model_v4 Malate dehydrogenase	0.153	390	263	4	393	3	314	2.248E-09	288
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00337-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00337-F1-model_v4 L-lactate dehydrogenase B chain	0.136	386	266	4	389	20	328	2.364E-09	288
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P33571-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P33571-F1-model_v4 L-lactate dehydrogenase	0.113	385	272	5	389	23	330	5.300E-09	288
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q55383-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q55383-F1-model_v4 Malate dehydrogenase	0.131	390	266	4	393	13	319	2.364E-09	287
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q979N9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q979N9-F1-model_v4 Malate dehydrogenase	0.136	390	272	4	393	3	318	9.066E-10	287
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P04642-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P04642-F1-model_v4 L-lactate dehydrogenase A chain	0.116	386	272	4	389	20	328	9.711E-09	287
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6IYP5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6IYP5-F1-model_v4 Malate dehydrogenase	0.171	396	261	4	399	3	318	2.032E-09	286
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0T6C1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0T6C1-F1-model_v4 Malate dehydrogenase	0.157	400	266	4	403	3	319	1.932E-09	286
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6L0C3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6L0C3-F1-model_v4 Malate dehydrogenase	0.133	390	273	4	393	3	318	3.366E-09	286
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NN33-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NN33-F1-model_v4 Malate dehydrogenase	0.105	390	284	4	393	9	326	5.040E-09	285
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SL1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SL1-F1-model_v4 L-lactate dehydrogenase B chain	0.125	386	270	4	389	20	328	9.711E-09	285
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P20373-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P20373-F1-model_v4 L-lactate dehydrogenase B chain	0.138	385	265	5	389	22	329	3.540E-09	285
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q662S5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q662S5-F1-model_v4 L-lactate dehydrogenase	0.175	389	257	1	389	1	312	1.747E-09	284
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92055-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92055-F1-model_v4 L-lactate dehydrogenase A chain	0.122	385	270	5	389	21	328	3.723E-09	284
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7M6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7M6-F1-model_v4 L-lactate dehydrogenase A chain	0.124	385	269	5	389	22	329	5.300E-09	284
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9BGZ9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9BGZ9-F1-model_v4 L-lactate dehydrogenase	0.147	389	259	5	393	1	305	9.233E-09	283
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7HM89-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7HM89-F1-model_v4 L-lactate dehydrogenase	0.154	389	259	5	393	1	307	2.032E-09	283
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9A2B1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9A2B1-F1-model_v4 Malate dehydrogenase	0.166	400	264	4	403	3	319	2.137E-09	283
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7L5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7L5-F1-model_v4 L-lactate dehydrogenase A chain	0.113	385	272	5	389	21	328	1.021E-08	283
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P79913-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P79913-F1-model_v4 L-lactate dehydrogenase B chain	0.120	385	270	5	389	21	328	8.779E-09	283
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW04-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW04-F1-model_v4 L-lactate dehydrogenase B chain	0.128	386	269	4	389	20	328	8.779E-09	283
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HR46-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HR46-F1-model_v4 Malate dehydrogenase	0.135	390	266	1	390	1	309	4.792E-09	282
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q39VY0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q39VY0-F1-model_v4 Malate dehydrogenase	0.132	388	272	4	391	3	316	5.040E-09	282
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P13491-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P13491-F1-model_v4 L-lactate dehydrogenase A chain	0.123	386	270	4	389	20	328	1.250E-08	282
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3MWU9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3MWU9-F1-model_v4 Malate dehydrogenase	0.137	409	264	7	415	2	308	6.368E-10	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1QYN6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1QYN6-F1-model_v4 L-lactate dehydrogenase	0.168	389	259	1	389	1	312	9.711E-09	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9KIH0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9KIH0-F1-model_v4 Malate dehydrogenase	0.148	390	266	2	391	4	316	1.837E-09	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HCV0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HCV0-F1-model_v4 L-lactate dehydrogenase 2	0.142	392	268	2	393	3	315	2.615E-09	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2J5F8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2J5F8-F1-model_v4 Malate dehydrogenase	0.129	389	266	5	393	14	319	3.043E-09	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9XT87-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9XT87-F1-model_v4 L-lactate dehydrogenase A chain	0.111	385	273	5	389	21	328	1.454E-08	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q06176-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q06176-F1-model_v4 L-lactate dehydrogenase C chain	0.124	385	269	5	389	22	329	6.821E-09	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7L4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7L4-F1-model_v4 L-lactate dehydrogenase B chain	0.125	386	270	4	389	20	328	8.779E-09	281
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2IIC2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2IIC2-F1-model_v4 Malate dehydrogenase 1	0.160	392	260	1	392	1	311	1.529E-08	280
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q59202-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q59202-F1-model_v4 Malate dehydrogenase	0.153	387	258	4	390	5	310	6.167E-09	280
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5PAV3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5PAV3-F1-model_v4 Malate dehydrogenase	0.145	391	268	1	391	3	316	1.055E-09	280
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P19858-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P19858-F1-model_v4 L-lactate dehydrogenase A chain	0.116	386	272	4	389	20	328	9.233E-09	280
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42123-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42123-F1-model_v4 L-lactate dehydrogenase B chain	0.133	386	267	4	389	21	329	3.916E-09	280
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42120-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42120-F1-model_v4 L-lactate dehydrogenase A chain	0.127	385	268	5	389	22	329	1.382E-08	280
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4SFT4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4SFT4-F1-model_v4 Malate dehydrogenase	0.138	389	264	5	393	1	307	8.779E-09	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2S289-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2S289-F1-model_v4 Malate dehydrogenase	0.142	406	269	5	410	1	314	3.916E-09	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0S3QTC6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0S3QTC6-F1-model_v4 Malate dehydrogenase	0.148	393	263	1	393	1	310	2.487E-09	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3A5S0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3A5S0-F1-model_v4 Malate dehydrogenase	0.152	407	268	1	407	1	317	3.540E-09	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C5CGP2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C5CGP2-F1-model_v4 L-lactate dehydrogenase	0.148	389	266	5	393	1	313	4.253E-10	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9HJL5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9HJL5-F1-model_v4 Malate dehydrogenase	0.146	389	268	5	393	4	318	2.137E-09	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A1F3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A1F3-F1-model_v4 L-lactate dehydrogenase A chain	0.124	386	270	4	389	20	328	1.314E-08	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00338-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00338-F1-model_v4 L-lactate dehydrogenase A chain	0.119	386	271	4	389	20	328	8.779E-09	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW05-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW05-F1-model_v4 L-lactate dehydrogenase B chain	0.120	386	271	4	389	20	328	1.314E-08	279
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TSH7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TSH7-F1-model_v4 Malate dehydrogenase	0.147	385	257	5	389	2	303	6.167E-09	278
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O13276-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O13276-F1-model_v4 L-lactate dehydrogenase A chain	0.124	385	269	5	389	21	328	4.556E-09	278
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P06151-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P06151-F1-model_v4 L-lactate dehydrogenase A chain	0.118	386	272	4	389	20	328	1.871E-08	278
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5R1W9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5R1W9-F1-model_v4 L-lactate dehydrogenase A chain	0.118	386	272	4	389	20	328	1.188E-08	278
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9YGL2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9YGL2-F1-model_v4 L-lactate dehydrogenase B chain	0.126	385	268	5	389	21	328	6.486E-09	278
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GDK1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GDK1-F1-model_v4 L-lactate dehydrogenase 2	0.143	389	265	5	393	6	315	3.916E-09	277
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00339-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00339-F1-model_v4 L-lactate dehydrogenase A chain	0.119	385	270	5	389	21	328	1.074E-08	277
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P13743-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P13743-F1-model_v4 L-lactate dehydrogenase B chain	0.136	386	266	4	389	20	328	6.486E-09	277
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00336-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00336-F1-model_v4 L-lactate dehydrogenase B chain	0.136	386	266	4	389	21	329	6.167E-09	277
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42119-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42119-F1-model_v4 L-lactate dehydrogenase B chain	0.127	385	268	5	389	22	329	1.382E-08	277
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9M1D2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9M1D2-F1-model_v4 Malate dehydrogenase	0.142	387	269	4	390	3	316	3.540E-09	276
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5R5F0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5R5F0-F1-model_v4 L-lactate dehydrogenase A chain	0.121	386	271	4	389	20	328	1.314E-08	276
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SK9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SK9-F1-model_v4 L-lactate dehydrogenase B chain	0.125	386	270	4	389	20	328	3.366E-09	276
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5A6N7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5A6N7-F1-model_v4 L-lactate dehydrogenase B chain	0.133	386	267	4	389	21	329	5.863E-09	276
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P16125-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P16125-F1-model_v4 L-lactate dehydrogenase B chain	0.133	386	267	4	389	21	329	5.575E-09	276
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C890-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C890-F1-model_v4 Malate dehydrogenase	0.123	389	268	5	393	1	307	4.792E-09	275
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4SFQ8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4SFQ8-F1-model_v4 Malate dehydrogenase	0.149	389	260	5	393	1	307	1.382E-08	275
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4QGA0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4QGA0-F1-model_v4 Malate dehydrogenase	0.106	390	283	4	393	9	326	1.250E-08	275
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW58-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW58-F1-model_v4 L-lactate dehydrogenase A chain	0.126	385	268	5	389	21	328	6.486E-09	275
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9A450-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9A450-F1-model_v4 Malate dehydrogenase	0.139	405	260	7	411	2	304	3.540E-09	274
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P11386-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P11386-F1-model_v4 Malate dehydrogenase	0.133	419	263	5	423	2	305	9.066E-10	274
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6U4Y2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6U4Y2-F1-model_v4 L-lactate dehydrogenase 2	0.138	388	265	5	392	6	314	2.751E-09	274
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P79912-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P79912-F1-model_v4 L-lactate dehydrogenase A chain	0.115	385	272	5	389	21	328	1.529E-08	274
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SL0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SL0-F1-model_v4 L-lactate dehydrogenase A chain	0.113	385	272	5	389	21	328	1.382E-08	274
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PVK5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PVK5-F1-model_v4 L-lactate dehydrogenase A chain	0.120	381	270	5	385	22	329	1.871E-08	274
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1EG91-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1EG91-F1-model_v4 L-lactate dehydrogenase B chain	0.121	385	270	5	389	22	329	1.314E-08	274
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3ZZJ7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3ZZJ7-F1-model_v4 Malate dehydrogenase	0.132	386	262	5	390	2	304	8.347E-09	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9LLP6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9LLP6-F1-model_v4 Malate dehydrogenase	0.144	390	262	4	393	2	308	1.250E-08	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2IK16-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2IK16-F1-model_v4 Malate dehydrogenase 2	0.161	390	258	4	393	3	310	2.487E-09	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2FDQ7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2FDQ7-F1-model_v4 L-lactate dehydrogenase 2	0.142	392	268	2	393	3	315	5.575E-09	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YWF6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YWF6-F1-model_v4 L-lactate dehydrogenase 2	0.142	392	268	2	393	3	315	5.300E-09	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FN62-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FN62-F1-model_v4 Malate dehydrogenase	0.105	393	286	1	393	1	321	1.608E-08	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4R5B6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4R5B6-F1-model_v4 L-lactate dehydrogenase B chain	0.133	386	267	4	389	21	329	7.546E-09	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PVK4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PVK4-F1-model_v4 L-lactate dehydrogenase B-A chain	0.125	385	269	5	389	22	329	8.779E-09	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5E9B1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5E9B1-F1-model_v4 L-lactate dehydrogenase B chain	0.133	386	267	4	389	21	329	9.233E-09	273
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8CQ25-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8CQ25-F1-model_v4 Malate dehydrogenase	0.133	390	267	1	390	3	311	7.936E-09	272
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42122-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42122-F1-model_v4 L-lactate dehydrogenase B chain	0.130	380	263	5	384	17	319	1.188E-08	272
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P69083-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P69083-F1-model_v4 L-lactate dehydrogenase A chain	0.124	385	269	5	389	21	328	8.347E-09	272
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DGK2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DGK2-F1-model_v4 L-lactate dehydrogenase B-B chain	0.126	385	268	5	389	22	329	1.529E-08	272
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42121-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P42121-F1-model_v4 L-lactate dehydrogenase C chain	0.134	385	266	5	389	22	329	1.188E-08	272
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5VY92-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5VY92-F1-model_v4 Malate dehydrogenase	0.140	389	263	5	393	2	308	2.177E-08	271
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P69084-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P69084-F1-model_v4 L-lactate dehydrogenase A chain	0.124	385	269	5	389	21	328	9.233E-09	271
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4J5N8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4J5N8-F1-model_v4 Malate dehydrogenase	0.139	387	261	5	391	4	307	9.233E-09	270
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q704B2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q704B2-F1-model_v4 Malate dehydrogenase	0.126	384	262	7	390	2	302	6.486E-09	270
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0TCL9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0TCL9-F1-model_v4 Malate dehydrogenase	0.137	389	263	4	392	3	308	7.546E-09	270
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4L941-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4L941-F1-model_v4 L-lactate dehydrogenase	0.153	419	266	4	422	3	317	3.723E-09	270
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O93542-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O93542-F1-model_v4 L-lactate dehydrogenase A chain	0.124	385	269	5	389	21	328	9.711E-09	270
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O93401-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O93401-F1-model_v4 L-lactate dehydrogenase A chain	0.121	385	270	5	389	21	328	1.021E-08	270
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P07864-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P07864-F1-model_v4 L-lactate dehydrogenase C chain	0.114	385	272	5	389	21	328	3.988E-08	270
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O51114-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O51114-F1-model_v4 L-lactate dehydrogenase	0.175	389	257	1	389	1	312	3.916E-09	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C7U6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C7U6-F1-model_v4 L-lactate dehydrogenase 2	0.146	398	268	2	399	3	317	2.664E-08	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7X6Y1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7X6Y1-F1-model_v4 L-lactate dehydrogenase 2	0.137	392	269	2	393	3	315	8.779E-09	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8XXW5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8XXW5-F1-model_v4 Malate dehydrogenase	0.121	393	286	1	393	1	326	1.188E-08	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9BE24-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9BE24-F1-model_v4 L-lactate dehydrogenase A chain	0.118	386	272	4	389	20	328	2.533E-08	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O13278-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O13278-F1-model_v4 L-lactate dehydrogenase A chain	0.124	385	269	5	389	21	328	1.074E-08	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PT43-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PT43-F1-model_v4 L-lactate dehydrogenase A chain	0.115	385	272	5	389	21	328	2.177E-08	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9XT86-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9XT86-F1-model_v4 L-lactate dehydrogenase B chain	0.131	385	267	5	389	22	329	1.188E-08	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P07195-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P07195-F1-model_v4 L-lactate dehydrogenase B chain	0.136	386	266	4	389	21	329	1.382E-08	269
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZVB2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZVB2-F1-model_v4 Malate dehydrogenase	0.142	409	263	7	415	2	308	1.579E-09	268
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7J121-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7J121-F1-model_v4 L-lactate dehydrogenase	0.177	389	256	1	389	1	312	5.575E-09	268
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00340-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00340-F1-model_v4 L-lactate dehydrogenase A chain	0.110	385	273	5	389	21	328	2.802E-08	268
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O67581-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O67581-F1-model_v4 Malate dehydrogenase 2	0.143	393	273	1	393	10	329	1.692E-08	268
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P14152-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P14152-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.136	404	286	1	404	1	332	2.487E-09	267
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7NG29-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7NG29-F1-model_v4 Malate dehydrogenase	0.155	390	259	4	393	2	308	1.529E-08	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4S9F1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4S9F1-F1-model_v4 Malate dehydrogenase	0.131	389	266	5	393	1	307	5.575E-09	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q11QQ3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q11QQ3-F1-model_v4 Malate dehydrogenase	0.170	407	256	5	411	1	310	2.751E-09	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65G89-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65G89-F1-model_v4 Malate dehydrogenase	0.145	400	262	4	403	5	311	5.040E-09	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K849-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K849-F1-model_v4 Malate dehydrogenase	0.143	386	261	5	390	6	310	1.608E-08	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65258-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65258-F1-model_v4 L-lactate dehydrogenase 2	0.134	392	270	2	393	3	315	4.880E-08	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q29563-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q29563-F1-model_v4 L-lactate dehydrogenase C chain	0.117	385	271	5	389	21	328	2.290E-08	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O13277-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O13277-F1-model_v4 L-lactate dehydrogenase A chain	0.129	381	267	5	385	21	328	1.382E-08	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00341-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00341-F1-model_v4 L-lactate dehydrogenase A chain	0.106	385	274	5	389	22	329	1.968E-08	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9YI05-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9YI05-F1-model_v4 L-lactate dehydrogenase B chain	0.132	385	266	5	389	22	329	1.529E-08	266
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1BHN9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1BHN9-F1-model_v4 Malate dehydrogenase	0.139	389	263	5	393	1	307	1.608E-08	265
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW07-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW07-F1-model_v4 L-lactate dehydrogenase A chain	0.115	385	272	5	389	21	328	3.259E-08	265
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3QPY9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3QPY9-F1-model_v4 Malate dehydrogenase	0.119	394	271	5	398	1	309	7.174E-09	264
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q30RQ5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q30RQ5-F1-model_v4 Malate dehydrogenase	0.124	393	272	1	393	1	311	6.486E-09	264
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3E9R5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3E9R5-F1-model_v4 Malate dehydrogenase	0.145	390	268	4	393	3	317	3.540E-09	264
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2GKC8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2GKC8-F1-model_v4 Malate dehydrogenase	0.109	405	290	1	405	2	327	1.661E-09	264
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4R816-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4R816-F1-model_v4 L-lactate dehydrogenase A-like 6B	0.129	385	267	5	389	70	377	4.119E-09	264
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5FS18-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5FS18-F1-model_v4 Malate dehydrogenase	0.134	386	262	5	390	2	304	2.177E-08	263
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-F1C7I4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-F1C7I4-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.138	393	283	1	393	1	329	5.300E-09	263
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7K5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7K5-F1-model_v4 L-lactate dehydrogenase A chain	0.131	385	267	5	389	22	329	1.692E-08	263
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SL2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98SL2-F1-model_v4 L-lactate dehydrogenase A chain	0.111	385	273	5	389	21	328	5.133E-08	262
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q60176-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q60176-F1-model_v4 L-2-hydroxycarboxylate dehydrogenase (NAD(P)(+))	0.131	389	270	5	393	1	312	1.529E-08	261
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P93052-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P93052-F1-model_v4 L-lactate dehydrogenase	0.159	404	261	5	408	4	314	2.615E-09	261
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GK73-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GK73-F1-model_v4 L-lactate dehydrogenase 1	0.148	389	262	5	393	7	315	3.605E-08	261
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4U831-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4U831-F1-model_v4 Malate dehydrogenase	0.133	423	287	1	423	1	332	1.932E-09	261
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NUM9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NUM9-F1-model_v4 L-lactate dehydrogenase 2	0.149	392	266	2	393	3	315	1.130E-08	260
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q27888-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q27888-F1-model_v4 L-lactate dehydrogenase	0.121	406	273	6	411	22	333	1.454E-08	260
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5UPY6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5UPY6-F1-model_v4 Malate dehydrogenase	0.159	393	257	1	393	1	307	1.779E-08	259
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7Z7J8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7Z7J8-F1-model_v4 Malate dehydrogenase	0.133	400	265	4	403	5	311	6.821E-09	259
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65255-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65255-F1-model_v4 L-lactate dehydrogenase 1	0.148	389	262	5	393	7	315	1.454E-08	259
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5G3L2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5G3L2-F1-model_v4 Malate dehydrogenase	0.139	387	269	4	390	3	316	9.233E-09	259
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9TSX5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9TSX5-F1-model_v4 L-lactate dehydrogenase C chain	0.112	385	273	5	389	21	328	3.792E-08	259
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9BYZ2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9BYZ2-F1-model_v4 L-lactate dehydrogenase A-like 6B	0.122	385	270	5	389	70	377	1.314E-08	259
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3Z9A4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3Z9A4-F1-model_v4 Malate dehydrogenase	0.140	386	260	5	390	2	304	2.802E-08	258
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3EEE5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3EEE5-F1-model_v4 Malate dehydrogenase	0.129	389	267	5	393	1	307	1.074E-08	258
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61977-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61977-F1-model_v4 Malate dehydrogenase	0.127	405	284	1	405	1	326	1.314E-08	258
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P40925-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P40925-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.132	404	287	1	404	1	332	5.863E-09	258
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GGT8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GGT8-F1-model_v4 Malate dehydrogenase	0.145	403	264	1	403	2	311	1.968E-08	257
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7HFA6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7HFA6-F1-model_v4 Malate dehydrogenase	0.143	405	264	1	405	2	310	9.711E-09	257
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q67LB8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q67LB8-F1-model_v4 Malate dehydrogenase	0.140	390	264	4	393	3	310	2.177E-08	257
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61976-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61976-F1-model_v4 Malate dehydrogenase	0.106	394	289	1	394	2	325	8.779E-09	257
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6ZMR3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6ZMR3-F1-model_v4 L-lactate dehydrogenase A-like 6A	0.117	385	271	5	389	21	328	6.947E-08	257
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O08349-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O08349-F1-model_v4 Malate dehydrogenase	0.121	388	257	5	392	1	293	2.290E-08	256
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8Z0K3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8Z0K3-F1-model_v4 L-lactate dehydrogenase 1	0.145	389	263	5	393	7	315	4.640E-08	256
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P11708-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P11708-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.143	404	284	1	404	1	332	4.332E-09	256
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3AS98-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3AS98-F1-model_v4 Malate dehydrogenase	0.138	389	264	5	393	1	307	1.692E-08	255
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q72ZE5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q72ZE5-F1-model_v4 Malate dehydrogenase	0.146	405	263	1	405	2	310	1.250E-08	255
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3L8X1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3L8X1-F1-model_v4 Malate dehydrogenase	0.143	405	264	1	405	2	310	1.188E-08	255
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2HRH5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2HRH5-F1-model_v4 Malate dehydrogenase	0.107	402	288	4	405	5	328	4.119E-09	255
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DIY9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DIY9-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.142	403	283	1	403	1	331	3.916E-09	255
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9YEA1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9YEA1-F1-model_v4 Malate dehydrogenase	0.139	401	259	7	407	2	303	1.314E-08	254
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6HSF4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6HSF4-F1-model_v4 Malate dehydrogenase	0.143	405	264	1	405	2	310	1.250E-08	254
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8GPC3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8GPC3-F1-model_v4 Malate dehydrogenase	0.131	389	260	5	393	2	301	3.916E-09	253
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1RS58-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1RS58-F1-model_v4 Malate dehydrogenase	0.138	401	260	7	407	2	304	1.779E-08	253
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q49YJ3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q49YJ3-F1-model_v4 L-lactate dehydrogenase	0.146	389	263	5	393	7	315	2.533E-08	253
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9BVK0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9BVK0-F1-model_v4 Malate dehydrogenase	0.102	390	288	4	393	5	326	2.177E-08	253
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9DK67-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9DK67-F1-model_v4 Malate dehydrogenase	0.137	387	262	4	390	3	307	5.971E-08	252
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q82HS2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q82HS2-F1-model_v4 Malate dehydrogenase	0.115	402	286	4	405	5	328	1.314E-08	252
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P58407-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P58407-F1-model_v4 Malate dehydrogenase	0.148	422	261	5	426	2	308	1.250E-08	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80039-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80039-F1-model_v4 Malate dehydrogenase	0.129	389	267	5	393	1	307	8.347E-09	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C5D654-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C5D654-F1-model_v4 Malate dehydrogenase	0.136	388	264	4	391	5	311	3.792E-08	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6HCU0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6HCU0-F1-model_v4 Malate dehydrogenase	0.146	405	263	1	405	2	310	1.871E-08	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3KLX8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3KLX8-F1-model_v4 Malate dehydrogenase	0.124	391	283	1	391	1	324	1.314E-08	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83C87-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83C87-F1-model_v4 Malate dehydrogenase	0.112	390	287	1	390	1	324	9.711E-09	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5L5E3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5L5E3-F1-model_v4 Malate dehydrogenase	0.114	393	291	1	393	1	329	2.070E-08	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3T056-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3T056-F1-model_v4 L-lactate dehydrogenase A-like 6B	0.114	386	273	4	389	69	377	1.250E-08	251
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1EUT6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1EUT6-F1-model_v4 Malate dehydrogenase	0.144	402	261	4	405	5	310	1.871E-08	250
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q633K5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q633K5-F1-model_v4 Malate dehydrogenase	0.146	405	263	1	405	2	310	2.070E-08	250
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P49814-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P49814-F1-model_v4 Malate dehydrogenase	0.137	400	264	4	403	5	311	2.533E-08	250
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6PAB3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6PAB3-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.146	404	283	1	404	1	332	4.332E-09	250
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P14295-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P14295-F1-model_v4 L-2-hydroxyisocaproate dehydrogenase	0.148	389	260	5	393	3	308	8.941E-08	249
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7VFV4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7VFV4-F1-model_v4 Malate dehydrogenase	0.153	407	265	4	410	2	315	8.082E-08	249
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1Y8A3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1Y8A3-F1-model_v4 Malate dehydrogenase	0.088	390	293	4	393	5	326	3.428E-08	249
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2J7E7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2J7E7-F1-model_v4 Malate dehydrogenase	0.121	402	284	4	405	5	328	8.779E-09	249
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW06-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PW06-F1-model_v4 L-lactate dehydrogenase A chain	0.120	380	266	5	384	21	323	9.890E-08	249
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7HRN2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7HRN2-F1-model_v4 Malate dehydrogenase	0.137	402	263	4	405	5	310	2.070E-08	248
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9RXI8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9RXI8-F1-model_v4 Malate dehydrogenase	0.111	393	288	1	393	1	325	1.130E-08	248
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5KWB7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5KWB7-F1-model_v4 Malate dehydrogenase	0.132	386	264	4	389	5	309	5.971E-08	247
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4IRP9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4IRP9-F1-model_v4 Malate dehydrogenase	0.133	389	266	1	389	2	309	5.971E-08	247
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q817F9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q817F9-F1-model_v4 Malate dehydrogenase	0.146	405	263	1	405	2	310	2.802E-08	247
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GCN4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GCN4-F1-model_v4 L-lactate dehydrogenase 1	0.148	389	262	5	393	7	315	4.195E-08	247
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17505-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17505-F1-model_v4 Malate dehydrogenase, mitochondrial	0.116	392	278	2	393	15	329	2.290E-08	247
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0SN74-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0SN74-F1-model_v4 Malate dehydrogenase	0.109	391	289	1	391	1	325	3.605E-08	246
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1R2B5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1R2B5-F1-model_v4 Malate dehydrogenase	0.125	393	282	1	393	1	323	1.454E-08	246
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9IIS3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9IIS3-F1-model_v4 Malate dehydrogenase	0.107	393	290	1	393	1	326	3.099E-08	246
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3B2R4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3B2R4-F1-model_v4 Malate dehydrogenase	0.126	385	264	5	389	1	303	2.947E-08	245
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7JRW5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7JRW5-F1-model_v4 Malate dehydrogenase	0.143	405	264	1	405	2	310	2.947E-08	245
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7Z152-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7Z152-F1-model_v4 L-lactate dehydrogenase	0.145	386	262	3	388	5	311	3.001E-07	245
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7L3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9W7L3-F1-model_v4 L-lactate dehydrogenase A chain	0.122	385	270	5	389	21	328	2.408E-08	245
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7YRU4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7YRU4-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.138	404	285	1	404	1	332	1.130E-08	245
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FJU0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FJU0-F1-model_v4 Malate dehydrogenase 3, cytoplasmic	0.122	401	287	4	404	11	338	4.556E-09	245
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6TY25-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6TY25-F1-model_v4 L-lactate dehydrogenase 1	0.148	389	262	5	393	7	315	5.678E-08	244
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P10584-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P10584-F1-model_v4 Malate dehydrogenase	0.122	405	285	1	405	1	326	6.167E-09	244
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0PVV1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0PVV1-F1-model_v4 Malate dehydrogenase	0.103	393	291	1	393	1	325	2.070E-08	244
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5ZME2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5ZME2-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.144	404	283	1	404	1	332	2.408E-08	244
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7WXP7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7WXP7-F1-model_v4 L-lactate dehydrogenase 1	0.148	389	262	5	393	7	315	5.678E-08	243
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O84381-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O84381-F1-model_v4 Malate dehydrogenase	0.119	411	286	1	411	1	326	2.070E-08	242
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0QCI6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0QCI6-F1-model_v4 Malate dehydrogenase	0.105	393	288	2	394	3	325	1.871E-08	242
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00342-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P00342-F1-model_v4 L-lactate dehydrogenase C chain	0.107	385	274	5	389	21	328	2.217E-07	242
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80040-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80040-F1-model_v4 Malate dehydrogenase	0.140	390	263	4	393	2	308	6.605E-08	241
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61975-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61975-F1-model_v4 Malate dehydrogenase	0.105	391	290	1	391	1	325	3.428E-08	241
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0VQ52-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0VQ52-F1-model_v4 Malate dehydrogenase	0.112	390	283	4	393	6	325	4.412E-08	241
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47TT4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47TT4-F1-model_v4 Malate dehydrogenase	0.108	405	292	1	405	1	328	2.290E-08	241
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7GTN7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7GTN7-F1-model_v4 Malate dehydrogenase	0.134	405	267	1	405	2	310	4.412E-08	240
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YV38-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YV38-F1-model_v4 L-lactate dehydrogenase 1	0.148	389	262	5	393	7	315	7.685E-08	240
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3R570-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3R570-F1-model_v4 Malate dehydrogenase	0.112	389	286	1	389	1	323	1.151E-07	240
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9KFT9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9KFT9-F1-model_v4 Malate dehydrogenase	0.108	405	291	1	405	1	327	1.382E-08	240
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4FFX3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4FFX3-F1-model_v4 Malate dehydrogenase	0.111	405	290	1	405	1	327	3.259E-08	240
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1TP96-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1TP96-F1-model_v4 Malate dehydrogenase	0.098	390	290	4	393	5	326	9.890E-08	240
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q82WB9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q82WB9-F1-model_v4 Malate dehydrogenase	0.120	393	284	1	393	1	324	3.605E-08	238
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6J7Q0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6J7Q0-F1-model_v4 Malate dehydrogenase	0.121	405	287	1	405	1	327	3.428E-08	238
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4JWV0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4JWV0-F1-model_v4 Malate dehydrogenase	0.116	389	283	4	392	8	328	3.988E-08	238
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46YU4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46YU4-F1-model_v4 Malate dehydrogenase	0.111	389	286	1	389	1	323	9.403E-08	237
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P9WK12-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P9WK12-F1-model_v4 Malate dehydrogenase	0.096	402	292	4	405	5	328	3.259E-08	237
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q21VT3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q21VT3-F1-model_v4 Malate dehydrogenase 2	0.106	401	293	4	404	5	333	4.880E-08	237
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17783-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17783-F1-model_v4 Malate dehydrogenase, mitochondrial	0.131	396	269	4	399	34	344	6.605E-08	237
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q60B71-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q60B71-F1-model_v4 Malate dehydrogenase	0.106	403	289	1	403	1	324	5.133E-08	236
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0K8F5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0K8F5-F1-model_v4 Malate dehydrogenase	0.109	389	287	1	389	1	323	9.890E-08	236
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4JKE6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4JKE6-F1-model_v4 Malate dehydrogenase 1	0.097	393	292	1	393	1	324	1.812E-07	236
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q822E9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q822E9-F1-model_v4 Malate dehydrogenase	0.119	386	282	4	389	8	328	3.792E-08	236
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5G320-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5G320-F1-model_v4 Malate dehydrogenase	0.108	393	288	1	393	1	324	7.685E-08	235
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4SWW0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4SWW0-F1-model_v4 Malate dehydrogenase	0.107	391	291	1	391	1	327	9.890E-08	235
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0A5J7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0A5J7-F1-model_v4 Malate dehydrogenase	0.096	390	289	4	393	5	325	4.880E-08	235
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9SML8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9SML8-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.120	390	285	4	393	5	329	3.259E-08	235
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61973-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61973-F1-model_v4 Malate dehydrogenase	0.127	393	290	1	393	1	333	8.501E-08	235
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q051U6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q051U6-F1-model_v4 Malate dehydrogenase	0.120	391	285	1	391	1	325	9.403E-08	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5SKV7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5SKV7-F1-model_v4 Malate dehydrogenase	0.118	405	287	1	405	1	326	2.177E-08	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5WGM2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5WGM2-F1-model_v4 Malate dehydrogenase	0.094	391	294	1	391	1	325	8.082E-08	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P9WK13-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P9WK13-F1-model_v4 Malate dehydrogenase	0.096	390	289	4	393	5	325	4.880E-08	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1KI28-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1KI28-F1-model_v4 Malate dehydrogenase	0.098	402	291	4	405	5	328	2.408E-08	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6MAA3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6MAA3-F1-model_v4 Malate dehydrogenase	0.115	403	289	1	403	1	328	1.250E-08	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P57106-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P57106-F1-model_v4 Malate dehydrogenase 2, cytoplasmic	0.130	403	287	1	403	1	331	1.021E-08	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5YTI1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5YTI1-F1-model_v4 Malate dehydrogenase	0.111	390	284	4	393	9	328	1.638E-07	234
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80536-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P80536-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	1.408E-07	233
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0S365-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0S365-F1-model_v4 Malate dehydrogenase	0.106	390	286	4	393	7	327	4.880E-08	233
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8GDA2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8GDA2-F1-model_v4 Malate dehydrogenase	0.142	390	263	4	393	2	308	9.890E-08	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61974-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61974-F1-model_v4 Malate dehydrogenase	0.112	399	288	1	399	1	325	3.491E-07	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3MBR2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3MBR2-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	1.723E-07	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6A6Z5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6A6Z5-F1-model_v4 Malate dehydrogenase	0.119	405	286	1	405	1	326	5.133E-08	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87E35-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87E35-F1-model_v4 Malate dehydrogenase	0.108	389	285	5	393	5	324	5.971E-08	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6IZN7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6IZN7-F1-model_v4 Malate dehydrogenase	0.118	405	288	1	405	1	327	6.280E-08	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5NYA9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5NYA9-F1-model_v4 Malate dehydrogenase	0.112	390	285	4	393	5	326	3.491E-07	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O88989-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O88989-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.136	404	286	1	404	1	332	7.174E-09	232
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3NM97-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3NM97-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	1.906E-07	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3JKE9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3JKE9-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	2.004E-07	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q255I4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q255I4-F1-model_v4 Malate dehydrogenase	0.127	390	280	4	393	6	327	9.890E-08	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1K394-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1K394-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	1.906E-07	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1BM38-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1BM38-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	2.004E-07	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5U1T8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5U1T8-F1-model_v4 Malate dehydrogenase	0.096	390	289	4	393	5	325	6.947E-08	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K3J3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K3J3-F1-model_v4 Malate dehydrogenase	0.117	405	289	1	405	1	328	2.802E-08	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3T145-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3T145-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.140	404	285	1	404	1	332	7.936E-09	231
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P50933-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P50933-F1-model_v4 L-lactate dehydrogenase	0.132	388	262	5	392	1	303	5.678E-08	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1AWH4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1AWH4-F1-model_v4 Malate dehydrogenase	0.112	390	282	4	393	2	320	1.273E-07	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8F4A2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8F4A2-F1-model_v4 Malate dehydrogenase	0.104	391	290	1	391	1	325	8.501E-08	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2JQD2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2JQD2-F1-model_v4 Malate dehydrogenase	0.096	393	292	1	393	1	324	1.273E-07	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0SF41-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0SF41-F1-model_v4 Malate dehydrogenase	0.099	391	292	1	391	1	325	7.685E-08	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1AMN4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1AMN4-F1-model_v4 Malate dehydrogenase	0.098	402	291	4	405	5	328	4.640E-08	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0RE66-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0RE66-F1-model_v4 Malate dehydrogenase	0.113	402	287	4	405	5	328	2.947E-08	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8T773-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8T773-F1-model_v4 Putative malate dehydrogenase 1B	0.112	410	315	2	411	129	484	1.003E-09	230
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97VN4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97VN4-F1-model_v4 Malate dehydrogenase	0.136	423	264	5	427	2	307	3.988E-08	229
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9NDV1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9NDV1-F1-model_v4 Malate dehydrogenase	0.111	405	290	1	405	1	327	3.792E-08	229
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2T4T8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2T4T8-F1-model_v4 Malate dehydrogenase 2	0.087	392	296	2	393	3	327	1.094E-07	229
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4FQU7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4FQU7-F1-model_v4 Malate dehydrogenase	0.107	391	289	1	391	3	327	1.481E-07	229
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5IEF4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5IEF4-F1-model_v4 Malate dehydrogenase	0.102	405	293	1	405	2	328	6.280E-08	229
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O24047-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O24047-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.113	390	287	4	393	5	329	4.640E-08	229
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04820-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04820-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.130	402	286	1	402	1	330	3.605E-08	229
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6AQI3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6AQI3-F1-model_v4 Malate dehydrogenase	0.107	393	288	1	393	1	323	1.273E-07	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04RS5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04RS5-F1-model_v4 Malate dehydrogenase	0.120	391	285	1	391	1	325	1.481E-07	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0AFK6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0AFK6-F1-model_v4 Malate dehydrogenase	0.111	393	287	1	393	1	324	1.557E-07	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0L5T9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0L5T9-F1-model_v4 Malate dehydrogenase	0.117	403	286	1	403	1	325	1.481E-07	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1SMP3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1SMP3-F1-model_v4 Malate dehydrogenase	0.112	405	289	1	405	2	327	4.412E-08	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0BAF9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0BAF9-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	2.332E-07	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P50917-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P50917-F1-model_v4 Malate dehydrogenase	0.107	394	289	1	394	1	325	7.685E-08	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1Q932-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1Q932-F1-model_v4 Malate dehydrogenase	0.094	391	294	1	391	3	327	1.638E-07	228
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1WV94-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1WV94-F1-model_v4 Malate dehydrogenase	0.113	393	286	1	393	1	323	1.210E-07	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1LKG0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1LKG0-F1-model_v4 Malate dehydrogenase	0.109	389	287	1	389	1	323	2.108E-07	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0U5Q1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0U5Q1-F1-model_v4 Malate dehydrogenase	0.110	389	284	5	393	5	324	6.605E-08	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PC25-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PC25-F1-model_v4 Malate dehydrogenase	0.109	393	289	1	393	1	325	8.941E-08	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0AZ43-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0AZ43-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	3.001E-07	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4SLI5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4SLI5-F1-model_v4 Malate dehydrogenase	0.097	393	293	1	393	1	325	1.481E-07	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CY73-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CY73-F1-model_v4 Malate dehydrogenase	0.112	393	288	1	393	1	325	3.099E-08	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1B155-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1B155-F1-model_v4 Malate dehydrogenase	0.099	402	291	4	405	7	330	3.792E-08	227
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6LZI3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6LZI3-F1-model_v4 Malate dehydrogenase	0.127	389	272	5	393	1	313	1.723E-07	226
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3P7Q9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3P7Q9-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	3.319E-07	226
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0VQX5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0VQX5-F1-model_v4 Malate dehydrogenase	0.102	391	292	1	391	1	326	1.094E-07	226
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q393V1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q393V1-F1-model_v4 Malate dehydrogenase	0.106	393	289	1	393	1	324	2.452E-07	226
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1T9L9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1T9L9-F1-model_v4 Malate dehydrogenase	0.110	402	287	4	405	8	331	1.812E-07	226
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7NZ60-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7NZ60-F1-model_v4 Malate dehydrogenase	0.097	389	290	1	389	1	322	2.452E-07	225
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0RU49-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0RU49-F1-model_v4 Malate dehydrogenase	0.109	393	289	1	393	1	325	1.151E-07	225
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4EFB0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4EFB0-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	3.319E-07	224
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7M9A7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7M9A7-F1-model_v4 Malate dehydrogenase	0.128	386	264	8	393	2	305	5.498E-07	223
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q62AG8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q62AG8-F1-model_v4 Malate dehydrogenase	0.100	393	291	1	393	1	324	2.579E-07	223
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2HZ52-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2HZ52-F1-model_v4 Malate dehydrogenase	0.102	391	292	1	391	1	326	1.557E-07	223
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1W3N4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1W3N4-F1-model_v4 Malate dehydrogenase	0.108	405	292	1	405	1	328	2.217E-07	223
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0B7U5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0B7U5-F1-model_v4 Malate dehydrogenase	0.125	411	284	1	411	1	326	5.133E-08	222
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9AMD5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9AMD5-F1-model_v4 Malate dehydrogenase	0.096	393	292	1	393	1	324	3.319E-07	222
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4JM71-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4JM71-F1-model_v4 Malate dehydrogenase 2	0.091	393	294	1	393	1	324	2.452E-07	222
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0V6R7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0V6R7-F1-model_v4 Malate dehydrogenase	0.102	391	292	1	391	1	326	1.638E-07	222
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q54GE6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q54GE6-F1-model_v4 Probable malate dehydrogenase 1	0.128	390	285	4	393	61	388	2.408E-08	222
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PK18-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PK18-F1-model_v4 Malate dehydrogenase	0.121	408	282	4	411	5	326	8.082E-08	221
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GW58-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GW58-F1-model_v4 Malate dehydrogenase	0.102	391	292	1	391	1	326	1.812E-07	221
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PNP8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PNP8-F1-model_v4 Malate dehydrogenase	0.110	393	288	1	393	1	325	3.605E-08	221
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3M928-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3M928-F1-model_v4 Malate dehydrogenase	0.102	391	292	1	391	1	326	1.812E-07	221
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7I9D2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7I9D2-F1-model_v4 Malate dehydrogenase	0.102	391	292	1	391	1	326	1.812E-07	221
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q13S42-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q13S42-F1-model_v4 Malate dehydrogenase	0.091	393	294	1	393	1	324	3.156E-07	220
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2S105-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2S105-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	5.498E-07	220
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1UZ10-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1UZ10-F1-model_v4 Malate dehydrogenase	0.102	393	290	1	393	1	324	5.498E-07	220
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2SMP6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2SMP6-F1-model_v4 Malate dehydrogenase	0.106	393	290	1	393	1	325	1.812E-07	220
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2FQL8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2FQL8-F1-model_v4 Malate dehydrogenase	0.109	393	289	1	393	1	325	2.452E-07	220
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O48905-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O48905-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.126	403	288	1	403	1	331	4.195E-08	220
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P93819-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P93819-F1-model_v4 Malate dehydrogenase 1, cytoplasmic	0.134	403	286	1	403	1	331	4.195E-08	220
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0BC10-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0BC10-F1-model_v4 Malate dehydrogenase	0.119	411	286	1	411	1	326	5.398E-08	219
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2T7J2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2T7J2-F1-model_v4 Malate dehydrogenase 1	0.102	393	290	1	393	1	324	6.727E-07	218
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9Z6N1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9Z6N1-F1-model_v4 Malate dehydrogenase	0.113	390	289	1	390	1	327	8.941E-08	218
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P19629-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P19629-F1-model_v4 L-lactate dehydrogenase C chain	0.112	385	273	5	389	21	328	1.094E-07	218
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q21K60-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q21K60-F1-model_v4 Malate dehydrogenase	0.106	391	289	1	391	1	324	1.812E-07	217
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2I8M1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2I8M1-F1-model_v4 Malate dehydrogenase	0.110	389	284	5	393	5	324	1.812E-07	217
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6F7X1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6F7X1-F1-model_v4 Malate dehydrogenase	0.098	393	292	1	393	1	325	2.452E-07	217
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2T9P8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2T9P8-F1-model_v4 Malate dehydrogenase	0.098	393	291	1	393	1	324	3.862E-07	215
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7XDC8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7XDC8-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.116	403	292	1	403	1	331	6.280E-08	215
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5ZT13-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5ZT13-F1-model_v4 Malate dehydrogenase	0.106	405	292	1	405	1	328	1.040E-07	214
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q08062-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q08062-F1-model_v4 Malate dehydrogenase, cytoplasmic	0.113	403	293	1	403	1	331	4.880E-08	214
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2UKY5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2UKY5-F1-model_v4 Malate dehydrogenase	0.110	391	289	1	391	1	326	1.151E-07	213
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5WU94-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5WU94-F1-model_v4 Malate dehydrogenase	0.109	405	290	1	405	2	328	1.040E-07	213
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q43744-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q43744-F1-model_v4 Malate dehydrogenase, mitochondrial	0.133	390	267	4	393	29	337	2.217E-07	213
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5I0G3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5I0G3-F1-model_v4 Putative malate dehydrogenase 1B	0.103	387	294	4	390	131	459	2.664E-08	213
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YAQ4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2YAQ4-F1-model_v4 Malate dehydrogenase	0.108	404	290	1	404	1	326	2.004E-07	212
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3BWU8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3BWU8-F1-model_v4 Malate dehydrogenase	0.110	393	288	1	393	1	325	1.040E-07	212
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FSF0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FSF0-F1-model_v4 Malate dehydrogenase	0.120	403	290	1	403	1	331	4.195E-08	212
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q54VM2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q54VM2-F1-model_v4 Probable malate dehydrogenase 3	0.107	400	291	5	404	6	332	1.723E-07	212
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5F204-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5F204-F1-model_v4 Putative malate dehydrogenase 1B	0.116	414	305	4	417	131	476	1.529E-08	212
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0ABE6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0ABE6-F1-model_v4 Malate dehydrogenase	0.111	391	287	1	391	1	324	5.498E-07	211
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47C34-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47C34-F1-model_v4 Malate dehydrogenase	0.102	390	288	4	393	5	326	1.232E-06	211
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5H496-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5H496-F1-model_v4 Malate dehydrogenase	0.106	393	290	1	393	1	325	3.491E-07	211
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C5BU70-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C5BU70-F1-model_v4 Malate dehydrogenase	0.110	403	287	1	403	1	324	1.557E-07	209
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1IWC9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1IWC9-F1-model_v4 Malate dehydrogenase	0.111	390	284	4	393	10	329	1.094E-07	209
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3PHI3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3PHI3-F1-model_v4 Malate dehydrogenase	0.106	393	288	1	393	1	323	4.272E-07	207
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5X2T6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5X2T6-F1-model_v4 Malate dehydrogenase	0.107	405	292	1	405	1	328	2.332E-07	207
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1K5Q9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1K5Q9-F1-model_v4 Malate dehydrogenase	0.110	389	289	1	389	1	326	1.007E-06	207
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17606-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P17606-F1-model_v4 Malate dehydrogenase [NADP] 1, chloroplastic	0.122	389	284	5	393	87	411	1.094E-07	199
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q54D04-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q54D04-F1-model_v4 Probable malate dehydrogenase 2, mitochondrial	0.114	390	284	4	393	24	345	7.827E-07	197
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3KMX7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3KMX7-F1-model_v4 Putative malate dehydrogenase 1B	0.105	387	294	4	390	131	459	3.099E-08	194
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P21528-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P21528-F1-model_v4 Malate dehydrogenase [NADP], chloroplastic	0.116	389	286	5	393	99	423	3.491E-07	192
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1DB66-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1DB66-F1-model_v4 Malate dehydrogenase	0.104	404	293	1	404	1	328	1.114E-06	191
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P52426-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P52426-F1-model_v4 Malate dehydrogenase [NADP], chloroplastic	0.126	389	283	5	393	92	416	2.853E-07	191
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q05145-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q05145-F1-model_v4 Malate dehydrogenase [NADP], chloroplastic	0.116	389	286	5	393	98	422	3.319E-07	190
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P46489-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P46489-F1-model_v4 Malate dehydrogenase [NADP], chloroplastic	0.112	389	288	5	393	111	435	6.727E-07	188
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O48902-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O48902-F1-model_v4 Malate dehydrogenase [NADP], chloroplastic	0.121	389	285	5	393	95	419	4.062E-07	185
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8H1E2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8H1E2-F1-model_v4 Malate dehydrogenase [NADP], chloroplastic	0.120	389	285	5	393	100	424	1.114E-06	180
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P32419-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P32419-F1-model_v4 Malate dehydrogenase, peroxisomal	0.130	407	296	5	411	2	342	6.082E-07	176
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q88Q44-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q88Q44-F1-model_v4 Probable malate dehydrogenase	0.137	354	237	40	393	2	277	1.045E-04	152
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P37791-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P37791-F1-model_v4 Putative UDP-glucose 6-dehydrogenase	0.177	169	116	5	173	1	142	2.013E-04	138
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98CR3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q98CR3-F1-model_v4 L-carnitine dehydrogenase	0.150	171	116	1	171	1	137	4.992E-04	133
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5LTH8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5LTH8-F1-model_v4 L-carnitine dehydrogenase	0.130	167	114	5	171	2	133	1.515E-03	126
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C0F4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C0F4-F1-model_v4 UDP-glucose 6-dehydrogenase	0.133	169	122	5	173	1	142	3.070E-03	115
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92NF5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92NF5-F1-model_v4 L-carnitine dehydrogenase	0.145	171	115	1	171	1	136	2.509E-03	113
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1QBS6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1QBS6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.154	175	115	2	176	67	203	2.385E-03	112
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4FS72-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4FS72-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.166	170	108	2	171	68	198	1.949E-03	107
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q988C8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q988C8-F1-model_v4 5-formyl-3-hydroxy-2-methylpyridine 4-carboxylate 5-dehydrogenase	0.104	169	120	4	172	2	136	8.006E-03	103
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2HUU0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2HUU0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.160	168	108	4	171	20	149	5.347E-03	101
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0VKB4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0VKB4-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.150	167	109	5	171	21	149	7.237E-03	97
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3M6Y6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3M6Y6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.160	168	108	4	171	20	149	8.420E-03	97
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GZW3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GZW3-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.160	168	108	4	171	20	149	1.030E-02	95
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4SHP4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4SHP4-F1-model_v4 Ornithine carbamoyltransferase	0.134	153	108	2	154	155	280	1.030E-02	94
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7I2M0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7I2M0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.149	168	110	4	171	20	149	1.030E-02	94
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8H2J9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8H2J9-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(+)], chloroplastic	0.153	168	113	4	171	107	241	5.915E-03	94
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0KQG4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0KQG4-F1-model_v4 Ornithine carbamoyltransferase	0.137	165	114	2	166	155	287	7.237E-03	92
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3AAU8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3AAU8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.140	167	114	4	170	3	136	8.856E-03	92
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7MSD8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7MSD8-F1-model_v4 Ornithine carbamoyltransferase	0.118	153	110	2	154	155	280	2.088E-02	90
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4L6H9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4L6H9-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.150	167	112	5	171	2	134	1.795E-02	89
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01325-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01325-F1-model_v4 Ornithine carbamoyltransferase	0.154	167	124	2	168	100	247	6.543E-03	88
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6CE88-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6CE88-F1-model_v4 3-keto-steroid reductase	0.135	180	131	2	154	5	184	1.543E-02	88
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GN21-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GN21-F1-model_v4 UDP-glucose 4-epimerase	0.137	150	109	1	150	1	127	1.622E-02	87
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1VAP5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1VAP5-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.122	167	112	5	171	1	129	3.288E-02	86
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01323-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01323-F1-model_v4 Ornithine carbamoyltransferase	0.130	167	128	2	168	100	247	4.155E-03	85
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P55665-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P55665-F1-model_v4 Uncharacterized cyclodeaminase y4tK	0.102	86	68	1	86	130	206	7.371E-02	85
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7Z635-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7Z635-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.137	169	116	5	173	2	136	1.888E-02	85
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01324-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01324-F1-model_v4 Ornithine carbamoyltransferase	0.135	167	127	2	168	100	247	5.084E-03	84
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8DN59-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8DN59-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.121	168	117	4	171	3	136	2.310E-02	84
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1RIM4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1RIM4-F1-model_v4 UDP-glucose 4-epimerase	0.130	170	140	1	170	1	162	2.555E-02	84
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0D2YG01-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0D2YG01-F1-model_v4 Non-canonical non-ribosomal peptide synthetase FUB8	0.130	162	126	1	162	650	795	9.314E-03	84
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8JAX1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8JAX1-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.122	167	116	5	171	1	133	5.178E-02	83
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q58454-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q58454-F1-model_v4 Uncharacterized protein MJ1054	0.112	167	124	5	171	1	141	8.154E-02	83
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q93JF1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q93JF1-F1-model_v4 Ornithine carbamoyltransferase	0.099	166	132	3	168	158	304	1.888E-02	82
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5VIM0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5VIM0-F1-model_v4 Ornithine carbamoyltransferase	0.110	166	130	3	168	155	301	8.420E-03	82
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O86376-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O86376-F1-model_v4 Ornithine carbamoyltransferase	0.152	167	125	2	168	85	232	1.084E-02	81
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01322-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01322-F1-model_v4 Ornithine carbamoyltransferase	0.135	167	127	2	168	100	247	6.881E-03	81
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P96108-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P96108-F1-model_v4 Ornithine carbamoyltransferase	0.169	148	99	1	148	152	271	3.637E-02	81
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6LUW9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6LUW9-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.122	168	126	1	168	154	298	1.622E-02	80
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9DVX9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9DVX9-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.142	171	116	1	171	1	136	4.232E-02	80
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0RBW0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0RBW0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	167	113	5	171	2	134	4.232E-02	80
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O86404-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O86404-F1-model_v4 Ornithine carbamoyltransferase	0.138	168	126	2	169	85	231	2.310E-02	79
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3E9A1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B3E9A1-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.189	167	107	5	171	1	133	3.126E-02	79
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5E7U4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5E7U4-F1-model_v4 Ornithine carbamoyltransferase	0.131	153	109	2	154	155	280	2.310E-02	79
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61740-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61740-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.153	168	113	4	171	2	135	2.088E-02	79
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F1A5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F1A5-F1-model_v4 UDP-glucose 4-epimerase	0.127	170	141	1	170	1	162	2.196E-02	79
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CF35-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CF35-F1-model_v4 Truncated formate dehydrogenase 2	0.129	170	114	2	171	24	155	3.825E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-L0E163-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-L0E163-F1-model_v4 Pyrroline-5-carboxylate reductase	0.094	169	122	3	171	8	143	4.681E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9KP68-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9KP68-F1-model_v4 Ornithine carbamoyltransferase	0.104	167	132	2	168	155	302	3.825E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O31018-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O31018-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.128	165	123	3	167	155	296	1.985E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2G653-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2G653-F1-model_v4 Ornithine carbamoyltransferase	0.110	166	130	3	168	155	301	1.543E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q936V7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q936V7-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.130	168	125	1	168	153	297	1.543E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9IVM7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B9IVM7-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	167	113	5	171	2	134	4.923E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4UM33-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4UM33-F1-model_v4 UDP-glucose 4-epimerase	0.129	170	140	1	170	1	162	2.826E-02	78
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7MHF2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7MHF2-F1-model_v4 Ornithine carbamoyltransferase	0.166	147	99	2	148	155	274	3.288E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5E7Q3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5E7Q3-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.131	168	116	4	171	2	135	8.154E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q88P53-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q88P53-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.121	165	124	1	165	153	294	1.395E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1MZX5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1MZX5-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.133	167	117	5	171	2	137	5.178E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8EZA9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8EZA9-F1-model_v4 UDP-glucose 4-epimerase	0.140	150	108	1	150	1	127	7.371E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0AXC3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0AXC3-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.114	167	117	5	171	2	134	5.178E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P13443-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P13443-F1-model_v4 Glycerate dehydrogenase	0.114	168	116	2	169	163	294	5.178E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5BBP8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5BBP8-F1-model_v4 Non-reducing polyketide synthase pkhA	0.127	150	126	1	150	1842	1986	1.030E-02	77
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04VF9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04VF9-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.158	167	111	5	171	1	133	3.458E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q39ZR6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q39ZR6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.165	168	111	4	171	2	135	6.663E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47S98-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47S98-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.141	177	121	5	181	2	143	6.024E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61737-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61737-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	167	113	5	171	2	134	6.336E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q63DM7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q63DM7-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.151	167	112	5	171	2	134	8.154E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7JGZ0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7JGZ0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	167	113	5	171	2	134	6.663E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GWP0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GWP0-F1-model_v4 UDP-glucose 4-epimerase	0.125	170	141	1	170	1	162	7.008E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9LPR8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9LPR8-F1-model_v4 Scarecrow-like protein 3	0.144	109	86	3	104	163	271	7.752E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-S0DXJ2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-S0DXJ2-F1-model_v4 Non-canonical non-ribosomal peptide synthetase FUB8	0.125	157	123	1	157	650	791	4.232E-02	76
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P68746-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P68746-F1-model_v4 Ornithine carbamoyltransferase 2, phaseolotoxin-insensitive	0.120	168	123	2	169	154	294	1.795E-02	75
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6HL50-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6HL50-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	167	113	5	171	2	134	8.576E-02	75
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7GN42-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7GN42-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.135	167	114	5	171	2	134	7.008E-02	75
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92ZT1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92ZT1-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.152	165	120	3	167	155	296	2.088E-02	74
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9C9W5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9C9W5-F1-model_v4 Glycerate dehydrogenase HPR, peroxisomal	0.115	168	116	2	169	163	294	5.728E-02	74
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9GZE9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9GZE9-F1-model_v4 Lipid droplet localized protein	0.152	165	114	7	171	6	140	1.104E-01	74
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65603-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65603-F1-model_v4 Ornithine carbamoyltransferase 1, catabolic	0.131	167	128	2	168	153	300	2.196E-02	73
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5QZB8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5QZB8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.136	165	111	7	171	6	134	4.681E-02	73
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87LF9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87LF9-F1-model_v4 Ornithine carbamoyltransferase	0.117	167	130	2	168	155	302	2.429E-02	73
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q62KD8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q62KD8-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.134	154	109	1	154	153	279	3.288E-02	73
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8E1E8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8E1E8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.132	171	117	1	171	1	136	4.923E-02	73
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZDJ5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZDJ5-F1-model_v4 UDP-glucose 4-epimerase	0.117	170	142	1	170	1	162	4.450E-02	73
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q949Q0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q949Q0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(+)] 2, chloroplastic	0.167	166	110	6	171	89	221	1.985E-02	73
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61742-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P61742-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.138	167	114	5	171	1	133	7.371E-02	72
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04Y15-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04Y15-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.144	167	113	5	171	1	133	7.752E-02	72
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P68887-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P68887-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.137	171	117	1	171	1	136	1.161E-01	72
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0LLR7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0LLR7-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.138	173	117	1	173	1	137	8.154E-02	72
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8L2J6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8L2J6-F1-model_v4 UDP-glucose 4-epimerase	0.112	170	143	1	170	1	162	4.923E-02	72
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P55818-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P55818-F1-model_v4 Bifunctional protein MdtA	0.141	87	70	2	88	118	199	3.184E-01	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q82KQ4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q82KQ4-F1-model_v4 Ornithine carbamoyltransferase	0.109	167	131	2	168	157	304	3.825E-02	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0DB22-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0DB22-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.142	171	116	1	171	1	136	1.104E-01	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3K2X7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3K2X7-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.142	171	116	1	171	1	136	9.977E-02	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P68889-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P68889-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.137	171	117	1	171	1	136	1.284E-01	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0DB23-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0DB23-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.131	171	117	1	171	1	136	1.049E-01	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1JNL6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1JNL6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.137	171	117	1	171	1	136	1.221E-01	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2RCE5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2RCE5-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.131	171	117	1	171	1	136	9.977E-02	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4U0Q8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4U0Q8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.151	168	113	4	171	3	136	7.008E-02	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q08911-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q08911-F1-model_v4 Formate dehydrogenase 1	0.127	170	114	2	171	164	295	5.728E-02	71
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59779-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59779-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.108	165	128	4	168	155	299	5.446E-02	70
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59778-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59778-F1-model_v4 Ornithine carbamoyltransferase	0.113	149	106	2	150	152	271	9.486E-02	70
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FAE1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FAE1-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.109	180	125	2	181	155	295	4.232E-02	70
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q63U72-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q63U72-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.138	168	124	1	168	153	297	2.687E-02	70
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5XJM4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5XJM4-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.137	171	117	1	171	1	136	1.350E-01	70
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8E6W6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8E6W6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.135	171	117	1	171	1	136	5.446E-02	70
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1EN02-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1EN02-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	167	113	5	171	2	134	1.284E-01	70
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GTP2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7GTP2-F1-model_v4 Ornithine carbamoyltransferase	0.127	149	104	2	150	152	271	1.221E-01	69
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-E6N013-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-E6N013-F1-model_v4 Ornithine carbamoyltransferase	0.146	167	126	2	168	152	299	4.450E-02	69
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65TN0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65TN0-F1-model_v4 Ornithine carbamoyltransferase	0.132	169	129	1	169	153	302	4.923E-02	69
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8DCF5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8DCF5-F1-model_v4 Ornithine carbamoyltransferase	0.152	167	125	2	168	155	302	4.450E-02	69
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GRN9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8GRN9-F1-model_v4 UDP-glucose 4-epimerase	0.122	150	111	1	150	1	127	4.923E-02	69
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O02373-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O02373-F1-model_v4 UDP-glucose 6-dehydrogenase	0.135	167	131	5	171	1	152	9.486E-02	69
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P29782-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P29782-F1-model_v4 dTDP-glucose 4,6-dehydratase	0.117	152	113	4	155	2	130	9.019E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5F7E6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5F7E6-F1-model_v4 Ornithine carbamoyltransferase	0.135	167	127	2	168	152	299	4.023E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P21302-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P21302-F1-model_v4 Ornithine carbamoyltransferase	0.132	167	128	2	168	152	299	5.728E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9JTI4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9JTI4-F1-model_v4 Ornithine carbamoyltransferase	0.148	167	125	2	168	152	299	6.663E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1IPR2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1IPR2-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.106	167	119	5	171	2	135	1.161E-01	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1JIR5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1JIR5-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.136	171	117	1	171	1	136	1.420E-01	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6G0U8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6G0U8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.118	171	117	1	171	1	134	8.154E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q38YA9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q38YA9-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.149	169	117	4	172	2	139	9.486E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92IG3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92IG3-F1-model_v4 UDP-glucose 4-epimerase	0.125	170	141	1	170	1	162	3.825E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K575-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K575-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.129	167	125	2	168	163	307	4.450E-02	68
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-S0DRI2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-S0DRI2-F1-model_v4 Short-chain dehydrogenase/reductase fsr5	0.113	165	143	2	166	9	170	6.336E-02	67
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1KUZ7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1KUZ7-F1-model_v4 Ornithine carbamoyltransferase	0.152	167	125	2	168	152	299	5.446E-02	67
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65604-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65604-F1-model_v4 Ornithine carbamoyltransferase 1, catabolic	0.130	167	128	2	168	153	300	4.232E-02	67
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3LR49-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3LR49-F1-model_v4 Ornithine carbamoyltransferase	0.112	167	131	2	168	155	302	6.024E-02	67
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5E2A3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5E2A3-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.097	168	118	4	171	12	143	1.104E-01	67
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4JBJ3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4JBJ3-F1-model_v4 UDP-sulfoquinovose synthase	0.103	151	132	5	155	1	148	5.728E-02	67
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8CU41-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8CU41-F1-model_v4 Ornithine carbamoyltransferase 1, catabolic	0.131	167	128	2	168	153	300	6.024E-02	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03DS0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03DS0-F1-model_v4 Ornithine carbamoyltransferase	0.126	167	128	2	168	154	301	5.178E-02	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7FWM4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7FWM4-F1-model_v4 Ornithine carbamoyltransferase	0.131	167	128	2	168	153	300	4.450E-02	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GDG8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GDG8-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.107	165	125	4	168	160	300	6.024E-02	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7NRK0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7NRK0-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.114	164	124	3	166	156	296	5.446E-02	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2RDJ1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2RDJ1-F1-model_v4 Ornithine carbamoyltransferase	0.101	164	129	5	168	156	299	7.752E-02	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q88YK1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q88YK1-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.138	168	117	4	171	2	138	1.420E-01	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P57449-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P57449-F1-model_v4 Ornithine carbamoyltransferase	0.143	161	118	2	162	154	292	5.728E-02	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0I0Q3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0I0Q3-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.109	171	119	1	171	1	135	1.420E-01	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1S1L9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1S1L9-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.111	171	119	1	171	1	135	1.652E-01	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6ZN46-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6ZN46-F1-model_v4 Formate dehydrogenase 1	0.122	170	115	2	171	164	295	1.221E-01	66
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NQV3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NQV3-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.157	177	118	5	181	2	142	1.571E-01	65
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3A8M2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3A8M2-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.130	167	115	5	171	1	133	2.022E-01	65
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GA45-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GA45-F1-model_v4 Ornithine carbamoyltransferase	0.142	167	126	2	168	153	300	7.371E-02	65
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1AJP2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1AJP2-F1-model_v4 Ribosomal RNA small subunit methyltransferase C	0.160	102	78	4	105	197	290	5.178E-02	65
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1R2D5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1R2D5-F1-model_v4 Ribosomal RNA small subunit methyltransferase C	0.160	102	78	4	105	197	290	5.178E-02	65
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4L9V8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4L9V8-F1-model_v4 Ornithine carbamoyltransferase	0.118	167	130	2	168	153	300	1.049E-01	64
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1FTE9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1FTE9-F1-model_v4 Ornithine carbamoyltransferase	0.140	167	126	2	168	153	300	7.371E-02	64
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0HP88-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0HP88-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.109	171	119	1	171	1	135	1.738E-01	64
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8D9F3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8D9F3-F1-model_v4 Ornithine carbamoyltransferase	0.151	161	117	2	162	154	292	9.977E-02	64
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7MTB6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7MTB6-F1-model_v4 Ribosomal RNA small subunit methyltransferase C	0.169	102	77	4	105	197	290	6.336E-02	64
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0CRQ4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0CRQ4-F1-model_v4 Adenylate-forming reductase	0.086	159	143	4	162	684	840	3.458E-02	64
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5IN78-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5IN78-F1-model_v4 Ornithine carbamoyltransferase	0.141	153	107	2	154	153	277	1.350E-01	63
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F7Z9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F7Z9-F1-model_v4 Ornithine carbamoyltransferase	0.112	151	108	4	154	155	277	9.977E-02	63
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1GZ87-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1GZ87-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.134	167	111	5	171	1	129	2.022E-01	63
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65610-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65610-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.101	164	129	5	168	156	299	1.104E-01	63
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5XMC1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B5XMC1-F1-model_v4 Ornithine carbamoyltransferase	0.101	164	129	5	168	156	299	1.104E-01	63
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CT22-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CT22-F1-model_v4 Formate dehydrogenase 2	0.116	179	130	2	180	164	311	7.752E-02	63
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3K7D5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3K7D5-F1-model_v4 Carboxy-S-adenosyl-L-methionine synthase	0.157	99	80	5	100	59	157	1.738E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0QYS8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0QYS8-F1-model_v4 Ornithine carbamoyltransferase	0.108	90	77	2	91	145	231	2.474E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0LUC1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0LUC1-F1-model_v4 Ornithine carbamoyltransferase	0.125	90	74	4	93	148	232	3.704E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83I37-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83I37-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.134	168	111	4	171	7	135	1.221E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q30WH4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q30WH4-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.106	167	115	5	171	1	130	1.049E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q12641-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q12641-F1-model_v4 Pyrroline-5-carboxylate reductase	0.080	170	148	2	171	9	170	1.284E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZIX8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZIX8-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.140	147	102	2	148	154	273	1.350E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NUK8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NUK8-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.107	167	127	2	168	158	300	1.049E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6AQJ3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6AQJ3-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.079	169	124	3	171	4	139	2.352E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03NY9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03NY9-F1-model_v4 Ornithine carbamoyltransferase	0.092	164	127	5	168	161	301	1.104E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0T8U3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0T8U3-F1-model_v4 Ribosomal RNA small subunit methyltransferase C	0.160	102	78	4	105	197	290	7.752E-02	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C2U0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C2U0-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.133	167	125	2	168	163	307	4.681E-02	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1BE87-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1BE87-F1-model_v4 Glutamyl-tRNA reductase	0.109	305	207	4	308	182	414	1.467E-02	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2QYF3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2QYF3-F1-model_v4 Protein SCARECROW 2	0.083	95	77	3	87	402	496	6.453E-01	62
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1IJJ6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1IJJ6-F1-model_v4 Ornithine carbamoyltransferase	0.139	167	127	2	168	153	300	8.576E-02	61
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4ST20-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4ST20-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.114	171	119	1	171	1	135	2.127E-01	61
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47NE4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q47NE4-F1-model_v4 Ornithine carbamoyltransferase	0.148	167	126	2	168	154	302	4.681E-02	61
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1DCL2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1DCL2-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.111	167	117	5	171	1	133	2.352E-01	61
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1JKW5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1JKW5-F1-model_v4 Ornithine carbamoyltransferase	0.101	164	129	5	168	156	299	1.420E-01	61
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8D7Q5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8D7Q5-F1-model_v4 Ornithine carbamoyltransferase	0.143	161	118	2	162	154	292	1.049E-01	61
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q731G7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q731G7-F1-model_v4 Ornithine carbamoyltransferase	0.204	91	68	1	91	152	237	4.533E-01	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HGR3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HGR3-F1-model_v4 Ornithine carbamoyltransferase	0.142	167	126	2	168	153	300	1.350E-01	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65601-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P65601-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.107	167	127	2	168	158	300	1.738E-01	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4VU03-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4VU03-F1-model_v4 Ornithine carbamoyltransferase	0.104	167	132	2	168	152	299	1.738E-01	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4U1S2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4U1S2-F1-model_v4 Ornithine carbamoyltransferase	0.087	167	134	2	168	152	299	1.652E-01	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KDE2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KDE2-F1-model_v4 Ornithine carbamoyltransferase	0.132	150	101	1	150	160	276	2.022E-01	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FA64-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FA64-F1-model_v4 Ribosomal RNA small subunit methyltransferase C	0.160	102	78	4	105	197	290	1.049E-01	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3PUA3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3PUA3-F1-model_v4 Glutamyl-tRNA reductase	0.134	318	217	4	321	182	433	1.199E-02	60
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NX44-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8NX44-F1-model_v4 Ornithine carbamoyltransferase	0.142	167	126	2	168	153	300	1.494E-01	59
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0A099-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0A099-F1-model_v4 Ornithine carbamoyltransferase	0.142	167	126	2	168	153	300	1.738E-01	59
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3L179-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3L179-F1-model_v4 Ornithine carbamoyltransferase	0.134	167	127	2	168	153	300	9.486E-02	59
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6G640-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6G640-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.117	165	127	4	168	160	304	1.494E-01	59
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8G998-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8G998-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.107	164	129	5	168	161	305	1.652E-01	59
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1UAP7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1UAP7-F1-model_v4 Glutamyl-tRNA reductase	0.123	305	218	4	308	182	431	1.888E-02	59
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4W6E7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4W6E7-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.107	201	141	1	201	1	159	9.486E-02	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5I524-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5I524-F1-model_v4 Ornithine carbamoyltransferase	0.134	167	127	2	168	153	300	9.977E-02	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C0N1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C0N1-F1-model_v4 Ornithine carbamoyltransferase	0.151	167	121	2	168	153	296	1.571E-01	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P99073-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P99073-F1-model_v4 Ornithine carbamoyltransferase	0.137	167	127	2	168	153	300	1.738E-01	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5XE03-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5XE03-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.131	171	117	1	171	1	136	3.349E-01	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83G27-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83G27-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.130	173	116	4	176	21	154	2.237E-01	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4L6M4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4L6M4-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.109	169	119	5	173	2	136	2.127E-01	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2RK98-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2RK98-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	168	114	4	171	3	136	1.420E-01	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2RB59-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2RB59-F1-model_v4 Protein SCARECROW 1	0.096	92	73	3	84	393	484	1.069E+00	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FUZ7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FUZ7-F1-model_v4 Protein SCARECROW	0.104	92	73	3	84	409	500	7.895E-01	58
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1KXQ3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1KXQ3-F1-model_v4 Ornithine carbamoyltransferase	0.134	167	127	2	168	153	300	1.350E-01	57
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q328S8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q328S8-F1-model_v4 Ornithine carbamoyltransferase	0.124	165	116	2	166	154	286	2.737E-01	57
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HCR3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5HCR3-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.111	165	128	4	168	160	304	2.022E-01	57
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CL17-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CL17-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.097	167	117	5	171	8	138	2.352E-01	57
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CFX6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CFX6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.145	168	114	4	171	3	136	1.828E-01	57
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5B8A0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5B8A0-F1-model_v4 Non-reducing polyketide synthase pkfA	0.135	156	130	4	159	1813	1963	1.049E-01	57
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2BM26-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2BM26-F1-model_v4 Ornithine carbamoyltransferase	0.135	149	103	2	150	154	273	5.014E-01	56
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0TUR4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0TUR4-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.117	167	130	2	168	152	299	2.127E-01	56
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7GGI0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7GGI0-F1-model_v4 Ornithine carbamoyltransferase	0.127	167	128	2	168	153	300	1.221E-01	56
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2VL36-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2VL36-F1-model_v4 Ornithine carbamoyltransferase	0.096	153	113	2	154	154	279	2.474E-01	56
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SXJ4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SXJ4-F1-model_v4 Ornithine carbamoyltransferase	0.124	147	104	2	148	154	273	5.014E-01	56
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C0MBK6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C0MBK6-F1-model_v4 Ornithine carbamoyltransferase	0.087	167	134	2	168	152	299	2.737E-01	56
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O74298-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O74298-F1-model_v4 L-2-aminoadipate reductase large subunit	0.111	156	128	2	157	986	1130	2.878E-01	56
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7N8W3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7N8W3-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.108	201	141	1	201	1	159	1.420E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2NI83-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2NI83-F1-model_v4 Ornithine carbamoyltransferase	0.214	99	73	2	100	143	236	5.014E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4XLT6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4XLT6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.135	167	112	5	171	1	130	5.273E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C2E4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C2E4-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.123	167	129	2	168	152	299	2.474E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SWK5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SWK5-F1-model_v4 Ornithine carbamoyltransferase	0.112	167	131	2	168	152	299	2.127E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3PFZ8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C3PFZ8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.136	167	113	5	171	2	133	1.828E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6QG68-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6QG68-F1-model_v4 Ornithine carbamoyltransferase	0.135	167	127	2	168	153	300	3.184E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DA71-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DA71-F1-model_v4 Ornithine carbamoyltransferase	0.101	161	124	2	162	154	292	2.737E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C0D0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C0D0-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.101	164	129	5	168	156	299	3.027E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CBR9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CBR9-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.097	176	129	1	176	6	149	1.922E-01	55
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q81M99-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q81M99-F1-model_v4 Ornithine carbamoyltransferase	0.183	91	69	1	91	152	237	8.734E-01	54
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C6BYZ0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C6BYZ0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.122	167	115	5	171	1	132	3.027E-01	54
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q31TJ4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q31TJ4-F1-model_v4 Ornithine carbamoyltransferase	0.120	165	116	2	166	154	286	2.602E-01	54
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DAT0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6DAT0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.129	171	118	1	171	1	136	3.704E-01	54
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6D0C7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6D0C7-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.123	185	124	1	185	1	142	2.737E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ET05-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ET05-F1-model_v4 Ornithine carbamoyltransferase	0.136	147	100	4	150	165	281	5.833E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C6P3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0C6P3-F1-model_v4 Ornithine carbamoyltransferase	0.137	167	127	2	168	153	300	3.349E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7VNA0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7VNA0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.129	171	117	1	171	3	137	5.546E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83IM2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q83IM2-F1-model_v4 Ornithine carbamoyltransferase	0.123	153	110	2	154	154	279	4.533E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3QJM1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3QJM1-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.096	171	121	1	171	1	135	3.896E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6FIV3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6FIV3-F1-model_v4 3-keto-steroid reductase	0.129	230	148	1	171	1	230	2.237E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7HLL7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7HLL7-F1-model_v4 1-deoxy-D-xylulose 5-phosphate reductoisomerase	0.110	428	323	4	431	3	366	1.543E-02	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5ZM72-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5ZM72-F1-model_v4 Fatty acyl-CoA reductase 1	0.111	153	132	2	154	8	156	2.022E-01	53
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7NGI6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7NGI6-F1-model_v4 Ornithine carbamoyltransferase	0.120	165	116	2	166	154	286	3.522E-01	52
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1ISV4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1ISV4-F1-model_v4 Ornithine carbamoyltransferase	0.123	153	110	2	154	154	279	5.273E-01	52
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6AA77-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6AA77-F1-model_v4 Ornithine carbamoyltransferase	0.125	168	130	2	169	154	302	2.737E-01	52
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1CM06-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1CM06-F1-model_v4 Ornithine carbamoyltransferase	0.109	189	127	2	190	154	296	1.828E-01	52
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K4Z6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K4Z6-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.105	157	103	5	161	2	117	5.014E-01	52
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PEN0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9PEN0-F1-model_v4 N-acetylornithine carbamoyltransferase	0.141	147	107	4	150	170	295	1.350E-01	52
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9KNT0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9KNT0-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.092	167	118	5	171	14	144	4.098E-01	52
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97C32-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97C32-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.156	96	76	5	100	149	239	8.304E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97M82-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q97M82-F1-model_v4 Ornithine carbamoyltransferase	0.121	167	129	2	168	153	300	2.878E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7M9L3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7M9L3-F1-model_v4 Ornithine carbamoyltransferase	0.124	165	116	2	166	154	286	5.546E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3YU98-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3YU98-F1-model_v4 Ornithine carbamoyltransferase	0.120	165	116	2	166	154	286	4.098E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7FMM5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7FMM5-F1-model_v4 Ornithine carbamoyltransferase	0.080	189	131	2	190	154	296	2.474E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7ZVD3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7ZVD3-F1-model_v4 Ornithine carbamoyltransferase	0.133	153	108	2	154	154	279	7.895E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59100-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59100-F1-model_v4 Ornithine carbamoyltransferase	0.125	161	121	2	162	154	292	3.027E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2ZAX5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2ZAX5-F1-model_v4 Protein SCARECROW 1	0.088	125	105	4	128	401	516	5.014E-01	51
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P31105-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P31105-F1-model_v4 Chemotaxis protein methyltransferase	0.135	110	72	1	84	91	200	8.304E-01	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8RCA4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8RCA4-F1-model_v4 Ornithine carbamoyltransferase	0.124	149	105	2	150	153	273	4.310E-01	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5JI16-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5JI16-F1-model_v4 Ornithine carbamoyltransferase	0.143	147	99	4	150	155	271	7.138E-01	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O51897-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O51897-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.180	100	78	1	100	151	246	1.862E+00	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7LCW4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7LCW4-F1-model_v4 Ornithine carbamoyltransferase	0.123	153	110	2	154	154	279	6.453E-01	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P06960-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P06960-F1-model_v4 Ornithine carbamoyltransferase subunit F	0.114	165	117	2	166	154	286	2.878E-01	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q15X80-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q15X80-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.080	157	106	5	161	2	117	2.474E-01	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4RVJ5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B4RVJ5-F1-model_v4 Lipid-A-disaccharide synthase	0.159	89	70	1	84	186	274	1.308E+00	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9LWU9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9LWU9-F1-model_v4 Protein DWARF AND LOW-TILLERING	0.088	111	94	3	106	330	440	1.182E+00	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2ZHL0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A2ZHL0-F1-model_v4 Protein SCARECROW 2	0.088	125	105	4	128	402	517	5.546E-01	50
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4TQQ1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4TQQ1-F1-model_v4 Ornithine carbamoyltransferase	0.108	189	127	2	190	154	296	2.878E-01	49
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q73P70-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q73P70-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.098	167	132	2	168	161	307	6.786E-01	49
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1JQV5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1JQV5-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.095	171	122	1	171	1	136	9.661E-01	49
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2JYQ1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2JYQ1-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.095	171	122	1	171	1	136	9.661E-01	49
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1CD21-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1CD21-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.086	168	120	4	171	5	136	1.182E+00	49
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q44524-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q44524-F1-model_v4 D-nopaline dehydrogenase	0.065	167	118	5	171	22	148	1.738E-01	49
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2Z2E9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2Z2E9-F1-model_v4 Protein SCARECROW	0.087	90	73	4	84	526	615	1.958E+00	49
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q169P2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q169P2-F1-model_v4 Ornithine carbamoyltransferase	0.167	147	94	4	150	154	267	3.704E-01	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8LE44-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8LE44-F1-model_v4 Ornithine carbamoyltransferase	0.116	147	103	4	150	152	268	8.734E-01	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K8V8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K8V8-F1-model_v4 Ornithine carbamoyltransferase	0.210	89	65	5	93	162	244	1.446E+00	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7J0T6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7J0T6-F1-model_v4 Ornithine carbamoyltransferase	0.157	90	71	1	90	151	235	2.931E+00	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8XCB8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8XCB8-F1-model_v4 Ornithine carbamoyltransferase	0.120	165	116	2	166	154	286	6.453E-01	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59961-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P59961-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.136	166	114	5	170	6	138	4.310E-01	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P04391-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P04391-F1-model_v4 Ornithine carbamoyltransferase subunit I	0.124	165	116	2	166	154	286	3.027E-01	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5QX02-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5QX02-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.101	160	106	2	161	6	124	2.237E-01	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PK25-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PK25-F1-model_v4 N-acetylornithine carbamoyltransferase	0.111	148	111	4	151	171	296	3.522E-01	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9AVK4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9AVK4-F1-model_v4 Protein SCARECROW	0.098	90	73	3	84	555	644	2.059E+00	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P40976-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P40976-F1-model_v4 L-2-aminoadipate reductase	0.113	152	123	4	155	1004	1143	1.016E+00	48
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O51782-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O51782-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.157	90	71	1	90	151	235	3.243E+00	47
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q08016-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q08016-F1-model_v4 Ornithine carbamoyltransferase	0.107	165	118	2	166	154	286	5.273E-01	47
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87EL4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87EL4-F1-model_v4 N-acetylornithine carbamoyltransferase	0.136	147	107	4	150	171	295	2.737E-01	47
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K4Z1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9K4Z1-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.080	157	106	5	161	2	117	7.138E-01	47
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O74732-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O74732-F1-model_v4 3-keto-steroid reductase	0.096	184	138	1	154	1	184	3.896E-01	47
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5NE24-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5NE24-F1-model_v4 Protein NODULATION SIGNALING PATHWAY 2	0.071	111	82	3	91	238	348	1.375E+00	47
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65ZT0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65ZT0-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.125	167	126	2	168	152	296	8.734E-01	46
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KAY6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KAY6-F1-model_v4 Glycogen synthase	0.083	101	90	1	99	304	404	1.446E+00	46
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1I3W2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B1I3W2-F1-model_v4 7-cyano-7-deazaguanine synthase	0.115	188	164	5	192	1	186	1.161E-01	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0KTT2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0KTT2-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.106	201	140	1	201	1	158	1.420E-01	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6WRU0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6WRU0-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.122	160	120	1	160	1	138	2.022E-01	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8E4S9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8E4S9-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.122	160	120	1	160	1	138	1.738E-01	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q58291-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q58291-F1-model_v4 Ornithine carbamoyltransferase	0.204	85	63	5	89	147	226	2.059E+00	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SM07-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0SM07-F1-model_v4 Ornithine carbamoyltransferase	0.180	100	78	1	100	151	246	3.083E+00	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GHR7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6GHR7-F1-model_v4 Ornithine carbamoyltransferase	0.139	167	127	2	168	153	300	5.833E-01	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8P8J2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8P8J2-F1-model_v4 N-acetylornithine carbamoyltransferase	0.119	145	107	4	148	171	293	6.135E-01	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9R691-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9R691-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.096	170	120	2	171	3	136	1.770E+00	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZY17-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZY17-F1-model_v4 Histidinol dehydrogenase	0.109	84	70	5	84	197	280	2.166E+00	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A221J5X6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A221J5X6-F1-model_v4 (S)-8-oxocitronellyl enol synthase ISY2	0.065	154	118	1	154	25	151	6.453E-01	45
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3ADI5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3ADI5-F1-model_v4 7-cyano-7-deazaguanine synthase	0.104	188	165	5	192	2	186	1.221E-01	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9HIK9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9HIK9-F1-model_v4 Ornithine carbamoyltransferase, catabolic	0.132	146	100	5	150	149	264	1.308E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6UNM1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6UNM1-F1-model_v4 Ornithine carbamoyltransferase	0.195	90	68	2	91	143	227	5.106E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q66F14-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q66F14-F1-model_v4 Ornithine carbamoyltransferase	0.095	189	129	2	190	154	296	5.273E-01	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2VL53-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2VL53-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.103	169	118	3	171	4	136	1.958E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q89AG1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q89AG1-F1-model_v4 Ornithine carbamoyltransferase	0.103	147	107	2	148	154	273	1.600E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7FCV2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7FCV2-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.089	171	123	1	171	1	136	2.059E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1C286-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1C286-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.095	171	122	1	171	1	136	1.862E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZJM6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZJM6-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.095	171	122	1	171	1	136	1.862E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6CJC2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6CJC2-F1-model_v4 3-keto-steroid reductase	0.117	182	135	1	154	1	182	1.521E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-G7J1L1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-G7J1L1-F1-model_v4 GRAS family protein TF80	0.117	99	81	3	95	129	227	3.410E+00	44
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4J5C7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4J5C7-F1-model_v4 7-cyano-7-deazaguanine synthase	0.132	186	160	5	190	1	185	1.738E-01	43
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P33563-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P33563-F1-model_v4 Modification methylase BsuBI	0.108	98	74	2	85	46	143	3.410E+00	43
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q960W6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q960W6-F1-model_v4 Putative fatty acyl-CoA reductase CG8306	0.107	150	130	5	154	13	159	7.138E-01	43
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4FYS5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4FYS5-F1-model_v4 Ornithine carbamoyltransferase	0.145	149	103	2	150	143	263	3.083E+00	42
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4TSB8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4TSB8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.100	171	122	1	171	1	136	2.166E+00	42
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9M384-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9M384-F1-model_v4 Protein SCARECROW	0.102	126	103	3	128	399	514	1.862E+00	42
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5D2E1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5D2E1-F1-model_v4 7-cyano-7-deazaguanine synthase	0.123	186	161	5	190	1	185	2.237E-01	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92DX0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q92DX0-F1-model_v4 Chemotaxis protein methyltransferase	0.092	106	73	4	84	101	206	2.278E+00	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6HJU2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B6HJU2-F1-model_v4 Glandicoline B O-methyltransferase roqN	0.109	130	113	1	128	45	174	1.375E+00	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6LZS1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6LZS1-F1-model_v4 Ornithine carbamoyltransferase	0.139	149	103	2	150	143	263	3.587E+00	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FAD6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8FAD6-F1-model_v4 Ornithine carbamoyltransferase	0.091	165	120	2	166	154	286	1.182E+00	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q66GB8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q66GB8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.086	168	120	4	171	5	136	3.243E+00	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7ZXF5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7ZXF5-F1-model_v4 Fatty acyl-CoA reductase 1	0.085	153	135	2	154	8	156	1.308E+00	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-M1VVW6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-M1VVW6-F1-model_v4 D-lysergyl-peptide-synthetase subunit 3	0.128	166	143	2	167	1407	1571	5.014E-01	41
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5ULR3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5ULR3-F1-model_v4 7-cyano-7-deazaguanine synthase	0.096	187	165	4	190	3	186	4.310E-01	40
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6VJK4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6VJK4-F1-model_v4 Ornithine carbamoyltransferase	0.145	149	103	2	150	143	263	4.389E+00	40
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1ACK8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1ACK8-F1-model_v4 tRNA(Ile)-lysidine synthase, chloroplastic	0.119	121	93	1	106	21	141	8.304E-01	40
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7MLQ9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7MLQ9-F1-model_v4 Ornithine carbamoyltransferase	0.109	165	118	2	166	154	286	1.243E+00	40
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YYB8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YYB8-F1-model_v4 tRNA(Ile)-lysidine synthase	0.123	114	89	3	104	23	136	9.661E-01	40
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-G7JMM0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-G7JMM0-F1-model_v4 GRAS family protein RAD1	0.125	157	113	3	132	260	416	9.186E-01	40
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2NF51-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2NF51-F1-model_v4 7-cyano-7-deazaguanine synthase	0.110	166	143	4	169	2	163	5.014E-01	39
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P26941-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P26941-F1-model_v4 N-(5'-phosphoribosyl)anthranilate isomerase	0.100	190	150	5	172	1	190	2.602E-01	39
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZBG8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8ZBG8-F1-model_v4 Ornithine carbamoyltransferase	0.103	189	127	2	190	154	296	1.069E+00	39
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2JRN8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2JRN8-F1-model_v4 tRNA(Ile)-lysidine synthase	0.067	117	91	1	98	21	137	1.375E+00	39
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7EKT5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7EKT5-F1-model_v4 NADH-cytochrome b5 reductase 2	0.154	107	69	3	85	202	308	1.124E+00	39
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9V2I3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9V2I3-F1-model_v4 7-cyano-7-deazaguanine synthase	0.113	189	167	5	193	2	190	4.767E-01	38
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CP15-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CP15-F1-model_v4 NADH-cytochrome b5 reductase 1	0.102	111	75	1	85	150	260	2.059E+00	38
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4WD44-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4WD44-F1-model_v4 N-methyltransferase fsqC	0.086	215	177	4	218	108	302	3.027E-01	38
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q43784-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q43784-F1-model_v4 Granule-bound starch synthase 1, chloroplastic/amyloplastic	0.146	81	68	3	83	398	478	4.173E+00	38
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CP14-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P0CP14-F1-model_v4 NADH-cytochrome b5 reductase 1	0.102	111	75	1	85	150	260	2.059E+00	37
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8A810-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8A810-F1-model_v4 Ornithine carbamoyltransferase	0.119	147	105	2	148	154	273	1.521E+00	37
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8Z123-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8Z123-F1-model_v4 Ornithine carbamoyltransferase	0.098	153	113	2	154	154	279	2.396E+00	37
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6VAA7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6VAA7-F1-model_v4 UDP-glycosyltransferase 88B1	0.102	187	138	3	189	2	156	9.661E-01	37
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9C8Y3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9C8Y3-F1-model_v4 DELLA protein RGL1	0.090	103	86	3	97	252	354	4.855E+00	37
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-E5KIB9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-E5KIB9-F1-model_v4 Cypemycin cysteine dehydrogenase (decarboxylating)	0.081	168	131	3	170	9	152	1.683E+00	36
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P87230-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P87230-F1-model_v4 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	0.153	139	115	4	142	107	243	7.895E-01	36
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5U3H3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5U3H3-F1-model_v4 Glycosyltransferase 8 domain-containing protein 1	0.109	97	79	4	100	64	153	1.016E+00	36
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8NI23-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8NI23-F1-model_v4 N-methyltransferase imqF	0.100	163	126	4	144	110	272	1.958E+00	36
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8R7K9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8R7K9-F1-model_v4 tRNA(Ile)-lysidine synthase	0.127	136	105	1	121	24	159	1.446E+00	36
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A286R227-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A286R227-F1-model_v4 Nitrate reductase [NADH]	0.131	110	79	2	93	733	842	1.375E+00	36
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2V8C0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B2V8C0-F1-model_v4 Probable septum site-determining protein MinC	0.153	87	67	4	83	10	96	1.770E+00	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5V0E6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5V0E6-F1-model_v4 7-cyano-7-deazaguanine synthase	0.075	183	166	1	183	1	180	9.186E-01	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P25148-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P25148-F1-model_v4 General stress protein A	0.141	98	82	1	98	1	97	1.521E+00	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7U5V5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7U5V5-F1-model_v4 Ornithine carbamoyltransferase	0.102	146	102	5	150	162	276	3.587E+00	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4LJE8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C4LJE8-F1-model_v4 Glycerol-3-phosphate dehydrogenase [NAD(P)+]	0.103	167	118	5	171	2	133	2.166E+00	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01QT2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q01QT2-F1-model_v4 tRNA(Ile)-lysidine synthase	0.130	123	101	4	120	5	127	1.683E+00	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CKI7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CKI7-F1-model_v4 Glycogen synthase	0.118	81	71	3	83	292	372	3.968E+00	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0M4FMK2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0M4FMK2-F1-model_v4 GRAS family protein RAM1	0.097	108	83	3	95	441	548	5.371E+00	35
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q12WI3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q12WI3-F1-model_v4 7-cyano-7-deazaguanine synthase	0.100	189	168	5	192	1	189	1.016E+00	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KZ94-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KZ94-F1-model_v4 Demethylrebeccamycin-D-glucose O-methyltransferase	0.079	272	189	1	272	69	274	4.098E-01	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6R1T7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6R1T7-F1-model_v4 NADH-cytochrome b5 reductase 2	0.202	76	55	2	71	180	255	3.083E+00	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YWD2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8YWD2-F1-model_v4 Aspartate carbamoyltransferase	0.141	147	101	2	148	169	287	1.683E+00	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A482ND39-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A482ND39-F1-model_v4 Short-chain dehydrogenase iccH	0.096	151	135	1	150	1	151	2.278E+00	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0KSA5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B0KSA5-F1-model_v4 1-deoxy-D-xylulose 5-phosphate reductoisomerase	0.107	425	346	1	425	1	389	1.828E-01	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q981C9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q981C9-F1-model_v4 7-cyano-7-deazaguanine synthase	0.103	190	165	1	190	238	422	9.661E-01	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04KG5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q04KG5-F1-model_v4 Glycogen synthase	0.120	88	77	3	90	292	379	4.855E+00	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1DCS0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1DCS0-F1-model_v4 Glycogen synthase	0.115	100	86	3	102	296	393	2.787E+00	34
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6UTW9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6UTW9-F1-model_v4 Ornithine carbamoyltransferase	0.168	87	67	5	91	146	227	8.457E+00	33
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q31QG7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q31QG7-F1-model_v4 Aspartate carbamoyltransferase	0.149	145	101	4	148	168	287	3.587E+00	33
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CRM3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CRM3-F1-model_v4 Glycogen synthase	0.120	88	77	3	90	292	379	5.371E+00	33
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7MB73-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7MB73-F1-model_v4 Probable inactive glycosyltransferase 25 family member 3	0.178	69	53	4	69	31	99	4.173E+00	33
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P39869-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P39869-F1-model_v4 Nitrate reductase [NADH]	0.112	106	75	1	85	769	874	4.173E+00	33
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O57836-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O57836-F1-model_v4 7-cyano-7-deazaguanine synthase	0.104	189	168	5	193	2	190	1.521E+00	32
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8U4N3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8U4N3-F1-model_v4 7-cyano-7-deazaguanine synthase	0.113	189	167	5	193	3	191	1.375E+00	32
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46ID9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46ID9-F1-model_v4 tRNA(Ile)-lysidine synthase	0.074	125	95	1	104	14	138	2.520E+00	32
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6MTB9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6MTB9-F1-model_v4 Signal recognition particle receptor FtsY	0.108	183	149	4	171	185	367	6.453E-01	32
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q74C65-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q74C65-F1-model_v4 tRNA(Ile)-lysidine synthase	0.083	121	92	4	104	27	147	2.166E+00	32
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-I1L3T1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-I1L3T1-F1-model_v4 UDP-glycosyltransferase 708D1	0.121	271	162	4	188	7	277	6.786E-01	32
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TWG9-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TWG9-F1-model_v4 7-cyano-7-deazaguanine synthase	0.112	188	163	5	192	2	185	1.683E+00	31
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F7F8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A8F7F8-F1-model_v4 tRNA(Ile)-lysidine synthase	0.093	121	91	4	104	23	143	3.243E+00	31
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q899H5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q899H5-F1-model_v4 tRNA(Ile)-lysidine synthase	0.108	135	106	1	120	15	149	2.278E+00	31
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CEB0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-C1CEB0-F1-model_v4 Glycogen synthase	0.120	88	77	3	90	292	379	6.912E+00	31
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8DPS3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8DPS3-F1-model_v4 Glycogen synthase	0.120	88	77	3	90	292	379	6.912E+00	31
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3ZJ89-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q3ZJ89-F1-model_v4 tRNA(Ile)-lysidine synthase, chloroplastic	0.090	114	90	2	101	25	138	3.243E+00	31
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5DK47-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5DK47-F1-model_v4 ATP-dependent RNA helicase DBP6	0.087	114	78	4	89	437	550	1.770E+00	31
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46G70-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q46G70-F1-model_v4 7-cyano-7-deazaguanine synthase	0.108	183	159	5	183	1	183	1.683E+00	30
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TIF3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TIF3-F1-model_v4 7-cyano-7-deazaguanine synthase	0.085	70	60	5	74	1	67	6.572E+00	30
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7THS1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7THS1-F1-model_v4 NADH-cytochrome b5 reductase 2-A	0.115	104	74	3	87	156	259	2.278E+00	30
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P74192-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P74192-F1-model_v4 tRNA(Ile)-lysidine synthase	0.112	109	85	5	101	24	132	3.587E+00	30
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4P7Y8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4P7Y8-F1-model_v4 NADH-cytochrome b5 reductase 2	0.108	89	66	2	90	206	280	3.587E+00	30
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FH36-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FH36-F1-model_v4 Probable galacturonosyltransferase 12	0.112	172	130	1	172	205	351	1.600E+00	30
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5N2S8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5N2S8-F1-model_v4 Ribosomal RNA small subunit methyltransferase A	0.090	108	89	1	108	27	125	5.648E+00	29
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7UZL1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7UZL1-F1-model_v4 tRNA(Ile)-lysidine synthase	0.058	132	102	2	110	31	162	2.520E+00	29
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FHZ1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9FHZ1-F1-model_v4 Scarecrow-like protein 23	0.117	170	120	4	140	150	319	3.587E+00	29
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5N3S1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5N3S1-F1-model_v4 Aspartate carbamoyltransferase	0.201	98	74	4	97	168	265	5.371E+00	28
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4JBY3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q4JBY3-F1-model_v4 7-cyano-7-deazaguanine synthase	0.124	148	110	1	148	236	362	1.375E+00	28
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P36858-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P36858-F1-model_v4 Nitrate reductase [NADPH]	0.103	103	74	2	84	740	842	5.941E+00	28
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87JW8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q87JW8-F1-model_v4 Thiamine-phosphate synthase	0.124	172	110	1	172	1	126	4.173E+00	27
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9G6U6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A9G6U6-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.080	73	65	1	72	21	93	5.371E+00	27
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q30SP2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q30SP2-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.055	151	117	4	154	2	126	2.059E+00	27
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P39866-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P39866-F1-model_v4 Nitrate reductase [NADH] 2	0.123	104	74	1	85	759	862	8.895E+00	27
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6BMD0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q6BMD0-F1-model_v4 UDP-N-acetylglucosamine transferase subunit ALG14	0.076	176	154	4	171	54	229	2.278E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q31RH6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q31RH6-F1-model_v4 Ribosomal RNA small subunit methyltransferase A	0.120	108	86	1	108	27	125	5.371E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KC15-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8KC15-F1-model_v4 tRNA(Ile)-lysidine synthase	0.074	122	94	4	105	21	142	4.616E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8E698-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B8E698-F1-model_v4 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	0.108	171	116	1	171	179	309	5.648E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7IFR8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-B7IFR8-F1-model_v4 tRNA(Ile)-lysidine synthase	0.103	271	223	1	250	18	288	8.304E-01	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZWC5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZWC5-F1-model_v4 Scarecrow-like protein 18	0.108	203	128	2	204	176	319	2.520E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q73N15-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q73N15-F1-model_v4 tRNA(Ile)-lysidine synthase	0.102	125	91	4	105	29	153	3.587E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q181G3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q181G3-F1-model_v4 tRNA(Ile)-lysidine synthase	0.100	422	255	1	422	16	299	8.734E-01	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P37563-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P37563-F1-model_v4 tRNA(Ile)-lysidine synthase	0.111	288	220	1	249	14	301	1.308E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZPZ1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9ZPZ1-F1-model_v4 Putative galacturonosyltransferase 2	0.101	171	126	1	171	238	378	2.650E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CAN3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q9CAN3-F1-model_v4 Scarecrow-like protein 28	0.125	229	200	2	230	383	611	2.650E+00	26
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O29262-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-O29262-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.106	168	118	2	169	21	153	2.650E+00	25
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3DP41-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3DP41-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.074	168	124	2	169	31	165	3.968E+00	25
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6WID1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A6WID1-F1-model_v4 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	0.097	171	117	1	171	179	309	7.645E+00	25
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PZP6-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8PZP6-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.081	168	124	2	169	21	156	3.968E+00	24
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3CZM1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A3CZM1-F1-model_v4 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	0.108	171	116	1	171	179	309	7.645E+00	24
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03144-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q03144-F1-model_v4 Pyridoxal 5'-phosphate synthase subunit SNO1	0.096	189	167	27	212	5	193	2.931E+00	23
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7CYD2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q7CYD2-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.090	127	93	4	106	69	195	5.941E+00	23
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A172J2G3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A172J2G3-F1-model_v4 UDP-glycosyltransferase 43	0.076	235	155	1	169	1	235	4.173E+00	23
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TK88-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8TK88-F1-model_v4 NH(3)-dependent NAD(+) synthetase	0.086	189	143	2	190	21	177	5.106E+00	22
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P58711-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P58711-F1-model_v4 4-hydroxythreonine-4-phosphate dehydrogenase	0.116	248	175	4	251	17	215	2.059E+00	22
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5L3T3-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5L3T3-F1-model_v4 tRNA(Ile)-lysidine synthase	0.114	284	236	2	268	17	300	1.958E+00	22
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5T4B2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q5T4B2-F1-model_v4 Inactive glycosyltransferase 25 family member 3	0.083	136	95	4	139	31	135	4.173E+00	22
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P29237-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-P29237-F1-model_v4 Probable flavin reductase	0.127	103	79	3	93	104	206	8.457E+00	21
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7NC76-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A7NC76-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase 2	0.107	162	113	4	165	34	160	4.389E+00	21
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1IDN2-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1IDN2-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.060	124	93	4	103	32	155	5.648E+00	21
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q58652-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q58652-F1-model_v4 Uncharacterized glycosyltransferase MJ1255	0.120	179	146	5	171	1	179	3.968E+00	21
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5PK45-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5PK45-F1-model_v4 Procollagen galactosyltransferase 1	0.116	145	100	4	148	54	167	5.371E+00	21
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2UVJ5-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q2UVJ5-F1-model_v4 Cation-chloride cotransporter 1	0.080	154	136	4	152	783	936	7.645E+00	21
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4WAT7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4WAT7-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.094	130	95	1	106	36	165	8.895E+00	20
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8K297-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q8K297-F1-model_v4 Procollagen galactosyltransferase 1	0.096	145	102	4	148	48	161	7.645E+00	20
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q02J28-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q02J28-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.051	127	97	4	106	32	158	8.895E+00	19
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0K0PVW1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A0A0K0PVW1-F1-model_v4 UDP-glycosyltransferase 100	0.104	179	148	1	179	1	166	6.572E+00	19
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65PF4-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q65PF4-F1-model_v4 tRNA(Ile)-lysidine synthase	0.090	428	263	1	428	13	302	2.278E+00	19
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1ZB91-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A1ZB91-F1-model_v4 Dynein assembly factor 3, axonemal homolog	0.106	192	142	1	192	44	203	4.389E+00	19
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q91V14-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q91V14-F1-model_v4 Solute carrier family 12 member 5	0.112	241	164	2	187	690	930	1.862E+00	19
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q48FG8-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q48FG8-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.084	190	156	1	190	29	199	9.839E+00	18
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q84Y01-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q84Y01-F1-model_v4 Inositol-tetrakisphosphate 1-kinase 1	0.107	108	80	4	111	18	108	5.371E+00	18
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0BLX1-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q0BLX1-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase 2	0.105	162	113	4	165	34	160	7.645E+00	17
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4IXY7-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A4IXY7-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase 1	0.105	162	113	4	165	34	160	7.645E+00	17
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1LS06-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-Q1LS06-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.088	235	202	86	308	1	235	4.616E+00	15
+LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5W7U0-F1-model_v4	LOKIASV2_0993_ESMFold_alpha-galactosidase	AF-A5W7U0-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.102	235	200	85	308	2	236	6.912E+00	14
