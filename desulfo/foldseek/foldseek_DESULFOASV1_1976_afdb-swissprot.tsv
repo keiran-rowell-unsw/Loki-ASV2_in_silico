@@ -1,0 +1,978 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q30YV9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q30YV9-F1-model_v4 5'-nucleotidase SurE	0.627	247	91	1	247	1	246	7.906E-43	1614
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q72A55-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q72A55-F1-model_v4 5'-nucleotidase SurE	0.605	246	96	1	246	1	245	4.939E-42	1574
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1VCE4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1VCE4-F1-model_v4 5'-nucleotidase SurE	0.599	247	98	1	247	1	246	6.703E-42	1573
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8DN39-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8DN39-F1-model_v4 5'-nucleotidase SurE	0.614	253	96	1	251	1	253	1.749E-42	1561
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4XNX3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4XNX3-F1-model_v4 5'-nucleotidase SurE	0.582	255	105	1	253	1	255	4.112E-42	1548
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C6BUG4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C6BUG4-F1-model_v4 5'-nucleotidase SurE	0.554	247	109	1	247	1	246	3.706E-41	1542
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8J2G2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8J2G2-F1-model_v4 5'-nucleotidase SurE	0.519	257	121	1	253	1	257	9.846E-41	1496
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1MQB1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1MQB1-F1-model_v4 5'-nucleotidase SurE	0.394	250	150	1	250	1	249	6.571E-33	1175
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0LHG0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0LHG0-F1-model_v4 5'-nucleotidase SurE	0.430	251	142	1	251	1	250	1.343E-33	1160
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9BER9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9BER9-F1-model_v4 5'-nucleotidase SurE	0.395	247	149	1	247	1	247	1.139E-32	1143
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7HLM0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7HLM0-F1-model_v4 5'-nucleotidase SurE	0.394	250	150	1	248	1	250	4.842E-33	1139
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6LL96-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6LL96-F1-model_v4 5'-nucleotidase SurE	0.384	253	155	1	253	1	252	3.862E-32	1111
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2LUH7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2LUH7-F1-model_v4 5'-nucleotidase SurE	0.400	247	148	1	247	1	247	2.846E-32	1107
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3MB98-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3MB98-F1-model_v4 5'-nucleotidase SurE	0.375	263	157	1	252	1	263	9.082E-32	1098
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8YMT3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8YMT3-F1-model_v4 5'-nucleotidase SurE	0.371	263	158	1	252	1	263	9.082E-32	1096
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5CG17-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5CG17-F1-model_v4 5'-nucleotidase SurE	0.400	253	149	1	250	1	253	2.135E-31	1082
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7IH68-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7IH68-F1-model_v4 5'-nucleotidase SurE	0.380	253	156	1	253	1	252	2.270E-31	1082
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2JVR3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2JVR3-F1-model_v4 5'-nucleotidase SurE	0.414	254	145	1	249	1	254	1.159E-31	1082
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q10YV3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q10YV3-F1-model_v4 5'-nucleotidase SurE	0.390	263	153	1	252	1	263	1.393E-31	1077
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2S1H7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2S1H7-F1-model_v4 5'-nucleotidase SurE	0.385	252	153	3	252	12	263	7.113E-32	1077
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2A4J5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2A4J5-F1-model_v4 5'-nucleotidase SurE	0.376	259	157	1	253	1	259	1.703E-30	1074
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7NNG7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7NNG7-F1-model_v4 5'-nucleotidase SurE	0.434	252	141	1	250	1	252	9.830E-31	1070
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0TAY4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0TAY4-F1-model_v4 5'-nucleotidase SurE	0.381	252	153	1	248	1	252	1.310E-31	1069
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9K7G8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9K7G8-F1-model_v4 5'-nucleotidase SurE	0.368	249	154	1	249	1	245	2.898E-31	1068
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1KTK1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1KTK1-F1-model_v4 5'-nucleotidase SurE	0.372	247	154	1	247	1	247	2.413E-31	1068
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0M5L6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0M5L6-F1-model_v4 5'-nucleotidase SurE	0.355	254	162	2	253	7	260	6.814E-31	1065
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P96112-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P96112-F1-model_v4 5'-nucleotidase SurE	0.361	251	157	1	251	1	247	7.244E-31	1063
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1FQW9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1FQW9-F1-model_v4 5'-nucleotidase SurE	0.372	247	154	1	247	1	247	1.091E-31	1063
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5HYC6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5HYC6-F1-model_v4 5'-nucleotidase SurE	0.372	247	154	1	247	1	247	3.275E-31	1062
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q11WK5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q11WK5-F1-model_v4 5'-nucleotidase SurE	0.372	254	158	2	253	5	258	3.081E-31	1060
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0AXU4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0AXU4-F1-model_v4 5'-nucleotidase SurE	0.350	263	164	1	253	1	263	3.700E-31	1060
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1LB13-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1LB13-F1-model_v4 5'-nucleotidase SurE	0.370	247	152	1	247	1	243	7.244E-31	1058
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8FC91-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8FC91-F1-model_v4 5'-nucleotidase SurE	0.404	253	150	1	253	1	252	5.337E-31	1058
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8F523-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8F523-F1-model_v4 5'-nucleotidase SurE	0.354	252	162	1	252	1	251	3.700E-31	1058
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1IDC2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1IDC2-F1-model_v4 5'-nucleotidase SurE	0.372	247	154	1	247	1	247	3.933E-31	1053
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8DI06-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8DI06-F1-model_v4 5'-nucleotidase SurE	0.391	252	149	1	246	1	252	6.411E-31	1053
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5FK02-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5FK02-F1-model_v4 5'-nucleotidase SurE	0.360	253	161	2	253	7	259	9.830E-31	1049
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3B5Y2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3B5Y2-F1-model_v4 5'-nucleotidase SurE	0.363	251	158	2	250	9	259	4.724E-31	1047
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5ILS0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5ILS0-F1-model_v4 5'-nucleotidase SurE	0.379	247	150	1	247	1	243	1.811E-30	1046
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ADI0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ADI0-F1-model_v4 5'-nucleotidase SurE	0.388	251	151	1	247	1	251	3.545E-30	1044
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7FQP3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7FQP3-F1-model_v4 5'-nucleotidase SurE	0.372	247	154	1	247	1	247	1.045E-30	1042
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ATV8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ATV8-F1-model_v4 5'-nucleotidase SurE	0.371	251	157	2	251	22	272	1.602E-30	1042
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8ZXL1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8ZXL1-F1-model_v4 5'-nucleotidase SurE	0.381	253	155	1	253	1	252	2.660E-29	1041
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q67NP4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q67NP4-F1-model_v4 5'-nucleotidase SurE	0.372	254	156	2	251	3	256	3.545E-30	1041
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8FYS8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8FYS8-F1-model_v4 5'-nucleotidase SurE	0.380	247	149	1	247	1	241	7.841E-30	1038
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7G9Y6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7G9Y6-F1-model_v4 5'-nucleotidase SurE	0.368	247	155	1	247	1	247	1.418E-30	1035
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0K9J0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0K9J0-F1-model_v4 5'-nucleotidase SurE	0.384	252	153	1	252	1	250	9.830E-31	1030
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6H213-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6H213-F1-model_v4 5'-nucleotidase SurE	0.356	253	162	2	253	5	257	4.525E-30	1029
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6TRH0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6TRH0-F1-model_v4 5'-nucleotidase SurE	0.378	254	157	1	253	1	254	1.734E-29	1028
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q24WI0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q24WI0-F1-model_v4 5'-nucleotidase SurE	0.380	247	149	1	247	1	241	1.925E-30	1025
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SD83-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SD83-F1-model_v4 5'-nucleotidase SurE	0.347	251	162	2	250	9	259	3.137E-30	1025
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5D2G6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5D2G6-F1-model_v4 5'-nucleotidase SurE	0.388	259	154	1	253	1	259	9.830E-31	1024
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8HSQ9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8HSQ9-F1-model_v4 5'-nucleotidase SurE	0.397	268	152	1	253	1	268	3.545E-30	1016
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8CWH0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8CWH0-F1-model_v4 5'-nucleotidase SurE	0.369	248	155	1	246	1	248	3.194E-29	1015
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8RA90-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8RA90-F1-model_v4 5'-nucleotidase SurE	0.375	252	156	2	253	5	255	8.335E-30	1015
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1BI19-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1BI19-F1-model_v4 5'-nucleotidase SurE	0.347	251	162	2	250	8	258	6.141E-30	1014
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2RJD1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2RJD1-F1-model_v4 5'-nucleotidase SurE	0.396	260	150	1	250	1	260	6.528E-30	1014
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3KZ52-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3KZ52-F1-model_v4 5'-nucleotidase SurE	0.368	247	155	1	247	1	247	6.141E-30	1011
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7UKT6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7UKT6-F1-model_v4 5'-nucleotidase SurE	0.409	253	149	1	253	1	253	3.005E-29	1011
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0JX00-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0JX00-F1-model_v4 5'-nucleotidase SurE	0.372	257	154	1	246	7	263	5.778E-30	1010
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3EFW1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3EFW1-F1-model_v4 5'-nucleotidase SurE	0.359	251	159	2	250	8	258	1.131E-29	1009
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q31LH6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q31LH6-F1-model_v4 5'-nucleotidase SurE	0.377	253	153	1	246	1	253	6.939E-30	1007
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5N0F0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5N0F0-F1-model_v4 5'-nucleotidase SurE	0.377	253	153	1	246	1	253	6.141E-30	1007
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7U5U4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7U5U4-F1-model_v4 5'-nucleotidase SurE	0.381	261	155	1	252	1	261	2.083E-29	1007
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0K177-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0K177-F1-model_v4 5'-nucleotidase SurE	0.382	252	155	1	252	1	252	3.335E-30	1006
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1I3V7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1I3V7-F1-model_v4 5'-nucleotidase SurE	0.366	254	160	1	253	1	254	2.827E-29	1004
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2VA83-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2VA83-F1-model_v4 5'-nucleotidase SurE	0.341	245	160	2	246	4	247	6.254E-29	991
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3PEA4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3PEA4-F1-model_v4 5'-nucleotidase SurE	0.357	259	160	1	250	4	262	8.487E-29	991
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8KC69-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8KC69-F1-model_v4 5'-nucleotidase SurE	0.334	255	166	2	251	9	263	5.535E-29	990
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2BSJ2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2BSJ2-F1-model_v4 5'-nucleotidase SurE	0.361	259	159	1	250	4	262	1.383E-28	982
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2TPM3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2TPM3-F1-model_v4 5'-nucleotidase SurE	0.361	247	157	1	247	1	247	6.648E-29	981
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q319M0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q319M0-F1-model_v4 5'-nucleotidase SurE	0.373	259	156	1	250	4	262	1.084E-28	981
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7V0I6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7V0I6-F1-model_v4 5'-nucleotidase SurE	0.368	257	156	3	250	6	262	6.648E-29	981
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6LS61-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6LS61-F1-model_v4 5'-nucleotidase SurE	0.380	247	152	1	246	1	247	1.844E-29	980
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2CB17-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2CB17-F1-model_v4 5'-nucleotidase SurE	0.358	261	161	1	252	4	264	1.224E-28	980
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0IC13-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0IC13-F1-model_v4 5'-nucleotidase SurE	0.395	262	152	1	253	4	265	2.121E-28	979
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4J5D2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4J5D2-F1-model_v4 5'-nucleotidase SurE	0.383	253	155	1	253	1	253	5.207E-29	978
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5GMH4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5GMH4-F1-model_v4 5'-nucleotidase SurE	0.385	261	154	1	252	4	264	1.996E-28	978
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2BXX8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2BXX8-F1-model_v4 5'-nucleotidase SurE	0.361	259	159	1	250	4	262	1.301E-28	978
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1J2E1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1J2E1-F1-model_v4 5'-nucleotidase SurE	0.391	252	152	2	253	11	261	7.066E-29	977
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q72H70-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q72H70-F1-model_v4 5'-nucleotidase SurE 1	0.407	251	148	1	251	1	251	4.078E-29	976
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15P28-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15P28-F1-model_v4 5'-nucleotidase SurE	0.344	247	158	1	247	1	242	3.907E-28	975
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8G678-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8G678-F1-model_v4 5'-nucleotidase SurE	0.370	259	158	1	252	4	262	1.766E-28	974
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7V8I0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7V8I0-F1-model_v4 5'-nucleotidase SurE	0.362	261	160	1	252	4	264	1.996E-28	974
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3AVE5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3AVE5-F1-model_v4 5'-nucleotidase SurE	0.354	261	162	1	252	4	264	2.397E-28	969
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2UXL6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2UXL6-F1-model_v4 5'-nucleotidase SurE	0.360	247	157	1	247	1	247	3.005E-29	968
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5GUT4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5GUT4-F1-model_v4 5'-nucleotidase SurE	0.391	247	144	1	238	5	251	2.879E-28	965
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7KB74-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7KB74-F1-model_v4 5'-nucleotidase SurE	0.370	258	155	3	249	9	266	7.511E-29	960
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3AL65-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3AL65-F1-model_v4 5'-nucleotidase SurE	0.358	261	161	1	252	4	264	5.302E-28	959
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9M4Z4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9M4Z4-F1-model_v4 5'-nucleotidase SurE	0.402	251	147	1	251	1	247	7.984E-29	958
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5G4S8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5G4S8-F1-model_v4 5'-nucleotidase SurE	0.405	251	146	1	251	1	247	4.693E-28	958
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6MCW1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6MCW1-F1-model_v4 5'-nucleotidase SurE	0.326	248	165	2	247	6	253	4.988E-28	958
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9RRT8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9RRT8-F1-model_v4 5'-nucleotidase SurE	0.381	250	154	2	251	18	267	1.996E-28	958
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1S4E2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1S4E2-F1-model_v4 5'-nucleotidase SurE	0.376	246	150	1	246	1	241	2.879E-28	957
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q487E6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q487E6-F1-model_v4 5'-nucleotidase SurE	0.391	253	152	1	253	1	251	1.471E-28	956
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0C6V3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0C6V3-F1-model_v4 5'-nucleotidase SurE	0.344	265	163	1	250	1	265	9.590E-29	955
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2W4A1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2W4A1-F1-model_v4 5'-nucleotidase SurE	0.392	247	149	1	247	12	257	2.548E-28	952
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2RH81-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2RH81-F1-model_v4 5'-nucleotidase SurE	0.369	246	155	1	246	6	251	7.066E-29	951
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9BBN4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9BBN4-F1-model_v4 5'-nucleotidase SurE	0.350	259	162	1	250	4	262	5.991E-28	951
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5EHF5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5EHF5-F1-model_v4 5'-nucleotidase SurE	0.402	251	147	1	251	1	247	7.984E-29	950
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C6E582-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C6E582-F1-model_v4 5'-nucleotidase SurE	0.401	251	147	1	251	1	247	5.991E-28	949
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8G513-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8G513-F1-model_v4 5'-nucleotidase SurE	0.407	251	148	1	250	1	251	1.996E-28	949
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3CVB4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3CVB4-F1-model_v4 5'-nucleotidase SurE	0.356	260	160	2	251	4	263	3.194E-29	949
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1DSR8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1DSR8-F1-model_v4 5'-nucleotidase SurE	0.382	247	149	1	247	1	242	1.084E-28	947
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2C436-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2C436-F1-model_v4 5'-nucleotidase SurE	0.361	259	159	1	250	4	262	6.369E-28	946
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P74709-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P74709-F1-model_v4 5'-nucleotidase SurE	0.361	269	160	1	252	7	275	8.643E-28	945
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46JK0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46JK0-F1-model_v4 5'-nucleotidase SurE	0.361	259	159	1	250	4	262	8.131E-28	944
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7MT32-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7MT32-F1-model_v4 5'-nucleotidase SurE	0.369	246	155	1	246	6	251	1.996E-28	943
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9KUI9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9KUI9-F1-model_v4 5'-nucleotidase SurE	0.360	246	153	1	246	1	240	4.415E-28	941
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1ASL7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1ASL7-F1-model_v4 5'-nucleotidase SurE	0.379	251	153	1	251	1	247	6.369E-28	940
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3IDD3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3IDD3-F1-model_v4 5'-nucleotidase SurE	0.400	253	151	1	253	1	252	6.369E-28	939
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7HXK5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7HXK5-F1-model_v4 5'-nucleotidase SurE	0.351	257	163	1	252	9	265	5.302E-28	939
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PIK6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PIK6-F1-model_v4 5'-nucleotidase SurE	0.356	248	158	2	247	3	250	1.019E-28	935
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3LS21-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3LS21-F1-model_v4 5'-nucleotidase SurE	0.344	253	163	1	253	14	263	2.708E-28	935
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4KHE8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4KHE8-F1-model_v4 5'-nucleotidase SurE	0.369	248	153	1	248	1	243	8.131E-28	934
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4YV68-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4YV68-F1-model_v4 5'-nucleotidase SurE	0.363	250	156	1	246	1	250	2.121E-28	934
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8ERC6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8ERC6-F1-model_v4 5'-nucleotidase SurE	0.346	247	160	1	246	1	247	6.770E-28	933
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VAV8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VAV8-F1-model_v4 5'-nucleotidase SurE	0.350	259	162	1	250	4	262	1.799E-27	933
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4VJV2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4VJV2-F1-model_v4 5'-nucleotidase SurE	0.377	247	150	1	247	1	242	1.173E-27	932
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39VS1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39VS1-F1-model_v4 5'-nucleotidase SurE	0.408	250	145	1	250	1	246	1.224E-28	932
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5HWH7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5HWH7-F1-model_v4 5'-nucleotidase SurE	0.358	256	160	2	251	3	258	1.224E-28	932
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5WX53-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5WX53-F1-model_v4 5'-nucleotidase SurE	0.360	253	161	1	253	1	252	1.103E-27	931
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5V3Z0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5V3Z0-F1-model_v4 5'-nucleotidase SurE	0.360	248	156	1	245	1	248	9.590E-29	931
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9JXD7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9JXD7-F1-model_v4 5'-nucleotidase SurE	0.349	256	164	1	253	1	256	2.397E-28	931
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2NDM8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2NDM8-F1-model_v4 5'-nucleotidase SurE	0.374	247	153	1	246	1	247	4.988E-28	929
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1VY14-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1VY14-F1-model_v4 5'-nucleotidase SurE	0.356	248	158	2	247	3	250	1.563E-28	929
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5X5S5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5X5S5-F1-model_v4 5'-nucleotidase SurE	0.366	253	159	1	253	1	252	1.103E-27	925
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C0ZGV3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C0ZGV3-F1-model_v4 5'-nucleotidase SurE	0.363	254	158	1	249	1	254	5.991E-28	925
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q65Q81-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q65Q81-F1-model_v4 5'-nucleotidase SurE	0.369	247	151	1	247	1	240	6.369E-28	924
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4XWR2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4XWR2-F1-model_v4 5'-nucleotidase SurE	0.368	248	153	1	248	1	243	1.103E-27	924
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6X1F1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6X1F1-F1-model_v4 5'-nucleotidase SurE	0.335	255	167	1	252	1	255	4.153E-28	924
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SRB6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SRB6-F1-model_v4 5'-nucleotidase SurE	0.394	246	145	1	246	1	240	1.103E-27	922
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9B1D4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9B1D4-F1-model_v4 5'-nucleotidase SurE	0.370	247	154	1	246	1	247	2.296E-27	922
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4Y938-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4Y938-F1-model_v4 5'-nucleotidase SurE	0.366	247	153	1	247	2	243	3.743E-27	921
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3A4N5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3A4N5-F1-model_v4 5'-nucleotidase SurE	0.406	253	146	1	253	1	247	6.369E-28	921
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q11HC9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q11HC9-F1-model_v4 5'-nucleotidase SurE	0.362	247	156	1	246	1	247	9.187E-28	920
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3MBU3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3MBU3-F1-model_v4 5'-nucleotidase SurE	0.354	246	158	1	246	1	246	7.196E-28	920
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4RDI0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4RDI0-F1-model_v4 5'-nucleotidase SurE	0.338	248	164	1	248	1	248	7.789E-27	920
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7H578-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7H578-F1-model_v4 5'-nucleotidase SurE	0.350	248	159	2	247	3	250	4.693E-28	920
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q98LC9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q98LC9-F1-model_v4 5'-nucleotidase SurE	0.358	247	157	1	246	1	247	7.196E-28	919
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8FK82-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8FK82-F1-model_v4 5'-nucleotidase SurE	0.359	248	157	2	247	3	250	3.676E-28	919
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5F9D9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5F9D9-F1-model_v4 5'-nucleotidase SurE	0.344	253	163	1	253	14	263	8.643E-28	919
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1XPE2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1XPE2-F1-model_v4 5'-nucleotidase SurE	0.347	269	163	3	253	9	277	7.649E-28	917
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9MAQ9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9MAQ9-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	2.879E-28	916
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1WXT3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1WXT3-F1-model_v4 5'-nucleotidase SurE	0.366	258	156	1	247	7	264	2.879E-28	916
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8I066-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8I066-F1-model_v4 5'-nucleotidase SurE	0.366	248	155	1	246	1	248	2.879E-28	915
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8TY72-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8TY72-F1-model_v4 5'-nucleotidase SurE	0.353	256	159	1	247	1	256	5.302E-28	915
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q74CZ6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q74CZ6-F1-model_v4 5'-nucleotidase SurE	0.426	250	141	1	250	1	246	2.032E-27	915
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0RMU4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0RMU4-F1-model_v4 5'-nucleotidase SurE	0.347	251	160	2	247	3	253	1.038E-27	914
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2RTH6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2RTH6-F1-model_v4 5'-nucleotidase SurE	0.389	248	150	2	248	12	259	2.758E-27	914
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q886L5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q886L5-F1-model_v4 5'-nucleotidase SurE	0.360	246	154	1	246	1	241	3.116E-27	913
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7I2X3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7I2X3-F1-model_v4 5'-nucleotidase SurE	0.369	255	157	2	251	3	257	7.649E-28	913
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6JFP2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6JFP2-F1-model_v4 5'-nucleotidase SurE	0.355	251	158	1	246	1	251	7.649E-28	913
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0TK09-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0TK09-F1-model_v4 5'-nucleotidase SurE	0.370	247	152	1	247	1	242	7.789E-27	912
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1RHF8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1RHF8-F1-model_v4 5'-nucleotidase SurE	0.366	247	153	1	247	2	243	7.789E-27	911
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HY05-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HY05-F1-model_v4 5'-nucleotidase SurE	0.377	246	150	1	246	1	241	7.196E-28	911
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O67004-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O67004-F1-model_v4 5'-nucleotidase SurE	0.341	246	159	2	247	3	245	2.441E-27	911
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2S5B9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2S5B9-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	2.397E-28	911
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9KYG5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9KYG5-F1-model_v4 5'-nucleotidase SurE	0.366	247	153	1	247	2	243	9.355E-27	910
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P57955-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P57955-F1-model_v4 5'-nucleotidase SurE	0.393	247	145	1	247	1	240	8.643E-28	909
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4ZWQ0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4ZWQ0-F1-model_v4 5'-nucleotidase SurE	0.370	246	151	1	246	1	241	2.160E-27	909
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0KGH8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0KGH8-F1-model_v4 5'-nucleotidase SurE	0.371	246	153	1	246	1	245	2.296E-27	909
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8GRG3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8GRG3-F1-model_v4 5'-nucleotidase SurE	0.346	250	162	1	250	1	249	4.496E-27	908
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3Q6H7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3Q6H7-F1-model_v4 5'-nucleotidase SurE	0.380	250	152	1	246	1	250	2.160E-27	908
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2FK94-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2FK94-F1-model_v4 5'-nucleotidase SurE	0.373	246	152	1	246	1	244	9.355E-27	908
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9S4T3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9S4T3-F1-model_v4 5'-nucleotidase SurE	0.364	253	159	1	253	1	251	6.894E-27	907
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5EJV7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5EJV7-F1-model_v4 5'-nucleotidase SurE	0.375	250	153	1	246	1	250	1.409E-27	907
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4SR92-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4SR92-F1-model_v4 5'-nucleotidase SurE	0.373	246	152	1	246	1	244	6.101E-27	907
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5UE24-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5UE24-F1-model_v4 5'-nucleotidase SurE	0.369	247	151	1	247	1	240	1.247E-27	906
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5UHI7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5UHI7-F1-model_v4 5'-nucleotidase SurE	0.373	247	150	1	247	1	240	1.592E-27	905
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0UD11-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0UD11-F1-model_v4 5'-nucleotidase SurE	0.361	253	159	1	250	1	253	9.187E-28	905
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q899M5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q899M5-F1-model_v4 5'-nucleotidase SurE	0.338	246	162	1	246	1	245	5.302E-28	904
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6LF90-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6LF90-F1-model_v4 5'-nucleotidase SurE	0.344	245	159	2	246	7	250	3.979E-27	904
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6N5X7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6N5X7-F1-model_v4 5'-nucleotidase SurE	0.380	250	152	1	246	1	250	3.116E-27	904
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6VLU0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6VLU0-F1-model_v4 5'-nucleotidase SurE	0.366	247	152	1	247	1	240	3.116E-27	903
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0HL67-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0HL67-F1-model_v4 5'-nucleotidase SurE	0.362	247	154	1	247	2	243	1.350E-26	903
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P45681-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P45681-F1-model_v4 5'-nucleotidase SurE	0.369	247	151	1	247	1	240	2.032E-27	903
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9JEH2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9JEH2-F1-model_v4 5'-nucleotidase SurE	0.352	257	163	1	252	1	257	1.692E-27	903
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5JE78-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5JE78-F1-model_v4 5'-nucleotidase SurE	0.339	259	165	1	250	1	259	2.441E-27	903
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q89L02-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q89L02-F1-model_v4 5'-nucleotidase SurE	0.385	250	151	1	246	1	250	8.643E-28	902
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5E331-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5E331-F1-model_v4 5'-nucleotidase SurE	0.326	253	168	1	253	8	257	8.280E-27	902
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7V8C4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7V8C4-F1-model_v4 5'-nucleotidase SurE	0.376	246	150	1	246	1	241	1.038E-27	901
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6WR23-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6WR23-F1-model_v4 5'-nucleotidase SurE	0.366	247	153	1	247	2	243	1.194E-26	901
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2YNM5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2YNM5-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	5.302E-28	901
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7MHQ7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7MHQ7-F1-model_v4 5'-nucleotidase SurE	0.337	246	158	1	246	9	248	8.280E-27	901
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O29320-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O29320-F1-model_v4 5'-nucleotidase SurE	0.352	261	163	1	253	1	261	5.740E-27	901
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5A6M8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5A6M8-F1-model_v4 5'-nucleotidase SurE	0.334	262	168	1	253	1	262	1.173E-27	901
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3SRQ5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3SRQ5-F1-model_v4 5'-nucleotidase SurE	0.345	250	160	1	246	1	250	2.296E-27	900
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0A7L4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0A7L4-F1-model_v4 5'-nucleotidase SurE	0.376	248	151	1	248	2	244	3.313E-27	900
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5LQ08-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5LQ08-F1-model_v4 5'-nucleotidase SurE	0.344	260	163	1	250	1	260	1.799E-27	900
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3K705-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3K705-F1-model_v4 5'-nucleotidase SurE	0.376	248	151	1	248	1	243	7.649E-28	899
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q48F87-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q48F87-F1-model_v4 5'-nucleotidase SurE	0.364	249	156	1	247	1	249	2.160E-27	899
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8E8T6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8E8T6-F1-model_v4 5'-nucleotidase SurE	0.366	247	153	1	247	2	243	1.621E-26	899
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1LXR9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1LXR9-F1-model_v4 5'-nucleotidase SurE	0.354	248	158	1	246	1	248	1.799E-27	899
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8UEQ3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8UEQ3-F1-model_v4 5'-nucleotidase SurE	0.362	246	156	1	246	1	246	3.979E-27	899
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1VQF4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1VQF4-F1-model_v4 5'-nucleotidase SurE	0.372	249	153	1	245	1	249	5.080E-27	899
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3D790-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3D790-F1-model_v4 5'-nucleotidase SurE	0.362	247	154	1	247	2	243	1.832E-26	898
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3NA65-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3NA65-F1-model_v4 5'-nucleotidase SurE	0.344	247	159	1	247	1	243	2.338E-26	898
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1JB30-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1JB30-F1-model_v4 5'-nucleotidase SurE	0.365	248	154	1	248	1	243	2.595E-27	897
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3JRP0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3JRP0-F1-model_v4 5'-nucleotidase SurE	0.344	247	159	1	247	1	243	2.642E-26	897
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8JDR1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8JDR1-F1-model_v4 5'-nucleotidase SurE	0.382	252	151	1	252	1	246	5.991E-28	897
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q07N44-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q07N44-F1-model_v4 5'-nucleotidase SurE	0.386	251	151	1	247	1	251	4.988E-28	897
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6L1M6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6L1M6-F1-model_v4 5'-nucleotidase SurE	0.298	252	176	2	253	7	257	1.270E-26	897
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3KH84-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3KH84-F1-model_v4 5'-nucleotidase SurE	0.356	248	156	1	248	1	243	8.643E-28	896
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q57DM1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q57DM1-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	7.649E-28	896
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4FXC7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4FXC7-F1-model_v4 5'-nucleotidase SurE	0.326	256	166	1	247	3	258	1.194E-26	896
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1A8T7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1A8T7-F1-model_v4 5'-nucleotidase SurE	0.324	253	170	1	253	1	252	9.766E-28	895
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5IBD5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5IBD5-F1-model_v4 5'-nucleotidase SurE	0.362	253	160	1	253	1	252	1.124E-26	895
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4UE89-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4UE89-F1-model_v4 5'-nucleotidase SurE	0.382	252	151	1	252	1	246	7.649E-28	895
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q12PY9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q12PY9-F1-model_v4 5'-nucleotidase SurE	0.377	247	150	1	247	2	243	1.832E-26	894
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1TZ53-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1TZ53-F1-model_v4 5'-nucleotidase SurE	0.362	247	154	1	247	1	242	2.338E-26	894
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6V1G3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6V1G3-F1-model_v4 5'-nucleotidase SurE	0.375	246	150	1	246	1	241	4.693E-28	893
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2L006-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2L006-F1-model_v4 5'-nucleotidase SurE	0.392	246	146	1	246	1	241	1.435E-26	893
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q390V3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q390V3-F1-model_v4 5'-nucleotidase SurE 1	0.360	246	157	2	247	10	255	6.485E-27	893
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8FST3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8FST3-F1-model_v4 5'-nucleotidase SurE	0.346	247	158	1	247	2	243	5.173E-26	892
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66879-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66879-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	1.497E-27	892
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66880-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66880-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	1.325E-27	892
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O08248-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O08248-F1-model_v4 5'-nucleotidase SurE	0.367	246	155	1	246	1	246	2.296E-27	892
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6SZY0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6SZY0-F1-model_v4 5'-nucleotidase SurE	0.346	247	157	1	247	1	241	2.642E-26	891
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4QML8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4QML8-F1-model_v4 5'-nucleotidase SurE	0.369	247	151	1	247	1	240	4.779E-27	891
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0HXG5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0HXG5-F1-model_v4 5'-nucleotidase SurE	0.362	247	154	1	247	2	243	3.173E-26	891
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q63UU4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q63UU4-F1-model_v4 5'-nucleotidase SurE	0.344	247	159	1	247	1	243	4.307E-26	891
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1K4E9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1K4E9-F1-model_v4 5'-nucleotidase SurE	0.368	246	152	1	246	1	241	1.350E-26	890
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q02R97-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q02R97-F1-model_v4 5'-nucleotidase SurE	0.376	246	150	1	246	1	241	2.160E-27	890
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6U8N9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6U8N9-F1-model_v4 5'-nucleotidase SurE	0.365	246	156	1	246	1	246	2.932E-27	890
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q87LQ5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q87LQ5-F1-model_v4 5'-nucleotidase SurE	0.337	246	158	1	246	11	250	4.866E-26	889
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3BUS4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3BUS4-F1-model_v4 5'-nucleotidase SurE	0.356	248	158	1	248	1	246	4.866E-26	889
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2P1L4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2P1L4-F1-model_v4 5'-nucleotidase SurE	0.356	248	158	1	248	1	246	4.307E-26	889
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2SUB2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2SUB2-F1-model_v4 5'-nucleotidase SurE	0.356	248	158	1	248	1	246	4.307E-26	889
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3QC82-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3QC82-F1-model_v4 5'-nucleotidase SurE	0.357	247	155	1	247	2	243	2.809E-26	888
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C0RIL9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C0RIL9-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	2.032E-27	888
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q214W6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q214W6-F1-model_v4 5'-nucleotidase SurE	0.382	250	151	1	246	1	250	1.409E-27	888
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8P9Y7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8P9Y7-F1-model_v4 5'-nucleotidase SurE	0.360	248	157	1	248	1	246	3.586E-26	888
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9A6T5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9A6T5-F1-model_v4 5'-nucleotidase SurE	0.330	251	165	1	248	1	251	3.173E-26	888
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2SQ45-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2SQ45-F1-model_v4 5'-nucleotidase SurE	0.335	252	163	2	247	5	256	1.435E-26	888
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8EBR5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8EBR5-F1-model_v4 5'-nucleotidase SurE	0.362	247	154	1	247	2	243	3.173E-26	887
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3NVY2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3NVY2-F1-model_v4 5'-nucleotidase SurE	0.342	247	159	1	247	1	243	4.866E-26	887
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2IWG9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2IWG9-F1-model_v4 5'-nucleotidase SurE	0.384	250	151	1	246	1	250	7.649E-28	887
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1D402-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1D402-F1-model_v4 5'-nucleotidase SurE	0.404	251	146	2	252	7	252	2.032E-27	887
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5VQ63-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5VQ63-F1-model_v4 5'-nucleotidase SurE	0.354	255	162	1	251	1	255	2.595E-27	886
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1SSR3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1SSR3-F1-model_v4 5'-nucleotidase SurE	0.370	246	150	1	246	1	239	1.435E-26	885
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4LBQ6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4LBQ6-F1-model_v4 5'-nucleotidase SurE	0.361	246	153	1	246	1	240	1.194E-26	885
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1KPT1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1KPT1-F1-model_v4 5'-nucleotidase SurE	0.342	249	163	1	249	2	249	6.213E-26	885
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5EY39-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5EY39-F1-model_v4 5'-nucleotidase SurE	0.330	250	167	1	250	1	250	4.229E-27	885
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0RTZ9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0RTZ9-F1-model_v4 5'-nucleotidase SurE	0.360	248	157	1	248	1	246	3.173E-26	885
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8LQK5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8LQK5-F1-model_v4 5'-nucleotidase SurE	0.325	257	166	1	247	1	257	2.441E-27	885
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5P832-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5P832-F1-model_v4 5'-nucleotidase SurE	0.368	246	152	1	246	1	241	9.945E-27	884
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7H8F6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7H8F6-F1-model_v4 5'-nucleotidase SurE	0.389	252	150	1	252	1	246	3.979E-27	884
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2INZ4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2INZ4-F1-model_v4 5'-nucleotidase SurE	0.386	252	150	1	252	1	246	1.497E-27	884
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0I5H7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0I5H7-F1-model_v4 5'-nucleotidase SurE	0.376	247	149	1	247	1	240	7.789E-27	883
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5QUC6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5QUC6-F1-model_v4 5'-nucleotidase SurE	0.366	246	152	1	246	2	242	1.124E-26	883
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8IN19-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8IN19-F1-model_v4 5'-nucleotidase SurE	0.357	248	158	1	246	1	248	5.399E-27	883
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2IJG0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2IJG0-F1-model_v4 5'-nucleotidase SurE	0.338	255	165	1	250	1	255	7.328E-27	883
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8GX52-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8GX52-F1-model_v4 5'-nucleotidase SurE	0.334	251	165	1	248	1	251	3.173E-26	883
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4G4J2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4G4J2-F1-model_v4 5'-nucleotidase SurE	0.342	247	158	1	247	1	241	7.462E-26	882
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VXN2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VXN2-F1-model_v4 5'-nucleotidase SurE	0.344	253	165	1	253	1	252	1.723E-26	882
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8PLR4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8PLR4-F1-model_v4 5'-nucleotidase SurE	0.352	248	159	1	248	1	246	6.604E-26	882
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0KSC7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0KSC7-F1-model_v4 5'-nucleotidase SurE	0.361	248	155	1	248	1	243	8.280E-27	881
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1ZJ09-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1ZJ09-F1-model_v4 5'-nucleotidase SurE	0.354	248	158	1	246	1	248	6.894E-27	881
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0CLL1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0CLL1-F1-model_v4 5'-nucleotidase SurE	0.351	255	162	1	251	1	255	3.313E-27	881
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7W670-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7W670-F1-model_v4 5'-nucleotidase SurE	0.356	247	155	1	247	1	242	4.866E-26	880
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6JMF1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6JMF1-F1-model_v4 5'-nucleotidase SurE	0.316	257	168	2	247	3	259	1.799E-27	880
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q88MF1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q88MF1-F1-model_v4 5'-nucleotidase SurE	0.360	248	155	1	248	1	243	3.116E-27	879
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1WWY6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1WWY6-F1-model_v4 5'-nucleotidase SurE	0.354	251	162	1	251	1	251	2.642E-26	879
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4JEQ1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4JEQ1-F1-model_v4 5'-nucleotidase SurE	0.338	247	160	1	247	1	243	6.604E-26	879
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q136H7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q136H7-F1-model_v4 5'-nucleotidase SurE	0.386	250	150	1	246	1	250	1.692E-27	879
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4UTP8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4UTP8-F1-model_v4 5'-nucleotidase SurE	0.360	248	157	1	248	1	246	6.604E-26	879
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1ATN8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1ATN8-F1-model_v4 5'-nucleotidase SurE	0.334	259	167	1	251	1	259	9.355E-27	879
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0W2Q3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0W2Q3-F1-model_v4 5'-nucleotidase SurE	0.324	256	166	2	247	4	259	1.435E-26	879
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1I654-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1I654-F1-model_v4 5'-nucleotidase SurE	0.360	248	155	1	248	1	243	3.313E-27	878
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3PXU4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3PXU4-F1-model_v4 5'-nucleotidase SurE	0.338	247	162	1	246	1	247	1.270E-26	878
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0URR1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0URR1-F1-model_v4 5'-nucleotidase SurE	0.376	247	149	1	247	1	240	1.124E-26	877
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2SWF5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2SWF5-F1-model_v4 5'-nucleotidase SurE	0.354	247	156	1	247	1	243	7.020E-26	877
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q53W92-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q53W92-F1-model_v4 5'-nucleotidase SurE	0.358	253	156	1	253	1	244	2.160E-27	876
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8H1T0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8H1T0-F1-model_v4 5'-nucleotidase SurE	0.364	246	151	1	246	2	240	1.350E-26	876
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9VY48-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9VY48-F1-model_v4 5'-nucleotidase SurE	0.346	248	160	1	246	1	248	5.740E-27	876
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1GFP2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1GFP2-F1-model_v4 5'-nucleotidase SurE	0.334	260	166	1	250	1	260	2.758E-27	876
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2UU78-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2UU78-F1-model_v4 5'-nucleotidase SurE	0.314	265	170	2	250	3	267	3.979E-27	876
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2FLE8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2FLE8-F1-model_v4 5'-nucleotidase SurE	0.327	258	167	2	250	22	279	1.525E-26	876
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3MK87-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3MK87-F1-model_v4 5'-nucleotidase SurE	0.346	247	158	1	247	1	243	7.462E-26	875
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2HVM9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2HVM9-F1-model_v4 5'-nucleotidase SurE	0.354	251	159	1	247	1	251	1.497E-27	875
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7ZCD9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7ZCD9-F1-model_v4 5'-nucleotidase SurE	0.357	251	158	2	248	3	253	2.932E-27	875
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5GYL1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5GYL1-F1-model_v4 5'-nucleotidase SurE	0.356	248	158	1	248	1	246	1.216E-25	875
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0T1Q2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0T1Q2-F1-model_v4 5'-nucleotidase SurE	0.309	262	174	1	253	1	262	1.525E-26	875
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5LHD7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5LHD7-F1-model_v4 5'-nucleotidase SurE	0.300	250	174	2	251	7	255	7.020E-26	874
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q13Z72-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q13Z72-F1-model_v4 5'-nucleotidase SurE	0.342	247	159	1	247	1	242	1.293E-25	873
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9IP06-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9IP06-F1-model_v4 5'-nucleotidase SurE	0.365	247	153	1	247	1	242	4.052E-26	873
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q64YA5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q64YA5-F1-model_v4 5'-nucleotidase SurE	0.305	246	170	2	247	7	251	7.932E-26	873
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q17WX7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q17WX7-F1-model_v4 5'-nucleotidase SurE	0.320	257	167	2	247	3	259	6.101E-27	873
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62JV2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62JV2-F1-model_v4 5'-nucleotidase SurE	0.346	247	158	1	247	1	243	9.527E-26	872
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7KPY4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7KPY4-F1-model_v4 5'-nucleotidase SurE	0.346	248	160	1	246	1	248	7.789E-27	872
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5W821-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5W821-F1-model_v4 5'-nucleotidase SurE	0.360	248	155	1	248	1	243	6.101E-27	871
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0K950-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0K950-F1-model_v4 5'-nucleotidase SurE	0.354	246	158	1	246	1	245	2.531E-25	871
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7WI36-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7WI36-F1-model_v4 5'-nucleotidase SurE	0.344	253	165	1	253	1	252	3.812E-26	871
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0KU87-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0KU87-F1-model_v4 5'-nucleotidase SurE	0.376	247	150	1	247	2	243	1.947E-26	870
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5CUL9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5CUL9-F1-model_v4 5'-nucleotidase SurE	0.384	247	150	1	247	1	244	4.307E-26	870
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3PIZ9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3PIZ9-F1-model_v4 5'-nucleotidase SurE	0.343	261	162	1	248	1	261	2.160E-27	870
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q87AK6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q87AK6-F1-model_v4 5'-nucleotidase SurE	0.361	247	157	1	246	1	247	2.809E-26	870
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6VFZ9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6VFZ9-F1-model_v4 5'-nucleotidase SurE	0.323	256	167	1	247	3	258	9.527E-26	870
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5Z7T4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5Z7T4-F1-model_v4 5'-nucleotidase SurE	0.320	257	167	2	247	3	259	6.101E-27	870
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1V4L3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1V4L3-F1-model_v4 5'-nucleotidase SurE	0.346	247	158	1	247	1	243	1.144E-25	869
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8DC57-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8DC57-F1-model_v4 5'-nucleotidase SurE	0.336	246	159	1	246	9	248	5.498E-26	869
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7I6S6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7I6S6-F1-model_v4 5'-nucleotidase SurE	0.324	257	168	2	250	4	260	1.723E-26	868
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1DBF4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C1DBF4-F1-model_v4 5'-nucleotidase SurE	0.365	246	152	1	246	1	241	1.374E-25	866
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3J3D0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3J3D0-F1-model_v4 5'-nucleotidase SurE	0.343	261	162	1	248	1	261	3.116E-27	866
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZKS0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZKS0-F1-model_v4 5'-nucleotidase SurE	0.316	257	168	2	247	3	259	5.399E-27	866
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1QU76-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1QU76-F1-model_v4 5'-nucleotidase SurE	0.360	246	152	2	247	3	241	1.350E-26	865
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q604W8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q604W8-F1-model_v4 5'-nucleotidase SurE	0.386	246	147	1	246	1	241	1.461E-25	865
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39FP8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39FP8-F1-model_v4 5'-nucleotidase SurE 2	0.345	247	159	1	247	1	243	1.374E-25	865
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PF20-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PF20-F1-model_v4 5'-nucleotidase SurE	0.358	247	157	1	246	1	247	4.866E-26	865
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1QME1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1QME1-F1-model_v4 5'-nucleotidase SurE	0.351	250	159	1	246	1	250	1.124E-26	864
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2I8X7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2I8X7-F1-model_v4 5'-nucleotidase SurE	0.358	247	157	1	246	1	247	5.498E-26	864
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6LYE0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6LYE0-F1-model_v4 5'-nucleotidase SurE	0.314	256	169	1	247	1	256	1.216E-25	863
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3JCZ4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3JCZ4-F1-model_v4 5'-nucleotidase SurE	0.368	250	157	1	250	1	249	7.328E-27	862
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2S290-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2S290-F1-model_v4 5'-nucleotidase SurE	0.345	247	159	1	247	1	243	1.651E-25	862
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q12U23-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q12U23-F1-model_v4 5'-nucleotidase SurE	0.316	258	170	2	250	4	261	6.213E-26	862
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6LMT6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6LMT6-F1-model_v4 5'-nucleotidase SurE	0.373	247	150	1	247	1	240	4.052E-26	861
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q163U3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q163U3-F1-model_v4 5'-nucleotidase SurE	0.330	261	167	1	251	1	261	9.945E-27	861
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0C0W3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0C0W3-F1-model_v4 5'-nucleotidase SurE	0.321	253	170	1	251	1	253	1.435E-26	860
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9KDQ8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9KDQ8-F1-model_v4 5'-nucleotidase SurE	0.350	249	159	2	247	3	251	3.979E-27	860
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0U4U5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0U4U5-F1-model_v4 5'-nucleotidase SurE	0.358	247	157	1	246	1	247	5.173E-26	860
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46ZH1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46ZH1-F1-model_v4 5'-nucleotidase SurE	0.362	246	156	1	246	1	245	4.662E-25	859
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7MTT7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7MTT7-F1-model_v4 5'-nucleotidase SurE	0.329	250	166	1	250	11	258	4.578E-26	859
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q128R7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q128R7-F1-model_v4 5'-nucleotidase SurE	0.351	251	160	1	247	1	251	5.498E-26	859
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1CSU4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1CSU4-F1-model_v4 5'-nucleotidase SurE	0.314	265	170	2	250	3	267	6.894E-27	859
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0VUE2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0VUE2-F1-model_v4 5'-nucleotidase SurE	0.356	251	158	1	247	1	251	7.328E-27	858
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6J4X6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6J4X6-F1-model_v4 5'-nucleotidase SurE	0.335	251	166	1	251	9	258	1.013E-25	857
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1B5M1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1B5M1-F1-model_v4 5'-nucleotidase SurE	0.315	264	173	1	253	1	264	9.355E-27	857
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1WE26-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1WE26-F1-model_v4 5'-nucleotidase SurE	0.357	259	161	1	251	1	259	2.642E-26	855
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4WU04-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4WU04-F1-model_v4 5'-nucleotidase SurE	0.343	261	162	1	248	1	261	3.743E-27	855
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q28TH7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q28TH7-F1-model_v4 5'-nucleotidase SurE	0.315	259	169	1	247	1	259	1.270E-26	855
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5ZMG1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5ZMG1-F1-model_v4 5'-nucleotidase SurE	0.323	257	171	1	253	1	257	2.070E-26	854
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O25584-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O25584-F1-model_v4 5'-nucleotidase SurE	0.323	257	166	2	247	3	259	5.399E-27	854
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3SKJ3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3SKJ3-F1-model_v4 5'-nucleotidase SurE	0.355	251	159	1	251	1	247	2.107E-25	852
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9N9U7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9N9U7-F1-model_v4 5'-nucleotidase SurE	0.335	251	166	1	251	9	258	1.461E-25	852
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8A0L8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8A0L8-F1-model_v4 5'-nucleotidase SurE	0.312	247	169	2	248	7	252	2.860E-25	852
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q21UQ9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q21UQ9-F1-model_v4 5'-nucleotidase SurE	0.353	253	161	1	250	1	253	7.020E-26	851
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2SF75-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2SF75-F1-model_v4 5'-nucleotidase SurE	0.345	245	157	1	245	1	241	4.866E-26	851
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5NNV1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5NNV1-F1-model_v4 5'-nucleotidase SurE	0.359	249	157	1	246	1	249	2.809E-26	851
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2BLQ8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2BLQ8-F1-model_v4 5'-nucleotidase SurE	0.324	256	166	2	247	6	261	1.621E-26	851
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6VUV4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6VUV4-F1-model_v4 5'-nucleotidase SurE	0.321	251	168	1	251	1	248	5.173E-26	850
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2SKW4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2SKW4-F1-model_v4 5'-nucleotidase SurE	0.334	247	161	1	247	1	242	6.213E-26	846
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1MHM1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1MHM1-F1-model_v4 5'-nucleotidase SurE	0.323	257	171	1	253	1	257	4.307E-26	845
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q57979-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q57979-F1-model_v4 5'-nucleotidase SurE	0.316	257	168	1	247	1	257	3.232E-25	845
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3R1L4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3R1L4-F1-model_v4 5'-nucleotidase SurE	0.358	246	157	1	246	1	245	1.400E-24	844
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0ANE1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0ANE1-F1-model_v4 5'-nucleotidase SurE	0.330	257	167	3	253	8	264	1.374E-25	844
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8Y040-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8Y040-F1-model_v4 5'-nucleotidase SurE	0.354	247	158	1	247	1	246	7.599E-25	843
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5UMJ5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5UMJ5-F1-model_v4 5'-nucleotidase SurE	0.334	258	164	1	247	1	258	5.845E-26	842
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6UP61-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6UP61-F1-model_v4 5'-nucleotidase SurE	0.315	256	169	1	247	3	258	6.327E-25	842
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2YBR8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2YBR8-F1-model_v4 5'-nucleotidase SurE	0.354	253	162	1	253	1	252	3.232E-25	841
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9MFW6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9MFW6-F1-model_v4 5'-nucleotidase SurE	0.352	256	163	1	252	1	256	2.107E-25	841
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6Q9V0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6Q9V0-F1-model_v4 5'-nucleotidase SurE	0.355	254	158	2	247	6	259	5.845E-26	841
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9KQZ2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9KQZ2-F1-model_v4 5'-nucleotidase SurE	0.343	261	162	1	248	1	261	1.124E-26	840
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q31G71-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q31G71-F1-model_v4 5'-nucleotidase SurE	0.347	251	162	1	249	1	251	4.578E-26	839
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0B8M6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0B8M6-F1-model_v4 5'-nucleotidase SurE	0.323	263	168	2	250	3	265	1.013E-25	838
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q47D24-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q47D24-F1-model_v4 5'-nucleotidase SurE	0.344	246	157	1	246	1	241	2.531E-25	837
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6J3X6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6J3X6-F1-model_v4 5'-nucleotidase SurE	0.335	251	166	1	251	9	258	1.983E-25	837
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9KI21-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9KI21-F1-model_v4 5'-nucleotidase SurE	0.335	251	166	1	251	9	258	2.381E-25	837
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6FCV6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6FCV6-F1-model_v4 5'-nucleotidase SurE	0.347	251	161	1	247	1	251	2.809E-26	835
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7GZ27-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7GZ27-F1-model_v4 5'-nucleotidase SurE	0.358	251	158	1	247	1	251	5.498E-26	832
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2K966-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2K966-F1-model_v4 5'-nucleotidase SurE	0.322	257	171	1	253	1	257	1.013E-25	832
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1AXG6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1AXG6-F1-model_v4 5'-nucleotidase SurE	0.322	246	161	1	246	1	239	9.127E-25	831
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q086A5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q086A5-F1-model_v4 5'-nucleotidase SurE	0.369	246	151	1	246	2	242	2.691E-25	831
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0BTK8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0BTK8-F1-model_v4 5'-nucleotidase SurE	0.335	251	164	1	247	1	251	9.127E-25	828
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q30QB8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q30QB8-F1-model_v4 5'-nucleotidase SurE	0.328	257	165	2	247	4	260	9.527E-26	828
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9M0S4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9M0S4-F1-model_v4 5'-nucleotidase SurE	0.347	250	161	1	250	1	248	1.651E-25	827
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4RKR4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4RKR4-F1-model_v4 5'-nucleotidase SurE	0.351	250	160	1	250	1	248	1.374E-25	825
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0VBZ1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0VBZ1-F1-model_v4 5'-nucleotidase SurE	0.354	251	159	1	247	1	251	3.173E-26	825
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8EX03-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8EX03-F1-model_v4 5'-nucleotidase SurE	0.329	255	164	2	247	3	257	3.373E-26	824
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1H096-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1H096-F1-model_v4 5'-nucleotidase SurE	0.344	247	158	1	247	1	242	1.165E-24	823
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q823A6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q823A6-F1-model_v4 5'-nucleotidase SurE 1	0.285	257	176	1	247	5	261	7.932E-26	822
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0ADP1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0ADP1-F1-model_v4 5'-nucleotidase SurE	0.328	249	165	1	249	1	247	1.787E-24	821
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q82VV9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q82VV9-F1-model_v4 5'-nucleotidase SurE	0.334	247	161	1	247	1	242	2.740E-24	820
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3N3M1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3N3M1-F1-model_v4 5'-nucleotidase SurE	0.332	251	164	1	247	1	251	2.146E-24	820
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VJA8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VJA8-F1-model_v4 5'-nucleotidase SurE	0.345	261	160	2	247	3	263	2.985E-26	819
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8EZH9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8EZH9-F1-model_v4 5'-nucleotidase SurE	0.329	246	161	1	246	1	241	6.725E-25	817
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5L5X3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5L5X3-F1-model_v4 5'-nucleotidase SurE	0.292	257	174	1	247	5	261	1.216E-25	817
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3M7F7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3M7F7-F1-model_v4 5'-nucleotidase SurE	0.351	251	160	1	247	1	251	5.845E-26	816
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9E0C7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9E0C7-F1-model_v4 5'-nucleotidase SurE	0.311	253	168	1	253	1	245	2.381E-25	815
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2U9T8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2U9T8-F1-model_v4 5'-nucleotidase SurE	0.333	247	163	1	247	1	246	3.952E-24	814
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8PX31-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8PX31-F1-model_v4 5'-nucleotidase SurE	0.301	258	170	2	245	8	265	1.553E-25	814
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JTP0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JTP0-F1-model_v4 5'-nucleotidase SurE	0.347	250	161	1	250	1	248	2.691E-25	812
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3H2Z8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3H2Z8-F1-model_v4 5'-nucleotidase SurE	0.335	251	164	1	247	1	251	3.718E-24	811
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7H0A1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7H0A1-F1-model_v4 5'-nucleotidase SurE	0.341	250	161	2	247	3	252	7.020E-26	811
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9KDH9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9KDH9-F1-model_v4 5'-nucleotidase SurE	0.341	246	158	1	246	9	249	2.912E-24	811
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5FR64-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5FR64-F1-model_v4 5'-nucleotidase SurE	0.326	253	164	1	253	1	245	6.327E-25	811
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46D82-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46D82-F1-model_v4 5'-nucleotidase SurE	0.309	258	168	2	245	8	265	2.531E-25	810
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4F224-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4F224-F1-model_v4 5'/3'-nucleotidase SurE	0.363	247	153	1	247	2	242	6.327E-25	809
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2NI97-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2NI97-F1-model_v4 5'-nucleotidase SurE	0.318	246	162	1	238	1	246	5.267E-25	809
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9AAP6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9AAP6-F1-model_v4 5'-nucleotidase SurE	0.329	256	165	1	247	3	258	5.702E-24	808
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JP92-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JP92-F1-model_v4 5'-nucleotidase SurE	0.348	245	159	1	245	1	245	8.743E-24	807
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JYP8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JYP8-F1-model_v4 5'-nucleotidase SurE	0.347	250	161	1	250	1	248	6.327E-25	806
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q254M8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q254M8-F1-model_v4 5'-nucleotidase SurE	0.284	257	176	1	247	5	261	6.327E-25	806
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0BBJ8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0BBJ8-F1-model_v4 5'-nucleotidase SurE	0.283	268	181	1	253	7	274	1.461E-25	805
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1KUT0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1KUT0-F1-model_v4 5'-nucleotidase SurE	0.349	250	161	1	250	1	248	7.599E-25	803
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ZXG5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ZXG5-F1-model_v4 5'-nucleotidase SurE	0.325	255	165	1	246	1	255	4.662E-25	802
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3KME4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3KME4-F1-model_v4 5'-nucleotidase SurE	0.290	247	171	1	242	7	253	5.267E-25	801
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5F7V9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5F7V9-F1-model_v4 5'-nucleotidase SurE	0.355	250	159	1	250	1	248	1.031E-24	800
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2NVM2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2NVM2-F1-model_v4 5'/3'-nucleotidase SurE	0.357	246	154	1	246	1	240	2.578E-24	800
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5CVV1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5CVV1-F1-model_v4 5'-nucleotidase SurE	0.323	246	161	1	246	1	239	1.050E-23	799
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SYE9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SYE9-F1-model_v4 5'-nucleotidase SurE	0.328	249	165	2	247	6	254	1.261E-23	797
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8ZU79-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8ZU79-F1-model_v4 5'-nucleotidase SurE1	0.366	252	159	1	252	1	251	3.232E-25	797
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2GG44-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2GG44-F1-model_v4 5'-nucleotidase SurE	0.323	256	169	1	251	1	256	1.553E-25	795
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8TUG3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8TUG3-F1-model_v4 5'-nucleotidase SurE	0.320	258	165	2	245	8	265	7.599E-25	795
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1Y0T1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1Y0T1-F1-model_v4 5'-nucleotidase SurE	0.349	253	163	1	251	1	253	8.077E-25	794
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7I4K2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7I4K2-F1-model_v4 5'-nucleotidase SurE	0.358	251	158	1	247	1	251	6.725E-25	793
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1QD10-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1QD10-F1-model_v4 5'-nucleotidase SurE	0.321	269	170	1	251	1	269	1.050E-23	790
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P73440-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P73440-F1-model_v4 Putative 5'-nucleotidase alr3139	0.315	235	153	1	235	1	225	6.848E-24	789
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6Q4L7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6Q4L7-F1-model_v4 5'-nucleotidase SurE	0.328	253	165	2	247	3	255	1.144E-25	789
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q72MU5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q72MU5-F1-model_v4 5'-nucleotidase SurE	0.312	246	165	1	246	1	241	1.488E-24	788
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q054Q4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q054Q4-F1-model_v4 5'-nucleotidase SurE	0.317	246	164	1	246	1	241	8.077E-25	788
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8YSE9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8YSE9-F1-model_v4 Putative 5'-nucleotidase alr3139	0.289	235	160	1	235	1	226	8.743E-24	787
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3YYB8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3YYB8-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	7.149E-25	787
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1RYX4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1RYX4-F1-model_v4 5'-nucleotidase SurE	0.307	255	170	1	247	1	255	3.232E-25	787
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7NT88-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7NT88-F1-model_v4 5'/3'-nucleotidase SurE	0.350	253	163	1	253	1	251	6.327E-25	786
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VN28-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7VN28-F1-model_v4 5'-nucleotidase SurE	0.343	249	161	1	246	1	249	6.848E-24	786
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7M8G1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7M8G1-F1-model_v4 5'-nucleotidase SurE	0.308	253	170	2	247	4	256	2.107E-25	786
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66881-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66881-F1-model_v4 5'/3'-nucleotidase SurE	0.366	246	152	1	246	1	240	4.386E-25	785
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0A840-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0A840-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	9.701E-25	783
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3Z8C0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3Z8C0-F1-model_v4 5'-nucleotidase SurE	0.309	265	172	1	250	1	265	2.740E-24	783
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0B9W8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0B9W8-F1-model_v4 5'-nucleotidase SurE	0.283	268	181	1	253	7	274	8.586E-25	783
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4TTV8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4TTV8-F1-model_v4 5'/3'-nucleotidase SurE	0.374	246	150	1	246	1	240	8.077E-25	782
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5RDQ0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5RDQ0-F1-model_v4 5'/3'-nucleotidase SurE	0.366	246	152	1	246	1	240	5.267E-25	782
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4WJK1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4WJK1-F1-model_v4 5'-nucleotidase SurE	0.330	253	168	1	253	1	252	2.691E-25	782
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q746M5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q746M5-F1-model_v4 5'-nucleotidase SurE 2	0.367	253	154	1	253	1	244	2.691E-25	780
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7ZQI8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7ZQI8-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	1.165E-24	780
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5GS87-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5GS87-F1-model_v4 5'-nucleotidase SurE	0.273	247	172	1	247	1	238	2.740E-24	779
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O84220-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O84220-F1-model_v4 5'-nucleotidase SurE	0.273	268	183	1	253	7	274	6.725E-25	779
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7LXF6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7LXF6-F1-model_v4 5'/3'-nucleotidase SurE	0.350	246	155	1	246	1	240	1.400E-24	778
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1AET8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1AET8-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	1.488E-24	778
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5Z3A6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5Z3A6-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	1.317E-24	778
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32CI6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32CI6-F1-model_v4 5'/3'-nucleotidase SurE	0.367	246	151	1	246	1	240	1.899E-24	778
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7MZ45-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7MZ45-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	1.400E-24	778
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1R7U7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1R7U7-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	1.488E-24	777
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9Z8S6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9Z8S6-F1-model_v4 5'-nucleotidase SurE	0.286	254	176	1	247	8	261	7.149E-25	777
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8ANV8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8ANV8-F1-model_v4 5'/3'-nucleotidase SurE	0.350	246	155	1	246	1	240	1.096E-24	776
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1IUT5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1IUT5-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	1.681E-24	776
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7LWJ1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7LWJ1-F1-model_v4 5'/3'-nucleotidase SurE	0.354	246	154	1	246	1	240	1.787E-24	775
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66882-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P66882-F1-model_v4 5'/3'-nucleotidase SurE	0.366	246	152	1	246	1	240	9.127E-25	775
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7LEG2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7LEG2-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	2.019E-24	774
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7UHG3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7UHG3-F1-model_v4 5'/3'-nucleotidase SurE	0.354	246	154	1	246	1	240	1.787E-24	774
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7MKL8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7MKL8-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	1.787E-24	774
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5XV37-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5XV37-F1-model_v4 5'/3'-nucleotidase SurE	0.371	253	157	1	250	1	253	2.019E-24	773
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4T454-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4T454-F1-model_v4 5'/3'-nucleotidase SurE	0.366	246	152	1	246	1	240	1.096E-24	773
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5QW15-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5QW15-F1-model_v4 5'/3'-nucleotidase SurE	0.366	246	152	1	246	1	240	1.165E-24	772
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1XCS0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1XCS0-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	2.281E-24	772
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0A842-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0A842-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	2.425E-24	771
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4ZZP8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4ZZP8-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	2.425E-24	771
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2TZI7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2TZI7-F1-model_v4 5'/3'-nucleotidase SurE	0.362	246	152	1	246	1	240	2.146E-24	771
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3YSH3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3YSH3-F1-model_v4 5'-nucleotidase SurE	0.294	247	173	1	246	1	247	4.747E-24	771
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8A3M3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8A3M3-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	2.740E-24	770
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7N6X4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7N6X4-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	2.578E-24	770
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0TEB4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0TEB4-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	2.740E-24	770
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q31XA6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q31XA6-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	3.291E-24	768
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6I6D4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B6I6D4-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	3.291E-24	768
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7NRV1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7NRV1-F1-model_v4 5'-nucleotidase SurE	0.329	246	161	1	246	1	241	3.786E-23	767
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1JJT7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1JJT7-F1-model_v4 5'/3'-nucleotidase SurE	0.326	247	162	1	247	2	242	6.848E-24	767
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4WDU9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4WDU9-F1-model_v4 5'/3'-nucleotidase SurE	0.363	248	154	1	248	1	242	1.581E-24	767
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1C475-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1C475-F1-model_v4 5'/3'-nucleotidase SurE	0.341	247	158	1	247	2	242	2.146E-24	767
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0SJM4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0SJM4-F1-model_v4 5'-nucleotidase SurE	0.284	246	173	1	246	1	243	4.201E-24	766
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9MF31-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9MF31-F1-model_v4 5'/3'-nucleotidase SurE	0.366	246	152	1	246	1	240	1.787E-24	766
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q04Q98-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q04Q98-F1-model_v4 5'-nucleotidase SurE	0.313	246	165	1	246	1	241	2.281E-24	765
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0A841-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0A841-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	3.718E-24	765
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4TQ00-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4TQ00-F1-model_v4 5'/3'-nucleotidase SurE	0.343	247	158	1	247	2	242	2.146E-24	765
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9R116-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9R116-F1-model_v4 5'/3'-nucleotidase SurE	0.341	247	158	1	247	2	242	2.425E-24	765
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8ZBP9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8ZBP9-F1-model_v4 5'/3'-nucleotidase SurE	0.341	247	158	1	247	2	242	2.425E-24	765
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q66EC0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q66EC0-F1-model_v4 5'/3'-nucleotidase SurE	0.337	247	159	1	247	2	242	2.425E-24	765
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7FLX5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7FLX5-F1-model_v4 5'/3'-nucleotidase SurE	0.337	247	159	1	247	2	242	2.740E-24	764
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q73G84-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q73G84-F1-model_v4 5'-nucleotidase SurE	0.275	252	175	1	252	1	243	1.050E-23	762
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9N2D0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9N2D0-F1-model_v4 5'/3'-nucleotidase SurE	0.362	246	152	1	246	1	240	2.425E-24	762
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q57KJ7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q57KJ7-F1-model_v4 5'/3'-nucleotidase SurE	0.366	246	152	1	246	1	240	2.578E-24	762
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1CLR3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1CLR3-F1-model_v4 5'/3'-nucleotidase SurE	0.341	247	158	1	247	2	242	2.912E-24	762
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2VG26-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2VG26-F1-model_v4 5'/3'-nucleotidase SurE	0.346	246	156	1	246	1	240	2.578E-24	760
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q83JY2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q83JY2-F1-model_v4 5'/3'-nucleotidase SurE	0.350	246	155	1	246	1	240	5.364E-24	760
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6KZ11-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6KZ11-F1-model_v4 5'-nucleotidase SurE	0.287	248	176	3	250	2	249	6.061E-24	760
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2K580-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2K580-F1-model_v4 5'/3'-nucleotidase SurE	0.337	247	159	1	247	2	242	3.952E-24	759
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5N6V8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5N6V8-F1-model_v4 5'-nucleotidase SurE	0.306	253	169	1	253	1	245	4.834E-23	758
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0SBG1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0SBG1-F1-model_v4 5'-nucleotidase SurE	0.287	246	173	1	246	1	243	4.466E-24	758
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5PEG4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5PEG4-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	3.291E-24	758
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1JJF5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1JJF5-F1-model_v4 5'/3'-nucleotidase SurE	0.337	247	159	1	247	2	242	4.201E-24	758
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8G9Z5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8G9Z5-F1-model_v4 5'/3'-nucleotidase SurE	0.334	253	166	1	250	1	253	6.443E-24	757
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5BEY1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B5BEY1-F1-model_v4 5'/3'-nucleotidase SurE	0.358	246	153	1	246	1	240	3.291E-24	757
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0T1H5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0T1H5-F1-model_v4 5'/3'-nucleotidase SurE	0.354	246	154	1	246	1	240	1.050E-23	753
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7MJ60-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7MJ60-F1-model_v4 5'/3'-nucleotidase SurE	0.352	253	161	1	250	1	253	1.899E-24	752
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q823A7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q823A7-F1-model_v4 5'-nucleotidase SurE 2	0.311	258	169	1	247	12	269	3.952E-24	752
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5HBM5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5HBM5-F1-model_v4 5'-nucleotidase SurE	0.288	252	177	1	250	1	252	7.280E-24	750
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9GFF6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9GFF6-F1-model_v4 5'-nucleotidase SurE	0.334	248	162	2	249	4	247	8.743E-24	749
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0L4K6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0L4K6-F1-model_v4 5'-nucleotidase SurE	0.326	250	165	1	250	1	246	1.341E-23	746
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5BGI8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5BGI8-F1-model_v4 5'/3'-nucleotidase SurE	0.329	253	168	1	251	1	253	4.466E-24	745
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7N8K4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7N8K4-F1-model_v4 5'/3'-nucleotidase SurE	0.314	253	172	1	253	2	252	1.187E-23	745
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PKH4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PKH4-F1-model_v4 5'-nucleotidase SurE	0.290	267	178	2	253	8	274	1.488E-24	744
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C0R4G7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C0R4G7-F1-model_v4 5'-nucleotidase SurE	0.283	252	174	1	252	1	243	3.786E-23	743
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9KI89-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9KI89-F1-model_v4 5'-nucleotidase SurE	0.278	261	180	1	250	1	261	2.625E-23	722
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8ZSY4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8ZSY4-F1-model_v4 5'-nucleotidase SurE2	0.330	234	149	1	234	1	224	3.351E-23	720
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8MBQ3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8MBQ3-F1-model_v4 5'-nucleotidase SurE	0.271	261	179	1	247	1	261	1.425E-23	720
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8D2P7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8D2P7-F1-model_v4 5'/3'-nucleotidase SurE	0.293	246	169	1	246	1	240	1.743E-22	719
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3CLR5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3CLR5-F1-model_v4 5'-nucleotidase SurE	0.276	255	182	1	253	1	255	4.278E-23	713
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5PB34-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5PB34-F1-model_v4 5'-nucleotidase SurE	0.275	261	181	1	250	1	261	6.974E-23	711
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O27484-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O27484-F1-model_v4 5'-nucleotidase SurE	0.294	262	177	1	251	1	262	2.790E-23	701
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5FHG1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5FHG1-F1-model_v4 5'-nucleotidase SurE	0.287	252	178	1	250	1	252	4.025E-23	686
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3INV7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3INV7-F1-model_v4 5'-nucleotidase SurE	0.329	252	164	1	246	1	252	1.390E-21	632
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HQB2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HQB2-F1-model_v4 5'-nucleotidase SurE	0.309	248	169	2	246	7	254	2.608E-20	599
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0R567-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0R567-F1-model_v4 5'-nucleotidase SurE	0.309	248	169	2	246	7	254	4.250E-20	594
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5V4L7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5V4L7-F1-model_v4 5'-nucleotidase SurE	0.289	258	178	2	252	5	262	5.426E-20	577
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9YDW8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9YDW8-F1-model_v4 5'-nucleotidase SurE	0.233	237	178	1	237	2	234	1.763E-18	570
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O83434-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O83434-F1-model_v4 5'-nucleotidase SurE	0.380	167	102	1	165	1	167	7.776E-17	565
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P30887-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P30887-F1-model_v4 Acid phosphatase	0.200	307	202	1	253	42	348	9.172E-18	517
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9F2F9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9F2F9-F1-model_v4 Elloramycin glycosyltransferase ElmGT	0.140	167	135	1	158	1	167	3.774E-03	59
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O78489-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O78489-F1-model_v4 Translation initiation factor IF-2, chloroplastic	0.108	164	129	2	165	243	388	1.133E-02	53
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59587-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59587-F1-model_v4 Translation initiation factor IF-2	0.105	164	126	2	165	393	534	1.963E-02	50
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SY78-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4SY78-F1-model_v4 Translation initiation factor IF-2	0.124	162	124	2	163	422	563	1.963E-02	50
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3SKX1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3SKX1-F1-model_v4 Translation initiation factor IF-2	0.127	164	123	2	165	426	567	1.280E-02	50
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32BG5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32BG5-F1-model_v4 Translation initiation factor IF-2	0.111	164	125	2	165	393	534	2.506E-02	49
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7MB89-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7MB89-F1-model_v4 Translation initiation factor IF-2	0.125	206	169	2	207	393	586	1.280E-02	49
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZF25-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZF25-F1-model_v4 Translation initiation factor IF-2	0.116	206	171	2	207	400	593	1.361E-02	49
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7NDF4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7NDF4-F1-model_v4 Translation initiation factor IF-2	0.110	164	125	2	165	393	534	2.664E-02	48
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4TWD8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4TWD8-F1-model_v4 Translation initiation factor IF-2	0.116	164	125	2	165	395	536	2.832E-02	48
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4T6Z8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4T6Z8-F1-model_v4 Translation initiation factor IF-2	0.105	164	126	2	165	395	536	3.401E-02	47
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q86H86-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q86H86-F1-model_v4 Putative uncharacterized protein DDB_G0275589	0.172	29	22	185	211	11	39	3.122E+00	46
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5NZS1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5NZS1-F1-model_v4 Translation initiation factor IF-2	0.109	206	172	2	207	449	642	2.358E-02	46
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46J13-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q46J13-F1-model_v4 Translation initiation factor IF-2	0.107	164	129	2	165	679	824	2.218E-02	46
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54YV7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54YV7-F1-model_v4 ADP-ribosylation factor L	0.092	165	129	1	165	19	161	8.501E-02	45
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2Y7W2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2Y7W2-F1-model_v4 Translation initiation factor IF-2	0.143	207	166	2	208	382	576	3.010E-02	45
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9M9Z4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9M9Z4-F1-model_v4 Translation initiation factor IF-2	0.100	164	127	2	165	461	602	6.659E-02	45
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3R1E4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3R1E4-F1-model_v4 Translation initiation factor IF-2	0.122	164	124	2	165	467	608	4.907E-02	45
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZJ31-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZJ31-F1-model_v4 Lipid A 4'-phosphatase	0.125	24	20	187	210	174	197	6.905E+00	44
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5PAH2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C5PAH2-F1-model_v4 Probable Xaa-Pro aminopeptidase CPC735_009100	0.192	26	20	185	210	4	29	4.787E+00	44
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-F4J1G1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-F4J1G1-F1-model_v4 Rop guanine nucleotide exchange factor 13	0.074	27	24	187	213	202	228	5.409E+00	44
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4F2B9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4F2B9-F1-model_v4 Translation initiation factor IF-2	0.121	164	124	2	165	419	560	4.616E-02	44
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4RC55-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4RC55-F1-model_v4 Translation initiation factor IF-2	0.125	207	171	2	208	496	691	3.010E-02	44
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P9WLA1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P9WLA1-F1-model_v4 Uncharacterized protein Rv2560	0.050	40	31	187	226	125	158	3.318E+00	42
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9LZN0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9LZN0-F1-model_v4 Rop guanine nucleotide exchange factor 7	0.115	26	22	187	212	144	169	5.088E+00	42
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q93ZY2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q93ZY2-F1-model_v4 Rop guanine nucleotide exchange factor 1	0.166	30	24	183	212	160	189	5.088E+00	42
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6WWW5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6WWW5-F1-model_v4 Translation initiation factor IF-2	0.103	165	126	2	166	466	606	7.524E-02	42
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2U207-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2U207-F1-model_v4 Translation initiation factor IF-2	0.121	206	170	2	207	393	586	6.659E-02	41
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6FF40-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6FF40-F1-model_v4 Translation initiation factor IF-2	0.119	164	124	2	165	403	544	4.616E-02	41
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0CK11-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B0CK11-F1-model_v4 Translation initiation factor IF-2	0.111	164	125	2	165	461	602	1.021E-01	41
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O66428-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O66428-F1-model_v4 Elongation factor G	0.111	150	132	2	151	12	161	7.524E-02	40
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1XDN0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1XDN0-F1-model_v4 Translation initiation factor IF-2, chloroplastic	0.086	150	119	2	151	265	395	7.524E-02	40
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1LLR6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1LLR6-F1-model_v4 Translation initiation factor IF-2	0.123	206	169	2	207	483	676	6.264E-02	40
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2KXY7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2KXY7-F1-model_v4 Translation initiation factor IF-2	0.113	207	172	2	208	539	733	6.659E-02	40
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P25160-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P25160-F1-model_v4 ADP-ribosylation factor-like protein 1	0.120	165	122	1	165	17	156	1.304E-01	39
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0CY30-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0CY30-F1-model_v4 Ras-related protein SEC4	0.122	165	125	1	165	15	157	7.998E-02	39
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-E9CY14-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-E9CY14-F1-model_v4 Probable Xaa-Pro aminopeptidase CPSG_02684	0.185	27	21	185	211	4	30	4.236E+00	39
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9CA89-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9CA89-F1-model_v4 Rop guanine nucleotide exchange factor 12	0.076	26	23	187	212	166	191	6.111E+00	39
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2I2M7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2I2M7-F1-model_v4 Translation initiation factor IF-2	0.114	164	125	2	165	403	544	7.998E-02	39
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1K7B9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1K7B9-F1-model_v4 Translation initiation factor IF-2	0.131	164	123	2	165	444	585	5.544E-02	39
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q20758-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q20758-F1-model_v4 ADP-ribosylation factor-like protein 1	0.122	165	124	1	165	17	158	1.473E-01	38
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1XV89-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B1XV89-F1-model_v4 Translation initiation factor IF-2	0.109	162	126	2	163	419	560	1.473E-01	38
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1W8Z4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1W8Z4-F1-model_v4 Translation initiation factor IF-2	0.122	164	122	2	165	447	586	1.769E-01	38
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92JL0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92JL0-F1-model_v4 Uncharacterized protein RC0057	0.133	60	35	185	225	27	86	1.695E+00	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6A6N7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6A6N7-F1-model_v4 50S ribosomal protein L24	0.296	27	18	182	208	87	113	9.961E+00	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPS3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPS3-F1-model_v4 Rho-related protein racF2	0.094	149	117	1	149	4	133	8.501E-02	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62747-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62747-F1-model_v4 Rho-related GTP-binding protein RhoB	0.154	148	109	2	149	6	135	9.037E-02	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62745-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62745-F1-model_v4 Rho-related GTP-binding protein RhoB	0.154	148	109	2	149	6	135	9.606E-02	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59983-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59983-F1-model_v4 Uncharacterized protein Mb2590	0.100	40	30	187	226	125	158	3.985E+00	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BGX0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BGX0-F1-model_v4 E3 ubiquitin-protein ligase TRIM23	0.111	165	126	1	165	403	545	7.078E-02	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7I3R9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B7I3R9-F1-model_v4 Translation initiation factor IF-2	0.119	164	124	2	165	403	544	8.501E-02	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1GXD6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1GXD6-F1-model_v4 Translation initiation factor IF-2	0.133	207	168	2	208	411	605	1.304E-01	37
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9XGU0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9XGU0-F1-model_v4 Rac-like GTP-binding protein ARAC9	0.119	127	95	3	129	20	128	1.085E-01	36
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1KS66-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1KS66-F1-model_v4 Rop guanine nucleotide exchange factor 10	0.076	26	23	187	212	118	143	9.371E+00	36
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36406-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36406-F1-model_v4 E3 ubiquitin-protein ligase TRIM23	0.111	165	126	1	165	403	545	1.021E-01	36
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4G7S7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4G7S7-F1-model_v4 Translation initiation factor IF-2	0.115	164	125	2	165	445	586	2.125E-01	36
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2UAA3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2UAA3-F1-model_v4 Translation initiation factor IF-2	0.132	164	122	2	165	468	609	1.085E-01	36
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2JKT4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B2JKT4-F1-model_v4 Translation initiation factor IF-2	0.117	164	125	2	165	469	610	2.125E-01	36
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1WLI3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1WLI3-F1-model_v4 Translation initiation factor IF-2	0.109	164	126	2	165	494	635	2.259E-01	36
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O88848-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O88848-F1-model_v4 ADP-ribosylation factor-like protein 6	0.120	152	121	2	153	17	154	1.881E-01	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5REY6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5REY6-F1-model_v4 Transforming protein RhoA	0.130	148	112	2	149	6	135	9.606E-02	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34141-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34141-F1-model_v4 Ras-related protein RabA	0.098	154	135	1	154	9	159	7.524E-02	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9M811-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9M811-F1-model_v4 Rop guanine nucleotide exchange factor 11	0.076	26	23	187	212	178	203	9.371E+00	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8Z666-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8Z666-F1-model_v4 Elongation factor G	0.132	130	110	2	131	10	137	1.769E-01	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P46211-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P46211-F1-model_v4 Elongation factor G	0.120	130	111	2	131	12	138	1.473E-01	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9WH62-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9WH62-F1-model_v4 Elongation factor G	0.107	250	203	2	251	12	239	1.226E-01	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1V3N4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A1V3N4-F1-model_v4 Translation initiation factor IF-2	0.122	164	124	2	165	479	620	2.552E-01	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q140U6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q140U6-F1-model_v4 Translation initiation factor IF-2	0.114	164	125	2	165	493	634	2.401E-01	35
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q56JV3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q56JV3-F1-model_v4 GTP-binding protein Rheb	0.125	148	120	2	149	5	142	7.078E-02	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15382-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15382-F1-model_v4 GTP-binding protein Rheb	0.133	148	119	2	149	5	142	9.606E-02	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P40793-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P40793-F1-model_v4 Cdc42 homolog	0.122	150	112	1	150	4	132	2.401E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0A286QZ36-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0A286QZ36-F1-model_v4 Ras-related protein Rac1	0.128	129	95	1	129	4	113	2.259E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RCK9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RCK9-F1-model_v4 Rho-related GTP-binding protein RhoC	0.141	148	111	2	149	6	135	1.473E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PSX7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9PSX7-F1-model_v4 Rho-related GTP-binding protein RhoC	0.141	148	111	2	149	6	135	1.769E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61586-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61586-F1-model_v4 Transforming protein RhoA	0.130	148	112	2	149	6	135	1.154E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54E92-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54E92-F1-model_v4 Ras-related protein RabG1	0.163	163	118	1	163	7	148	1.881E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0CY31-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0CY31-F1-model_v4 Ras-related protein SEC4	0.126	165	124	1	165	15	157	1.021E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8K386-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8K386-F1-model_v4 Ras-related protein Rab-15	0.112	149	120	1	149	9	144	2.259E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2SH40-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A2SH40-F1-model_v4 Translation initiation factor IF-2	0.123	207	170	2	208	452	646	2.259E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8XZV6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8XZV6-F1-model_v4 Translation initiation factor IF-2	0.135	164	122	2	165	468	609	2.125E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2SVG8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2SVG8-F1-model_v4 Translation initiation factor IF-2	0.120	164	124	2	165	480	621	3.464E-01	34
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q29HY3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q29HY3-F1-model_v4 Cdc42 homolog	0.122	150	112	1	150	4	132	2.713E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q16YG0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q16YG0-F1-model_v4 Cdc42 homolog	0.109	150	114	1	150	4	132	2.259E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1RMJ6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1RMJ6-F1-model_v4 Rho-related GTP-binding protein RhoC	0.141	148	111	2	149	6	135	1.881E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P92978-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P92978-F1-model_v4 Rac-like GTP-binding protein ARAC11	0.133	138	108	3	140	8	132	1.769E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38912-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38912-F1-model_v4 Rac-like GTP-binding protein ARAC3	0.116	150	128	3	152	8	153	9.606E-02	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32LJ2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32LJ2-F1-model_v4 ADP-ribosylation factor-related protein 1	0.082	165	139	2	166	17	168	7.208E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54G48-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54G48-F1-model_v4 Ras-related protein RabO	0.151	150	112	1	150	7	139	1.021E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BLR7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BLR7-F1-model_v4 Rho-related GTP-binding protein Rho6	0.095	149	119	1	149	12	143	3.065E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5D7J5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5D7J5-F1-model_v4 Rho-related GTP-binding protein RhoU	0.153	158	112	1	158	47	179	1.769E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q06682-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q06682-F1-model_v4 UBX domain-containing protein 5	0.184	38	30	185	222	173	210	6.496E+00	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1D777-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1D777-F1-model_v4 Elongation factor G 2	0.110	150	133	2	151	12	161	2.259E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9ITX6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9ITX6-F1-model_v4 Translation initiation factor IF-2	0.114	207	172	2	208	496	690	2.713E-01	33
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q921J2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q921J2-F1-model_v4 GTP-binding protein Rheb	0.112	148	122	2	149	5	142	1.226E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60766-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60766-F1-model_v4 Cell division control protein 42 homolog	0.109	150	114	1	150	4	132	2.713E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62998-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62998-F1-model_v4 Ras-related C3 botulinum toxin substrate 1	0.124	149	113	1	149	4	133	2.401E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62159-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62159-F1-model_v4 Rho-related GTP-binding protein RhoC	0.130	148	112	2	149	6	135	1.566E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39435-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39435-F1-model_v4 Rac-like GTP-binding protein RHO1	0.116	150	128	3	152	8	153	1.769E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38902-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38902-F1-model_v4 Rac-like GTP-binding protein ARAC1	0.122	150	127	3	152	8	153	1.664E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O42819-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O42819-F1-model_v4 Ras-related protein SEC4	0.132	163	121	1	163	21	160	2.125E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IML7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IML7-F1-model_v4 DnaJ homolog subfamily C member 27	0.094	165	131	1	165	17	162	4.997E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ZCX4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3ZCX4-F1-model_v4 Zinc finger protein 568	0.083	36	28	185	215	194	229	8.816E+00	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7NR66-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7NR66-F1-model_v4 Elongation factor G	0.131	250	197	2	251	12	239	1.999E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9LJC8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B9LJC8-F1-model_v4 Elongation factor G	0.120	250	200	2	251	12	239	2.401E-01	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9U4N3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9U4N3-F1-model_v4 Coatomer subunit beta	0.145	48	36	168	215	502	544	9.961E+00	32
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q17031-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q17031-F1-model_v4 Cdc42 homolog	0.127	150	112	1	150	4	132	3.065E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60952-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60952-F1-model_v4 Cell division control protein 42 homolog	0.109	150	114	1	150	4	132	3.065E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q007T2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q007T2-F1-model_v4 Cell division control protein 42 homolog	0.116	150	113	1	150	4	132	4.422E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9D3G9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9D3G9-F1-model_v4 Rho-related GTP-binding protein RhoH	0.125	165	129	1	165	5	152	2.259E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62999-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62999-F1-model_v4 Ras-related C3 botulinum toxin substrate 1	0.101	165	138	1	165	4	158	2.552E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6RUV5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6RUV5-F1-model_v4 Ras-related C3 botulinum toxin substrate 1	0.111	149	115	1	149	4	133	3.065E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9C3Y4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9C3Y4-F1-model_v4 GTP-binding protein rhoA	0.119	128	96	2	129	6	115	4.160E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6EP31-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6EP31-F1-model_v4 Rac-like GTP-binding protein 5	0.120	138	109	3	140	8	132	2.552E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55FU9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55FU9-F1-model_v4 Ras-related protein Rab-24	0.089	146	126	1	146	6	144	1.566E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34139-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34139-F1-model_v4 Ras-related protein Rab-1A	0.113	170	138	1	157	9	178	1.386E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q969Q5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q969Q5-F1-model_v4 Ras-related protein Rab-24	0.111	148	125	1	148	6	147	3.258E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36410-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36410-F1-model_v4 Ras-related protein Rab-14	0.119	148	118	2	149	10	144	3.682E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P09527-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P09527-F1-model_v4 Ras-related protein Rab-7a	0.126	151	122	1	151	9	149	6.379E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P41925-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P41925-F1-model_v4 Ras-like GTP-binding protein RYL2	0.144	93	66	2	94	7	84	3.464E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34142-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34142-F1-model_v4 Ras-related protein Rab-21	0.117	148	119	1	148	8	143	2.884E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39570-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39570-F1-model_v4 GTP-binding protein YPTC4	0.114	149	120	1	149	7	142	3.464E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P52198-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P52198-F1-model_v4 Rho-related GTP-binding protein RhoN	0.096	128	98	2	129	9	117	5.646E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9NZQ0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9NZQ0-F1-model_v4 DnaJ homolog subfamily C member 27	0.086	135	120	1	135	15	146	5.646E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8K9R2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8K9R2-F1-model_v4 GTPase Era	0.097	148	117	2	149	10	140	2.884E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2KI52-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2KI52-F1-model_v4 Hydrolethalus syndrome protein 1 homolog	0.147	68	45	186	253	106	159	4.236E+00	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5USJ2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5USJ2-F1-model_v4 Elongation factor G	0.130	250	197	2	251	12	239	2.125E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0M5A0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A0M5A0-F1-model_v4 Elongation factor G	0.104	130	114	2	131	11	138	3.464E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q82WD0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q82WD0-F1-model_v4 Translation initiation factor IF-2	0.130	207	169	2	208	395	589	3.914E-01	31
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8CFN2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8CFN2-F1-model_v4 Cell division control protein 42 homolog	0.109	150	114	1	150	4	132	4.160E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2KJ93-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2KJ93-F1-model_v4 Cell division control protein 42 homolog	0.122	150	112	1	150	4	132	4.701E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q03206-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q03206-F1-model_v4 Ras-related protein ced-10	0.097	129	98	1	129	4	113	4.997E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05062-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05062-F1-model_v4 Cell division control protein 42 homolog	0.115	150	113	1	150	4	132	5.311E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q90694-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q90694-F1-model_v4 Cell division control protein 42 homolog	0.101	150	115	1	150	4	132	3.258E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60953-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60953-F1-model_v4 Cell division control protein 42 homolog	0.116	150	113	1	150	4	132	5.646E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P63001-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P63001-F1-model_v4 Ras-related C3 botulinum toxin substrate 1	0.090	165	140	1	165	4	158	2.259E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05144-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05144-F1-model_v4 Ras-related C3 botulinum toxin substrate 2	0.117	165	136	1	165	4	158	2.713E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P15153-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P15153-F1-model_v4 Ras-related C3 botulinum toxin substrate 2	0.111	165	137	1	165	4	158	3.065E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60763-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60763-F1-model_v4 Ras-related C3 botulinum toxin substrate 3	0.096	165	139	1	165	4	158	2.884E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SBJ6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SBJ6-F1-model_v4 Rac-like GTP-binding protein ARAC6	0.122	150	127	3	152	8	153	2.401E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54FL2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54FL2-F1-model_v4 Ras-related protein RabG2	0.140	165	122	1	165	7	149	3.065E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q52NJ3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q52NJ3-F1-model_v4 GTP-binding protein SAR1a	0.113	164	133	2	165	27	177	4.997E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R579-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R579-F1-model_v4 ADP-ribosylation factor-related protein 1	0.088	165	138	2	166	17	168	1.249E+00	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36411-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36411-F1-model_v4 Ras-related protein Rab-7a	0.102	178	140	1	157	9	186	3.682E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZRE2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ZRE2-F1-model_v4 Ras-related protein RABD1	0.101	165	128	1	165	9	151	2.259E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8R527-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8R527-F1-model_v4 Rho-related GTP-binding protein RhoQ	0.128	149	112	1	149	10	139	5.311E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P93267-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P93267-F1-model_v4 Ras-related protein Rab7A	0.139	165	128	1	165	9	158	3.914E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O82480-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O82480-F1-model_v4 Rac-like GTP-binding protein ARAC7	0.134	129	96	1	129	5	116	3.065E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51146-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51146-F1-model_v4 Ras-related protein Rab-4B	0.085	164	131	2	165	8	151	4.160E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ER71-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ER71-F1-model_v4 Rho-related GTP-binding protein RhoJ	0.135	149	112	1	149	22	151	4.701E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SSX0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SSX0-F1-model_v4 Rac-like GTP-binding protein 1	0.121	127	95	3	129	12	120	4.160E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R4M9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R4M9-F1-model_v4 GTP-binding nuclear protein Ran	0.076	165	130	1	165	9	150	6.781E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q61820-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q61820-F1-model_v4 GTP-binding nuclear protein Ran, testis-specific isoform	0.128	128	96	2	129	12	122	4.997E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O35509-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O35509-F1-model_v4 Ras-related protein Rab-11B	0.099	165	128	1	165	12	154	4.701E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15907-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15907-F1-model_v4 Ras-related protein Rab-11B	0.082	165	130	1	165	12	154	4.422E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9QYM5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9QYM5-F1-model_v4 Rho-related GTP-binding protein RhoN	0.096	128	98	2	129	9	117	6.781E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92730-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92730-F1-model_v4 Rho-related GTP-binding protein Rho6	0.103	148	115	2	149	15	143	5.646E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2HJ68-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2HJ68-F1-model_v4 Rho-related GTP-binding protein Rho6	0.096	148	116	2	149	15	143	8.144E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35288-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35288-F1-model_v4 Ras-related protein Rab-23	0.103	151	121	1	151	10	145	5.646E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RDE5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RDE5-F1-model_v4 DnaJ homolog subfamily C member 27	0.086	135	120	1	135	15	146	6.781E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8CFP6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8CFP6-F1-model_v4 DnaJ homolog subfamily C member 27	0.093	166	132	1	166	15	161	4.997E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IMM1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IMM1-F1-model_v4 DnaJ homolog subfamily C member 27	0.104	139	119	1	139	17	150	6.781E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q96M11-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q96M11-F1-model_v4 Hydrolethalus syndrome protein 1	0.180	72	47	182	253	90	147	2.445E+00	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O13869-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O13869-F1-model_v4 Translation factor guf1, mitochondrial	0.078	206	189	2	207	60	265	3.914E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3UP38-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3UP38-F1-model_v4 EF-hand calcium-binding domain-containing protein 4B	0.113	150	122	2	151	539	677	1.566E-01	30
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8TAI7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8TAI7-F1-model_v4 GTPase RhebL1	0.155	153	113	2	154	8	142	4.701E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62639-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62639-F1-model_v4 GTP-binding protein Rheb	0.112	148	122	2	149	5	142	2.259E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R4R6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R4R6-F1-model_v4 Cell division control protein 42 homolog	0.116	150	113	1	150	4	132	7.208E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15669-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15669-F1-model_v4 Rho-related GTP-binding protein RhoH	0.130	165	128	1	165	5	152	3.065E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P40792-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P40792-F1-model_v4 Ras-related protein Rac1	0.087	165	141	1	165	4	158	4.422E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9TU25-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9TU25-F1-model_v4 Ras-related C3 botulinum toxin substrate 2	0.101	165	138	1	165	4	158	3.258E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60764-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P60764-F1-model_v4 Ras-related C3 botulinum toxin substrate 3	0.096	165	139	1	165	4	158	3.464E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O96390-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O96390-F1-model_v4 Rho-related protein racF1	0.100	165	138	1	165	4	157	7.208E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34144-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34144-F1-model_v4 Rho-related protein rac1A	0.095	165	142	1	165	1	158	2.259E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15286-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15286-F1-model_v4 Ras-related protein Rab-35	0.115	150	118	1	150	9	142	4.997E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P31584-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P31584-F1-model_v4 GTP-binding protein yptV1	0.122	151	119	1	151	9	145	1.085E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JJL4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JJL4-F1-model_v4 Rho-related GTP-binding protein RhoQ	0.121	149	115	1	149	8	139	4.160E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P06780-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P06780-F1-model_v4 GTP-binding protein RHO1	0.120	128	96	2	129	11	120	4.997E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HBH0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HBH0-F1-model_v4 Rho-related GTP-binding protein RhoF	0.098	149	116	1	149	20	149	5.646E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01971-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01971-F1-model_v4 Ras-related protein Rab-2A	0.090	165	129	1	165	7	149	7.208E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36863-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36863-F1-model_v4 GTP-binding protein yptV4	0.114	149	120	1	149	7	142	6.379E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36412-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36412-F1-model_v4 Ras-related protein Rab-11A	0.124	164	124	2	165	15	156	3.464E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8WUD1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8WUD1-F1-model_v4 Ras-related protein Rab-2B	0.090	165	129	1	165	7	149	6.379E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59279-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59279-F1-model_v4 Ras-related protein Rab-2B	0.090	165	129	1	165	7	149	6.781E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3MHP2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3MHP2-F1-model_v4 Ras-related protein Rab-11B	0.105	165	127	1	165	12	154	4.701E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1ZXE7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1ZXE7-F1-model_v4 Ras-related protein RabZ	0.111	164	127	2	165	51	194	4.160E-01	29
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q14236-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q14236-F1-model_v4 Early lymphoid activation gene protein	0.147	68	52	185	252	82	143	7.802E+00	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6ZHA3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6ZHA3-F1-model_v4 Rac-like GTP-binding protein 6	0.120	138	109	3	140	8	132	5.311E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BXL7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BXL7-F1-model_v4 ADP-ribosylation factor-related protein 1	0.094	146	126	2	147	17	156	9.782E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q13795-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q13795-F1-model_v4 ADP-ribosylation factor-related protein 1	0.094	146	126	2	147	17	156	8.144E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9DD03-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9DD03-F1-model_v4 Ras-related protein Rab-13	0.086	149	123	1	149	9	144	7.208E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39571-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39571-F1-model_v4 GTP-binding protein YPTC1	0.130	165	124	1	165	9	151	1.769E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P17081-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P17081-F1-model_v4 Rho-related GTP-binding protein RhoQ	0.121	149	115	1	149	8	139	4.422E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01123-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01123-F1-model_v4 GTP-binding protein YPT1	0.098	146	122	1	146	9	144	5.646E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61294-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61294-F1-model_v4 Ras-related protein Rab-6B	0.116	150	121	2	151	13	150	3.258E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05975-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05975-F1-model_v4 Ras-related protein Rab-2	0.083	165	130	1	165	7	149	7.662E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1RMR4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1RMR4-F1-model_v4 Ras-related protein Rab-15	0.108	165	127	1	165	9	151	6.781E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61019-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61019-F1-model_v4 Ras-related protein Rab-2A	0.085	149	124	1	149	7	142	8.657E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61017-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61017-F1-model_v4 Ras-related protein Rab-4B	0.082	149	124	2	150	8	143	6.781E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q91ZR1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q91ZR1-F1-model_v4 Ras-related protein Rab-4B	0.075	148	126	2	149	8	144	6.001E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9H4E5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9H4E5-F1-model_v4 Rho-related GTP-binding protein RhoJ	0.128	149	112	1	149	22	151	8.144E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39572-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q39572-F1-model_v4 Ras-related protein YPTC6	0.100	165	128	1	165	13	155	6.781E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8MXQ2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8MXQ2-F1-model_v4 Ras-related protein Rab-32C	0.110	152	123	1	152	29	167	6.781E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7L0Q8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7L0Q8-F1-model_v4 Rho-related GTP-binding protein RhoU	0.139	158	114	1	158	50	182	3.914E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9EQT3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9EQT3-F1-model_v4 Rho-related GTP-binding protein RhoU	0.153	158	112	1	158	53	185	7.662E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IMK3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IMK3-F1-model_v4 DnaJ homolog subfamily C member 27	0.106	135	117	1	135	15	146	9.782E-01	28
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O88931-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O88931-F1-model_v4 Ras-related C3 botulinum toxin substrate 2	0.092	149	117	1	149	4	133	6.781E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P63000-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P63000-F1-model_v4 Ras-related C3 botulinum toxin substrate 1	0.099	149	116	1	149	4	133	5.646E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34145-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34145-F1-model_v4 Rho-related protein rac1B	0.093	165	140	1	165	4	158	6.001E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q94124-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q94124-F1-model_v4 Ras-related protein rac-2	0.114	129	98	1	129	2	113	5.646E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34148-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34148-F1-model_v4 Rho-related protein racB	0.094	129	99	1	129	4	113	1.040E+00	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q41253-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q41253-F1-model_v4 Rac-like GTP-binding protein RAC13	0.123	150	127	3	152	8	153	4.422E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6Z7L8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6Z7L8-F1-model_v4 Rac-like GTP-binding protein 7	0.117	150	128	3	152	8	153	6.001E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5U316-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5U316-F1-model_v4 Ras-related protein Rab-35	0.121	149	118	1	149	9	143	6.781E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q63055-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q63055-F1-model_v4 ADP-ribosylation factor-related protein 1	0.094	146	126	2	147	17	156	9.202E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPS0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPS0-F1-model_v4 Rho-related protein racG	0.112	150	114	1	150	4	132	7.662E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01890-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01890-F1-model_v4 Ras-like GTP-binding protein YPT1	0.110	97	72	1	97	9	90	1.175E+00	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SEH3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SEH3-F1-model_v4 Ras-related protein RABD2c	0.147	169	133	1	157	9	177	3.682E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0ILQ6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0ILQ6-F1-model_v4 Ras-related protein Rab5A	0.083	164	131	2	165	11	154	3.065E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15771-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q15771-F1-model_v4 Ras-related protein Rab-30	0.114	164	125	2	165	11	152	2.884E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O18334-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O18334-F1-model_v4 Ras-related protein Rab6	0.105	163	139	2	157	12	174	3.258E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8J212-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8J212-F1-model_v4 GTP-binding protein Rho1	0.106	164	138	2	165	13	167	8.657E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55FK2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55FK2-F1-model_v4 Ras-related protein Rab-6	0.105	148	120	2	149	6	140	3.914E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R4X6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R4X6-F1-model_v4 Ras-related protein Rab-2A	0.092	165	129	1	165	7	149	6.781E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61105-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61105-F1-model_v4 Ras-related protein Rab-2A	0.088	149	123	1	149	7	142	8.144E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35289-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35289-F1-model_v4 Ras-related protein Rab-15	0.087	165	130	1	165	9	151	3.464E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R6B6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R6B6-F1-model_v4 Ras-related protein Rab-2A	0.092	165	129	1	165	7	149	6.781E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P53994-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P53994-F1-model_v4 Ras-related protein Rab-2A	0.092	165	129	1	165	7	149	6.781E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32NQ0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q32NQ0-F1-model_v4 Ras-related protein Rab-19	0.119	165	126	1	165	16	159	2.884E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P17610-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P17610-F1-model_v4 GTP-binding protein ypt3	0.106	165	127	1	165	11	153	9.202E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8MYF2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8MYF2-F1-model_v4 Ras-related protein RabJ	0.107	164	124	2	165	11	150	8.657E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7ZYF1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7ZYF1-F1-model_v4 DnaJ homolog subfamily C member 27-A	0.097	135	118	1	135	15	146	6.781E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5M7D1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5M7D1-F1-model_v4 DnaJ homolog subfamily C member 27-B	0.108	135	118	1	135	17	149	1.249E+00	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34147-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34147-F1-model_v4 Rho-related protein racA	0.109	149	122	1	149	4	141	6.781E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5L8A7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5L8A7-F1-model_v4 Elongation factor G	0.124	224	180	2	225	11	217	3.914E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q58448-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q58448-F1-model_v4 Elongation factor 2	0.132	152	128	2	150	23	174	6.379E-01	27
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61210-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61210-F1-model_v4 ADP-ribosylation factor 1	0.090	146	118	1	146	18	148	4.701E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O94363-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O94363-F1-model_v4 GTP-binding protein rhb1	0.112	148	121	2	149	6	142	7.662E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HF56-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HF56-F1-model_v4 Cell division control protein 42	0.115	150	113	1	150	4	132	6.781E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01112-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01112-F1-model_v4 Cell division control protein 42 homolog	0.103	150	115	1	150	4	132	1.040E+00	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34149-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34149-F1-model_v4 Rho-related protein racC	0.088	148	116	3	150	8	135	7.208E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40220-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40220-F1-model_v4 Rac-like GTP-binding protein RAC2	0.107	167	137	3	169	8	161	2.884E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O04369-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O04369-F1-model_v4 Rac-like GTP-binding protein RAC1	0.104	151	132	2	152	6	153	4.422E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O76321-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O76321-F1-model_v4 Rho-related protein racG	0.086	165	141	1	165	4	158	7.208E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P22127-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P22127-F1-model_v4 Ras-related protein Rab-10	0.148	149	115	1	149	10	145	6.001E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q43463-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q43463-F1-model_v4 Ras-related protein Rab7	0.148	154	119	2	155	7	147	6.781E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61007-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61007-F1-model_v4 Ras-related protein Rab-8A	0.091	165	129	1	165	9	151	3.258E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HF54-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HF54-F1-model_v4 GTP-binding protein RHO1	0.119	165	137	1	165	10	166	7.208E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SU67-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SU67-F1-model_v4 Rac-like GTP-binding protein ARAC8	0.119	140	112	1	140	7	134	5.646E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q90965-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q90965-F1-model_v4 Ras-related protein Rab-2A	0.103	165	127	1	165	7	149	7.662E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62826-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62826-F1-model_v4 GTP-binding nuclear protein Ran	0.082	165	129	1	165	9	150	1.249E+00	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q63942-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q63942-F1-model_v4 GTP-binding protein Rab-3D	0.089	149	123	1	149	23	158	8.144E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P63012-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P63012-F1-model_v4 Ras-related protein Rab-3A	0.085	165	133	1	165	20	165	6.001E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P52498-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P52498-F1-model_v4 Ras-related protein RSR1	0.131	164	123	2	165	5	147	4.701E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q619T5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q619T5-F1-model_v4 Ras and EF-hand domain-containing protein homolog	0.112	164	130	2	165	438	584	9.782E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9A9U4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A9A9U4-F1-model_v4 Elongation factor 2	0.134	152	127	2	149	23	174	1.175E+00	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6C9Y6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6C9Y6-F1-model_v4 Elongation factor G, mitochondrial	0.096	225	185	2	226	60	265	5.311E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6PGC1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6PGC1-F1-model_v4 ATP-dependent RNA helicase DHX29	0.092	251	202	1	223	587	837	4.997E-01	26
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9VND8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9VND8-F1-model_v4 GTP-binding protein Rheb homolog	0.100	164	127	2	165	5	146	8.144E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P79737-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P79737-F1-model_v4 GTPase NRas	0.067	163	131	1	163	2	142	6.379E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08556-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08556-F1-model_v4 GTPase NRas	0.101	165	129	1	165	2	145	6.781E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P19073-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P19073-F1-model_v4 Cell division control protein 42	0.121	150	113	1	150	4	132	1.249E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P84096-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P84096-F1-model_v4 Rho-related GTP-binding protein RhoG	0.123	149	113	1	149	4	133	9.202E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P48554-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P48554-F1-model_v4 Ras-related protein Rac2	0.098	165	139	1	165	4	158	9.782E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q24814-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q24814-F1-model_v4 Rho-related protein racA	0.093	149	117	1	149	4	133	8.144E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q35638-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q35638-F1-model_v4 Rac-like GTP-binding protein RHO1	0.100	151	132	2	152	6	153	2.552E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6PHN9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6PHN9-F1-model_v4 Ras-related protein Rab-35	0.093	150	123	1	150	6	142	4.160E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q09914-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q09914-F1-model_v4 GTP-binding protein rho1	0.100	165	138	2	166	7	160	1.249E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8MXS1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8MXS1-F1-model_v4 Ras-related protein Rab-18	0.152	165	120	1	165	12	154	8.657E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35286-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35286-F1-model_v4 Ras-related protein Rab-13	0.096	149	122	1	149	9	144	8.144E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-F1PTE3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-F1PTE3-F1-model_v4 Ras-related protein Rab-13	0.072	150	126	1	150	6	142	6.781E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q58DS5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q58DS5-F1-model_v4 Ras-related protein Rab-13	0.107	149	121	1	149	9	144	6.001E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P49103-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P49103-F1-model_v4 Ras-related protein Rab-2-A	0.113	149	120	1	149	7	142	1.249E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P92963-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P92963-F1-model_v4 Ras-related protein RABB1c	0.101	148	121	1	148	7	142	1.105E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O01803-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O01803-F1-model_v4 Ras-related protein rab-11.1	0.110	165	126	1	165	12	154	7.662E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q68EK7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q68EK7-F1-model_v4 Ras-related protein Rab-4B	0.106	164	126	2	165	10	151	1.328E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1PEX3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1PEX3-F1-model_v4 Ras-related protein RABA1h	0.107	150	120	1	150	14	148	7.662E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SIP0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SIP0-F1-model_v4 Ras-related protein RABA5d	0.092	164	130	2	165	12	155	4.701E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54KM9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54KM9-F1-model_v4 Ras-related protein Rab-11B	0.131	164	123	2	165	13	154	6.781E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6AXT5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6AXT5-F1-model_v4 Ras-related protein Rab-21	0.128	148	118	1	148	18	153	1.500E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4FWF0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4FWF0-F1-model_v4 Elongation factor 2	0.134	153	128	2	150	23	175	1.105E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P09604-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P09604-F1-model_v4 Elongation factor 2	0.136	152	127	2	149	23	174	1.105E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O28385-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O28385-F1-model_v4 Elongation factor 2	0.125	152	130	2	150	22	173	1.105E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7I4X4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A7I4X4-F1-model_v4 Elongation factor 2	0.089	128	112	2	129	23	146	1.500E+00	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8ACA7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A8ACA7-F1-model_v4 Elongation factor 2	0.102	181	145	2	163	22	202	8.657E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O15743-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O15743-F1-model_v4 Protein spalten	0.104	116	83	47	140	265	380	4.701E-01	25
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q91806-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q91806-F1-model_v4 GTPase NRas	0.072	165	133	1	165	2	145	8.657E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2MJK3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2MJK3-F1-model_v4 GTPase NRas	0.101	165	129	1	165	2	145	8.657E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P83832-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P83832-F1-model_v4 Ras-like protein 1	0.094	165	130	1	165	2	145	8.657E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0CY33-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P0CY33-F1-model_v4 Cell division control protein 42 homolog	0.081	165	142	1	165	4	158	1.040E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34146-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34146-F1-model_v4 Rho-related protein rac1C	0.099	149	116	1	149	4	133	1.105E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9P7S9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9P7S9-F1-model_v4 INO80 complex subunit 4	0.086	69	50	185	253	118	173	8.816E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPR7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPR7-F1-model_v4 Rho-related protein racH	0.063	165	139	2	166	4	152	4.997E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61027-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61027-F1-model_v4 Ras-related protein Rab-10	0.120	166	137	1	157	10	175	9.202E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZIT5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZIT5-F1-model_v4 Ras-related protein Rab-10	0.104	166	140	1	157	10	175	7.662E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92928-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92928-F1-model_v4 Putative Ras-related protein Rab-1C	0.151	165	121	1	165	9	151	4.997E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q94148-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q94148-F1-model_v4 Ras-related protein Rab-10	0.175	94	64	1	94	10	88	8.657E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q923S9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q923S9-F1-model_v4 Ras-related protein Rab-30	0.106	93	69	2	94	11	88	8.144E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P41924-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P41924-F1-model_v4 Ras-like GTP-binding protein RYL1	0.114	165	126	1	165	12	154	7.208E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6DHC1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6DHC1-F1-model_v4 Ras-related protein Rab-18-B	0.140	100	72	1	100	9	93	9.782E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61006-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61006-F1-model_v4 Ras-related protein Rab-8A	0.074	165	131	1	165	9	151	4.422E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P20790-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P20790-F1-model_v4 Ras-related protein Rab-8A	0.090	165	129	1	165	16	158	6.379E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q99260-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q99260-F1-model_v4 GTP-binding protein YPT6	0.089	215	187	1	215	9	214	1.594E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40723-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40723-F1-model_v4 Ras-related protein RGP2	0.098	165	128	1	165	13	155	1.040E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q96AX2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q96AX2-F1-model_v4 Ras-related protein Rab-37	0.118	148	119	2	149	31	166	2.300E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P55745-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P55745-F1-model_v4 Ras-related protein Rab-21	0.122	148	119	1	148	18	153	1.594E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54FG4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54FG4-F1-model_v4 Ras-related protein RabP	0.107	165	138	1	165	7	162	1.328E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35284-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35284-F1-model_v4 Ras-related protein Rab-12	0.102	96	72	1	96	42	122	1.802E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3N5S0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3N5S0-F1-model_v4 Elongation factor 2	0.089	130	113	2	131	23	147	1.500E+00	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1ZXQ0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q1ZXQ0-F1-model_v4 Sca1 complex protein phr	0.082	298	199	2	219	336	633	3.258E-01	24
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q94650-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q94650-F1-model_v4 ADP-ribosylation factor 1	0.100	145	116	1	145	18	147	1.802E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7TNZ5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7TNZ5-F1-model_v4 GTPase RhebL1	0.136	153	118	2	154	6	142	1.175E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05147-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05147-F1-model_v4 GTPase KRas	0.061	165	134	1	165	2	145	1.500E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4YDI6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C4YDI6-F1-model_v4 Cell division control protein 42 homolog	0.087	165	141	1	165	4	158	1.328E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38937-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38937-F1-model_v4 Rac-like GTP-binding protein ARAC5	0.106	151	131	2	152	6	153	4.160E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HE04-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9HE04-F1-model_v4 GTP-binding protein rho5	0.102	184	140	2	158	7	190	1.695E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P22125-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P22125-F1-model_v4 Ras-related protein ORAB-1	0.112	165	126	1	165	9	151	8.657E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51153-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51153-F1-model_v4 Ras-related protein Rab-13	0.067	149	129	1	149	6	144	1.328E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34443-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34443-F1-model_v4 GTP-binding protein Rheb homolog 1	0.111	165	128	1	165	12	156	8.144E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P49104-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P49104-F1-model_v4 Ras-related protein Rab-2-B	0.103	147	120	2	148	8	142	8.657E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38922-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38922-F1-model_v4 Ras-related protein RABB1b	0.108	149	120	1	149	7	142	1.915E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q86YS6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q86YS6-F1-model_v4 Ras-related protein Rab-43	0.091	165	130	1	165	19	162	8.657E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59190-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P59190-F1-model_v4 Ras-related protein Rab-15	0.098	165	128	1	165	9	151	6.781E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61018-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61018-F1-model_v4 Ras-related protein Rab-4B	0.106	165	127	1	165	9	151	1.175E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O49513-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O49513-F1-model_v4 Ras-related protein RABA1e	0.085	165	130	1	165	14	156	1.175E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9LK99-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9LK99-F1-model_v4 Ras-related protein RABA1g	0.108	148	120	1	148	14	149	1.411E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01111-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01111-F1-model_v4 Ras-related protein YPT3	0.088	165	130	1	165	14	156	2.164E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9FGK5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9FGK5-F1-model_v4 Ras-related protein RABA5a	0.119	165	125	1	165	15	157	9.782E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q64008-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q64008-F1-model_v4 Ras-related protein Rab-34	0.118	149	119	2	150	54	189	2.300E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q504M8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q504M8-F1-model_v4 Ras-related protein Rab-26	0.128	173	136	2	158	69	241	7.208E-01	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8WXH6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8WXH6-F1-model_v4 Ras-related protein Rab-40A	0.088	165	131	1	165	12	156	1.594E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3IUM4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q3IUM4-F1-model_v4 Elongation factor 2	0.087	171	138	2	153	23	193	1.328E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C7NYH7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C7NYH7-F1-model_v4 Elongation factor 2	0.093	197	157	2	175	23	219	1.328E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8D6B2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B8D6B2-F1-model_v4 Elongation factor 2	0.109	152	132	2	150	22	173	1.249E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8IZX4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8IZX4-F1-model_v4 Transcription initiation factor TFIID subunit 1-like	0.133	112	78	139	250	1142	1232	3.985E+00	23
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9YH38-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9YH38-F1-model_v4 GTPase KRas	0.066	165	134	1	165	2	145	1.411E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5F352-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5F352-F1-model_v4 GTPase NRas	0.091	165	130	1	165	2	145	1.328E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q96AH8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q96AH8-F1-model_v4 Ras-related protein Rab-7b	0.095	147	126	1	147	7	146	4.997E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R8X3-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R8X3-F1-model_v4 Ras-related protein Rab-1B	0.121	148	119	1	148	9	144	9.782E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RE13-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RE13-F1-model_v4 Ras-related protein Rab-1B	0.132	148	117	1	148	9	144	7.662E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q17QB7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q17QB7-F1-model_v4 Ras-related protein Rab-30	0.087	164	129	2	165	11	152	6.379E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05737-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05737-F1-model_v4 GTP-binding protein YPTM2	0.131	169	136	1	157	9	177	7.662E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0IIG8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q0IIG8-F1-model_v4 Ras-related protein Rab-18	0.119	148	120	2	149	8	144	8.144E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P70550-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P70550-F1-model_v4 Ras-related protein Rab-8B	0.106	165	127	1	165	9	151	5.646E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5F470-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5F470-F1-model_v4 Ras-related protein Rab-8A	0.107	149	121	1	149	9	144	6.001E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P16976-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P16976-F1-model_v4 GTP-binding protein YPTM1	0.081	165	130	1	165	9	151	1.328E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P25378-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P25378-F1-model_v4 Rheb-like protein RHB1	0.057	128	105	2	129	16	127	1.594E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P05712-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P05712-F1-model_v4 Ras-related protein Rab-2A	0.091	165	129	1	165	7	149	2.164E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZKU5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZKU5-F1-model_v4 Ras-related protein Rab-14	0.071	148	126	2	149	11	147	1.249E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O95716-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O95716-F1-model_v4 Ras-related protein Rab-3D	0.091	149	125	1	149	20	158	2.036E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R573-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R573-F1-model_v4 Rab-like protein 2A	0.087	164	127	2	165	21	160	2.036E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34150-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P34150-F1-model_v4 Rho-related protein racD	0.125	149	114	2	150	7	137	9.782E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9BZG1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9BZG1-F1-model_v4 Ras-related protein Rab-34	0.119	154	120	1	154	51	187	1.500E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7T2H2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7T2H2-F1-model_v4 Fibroblast growth factor receptor-like 1	0.086	69	48	142	210	434	486	9.371E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3MQ53-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3MQ53-F1-model_v4 Elongation factor 2	0.089	130	113	2	131	23	147	2.599E+00	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3KMI0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A3KMI0-F1-model_v4 ATP-dependent RNA helicase dhx29	0.079	157	134	75	221	674	830	5.646E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7Z478-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7Z478-F1-model_v4 ATP-dependent RNA helicase DHX29	0.089	159	135	75	223	680	838	6.001E-01	22
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P84080-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P84080-F1-model_v4 ADP-ribosylation factor 1	0.081	146	119	1	146	18	148	1.175E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P05774-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P05774-F1-model_v4 Ras-like protein	0.072	165	133	1	165	2	145	1.411E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O42277-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O42277-F1-model_v4 GTPase KRas	0.080	165	132	1	165	2	145	2.300E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38919-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q38919-F1-model_v4 Rac-like GTP-binding protein ARAC4	0.112	150	129	3	152	7	152	6.001E-01	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54GY8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54GY8-F1-model_v4 Ras-related protein Rab-18	0.132	164	122	2	165	8	149	1.695E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P28188-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P28188-F1-model_v4 Ras-related protein RABD2a	0.113	165	126	1	165	9	151	5.311E-01	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9NP72-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9NP72-F1-model_v4 Ras-related protein Rab-18	0.132	148	117	1	148	9	144	1.328E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R5H5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R5H5-F1-model_v4 Ras-related protein Rab-18	0.137	148	117	1	148	9	144	1.105E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35293-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35293-F1-model_v4 Ras-related protein Rab-18	0.125	149	118	1	149	9	144	1.105E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2HJI8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2HJI8-F1-model_v4 Ras-related protein Rab-8B	0.089	165	129	1	165	9	151	8.144E-01	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61028-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61028-F1-model_v4 Ras-related protein Rab-8B	0.089	165	129	1	165	9	151	8.144E-01	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61106-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61106-F1-model_v4 Ras-related protein Rab-14	0.071	148	126	2	149	11	147	1.915E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01387-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q01387-F1-model_v4 Protein ras-2	0.105	157	132	1	149	7	163	1.411E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9LNK1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9LNK1-F1-model_v4 Ras-related protein RABA3	0.085	164	133	2	165	27	172	1.175E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35283-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35283-F1-model_v4 Ras-related protein Rab-12	0.098	95	73	2	96	41	122	1.915E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IQ22-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6IQ22-F1-model_v4 Ras-related protein Rab-12	0.106	96	72	1	96	43	123	1.500E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4XY81-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A4XY81-F1-model_v4 Nucleoid-associated protein Pmen_3549	0.061	60	54	185	242	122	181	9.371E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q08CX1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q08CX1-F1-model_v4 Ras and EF-hand domain-containing protein	0.134	149	120	2	150	524	662	1.915E+00	21
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P91924-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P91924-F1-model_v4 ADP-ribosylation factor	0.087	146	119	1	146	18	148	1.695E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q295X7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q295X7-F1-model_v4 Ras-like protein 1	0.102	165	128	1	165	2	145	1.040E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P83831-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P83831-F1-model_v4 Ras-like protein 1	0.102	165	128	1	165	2	145	8.144E-01	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4PUP5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4PUP5-F1-model_v4 Ras-like protein 1	0.104	163	126	1	163	2	143	1.249E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4LY29-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4LY29-F1-model_v4 Ras-like protein 1	0.096	163	127	1	163	2	143	1.802E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3M185-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3M185-F1-model_v4 Ras-like protein 1	0.096	163	127	1	163	2	143	1.802E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4JFU8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4JFU8-F1-model_v4 Ras-like protein 1	0.102	165	128	1	165	2	145	1.040E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4HKC7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4HKC7-F1-model_v4 Ras-like protein 1	0.103	165	128	1	165	2	145	1.249E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01116-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01116-F1-model_v4 GTPase KRas	0.084	165	131	1	165	2	145	2.036E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35281-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35281-F1-model_v4 Ras-related protein Rab-10	0.082	149	127	1	149	7	145	1.500E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5KTJ6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5KTJ6-F1-model_v4 Ras-related protein Rab-13	0.099	150	120	1	150	9	142	1.594E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5EB77-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5EB77-F1-model_v4 Ras-related protein Rab-18	0.119	148	120	2	149	8	144	1.500E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92930-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q92930-F1-model_v4 Ras-related protein Rab-8B	0.081	165	130	1	165	9	151	6.781E-01	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36409-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P36409-F1-model_v4 Ras-related protein Rab-2A	0.100	164	127	2	165	7	148	2.937E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SN35-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9SN35-F1-model_v4 Ras-related protein RABA1d	0.111	165	126	1	165	14	156	3.985E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q52NJ6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q52NJ6-F1-model_v4 Ras-related protein Rab-14	0.089	164	130	2	165	11	154	1.915E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q91V41-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q91V41-F1-model_v4 Ras-related protein Rab-14	0.075	148	126	2	149	11	147	1.175E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40521-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40521-F1-model_v4 Ras-related protein Rab11B	0.103	181	141	1	158	15	195	2.036E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4UB16-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4UB16-F1-model_v4 Ras-related protein Rab-1	0.097	165	129	1	165	8	151	8.657E-01	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51996-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51996-F1-model_v4 GTP-binding protein YPT32/YPT11	0.104	94	70	1	94	14	92	1.802E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55CB9-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55CB9-F1-model_v4 Ras-like protein rasV	0.080	165	131	2	166	33	175	1.594E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R9F4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R9F4-F1-model_v4 Rho-related GTP-binding protein RhoE	0.107	215	173	2	196	25	239	1.105E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61588-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61588-F1-model_v4 Rho-related GTP-binding protein RhoE	0.097	215	175	2	196	25	239	1.594E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O59781-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O59781-F1-model_v4 Mitochondrial Rho GTPase 1	0.106	153	122	1	153	4	140	1.802E+00	20
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R5P2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q4R5P2-F1-model_v4 ADP-ribosylation factor 1	0.082	145	118	1	145	18	147	1.915E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q80ZJ1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q80ZJ1-F1-model_v4 Ras-related protein Rap-2a	0.085	168	142	2	157	3	170	3.122E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4NJ72-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4NJ72-F1-model_v4 Ras-like protein 1	0.090	149	124	1	149	2	138	1.695E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08646-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08646-F1-model_v4 Ras-like protein 1	0.103	165	128	1	165	2	145	1.175E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3NZR4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B3NZR4-F1-model_v4 Ras-like protein 1	0.092	149	123	1	149	2	138	2.937E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P12825-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P12825-F1-model_v4 GTPase NRas	0.097	165	129	1	165	2	145	1.594E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01112-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01112-F1-model_v4 GTPase HRas	0.070	165	133	1	165	2	145	2.164E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPQ8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9GPQ8-F1-model_v4 Rho-related protein racL	0.130	149	113	1	149	4	134	1.695E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q41254-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q41254-F1-model_v4 Rac-like GTP-binding protein RAC9	0.116	150	128	3	152	8	153	9.782E-01	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05976-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q05976-F1-model_v4 Ras-related protein Rab-18A	0.117	149	119	1	149	10	145	1.802E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q86L51-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q86L51-F1-model_v4 Ras-related protein rapB	0.111	140	108	1	140	21	142	3.318E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54DA7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54DA7-F1-model_v4 Ras-related protein Rab-4	0.100	172	140	2	157	7	178	1.594E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZLG1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZLG1-F1-model_v4 Ras-related protein Rab-18	0.128	149	118	1	149	9	144	2.036E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51152-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51152-F1-model_v4 Ras-related protein Rab-12	0.099	148	123	2	149	6	143	1.500E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61107-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61107-F1-model_v4 Ras-related protein Rab-14	0.072	148	126	2	149	11	147	3.122E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40523-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q40523-F1-model_v4 Ras-related protein Rab11A	0.091	165	129	1	165	13	155	2.445E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2TBH7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q2TBH7-F1-model_v4 Ras-related protein Rab-4A	0.101	164	127	2	165	15	156	3.527E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O95661-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O95661-F1-model_v4 GTP-binding protein Di-Ras3	0.082	164	132	2	165	37	181	3.318E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54WM4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q54WM4-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G	0.070	69	47	184	252	8	58	9.961E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ULW5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9ULW5-F1-model_v4 Ras-related protein Rab-26	0.142	173	134	2	158	65	237	1.105E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q29RR0-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q29RR0-F1-model_v4 Ras-related protein Rab-26	0.153	92	65	2	93	65	142	2.763E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5WW21-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A5WW21-F1-model_v4 Ras and EF-hand domain-containing protein	0.073	149	130	2	150	467	607	2.445E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3NED6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-C3NED6-F1-model_v4 Elongation factor 2	0.086	152	135	2	150	23	174	3.318E+00	19
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4KB60-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4KB60-F1-model_v4 Ras-like protein 1	0.071	129	104	1	129	2	114	4.787E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R988-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R988-F1-model_v4 Ras-related protein Rap-2a	0.085	168	142	2	157	3	170	2.937E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BU31-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q8BU31-F1-model_v4 Ras-related protein Rap-2c	0.095	168	140	2	157	3	170	2.445E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62636-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q62636-F1-model_v4 Ras-related protein Rap-1b	0.071	164	134	2	165	3	147	3.527E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P22981-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P22981-F1-model_v4 Ras protein let-60	0.064	165	134	1	165	2	145	2.599E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q95ME4-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q95ME4-F1-model_v4 GTPase NRas	0.083	149	125	1	149	2	138	1.915E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08644-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08644-F1-model_v4 GTPase KRas	0.084	165	131	1	165	2	145	3.122E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P20171-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P20171-F1-model_v4 GTPase HRas	0.068	165	133	1	165	2	145	3.122E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08642-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08642-F1-model_v4 GTPase HRas	0.072	165	133	1	165	2	145	3.985E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4GFJ8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-B4GFJ8-F1-model_v4 Ras-like protein 1	0.101	149	122	1	149	2	138	2.300E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51539-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P51539-F1-model_v4 Ras-like protein RAS1	0.075	165	130	1	165	10	151	6.496E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P70426-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P70426-F1-model_v4 GTP-binding protein Rit1	0.092	149	124	1	149	20	157	3.527E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JKM7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9JKM7-F1-model_v4 Ras-related protein Rab-37	0.110	168	138	2	157	31	198	1.915E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P25766-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P25766-F1-model_v4 Ras-related protein RGP1	0.058	164	136	2	165	17	161	2.763E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9FJN8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9FJN8-F1-model_v4 Ras-related protein RABA4a	0.063	147	128	2	148	16	153	1.594E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O77683-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O77683-F1-model_v4 Rho-related GTP-binding protein RhoE	0.106	215	173	2	196	25	239	2.445E+00	18
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9Y3L5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9Y3L5-F1-model_v4 Ras-related protein Rap-2c	0.100	168	140	2	157	3	170	3.318E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61226-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61226-F1-model_v4 Ras-related protein Rap-2b	0.087	170	142	1	157	1	170	3.527E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZHX1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5ZHX1-F1-model_v4 Ras-related protein Rap-1b	0.060	164	135	2	165	3	147	4.236E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5EFX7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5EFX7-F1-model_v4 GTPase KRas	0.070	165	133	1	165	2	145	2.300E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P79800-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P79800-F1-model_v4 GTPase KRas	0.096	170	135	1	150	2	171	3.985E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q04970-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q04970-F1-model_v4 GTPase NRas	0.076	149	126	1	149	2	138	3.527E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RD87-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RD87-F1-model_v4 GTPase NRas	0.096	149	123	1	149	2	138	3.527E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O94103-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-O94103-F1-model_v4 Cell division control protein 42 homolog	0.083	148	116	2	149	5	131	3.122E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P90726-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P90726-F1-model_v4 Ras-related protein Rab-18	0.107	148	121	2	149	11	147	3.985E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35292-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35292-F1-model_v4 Ras-related protein Rab-17	0.118	150	119	2	151	21	156	2.300E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R8Z8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5R8Z8-F1-model_v4 Ras-related protein Rab-14	0.090	149	121	2	150	11	144	3.749E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6H5N8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-A6H5N8-F1-model_v4 NAD(P)H-quinone oxidoreductase subunit 5, chloroplastic	0.152	124	102	106	226	426	549	2.445E+00	17
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61227-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61227-F1-model_v4 Ras-related protein Rap-2b	0.080	168	143	2	157	3	170	4.787E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P10114-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P10114-F1-model_v4 Ras-related protein Rap-2a	0.085	168	142	2	157	3	170	3.985E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7ZXH7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q7ZXH7-F1-model_v4 Ras-related protein Rap-1b	0.072	164	134	2	165	3	147	4.236E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9YH37-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9YH37-F1-model_v4 Ras-related protein Rap-1b	0.082	162	130	2	163	3	145	5.749E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6TEN1-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q6TEN1-F1-model_v4 Ras-related protein Rap-1b	0.103	174	140	2	158	3	176	4.503E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q07983-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q07983-F1-model_v4 GTPase KRas	0.077	163	130	1	163	2	143	3.122E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q61411-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q61411-F1-model_v4 GTPase HRas	0.068	165	133	1	165	2	145	4.503E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P32883-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P32883-F1-model_v4 GTPase KRas	0.091	165	130	1	165	2	145	3.122E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55CB7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55CB7-F1-model_v4 Ras-like protein rasY	0.090	165	129	2	166	10	152	6.496E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35276-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P35276-F1-model_v4 Ras-related protein Rab-3D	0.084	149	124	1	149	23	158	3.527E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9BSW2-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q9BSW2-F1-model_v4 EF-hand calcium-binding domain-containing protein 4B	0.092	180	141	2	157	544	723	2.763E+00	16
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q08DI5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q08DI5-F1-model_v4 Ras-related protein Rap-2c	0.058	93	73	2	94	3	81	3.318E+00	15
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08645-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P08645-F1-model_v4 Ras-related protein Rap1	0.082	164	131	2	165	3	146	6.496E+00	15
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RDM6-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5RDM6-F1-model_v4 Ras-related protein Rap-1b	0.065	149	128	2	150	3	140	8.816E+00	15
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01111-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P01111-F1-model_v4 GTPase NRas	0.095	149	123	1	149	2	138	4.236E+00	15
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55CB8-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q55CB8-F1-model_v4 Ras-like protein rasX	0.086	148	124	2	149	9	145	7.340E+00	15
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62833-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62833-F1-model_v4 Ras-related protein Rap-1A	0.060	162	133	2	163	3	145	8.294E+00	14
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q640R7-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q640R7-F1-model_v4 Ras-related protein Rap-1b	0.064	164	135	2	165	3	147	9.371E+00	14
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62836-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P62836-F1-model_v4 Ras-related protein Rap-1A	0.067	162	132	2	163	3	145	9.371E+00	13
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61225-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-P61225-F1-model_v4 Ras-related protein Rap-2b	0.080	168	143	2	157	3	170	9.961E+00	12
+DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5BJQ5-F1-model_v4	DESULFOASV1_1976_5-3-nucleotidase_SurE	AF-Q5BJQ5-F1-model_v4 GTP-binding protein Rit2	0.095	149	124	1	149	19	156	8.294E+00	12

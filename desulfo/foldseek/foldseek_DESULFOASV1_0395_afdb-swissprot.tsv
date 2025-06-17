@@ -1,0 +1,992 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_0395_response_regulator	AF-P45607-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45607-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.380	121	74	1	120	1	121	2.076E-13	479
+DESULFOASV1_0395_response_regulator	AF-P0AFJ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AFJ6-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.380	121	74	1	120	1	121	3.779E-13	472
+DESULFOASV1_0395_response_regulator	AF-P45189-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45189-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.400	120	71	1	120	1	120	4.615E-13	468
+DESULFOASV1_0395_response_regulator	AF-P0AFJ5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AFJ5-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.380	121	74	1	120	1	121	7.861E-13	462
+DESULFOASV1_0395_response_regulator	AF-P45606-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45606-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.380	121	74	1	120	1	121	7.861E-13	461
+DESULFOASV1_0395_response_regulator	AF-P45605-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45605-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.363	121	76	1	120	1	121	7.861E-13	461
+DESULFOASV1_0395_response_regulator	AF-P23620-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P23620-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.375	120	74	2	120	3	122	2.281E-12	452
+DESULFOASV1_0395_response_regulator	AF-P28835-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P28835-F1-model_v4 Probable transcriptional regulator ycf27	0.396	120	71	1	120	2	119	2.606E-12	452
+DESULFOASV1_0395_response_regulator	AF-P0A2D6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A2D6-F1-model_v4 Chemotaxis protein CheY	0.418	117	66	4	118	7	123	2.978E-12	436
+DESULFOASV1_0395_response_regulator	AF-A1W0A5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1W0A5-F1-model_v4 Chemotaxis protein CheY homolog	0.420	119	67	4	119	2	120	4.746E-12	435
+DESULFOASV1_0395_response_regulator	AF-P0C635-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0C635-F1-model_v4 Chemotaxis protein CheY homolog	0.420	119	67	4	119	2	120	5.072E-12	434
+DESULFOASV1_0395_response_regulator	AF-P44895-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P44895-F1-model_v4 Transcriptional regulatory protein CpxR homolog	0.341	120	76	1	120	1	116	4.440E-12	433
+DESULFOASV1_0395_response_regulator	AF-P71403-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P71403-F1-model_v4 Chemotaxis protein CheY1	0.453	119	63	4	119	2	120	8.084E-12	427
+DESULFOASV1_0395_response_regulator	AF-A8FMH1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8FMH1-F1-model_v4 Chemotaxis protein CheY homolog	0.420	119	67	4	119	2	120	8.641E-12	427
+DESULFOASV1_0395_response_regulator	AF-P51358-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P51358-F1-model_v4 Probable transcriptional regulator ycf27	0.355	120	75	1	120	4	121	8.084E-12	427
+DESULFOASV1_0395_response_regulator	AF-Q9FAD7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9FAD7-F1-model_v4 Chemotaxis protein CheY	0.393	117	69	4	118	7	123	7.076E-12	425
+DESULFOASV1_0395_response_regulator	AF-Q8D0P1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8D0P1-F1-model_v4 Chemotaxis protein CheY	0.369	119	73	2	118	5	123	5.072E-12	424
+DESULFOASV1_0395_response_regulator	AF-Q93P00-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q93P00-F1-model_v4 Chemotaxis protein CheY	0.378	119	72	2	118	5	123	8.084E-12	423
+DESULFOASV1_0395_response_regulator	AF-P0A2D5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A2D5-F1-model_v4 Chemotaxis protein CheY	0.418	117	66	4	118	7	123	8.084E-12	423
+DESULFOASV1_0395_response_regulator	AF-P46384-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P46384-F1-model_v4 Protein PilG	0.350	117	75	2	117	7	123	6.620E-12	422
+DESULFOASV1_0395_response_regulator	AF-P0AE69-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE69-F1-model_v4 Chemotaxis protein CheY	0.401	117	68	4	118	7	123	8.641E-12	421
+DESULFOASV1_0395_response_regulator	AF-Q9ZM64-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZM64-F1-model_v4 Chemotaxis protein CheY1	0.436	119	65	4	119	2	120	1.288E-11	420
+DESULFOASV1_0395_response_regulator	AF-Q7A8E1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A8E1-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	2.053E-11	418
+DESULFOASV1_0395_response_regulator	AF-P13792-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P13792-F1-model_v4 Alkaline phosphatase synthesis transcriptional regulatory protein PhoP	0.363	120	75	1	120	1	119	2.195E-11	418
+DESULFOASV1_0395_response_regulator	AF-P0AE67-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE67-F1-model_v4 Chemotaxis protein CheY	0.401	117	68	4	118	7	123	1.205E-11	417
+DESULFOASV1_0395_response_regulator	AF-Q9RDT5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9RDT5-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	2.680E-11	415
+DESULFOASV1_0395_response_regulator	AF-Q1XDC9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1XDC9-F1-model_v4 Probable transcriptional regulator ycf27	0.355	120	75	1	120	4	121	2.865E-11	415
+DESULFOASV1_0395_response_regulator	AF-Q8FGP6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8FGP6-F1-model_v4 Chemotaxis protein CheY	0.401	117	68	4	118	7	123	1.472E-11	414
+DESULFOASV1_0395_response_regulator	AF-Q47744-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q47744-F1-model_v4 Regulatory protein VanRB	0.314	120	80	1	120	1	118	1.921E-11	413
+DESULFOASV1_0395_response_regulator	AF-P0AE89-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE89-F1-model_v4 Transcriptional regulatory protein CpxR	0.308	120	80	1	120	1	116	2.346E-11	413
+DESULFOASV1_0395_response_regulator	AF-Q7A0U4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A0U4-F1-model_v4 Transcriptional regulatory protein SrrA	0.333	120	78	1	120	1	118	3.183E-12	413
+DESULFOASV1_0395_response_regulator	AF-P54443-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P54443-F1-model_v4 Uncharacterized transcriptional regulatory protein YrkP	0.341	120	76	1	120	1	117	3.498E-11	412
+DESULFOASV1_0395_response_regulator	AF-Q6K9T0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6K9T0-F1-model_v4 Two-component response regulator ORR3	0.294	119	82	3	119	11	129	4.746E-12	411
+DESULFOASV1_0395_response_regulator	AF-P0A4H9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H9-F1-model_v4 Transcriptional regulatory protein DltR	0.347	117	75	4	120	2	117	2.053E-11	411
+DESULFOASV1_0395_response_regulator	AF-A7WWQ5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7WWQ5-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	4.272E-11	410
+DESULFOASV1_0395_response_regulator	AF-P0AE90-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE90-F1-model_v4 Transcriptional regulatory protein CpxR	0.308	120	80	1	120	1	116	3.273E-11	409
+DESULFOASV1_0395_response_regulator	AF-P0AE88-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE88-F1-model_v4 Transcriptional regulatory protein CpxR	0.308	120	80	1	120	1	116	3.273E-11	409
+DESULFOASV1_0395_response_regulator	AF-Q6GD72-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GD72-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	3.996E-11	409
+DESULFOASV1_0395_response_regulator	AF-P0AE68-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE68-F1-model_v4 Chemotaxis protein CheY	0.401	117	68	4	118	7	123	2.346E-11	408
+DESULFOASV1_0395_response_regulator	AF-A6QD57-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6QD57-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	4.272E-11	408
+DESULFOASV1_0395_response_regulator	AF-A5INQ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5INQ9-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	4.272E-11	408
+DESULFOASV1_0395_response_regulator	AF-A6TXG8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6TXG8-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	4.272E-11	407
+DESULFOASV1_0395_response_regulator	AF-P35163-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P35163-F1-model_v4 Transcriptional regulatory protein ResD	0.344	119	76	2	120	6	122	2.053E-11	407
+DESULFOASV1_0395_response_regulator	AF-Q9HV27-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HV27-F1-model_v4 Cyclic di-GMP phosphodiesterase PA4781	0.264	116	84	3	117	11	126	1.288E-11	407
+DESULFOASV1_0395_response_regulator	AF-Q51455-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q51455-F1-model_v4 Chemotaxis protein CheY	0.367	117	72	4	118	2	118	1.797E-11	405
+DESULFOASV1_0395_response_regulator	AF-Q9CCJ2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9CCJ2-F1-model_v4 DNA-binding response regulator MtrA	0.347	120	76	1	120	1	118	3.996E-11	405
+DESULFOASV1_0395_response_regulator	AF-Q2FKN8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FKN8-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	5.575E-11	405
+DESULFOASV1_0395_response_regulator	AF-Q2YUQ3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YUQ3-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	5.959E-11	404
+DESULFOASV1_0395_response_regulator	AF-Q2G2U6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2G2U6-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	5.959E-11	404
+DESULFOASV1_0395_response_regulator	AF-Q4GZK8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZK8-F1-model_v4 Two-component response regulator ORR3	0.294	119	82	3	119	11	129	9.236E-12	403
+DESULFOASV1_0395_response_regulator	AF-B8AFR8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8AFR8-F1-model_v4 Two-component response regulator ORR11	0.286	122	85	1	120	26	147	2.195E-11	403
+DESULFOASV1_0395_response_regulator	AF-P48259-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P48259-F1-model_v4 Probable transcriptional regulator ycf27	0.375	119	73	2	120	5	121	2.865E-11	403
+DESULFOASV1_0395_response_regulator	AF-Q1B3X8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1B3X8-F1-model_v4 Response regulator MprA	0.338	120	78	1	120	1	119	5.959E-11	402
+DESULFOASV1_0395_response_regulator	AF-Q5HK18-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HK18-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	7.277E-11	402
+DESULFOASV1_0395_response_regulator	AF-Q6G972-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6G972-F1-model_v4 Transcriptional regulatory protein SrrA	0.333	120	78	1	120	1	118	8.084E-12	402
+DESULFOASV1_0395_response_regulator	AF-O32192-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O32192-F1-model_v4 Transcriptional regulatory protein CssR	0.260	119	86	1	119	1	117	3.062E-11	401
+DESULFOASV1_0395_response_regulator	AF-Q8CQK0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CQK0-F1-model_v4 Transcriptional regulatory protein WalR	0.350	116	73	1	116	1	114	4.566E-11	401
+DESULFOASV1_0395_response_regulator	AF-Q5HJX7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HJX7-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	7.277E-11	401
+DESULFOASV1_0395_response_regulator	AF-P28257-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P28257-F1-model_v4 Probable transcriptional regulator ycf27	0.358	119	74	2	120	7	123	5.959E-11	401
+DESULFOASV1_0395_response_regulator	AF-Q2FY79-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FY79-F1-model_v4 Transcriptional regulatory protein SrrA	0.344	120	77	1	120	1	118	1.205E-11	399
+DESULFOASV1_0395_response_regulator	AF-P50351-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P50351-F1-model_v4 Transcriptional regulatory protein ChvI	0.344	118	75	3	120	2	117	5.959E-11	399
+DESULFOASV1_0395_response_regulator	AF-P24072-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P24072-F1-model_v4 Chemotaxis protein CheY	0.360	120	76	1	120	1	120	5.959E-11	398
+DESULFOASV1_0395_response_regulator	AF-Q8GVV6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8GVV6-F1-model_v4 Two-component response regulator ORR8	0.264	117	84	2	116	3	119	1.682E-11	398
+DESULFOASV1_0395_response_regulator	AF-A8YYU1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8YYU1-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	8.886E-11	398
+DESULFOASV1_0395_response_regulator	AF-Q4GZK3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZK3-F1-model_v4 Two-component response regulator ORR8	0.264	117	84	2	116	3	119	1.682E-11	397
+DESULFOASV1_0395_response_regulator	AF-Q7U0X4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7U0X4-F1-model_v4 Response regulator MprA	0.338	120	78	1	120	1	119	8.886E-11	397
+DESULFOASV1_0395_response_regulator	AF-Q7A216-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A216-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	8.886E-11	397
+DESULFOASV1_0395_response_regulator	AF-O78428-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O78428-F1-model_v4 Probable transcriptional regulator ycf27	0.371	120	74	1	120	13	130	1.015E-10	397
+DESULFOASV1_0395_response_regulator	AF-P0A4I0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4I0-F1-model_v4 Transcriptional regulatory protein DltR	0.347	114	73	4	117	2	114	5.216E-11	396
+DESULFOASV1_0395_response_regulator	AF-P37478-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P37478-F1-model_v4 Transcriptional regulatory protein WalR	0.358	116	73	1	116	1	114	5.959E-11	396
+DESULFOASV1_0395_response_regulator	AF-P50350-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P50350-F1-model_v4 Transcriptional regulatory protein ChvI	0.344	118	75	3	120	2	117	7.778E-11	396
+DESULFOASV1_0395_response_regulator	AF-Q4LAJ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4LAJ9-F1-model_v4 Transcriptional regulatory protein WalR	0.355	120	75	1	120	1	118	1.160E-10	395
+DESULFOASV1_0395_response_regulator	AF-Q2HWG1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2HWG1-F1-model_v4 Two-component response regulator ORR12	0.264	117	84	2	116	3	119	2.508E-11	394
+DESULFOASV1_0395_response_regulator	AF-Q7A2R6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A2R6-F1-model_v4 Transcriptional regulatory protein SrrA	0.333	120	78	1	120	1	118	2.865E-11	394
+DESULFOASV1_0395_response_regulator	AF-Q52990-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q52990-F1-model_v4 Phosphate regulon transcriptional regulatory protein PhoB	0.290	121	84	1	120	1	121	2.680E-11	393
+DESULFOASV1_0395_response_regulator	AF-P9WGM6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM6-F1-model_v4 DNA-binding response regulator MtrA	0.347	120	76	1	120	4	121	9.498E-11	393
+DESULFOASV1_0395_response_regulator	AF-Q6GGK6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GGK6-F1-model_v4 Transcriptional regulatory protein SrrA	0.344	120	77	1	120	1	118	1.921E-11	393
+DESULFOASV1_0395_response_regulator	AF-P39663-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P39663-F1-model_v4 Alkaline phosphatase synthesis transcriptional regulatory protein SphR	0.286	127	84	2	120	23	149	2.346E-11	393
+DESULFOASV1_0395_response_regulator	AF-Q4A160-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4A160-F1-model_v4 Transcriptional regulatory protein WalR	0.347	120	76	1	120	1	118	1.416E-10	392
+DESULFOASV1_0395_response_regulator	AF-Q56312-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q56312-F1-model_v4 Chemotaxis protein CheY	0.319	120	81	1	120	1	120	9.498E-11	390
+DESULFOASV1_0395_response_regulator	AF-P0A5Z5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A5Z5-F1-model_v4 DNA-binding response regulator MtrA	0.347	120	76	1	120	4	121	1.325E-10	390
+DESULFOASV1_0395_response_regulator	AF-P9WGM9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM9-F1-model_v4 Response regulator MprA	0.330	120	79	1	120	1	119	1.416E-10	390
+DESULFOASV1_0395_response_regulator	AF-P9WGM0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM0-F1-model_v4 Transcriptional regulatory protein PrrA	0.305	120	82	1	120	6	124	1.618E-10	389
+DESULFOASV1_0395_response_regulator	AF-E0X9C7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-E0X9C7-F1-model_v4 Sensor histidine kinase TodS	0.302	118	82	1	118	449	566	1.325E-10	389
+DESULFOASV1_0395_response_regulator	AF-Q6H468-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6H468-F1-model_v4 Two-component response regulator ORR11	0.297	121	83	2	120	27	147	8.313E-11	388
+DESULFOASV1_0395_response_regulator	AF-Q93CB8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q93CB8-F1-model_v4 DNA-binding response regulator MtrA	0.347	120	76	1	120	1	118	5.575E-11	387
+DESULFOASV1_0395_response_regulator	AF-A0PWB4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0PWB4-F1-model_v4 Response regulator MprA	0.338	120	78	1	120	1	119	1.848E-10	387
+DESULFOASV1_0395_response_regulator	AF-Q9TLQ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9TLQ4-F1-model_v4 Probable transcriptional regulator ycf27	0.336	119	77	2	120	11	127	7.778E-11	387
+DESULFOASV1_0395_response_regulator	AF-Q6G9E6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6G9E6-F1-model_v4 Response regulator ArlR	0.355	120	75	1	120	1	117	4.272E-11	386
+DESULFOASV1_0395_response_regulator	AF-A1TEL7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1TEL7-F1-model_v4 Response regulator MprA	0.338	120	78	1	120	1	119	1.848E-10	386
+DESULFOASV1_0395_response_regulator	AF-P0A5Z7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A5Z7-F1-model_v4 Transcriptional regulatory protein PrrA	0.314	120	81	1	120	6	124	1.416E-10	386
+DESULFOASV1_0395_response_regulator	AF-Q99XF3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q99XF3-F1-model_v4 Transcriptional regulatory protein WalR	0.350	116	73	1	116	1	114	1.325E-10	386
+DESULFOASV1_0395_response_regulator	AF-Q9L524-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9L524-F1-model_v4 Transcriptional regulatory protein SrrA	0.325	120	79	1	120	1	118	4.566E-11	386
+DESULFOASV1_0395_response_regulator	AF-P9WGM1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM1-F1-model_v4 Transcriptional regulatory protein PrrA	0.305	120	82	1	120	6	124	1.976E-10	385
+DESULFOASV1_0395_response_regulator	AF-Q2FH23-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FH23-F1-model_v4 Response regulator ArlR	0.333	120	77	1	120	1	117	3.273E-11	384
+DESULFOASV1_0395_response_regulator	AF-Q9HUI2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HUI2-F1-model_v4 Transcriptional regulatory protein AruR	0.277	123	86	1	120	3	125	1.976E-10	383
+DESULFOASV1_0395_response_regulator	AF-O25153-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O25153-F1-model_v4 Sensor histidine kinase CheAY	0.324	117	76	4	117	678	794	1.085E-10	383
+DESULFOASV1_0395_response_regulator	AF-Q2HWG0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2HWG0-F1-model_v4 Two-component response regulator ORR13	0.256	117	85	2	116	3	119	5.959E-11	382
+DESULFOASV1_0395_response_regulator	AF-Q0PVB3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0PVB3-F1-model_v4 Two-component response regulator ORR7	0.289	121	84	2	120	90	210	8.313E-11	382
+DESULFOASV1_0395_response_regulator	AF-Q07783-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q07783-F1-model_v4 Transcriptional regulatory protein ChvI	0.344	118	75	3	120	2	117	1.848E-10	382
+DESULFOASV1_0395_response_regulator	AF-Q50136-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q50136-F1-model_v4 Transcriptional regulatory protein PrrA	0.300	119	82	2	120	7	124	2.579E-10	381
+DESULFOASV1_0395_response_regulator	AF-Q6GGZ3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GGZ3-F1-model_v4 Response regulator ArlR	0.333	120	77	1	120	1	117	4.566E-11	380
+DESULFOASV1_0395_response_regulator	AF-P0C001-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0C001-F1-model_v4 Response regulator ArlR	0.333	120	77	1	120	1	117	4.566E-11	380
+DESULFOASV1_0395_response_regulator	AF-P9WGM7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM7-F1-model_v4 DNA-binding response regulator MtrA	0.347	120	76	1	120	4	121	8.886E-11	380
+DESULFOASV1_0395_response_regulator	AF-A0QTK2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0QTK2-F1-model_v4 DNA-binding response regulator MtrA	0.330	120	78	1	120	4	121	2.756E-10	380
+DESULFOASV1_0395_response_regulator	AF-A1KHB7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1KHB7-F1-model_v4 Response regulator MprA	0.338	120	78	1	120	1	119	2.756E-10	380
+DESULFOASV1_0395_response_regulator	AF-P72781-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P72781-F1-model_v4 Response regulator Rre1	0.264	123	87	1	119	1	123	3.273E-11	380
+DESULFOASV1_0395_response_regulator	AF-Q9ZEP4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZEP4-F1-model_v4 Transcriptional regulatory protein CseB	0.291	119	82	2	120	4	120	2.579E-10	380
+DESULFOASV1_0395_response_regulator	AF-P48359-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P48359-F1-model_v4 Probable transcriptional regulator ycf29	0.278	119	85	1	119	1	119	1.921E-11	379
+DESULFOASV1_0395_response_regulator	AF-P9WGM8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM8-F1-model_v4 Response regulator MprA	0.330	120	79	1	120	1	119	2.112E-10	379
+DESULFOASV1_0395_response_regulator	AF-Q6GKS7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GKS7-F1-model_v4 Transcriptional regulatory protein WalR	0.350	116	73	1	116	1	114	2.112E-10	379
+DESULFOASV1_0395_response_regulator	AF-Q4GZK6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZK6-F1-model_v4 Two-component response regulator ORR5	0.305	121	82	2	120	14	134	8.886E-11	378
+DESULFOASV1_0395_response_regulator	AF-Q2HWH1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2HWH1-F1-model_v4 Two-component response regulator ORR5	0.305	121	82	2	120	14	134	8.886E-11	378
+DESULFOASV1_0395_response_regulator	AF-P0C000-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0C000-F1-model_v4 Response regulator ArlR	0.333	120	77	1	120	1	117	5.216E-11	378
+DESULFOASV1_0395_response_regulator	AF-P40138-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P40138-F1-model_v4 Adenylate cyclase 2	0.276	122	86	1	120	4	125	9.498E-11	378
+DESULFOASV1_0395_response_regulator	AF-Q9CD68-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9CD68-F1-model_v4 Response regulator MprA	0.347	117	75	4	120	2	117	1.729E-10	377
+DESULFOASV1_0395_response_regulator	AF-P18769-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P18769-F1-model_v4 Gliding motility regulatory protein	0.336	116	75	4	117	660	775	1.416E-10	376
+DESULFOASV1_0395_response_regulator	AF-A3Q5L9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3Q5L9-F1-model_v4 Response regulator MprA	0.338	120	78	1	120	1	119	3.149E-10	374
+DESULFOASV1_0395_response_regulator	AF-Q742C1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q742C1-F1-model_v4 Response regulator MprA	0.338	117	76	4	120	2	117	2.257E-10	373
+DESULFOASV1_0395_response_regulator	AF-A5U123-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5U123-F1-model_v4 Response regulator MprA	0.330	120	79	1	120	1	119	4.695E-10	373
+DESULFOASV1_0395_response_regulator	AF-P0AA16-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AA16-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.330	119	78	2	120	4	121	1.085E-10	373
+DESULFOASV1_0395_response_regulator	AF-P51343-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P51343-F1-model_v4 Probable transcriptional regulator ycf29	0.270	120	86	1	119	1	120	8.886E-11	372
+DESULFOASV1_0395_response_regulator	AF-Q9A5I5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9A5I5-F1-model_v4 Response regulator PleD	0.277	119	85	1	118	1	119	2.579E-10	372
+DESULFOASV1_0395_response_regulator	AF-Q9KJN4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9KJN4-F1-model_v4 Response regulator ArlR	0.346	120	76	1	120	1	117	4.880E-11	371
+DESULFOASV1_0395_response_regulator	AF-A0R3I8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0R3I8-F1-model_v4 Response regulator MprA	0.355	120	76	1	120	1	119	5.733E-10	371
+DESULFOASV1_0395_response_regulator	AF-P31079-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P31079-F1-model_v4 Protein PetR	0.319	119	79	2	120	6	122	1.085E-10	370
+DESULFOASV1_0395_response_regulator	AF-L7N689-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-L7N689-F1-model_v4 Transcriptional regulatory protein TrcR	0.291	119	83	2	120	31	148	4.393E-10	370
+DESULFOASV1_0395_response_regulator	AF-Q9KM66-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9KM66-F1-model_v4 CAI-1 autoinducer sensor kinase/phosphatase CqsS	0.305	119	81	1	117	566	684	1.160E-10	370
+DESULFOASV1_0395_response_regulator	AF-Q5HG04-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HG04-F1-model_v4 Response regulator ArlR	0.346	120	76	1	120	1	117	5.959E-11	369
+DESULFOASV1_0395_response_regulator	AF-A1UL70-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1UL70-F1-model_v4 Response regulator MprA	0.338	120	78	1	120	1	119	4.393E-10	369
+DESULFOASV1_0395_response_regulator	AF-Q7A5H6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A5H6-F1-model_v4 Transcriptional regulatory protein SrrA	0.333	120	78	1	120	1	118	1.976E-10	369
+DESULFOASV1_0395_response_regulator	AF-Q99U73-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q99U73-F1-model_v4 Response regulator ArlR	0.341	120	76	1	120	1	117	1.325E-10	368
+DESULFOASV1_0395_response_regulator	AF-Q04942-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q04942-F1-model_v4 Transcriptional regulatory protein AfsQ1	0.285	118	82	3	120	2	117	6.128E-10	368
+DESULFOASV1_0395_response_regulator	AF-Q5HFT0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HFT0-F1-model_v4 Transcriptional regulatory protein SrrA	0.333	120	78	1	120	1	118	2.112E-10	367
+DESULFOASV1_0395_response_regulator	AF-Q4L6C6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4L6C6-F1-model_v4 Response regulator ArlR	0.341	120	76	1	120	1	117	1.160E-10	366
+DESULFOASV1_0395_response_regulator	AF-Q8Z7H2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8Z7H2-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.305	117	80	4	120	3	118	1.618E-10	366
+DESULFOASV1_0395_response_regulator	AF-A7X5Y5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7X5Y5-F1-model_v4 Heme response regulator HssR	0.276	120	84	1	120	1	117	1.085E-10	366
+DESULFOASV1_0395_response_regulator	AF-A7N6S2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7N6S2-F1-model_v4 CAI-1 autoinducer sensor kinase/phosphatase CqsS	0.336	117	76	1	115	561	677	1.015E-10	366
+DESULFOASV1_0395_response_regulator	AF-P06628-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P06628-F1-model_v4 Sporulation initiation phosphotransferase F	0.279	117	83	1	117	2	117	2.413E-10	365
+DESULFOASV1_0395_response_regulator	AF-Q4GZK2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZK2-F1-model_v4 Two-component response regulator ORR9	0.213	136	93	1	119	7	142	7.277E-11	365
+DESULFOASV1_0395_response_regulator	AF-Q9WY30-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9WY30-F1-model_v4 Cyclic di-GMP phosphodiesterase TM_0186	0.256	117	84	4	120	2	115	4.110E-10	365
+DESULFOASV1_0395_response_regulator	AF-Q83RR0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q83RR0-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.322	117	78	4	120	2	117	2.257E-10	364
+DESULFOASV1_0395_response_regulator	AF-Q7A039-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A039-F1-model_v4 Heme response regulator HssR	0.276	120	84	1	120	1	117	1.240E-10	364
+DESULFOASV1_0395_response_regulator	AF-Q4UU85-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4UU85-F1-model_v4 Cyclic di-GMP phosphodiesterase response regulator RpfG	0.305	119	80	4	119	29	147	1.618E-10	364
+DESULFOASV1_0395_response_regulator	AF-P32040-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P32040-F1-model_v4 Probable transcriptional regulatory protein SYNPCC7002_A0851	0.281	126	86	1	120	17	142	4.110E-10	363
+DESULFOASV1_0395_response_regulator	AF-Q1XDE4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1XDE4-F1-model_v4 Probable transcriptional regulator ycf29	0.286	120	84	1	119	1	120	3.597E-10	362
+DESULFOASV1_0395_response_regulator	AF-A0QBQ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0QBQ9-F1-model_v4 Response regulator MprA	0.338	117	76	4	120	2	117	5.364E-10	362
+DESULFOASV1_0395_response_regulator	AF-Q6LA42-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6LA42-F1-model_v4 Two-component response regulator-like APRR5	0.268	123	87	1	120	48	170	2.112E-10	362
+DESULFOASV1_0395_response_regulator	AF-A6U488-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6U488-F1-model_v4 Heme response regulator HssR	0.276	120	84	1	120	1	117	1.514E-10	361
+DESULFOASV1_0395_response_regulator	AF-B8GZM2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8GZM2-F1-model_v4 Response regulator PleD	0.277	119	85	1	118	1	119	5.733E-10	361
+DESULFOASV1_0395_response_regulator	AF-P0A4H5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H5-F1-model_v4 Chemotaxis protein CheY	0.277	117	84	4	120	3	119	3.845E-10	359
+DESULFOASV1_0395_response_regulator	AF-A2XYV5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2XYV5-F1-model_v4 Two-component response regulator ORR6	0.270	122	85	1	118	48	169	2.413E-10	359
+DESULFOASV1_0395_response_regulator	AF-Q2YY03-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YY03-F1-model_v4 Response regulator ArlR	0.346	120	76	1	120	1	117	1.325E-10	359
+DESULFOASV1_0395_response_regulator	AF-Q8CXZ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CXZ9-F1-model_v4 Transcriptional regulatory protein PhoP	0.322	117	78	4	120	2	117	2.756E-10	359
+DESULFOASV1_0395_response_regulator	AF-Q82EB1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q82EB1-F1-model_v4 Transcriptional regulatory protein CseB	0.283	119	83	2	120	4	120	9.138E-10	358
+DESULFOASV1_0395_response_regulator	AF-Q2QXY3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2QXY3-F1-model_v4 Two-component response regulator ORR10	0.213	136	93	1	119	7	142	1.618E-10	357
+DESULFOASV1_0395_response_regulator	AF-D0ZV90-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-D0ZV90-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.302	118	81	3	120	2	118	3.597E-10	357
+DESULFOASV1_0395_response_regulator	AF-P51586-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P51586-F1-model_v4 Uncharacterized 14.6 kDa protein in sodA1 3'region	0.307	117	80	2	117	6	122	7.998E-10	356
+DESULFOASV1_0395_response_regulator	AF-P0A9Q1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A9Q1-F1-model_v4 Aerobic respiration control protein ArcA	0.295	119	82	1	119	2	118	4.110E-10	356
+DESULFOASV1_0395_response_regulator	AF-Q44929-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q44929-F1-model_v4 Response regulator GtcR	0.302	116	79	1	116	1	114	2.756E-10	356
+DESULFOASV1_0395_response_regulator	AF-Q0D3B6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0D3B6-F1-model_v4 Two-component response regulator-like PRR37	0.291	120	82	2	118	61	180	1.416E-10	356
+DESULFOASV1_0395_response_regulator	AF-T2KMF4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-T2KMF4-F1-model_v4 Histidine kinase P4	0.325	118	79	2	119	1117	1234	5.364E-10	356
+DESULFOASV1_0395_response_regulator	AF-Q9AE24-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9AE24-F1-model_v4 Transcriptional regulatory protein RprY	0.308	120	82	1	120	6	124	3.597E-10	355
+DESULFOASV1_0395_response_regulator	AF-A5VUU3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5VUU3-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	7.483E-10	354
+DESULFOASV1_0395_response_regulator	AF-Q8X738-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8X738-F1-model_v4 Transcriptional regulatory protein PhoP	0.313	117	79	4	120	2	117	5.018E-10	354
+DESULFOASV1_0395_response_regulator	AF-P44918-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P44918-F1-model_v4 Aerobic respiration control protein ArcA homolog	0.286	119	83	1	119	2	118	3.845E-10	354
+DESULFOASV1_0395_response_regulator	AF-P10046-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P10046-F1-model_v4 C4-dicarboxylate transport transcriptional regulatory protein DctD	0.254	117	86	1	117	3	118	3.845E-10	354
+DESULFOASV1_0395_response_regulator	AF-A5W4E3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5W4E3-F1-model_v4 Sensor histidine kinase TodS	0.302	118	82	1	118	449	566	1.557E-09	354
+DESULFOASV1_0395_response_regulator	AF-P43501-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P43501-F1-model_v4 Protein PilH	0.300	119	83	1	119	1	119	2.946E-10	353
+DESULFOASV1_0395_response_regulator	AF-P23836-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P23836-F1-model_v4 Transcriptional regulatory protein PhoP	0.322	117	78	4	120	2	117	5.018E-10	353
+DESULFOASV1_0395_response_regulator	AF-Q5PMJ1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5PMJ1-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.305	117	80	4	120	3	118	4.393E-10	353
+DESULFOASV1_0395_response_regulator	AF-Q8FW53-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8FW53-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	8.549E-10	352
+DESULFOASV1_0395_response_regulator	AF-Q7XQA6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7XQA6-F1-model_v4 Two-component response regulator ORR6	0.272	121	84	2	118	49	169	3.366E-10	352
+DESULFOASV1_0395_response_regulator	AF-B8BLZ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8BLZ4-F1-model_v4 Two-component response regulator ORR10	0.213	136	93	1	119	7	142	2.579E-10	352
+DESULFOASV1_0395_response_regulator	AF-Q5HPC3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HPC3-F1-model_v4 Response regulator ArlR	0.338	120	77	1	120	1	117	1.618E-10	352
+DESULFOASV1_0395_response_regulator	AF-Q4GZK7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZK7-F1-model_v4 Two-component response regulator ORR4	0.266	139	86	2	119	9	147	1.848E-10	352
+DESULFOASV1_0395_response_regulator	AF-O07776-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O07776-F1-model_v4 Transcriptional regulatory protein TcrA	0.258	119	87	2	120	22	139	1.116E-09	352
+DESULFOASV1_0395_response_regulator	AF-Q06065-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q06065-F1-model_v4 Regulatory protein AtoC	0.286	119	84	1	119	3	120	9.767E-10	352
+DESULFOASV1_0395_response_regulator	AF-Q54SP4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q54SP4-F1-model_v4 Hybrid signal transduction histidine kinase D	0.254	117	87	2	118	569	685	2.321E-09	352
+DESULFOASV1_0395_response_regulator	AF-Q02540-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q02540-F1-model_v4 Transcriptional activator protein CopR	0.297	117	81	4	120	2	117	1.976E-10	351
+DESULFOASV1_0395_response_regulator	AF-P0AA20-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AA20-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.325	120	80	1	120	3	121	3.366E-10	351
+DESULFOASV1_0395_response_regulator	AF-Q9ZWS6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZWS6-F1-model_v4 Two-component response regulator ARR6	0.212	130	92	2	119	24	153	2.579E-10	350
+DESULFOASV1_0395_response_regulator	AF-Q06239-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q06239-F1-model_v4 Regulatory protein VanR	0.333	117	76	1	117	1	115	4.695E-10	350
+DESULFOASV1_0395_response_regulator	AF-P25852-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P25852-F1-model_v4 Transcriptional regulatory protein ZraR	0.300	119	82	1	119	4	121	1.664E-09	350
+DESULFOASV1_0395_response_regulator	AF-Q8YC73-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8YC73-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	1.044E-09	349
+DESULFOASV1_0395_response_regulator	AF-P69229-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P69229-F1-model_v4 Transcriptional regulatory protein BaeR	0.300	119	81	2	120	10	126	7.483E-10	349
+DESULFOASV1_0395_response_regulator	AF-Q2RAP3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2RAP3-F1-model_v4 Two-component response regulator ORR9	0.213	136	93	1	119	7	142	2.946E-10	348
+DESULFOASV1_0395_response_regulator	AF-O69730-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O69730-F1-model_v4 Probable transcriptional regulatory protein TcrX	0.241	120	90	1	120	7	125	9.138E-10	348
+DESULFOASV1_0395_response_regulator	AF-Q689G6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q689G6-F1-model_v4 Two-component response regulator-like PRR95	0.252	123	89	1	120	41	163	2.413E-10	348
+DESULFOASV1_0395_response_regulator	AF-A9WYT1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9WYT1-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	1.275E-09	347
+DESULFOASV1_0395_response_regulator	AF-Q9ZWS9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZWS9-F1-model_v4 Two-component response regulator ARR3	0.236	131	90	2	120	32	162	5.733E-10	347
+DESULFOASV1_0395_response_regulator	AF-A0A0H3NGY1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0A0H3NGY1-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.325	120	80	1	120	3	121	4.695E-10	347
+DESULFOASV1_0395_response_regulator	AF-B2SB45-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2SB45-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	1.363E-09	346
+DESULFOASV1_0395_response_regulator	AF-A6X580-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6X580-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	1.363E-09	346
+DESULFOASV1_0395_response_regulator	AF-Q9ZWS7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZWS7-F1-model_v4 Two-component response regulator ARR7	0.233	131	91	2	120	23	153	3.597E-10	346
+DESULFOASV1_0395_response_regulator	AF-Q47456-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q47456-F1-model_v4 Transcriptional regulatory protein PcoR	0.278	119	84	1	119	1	117	4.393E-10	346
+DESULFOASV1_0395_response_regulator	AF-Q8Z333-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8Z333-F1-model_v4 Transcriptional regulatory protein ZraR	0.300	119	82	1	119	4	121	3.029E-09	346
+DESULFOASV1_0395_response_regulator	AF-Q2YKN1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YKN1-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	1.363E-09	345
+DESULFOASV1_0395_response_regulator	AF-Q9SHC2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9SHC2-F1-model_v4 Two-component response regulator ARR16	0.225	133	91	2	119	28	160	6.128E-10	345
+DESULFOASV1_0395_response_regulator	AF-A0A4P7TS68-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0A4P7TS68-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.330	119	78	2	120	4	121	9.767E-10	345
+DESULFOASV1_0395_response_regulator	AF-Q8CP82-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CP82-F1-model_v4 Response regulator ArlR	0.338	120	77	1	120	1	117	3.366E-10	344
+DESULFOASV1_0395_response_regulator	AF-E1WFA1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-E1WFA1-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.305	117	80	4	120	3	118	8.549E-10	344
+DESULFOASV1_0395_response_regulator	AF-P0AA18-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AA18-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.325	120	80	1	120	3	121	6.128E-10	344
+DESULFOASV1_0395_response_regulator	AF-P0AA19-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AA19-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.327	119	79	2	120	4	121	6.128E-10	344
+DESULFOASV1_0395_response_regulator	AF-Q9FPR6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9FPR6-F1-model_v4 Two-component response regulator ARR17	0.267	131	86	2	119	19	149	4.110E-10	342
+DESULFOASV1_0395_response_regulator	AF-Q57QC3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q57QC3-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.296	117	81	4	120	3	118	1.044E-09	342
+DESULFOASV1_0395_response_regulator	AF-P0A4H7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H7-F1-model_v4 Transcriptional regulatory protein CiaR	0.258	119	85	1	119	1	116	9.138E-10	342
+DESULFOASV1_0395_response_regulator	AF-P0A9Q3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A9Q3-F1-model_v4 Aerobic respiration control protein ArcA	0.295	119	82	1	119	2	118	1.044E-09	342
+DESULFOASV1_0395_response_regulator	AF-Q10N34-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q10N34-F1-model_v4 Two-component response regulator-like PRR73	0.284	123	85	1	120	79	201	5.733E-10	342
+DESULFOASV1_0395_response_regulator	AF-P45709-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45709-F1-model_v4 Protein CcdB	0.268	117	85	3	119	2	118	3.238E-09	341
+DESULFOASV1_0395_response_regulator	AF-Q6GE73-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GE73-F1-model_v4 Heme response regulator HssR	0.276	120	84	1	120	1	117	5.733E-10	341
+DESULFOASV1_0395_response_regulator	AF-Q942A1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q942A1-F1-model_v4 Two-component response regulator ORR4	0.266	139	86	2	119	9	147	4.695E-10	341
+DESULFOASV1_0395_response_regulator	AF-A2YQ93-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2YQ93-F1-model_v4 Two-component response regulator-like PRR37	0.295	122	83	2	120	61	182	5.733E-10	341
+DESULFOASV1_0395_response_regulator	AF-B0R4K1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0R4K1-F1-model_v4 Chemotaxis protein CheY	0.305	116	79	1	116	1	115	1.456E-09	340
+DESULFOASV1_0395_response_regulator	AF-Q49ZT8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q49ZT8-F1-model_v4 Heme response regulator HssR	0.262	119	85	1	119	1	116	1.044E-09	340
+DESULFOASV1_0395_response_regulator	AF-Q9ZHD3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZHD3-F1-model_v4 Probable transcriptional regulatory protein SilR	0.308	117	80	4	120	2	117	5.364E-10	340
+DESULFOASV1_0395_response_regulator	AF-Q7D9K0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7D9K0-F1-model_v4 Transcriptional regulatory protein TcrA	0.258	119	87	2	120	22	139	3.029E-09	340
+DESULFOASV1_0395_response_regulator	AF-Q9KSB1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9KSB1-F1-model_v4 Probable cyclic di-GMP phosphodiesterase VC_1348	0.260	116	85	2	117	70	185	8.549E-10	340
+DESULFOASV1_0395_response_regulator	AF-P0A4H6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H6-F1-model_v4 Chemotaxis protein CheY	0.277	117	84	4	120	3	119	1.664E-09	339
+DESULFOASV1_0395_response_regulator	AF-P0A4H8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H8-F1-model_v4 Transcriptional regulatory protein CiaR	0.258	119	85	1	119	1	116	1.193E-09	339
+DESULFOASV1_0395_response_regulator	AF-A2XFB7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2XFB7-F1-model_v4 Two-component response regulator-like PRR73	0.283	120	83	2	118	80	199	5.364E-10	339
+DESULFOASV1_0395_response_regulator	AF-P30855-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P30855-F1-model_v4 Sensor protein EvgS	0.350	117	75	2	118	958	1073	6.128E-10	339
+DESULFOASV1_0395_response_regulator	AF-P76340-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P76340-F1-model_v4 Transcriptional regulatory protein HprR	0.316	117	78	4	120	2	116	1.116E-09	338
+DESULFOASV1_0395_response_regulator	AF-P0A9Q4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A9Q4-F1-model_v4 Aerobic respiration control protein ArcA	0.295	119	82	1	119	2	118	7.998E-10	338
+DESULFOASV1_0395_response_regulator	AF-Q23917-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q23917-F1-model_v4 3',5'-cyclic-nucleotide phosphodiesterase regA	0.233	120	88	4	119	161	280	1.901E-09	338
+DESULFOASV1_0395_response_regulator	AF-P37740-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P37740-F1-model_v4 C4-dicarboxylate transport transcriptional regulatory protein DctR	0.237	118	89	1	117	1	118	1.044E-09	337
+DESULFOASV1_0395_response_regulator	AF-P0AD00-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AD00-F1-model_v4 Transcriptional regulatory protein CusR	0.300	117	81	4	120	2	117	6.128E-10	337
+DESULFOASV1_0395_response_regulator	AF-A9MBQ2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9MBQ2-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	2.652E-09	336
+DESULFOASV1_0395_response_regulator	AF-F5ZP95-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-F5ZP95-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.305	117	80	4	120	3	118	1.901E-09	336
+DESULFOASV1_0395_response_regulator	AF-P0AA21-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AA21-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.327	119	79	2	120	4	121	1.044E-09	336
+DESULFOASV1_0395_response_regulator	AF-Q93WK5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q93WK5-F1-model_v4 Two-component response regulator-like APRR7	0.275	120	84	2	118	77	196	5.364E-10	336
+DESULFOASV1_0395_response_regulator	AF-Q8KIY1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8KIY1-F1-model_v4 Sensor histidine kinase TmoS	0.279	117	84	2	118	450	566	3.699E-09	336
+DESULFOASV1_0395_response_regulator	AF-P0ACZ8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0ACZ8-F1-model_v4 Transcriptional regulatory protein CusR	0.300	117	81	4	120	2	117	8.549E-10	335
+DESULFOASV1_0395_response_regulator	AF-P58357-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P58357-F1-model_v4 TorCAD operon transcriptional regulatory protein TorR	0.245	119	88	1	119	1	117	7.001E-10	335
+DESULFOASV1_0395_response_regulator	AF-Q8FZ93-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8FZ93-F1-model_v4 Cell cycle response regulator CtrA	0.290	115	80	4	118	2	115	6.550E-10	335
+DESULFOASV1_0395_response_regulator	AF-Q49XM7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q49XM7-F1-model_v4 Response regulator ArlR	0.338	120	77	1	120	1	117	6.550E-10	333
+DESULFOASV1_0395_response_regulator	AF-Q99RR6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q99RR6-F1-model_v4 Heme response regulator HssR	0.266	120	85	1	120	1	117	9.767E-10	333
+DESULFOASV1_0395_response_regulator	AF-P0ACZ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0ACZ9-F1-model_v4 Transcriptional regulatory protein CusR	0.300	117	81	4	120	2	117	9.767E-10	333
+DESULFOASV1_0395_response_regulator	AF-Q7A1J1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A1J1-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	1.557E-09	333
+DESULFOASV1_0395_response_regulator	AF-P58402-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P58402-F1-model_v4 Sensor protein EvgS	0.336	119	78	2	120	958	1075	1.193E-09	333
+DESULFOASV1_0395_response_regulator	AF-Q7BBW0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7BBW0-F1-model_v4 Polar-differentiation response regulator DivK	0.208	120	93	1	119	1	120	3.699E-09	332
+DESULFOASV1_0395_response_regulator	AF-Q2G2G2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2G2G2-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	2.652E-09	332
+DESULFOASV1_0395_response_regulator	AF-Q04849-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q04849-F1-model_v4 Nitrogen assimilation regulatory protein NtrX	0.254	120	88	1	119	1	120	5.161E-09	332
+DESULFOASV1_0395_response_regulator	AF-B0CI76-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0CI76-F1-model_v4 Cell cycle response regulator CtrA	0.290	115	80	4	118	2	115	8.549E-10	331
+DESULFOASV1_0395_response_regulator	AF-P0A9Q2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A9Q2-F1-model_v4 Aerobic respiration control protein ArcA	0.295	119	82	1	119	2	118	1.363E-09	331
+DESULFOASV1_0395_response_regulator	AF-P52942-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52942-F1-model_v4 Sporulation initiation phosphotransferase F	0.258	119	87	1	119	1	118	2.834E-09	330
+DESULFOASV1_0395_response_regulator	AF-P0DM78-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0DM78-F1-model_v4 Virulence transcriptional regulatory protein PhoP	0.305	117	80	4	120	3	118	2.652E-09	330
+DESULFOASV1_0395_response_regulator	AF-P9WGL9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGL9-F1-model_v4 Sensory transduction protein RegX3	0.280	120	84	1	120	1	117	3.954E-09	330
+DESULFOASV1_0395_response_regulator	AF-Q01473-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q01473-F1-model_v4 Protein RcaC	0.327	116	77	4	119	2	116	3.461E-09	330
+DESULFOASV1_0395_response_regulator	AF-Q56128-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q56128-F1-model_v4 Sensor histidine kinase RcsC	0.320	119	79	4	120	826	944	1.416E-10	330
+DESULFOASV1_0395_response_regulator	AF-Q8CN92-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CN92-F1-model_v4 Heme response regulator HssR	0.317	120	79	1	120	1	117	7.483E-10	329
+DESULFOASV1_0395_response_regulator	AF-B2S753-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2S753-F1-model_v4 Cell cycle response regulator CtrA	0.290	115	80	4	118	2	115	9.767E-10	329
+DESULFOASV1_0395_response_regulator	AF-A5VRW9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5VRW9-F1-model_v4 Cell cycle response regulator CtrA	0.290	115	80	4	118	2	115	1.044E-09	329
+DESULFOASV1_0395_response_regulator	AF-Q9LVG4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9LVG4-F1-model_v4 Two-component response regulator-like APRR3	0.264	121	86	1	118	62	182	7.483E-10	329
+DESULFOASV1_0395_response_regulator	AF-G0SB31-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-G0SB31-F1-model_v4 Transcription factor SKN7	0.237	120	90	1	119	395	514	5.516E-09	329
+DESULFOASV1_0395_response_regulator	AF-P26487-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P26487-F1-model_v4 Transcriptional regulatory protein FixJ	0.230	116	88	2	117	4	118	3.029E-09	328
+DESULFOASV1_0395_response_regulator	AF-Q5HLN2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HLN2-F1-model_v4 Heme response regulator HssR	0.308	120	80	1	120	1	117	9.767E-10	328
+DESULFOASV1_0395_response_regulator	AF-P94413-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P94413-F1-model_v4 Uncharacterized transcriptional regulatory protein YclJ	0.333	117	76	4	120	2	116	1.116E-09	328
+DESULFOASV1_0395_response_regulator	AF-P0DMC6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0DMC6-F1-model_v4 Sensor histidine kinase RcsC	0.320	119	79	4	120	826	944	1.729E-10	328
+DESULFOASV1_0395_response_regulator	AF-A6WZ81-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6WZ81-F1-model_v4 Cell cycle response regulator CtrA	0.294	117	81	4	120	2	117	1.363E-09	327
+DESULFOASV1_0395_response_regulator	AF-P69228-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P69228-F1-model_v4 Transcriptional regulatory protein BaeR	0.300	119	81	2	120	10	126	3.699E-09	327
+DESULFOASV1_0395_response_regulator	AF-O82798-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O82798-F1-model_v4 Two-component response regulator ARR4	0.206	131	94	2	120	33	163	5.733E-10	327
+DESULFOASV1_0395_response_regulator	AF-P39048-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P39048-F1-model_v4 Protein PatA	0.262	118	86	1	117	259	376	1.557E-09	327
+DESULFOASV1_0395_response_regulator	AF-O07130-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O07130-F1-model_v4 Sensory transduction protein RegX3	0.280	120	84	1	120	1	117	4.828E-09	326
+DESULFOASV1_0395_response_regulator	AF-Q9F868-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9F868-F1-model_v4 Sensory transduction protein RegX3	0.280	120	84	1	120	1	117	4.517E-09	326
+DESULFOASV1_0395_response_regulator	AF-O34903-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O34903-F1-model_v4 Uncharacterized transcriptional regulatory protein YkoG	0.282	120	85	1	120	1	120	5.896E-09	326
+DESULFOASV1_0395_response_regulator	AF-Q8CQ17-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CQ17-F1-model_v4 Response regulator SaeR	0.264	119	85	1	119	1	116	1.456E-09	326
+DESULFOASV1_0395_response_regulator	AF-Q9I4N3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9I4N3-F1-model_v4 Response regulator protein FleR	0.291	117	82	1	117	1	116	3.029E-09	326
+DESULFOASV1_0395_response_regulator	AF-Q44006-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q44006-F1-model_v4 Transcriptional activator protein CzcR	0.300	117	80	4	120	2	116	2.321E-09	324
+DESULFOASV1_0395_response_regulator	AF-Q9ZHS1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZHS1-F1-model_v4 Cell cycle response regulator CtrA	0.294	117	81	4	120	2	117	1.664E-09	324
+DESULFOASV1_0395_response_regulator	AF-Q7G8V2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7G8V2-F1-model_v4 Two-component response regulator ARR15	0.233	131	91	2	120	17	147	3.029E-09	322
+DESULFOASV1_0395_response_regulator	AF-B8H358-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8H358-F1-model_v4 Cell cycle transcriptional regulator CtrA	0.279	115	81	4	118	2	115	1.664E-09	322
+DESULFOASV1_0395_response_regulator	AF-Q9SSY6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9SSY6-F1-model_v4 Ethylene receptor 1	0.241	120	89	2	119	612	731	2.321E-09	322
+DESULFOASV1_0395_response_regulator	AF-P23221-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P23221-F1-model_v4 Transcriptional regulatory protein FixJ	0.314	120	82	1	120	2	121	2.321E-09	321
+DESULFOASV1_0395_response_regulator	AF-O25918-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O25918-F1-model_v4 Transcriptional regulatory protein CrdR	0.258	117	86	1	117	1	117	1.901E-09	321
+DESULFOASV1_0395_response_regulator	AF-A9M708-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9M708-F1-model_v4 Cell cycle response regulator CtrA	0.290	115	80	4	118	2	115	1.901E-09	321
+DESULFOASV1_0395_response_regulator	AF-Q2YQA4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YQA4-F1-model_v4 Cell cycle response regulator CtrA	0.290	115	80	4	118	2	115	1.901E-09	321
+DESULFOASV1_0395_response_regulator	AF-P06534-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P06534-F1-model_v4 Stage 0 sporulation protein A	0.254	120	87	2	118	3	122	2.032E-09	321
+DESULFOASV1_0395_response_regulator	AF-P9WGL8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGL8-F1-model_v4 Sensory transduction protein RegX3	0.280	120	84	1	120	1	117	7.695E-09	320
+DESULFOASV1_0395_response_regulator	AF-P13632-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P13632-F1-model_v4 C4-dicarboxylate transport transcriptional regulatory protein DctD	0.282	116	82	2	117	4	118	4.226E-09	320
+DESULFOASV1_0395_response_regulator	AF-O74539-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O74539-F1-model_v4 Peroxide stress-activated histidine kinase mak3	0.272	125	85	2	119	2209	2333	2.652E-09	320
+DESULFOASV1_0395_response_regulator	AF-Q9I4F9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9I4F9-F1-model_v4 Two-component response regulator PhoP	0.350	117	75	4	120	2	117	4.828E-09	319
+DESULFOASV1_0395_response_regulator	AF-P42421-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P42421-F1-model_v4 Transcriptional regulatory protein YxdJ	0.319	118	78	3	120	2	117	3.699E-09	319
+DESULFOASV1_0395_response_regulator	AF-P0DMK7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0DMK7-F1-model_v4 Transcriptional activator protein IrlR	0.256	117	85	4	120	2	116	2.032E-09	319
+DESULFOASV1_0395_response_regulator	AF-P38684-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P38684-F1-model_v4 TorCAD operon transcriptional regulatory protein TorR	0.245	119	88	1	119	1	117	2.321E-09	319
+DESULFOASV1_0395_response_regulator	AF-P0CAW8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0CAW8-F1-model_v4 Cell cycle transcriptional regulator CtrA	0.279	115	81	4	118	2	115	2.032E-09	319
+DESULFOASV1_0395_response_regulator	AF-P45337-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45337-F1-model_v4 Transcriptional regulatory protein QseB	0.224	113	86	4	116	2	113	1.116E-09	318
+DESULFOASV1_0395_response_regulator	AF-Q7CNV1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7CNV1-F1-model_v4 Cell cycle response regulator CtrA	0.290	115	80	4	118	2	115	2.321E-09	318
+DESULFOASV1_0395_response_regulator	AF-Q8L500-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8L500-F1-model_v4 Two-component response regulator-like APRR9	0.247	121	88	1	118	35	155	1.901E-09	318
+DESULFOASV1_0395_response_regulator	AF-Q9ZTP3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZTP3-F1-model_v4 Protein EIN4	0.247	121	88	2	119	641	761	1.778E-09	318
+DESULFOASV1_0395_response_regulator	AF-P10958-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P10958-F1-model_v4 Transcriptional regulatory protein FixJ	0.291	117	82	1	117	2	117	3.029E-09	317
+DESULFOASV1_0395_response_regulator	AF-A5IVE2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5IVE2-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	1.193E-09	317
+DESULFOASV1_0395_response_regulator	AF-O80366-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O80366-F1-model_v4 Two-component response regulator ARR9	0.235	140	90	2	119	8	147	1.363E-09	317
+DESULFOASV1_0395_response_regulator	AF-O48929-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O48929-F1-model_v4 Ethylene receptor	0.219	121	92	1	119	610	730	3.954E-09	317
+DESULFOASV1_0395_response_regulator	AF-P58662-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P58662-F1-model_v4 Sensor histidine kinase RcsC	0.320	119	79	4	120	826	944	5.018E-10	317
+DESULFOASV1_0395_response_regulator	AF-Q9APD9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9APD9-F1-model_v4 Transcriptional regulatory protein ZraR	0.268	118	85	2	119	5	121	2.233E-08	315
+DESULFOASV1_0395_response_regulator	AF-Q9XH57-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9XH57-F1-model_v4 Ethylene receptor 2	0.225	120	91	2	119	613	732	3.699E-09	315
+DESULFOASV1_0395_response_regulator	AF-P52934-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52934-F1-model_v4 Stage 0 sporulation protein A	0.254	120	87	1	118	1	120	7.695E-09	314
+DESULFOASV1_0395_response_regulator	AF-P0A4I4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4I4-F1-model_v4 Stage 0 sporulation protein A	0.266	120	85	2	118	3	122	7.200E-09	313
+DESULFOASV1_0395_response_regulator	AF-O82436-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O82436-F1-model_v4 Ethylene receptor 1	0.241	120	89	2	119	612	731	5.516E-09	313
+DESULFOASV1_0395_response_regulator	AF-Q2KCH7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2KCH7-F1-model_v4 Probable chemotaxis protein CheY	0.294	117	80	4	118	8	124	6.736E-09	312
+DESULFOASV1_0395_response_regulator	AF-Q9SB04-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9SB04-F1-model_v4 Two-component response regulator ARR5	0.215	139	93	1	119	23	161	7.001E-10	312
+DESULFOASV1_0395_response_regulator	AF-Q6GIT6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GIT6-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	3.954E-09	312
+DESULFOASV1_0395_response_regulator	AF-Q8X613-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8X613-F1-model_v4 Transcriptional regulatory protein ZraR	0.284	121	84	1	119	1	121	1.601E-08	312
+DESULFOASV1_0395_response_regulator	AF-P0DMC5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0DMC5-F1-model_v4 Sensor histidine kinase RcsC	0.330	116	74	4	119	826	936	5.018E-10	312
+DESULFOASV1_0395_response_regulator	AF-P66795-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P66795-F1-model_v4 Transcriptional regulatory protein QseB	0.258	117	85	4	120	2	117	2.834E-09	311
+DESULFOASV1_0395_response_regulator	AF-P42244-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P42244-F1-model_v4 Uncharacterized transcriptional regulatory protein YcbL	0.285	111	77	6	116	1	109	2.387E-08	311
+DESULFOASV1_0395_response_regulator	AF-I7CA98-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-I7CA98-F1-model_v4 Response regulator protein TodT	0.260	118	86	2	119	26	142	4.517E-09	311
+DESULFOASV1_0395_response_regulator	AF-P0AA17-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AA17-F1-model_v4 DNA-binding dual transcriptional regulator OmpR	0.330	118	78	3	120	5	121	5.516E-09	311
+DESULFOASV1_0395_response_regulator	AF-O24864-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O24864-F1-model_v4 Chemotaxis protein CheV1	0.247	120	86	3	117	197	316	5.161E-09	311
+DESULFOASV1_0395_response_regulator	AF-P28787-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P28787-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.285	117	83	1	117	1	117	1.074E-08	311
+DESULFOASV1_0395_response_regulator	AF-Q2FWH6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FWH6-F1-model_v4 Transcriptional regulatory protein KdpE	0.272	120	85	1	120	1	118	2.387E-08	309
+DESULFOASV1_0395_response_regulator	AF-Q54YH4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q54YH4-F1-model_v4 Hybrid signal transduction histidine kinase B	0.278	133	86	1	120	1837	1969	6.302E-09	309
+DESULFOASV1_0395_response_regulator	AF-Q2YSM5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YSM5-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	5.161E-09	308
+DESULFOASV1_0395_response_regulator	AF-P14375-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P14375-F1-model_v4 Transcriptional regulatory protein ZraR	0.284	121	84	1	119	1	121	2.915E-08	308
+DESULFOASV1_0395_response_regulator	AF-O49187-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O49187-F1-model_v4 Ethylene receptor 2	0.240	121	90	1	119	610	730	8.791E-09	308
+DESULFOASV1_0395_response_regulator	AF-A1A698-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1A698-F1-model_v4 Probable histidine kinase 4	0.258	139	86	1	117	859	997	7.200E-09	308
+DESULFOASV1_0395_response_regulator	AF-Q95PI2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q95PI2-F1-model_v4 Hybrid signal transduction histidine kinase C	0.252	123	86	2	117	1076	1198	1.074E-08	308
+DESULFOASV1_0395_response_regulator	AF-Q6G6V9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6G6V9-F1-model_v4 Heme response regulator HssR	0.276	120	84	1	120	1	117	2.652E-09	307
+DESULFOASV1_0395_response_regulator	AF-P08368-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P08368-F1-model_v4 Transcriptional regulatory protein CreB	0.227	120	91	1	120	2	120	2.089E-08	307
+DESULFOASV1_0395_response_regulator	AF-Q9K621-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9K621-F1-model_v4 Sensory transduction protein BceR	0.271	117	83	4	120	3	117	7.695E-09	307
+DESULFOASV1_0395_response_regulator	AF-Q0HWY6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0HWY6-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.294	126	83	1	118	1	126	2.834E-09	307
+DESULFOASV1_0395_response_regulator	AF-Q9FXD6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9FXD6-F1-model_v4 Two-component response regulator ARR11	0.260	120	88	1	120	9	128	8.791E-09	307
+DESULFOASV1_0395_response_regulator	AF-Q4GZK4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZK4-F1-model_v4 Two-component response regulator ORR7	0.270	120	85	1	120	89	206	1.004E-08	306
+DESULFOASV1_0395_response_regulator	AF-Q2YZ24-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YZ24-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	3.699E-09	306
+DESULFOASV1_0395_response_regulator	AF-A7MRY4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7MRY4-F1-model_v4 Autoinducer 1 sensor kinase/phosphatase LuxN	0.256	119	86	1	119	719	835	1.401E-08	306
+DESULFOASV1_0395_response_regulator	AF-P33112-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P33112-F1-model_v4 Transcriptional regulatory protein SpaR	0.252	117	84	1	117	1	113	2.321E-09	305
+DESULFOASV1_0395_response_regulator	AF-P30843-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P30843-F1-model_v4 Transcriptional regulatory protein BasR	0.266	117	84	4	120	2	117	1.226E-08	305
+DESULFOASV1_0395_response_regulator	AF-A8Z552-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8Z552-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	3.029E-09	305
+DESULFOASV1_0395_response_regulator	AF-A6QJK3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6QJK3-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	3.461E-09	305
+DESULFOASV1_0395_response_regulator	AF-O80365-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O80365-F1-model_v4 Two-component response regulator ARR8	0.237	139	90	2	120	8	146	5.516E-09	305
+DESULFOASV1_0395_response_regulator	AF-Q5HR28-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HR28-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	6.302E-09	305
+DESULFOASV1_0395_response_regulator	AF-P0C5S6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0C5S6-F1-model_v4 Autoinducer 1 sensor kinase/phosphatase LuxN	0.256	119	86	1	119	719	835	1.401E-08	305
+DESULFOASV1_0395_response_regulator	AF-P66796-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P66796-F1-model_v4 Transcriptional regulatory protein QseB	0.258	117	85	4	120	2	117	5.896E-09	304
+DESULFOASV1_0395_response_regulator	AF-Q9I0I1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9I0I1-F1-model_v4 Response regulator protein CarR	0.266	117	84	4	120	2	117	7.695E-09	304
+DESULFOASV1_0395_response_regulator	AF-E1WA34-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-E1WA34-F1-model_v4 Transcriptional regulatory protein TctD	0.252	117	86	4	120	2	117	5.896E-09	304
+DESULFOASV1_0395_response_regulator	AF-P0CL17-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0CL17-F1-model_v4 Transcriptional regulatory protein TctD	0.252	117	86	4	120	2	117	5.896E-09	304
+DESULFOASV1_0395_response_regulator	AF-I1WSZ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-I1WSZ4-F1-model_v4 Transcriptional activator protein IrlR	0.256	117	85	4	120	2	116	7.200E-09	304
+DESULFOASV1_0395_response_regulator	AF-P16575-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P16575-F1-model_v4 Virulence sensor protein BvgS	0.236	125	90	1	119	971	1095	7.200E-09	304
+DESULFOASV1_0395_response_regulator	AF-P9WGM2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM2-F1-model_v4 Probable transcriptional regulatory protein PdtaR	0.336	115	75	2	116	13	126	4.828E-09	303
+DESULFOASV1_0395_response_regulator	AF-Q70FH0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q70FH0-F1-model_v4 Transcriptional regulatory protein PmrA	0.241	117	87	4	120	2	117	8.225E-09	303
+DESULFOASV1_0395_response_regulator	AF-Q2FVQ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FVQ9-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	4.517E-09	303
+DESULFOASV1_0395_response_regulator	AF-P52928-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52928-F1-model_v4 Stage 0 sporulation protein A	0.258	120	86	2	118	3	122	1.074E-08	303
+DESULFOASV1_0395_response_regulator	AF-O14283-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O14283-F1-model_v4 Transcription factor prr1	0.305	119	81	1	119	366	483	2.551E-08	303
+DESULFOASV1_0395_response_regulator	AF-P26762-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P26762-F1-model_v4 Virulence sensor protein BvgS	0.244	125	89	1	119	971	1095	8.225E-09	303
+DESULFOASV1_0395_response_regulator	AF-Q8XBS3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8XBS3-F1-model_v4 Transcriptional regulatory protein QseB	0.245	117	87	4	120	2	117	9.397E-09	302
+DESULFOASV1_0395_response_regulator	AF-O24973-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O24973-F1-model_v4 Transcriptional regulatory protein ArsR	0.276	120	84	1	120	1	117	5.896E-09	302
+DESULFOASV1_0395_response_regulator	AF-O87940-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O87940-F1-model_v4 Transcriptional regulatory protein TdiR	0.266	118	85	2	119	9	125	5.516E-09	302
+DESULFOASV1_0395_response_regulator	AF-P26408-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P26408-F1-model_v4 Hydrogenase transcriptional regulatory protein HupR1	0.254	116	85	2	117	5	119	1.074E-08	302
+DESULFOASV1_0395_response_regulator	AF-P40330-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P40330-F1-model_v4 Virulence sensor protein BvgS	0.244	125	89	1	119	971	1095	8.225E-09	302
+DESULFOASV1_0395_response_regulator	AF-O25154-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O25154-F1-model_v4 Chemotaxis protein CheV3	0.284	129	84	1	119	179	307	1.601E-08	301
+DESULFOASV1_0395_response_regulator	AF-Q5A4X5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5A4X5-F1-model_v4 Transcription factor SKN7	0.269	114	82	4	117	425	537	3.115E-08	301
+DESULFOASV1_0395_response_regulator	AF-O14002-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O14002-F1-model_v4 Peroxide stress-activated histidine kinase mak2	0.280	123	82	3	117	2179	2301	5.516E-09	301
+DESULFOASV1_0395_response_regulator	AF-Q6GBC4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GBC4-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	1.074E-08	300
+DESULFOASV1_0395_response_regulator	AF-Q88RJ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q88RJ6-F1-model_v4 Alginate biosynthesis transcriptional regulatory protein AlgB	0.243	116	86	2	117	8	122	1.829E-08	300
+DESULFOASV1_0395_response_regulator	AF-Q9XH58-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9XH58-F1-model_v4 Ethylene receptor 1	0.231	120	90	2	119	613	732	7.200E-09	300
+DESULFOASV1_0395_response_regulator	AF-P52076-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52076-F1-model_v4 Transcriptional regulatory protein QseB	0.237	117	88	4	120	2	117	1.147E-08	299
+DESULFOASV1_0395_response_regulator	AF-Q9HV32-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HV32-F1-model_v4 Response regulator protein PmrA	0.230	114	86	4	117	2	114	8.791E-09	299
+DESULFOASV1_0395_response_regulator	AF-P36556-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P36556-F1-model_v4 Transcriptional regulatory protein BasR	0.258	117	85	4	120	2	117	1.829E-08	299
+DESULFOASV1_0395_response_regulator	AF-Q5HDJ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HDJ4-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	5.896E-09	298
+DESULFOASV1_0395_response_regulator	AF-Q2FIT4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FIT4-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	1.226E-08	298
+DESULFOASV1_0395_response_regulator	AF-Q3LWR6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3LWR6-F1-model_v4 Response regulator protein TodT	0.260	118	86	2	119	26	142	1.401E-08	297
+DESULFOASV1_0395_response_regulator	AF-Q99VR7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q99VR7-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	1.311E-08	297
+DESULFOASV1_0395_response_regulator	AF-Q7A6V3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A6V3-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	1.311E-08	297
+DESULFOASV1_0395_response_regulator	AF-P0A4I3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4I3-F1-model_v4 Stage 0 sporulation protein A	0.266	120	85	2	118	3	122	1.829E-08	297
+DESULFOASV1_0395_response_regulator	AF-O25337-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O25337-F1-model_v4 Chemotaxis protein CheV2	0.233	123	91	2	120	191	313	3.115E-08	297
+DESULFOASV1_0395_response_regulator	AF-O81122-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O81122-F1-model_v4 Ethylene receptor	0.223	120	91	2	119	613	732	1.226E-08	297
+DESULFOASV1_0395_response_regulator	AF-Q9HUI3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HUI3-F1-model_v4 Sensor histidine kinase AruS	0.266	120	85	2	118	749	868	1.147E-08	297
+DESULFOASV1_0395_response_regulator	AF-Q2FED5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FED5-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	7.200E-09	296
+DESULFOASV1_0395_response_regulator	AF-Q41342-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q41342-F1-model_v4 Ethylene receptor 1	0.200	121	94	1	119	626	746	1.711E-08	296
+DESULFOASV1_0395_response_regulator	AF-Q75KW7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q75KW7-F1-model_v4 Two-component response regulator ORR41	0.225	120	90	1	117	4	123	4.828E-09	295
+DESULFOASV1_0395_response_regulator	AF-O06978-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O06978-F1-model_v4 Uncharacterized transcriptional regulatory protein YvcP	0.260	118	85	3	120	2	117	3.804E-08	295
+DESULFOASV1_0395_response_regulator	AF-Q551X9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q551X9-F1-model_v4 Hybrid signal transduction histidine kinase F	0.307	125	82	1	120	925	1049	8.791E-09	295
+DESULFOASV1_0395_response_regulator	AF-Q7A3X1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A3X1-F1-model_v4 Heme response regulator HssR	0.282	120	83	1	120	1	117	9.397E-09	294
+DESULFOASV1_0395_response_regulator	AF-A5W4E2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5W4E2-F1-model_v4 Response regulator protein TodT	0.260	118	86	2	119	26	142	1.601E-08	294
+DESULFOASV1_0395_response_regulator	AF-P9WGM3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGM3-F1-model_v4 Probable transcriptional regulatory protein PdtaR	0.336	115	75	2	116	13	126	1.226E-08	293
+DESULFOASV1_0395_response_regulator	AF-P52932-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52932-F1-model_v4 Stage 0 sporulation protein A	0.252	120	87	2	118	3	122	2.089E-08	293
+DESULFOASV1_0395_response_regulator	AF-P9WGN1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGN1-F1-model_v4 Transcriptional regulatory protein KdpE	0.254	114	83	3	116	2	113	8.791E-09	293
+DESULFOASV1_0395_response_regulator	AF-O34951-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O34951-F1-model_v4 Sensory transduction protein BceR	0.271	117	83	4	120	3	117	2.233E-08	293
+DESULFOASV1_0395_response_regulator	AF-Q2HWG4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2HWG4-F1-model_v4 Two-component response regulator ORR1	0.236	127	88	1	116	6	132	4.828E-09	293
+DESULFOASV1_0395_response_regulator	AF-P31908-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P31908-F1-model_v4 Hydrogenase transcriptional regulatory protein HoxA	0.264	118	85	1	117	1	118	7.695E-09	293
+DESULFOASV1_0395_response_regulator	AF-Q5HHW4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HHW4-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	1.955E-08	292
+DESULFOASV1_0395_response_regulator	AF-P41789-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P41789-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.247	117	87	1	117	1	117	2.387E-08	292
+DESULFOASV1_0395_response_regulator	AF-P38889-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P38889-F1-model_v4 Transcription factor SKN7	0.272	117	84	1	117	374	490	2.387E-08	292
+DESULFOASV1_0395_response_regulator	AF-P45365-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45365-F1-model_v4 Uncharacterized 76.5 kDa protein in phbC 3'region	0.226	119	91	1	118	136	254	9.041E-08	292
+DESULFOASV1_0395_response_regulator	AF-Q5SML5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5SML5-F1-model_v4 Two-component response regulator ORR22	0.235	120	91	1	120	24	143	1.601E-08	292
+DESULFOASV1_0395_response_regulator	AF-Q9F8D7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9F8D7-F1-model_v4 Sensor histidine kinase GacS	0.235	121	89	1	117	665	785	1.147E-08	292
+DESULFOASV1_0395_response_regulator	AF-Q54U87-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q54U87-F1-model_v4 Hybrid signal transduction histidine kinase A	0.223	121	89	2	117	2024	2144	2.233E-08	292
+DESULFOASV1_0395_response_regulator	AF-Q04803-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q04803-F1-model_v4 Transcriptional activator protein PfeR	0.203	120	93	1	120	76	193	4.645E-08	291
+DESULFOASV1_0395_response_regulator	AF-Q4UL27-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4UL27-F1-model_v4 Putative response regulator NtrX-like	0.239	117	88	2	117	3	119	2.233E-08	291
+DESULFOASV1_0395_response_regulator	AF-Q9KLK7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9KLK7-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.218	117	91	1	117	728	844	3.559E-08	291
+DESULFOASV1_0395_response_regulator	AF-G7WMP8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-G7WMP8-F1-model_v4 Probable methanogenesis regulatory protein FilR2	0.190	126	94	2	118	16	141	6.302E-09	290
+DESULFOASV1_0395_response_regulator	AF-Q4GZL0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZL0-F1-model_v4 Two-component response regulator ORR1	0.246	126	86	2	116	7	132	4.828E-09	290
+DESULFOASV1_0395_response_regulator	AF-P58253-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P58253-F1-model_v4 Stage 0 sporulation protein A homolog	0.258	120	86	2	118	5	124	3.330E-08	290
+DESULFOASV1_0395_response_regulator	AF-Q86CZ2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q86CZ2-F1-model_v4 Hybrid signal transduction histidine kinase K	0.229	122	87	4	117	1076	1197	2.089E-08	290
+DESULFOASV1_0395_response_regulator	AF-Q9M8Y4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9M8Y4-F1-model_v4 Two-component response regulator ARR22	0.201	120	93	1	118	20	139	1.829E-08	289
+DESULFOASV1_0395_response_regulator	AF-P55184-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P55184-F1-model_v4 Uncharacterized transcriptional regulatory protein YxjL	0.294	116	80	2	116	5	120	1.711E-08	289
+DESULFOASV1_0395_response_regulator	AF-P52938-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52938-F1-model_v4 Stage 0 sporulation protein A homolog	0.283	120	83	2	118	8	127	4.066E-08	289
+DESULFOASV1_0395_response_regulator	AF-P23747-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P23747-F1-model_v4 Alginate biosynthesis transcriptional regulatory protein AlgB	0.243	116	86	2	117	8	122	3.559E-08	289
+DESULFOASV1_0395_response_regulator	AF-Q92HC2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q92HC2-F1-model_v4 Putative response regulator NtrX-like	0.223	117	89	2	117	3	119	3.559E-08	289
+DESULFOASV1_0395_response_regulator	AF-Q68WH4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q68WH4-F1-model_v4 Putative response regulator NtrX-like	0.247	117	87	2	117	3	119	3.559E-08	289
+DESULFOASV1_0395_response_regulator	AF-Q07597-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q07597-F1-model_v4 Nisin biosynthesis regulatory protein NisR	0.243	117	86	1	117	1	115	7.695E-09	288
+DESULFOASV1_0395_response_regulator	AF-P0AFB8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AFB8-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.247	117	87	1	117	1	117	2.551E-08	288
+DESULFOASV1_0395_response_regulator	AF-Q940D0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q940D0-F1-model_v4 Two-component response regulator ARR1	0.243	119	89	2	120	36	154	1.829E-08	288
+DESULFOASV1_0395_response_regulator	AF-P96686-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P96686-F1-model_v4 Transcriptional regulatory protein YdfI	0.273	114	82	3	116	2	115	4.346E-08	287
+DESULFOASV1_0395_response_regulator	AF-O31432-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O31432-F1-model_v4 Uncharacterized transcriptional regulatory protein YbdJ	0.280	119	83	1	119	1	116	3.804E-08	287
+DESULFOASV1_0395_response_regulator	AF-P21866-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P21866-F1-model_v4 KDP operon transcriptional regulatory protein KdpE	0.314	120	80	1	120	1	117	2.727E-08	287
+DESULFOASV1_0395_response_regulator	AF-Q55933-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q55933-F1-model_v4 Response regulator RppA	0.271	116	83	4	118	2	117	5.307E-08	287
+DESULFOASV1_0395_response_regulator	AF-Q5HI09-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HI09-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	4.645E-08	286
+DESULFOASV1_0395_response_regulator	AF-Q7MD16-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7MD16-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.301	115	80	1	115	732	846	7.913E-08	286
+DESULFOASV1_0395_response_regulator	AF-Q2YIF7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YIF7-F1-model_v4 Response regulator receiver protein CpdR	0.262	117	85	3	119	2	117	2.727E-08	285
+DESULFOASV1_0395_response_regulator	AF-Q20XE6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q20XE6-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 3	0.320	122	80	1	118	4	125	4.226E-09	285
+DESULFOASV1_0395_response_regulator	AF-P03029-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P03029-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.256	117	86	1	117	1	117	3.804E-08	285
+DESULFOASV1_0395_response_regulator	AF-P0AEC3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEC3-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.262	116	84	4	118	527	642	1.226E-08	285
+DESULFOASV1_0395_response_regulator	AF-Q4L8L9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4L8L9-F1-model_v4 Heme response regulator HssR	0.286	119	82	1	119	1	116	1.311E-08	284
+DESULFOASV1_0395_response_regulator	AF-Q88AQ2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q88AQ2-F1-model_v4 Alginate biosynthesis transcriptional regulatory protein AlgB	0.235	116	87	2	117	8	122	5.672E-08	284
+DESULFOASV1_0395_response_regulator	AF-P0AFB9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AFB9-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.247	117	87	1	117	1	117	3.559E-08	284
+DESULFOASV1_0395_response_regulator	AF-Q8H7S7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8H7S7-F1-model_v4 Two-component response regulator ORR21	0.260	120	88	1	120	14	133	3.330E-08	284
+DESULFOASV1_0395_response_regulator	AF-P52940-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52940-F1-model_v4 Stage 0 sporulation protein A homolog	0.254	122	88	2	120	5	126	7.913E-08	283
+DESULFOASV1_0395_response_regulator	AF-O31517-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O31517-F1-model_v4 Uncharacterized transcriptional regulatory protein YesN	0.245	119	88	1	118	1	119	3.115E-08	283
+DESULFOASV1_0395_response_regulator	AF-Q9ZCY9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZCY9-F1-model_v4 Putative response regulator NtrX-like	0.243	117	87	2	117	3	119	1.441E-07	283
+DESULFOASV1_0395_response_regulator	AF-Q1RJS1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1RJS1-F1-model_v4 Putative response regulator NtrX-like	0.231	117	88	2	117	3	119	6.063E-08	283
+DESULFOASV1_0395_response_regulator	AF-F4JZT3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-F4JZT3-F1-model_v4 Two-component response regulator 24	0.266	115	84	4	118	19	133	1.498E-08	282
+DESULFOASV1_0395_response_regulator	AF-Q840P8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q840P8-F1-model_v4 Response regulator SaeR	0.268	119	84	1	119	1	116	4.346E-08	282
+DESULFOASV1_0395_response_regulator	AF-P07545-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P07545-F1-model_v4 Regulatory protein VirG	0.260	119	87	2	120	13	130	2.387E-08	282
+DESULFOASV1_0395_response_regulator	AF-Q2RRX2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2RRX2-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 3	0.345	106	69	1	106	1	106	2.233E-08	282
+DESULFOASV1_0395_response_regulator	AF-Q8D5Z6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8D5Z6-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.301	115	80	1	115	732	846	1.104E-07	282
+DESULFOASV1_0395_response_regulator	AF-Q5HN50-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HN50-F1-model_v4 Response regulator protein VraR	0.256	119	87	1	118	1	119	4.645E-08	281
+DESULFOASV1_0395_response_regulator	AF-Q7A1L2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A1L2-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	6.927E-08	281
+DESULFOASV1_0395_response_regulator	AF-Q99VW2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q99VW2-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	7.404E-08	281
+DESULFOASV1_0395_response_regulator	AF-P42012-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P42012-F1-model_v4 Stage 0 sporulation protein A	0.223	120	90	1	117	2	121	4.645E-08	281
+DESULFOASV1_0395_response_regulator	AF-Q04848-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q04848-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.239	118	88	2	119	3	119	4.965E-08	281
+DESULFOASV1_0395_response_regulator	AF-P62598-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P62598-F1-model_v4 Two-component response regulator ARR12	0.260	120	88	1	120	15	134	4.346E-08	281
+DESULFOASV1_0395_response_regulator	AF-P48027-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P48027-F1-model_v4 Sensor protein GacS	0.262	120	85	2	117	656	775	4.346E-08	281
+DESULFOASV1_0395_response_regulator	AF-A1A697-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1A697-F1-model_v4 Probable histidine kinase 5	0.273	139	84	3	119	1040	1178	7.404E-08	281
+DESULFOASV1_0395_response_regulator	AF-Q6GFH3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GFH3-F1-model_v4 Response regulator protein VraR	0.245	119	88	1	118	1	119	3.330E-08	280
+DESULFOASV1_0395_response_regulator	AF-P52108-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52108-F1-model_v4 Transcriptional regulatory protein RstA	0.250	115	84	3	117	2	114	4.645E-08	280
+DESULFOASV1_0395_response_regulator	AF-Q1IRH0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1IRH0-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.274	133	86	2	120	3	135	6.480E-08	280
+DESULFOASV1_0395_response_regulator	AF-Q9LKL2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9LKL2-F1-model_v4 Two-component response regulator-like APRR1	0.216	120	91	4	120	20	139	1.226E-08	280
+DESULFOASV1_0395_response_regulator	AF-P58363-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P58363-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.262	116	84	4	118	527	642	2.089E-08	280
+DESULFOASV1_0395_response_regulator	AF-Q9P7Q7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9P7Q7-F1-model_v4 Peroxide stress-activated histidine kinase mak1	0.211	123	91	4	119	1507	1629	3.330E-08	280
+DESULFOASV1_0395_response_regulator	AF-Q2G0E0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2G0E0-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	8.458E-08	279
+DESULFOASV1_0395_response_regulator	AF-O49397-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O49397-F1-model_v4 Two-component response regulator ARR10	0.260	120	88	1	120	15	134	4.645E-08	279
+DESULFOASV1_0395_response_regulator	AF-Q5AKU6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5AKU6-F1-model_v4 Oxidative stress response two-component system protein SSK1	0.170	147	95	2	117	505	651	6.927E-08	279
+DESULFOASV1_0395_response_regulator	AF-Q0WPQ2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0WPQ2-F1-model_v4 Ethylene receptor 2	0.240	122	89	2	119	645	766	4.066E-08	279
+DESULFOASV1_0395_response_regulator	AF-P0AEC4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEC4-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.264	119	86	1	118	524	642	2.233E-08	279
+DESULFOASV1_0395_response_regulator	AF-Q9C5U0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9C5U0-F1-model_v4 Histidine kinase 4	0.288	125	81	3	117	945	1069	3.330E-08	279
+DESULFOASV1_0395_response_regulator	AF-Q8CNP9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CNP9-F1-model_v4 Response regulator protein VraR	0.256	119	87	1	118	1	119	5.672E-08	278
+DESULFOASV1_0395_response_regulator	AF-A5DLE2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5DLE2-F1-model_v4 Stress response regulator protein 1	0.238	126	91	1	120	87	212	9.041E-08	278
+DESULFOASV1_0395_response_regulator	AF-Q2FIY0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FIY0-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	9.041E-08	278
+DESULFOASV1_0395_response_regulator	AF-Q2YSS2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YSS2-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	8.458E-08	278
+DESULFOASV1_0395_response_regulator	AF-Q5HR81-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HR81-F1-model_v4 Response regulator protein GraR	0.237	117	87	4	120	2	116	9.041E-08	278
+DESULFOASV1_0395_response_regulator	AF-Q9ZWJ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZWJ9-F1-model_v4 Two-component response regulator ARR2	0.243	119	89	2	120	27	145	3.804E-08	278
+DESULFOASV1_0395_response_regulator	AF-A3BE68-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3BE68-F1-model_v4 Probable histidine kinase 1	0.209	151	93	2	120	816	966	4.965E-08	278
+DESULFOASV1_0395_response_regulator	AF-Q49YS9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q49YS9-F1-model_v4 Response regulator protein VraR	0.280	119	84	1	118	1	119	8.458E-08	277
+DESULFOASV1_0395_response_regulator	AF-Q8CQ37-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CQ37-F1-model_v4 Response regulator protein GraR	0.237	117	87	4	120	2	116	1.033E-07	277
+DESULFOASV1_0395_response_regulator	AF-P9WGN0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WGN0-F1-model_v4 Transcriptional regulatory protein KdpE	0.254	114	83	3	116	2	113	3.115E-08	277
+DESULFOASV1_0395_response_regulator	AF-Q6BGW4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6BGW4-F1-model_v4 Stress response regulator protein 1	0.240	125	90	1	120	115	239	6.480E-08	277
+DESULFOASV1_0395_response_regulator	AF-Q8L9Y3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8L9Y3-F1-model_v4 Two-component response regulator ARR14	0.231	119	90	2	119	10	128	6.480E-08	277
+DESULFOASV1_0395_response_regulator	AF-Q9HU19-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HU19-F1-model_v4 C4-dicarboxylate transport transcriptional regulatory protein DctD	0.262	117	85	3	119	11	126	3.330E-08	277
+DESULFOASV1_0395_response_regulator	AF-Q54W36-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q54W36-F1-model_v4 Hybrid signal transduction histidine kinase H	0.268	118	82	5	117	1245	1362	2.089E-08	277
+DESULFOASV1_0395_response_regulator	AF-Q54SK5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q54SK5-F1-model_v4 Hybrid signal transduction histidine kinase M	0.254	122	86	2	117	2260	2381	6.063E-08	277
+DESULFOASV1_0395_response_regulator	AF-P0C0Z1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0C0Z1-F1-model_v4 Response regulator protein VraR	0.245	119	88	1	118	1	119	4.346E-08	276
+DESULFOASV1_0395_response_regulator	AF-A8Z181-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8Z181-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	1.104E-07	276
+DESULFOASV1_0395_response_regulator	AF-A6TZD6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6TZD6-F1-model_v4 Response regulator protein GraR	0.215	115	88	4	118	2	114	9.041E-08	276
+DESULFOASV1_0395_response_regulator	AF-A5IQL2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5IQL2-F1-model_v4 Response regulator protein GraR	0.215	115	88	4	118	2	114	9.041E-08	276
+DESULFOASV1_0395_response_regulator	AF-O25408-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O25408-F1-model_v4 Transcriptional regulatory protein FlgR	0.316	116	78	4	119	2	116	2.727E-08	276
+DESULFOASV1_0395_response_regulator	AF-Q6K8X6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6K8X6-F1-model_v4 Two-component response regulator ORR23	0.243	120	90	1	120	22	141	6.927E-08	276
+DESULFOASV1_0395_response_regulator	AF-Q4L7J5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4L7J5-F1-model_v4 Response regulator protein VraR	0.254	119	87	1	118	1	119	5.307E-08	275
+DESULFOASV1_0395_response_regulator	AF-P52929-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52929-F1-model_v4 Stage 0 sporulation protein A	0.237	122	89	1	118	1	122	1.033E-07	275
+DESULFOASV1_0395_response_regulator	AF-Q9M9B9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9M9B9-F1-model_v4 Putative two-component response regulator ARR19	0.217	121	91	3	119	34	154	1.601E-08	275
+DESULFOASV1_0395_response_regulator	AF-P10577-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P10577-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.227	119	90	1	119	2	119	6.480E-08	275
+DESULFOASV1_0395_response_regulator	AF-Q9ZWL6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9ZWL6-F1-model_v4 Ethylene receptor	0.198	118	94	2	119	613	730	7.913E-08	275
+DESULFOASV1_0395_response_regulator	AF-P33394-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P33394-F1-model_v4 Protein Rrf1	0.233	119	88	1	119	1	116	9.041E-08	274
+DESULFOASV1_0395_response_regulator	AF-Q7A0I0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A0I0-F1-model_v4 Response regulator protein VraR	0.245	119	88	1	118	1	119	4.965E-08	274
+DESULFOASV1_0395_response_regulator	AF-Q7A4R9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A4R9-F1-model_v4 Response regulator protein VraR	0.245	119	88	1	118	1	119	5.307E-08	274
+DESULFOASV1_0395_response_regulator	AF-P0AF31-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AF31-F1-model_v4 Nitrate/nitrite response regulator protein NarL	0.266	117	84	2	117	6	122	3.115E-08	274
+DESULFOASV1_0395_response_regulator	AF-Q6GBH1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GBH1-F1-model_v4 Response regulator protein GraR	0.215	115	88	4	118	2	114	1.104E-07	274
+DESULFOASV1_0395_response_regulator	AF-A2YA15-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2YA15-F1-model_v4 Probable histidine kinase 2	0.240	133	87	3	118	911	1043	4.066E-08	274
+DESULFOASV1_0395_response_regulator	AF-Q55E44-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q55E44-F1-model_v4 Hybrid signal transduction histidine kinase E	0.221	122	90	1	117	1572	1693	1.441E-07	274
+DESULFOASV1_0395_response_regulator	AF-Q5N6V8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5N6V8-F1-model_v4 Two-component response regulator ORR26	0.237	119	90	2	120	9	127	1.033E-07	273
+DESULFOASV1_0395_response_regulator	AF-Q9LYP5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9LYP5-F1-model_v4 Putative two-component response regulator ARR21	0.295	119	82	1	119	14	131	6.927E-08	273
+DESULFOASV1_0395_response_regulator	AF-A6UEL7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6UEL7-F1-model_v4 Acid tolerance regulatory protein ActR	0.210	113	88	1	113	21	132	6.480E-08	272
+DESULFOASV1_0395_response_regulator	AF-A6QEW8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6QEW8-F1-model_v4 Response regulator protein GraR	0.210	117	90	4	120	2	116	1.033E-07	272
+DESULFOASV1_0395_response_regulator	AF-P52936-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52936-F1-model_v4 Stage 0 sporulation protein A homolog	0.239	121	89	2	119	5	125	1.540E-07	272
+DESULFOASV1_0395_response_regulator	AF-P06184-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P06184-F1-model_v4 Phosphoglycerate transport system transcriptional regulatory protein PgtA	0.252	118	87	3	120	6	122	1.104E-07	272
+DESULFOASV1_0395_response_regulator	AF-P54302-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P54302-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.241	117	88	1	117	733	849	1.033E-07	272
+DESULFOASV1_0395_response_regulator	AF-P0C5S3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0C5S3-F1-model_v4 Acid tolerance regulatory protein ActR	0.210	113	88	1	113	21	132	7.404E-08	271
+DESULFOASV1_0395_response_regulator	AF-Q7A2Q1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7A2Q1-F1-model_v4 Response regulator protein VraR	0.245	119	88	1	118	1	119	6.480E-08	271
+DESULFOASV1_0395_response_regulator	AF-Q8GP20-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8GP20-F1-model_v4 Swarming motility regulation protein RssB	0.271	115	82	4	118	2	115	3.330E-08	271
+DESULFOASV1_0395_response_regulator	AF-P13359-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P13359-F1-model_v4 Regulatory protein VirG	0.262	118	86	3	120	2	118	6.063E-08	271
+DESULFOASV1_0395_response_regulator	AF-P52941-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52941-F1-model_v4 Stage 0 sporulation protein A homolog	0.225	120	90	2	118	3	122	1.180E-07	271
+DESULFOASV1_0395_response_regulator	AF-P09432-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P09432-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.191	119	95	1	119	1	118	2.010E-07	271
+DESULFOASV1_0395_response_regulator	AF-Q49VK3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q49VK3-F1-model_v4 Response regulator protein GraR	0.237	117	87	4	120	2	116	1.759E-07	270
+DESULFOASV1_0395_response_regulator	AF-P62644-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P62644-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase of group 2 operon	0.253	128	85	2	116	18	145	8.458E-08	270
+DESULFOASV1_0395_response_regulator	AF-A2XE31-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2XE31-F1-model_v4 Two-component response regulator ORR21	0.258	120	88	1	120	14	133	7.404E-08	270
+DESULFOASV1_0395_response_regulator	AF-P59342-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P59342-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.225	118	90	1	117	666	783	1.104E-07	270
+DESULFOASV1_0395_response_regulator	AF-Q5A872-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5A872-F1-model_v4 Histidine protein kinase SLN1	0.221	120	88	4	117	1245	1364	8.458E-08	270
+DESULFOASV1_0395_response_regulator	AF-Q9HWA4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HWA4-F1-model_v4 Two-component response regulator PprB	0.236	126	89	1	117	1	126	2.296E-07	269
+DESULFOASV1_0395_response_regulator	AF-P62645-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P62645-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase of group 3 operon	0.280	122	84	1	118	4	125	1.601E-08	269
+DESULFOASV1_0395_response_regulator	AF-P62646-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P62646-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.265	126	86	2	119	3	128	9.041E-08	269
+DESULFOASV1_0395_response_regulator	AF-P29267-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P29267-F1-model_v4 Hydrogenase transcriptional regulatory protein HoxA	0.216	116	89	2	117	5	119	4.066E-08	269
+DESULFOASV1_0395_response_regulator	AF-P52931-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52931-F1-model_v4 Stage 0 sporulation protein A	0.237	119	89	2	118	3	121	7.913E-08	268
+DESULFOASV1_0395_response_regulator	AF-Q4L481-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4L481-F1-model_v4 Response regulator protein GraR	0.206	115	89	4	118	2	114	1.759E-07	268
+DESULFOASV1_0395_response_regulator	AF-P49333-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P49333-F1-model_v4 Ethylene receptor 1	0.170	123	99	1	120	608	730	1.033E-07	268
+DESULFOASV1_0395_response_regulator	AF-A2YFR6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2YFR6-F1-model_v4 Probable histidine kinase 1	0.206	148	91	2	117	816	963	4.645E-08	268
+DESULFOASV1_0395_response_regulator	AF-Q9M7M1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9M7M1-F1-model_v4 Ethylene receptor	0.231	118	89	2	119	613	729	2.915E-08	267
+DESULFOASV1_0395_response_regulator	AF-C4Y489-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C4Y489-F1-model_v4 Stress response regulator protein 1	0.190	125	96	1	119	59	183	8.458E-08	266
+DESULFOASV1_0395_response_regulator	AF-P0AF30-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AF30-F1-model_v4 Nitrate/nitrite response regulator protein NarL	0.270	117	84	2	117	6	122	2.915E-08	266
+DESULFOASV1_0395_response_regulator	AF-C5M3F1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C5M3F1-F1-model_v4 Stress response regulator protein 1	0.200	123	94	1	118	135	257	4.965E-08	266
+DESULFOASV1_0395_response_regulator	AF-O83639-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O83639-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.266	122	85	2	118	6	127	1.955E-08	266
+DESULFOASV1_0395_response_regulator	AF-A2X1N2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2X1N2-F1-model_v4 Two-component response regulator ORR24	0.252	120	89	1	120	27	146	1.441E-07	266
+DESULFOASV1_0395_response_regulator	AF-Q67W50-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q67W50-F1-model_v4 Two-component response regulator ORR25	0.245	119	89	2	120	15	133	1.180E-07	266
+DESULFOASV1_0395_response_regulator	AF-Q869S5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q869S5-F1-model_v4 Hybrid signal transduction protein dokA	0.233	120	91	1	120	1516	1634	1.881E-07	266
+DESULFOASV1_0395_response_regulator	AF-P40759-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P40759-F1-model_v4 Transcriptional regulatory protein GlnL	0.266	116	84	4	118	2	117	3.115E-08	265
+DESULFOASV1_0395_response_regulator	AF-Q9AAK0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9AAK0-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 2	0.341	123	75	4	118	2	124	4.965E-08	265
+DESULFOASV1_0395_response_regulator	AF-O52262-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O52262-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.290	125	83	1	118	1	125	2.915E-08	265
+DESULFOASV1_0395_response_regulator	AF-P45671-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P45671-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.233	119	90	2	120	3	120	6.235E-07	265
+DESULFOASV1_0395_response_regulator	AF-Q55169-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q55169-F1-model_v4 Response regulator Rcp1	0.218	128	91	1	118	7	134	4.226E-09	264
+DESULFOASV1_0395_response_regulator	AF-A8R3T0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8R3T0-F1-model_v4 Glycerol metabolism activator	0.284	120	84	1	119	1	120	1.540E-07	264
+DESULFOASV1_0395_response_regulator	AF-Q932F1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q932F1-F1-model_v4 Response regulator protein GraR	0.205	115	89	4	118	2	114	1.540E-07	264
+DESULFOASV1_0395_response_regulator	AF-Q4GZK9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4GZK9-F1-model_v4 Two-component response regulator ORR2	0.206	150	91	2	116	5	154	4.645E-08	264
+DESULFOASV1_0395_response_regulator	AF-Q132U2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q132U2-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.261	128	84	2	116	18	145	7.913E-08	264
+DESULFOASV1_0395_response_regulator	AF-P0AEC7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEC7-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.225	118	90	1	117	666	783	2.149E-07	264
+DESULFOASV1_0395_response_regulator	AF-A1A696-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1A696-F1-model_v4 Probable histidine kinase 3	0.217	138	91	2	118	878	1015	1.033E-07	264
+DESULFOASV1_0395_response_regulator	AF-Q6GJ11-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GJ11-F1-model_v4 Response regulator protein GraR	0.205	115	89	4	118	2	114	1.646E-07	263
+DESULFOASV1_0395_response_regulator	AF-A7WZC3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7WZC3-F1-model_v4 Response regulator protein GraR	0.220	117	89	4	120	2	116	3.660E-07	263
+DESULFOASV1_0395_response_regulator	AF-Q689G9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q689G9-F1-model_v4 Two-component response regulator-like PRR1	0.225	120	90	4	120	29	148	5.307E-08	263
+DESULFOASV1_0395_response_regulator	AF-B8B3I4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8B3I4-F1-model_v4 Two-component response regulator ORR22	0.243	120	90	1	120	24	143	2.296E-07	263
+DESULFOASV1_0395_response_regulator	AF-O49230-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O49230-F1-model_v4 Ethylene receptor 1	0.166	120	98	2	119	607	726	2.149E-07	263
+DESULFOASV1_0395_response_regulator	AF-P0A4I1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4I1-F1-model_v4 Transcriptional regulatory protein CutR	0.228	115	87	4	118	2	115	3.912E-07	262
+DESULFOASV1_0395_response_regulator	AF-Q10WZ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q10WZ6-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.309	124	80	1	117	1	124	4.066E-08	262
+DESULFOASV1_0395_response_regulator	AF-Q8VL08-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8VL08-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.295	128	80	2	116	25	152	6.063E-08	262
+DESULFOASV1_0395_response_regulator	AF-Q00934-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q00934-F1-model_v4 Response regulator protein PilR	0.214	118	91	2	119	3	119	5.457E-07	262
+DESULFOASV1_0395_response_regulator	AF-P0AEC6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEC6-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.225	118	90	1	117	666	783	2.624E-07	262
+DESULFOASV1_0395_response_regulator	AF-Q1D823-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1D823-F1-model_v4 Adventurous-gliding motility protein Z	0.190	121	95	1	118	1	121	1.759E-07	262
+DESULFOASV1_0395_response_regulator	AF-P9WMF9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WMF9-F1-model_v4 DNA-binding transcriptional activator DevR/DosR	0.262	118	86	1	118	1	118	7.913E-08	261
+DESULFOASV1_0395_response_regulator	AF-P0AED6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AED6-F1-model_v4 Response regulator UvrY	0.295	118	82	1	118	1	118	1.348E-07	261
+DESULFOASV1_0395_response_regulator	AF-O05251-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O05251-F1-model_v4 Transcriptional regulatory protein MalR	0.208	120	94	1	120	1	120	8.458E-08	261
+DESULFOASV1_0395_response_regulator	AF-Q59M56-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q59M56-F1-model_v4 Stress response regulator protein 1	0.200	123	94	1	118	152	274	6.480E-08	261
+DESULFOASV1_0395_response_regulator	AF-P56644-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P56644-F1-model_v4 Probable transcriptional regulatory protein SgaR	0.260	121	88	1	120	7	127	3.660E-07	260
+DESULFOASV1_0395_response_regulator	AF-A8R3S7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8R3S7-F1-model_v4 Transcriptional activator protein ExaE	0.237	119	89	1	119	1	118	3.912E-07	260
+DESULFOASV1_0395_response_regulator	AF-P9WMF8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P9WMF8-F1-model_v4 DNA-binding transcriptional activator DevR/DosR	0.262	118	86	1	118	1	118	9.041E-08	260
+DESULFOASV1_0395_response_regulator	AF-P66798-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P66798-F1-model_v4 Response regulator UvrY	0.295	118	82	1	118	1	118	1.441E-07	260
+DESULFOASV1_0395_response_regulator	AF-Q6GK93-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GK93-F1-model_v4 Transcriptional regulatory protein HptR	0.214	117	91	4	120	3	119	9.663E-08	260
+DESULFOASV1_0395_response_regulator	AF-Q2G1E1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2G1E1-F1-model_v4 Transcriptional regulatory protein HptR	0.214	117	91	4	120	3	119	1.348E-07	260
+DESULFOASV1_0395_response_regulator	AF-P24908-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P24908-F1-model_v4 Putative transcriptional regulator	0.278	117	84	3	119	2	118	1.180E-07	259
+DESULFOASV1_0395_response_regulator	AF-P0A4I2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4I2-F1-model_v4 Transcriptional regulatory protein CutR	0.228	115	87	4	118	2	115	5.106E-07	259
+DESULFOASV1_0395_response_regulator	AF-A1SMR4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1SMR4-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.297	128	82	2	118	3	130	9.041E-08	259
+DESULFOASV1_0395_response_regulator	AF-P94439-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P94439-F1-model_v4 Transcriptional regulatory protein LnrK	0.254	116	85	4	118	3	118	4.469E-07	258
+DESULFOASV1_0395_response_regulator	AF-P39486-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P39486-F1-model_v4 Probable C4-dicarboxylate response regulator DctR	0.239	118	88	2	118	5	122	2.455E-07	258
+DESULFOASV1_0395_response_regulator	AF-Q87GU5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q87GU5-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.216	117	91	1	117	732	848	3.204E-07	258
+DESULFOASV1_0395_response_regulator	AF-P31802-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P31802-F1-model_v4 Nitrate/nitrite response regulator protein NarP	0.305	117	80	1	116	5	121	6.927E-08	257
+DESULFOASV1_0395_response_regulator	AF-O34534-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O34534-F1-model_v4 Transcriptional regulatory protein CitT	0.243	120	88	1	117	1	120	6.927E-08	257
+DESULFOASV1_0395_response_regulator	AF-P15940-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P15940-F1-model_v4 Nodulation protein W	0.232	114	87	3	116	19	132	9.663E-08	257
+DESULFOASV1_0395_response_regulator	AF-A3LP85-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3LP85-F1-model_v4 Stress response regulator protein 1	0.190	125	96	1	120	160	284	2.296E-07	257
+DESULFOASV1_0395_response_regulator	AF-Q3SVA1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3SVA1-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.264	115	82	2	113	20	134	8.458E-08	255
+DESULFOASV1_0395_response_regulator	AF-A2WYI4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2WYI4-F1-model_v4 Probable histidine kinase 3	0.215	139	92	2	119	878	1016	2.296E-07	255
+DESULFOASV1_0395_response_regulator	AF-P96602-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P96602-F1-model_v4 Probable C4-dicarboxylate response regulator DctR	0.216	118	91	2	118	5	122	5.833E-07	254
+DESULFOASV1_0395_response_regulator	AF-Q6YVX7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6YVX7-F1-model_v4 Two-component response regulator ORR2	0.206	150	91	2	116	5	154	4.066E-08	254
+DESULFOASV1_0395_response_regulator	AF-B9WLY5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9WLY5-F1-model_v4 Stress response regulator protein 1	0.208	123	93	1	118	155	277	1.104E-07	254
+DESULFOASV1_0395_response_regulator	AF-Q2RX18-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2RX18-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.283	109	75	2	107	16	124	7.913E-08	254
+DESULFOASV1_0395_response_regulator	AF-P0DOA0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0DOA0-F1-model_v4 Sensor kinase CckA	0.298	121	84	1	120	822	942	4.181E-07	254
+DESULFOASV1_0395_response_regulator	AF-P29369-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P29369-F1-model_v4 Glycerol metabolism activator	0.276	120	85	1	119	1	120	2.010E-07	253
+DESULFOASV1_0395_response_regulator	AF-P37599-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P37599-F1-model_v4 Chemotaxis protein CheV	0.248	125	86	3	117	175	299	9.663E-08	253
+DESULFOASV1_0395_response_regulator	AF-Q881J7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q881J7-F1-model_v4 Blue-light-activated protein	0.231	119	90	2	119	409	527	2.997E-07	253
+DESULFOASV1_0395_response_regulator	AF-O07019-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O07019-F1-model_v4 Uncharacterized transcriptional regulatory protein YvfU	0.220	116	89	4	118	3	118	4.469E-07	252
+DESULFOASV1_0395_response_regulator	AF-C4YM07-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C4YM07-F1-model_v4 Stress response regulator protein 1	0.200	123	94	1	118	152	274	1.441E-07	252
+DESULFOASV1_0395_response_regulator	AF-Q6H805-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6H805-F1-model_v4 Two-component response regulator ORR24	0.245	119	89	1	119	27	145	4.469E-07	252
+DESULFOASV1_0395_response_regulator	AF-B8AEH1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8AEH1-F1-model_v4 Two-component response regulator ORR23	0.241	120	90	1	120	22	141	3.204E-07	252
+DESULFOASV1_0395_response_regulator	AF-P94504-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P94504-F1-model_v4 Transcriptional regulatory protein YvrH	0.313	115	78	2	116	3	116	1.540E-07	251
+DESULFOASV1_0395_response_regulator	AF-P0AFU4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AFU4-F1-model_v4 Transcriptional regulatory protein GlrR	0.254	119	87	1	119	4	121	4.181E-07	251
+DESULFOASV1_0395_response_regulator	AF-Q884V3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q884V3-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.289	122	84	1	119	1	122	2.551E-08	250
+DESULFOASV1_0395_response_regulator	AF-Q07084-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q07084-F1-model_v4 Osmolarity two-component system protein SSK1	0.180	141	95	2	118	503	643	1.881E-07	250
+DESULFOASV1_0395_response_regulator	AF-Q54YZ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q54YZ9-F1-model_v4 Hybrid signal transduction histidine kinase J	0.300	119	81	4	119	1730	1848	4.181E-07	250
+DESULFOASV1_0395_response_regulator	AF-Q52376-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q52376-F1-model_v4 Response regulator GacA	0.252	116	85	4	118	3	118	3.912E-07	249
+DESULFOASV1_0395_response_regulator	AF-Q3KFZ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3KFZ6-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 2	0.293	118	83	1	118	1	118	2.727E-08	249
+DESULFOASV1_0395_response_regulator	AF-P32967-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P32967-F1-model_v4 Response regulator GacA	0.231	118	90	1	118	1	118	6.235E-07	247
+DESULFOASV1_0395_response_regulator	AF-P0AED5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AED5-F1-model_v4 Response regulator UvrY	0.295	118	82	1	118	1	118	4.469E-07	247
+DESULFOASV1_0395_response_regulator	AF-P54662-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P54662-F1-model_v4 Transcriptional regulatory protein DegU	0.228	116	88	2	116	9	124	1.062E-06	247
+DESULFOASV1_0395_response_regulator	AF-P0AEV2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEV2-F1-model_v4 Regulator of RpoS	0.222	113	87	3	115	8	120	5.833E-07	247
+DESULFOASV1_0395_response_regulator	AF-Q2INJ8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2INJ8-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.284	120	84	1	118	1	120	1.180E-07	247
+DESULFOASV1_0395_response_regulator	AF-A5E0V1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5E0V1-F1-model_v4 Stress response regulator protein 1	0.184	123	95	1	118	206	328	2.010E-07	247
+DESULFOASV1_0395_response_regulator	AF-Q6AJV3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6AJV3-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.255	127	87	2	119	3	129	2.455E-07	247
+DESULFOASV1_0395_response_regulator	AF-P72253-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P72253-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase of group 2 operon	0.262	118	84	2	116	19	136	4.965E-08	247
+DESULFOASV1_0395_response_regulator	AF-P0AE41-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE41-F1-model_v4 Transcriptional regulatory protein YpdB	0.231	115	87	4	118	2	115	1.261E-07	246
+DESULFOASV1_0395_response_regulator	AF-Q89T55-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q89T55-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase of group 2 operon	0.248	127	87	2	118	19	145	2.455E-07	246
+DESULFOASV1_0395_response_regulator	AF-P24086-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P24086-F1-model_v4 Uncharacterized protein LA_2151	0.208	119	93	3	120	12	130	5.833E-07	245
+DESULFOASV1_0395_response_regulator	AF-P95582-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P95582-F1-model_v4 Response regulator GacA	0.231	118	90	1	118	1	118	8.698E-07	245
+DESULFOASV1_0395_response_regulator	AF-Q2IT50-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2IT50-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.251	129	86	1	116	17	145	4.469E-07	245
+DESULFOASV1_0395_response_regulator	AF-P0AF29-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AF29-F1-model_v4 Nitrate/nitrite response regulator protein NarL	0.270	117	84	2	117	6	122	1.759E-07	244
+DESULFOASV1_0395_response_regulator	AF-P13800-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P13800-F1-model_v4 Transcriptional regulatory protein DegU	0.239	119	89	1	118	2	120	1.135E-06	244
+DESULFOASV1_0395_response_regulator	AF-P0AEV3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEV3-F1-model_v4 Regulator of RpoS	0.222	113	87	3	115	8	120	7.614E-07	244
+DESULFOASV1_0395_response_regulator	AF-Q20XK3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q20XK3-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 2	0.246	123	84	4	116	3	125	5.106E-07	244
+DESULFOASV1_0395_response_regulator	AF-P10576-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P10576-F1-model_v4 DNA-binding transcriptional regulator NtrC	0.219	119	92	1	119	1	119	1.062E-06	244
+DESULFOASV1_0395_response_regulator	AF-O07528-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O07528-F1-model_v4 Uncharacterized transcriptional regulatory protein YhcZ	0.275	114	81	4	116	2	115	1.540E-07	243
+DESULFOASV1_0395_response_regulator	AF-P0AE40-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE40-F1-model_v4 Transcriptional regulatory protein YpdB	0.252	115	85	4	118	2	115	1.540E-07	242
+DESULFOASV1_0395_response_regulator	AF-P0AE39-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AE39-F1-model_v4 Transcriptional regulatory protein YpdB	0.243	115	86	4	118	2	115	2.149E-07	242
+DESULFOASV1_0395_response_regulator	AF-P0AEV1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEV1-F1-model_v4 Regulator of RpoS	0.222	113	87	3	115	8	120	9.297E-07	242
+DESULFOASV1_0395_response_regulator	AF-P0AEC5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEC5-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.225	118	90	1	117	666	783	1.213E-06	242
+DESULFOASV1_0395_response_regulator	AF-P66797-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P66797-F1-model_v4 Response regulator UvrY	0.295	118	82	1	118	1	118	7.123E-07	241
+DESULFOASV1_0395_response_regulator	AF-Q5HJF7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HJF7-F1-model_v4 Transcriptional regulatory protein HptR	0.214	117	91	4	120	3	119	4.469E-07	241
+DESULFOASV1_0395_response_regulator	AF-Q8KR08-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8KR08-F1-model_v4 Response regulator protein TmoT	0.256	117	86	3	119	20	135	7.614E-07	240
+DESULFOASV1_0395_response_regulator	AF-P55701-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P55701-F1-model_v4 Probable transcriptional regulatory protein y4xI	0.230	116	87	5	120	2	115	4.777E-07	240
+DESULFOASV1_0395_response_regulator	AF-Q8NYJ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8NYJ9-F1-model_v4 Transcriptional regulatory protein HptR	0.214	117	91	4	120	3	119	5.106E-07	240
+DESULFOASV1_0395_response_regulator	AF-B0R4K0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0R4K0-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.279	126	83	3	118	2	127	8.698E-07	240
+DESULFOASV1_0395_response_regulator	AF-Q1QI44-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1QI44-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.248	127	87	2	118	18	144	2.296E-07	239
+DESULFOASV1_0395_response_regulator	AF-P0AFU5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AFU5-F1-model_v4 Transcriptional regulatory protein QseF	0.254	119	87	1	119	4	121	1.297E-06	239
+DESULFOASV1_0395_response_regulator	AF-Q97GZ3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q97GZ3-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.288	121	83	2	119	3	123	2.624E-07	238
+DESULFOASV1_0395_response_regulator	AF-Q1CWZ9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1CWZ9-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 5	0.274	121	84	2	118	6	126	3.424E-07	238
+DESULFOASV1_0395_response_regulator	AF-Q4ZSY3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4ZSY3-F1-model_v4 Blue-light-activated protein	0.219	119	91	2	119	409	527	9.297E-07	238
+DESULFOASV1_0395_response_regulator	AF-Q72RH6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q72RH6-F1-model_v4 Uncharacterized protein LIC_11769	0.208	119	93	3	120	12	130	1.135E-06	237
+DESULFOASV1_0395_response_regulator	AF-Q7CQM8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7CQM8-F1-model_v4 Tetrathionate response regulatory protein TtrR	0.250	119	87	1	119	1	117	4.469E-07	237
+DESULFOASV1_0395_response_regulator	AF-P0AF28-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AF28-F1-model_v4 Nitrate/nitrite response regulator protein NarL	0.268	118	85	1	117	5	122	3.660E-07	237
+DESULFOASV1_0395_response_regulator	AF-Q9FGT7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9FGT7-F1-model_v4 Two-component response regulator ARR18	0.246	122	89	1	119	16	137	2.804E-07	237
+DESULFOASV1_0395_response_regulator	AF-Q1M7A0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1M7A0-F1-model_v4 Transcriptional regulatory protein MctR	0.216	118	91	2	118	6	123	1.693E-06	236
+DESULFOASV1_0395_response_regulator	AF-P29904-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P29904-F1-model_v4 Methanol utilization control regulatory protein MoxX	0.201	120	93	1	118	13	132	7.614E-07	236
+DESULFOASV1_0395_response_regulator	AF-Q8FFE0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8FFE0-F1-model_v4 Transcriptional regulatory protein YpdB	0.231	115	87	4	118	2	115	2.010E-07	236
+DESULFOASV1_0395_response_regulator	AF-Q1D359-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1D359-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.264	118	85	4	119	8	125	3.912E-07	236
+DESULFOASV1_0395_response_regulator	AF-Q9KS59-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9KS59-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 3	0.322	118	77	4	118	2	119	2.296E-07	236
+DESULFOASV1_0395_response_regulator	AF-Q2WAJ8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2WAJ8-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.295	118	80	2	116	12	129	9.663E-08	236
+DESULFOASV1_0395_response_regulator	AF-Q20YL8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q20YL8-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.253	128	85	2	116	18	145	8.698E-07	235
+DESULFOASV1_0395_response_regulator	AF-Q87K77-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q87K77-F1-model_v4 Uncharacterized response regulatory protein VPA0021	0.211	118	92	1	118	3	120	7.123E-07	234
+DESULFOASV1_0395_response_regulator	AF-P52939-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52939-F1-model_v4 Stage 0 sporulation protein A homolog	0.223	120	91	2	119	4	123	1.135E-06	234
+DESULFOASV1_0395_response_regulator	AF-P62641-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P62641-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.282	127	84	2	119	5	131	1.759E-07	234
+DESULFOASV1_0395_response_regulator	AF-Q9LZJ8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9LZJ8-F1-model_v4 Putative two-component response regulator ARR20	0.178	120	96	1	120	39	156	5.833E-07	234
+DESULFOASV1_0395_response_regulator	AF-P58356-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P58356-F1-model_v4 Sensor protein TorS	0.201	116	92	4	119	683	798	5.833E-07	234
+DESULFOASV1_0395_response_regulator	AF-O82868-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O82868-F1-model_v4 Photosynthetic apparatus regulatory protein RegA	0.173	112	91	2	113	11	121	7.123E-07	233
+DESULFOASV1_0395_response_regulator	AF-Q2ILG8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2ILG8-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 6	0.248	123	87	2	118	9	131	1.386E-06	233
+DESULFOASV1_0395_response_regulator	AF-A2XS50-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2XS50-F1-model_v4 Two-component response regulator ORR28	0.188	125	96	2	120	11	135	8.138E-07	232
+DESULFOASV1_0395_response_regulator	AF-Q2W2W9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2W2W9-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 3	0.260	118	85	2	117	6	123	5.833E-07	231
+DESULFOASV1_0395_response_regulator	AF-Q7Y0W3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7Y0W3-F1-model_v4 Two-component response regulator EHD1	0.191	117	94	4	120	12	128	1.135E-06	230
+DESULFOASV1_0395_response_regulator	AF-Q2YC79-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YC79-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.203	125	89	4	116	3	127	1.934E-06	229
+DESULFOASV1_0395_response_regulator	AF-P42508-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P42508-F1-model_v4 Photosynthetic apparatus regulatory protein RegA	0.162	108	89	2	109	12	118	6.235E-07	228
+DESULFOASV1_0395_response_regulator	AF-P0A4H3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H3-F1-model_v4 Virulence factors putative positive transcription regulator BvgA	0.219	118	91	1	118	1	118	2.067E-06	228
+DESULFOASV1_0395_response_regulator	AF-Q8F6P9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8F6P9-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.282	127	84	2	119	5	131	2.997E-07	228
+DESULFOASV1_0395_response_regulator	AF-Q7F239-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7F239-F1-model_v4 Ethylene receptor 4	0.212	132	92	2	119	643	774	8.138E-07	228
+DESULFOASV1_0395_response_regulator	AF-Q48IV1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q48IV1-F1-model_v4 Blue-light-activated protein	0.230	122	91	1	119	406	527	1.934E-06	226
+DESULFOASV1_0395_response_regulator	AF-P0A4H2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H2-F1-model_v4 Virulence factors putative positive transcription regulator BvgA	0.219	118	91	1	118	1	118	2.524E-06	225
+DESULFOASV1_0395_response_regulator	AF-P39453-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P39453-F1-model_v4 Sensor protein TorS	0.210	116	91	4	119	683	798	1.062E-06	225
+DESULFOASV1_0395_response_regulator	AF-Q51373-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q51373-F1-model_v4 Response regulator GacA	0.237	116	87	4	118	3	118	4.300E-06	224
+DESULFOASV1_0395_response_regulator	AF-Q48ND9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q48ND9-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.296	122	82	2	119	5	126	8.138E-07	224
+DESULFOASV1_0395_response_regulator	AF-Q53228-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q53228-F1-model_v4 Photosynthetic apparatus regulatory protein RegA	0.156	111	92	2	112	12	121	9.297E-07	223
+DESULFOASV1_0395_response_regulator	AF-O32197-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O32197-F1-model_v4 Transcriptional regulatory protein LiaR	0.268	116	84	1	116	1	116	1.934E-06	222
+DESULFOASV1_0395_response_regulator	AF-Q2FMT2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2FMT2-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.234	125	87	4	118	3	127	2.362E-06	222
+DESULFOASV1_0395_response_regulator	AF-Q12YX1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q12YX1-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.278	118	83	3	118	2	119	5.106E-07	222
+DESULFOASV1_0395_response_regulator	AF-P52688-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52688-F1-model_v4 Transcriptional regulatory protein CitB	0.235	120	90	2	120	3	122	3.764E-06	221
+DESULFOASV1_0395_response_regulator	AF-P59339-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P59339-F1-model_v4 Transcriptional regulatory protein DcuR	0.162	120	98	1	118	1	120	1.062E-06	221
+DESULFOASV1_0395_response_regulator	AF-A7HD44-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7HD44-F1-model_v4 Response regulator receiver protein Anae109_2439	0.213	114	88	3	116	2	114	2.884E-06	220
+DESULFOASV1_0395_response_regulator	AF-Q7XKS9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7XKS9-F1-model_v4 Two-component response regulator ORR28	0.185	133	95	2	119	11	143	5.457E-07	219
+DESULFOASV1_0395_response_regulator	AF-P0AEF6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEF6-F1-model_v4 Transcriptional regulatory protein DpiA	0.183	118	95	2	118	4	121	5.999E-06	218
+DESULFOASV1_0395_response_regulator	AF-Q0ARY3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0ARY3-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase	0.242	125	85	4	116	16	140	4.023E-06	217
+DESULFOASV1_0395_response_regulator	AF-P0AD01-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AD01-F1-model_v4 Transcriptional regulatory protein DcuR	0.154	120	99	1	118	1	120	2.067E-06	216
+DESULFOASV1_0395_response_regulator	AF-P0AEF4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEF4-F1-model_v4 Transcriptional regulatory protein DpiA	0.183	118	95	2	118	4	121	7.829E-06	215
+DESULFOASV1_0395_response_regulator	AF-Q9K998-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9K998-F1-model_v4 Probable C4-dicarboxylate response regulator DctR	0.206	119	93	1	118	5	123	5.612E-06	215
+DESULFOASV1_0395_response_regulator	AF-P0ACZ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0ACZ6-F1-model_v4 DNA-binding transcriptional activator EvgA	0.179	115	94	4	118	2	116	7.829E-06	214
+DESULFOASV1_0395_response_regulator	AF-Q7Y0W5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7Y0W5-F1-model_v4 Two-component response regulator ORR30	0.191	117	94	4	120	12	128	2.698E-06	214
+DESULFOASV1_0395_response_regulator	AF-Q8ZBV2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8ZBV2-F1-model_v4 Uncharacterized response regulatory protein YPO3287/y0902/YP_0397	0.185	120	95	1	120	1	117	2.698E-06	213
+DESULFOASV1_0395_response_regulator	AF-P0ACZ5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0ACZ5-F1-model_v4 DNA-binding transcriptional activator EvgA	0.179	115	94	4	118	2	116	9.561E-06	212
+DESULFOASV1_0395_response_regulator	AF-Q4ZYD3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4ZYD3-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.288	122	83	2	119	5	126	2.698E-06	210
+DESULFOASV1_0395_response_regulator	AF-P0AEF5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEF5-F1-model_v4 Transcriptional regulatory protein DpiA	0.172	118	96	2	118	4	121	5.251E-06	209
+DESULFOASV1_0395_response_regulator	AF-P0ACZ7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0ACZ7-F1-model_v4 DNA-binding transcriptional activator EvgA	0.179	115	94	4	118	2	116	1.426E-05	208
+DESULFOASV1_0395_response_regulator	AF-P0A4H4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0A4H4-F1-model_v4 Virulence factors putative positive transcription regulator BvgA	0.219	118	91	1	118	1	118	9.561E-06	208
+DESULFOASV1_0395_response_regulator	AF-P62640-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P62640-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 3	0.274	121	86	2	120	3	123	2.884E-06	208
+DESULFOASV1_0395_response_regulator	AF-P44845-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P44845-F1-model_v4 Nitrate/nitrite response regulator protein homolog	0.256	118	86	2	118	4	121	3.082E-06	207
+DESULFOASV1_0395_response_regulator	AF-P0AD02-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AD02-F1-model_v4 Transcriptional regulatory protein DcuR	0.153	120	99	1	118	1	120	2.524E-06	206
+DESULFOASV1_0395_response_regulator	AF-A7MVC2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7MVC2-F1-model_v4 Luminescence regulatory protein LuxO	0.270	110	79	8	117	2	110	2.428E-05	205
+DESULFOASV1_0395_response_regulator	AF-P59338-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P59338-F1-model_v4 Transcriptional regulatory protein DcuR	0.155	118	97	1	116	1	118	4.596E-06	204
+DESULFOASV1_0395_response_regulator	AF-P0C5S5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0C5S5-F1-model_v4 Luminescence regulatory protein LuxO	0.270	110	79	8	117	2	110	2.965E-05	203
+DESULFOASV1_0395_response_regulator	AF-Q9FJ16-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9FJ16-F1-model_v4 Putative two-component response regulator-like APRR4	0.173	118	97	2	119	41	158	6.853E-06	201
+DESULFOASV1_0395_response_regulator	AF-P0ACZ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0ACZ4-F1-model_v4 DNA-binding transcriptional activator EvgA	0.179	115	94	4	118	2	116	2.596E-05	200
+DESULFOASV1_0395_response_regulator	AF-P0AEF7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P0AEF7-F1-model_v4 Transcriptional regulatory protein DpiA	0.172	118	96	2	118	4	121	1.092E-05	200
+DESULFOASV1_0395_response_regulator	AF-Q9KL96-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9KL96-F1-model_v4 Uncharacterized response regulatory protein VC_A0850	0.214	119	93	1	119	4	122	8.368E-06	198
+DESULFOASV1_0395_response_regulator	AF-Q8D4U6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8D4U6-F1-model_v4 Uncharacterized response regulatory protein VV2_1193	0.193	118	94	1	118	3	120	8.368E-06	197
+DESULFOASV1_0395_response_regulator	AF-Q9HPU8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HPU8-F1-model_v4 Bacterioopsin transcriptional activator	0.141	118	100	1	117	16	133	4.912E-06	196
+DESULFOASV1_0395_response_regulator	AF-Q39T95-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q39T95-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 2	0.285	122	84	1	119	1	122	1.248E-05	190
+DESULFOASV1_0395_response_regulator	AF-P74126-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P74126-F1-model_v4 Ycf55-like protein	0.217	120	91	2	118	5	124	1.334E-05	186
+DESULFOASV1_0395_response_regulator	AF-Q2W5V5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2W5V5-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 2	0.201	127	94	1	119	3	129	2.596E-05	176
+DESULFOASV1_0395_response_regulator	AF-O86464-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O86464-F1-model_v4 Transcriptional regulator protein FixT	0.186	118	87	2	119	4	111	8.051E-05	169
+DESULFOASV1_0395_response_regulator	AF-P54884-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P54884-F1-model_v4 Sensory transduction protein RegX3	0.306	87	58	34	120	4	88	1.913E-04	164
+DESULFOASV1_0395_response_regulator	AF-Q0DWC7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0DWC7-F1-model_v4 Ethylene receptor 3	0.147	120	100	2	119	714	833	2.186E-04	153
+DESULFOASV1_0395_response_regulator	AF-Q394I6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q394I6-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.210	128	92	4	120	2	129	5.553E-04	152
+DESULFOASV1_0395_response_regulator	AF-Q8FUS8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8FUS8-F1-model_v4 Flagellar transcriptional regulator FtcR	0.158	114	95	5	118	2	115	9.198E-05	150
+DESULFOASV1_0395_response_regulator	AF-Q6T5K2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6T5K2-F1-model_v4 Ethylene receptor 3	0.147	120	100	2	119	714	833	3.260E-04	150
+DESULFOASV1_0395_response_regulator	AF-A5VW00-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5VW00-F1-model_v4 Flagellar transcriptional regulator FtcR	0.158	114	95	5	118	2	115	1.123E-04	149
+DESULFOASV1_0395_response_regulator	AF-Q2YJF8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YJF8-F1-model_v4 Flagellar transcriptional regulator FtcR	0.158	114	95	5	118	2	115	1.123E-04	148
+DESULFOASV1_0395_response_regulator	AF-O23100-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O23100-F1-model_v4 Putative two-component response regulator-like APRR8	0.188	113	90	4	116	15	126	3.050E-04	147
+DESULFOASV1_0395_response_regulator	AF-Q576I4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q576I4-F1-model_v4 Flagellar transcriptional regulator FtcR	0.158	114	95	5	118	2	115	7.047E-05	146
+DESULFOASV1_0395_response_regulator	AF-Q1BMF9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1BMF9-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 2	0.210	128	92	4	120	2	129	1.155E-03	142
+DESULFOASV1_0395_response_regulator	AF-P58664-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P58664-F1-model_v4 Uncharacterized response regulatory protein YgeK	0.219	119	91	2	118	3	121	1.841E-03	132
+DESULFOASV1_0395_response_regulator	AF-O67720-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O67720-F1-model_v4 Uncharacterized protein aq_1873	0.129	118	98	2	119	149	262	8.850E-04	132
+DESULFOASV1_0395_response_regulator	AF-Q8YDL7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8YDL7-F1-model_v4 Flagellar transcriptional regulator FtcR	0.154	114	96	5	118	2	115	5.553E-04	128
+DESULFOASV1_0395_response_regulator	AF-O69280-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O69280-F1-model_v4 Transcriptional regulatory protein EntR	0.166	124	98	1	119	1	124	3.980E-04	125
+DESULFOASV1_0395_response_regulator	AF-P37640-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P37640-F1-model_v4 Putative HTH-type transcriptional regulator YhjB	0.123	115	99	4	117	2	116	2.934E-03	125
+DESULFOASV1_0395_response_regulator	AF-Q2NFU9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2NFU9-F1-model_v4 UPF0425 pyridoxal phosphate-dependent protein Msp_0916	0.126	101	83	3	98	98	198	2.103E-03	101
+DESULFOASV1_0395_response_regulator	AF-A0A0D2YG02-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0A0D2YG02-F1-model_v4 Sulfhydrylase FUB7	0.117	99	84	3	98	104	202	6.103E-03	95
+DESULFOASV1_0395_response_regulator	AF-Q45581-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q45581-F1-model_v4 Uncharacterized HTH-type transcriptional regulator YbbH	0.140	102	83	2	103	130	227	2.745E-03	94
+DESULFOASV1_0395_response_regulator	AF-P50125-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P50125-F1-model_v4 Homocysteine synthase	0.144	101	82	2	98	102	202	6.103E-03	93
+DESULFOASV1_0395_response_regulator	AF-S0DUX5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-S0DUX5-F1-model_v4 Sulfhydrylase FUB7	0.117	99	84	3	98	104	202	9.101E-03	92
+DESULFOASV1_0395_response_regulator	AF-P94890-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P94890-F1-model_v4 O-acetyl-L-homoserine sulfhydrylase	0.114	84	71	3	83	110	193	6.973E-03	92
+DESULFOASV1_0395_response_regulator	AF-B1IAP6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1IAP6-F1-model_v4 Hydroxyethylthiazole kinase 2	0.141	104	86	1	101	12	115	2.641E-02	87
+DESULFOASV1_0395_response_regulator	AF-C1CQI9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C1CQI9-F1-model_v4 Hydroxyethylthiazole kinase 2	0.150	104	85	1	101	12	115	2.641E-02	87
+DESULFOASV1_0395_response_regulator	AF-W7MS09-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-W7MS09-F1-model_v4 Sulfhydrylase FUB7	0.106	99	85	3	98	104	202	1.188E-02	87
+DESULFOASV1_0395_response_regulator	AF-Q92441-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q92441-F1-model_v4 Homocysteine/cysteine synthase	0.132	101	84	1	98	99	199	6.103E-03	87
+DESULFOASV1_0395_response_regulator	AF-Q890C2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q890C2-F1-model_v4 Hydroxyethylthiazole kinase	0.145	95	80	3	96	13	107	1.040E-02	86
+DESULFOASV1_0395_response_regulator	AF-A7IA08-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7IA08-F1-model_v4 Hydroxyethylthiazole kinase	0.130	91	78	5	95	19	109	1.111E-02	85
+DESULFOASV1_0395_response_regulator	AF-C1CD76-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C1CD76-F1-model_v4 Hydroxyethylthiazole kinase 2	0.163	96	80	1	96	12	107	2.823E-02	85
+DESULFOASV1_0395_response_regulator	AF-B5E327-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5E327-F1-model_v4 Hydroxyethylthiazole kinase 2	0.163	96	80	1	96	12	107	2.823E-02	85
+DESULFOASV1_0395_response_regulator	AF-P13254-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P13254-F1-model_v4 L-methionine gamma-lyase	0.085	100	88	2	98	103	202	1.111E-02	84
+DESULFOASV1_0395_response_regulator	AF-Q04LH2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q04LH2-F1-model_v4 Hydroxyethylthiazole kinase 2	0.140	104	86	1	101	12	115	3.225E-02	83
+DESULFOASV1_0395_response_regulator	AF-C1C673-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C1C673-F1-model_v4 Hydroxyethylthiazole kinase 2	0.151	96	81	1	96	12	107	2.823E-02	83
+DESULFOASV1_0395_response_regulator	AF-B8F7P4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8F7P4-F1-model_v4 Hydroxyethylthiazole kinase	0.105	93	81	3	95	16	107	2.163E-02	83
+DESULFOASV1_0395_response_regulator	AF-Q723Z1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q723Z1-F1-model_v4 Hydroxyethylthiazole kinase	0.089	95	86	2	96	14	108	1.450E-02	83
+DESULFOASV1_0395_response_regulator	AF-Q07703-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q07703-F1-model_v4 Cystathionine beta-lyase	0.166	98	80	2	98	108	205	5.710E-03	83
+DESULFOASV1_0395_response_regulator	AF-Q03NR9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q03NR9-F1-model_v4 Hydroxyethylthiazole kinase	0.177	95	77	3	96	13	107	1.270E-02	82
+DESULFOASV1_0395_response_regulator	AF-Q8YA46-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8YA46-F1-model_v4 Hydroxyethylthiazole kinase	0.100	95	85	2	96	14	108	1.893E-02	82
+DESULFOASV1_0395_response_regulator	AF-Q162K5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q162K5-F1-model_v4 Hydroxyethylthiazole kinase	0.067	103	91	3	101	14	116	3.447E-02	81
+DESULFOASV1_0395_response_regulator	AF-A8MK93-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8MK93-F1-model_v4 Hydroxyethylthiazole kinase	0.114	95	82	3	96	18	112	2.312E-02	81
+DESULFOASV1_0395_response_regulator	AF-Q73GL9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q73GL9-F1-model_v4 L-alanine/L-glutamate racemase	0.176	81	64	2	80	106	186	1.657E-02	81
+DESULFOASV1_0395_response_regulator	AF-C1KZ32-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C1KZ32-F1-model_v4 Hydroxyethylthiazole kinase	0.100	95	85	2	96	14	108	2.641E-02	80
+DESULFOASV1_0395_response_regulator	AF-O58877-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-O58877-F1-model_v4 Hydroxyethylthiazole kinase	0.118	103	86	3	101	15	117	3.225E-02	79
+DESULFOASV1_0395_response_regulator	AF-B8DET2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8DET2-F1-model_v4 Hydroxyethylthiazole kinase	0.090	95	86	2	96	14	108	3.017E-02	79
+DESULFOASV1_0395_response_regulator	AF-Q7V3H3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7V3H3-F1-model_v4 Ribosomal protein S12 methylthiotransferase RimO	0.145	117	94	2	118	13	123	1.893E-02	79
+DESULFOASV1_0395_response_regulator	AF-B1I1S3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1I1S3-F1-model_v4 Hydroxyethylthiazole kinase	0.103	95	83	3	96	21	115	2.823E-02	78
+DESULFOASV1_0395_response_regulator	AF-Q8J0B2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8J0B2-F1-model_v4 Sulfhydrylase-like protein lolC1	0.123	101	84	2	98	117	217	3.017E-02	77
+DESULFOASV1_0395_response_regulator	AF-Q92EW7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q92EW7-F1-model_v4 Hydroxyethylthiazole kinase	0.100	95	85	2	96	14	108	4.209E-02	76
+DESULFOASV1_0395_response_regulator	AF-Q2LWX9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2LWX9-F1-model_v4 Hydroxyethylthiazole kinase	0.140	121	101	2	120	19	139	3.017E-02	76
+DESULFOASV1_0395_response_regulator	AF-Q5SJ58-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5SJ58-F1-model_v4 O-acetyl-L-homoserine sulfhydrylase 2	0.057	99	91	2	98	95	193	3.938E-02	76
+DESULFOASV1_0395_response_regulator	AF-Q57690-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q57690-F1-model_v4 Anthranilate synthase component 2	0.211	82	62	1	82	2	80	3.684E-02	74
+DESULFOASV1_0395_response_regulator	AF-Q8PXF0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8PXF0-F1-model_v4 GMP synthase [glutamine-hydrolyzing] subunit A	0.141	95	70	2	96	3	84	2.312E-02	73
+DESULFOASV1_0395_response_regulator	AF-B9KL69-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9KL69-F1-model_v4 Hydroxyethylthiazole kinase	0.112	103	88	2	101	15	117	7.664E-02	73
+DESULFOASV1_0395_response_regulator	AF-Q9UZQ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9UZQ4-F1-model_v4 Hydroxyethylthiazole kinase	0.145	103	84	3	101	15	117	5.494E-02	73
+DESULFOASV1_0395_response_regulator	AF-Q8U191-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8U191-F1-model_v4 Hydroxyethylthiazole kinase	0.154	119	96	3	117	15	133	3.684E-02	73
+DESULFOASV1_0395_response_regulator	AF-Q6FAS9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6FAS9-F1-model_v4 Hydroxyethylthiazole kinase	0.103	141	105	2	119	22	162	2.823E-02	73
+DESULFOASV1_0395_response_regulator	AF-Q55DV9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q55DV9-F1-model_v4 Cystathionine gamma-lyase	0.127	86	71	2	83	94	179	1.771E-02	73
+DESULFOASV1_0395_response_regulator	AF-B9J7L1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9J7L1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.172	82	66	1	82	6	86	4.499E-02	73
+DESULFOASV1_0395_response_regulator	AF-B3Q1Q5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B3Q1Q5-F1-model_v4 Hydroxyethylthiazole kinase	0.084	103	91	2	101	9	111	7.664E-02	72
+DESULFOASV1_0395_response_regulator	AF-B5Z7K9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5Z7K9-F1-model_v4 Hydroxyethylthiazole kinase	0.134	94	81	3	96	11	104	1.069E-01	72
+DESULFOASV1_0395_response_regulator	AF-Q3J061-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3J061-F1-model_v4 Hydroxyethylthiazole kinase	0.112	103	88	2	101	15	117	8.192E-02	72
+DESULFOASV1_0395_response_regulator	AF-A0AFC3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0AFC3-F1-model_v4 Hydroxyethylthiazole kinase	0.108	95	83	3	96	14	108	3.225E-02	72
+DESULFOASV1_0395_response_regulator	AF-P52937-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P52937-F1-model_v4 Stage 0 sporulation protein A homolog	0.224	58	44	63	120	3	60	2.903E-01	71
+DESULFOASV1_0395_response_regulator	AF-Q46E00-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q46E00-F1-model_v4 GMP synthase [glutamine-hydrolyzing] subunit A	0.151	95	69	2	96	3	84	3.225E-02	71
+DESULFOASV1_0395_response_regulator	AF-B2UP55-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2UP55-F1-model_v4 Hydroxyethylthiazole kinase	0.112	104	88	2	101	22	125	1.069E-01	71
+DESULFOASV1_0395_response_regulator	AF-Q466J4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q466J4-F1-model_v4 Hydroxyethylthiazole kinase	0.104	95	83	3	96	12	106	7.664E-02	70
+DESULFOASV1_0395_response_regulator	AF-B6A3G5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B6A3G5-F1-model_v4 Hydroxyethylthiazole kinase	0.074	103	92	2	101	18	120	9.359E-02	70
+DESULFOASV1_0395_response_regulator	AF-Q2K0X8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2K0X8-F1-model_v4 Hydroxyethylthiazole kinase	0.070	95	87	2	96	9	103	1.000E-01	69
+DESULFOASV1_0395_response_regulator	AF-Q1ASC4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1ASC4-F1-model_v4 Hydroxyethylthiazole kinase	0.093	104	89	3	101	14	117	7.170E-02	69
+DESULFOASV1_0395_response_regulator	AF-Q1M5U3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1M5U3-F1-model_v4 Hydroxyethylthiazole kinase	0.076	103	91	2	101	18	120	1.704E-01	69
+DESULFOASV1_0395_response_regulator	AF-P57931-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P57931-F1-model_v4 Hydroxyethylthiazole kinase	0.082	94	84	3	95	14	107	6.708E-02	69
+DESULFOASV1_0395_response_regulator	AF-Q312G9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q312G9-F1-model_v4 Hydroxyethylthiazole kinase	0.138	94	80	2	95	18	111	7.664E-02	68
+DESULFOASV1_0395_response_regulator	AF-Q2NGH3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2NGH3-F1-model_v4 Hydroxyethylthiazole kinase 1	0.083	95	85	3	96	20	114	1.069E-01	68
+DESULFOASV1_0395_response_regulator	AF-A1WVM6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1WVM6-F1-model_v4 8-amino-7-oxononanoate synthase	0.113	82	71	2	83	129	209	3.938E-02	68
+DESULFOASV1_0395_response_regulator	AF-Q57233-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q57233-F1-model_v4 Hydroxyethylthiazole kinase	0.061	94	86	3	95	15	108	8.192E-02	67
+DESULFOASV1_0395_response_regulator	AF-B1HX32-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1HX32-F1-model_v4 Hydroxyethylthiazole kinase	0.114	95	82	3	96	10	104	1.221E-01	66
+DESULFOASV1_0395_response_regulator	AF-A6UPE5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6UPE5-F1-model_v4 Hydroxyethylthiazole kinase	0.164	95	76	2	96	15	106	1.000E-01	66
+DESULFOASV1_0395_response_regulator	AF-B8FJW2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8FJW2-F1-model_v4 Hydroxyethylthiazole kinase	0.113	94	82	3	95	18	111	9.359E-02	66
+DESULFOASV1_0395_response_regulator	AF-Q9LIQ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9LIQ4-F1-model_v4 Hydroxyethylthiazole kinase	0.090	103	90	2	101	25	127	1.594E-01	66
+DESULFOASV1_0395_response_regulator	AF-B4R9R7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B4R9R7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.130	81	69	2	82	7	86	7.664E-02	66
+DESULFOASV1_0395_response_regulator	AF-Q8PS50-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8PS50-F1-model_v4 Hydroxyethylthiazole kinase	0.092	94	84	3	96	13	106	1.821E-01	65
+DESULFOASV1_0395_response_regulator	AF-A4WQ25-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4WQ25-F1-model_v4 Hydroxyethylthiazole kinase	0.112	103	88	2	101	15	117	1.947E-01	65
+DESULFOASV1_0395_response_regulator	AF-A6TMN6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6TMN6-F1-model_v4 Hydroxyethylthiazole kinase	0.093	95	84	3	96	18	112	1.704E-01	65
+DESULFOASV1_0395_response_regulator	AF-Q2NGG1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2NGG1-F1-model_v4 Hydroxyethylthiazole kinase 2	0.060	96	86	5	96	18	113	1.000E-01	65
+DESULFOASV1_0395_response_regulator	AF-B8J4C1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8J4C1-F1-model_v4 Hydroxyethylthiazole kinase	0.063	94	87	3	96	15	108	1.395E-01	65
+DESULFOASV1_0395_response_regulator	AF-Q59829-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q59829-F1-model_v4 Putative cystathionine gamma-lyase	0.180	97	79	2	98	111	207	1.492E-01	65
+DESULFOASV1_0395_response_regulator	AF-Q6GEY3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6GEY3-F1-model_v4 Hydroxyethylthiazole kinase	0.101	95	84	3	96	11	105	8.192E-02	64
+DESULFOASV1_0395_response_regulator	AF-C3L062-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C3L062-F1-model_v4 Hydroxyethylthiazole kinase 1	0.102	95	84	2	96	14	107	2.081E-01	64
+DESULFOASV1_0395_response_regulator	AF-A5I421-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5I421-F1-model_v4 Hydroxyethylthiazole kinase 2	0.131	95	81	3	96	11	105	9.359E-02	64
+DESULFOASV1_0395_response_regulator	AF-Q0AZ87-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0AZ87-F1-model_v4 Hydroxyethylthiazole kinase	0.126	98	82	3	97	17	114	1.594E-01	64
+DESULFOASV1_0395_response_regulator	AF-P64296-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P64296-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.174	91	74	1	91	6	95	5.494E-02	64
+DESULFOASV1_0395_response_regulator	AF-A6M1W7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6M1W7-F1-model_v4 Hydroxyethylthiazole kinase	0.127	94	79	3	96	20	110	1.069E-01	63
+DESULFOASV1_0395_response_regulator	AF-A5IPX0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5IPX0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.172	81	65	2	82	7	86	7.664E-02	63
+DESULFOASV1_0395_response_regulator	AF-Q6G5J3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6G5J3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.161	88	72	1	88	5	91	1.395E-01	63
+DESULFOASV1_0395_response_regulator	AF-Q2KDG7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2KDG7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.179	83	67	1	82	4	86	1.143E-01	63
+DESULFOASV1_0395_response_regulator	AF-Q03YX1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q03YX1-F1-model_v4 Hydroxyethylthiazole kinase 1	0.114	93	81	3	95	10	101	9.359E-02	62
+DESULFOASV1_0395_response_regulator	AF-Q4QNC8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4QNC8-F1-model_v4 Hydroxyethylthiazole kinase	0.052	94	87	3	95	15	108	2.224E-01	62
+DESULFOASV1_0395_response_regulator	AF-A8ZV98-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8ZV98-F1-model_v4 Hydroxyethylthiazole kinase	0.092	103	89	3	101	22	124	1.947E-01	62
+DESULFOASV1_0395_response_regulator	AF-A7GAL1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7GAL1-F1-model_v4 Hydroxyethylthiazole kinase 1	0.103	94	83	3	96	15	107	2.903E-01	61
+DESULFOASV1_0395_response_regulator	AF-A7GFJ3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7GFJ3-F1-model_v4 Hydroxyethylthiazole kinase 2	0.117	95	82	3	96	11	105	1.000E-01	61
+DESULFOASV1_0395_response_regulator	AF-C3KZ28-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C3KZ28-F1-model_v4 Hydroxyethylthiazole kinase 2	0.117	95	82	3	96	11	105	1.000E-01	61
+DESULFOASV1_0395_response_regulator	AF-A5UUL2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5UUL2-F1-model_v4 Hydroxyethylthiazole kinase	0.106	94	80	3	96	19	109	1.704E-01	61
+DESULFOASV1_0395_response_regulator	AF-Q6AQZ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6AQZ6-F1-model_v4 Hydroxyethylthiazole kinase	0.125	95	81	3	96	19	113	2.541E-01	61
+DESULFOASV1_0395_response_regulator	AF-Q49UU9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q49UU9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.173	82	66	1	82	6	86	9.359E-02	61
+DESULFOASV1_0395_response_regulator	AF-A7WY93-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7WY93-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.170	82	66	1	82	6	86	1.069E-01	61
+DESULFOASV1_0395_response_regulator	AF-Q577H0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q577H0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.188	80	63	3	82	8	86	1.947E-01	61
+DESULFOASV1_0395_response_regulator	AF-A5UA73-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5UA73-F1-model_v4 Hydroxyethylthiazole kinase	0.052	94	87	3	95	13	106	2.716E-01	60
+DESULFOASV1_0395_response_regulator	AF-B0KBA7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0KBA7-F1-model_v4 Hydroxyethylthiazole kinase	0.084	94	84	3	95	13	106	2.541E-01	60
+DESULFOASV1_0395_response_regulator	AF-B1IHH3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1IHH3-F1-model_v4 Hydroxyethylthiazole kinase 2	0.131	95	81	3	96	11	105	1.492E-01	60
+DESULFOASV1_0395_response_regulator	AF-A3P5E2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3P5E2-F1-model_v4 Hydroxyethylthiazole kinase	0.081	104	91	2	101	22	125	2.903E-01	60
+DESULFOASV1_0395_response_regulator	AF-Q2YVL5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2YVL5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.174	91	74	1	91	6	95	1.000E-01	60
+DESULFOASV1_0395_response_regulator	AF-A1KRY5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1KRY5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.193	82	64	1	82	2	81	1.143E-01	60
+DESULFOASV1_0395_response_regulator	AF-Q3SQP4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3SQP4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.161	90	74	2	91	22	110	1.704E-01	60
+DESULFOASV1_0395_response_regulator	AF-A4IN26-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4IN26-F1-model_v4 Hydroxyethylthiazole kinase	0.115	94	80	3	96	18	108	1.492E-01	59
+DESULFOASV1_0395_response_regulator	AF-A8FIR7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8FIR7-F1-model_v4 Hydroxyethylthiazole kinase	0.094	94	83	3	95	17	110	2.903E-01	59
+DESULFOASV1_0395_response_regulator	AF-Q3IP35-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3IP35-F1-model_v4 Hydroxyethylthiazole kinase	0.072	93	85	2	94	21	113	2.903E-01	59
+DESULFOASV1_0395_response_regulator	AF-Q2G0Y6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2G0Y6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.170	82	66	1	82	6	86	1.395E-01	59
+DESULFOASV1_0395_response_regulator	AF-Q4L386-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4L386-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.170	82	66	1	82	6	86	1.395E-01	59
+DESULFOASV1_0395_response_regulator	AF-Q9JXR2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9JXR2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.182	82	65	1	82	2	81	8.756E-02	59
+DESULFOASV1_0395_response_regulator	AF-A9M138-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9M138-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.182	82	65	1	82	2	81	8.192E-02	59
+DESULFOASV1_0395_response_regulator	AF-P33747-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P33747-F1-model_v4 Uncharacterized protein CA_P0160	0.162	83	68	2	83	257	339	2.224E-01	59
+DESULFOASV1_0395_response_regulator	AF-P06558-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P06558-F1-model_v4 Anthranilate synthase component 2	0.144	82	68	1	82	1	80	9.359E-02	58
+DESULFOASV1_0395_response_regulator	AF-A7FVR9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7FVR9-F1-model_v4 Hydroxyethylthiazole kinase 2	0.127	95	81	3	96	11	105	1.492E-01	58
+DESULFOASV1_0395_response_regulator	AF-Q0TQV3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0TQV3-F1-model_v4 Hydroxyethylthiazole kinase	0.117	93	81	3	95	9	101	1.821E-01	58
+DESULFOASV1_0395_response_regulator	AF-Q9RYH5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9RYH5-F1-model_v4 Kynureninase	0.144	108	91	2	108	125	232	1.492E-01	58
+DESULFOASV1_0395_response_regulator	AF-Q8NY69-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8NY69-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.170	82	66	1	82	6	86	1.594E-01	58
+DESULFOASV1_0395_response_regulator	AF-B9DLM7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9DLM7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.168	90	73	2	91	7	95	7.664E-02	58
+DESULFOASV1_0395_response_regulator	AF-Q9JW60-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9JW60-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.193	82	64	1	82	2	81	1.594E-01	58
+DESULFOASV1_0395_response_regulator	AF-A4XY17-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4XY17-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.144	89	74	2	89	7	95	8.192E-02	58
+DESULFOASV1_0395_response_regulator	AF-B1KW01-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1KW01-F1-model_v4 Hydroxyethylthiazole kinase 1	0.107	95	83	3	96	11	105	1.594E-01	57
+DESULFOASV1_0395_response_regulator	AF-B9E8Y0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9E8Y0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.153	81	67	2	82	7	86	1.594E-01	57
+DESULFOASV1_0395_response_regulator	AF-B0KRE6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0KRE6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.164	89	73	2	89	7	95	9.359E-02	57
+DESULFOASV1_0395_response_regulator	AF-B2GBV7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2GBV7-F1-model_v4 Hydroxyethylthiazole kinase	0.114	93	82	3	95	12	104	2.541E-01	56
+DESULFOASV1_0395_response_regulator	AF-A4VUB1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4VUB1-F1-model_v4 Hydroxyethylthiazole kinase	0.115	94	80	3	96	10	100	2.541E-01	56
+DESULFOASV1_0395_response_regulator	AF-Q8XKQ7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8XKQ7-F1-model_v4 Hydroxyethylthiazole kinase	0.106	94	83	2	95	8	101	2.716E-01	56
+DESULFOASV1_0395_response_regulator	AF-A8M9N5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8M9N5-F1-model_v4 Hydroxyethylthiazole kinase	0.092	95	84	3	96	18	112	3.545E-01	56
+DESULFOASV1_0395_response_regulator	AF-B5Y6I0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5Y6I0-F1-model_v4 Hydroxyethylthiazole kinase	0.093	100	86	3	98	20	119	3.316E-01	56
+DESULFOASV1_0395_response_regulator	AF-A5ULP3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5ULP3-F1-model_v4 Hydroxyethylthiazole kinase	0.052	94	87	3	95	22	115	4.626E-01	56
+DESULFOASV1_0395_response_regulator	AF-B8DSX7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8DSX7-F1-model_v4 Hydroxyethylthiazole kinase	0.086	79	70	3	81	39	116	3.789E-01	56
+DESULFOASV1_0395_response_regulator	AF-A8Z0R1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8Z0R1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.170	82	66	1	82	6	86	2.081E-01	56
+DESULFOASV1_0395_response_regulator	AF-Q5HIQ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HIQ6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.148	81	67	2	82	7	86	1.704E-01	56
+DESULFOASV1_0395_response_regulator	AF-Q5HRX1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5HRX1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.159	82	67	1	82	6	86	2.081E-01	56
+DESULFOASV1_0395_response_regulator	AF-Q88P21-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q88P21-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.136	81	68	2	82	7	86	1.492E-01	56
+DESULFOASV1_0395_response_regulator	AF-Q0A9W8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0A9W8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.142	81	68	2	82	7	86	1.221E-01	56
+DESULFOASV1_0395_response_regulator	AF-B1MX61-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1MX61-F1-model_v4 Hydroxyethylthiazole kinase	0.080	94	86	3	96	10	103	3.545E-01	55
+DESULFOASV1_0395_response_regulator	AF-B5ET96-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5ET96-F1-model_v4 Hydroxyethylthiazole kinase	0.095	104	91	3	103	17	120	4.328E-01	55
+DESULFOASV1_0395_response_regulator	AF-Q2A3D4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2A3D4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.150	90	74	4	93	8	95	8.192E-02	55
+DESULFOASV1_0395_response_regulator	AF-Q6G197-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6G197-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.147	82	68	1	81	3	84	3.103E-01	55
+DESULFOASV1_0395_response_regulator	AF-Q5F4X9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5F4X9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.161	82	66	1	82	2	81	2.377E-01	55
+DESULFOASV1_0395_response_regulator	AF-Q2P3Q9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2P3Q9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.136	79	67	4	82	8	85	1.821E-01	55
+DESULFOASV1_0395_response_regulator	AF-Q48LY0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q48LY0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.154	89	74	2	89	7	95	1.221E-01	55
+DESULFOASV1_0395_response_regulator	AF-Q1I5K9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1I5K9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.164	90	74	2	91	7	95	1.395E-01	55
+DESULFOASV1_0395_response_regulator	AF-A5VZC3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5VZC3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.164	90	74	2	91	7	95	1.395E-01	55
+DESULFOASV1_0395_response_regulator	AF-Q2T5T2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2T5T2-F1-model_v4 Hydroxyethylthiazole kinase	0.088	96	86	2	96	22	117	4.626E-01	54
+DESULFOASV1_0395_response_regulator	AF-A7ZA59-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7ZA59-F1-model_v4 Hydroxyethylthiazole kinase	0.114	94	80	3	96	17	107	1.947E-01	54
+DESULFOASV1_0395_response_regulator	AF-B8I3J5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8I3J5-F1-model_v4 Hydroxyethylthiazole kinase	0.148	93	78	3	95	19	111	4.945E-01	54
+DESULFOASV1_0395_response_regulator	AF-Q6LPQ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6LPQ4-F1-model_v4 Hydroxyethylthiazole kinase	0.112	104	89	3	103	23	126	3.789E-01	54
+DESULFOASV1_0395_response_regulator	AF-A3NJS6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3NJS6-F1-model_v4 Hydroxyethylthiazole kinase	0.104	95	82	2	96	22	113	4.050E-01	54
+DESULFOASV1_0395_response_regulator	AF-Q8YBL2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8YBL2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.174	80	64	3	82	8	86	2.716E-01	54
+DESULFOASV1_0395_response_regulator	AF-Q3SI29-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3SI29-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.125	82	70	1	82	1	81	1.947E-01	54
+DESULFOASV1_0395_response_regulator	AF-Q8FWT4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8FWT4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.162	80	65	3	82	8	86	2.377E-01	54
+DESULFOASV1_0395_response_regulator	AF-B2SLG1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2SLG1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.151	81	67	2	82	6	85	3.545E-01	54
+DESULFOASV1_0395_response_regulator	AF-Q1QKC3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1QKC3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.153	90	75	2	91	22	110	3.545E-01	54
+DESULFOASV1_0395_response_regulator	AF-Q5F584-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5F584-F1-model_v4 Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	0.100	102	86	2	103	297	393	2.081E-01	54
+DESULFOASV1_0395_response_regulator	AF-Q8TMD5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8TMD5-F1-model_v4 Hydroxyethylthiazole kinase	0.072	95	86	3	96	12	106	5.649E-01	53
+DESULFOASV1_0395_response_regulator	AF-C1FR28-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C1FR28-F1-model_v4 Hydroxyethylthiazole kinase 2	0.120	95	82	3	96	11	105	2.903E-01	53
+DESULFOASV1_0395_response_regulator	AF-Q8CMQ8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8CMQ8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.159	82	67	1	82	6	86	2.903E-01	53
+DESULFOASV1_0395_response_regulator	AF-C3LT21-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C3LT21-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.140	88	74	3	89	8	95	1.069E-01	53
+DESULFOASV1_0395_response_regulator	AF-C3K1K0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C3K1K0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.154	89	74	2	89	7	95	1.704E-01	53
+DESULFOASV1_0395_response_regulator	AF-Q47WD1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q47WD1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.123	87	75	4	89	9	95	1.947E-01	53
+DESULFOASV1_0395_response_regulator	AF-A3D6V2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3D6V2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.113	79	68	4	82	8	85	2.541E-01	53
+DESULFOASV1_0395_response_regulator	AF-B1JDH6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1JDH6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.164	90	74	2	91	7	95	1.821E-01	53
+DESULFOASV1_0395_response_regulator	AF-A6SZM5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6SZM5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.147	91	75	1	89	1	91	1.306E-01	53
+DESULFOASV1_0395_response_regulator	AF-A7FPT1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7FPT1-F1-model_v4 Hydroxyethylthiazole kinase 1	0.103	94	83	3	96	15	107	7.881E-01	52
+DESULFOASV1_0395_response_regulator	AF-Q0STA0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0STA0-F1-model_v4 Hydroxyethylthiazole kinase	0.123	94	82	2	95	8	101	7.374E-01	52
+DESULFOASV1_0395_response_regulator	AF-Q3JME7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3JME7-F1-model_v4 Hydroxyethylthiazole kinase	0.090	95	83	2	96	22	113	4.328E-01	52
+DESULFOASV1_0395_response_regulator	AF-Q63L73-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q63L73-F1-model_v4 Hydroxyethylthiazole kinase	0.080	95	84	2	96	22	113	4.050E-01	52
+DESULFOASV1_0395_response_regulator	AF-Q987R3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q987R3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.127	80	68	3	82	8	86	4.050E-01	52
+DESULFOASV1_0395_response_regulator	AF-A4G4U7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4G4U7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.156	91	76	1	91	1	91	1.395E-01	52
+DESULFOASV1_0395_response_regulator	AF-Q9CG46-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9CG46-F1-model_v4 Hydroxyethylthiazole kinase	0.080	93	84	3	95	11	102	4.328E-01	51
+DESULFOASV1_0395_response_regulator	AF-Q87S07-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q87S07-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.140	88	74	3	89	8	95	1.395E-01	51
+DESULFOASV1_0395_response_regulator	AF-A5F3F1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5F3F1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.140	88	74	3	89	8	95	1.395E-01	51
+DESULFOASV1_0395_response_regulator	AF-P44335-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P44335-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	1.306E-01	51
+DESULFOASV1_0395_response_regulator	AF-Q3K7D0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3K7D0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.140	89	75	2	89	7	95	1.704E-01	51
+DESULFOASV1_0395_response_regulator	AF-A4YSU1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4YSU1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.177	81	65	2	82	22	101	3.789E-01	51
+DESULFOASV1_0395_response_regulator	AF-A5HYZ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5HYZ4-F1-model_v4 Hydroxyethylthiazole kinase 1	0.102	95	84	2	96	14	107	1.029E+00	50
+DESULFOASV1_0395_response_regulator	AF-B6ERB4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B6ERB4-F1-model_v4 Hydroxyethylthiazole kinase	0.095	104	91	3	103	17	120	7.881E-01	50
+DESULFOASV1_0395_response_regulator	AF-B9JK65-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9JK65-F1-model_v4 Hydroxyethylthiazole kinase	0.072	103	92	2	101	19	121	4.945E-01	50
+DESULFOASV1_0395_response_regulator	AF-Q4ZX09-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4ZX09-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.144	89	74	2	89	7	95	2.377E-01	50
+DESULFOASV1_0395_response_regulator	AF-B2TQ14-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2TQ14-F1-model_v4 Hydroxyethylthiazole kinase	0.061	95	87	3	96	20	114	9.004E-01	49
+DESULFOASV1_0395_response_regulator	AF-B1ZNB4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1ZNB4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.126	82	70	1	82	1	81	3.789E-01	49
+DESULFOASV1_0395_response_regulator	AF-A7MU26-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7MU26-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.140	88	74	3	89	8	95	1.947E-01	49
+DESULFOASV1_0395_response_regulator	AF-B0USI5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0USI5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	3.316E-01	49
+DESULFOASV1_0395_response_regulator	AF-B8F3T2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8F3T2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	79	67	4	82	8	85	3.789E-01	49
+DESULFOASV1_0395_response_regulator	AF-Q4K6W4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4K6W4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.130	89	76	2	89	7	95	2.224E-01	49
+DESULFOASV1_0395_response_regulator	AF-Q7NSG1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7NSG1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.150	82	66	1	82	1	79	4.328E-01	49
+DESULFOASV1_0395_response_regulator	AF-B0V782-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0V782-F1-model_v4 Hydroxyethylthiazole kinase	0.111	96	83	3	96	22	117	7.374E-01	48
+DESULFOASV1_0395_response_regulator	AF-B0S0S7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0S0S7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.155	91	75	1	91	2	91	2.224E-01	48
+DESULFOASV1_0395_response_regulator	AF-Q74LF7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q74LF7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.177	81	65	2	82	9	88	4.328E-01	48
+DESULFOASV1_0395_response_regulator	AF-Q82XZ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q82XZ6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.087	82	73	1	82	1	81	3.789E-01	48
+DESULFOASV1_0395_response_regulator	AF-B7IAM8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7IAM8-F1-model_v4 Hydroxyethylthiazole kinase	0.101	96	85	2	96	22	117	1.175E+00	47
+DESULFOASV1_0395_response_regulator	AF-E4QHI6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-E4QHI6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.131	81	69	2	82	3	82	4.945E-01	47
+DESULFOASV1_0395_response_regulator	AF-B4RJH7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B4RJH7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.182	82	65	1	82	2	81	4.050E-01	47
+DESULFOASV1_0395_response_regulator	AF-A6VMR9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6VMR9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	79	67	4	82	8	85	2.903E-01	47
+DESULFOASV1_0395_response_regulator	AF-B6J7Z4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B6J7Z4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.109	79	69	4	82	9	86	3.316E-01	47
+DESULFOASV1_0395_response_regulator	AF-A1SYT6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1SYT6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.140	88	74	3	89	8	95	2.716E-01	47
+DESULFOASV1_0395_response_regulator	AF-Q470G4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q470G4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.147	91	76	1	91	1	90	3.316E-01	47
+DESULFOASV1_0395_response_regulator	AF-B7H160-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7H160-F1-model_v4 Hydroxyethylthiazole kinase	0.112	96	83	3	96	22	117	1.029E+00	46
+DESULFOASV1_0395_response_regulator	AF-Q7MNE1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7MNE1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.140	88	74	3	89	8	95	3.103E-01	46
+DESULFOASV1_0395_response_regulator	AF-Q8DF07-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8DF07-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.131	80	68	3	82	8	86	4.050E-01	46
+DESULFOASV1_0395_response_regulator	AF-A3MZV8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3MZV8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	79	68	4	82	8	85	3.789E-01	46
+DESULFOASV1_0395_response_regulator	AF-Q4QNW4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q4QNW4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	79	67	4	82	8	85	3.316E-01	46
+DESULFOASV1_0395_response_regulator	AF-A5UG27-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5UG27-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	79	67	4	82	8	85	3.545E-01	46
+DESULFOASV1_0395_response_regulator	AF-Q0I2D2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0I2D2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.144	79	66	4	82	8	85	5.285E-01	46
+DESULFOASV1_0395_response_regulator	AF-A5UAR3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5UAR3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.144	79	66	4	82	8	85	5.285E-01	46
+DESULFOASV1_0395_response_regulator	AF-Q886X5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q886X5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.147	81	67	2	82	7	86	5.649E-01	46
+DESULFOASV1_0395_response_regulator	AF-Q212S9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q212S9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.177	90	72	2	91	22	110	6.038E-01	46
+DESULFOASV1_0395_response_regulator	AF-Q8UAS9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8UAS9-F1-model_v4 Probable hydroxyethylthiazole kinase	0.094	103	89	3	101	22	124	1.435E+00	45
+DESULFOASV1_0395_response_regulator	AF-A3M6H8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3M6H8-F1-model_v4 Hydroxyethylthiazole kinase	0.100	96	85	2	96	22	117	1.343E+00	45
+DESULFOASV1_0395_response_regulator	AF-Q0BLV0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0BLV0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.160	90	73	4	93	8	95	4.328E-01	45
+DESULFOASV1_0395_response_regulator	AF-Q0ADW4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0ADW4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	91	79	1	91	1	90	5.649E-01	45
+DESULFOASV1_0395_response_regulator	AF-A1K5U3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1K5U3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.131	82	70	1	82	2	82	9.624E-01	45
+DESULFOASV1_0395_response_regulator	AF-Q7VLE9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7VLE9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	79	67	4	82	8	85	6.899E-01	45
+DESULFOASV1_0395_response_regulator	AF-Q9CNX8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9CNX8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.122	79	68	4	82	8	85	4.328E-01	45
+DESULFOASV1_0395_response_regulator	AF-A1RHR0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1RHR0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.151	88	73	4	91	8	94	3.316E-01	45
+DESULFOASV1_0395_response_regulator	AF-A6WQP0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6WQP0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	3.103E-01	45
+DESULFOASV1_0395_response_regulator	AF-A3QCH0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3QCH0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.131	88	75	4	91	8	94	3.545E-01	45
+DESULFOASV1_0395_response_regulator	AF-A1V534-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1V534-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	91	77	1	91	1	90	3.545E-01	45
+DESULFOASV1_0395_response_regulator	AF-P60501-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P60501-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.168	91	74	1	91	26	115	4.945E-01	45
+DESULFOASV1_0395_response_regulator	AF-Q046I2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q046I2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.168	81	66	2	82	9	88	7.881E-01	44
+DESULFOASV1_0395_response_regulator	AF-B0BUF0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0BUF0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	79	68	4	82	8	85	5.285E-01	44
+DESULFOASV1_0395_response_regulator	AF-Q12PS0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q12PS0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	3.545E-01	44
+DESULFOASV1_0395_response_regulator	AF-B4EY59-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B4EY59-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.100	79	69	4	82	9	86	4.945E-01	44
+DESULFOASV1_0395_response_regulator	AF-A7MGU1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A7MGU1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.113	87	75	4	89	9	95	6.899E-01	44
+DESULFOASV1_0395_response_regulator	AF-Q5QWW5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5QWW5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.151	87	72	4	89	9	95	3.316E-01	44
+DESULFOASV1_0395_response_regulator	AF-Q2NS52-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q2NS52-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.113	87	75	4	89	9	95	6.899E-01	44
+DESULFOASV1_0395_response_regulator	AF-Q14HJ0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q14HJ0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.145	90	74	4	93	8	95	4.945E-01	43
+DESULFOASV1_0395_response_regulator	AF-B6IZE2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B6IZE2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.139	79	66	4	82	9	86	7.881E-01	43
+DESULFOASV1_0395_response_regulator	AF-A8H254-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8H254-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	4.328E-01	43
+DESULFOASV1_0395_response_regulator	AF-Q15R63-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q15R63-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.120	88	76	3	89	8	95	4.626E-01	43
+DESULFOASV1_0395_response_regulator	AF-Q9HXM6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q9HXM6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.130	90	77	2	91	7	95	6.038E-01	43
+DESULFOASV1_0395_response_regulator	AF-A8FY04-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8FY04-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.125	79	67	4	82	8	85	9.624E-01	43
+DESULFOASV1_0395_response_regulator	AF-B8CKS4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8CKS4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.123	87	75	4	89	8	94	7.374E-01	43
+DESULFOASV1_0395_response_regulator	AF-A4SM23-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4SM23-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	4.626E-01	43
+DESULFOASV1_0395_response_regulator	AF-A9KGD5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9KGD5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.139	79	66	4	82	9	86	8.424E-01	42
+DESULFOASV1_0395_response_regulator	AF-A9N8L6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9N8L6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.100	79	69	4	82	9	86	1.175E+00	42
+DESULFOASV1_0395_response_regulator	AF-A0KUK2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0KUK2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	5.285E-01	42
+DESULFOASV1_0395_response_regulator	AF-Q1LSJ1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1LSJ1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.094	80	71	3	82	8	86	1.752E+00	42
+DESULFOASV1_0395_response_regulator	AF-Q1H280-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1H280-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.102	82	72	1	82	1	81	6.454E-01	42
+DESULFOASV1_0395_response_regulator	AF-A0KJS0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A0KJS0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.120	87	75	4	89	9	95	7.881E-01	42
+DESULFOASV1_0395_response_regulator	AF-A8AD80-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8AD80-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	6.038E-01	41
+DESULFOASV1_0395_response_regulator	AF-Q31XY3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q31XY3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	1.099E+00	41
+DESULFOASV1_0395_response_regulator	AF-A8GHV1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A8GHV1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	6.454E-01	41
+DESULFOASV1_0395_response_regulator	AF-A9KWW6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9KWW6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	6.454E-01	41
+DESULFOASV1_0395_response_regulator	AF-A3NAR3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A3NAR3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	91	77	1	91	1	90	6.899E-01	41
+DESULFOASV1_0395_response_regulator	AF-Q5NYE5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5NYE5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.117	90	78	1	89	2	91	6.899E-01	40
+DESULFOASV1_0395_response_regulator	AF-Q3YZ45-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q3YZ45-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	1.256E+00	40
+DESULFOASV1_0395_response_regulator	AF-B4TD82-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B4TD82-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	6.899E-01	40
+DESULFOASV1_0395_response_regulator	AF-A2RKJ5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A2RKJ5-F1-model_v4 Hydroxyethylthiazole kinase	0.110	94	79	3	96	11	100	1.534E+00	39
+DESULFOASV1_0395_response_regulator	AF-Q6NH15-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q6NH15-F1-model_v4 Carbamoyl-phosphate synthase small chain	0.098	80	69	3	82	186	263	4.945E-01	39
+DESULFOASV1_0395_response_regulator	AF-B7LKD4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7LKD4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	1.435E+00	39
+DESULFOASV1_0395_response_regulator	AF-A9N218-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9N218-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	9.004E-01	39
+DESULFOASV1_0395_response_regulator	AF-B5R569-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5R569-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	8.424E-01	39
+DESULFOASV1_0395_response_regulator	AF-C0PYP4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-C0PYP4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	8.424E-01	39
+DESULFOASV1_0395_response_regulator	AF-A9MHM5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A9MHM5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	9.004E-01	39
+DESULFOASV1_0395_response_regulator	AF-B4RV80-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B4RV80-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.120	89	77	3	91	8	95	9.004E-01	39
+DESULFOASV1_0395_response_regulator	AF-B7MYD5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7MYD5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	1.343E+00	39
+DESULFOASV1_0395_response_regulator	AF-Q83BZ6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q83BZ6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.089	79	70	4	82	9	86	1.752E+00	38
+DESULFOASV1_0395_response_regulator	AF-B1JSB0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1JSB0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.100	87	77	4	89	9	95	9.624E-01	38
+DESULFOASV1_0395_response_regulator	AF-Q0T212-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0T212-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.134	87	74	4	89	9	95	2.002E+00	38
+DESULFOASV1_0395_response_regulator	AF-Q57LJ8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q57LJ8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	9.624E-01	38
+DESULFOASV1_0395_response_regulator	AF-Q83QL1-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q83QL1-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	87	73	4	89	9	95	1.534E+00	38
+DESULFOASV1_0395_response_regulator	AF-B7MHY8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7MHY8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	9.624E-01	38
+DESULFOASV1_0395_response_regulator	AF-Q8Z4Q3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8Z4Q3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	1.029E+00	38
+DESULFOASV1_0395_response_regulator	AF-B0TLJ4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0TLJ4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.133	79	67	4	82	8	85	1.175E+00	38
+DESULFOASV1_0395_response_regulator	AF-Q70LM7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q70LM7-F1-model_v4 Linear gramicidin synthase subunit A	0.153	65	53	4	68	2	65	3.410E+00	38
+DESULFOASV1_0395_response_regulator	AF-B9KD06-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9KD06-F1-model_v4 Hydroxyethylthiazole kinase	0.051	94	85	3	96	10	100	2.140E+00	37
+DESULFOASV1_0395_response_regulator	AF-A5N1D3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A5N1D3-F1-model_v4 Hydroxyethylthiazole kinase	0.091	95	85	2	96	20	113	4.451E+00	37
+DESULFOASV1_0395_response_regulator	AF-B7LCP7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7LCP7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	1.752E+00	37
+DESULFOASV1_0395_response_regulator	AF-A4TMS8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4TMS8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.100	87	77	4	89	9	95	1.175E+00	37
+DESULFOASV1_0395_response_regulator	AF-A1AE43-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A1AE43-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.175E+00	37
+DESULFOASV1_0395_response_regulator	AF-B1IWF4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1IWF4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.175E+00	37
+DESULFOASV1_0395_response_regulator	AF-Q8ZN60-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8ZN60-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.120	87	75	4	89	9	95	1.175E+00	37
+DESULFOASV1_0395_response_regulator	AF-B6I579-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B6I579-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.175E+00	37
+DESULFOASV1_0395_response_regulator	AF-B2K9P0-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2K9P0-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.100	87	77	4	89	9	95	1.175E+00	37
+DESULFOASV1_0395_response_regulator	AF-Q1C5J6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1C5J6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.100	87	77	4	89	9	95	1.175E+00	37
+DESULFOASV1_0395_response_regulator	AF-B7UGU5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7UGU5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.120	87	75	4	89	9	95	1.175E+00	36
+DESULFOASV1_0395_response_regulator	AF-B7N691-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7N691-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.343E+00	36
+DESULFOASV1_0395_response_regulator	AF-Q5PI52-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q5PI52-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	1.256E+00	36
+DESULFOASV1_0395_response_regulator	AF-Q32D55-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q32D55-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.120	87	75	4	89	9	95	1.256E+00	36
+DESULFOASV1_0395_response_regulator	AF-B4T0N7-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B4T0N7-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.343E+00	36
+DESULFOASV1_0395_response_regulator	AF-B8E9T4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B8E9T4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.131	87	74	4	89	8	94	1.175E+00	36
+DESULFOASV1_0395_response_regulator	AF-B7NQV3-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B7NQV3-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.109	79	69	4	82	9	86	1.752E+00	36
+DESULFOASV1_0395_response_regulator	AF-B5RCX9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5RCX9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	1.435E+00	36
+DESULFOASV1_0395_response_regulator	AF-Q8ZCU4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q8ZCU4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	1.343E+00	36
+DESULFOASV1_0395_response_regulator	AF-B5FR52-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5FR52-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	1.343E+00	36
+DESULFOASV1_0395_response_regulator	AF-Q668A8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q668A8-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.256E+00	36
+DESULFOASV1_0395_response_regulator	AF-P64295-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P64295-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.534E+00	35
+DESULFOASV1_0395_response_regulator	AF-Q0HX50-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q0HX50-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.141	88	74	4	91	8	94	1.435E+00	35
+DESULFOASV1_0395_response_regulator	AF-Q7N3K4-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q7N3K4-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	88	76	4	91	9	95	1.534E+00	35
+DESULFOASV1_0395_response_regulator	AF-P64294-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-P64294-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	1.534E+00	35
+DESULFOASV1_0395_response_regulator	AF-B2TXT2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2TXT2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.120	87	75	4	89	9	95	1.873E+00	34
+DESULFOASV1_0395_response_regulator	AF-B5Z0X6-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5Z0X6-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.102	87	76	4	89	9	95	2.445E+00	34
+DESULFOASV1_0395_response_regulator	AF-B1XAY2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B1XAY2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	1.752E+00	34
+DESULFOASV1_0395_response_regulator	AF-Q1CK82-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1CK82-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	1.752E+00	34
+DESULFOASV1_0395_response_regulator	AF-B9E564-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B9E564-F1-model_v4 Hydroxyethylthiazole kinase	0.091	95	85	2	96	20	113	7.583E+00	33
+DESULFOASV1_0395_response_regulator	AF-B0TZ72-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B0TZ72-F1-model_v4 UDP-N-acetylmuramoylalanine--D-glutamate ligase	0.141	95	70	2	84	11	105	1.534E+00	33
+DESULFOASV1_0395_response_regulator	AF-A6TCC2-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A6TCC2-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	2.002E+00	33
+DESULFOASV1_0395_response_regulator	AF-B5BAZ5-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B5BAZ5-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.121	87	75	4	89	9	95	2.140E+00	33
+DESULFOASV1_0395_response_regulator	AF-Q1R8M9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-Q1R8M9-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.110	87	76	4	89	9	95	2.613E+00	32
+DESULFOASV1_0395_response_regulator	AF-B2SDR8-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-B2SDR8-F1-model_v4 UDP-N-acetylmuramoylalanine--D-glutamate ligase	0.112	93	72	2	83	11	103	2.140E+00	31
+DESULFOASV1_0395_response_regulator	AF-A4WD82-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4WD82-F1-model_v4 GMP synthase [glutamine-hydrolyzing]	0.111	87	76	4	89	9	95	2.793E+00	31
+DESULFOASV1_0395_response_regulator	AF-A4IZG9-F1-model_v4	DESULFOASV1_0395_response_regulator	AF-A4IZG9-F1-model_v4 UDP-N-acetylmuramoylalanine--D-glutamate ligase	0.112	93	72	2	83	11	103	3.191E+00	29

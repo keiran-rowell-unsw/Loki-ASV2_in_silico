@@ -1,0 +1,636 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_1886_hypothetical_protein	AF-P55571-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P55571-F1-model_v4 Uncharacterized protein y4mL	0.205	459	328	104	562	3	416	1.948E-13	573
+DESULFOASV1_1886_hypothetical_protein	AF-P44993-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44993-F1-model_v4 Putative TRAP transporter large permease protein HI_1029	0.159	461	348	102	562	2	416	1.047E-13	566
+DESULFOASV1_1886_hypothetical_protein	AF-P37675-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P37675-F1-model_v4 2,3-diketo-L-gulonate TRAP transporter large permease protein YiaN	0.198	417	331	151	564	2	418	2.206E-13	566
+DESULFOASV1_1886_hypothetical_protein	AF-P40800-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P40800-F1-model_v4 Uncharacterized protein YgiK	0.170	459	344	104	562	9	424	1.519E-13	566
+DESULFOASV1_1886_hypothetical_protein	AF-Q9HU16-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9HU16-F1-model_v4 C4-dicarboxylate TRAP transporter large permease protein DctM	0.178	470	349	102	571	2	426	7.637E-13	541
+DESULFOASV1_1886_hypothetical_protein	AF-O07838-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O07838-F1-model_v4 C4-dicarboxylate TRAP transporter large permease protein DctM	0.197	461	344	102	562	2	430	1.948E-13	537
+DESULFOASV1_1886_hypothetical_protein	AF-Q9KR66-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9KR66-F1-model_v4 Sialic acid TRAP transporter large permease protein SiaM	0.192	456	330	107	562	5	414	1.109E-12	535
+DESULFOASV1_1886_hypothetical_protein	AF-P44543-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44543-F1-model_v4 Sialic acid TRAP transporter permease protein SiaT	0.142	605	456	33	564	4	608	1.167E-14	525
+DESULFOASV1_1886_hypothetical_protein	AF-Q312S1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q312S1-F1-model_v4 Isethionate TRAP transporter permease protein DctMQ	0.168	554	440	33	562	76	629	1.030E-14	519
+DESULFOASV1_1886_hypothetical_protein	AF-Q4TVS0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4TVS0-F1-model_v4 Sialic acid TRAP transporter permease protein SiaT	0.147	603	451	33	562	4	606	1.559E-14	515
+DESULFOASV1_1886_hypothetical_protein	AF-Q4QP40-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4QP40-F1-model_v4 Sialic acid TRAP transporter permease protein SiaT	0.152	564	450	33	564	45	608	1.267E-14	511
+DESULFOASV1_1886_hypothetical_protein	AF-Q9KQS1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9KQS1-F1-model_v4 C4-dicarboxylate TRAP transporter large permease protein DctM	0.180	461	357	102	562	2	437	2.150E-12	494
+DESULFOASV1_1886_hypothetical_protein	AF-Q5LUA9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5LUA9-F1-model_v4 Ectoine/5-hydroxyectoine TRAP transporter large permease protein UehC	0.170	441	341	122	562	6	417	2.096E-11	488
+DESULFOASV1_1886_hypothetical_protein	AF-P44483-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44483-F1-model_v4 Putative TRAP transporter large permease protein HI_0050	0.195	386	309	178	562	7	392	1.098E-10	470
+DESULFOASV1_1886_hypothetical_protein	AF-E1VBK3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-E1VBK3-F1-model_v4 Ectoine TRAP transporter large permease protein TeaC	0.170	459	344	104	562	3	417	6.149E-11	461
+DESULFOASV1_1886_hypothetical_protein	AF-Q57493-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q57493-F1-model_v4 Uncharacterized transporter HI_0092	0.157	432	341	124	555	8	412	5.111E-07	289
+DESULFOASV1_1886_hypothetical_protein	AF-Q8FJZ8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8FJZ8-F1-model_v4 Anaerobic C4-dicarboxylate transporter DcuC	0.129	451	389	123	570	8	458	1.815E-07	273
+DESULFOASV1_1886_hypothetical_protein	AF-P0ABP5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0ABP5-F1-model_v4 Anaerobic C4-dicarboxylate transporter DcuC	0.134	451	387	123	570	8	458	2.327E-07	265
+DESULFOASV1_1886_hypothetical_protein	AF-P0ABP3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0ABP3-F1-model_v4 Anaerobic C4-dicarboxylate transporter DcuC	0.135	440	375	123	557	8	447	1.892E-07	263
+DESULFOASV1_1886_hypothetical_protein	AF-P9WPD8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WPD8-F1-model_v4 Uncharacterized transporter MT2758	0.133	436	355	123	558	11	421	1.271E-06	262
+DESULFOASV1_1886_hypothetical_protein	AF-O05407-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O05407-F1-model_v4 Uncharacterized transporter YraO	0.156	456	358	101	556	4	428	6.552E-07	260
+DESULFOASV1_1886_hypothetical_protein	AF-P0ABP4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0ABP4-F1-model_v4 Anaerobic C4-dicarboxylate transporter DcuC	0.134	440	376	123	557	8	447	5.552E-07	258
+DESULFOASV1_1886_hypothetical_protein	AF-P45428-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P45428-F1-model_v4 Putative cryptic C4-dicarboxylate transporter DcuD	0.138	457	384	101	557	5	450	1.077E-06	256
+DESULFOASV1_1886_hypothetical_protein	AF-P9WPD7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WPD7-F1-model_v4 Uncharacterized transporter Rv2685	0.120	462	368	97	558	3	421	2.365E-06	246
+DESULFOASV1_1886_hypothetical_protein	AF-P42308-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P42308-F1-model_v4 Citrate transporter	0.161	462	348	95	556	2	417	2.908E-06	241
+DESULFOASV1_1886_hypothetical_protein	AF-P9WPD6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WPD6-F1-model_v4 Uncharacterized transporter MT2759	0.123	462	370	97	558	3	425	2.569E-06	240
+DESULFOASV1_1886_hypothetical_protein	AF-P0AC96-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AC96-F1-model_v4 Low-affinity gluconate transporter	0.131	442	380	120	557	1	442	1.844E-06	239
+DESULFOASV1_1886_hypothetical_protein	AF-P39357-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39357-F1-model_v4 Uncharacterized permease YjhF	0.139	463	379	95	557	2	442	1.380E-06	238
+DESULFOASV1_1886_hypothetical_protein	AF-P0A607-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0A607-F1-model_v4 Uncharacterized transporter Mb2703	0.128	436	358	123	558	11	421	6.657E-06	237
+DESULFOASV1_1886_hypothetical_protein	AF-P9WPD9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WPD9-F1-model_v4 Uncharacterized transporter Rv2684	0.125	436	359	123	558	11	421	6.387E-06	236
+DESULFOASV1_1886_hypothetical_protein	AF-P55069-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P55069-F1-model_v4 Mg(2+)/citrate complex secondary transporter	0.140	462	365	95	556	2	426	7.231E-06	229
+DESULFOASV1_1886_hypothetical_protein	AF-P46832-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P46832-F1-model_v4 Gluconate permease	0.167	447	371	125	571	2	447	1.140E-05	226
+DESULFOASV1_1886_hypothetical_protein	AF-P30329-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P30329-F1-model_v4 Arsenical pump membrane protein	0.144	441	366	125	565	2	429	1.050E-05	224
+DESULFOASV1_1886_hypothetical_protein	AF-O31862-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O31862-F1-model_v4 Uncharacterized permease YojA	0.149	457	368	101	557	4	437	3.160E-06	223
+DESULFOASV1_1886_hypothetical_protein	AF-P46838-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P46838-F1-model_v4 46 kDa membrane protein	0.123	462	367	97	558	3	422	1.188E-05	220
+DESULFOASV1_1886_hypothetical_protein	AF-Q6G8F6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6G8F6-F1-model_v4 Arsenical pump membrane protein	0.129	446	373	120	565	1	429	3.487E-05	220
+DESULFOASV1_1886_hypothetical_protein	AF-Q8NW09-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8NW09-F1-model_v4 Arsenical pump membrane protein	0.124	446	375	120	565	1	429	5.276E-05	218
+DESULFOASV1_1886_hypothetical_protein	AF-Q8CQF4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8CQF4-F1-model_v4 Arsenical pump membrane protein	0.151	441	363	125	565	2	429	2.122E-05	215
+DESULFOASV1_1886_hypothetical_protein	AF-P63620-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P63620-F1-model_v4 Arsenical pump membrane protein	0.123	426	367	146	565	4	429	4.470E-05	214
+DESULFOASV1_1886_hypothetical_protein	AF-Q6GFT0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6GFT0-F1-model_v4 Arsenical pump membrane protein	0.135	441	369	125	565	2	429	4.659E-05	212
+DESULFOASV1_1886_hypothetical_protein	AF-Q5HF02-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5HF02-F1-model_v4 Arsenical pump membrane protein	0.136	446	370	120	565	1	429	4.115E-05	212
+DESULFOASV1_1886_hypothetical_protein	AF-Q46892-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q46892-F1-model_v4 Inner membrane permease YgbN	0.132	470	386	101	570	8	453	4.780E-06	210
+DESULFOASV1_1886_hypothetical_protein	AF-Q5HRI3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5HRI3-F1-model_v4 Arsenical pump membrane protein	0.113	469	378	97	565	4	430	4.856E-05	209
+DESULFOASV1_1886_hypothetical_protein	AF-P63619-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P63619-F1-model_v4 Arsenical pump membrane protein	0.134	446	371	120	565	1	429	6.489E-05	207
+DESULFOASV1_1886_hypothetical_protein	AF-Q6NE56-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6NE56-F1-model_v4 Magnetosome protein MamN	0.126	460	376	98	557	2	432	1.239E-05	206
+DESULFOASV1_1886_hypothetical_protein	AF-Q5E6C7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5E6C7-F1-model_v4 Glutamine transporter 1	0.124	437	379	124	557	3	439	5.879E-06	204
+DESULFOASV1_1886_hypothetical_protein	AF-Q9ZIJ1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9ZIJ1-F1-model_v4 Gluconate permease	0.120	435	379	123	557	12	443	4.470E-05	203
+DESULFOASV1_1886_hypothetical_protein	AF-P46231-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P46231-F1-model_v4 Uncharacterized membrane protein VP2115	0.135	436	375	124	557	3	438	9.271E-06	202
+DESULFOASV1_1886_hypothetical_protein	AF-P0AC95-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AC95-F1-model_v4 High-affinity gluconate transporter	0.137	468	378	98	565	9	447	1.346E-05	202
+DESULFOASV1_1886_hypothetical_protein	AF-P39835-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39835-F1-model_v4 High-affinity gluconate transporter	0.124	457	374	101	557	4	431	4.470E-05	201
+DESULFOASV1_1886_hypothetical_protein	AF-Q41364-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q41364-F1-model_v4 Dicarboxylate transporter 1, chloroplastic	0.126	551	414	24	574	94	568	3.886E-06	201
+DESULFOASV1_1886_hypothetical_protein	AF-P0AC97-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AC97-F1-model_v4 Low-affinity gluconate transporter	0.133	442	379	120	557	1	442	2.269E-06	199
+DESULFOASV1_1886_hypothetical_protein	AF-Q9HHN1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9HHN1-F1-model_v4 Arginine/ornithine antiporter ArcD	0.136	448	384	120	565	18	465	5.412E-06	195
+DESULFOASV1_1886_hypothetical_protein	AF-Q9FMF7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9FMF7-F1-model_v4 Dicarboxylate transporter 2.1, chloroplastic	0.127	540	407	35	574	96	562	5.641E-06	194
+DESULFOASV1_1886_hypothetical_protein	AF-P08691-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P08691-F1-model_v4 Arsenical pump membrane protein	0.128	485	371	149	633	2	428	2.720E-05	192
+DESULFOASV1_1886_hypothetical_protein	AF-P0AE74-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AE74-F1-model_v4 Citrate/succinate antiporter	0.138	534	417	31	564	1	485	1.725E-05	192
+DESULFOASV1_1886_hypothetical_protein	AF-P39535-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39535-F1-model_v4 Low-affinity phosphate transporter PHO90	0.122	465	402	100	564	414	872	1.874E-05	192
+DESULFOASV1_1886_hypothetical_protein	AF-O32105-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O32105-F1-model_v4 Putative amino acid transporter YuiF	0.137	457	376	101	557	3	439	1.239E-05	191
+DESULFOASV1_1886_hypothetical_protein	AF-P0AC94-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AC94-F1-model_v4 High-affinity gluconate transporter	0.144	468	375	98	565	9	447	2.610E-05	191
+DESULFOASV1_1886_hypothetical_protein	AF-Q01255-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q01255-F1-model_v4 Arsenical pump membrane protein	0.137	446	369	120	565	1	429	1.023E-04	190
+DESULFOASV1_1886_hypothetical_protein	AF-Q9FMF8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9FMF8-F1-model_v4 Dicarboxylate transporter 2.2, chloroplastic	0.137	480	400	95	574	85	548	1.346E-05	190
+DESULFOASV1_1886_hypothetical_protein	AF-P74635-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P74635-F1-model_v4 Uncharacterized transporter slr0753	0.123	443	379	139	571	3	445	5.276E-05	189
+DESULFOASV1_1886_hypothetical_protein	AF-P39344-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39344-F1-model_v4 Gnt-II system L-idonate transporter	0.139	463	369	95	557	3	431	2.835E-05	187
+DESULFOASV1_1886_hypothetical_protein	AF-Q10SY9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q10SY9-F1-model_v4 Silicon efflux transporter LSI2	0.111	467	389	119	557	3	469	5.062E-05	187
+DESULFOASV1_1886_hypothetical_protein	AF-P75763-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P75763-F1-model_v4 Inner membrane protein YbhI	0.144	544	405	35	578	3	476	4.780E-06	187
+DESULFOASV1_1886_hypothetical_protein	AF-P39414-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39414-F1-model_v4 L-tartrate/succinate antiporter	0.143	480	393	104	563	7	486	4.115E-05	185
+DESULFOASV1_1886_hypothetical_protein	AF-Q9KLS6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9KLS6-F1-model_v4 Probable anaerobic C4-dicarboxylate transporter DcuC	0.132	492	390	66	557	2	451	3.031E-06	183
+DESULFOASV1_1886_hypothetical_protein	AF-P0AE75-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AE75-F1-model_v4 Citrate/succinate antiporter	0.144	541	413	31	571	1	483	1.725E-05	183
+DESULFOASV1_1886_hypothetical_protein	AF-Q07252-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q07252-F1-model_v4 Membrane protein	0.113	560	438	12	571	16	510	3.346E-05	181
+DESULFOASV1_1886_hypothetical_protein	AF-Q9AV23-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9AV23-F1-model_v4 Silicon efflux transporter LSI3	0.110	479	390	119	557	2	480	2.955E-05	180
+DESULFOASV1_1886_hypothetical_protein	AF-O59712-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O59712-F1-model_v4 Uncharacterized transporter C3B8.04c	0.133	534	399	31	564	404	864	2.212E-05	179
+DESULFOASV1_1886_hypothetical_protein	AF-B0R9X2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B0R9X2-F1-model_v4 Arginine/ornithine antiporter ArcD	0.136	448	384	120	565	18	465	9.271E-06	178
+DESULFOASV1_1886_hypothetical_protein	AF-Q32BQ4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q32BQ4-F1-model_v4 L-tartrate/succinate antiporter	0.123	526	420	37	562	6	485	1.725E-05	178
+DESULFOASV1_1886_hypothetical_protein	AF-O05224-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O05224-F1-model_v4 Putative arsenical pump membrane protein	0.116	471	388	97	567	2	441	1.984E-04	177
+DESULFOASV1_1886_hypothetical_protein	AF-Q9LXV3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9LXV3-F1-model_v4 Dicarboxylate transporter 1, chloroplastic	0.135	548	409	25	572	81	554	1.050E-05	175
+DESULFOASV1_1886_hypothetical_protein	AF-Q58086-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q58086-F1-model_v4 Uncharacterized transporter MJ0672	0.112	529	380	29	557	1	429	9.037E-05	174
+DESULFOASV1_1886_hypothetical_protein	AF-P71364-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P71364-F1-model_v4 Uncharacterized permease HI_1015	0.140	509	394	131	639	29	487	9.037E-05	174
+DESULFOASV1_1886_hypothetical_protein	AF-Q2W8Q3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2W8Q3-F1-model_v4 Magnetosome protein MamN	0.143	434	369	124	557	2	432	2.247E-04	172
+DESULFOASV1_1886_hypothetical_protein	AF-Q8L7Z9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8L7Z9-F1-model_v4 Dicarboxylate transporter 2, chloroplastic	0.107	565	431	7	571	78	561	1.798E-05	172
+DESULFOASV1_1886_hypothetical_protein	AF-Q8FDG7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8FDG7-F1-model_v4 L-tartrate/succinate antiporter	0.124	526	420	38	563	6	486	7.049E-05	171
+DESULFOASV1_1886_hypothetical_protein	AF-Q8Z2E3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8Z2E3-F1-model_v4 L-lactate permease	0.126	524	399	102	558	21	544	2.036E-05	171
+DESULFOASV1_1886_hypothetical_protein	AF-Q9LT68-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9LT68-F1-model_v4 Sodium/proton antiporter 1	0.127	460	355	94	553	142	549	1.023E-04	171
+DESULFOASV1_1886_hypothetical_protein	AF-P25360-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P25360-F1-model_v4 Inorganic phosphate transporter PHO87	0.118	461	403	100	557	459	919	5.499E-05	170
+DESULFOASV1_1886_hypothetical_protein	AF-P39263-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39263-F1-model_v4 Putative basic amino acid antiporter YfcC	0.130	419	345	170	566	88	506	1.613E-04	167
+DESULFOASV1_1886_hypothetical_protein	AF-Q2YU56-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2YU56-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.138	533	440	34	566	2	512	3.080E-05	167
+DESULFOASV1_1886_hypothetical_protein	AF-P27514-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P27514-F1-model_v4 Low-affinity phosphate transporter PHO91	0.145	481	408	89	566	414	894	3.635E-05	167
+DESULFOASV1_1886_hypothetical_protein	AF-P32739-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P32739-F1-model_v4 Sodium-dependent high-affinity dicarboxylate transporter 2	0.126	533	456	32	564	7	529	8.670E-05	166
+DESULFOASV1_1886_hypothetical_protein	AF-P0AB93-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AB93-F1-model_v4 Arsenical pump membrane protein	0.125	488	372	146	633	3	428	3.635E-05	165
+DESULFOASV1_1886_hypothetical_protein	AF-O07599-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O07599-F1-model_v4 Uncharacterized membrane protein YhfA	0.128	471	397	87	557	5	460	9.037E-05	165
+DESULFOASV1_1886_hypothetical_protein	AF-Q2FFH9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2FFH9-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.144	514	417	53	566	25	512	2.835E-05	163
+DESULFOASV1_1886_hypothetical_protein	AF-Q8NVS5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8NVS5-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.137	514	420	53	566	25	512	6.763E-05	162
+DESULFOASV1_1886_hypothetical_protein	AF-Q57007-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q57007-F1-model_v4 Uncharacterized Na(+)/H(+) antiporter HI_1107	0.117	532	400	25	556	4	457	6.763E-05	158
+DESULFOASV1_1886_hypothetical_protein	AF-Q5HEK4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5HEK4-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.133	537	420	30	566	28	512	9.817E-05	158
+DESULFOASV1_1886_hypothetical_protein	AF-Q21339-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q21339-F1-model_v4 Sodium-dependent high-affinity dicarboxylate transporter 3	0.115	514	412	91	556	27	540	1.613E-04	158
+DESULFOASV1_1886_hypothetical_protein	AF-Q6GFE0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6GFE0-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.135	537	419	30	566	28	512	8.670E-05	157
+DESULFOASV1_1886_hypothetical_protein	AF-Q2FWY4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2FWY4-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.136	533	441	34	566	2	512	5.499E-05	156
+DESULFOASV1_1886_hypothetical_protein	AF-Q6G816-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6G816-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.135	537	419	30	566	28	512	1.066E-04	155
+DESULFOASV1_1886_hypothetical_protein	AF-Q7A4P8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7A4P8-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.133	537	420	30	566	28	512	1.259E-04	155
+DESULFOASV1_1886_hypothetical_protein	AF-Q46839-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q46839-F1-model_v4 Glycolate permease GlcA	0.134	540	402	94	558	13	552	8.319E-05	155
+DESULFOASV1_1886_hypothetical_protein	AF-P65254-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P65254-F1-model_v4 L-lactate permease	0.120	526	405	97	557	15	540	7.347E-05	154
+DESULFOASV1_1886_hypothetical_protein	AF-Q9C6D3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9C6D3-F1-model_v4 Sodium/proton antiporter 2	0.120	458	357	96	553	2	408	8.109E-04	152
+DESULFOASV1_1886_hypothetical_protein	AF-P27611-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P27611-F1-model_v4 Na(+)/H(+) antiporter NhaC	0.125	471	383	95	565	10	448	2.764E-04	152
+DESULFOASV1_1886_hypothetical_protein	AF-Q99SX1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q99SX1-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.133	537	420	30	566	28	512	1.613E-04	152
+DESULFOASV1_1886_hypothetical_protein	AF-Q49YW0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q49YW0-F1-model_v4 Sodium-dependent dicarboxylate transporter SdcS	0.129	557	443	13	569	5	514	1.112E-04	151
+DESULFOASV1_1886_hypothetical_protein	AF-A0A0H2VAP9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A0A0H2VAP9-F1-model_v4 D-serine transporter DsdX	0.125	471	380	95	565	11	445	2.835E-05	150
+DESULFOASV1_1886_hypothetical_protein	AF-O07553-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O07553-F1-model_v4 Na(+)/H(+) antiporter NhaC	0.121	469	390	98	566	9	453	2.342E-04	149
+DESULFOASV1_1886_hypothetical_protein	AF-Q57486-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q57486-F1-model_v4 Uncharacterized transporter HI_0608	0.126	528	400	30	557	1	459	2.544E-04	149
+DESULFOASV1_1886_hypothetical_protein	AF-Q8ZL63-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8ZL63-F1-model_v4 L-lactate permease	0.125	524	399	102	558	21	544	1.207E-04	148
+DESULFOASV1_1886_hypothetical_protein	AF-P96678-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P96678-F1-model_v4 Putative arsenical pump membrane protein YdfA	0.150	434	365	122	555	1	430	4.734E-04	147
+DESULFOASV1_1886_hypothetical_protein	AF-P70545-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P70545-F1-model_v4 Solute carrier family 13 member 2	0.118	553	413	96	564	7	559	2.342E-04	143
+DESULFOASV1_1886_hypothetical_protein	AF-P54571-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P54571-F1-model_v4 Malate-2H(+)/Na(+)-lactate antiporter	0.126	460	383	97	556	10	448	3.261E-04	142
+DESULFOASV1_1886_hypothetical_protein	AF-P55908-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P55908-F1-model_v4 Uncharacterized protein YcgA	0.154	451	365	132	564	23	473	4.358E-04	141
+DESULFOASV1_1886_hypothetical_protein	AF-Q0TD43-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q0TD43-F1-model_v4 L-tartrate/succinate antiporter	0.144	480	393	104	563	7	486	1.158E-04	141
+DESULFOASV1_1886_hypothetical_protein	AF-Q8CJ44-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8CJ44-F1-model_v4 Solute carrier family 13 member 5	0.095	550	423	97	564	8	557	6.593E-04	141
+DESULFOASV1_1886_hypothetical_protein	AF-Q9BZW2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9BZW2-F1-model_v4 Solute carrier family 13 member 1	0.086	574	420	104	564	5	578	3.849E-04	141
+DESULFOASV1_1886_hypothetical_protein	AF-P44640-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44640-F1-model_v4 Uncharacterized membrane protein HI_0325	0.123	453	388	102	554	6	448	9.817E-05	139
+DESULFOASV1_1886_hypothetical_protein	AF-Q91Y63-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q91Y63-F1-model_v4 Solute carrier family 13 member 3	0.112	582	427	94	575	3	584	7.162E-04	139
+DESULFOASV1_1886_hypothetical_protein	AF-Q9Z0Z5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9Z0Z5-F1-model_v4 Solute carrier family 13 member 3	0.112	582	427	94	575	3	584	1.040E-03	138
+DESULFOASV1_1886_hypothetical_protein	AF-P0AFU3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AFU3-F1-model_v4 Uncharacterized transporter YfbS	0.093	610	403	121	565	1	610	9.181E-04	138
+DESULFOASV1_1886_hypothetical_protein	AF-Q93655-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q93655-F1-model_v4 Sodium-dependent low-affinity dicarboxylate transporter 1	0.110	551	426	91	570	7	557	4.734E-04	137
+DESULFOASV1_1886_hypothetical_protein	AF-Q39593-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q39593-F1-model_v4 Putative sulfur deprivation response regulator	0.115	577	368	150	566	8	584	5.823E-04	137
+DESULFOASV1_1886_hypothetical_protein	AF-Q8LG88-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8LG88-F1-model_v4 Tonoplast dicarboxylate transporter	0.128	504	413	90	564	32	535	1.509E-03	136
+DESULFOASV1_1886_hypothetical_protein	AF-P0AFU2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AFU2-F1-model_v4 Uncharacterized transporter YfbS	0.084	610	407	121	565	1	610	1.708E-03	136
+DESULFOASV1_1886_hypothetical_protein	AF-Q9UKG4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9UKG4-F1-model_v4 Solute carrier family 13 member 4	0.085	609	419	106	564	1	609	5.823E-04	136
+DESULFOASV1_1886_hypothetical_protein	AF-Q28615-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q28615-F1-model_v4 Solute carrier family 13 member 2	0.117	560	412	97	564	8	567	1.129E-03	135
+DESULFOASV1_1886_hypothetical_protein	AF-Q9JHI4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9JHI4-F1-model_v4 Solute carrier family 13 member 1	0.100	575	417	101	564	3	577	7.162E-04	134
+DESULFOASV1_1886_hypothetical_protein	AF-P76460-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P76460-F1-model_v4 Putative short-chain fatty acid transporter	0.137	435	367	128	553	2	436	2.585E-03	132
+DESULFOASV1_1886_hypothetical_protein	AF-Q9K5Z9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9K5Z9-F1-model_v4 L-lactate permease	0.097	507	417	95	557	12	518	3.129E-04	131
+DESULFOASV1_1886_hypothetical_protein	AF-P46556-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P46556-F1-model_v4 Uncharacterized transporter B0285.6	0.111	542	409	104	564	10	551	1.083E-03	131
+DESULFOASV1_1886_hypothetical_protein	AF-Q8WWT9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8WWT9-F1-model_v4 Solute carrier family 13 member 3	0.110	585	431	94	578	3	587	8.109E-04	130
+DESULFOASV1_1886_hypothetical_protein	AF-P71067-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P71067-F1-model_v4 L-lactate permease	0.122	548	411	90	558	9	556	6.871E-04	129
+DESULFOASV1_1886_hypothetical_protein	AF-Q67BT3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q67BT3-F1-model_v4 Solute carrier family 13 member 5	0.094	550	423	97	564	8	557	1.448E-03	129
+DESULFOASV1_1886_hypothetical_protein	AF-Q57251-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q57251-F1-model_v4 Putative L-lactate permease	0.096	531	479	36	566	2	532	1.279E-03	126
+DESULFOASV1_1886_hypothetical_protein	AF-P0ABP2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0ABP2-F1-model_v4 Anaerobic C4-dicarboxylate transporter DcuB	0.127	446	387	120	565	1	444	6.698E-03	125
+DESULFOASV1_1886_hypothetical_protein	AF-Q9VDQ0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9VDQ0-F1-model_v4 Protein I'm not dead yet 2	0.129	535	404	100	564	10	544	3.752E-03	121
+DESULFOASV1_1886_hypothetical_protein	AF-Q07782-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q07782-F1-model_v4 Solute carrier family 13 member 1	0.099	576	417	101	564	3	578	1.389E-03	121
+DESULFOASV1_1886_hypothetical_protein	AF-Q9VVT2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9VVT2-F1-model_v4 Protein I'm not dead yet	0.084	542	496	33	574	42	583	1.573E-03	120
+DESULFOASV1_1886_hypothetical_protein	AF-P0ABP1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0ABP1-F1-model_v4 Anaerobic C4-dicarboxylate transporter DcuB	0.129	446	386	120	565	1	444	1.471E-02	117
+DESULFOASV1_1886_hypothetical_protein	AF-O66163-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O66163-F1-model_v4 Na(+)/H(+) antiporter NhaD	0.123	461	357	123	583	6	413	2.926E-03	115
+DESULFOASV1_1886_hypothetical_protein	AF-A8IJF8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A8IJF8-F1-model_v4 Sodium/sulfate cotransporter 1	0.135	302	239	344	645	588	864	1.246E-02	112
+DESULFOASV1_1886_hypothetical_protein	AF-P55910-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P55910-F1-model_v4 L-lactate permease	0.109	525	410	97	557	17	541	2.283E-03	111
+DESULFOASV1_1886_hypothetical_protein	AF-P75788-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P75788-F1-model_v4 Inner membrane protein YbiR	0.138	411	307	150	560	14	370	7.276E-03	110
+DESULFOASV1_1886_hypothetical_protein	AF-E1VBT7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-E1VBT7-F1-model_v4 Na(+)/H(+) antiporter NhaD	0.140	465	375	92	556	50	486	1.934E-03	110
+DESULFOASV1_1886_hypothetical_protein	AF-Q86YT5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q86YT5-F1-model_v4 Solute carrier family 13 member 5	0.094	546	423	97	564	8	553	3.399E-04	102
+DESULFOASV1_1886_hypothetical_protein	AF-D2K6F1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-D2K6F1-F1-model_v4 Sodium/sulfate cotransporter 2	0.127	305	237	344	648	587	859	3.230E-02	101
+DESULFOASV1_1886_hypothetical_protein	AF-Q9ES88-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9ES88-F1-model_v4 Solute carrier family 13 member 2	0.107	553	418	96	564	7	559	1.279E-03	97
+DESULFOASV1_1886_hypothetical_protein	AF-Q13183-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q13183-F1-model_v4 Solute carrier family 13 member 2	0.111	558	416	96	564	7	564	3.313E-03	94
+DESULFOASV1_1886_hypothetical_protein	AF-A8IHV3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A8IHV3-F1-model_v4 Probable sodium/sulfate cotransporter 3	0.134	305	235	344	648	589	860	8.370E-02	91
+DESULFOASV1_1886_hypothetical_protein	AF-P72958-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P72958-F1-model_v4 Uncharacterized transporter sll0640	0.120	605	408	101	565	3	607	1.299E-02	87
+DESULFOASV1_1886_hypothetical_protein	AF-P44018-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44018-F1-model_v4 Putative uncharacterized transporter HI_0585	0.140	268	221	300	557	8	275	2.495E+00	46
+DESULFOASV1_1886_hypothetical_protein	AF-P44963-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44963-F1-model_v4 Sodium/pantothenate symporter	0.117	618	417	33	650	12	484	2.737E-02	46
+DESULFOASV1_1886_hypothetical_protein	AF-P44289-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44289-F1-model_v4 Uncharacterized protein HI_1680	0.110	597	527	33	629	11	603	2.048E-02	44
+DESULFOASV1_1886_hypothetical_protein	AF-P58163-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P58163-F1-model_v4 Probable multidrug resistance protein NorM	0.135	456	387	192	647	23	470	9.093E-02	43
+DESULFOASV1_1886_hypothetical_protein	AF-P0A1W9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0A1W9-F1-model_v4 Branched-chain amino acid transport system 2 carrier protein	0.132	435	363	202	636	12	430	2.519E-02	41
+DESULFOASV1_1886_hypothetical_protein	AF-O77741-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O77741-F1-model_v4 Natural resistance-associated macrophage protein 1	0.131	460	371	172	631	48	475	6.264E-02	41
+DESULFOASV1_1886_hypothetical_protein	AF-P25185-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P25185-F1-model_v4 Branched-chain amino acid transport system 3 carrier protein	0.136	490	363	147	636	9	429	2.737E-02	39
+DESULFOASV1_1886_hypothetical_protein	AF-P49280-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P49280-F1-model_v4 Natural resistance-associated macrophage protein 1	0.127	471	382	170	640	46	484	9.477E-02	39
+DESULFOASV1_1886_hypothetical_protein	AF-B8DE85-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B8DE85-F1-model_v4 Divalent metal cation transporter MntH	0.140	469	355	172	640	34	447	2.225E-02	38
+DESULFOASV1_1886_hypothetical_protein	AF-Q99WP2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q99WP2-F1-model_v4 Multidrug export protein MepA	0.099	587	391	48	634	5	439	6.264E-02	38
+DESULFOASV1_1886_hypothetical_protein	AF-O68460-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O68460-F1-model_v4 K(+)-insensitive pyrophosphate-energized proton pump	0.134	627	520	29	630	72	698	2.225E-02	38
+DESULFOASV1_1886_hypothetical_protein	AF-C1L2Y0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C1L2Y0-F1-model_v4 Divalent metal cation transporter MntH	0.142	469	354	172	640	34	447	3.230E-02	37
+DESULFOASV1_1886_hypothetical_protein	AF-Q99UZ7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q99UZ7-F1-model_v4 Divalent metal cation transporter MntH	0.104	474	379	172	645	26	449	8.724E-02	37
+DESULFOASV1_1886_hypothetical_protein	AF-Q87EJ9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q87EJ9-F1-model_v4 Divalent metal cation transporter MntH	0.115	522	368	129	650	56	472	1.434E-01	37
+DESULFOASV1_1886_hypothetical_protein	AF-Q7XRV1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7XRV1-F1-model_v4 Probable metal-nicotianamine transporter YSL5	0.116	641	551	1	641	1	624	1.299E-02	37
+DESULFOASV1_1886_hypothetical_protein	AF-P39277-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39277-F1-model_v4 L-methionine/branched-chain amino acid exporter YjeH	0.137	430	339	200	629	9	402	7.093E-02	36
+DESULFOASV1_1886_hypothetical_protein	AF-Q71ZP6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q71ZP6-F1-model_v4 Divalent metal cation transporter MntH	0.142	469	354	172	640	34	447	3.657E-02	36
+DESULFOASV1_1886_hypothetical_protein	AF-A0AIM7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A0AIM7-F1-model_v4 Divalent metal cation transporter MntH	0.133	472	358	172	643	34	447	4.316E-02	36
+DESULFOASV1_1886_hypothetical_protein	AF-Q92BT1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q92BT1-F1-model_v4 Divalent metal cation transporter MntH	0.135	464	356	172	635	34	446	2.737E-02	36
+DESULFOASV1_1886_hypothetical_protein	AF-Q6GHY0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6GHY0-F1-model_v4 Divalent metal cation transporter MntH	0.115	474	374	172	645	26	449	1.118E-01	36
+DESULFOASV1_1886_hypothetical_protein	AF-Q8UEM1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8UEM1-F1-model_v4 Divalent metal cation transporter MntH	0.125	470	361	172	641	48	460	5.767E-02	36
+DESULFOASV1_1886_hypothetical_protein	AF-Q9PEL3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9PEL3-F1-model_v4 Divalent metal cation transporter MntH	0.112	522	369	129	650	56	472	1.838E-01	36
+DESULFOASV1_1886_hypothetical_protein	AF-Q9XT74-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9XT74-F1-model_v4 Natural resistance-associated macrophage protein 1	0.125	471	386	170	640	46	487	4.688E-02	36
+DESULFOASV1_1886_hypothetical_protein	AF-O66504-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O66504-F1-model_v4 Uncharacterized protein aq_097	0.099	562	359	31	592	8	406	1.073E-01	35
+DESULFOASV1_1886_hypothetical_protein	AF-Q45411-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q45411-F1-model_v4 EPS I polysaccharide export inner membrane protein EpsE	0.144	435	346	204	638	18	422	2.781E-01	35
+DESULFOASV1_1886_hypothetical_protein	AF-P19072-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P19072-F1-model_v4 Branched-chain amino acid transport system 2 carrier protein	0.130	435	337	204	638	40	427	5.533E-02	35
+DESULFOASV1_1886_hypothetical_protein	AF-A5IRZ2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A5IRZ2-F1-model_v4 Divalent metal cation transporter MntH	0.104	474	379	172	645	26	449	2.456E-01	35
+DESULFOASV1_1886_hypothetical_protein	AF-P65544-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P65544-F1-model_v4 Divalent metal cation transporter MntH	0.120	466	358	173	638	41	448	1.266E-01	35
+DESULFOASV1_1886_hypothetical_protein	AF-Q9HTR0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9HTR0-F1-model_v4 Probable multidrug resistance protein NorM	0.141	522	399	121	642	1	465	1.838E-01	35
+DESULFOASV1_1886_hypothetical_protein	AF-Q6DA13-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6DA13-F1-model_v4 L-rhamnose-proton symporter	0.147	464	261	149	612	36	342	1.623E-01	34
+DESULFOASV1_1886_hypothetical_protein	AF-Q8ZSB0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8ZSB0-F1-model_v4 Divalent metal cation transporter MntH	0.116	449	361	192	640	24	432	8.031E-02	34
+DESULFOASV1_1886_hypothetical_protein	AF-Q8Y773-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8Y773-F1-model_v4 Divalent metal cation transporter MntH	0.142	469	354	172	640	34	447	6.010E-02	34
+DESULFOASV1_1886_hypothetical_protein	AF-A6U0S3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A6U0S3-F1-model_v4 Divalent metal cation transporter MntH	0.109	474	377	172	645	26	449	1.558E-01	34
+DESULFOASV1_1886_hypothetical_protein	AF-Q2FHX5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2FHX5-F1-model_v4 Divalent metal cation transporter MntH	0.104	474	379	172	645	26	449	1.838E-01	34
+DESULFOASV1_1886_hypothetical_protein	AF-Q2YX69-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2YX69-F1-model_v4 Divalent metal cation transporter MntH	0.102	474	380	172	645	26	449	2.668E-01	34
+DESULFOASV1_1886_hypothetical_protein	AF-Q6GAA9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6GAA9-F1-model_v4 Divalent metal cation transporter MntH	0.107	474	378	172	645	26	449	3.148E-01	34
+DESULFOASV1_1886_hypothetical_protein	AF-Q62LW6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q62LW6-F1-model_v4 Probable multidrug resistance protein NorM	0.138	514	386	132	645	17	465	3.716E-01	34
+DESULFOASV1_1886_hypothetical_protein	AF-P42964-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P42964-F1-model_v4 Uncharacterized membrane protein YcsG	0.143	431	332	202	632	14	401	1.558E-01	33
+DESULFOASV1_1886_hypothetical_protein	AF-Q89K67-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q89K67-F1-model_v4 Divalent metal cation transporter MntH	0.120	468	360	173	640	38	447	1.558E-01	33
+DESULFOASV1_1886_hypothetical_protein	AF-Q7A166-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7A166-F1-model_v4 Divalent metal cation transporter MntH	0.107	474	378	172	645	26	449	2.560E-01	33
+DESULFOASV1_1886_hypothetical_protein	AF-A7X111-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A7X111-F1-model_v4 Divalent metal cation transporter MntH	0.111	474	376	172	645	26	449	1.838E-01	33
+DESULFOASV1_1886_hypothetical_protein	AF-P65545-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P65545-F1-model_v4 Divalent metal cation transporter MntH	0.123	456	360	173	628	41	452	5.308E-02	33
+DESULFOASV1_1886_hypothetical_protein	AF-Q5M7K3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5M7K3-F1-model_v4 Glucose-6-phosphate exchanger SLC37A2	0.126	531	427	112	642	8	497	3.420E-01	33
+DESULFOASV1_1886_hypothetical_protein	AF-Q6DFC0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6DFC0-F1-model_v4 Solute carrier family 41 member 2	0.139	397	318	201	570	156	552	1.558E-01	33
+DESULFOASV1_1886_hypothetical_protein	AF-P44016-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P44016-F1-model_v4 Putative oligopeptide transporter HI_0561	0.117	609	522	33	641	41	632	5.533E-02	33
+DESULFOASV1_1886_hypothetical_protein	AF-Q2RIS7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2RIS7-F1-model_v4 Putative K(+)-stimulated pyrophosphate-energized sodium pump 1	0.121	597	490	33	629	82	640	5.093E-02	33
+DESULFOASV1_1886_hypothetical_protein	AF-Q9S5X0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9S5X0-F1-model_v4 K(+)-stimulated pyrophosphate-energized sodium pump	0.111	640	466	33	557	75	714	6.805E-02	33
+DESULFOASV1_1886_hypothetical_protein	AF-Q8ZIZ8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8ZIZ8-F1-model_v4 L-rhamnose-proton symporter	0.126	467	284	124	590	14	339	3.565E-01	32
+DESULFOASV1_1886_hypothetical_protein	AF-Q9RPF2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9RPF2-F1-model_v4 Divalent metal cation transporter MntH 2	0.133	476	358	166	641	23	436	3.282E-01	32
+DESULFOASV1_1886_hypothetical_protein	AF-Q8ZGS9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8ZGS9-F1-model_v4 Arginine/agmatine antiporter	0.132	415	335	201	587	10	424	6.805E-02	32
+DESULFOASV1_1886_hypothetical_protein	AF-Q2G2G3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2G2G3-F1-model_v4 Divalent metal cation transporter MntH	0.104	474	379	172	645	26	449	2.560E-01	32
+DESULFOASV1_1886_hypothetical_protein	AF-Q7VMB5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7VMB5-F1-model_v4 Probable multidrug resistance protein NorM	0.125	529	401	122	650	5	463	1.764E-01	32
+DESULFOASV1_1886_hypothetical_protein	AF-Q8S397-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8S397-F1-model_v4 Sodium/hydrogen exchanger 4	0.114	456	382	101	556	2	433	3.148E-01	32
+DESULFOASV1_1886_hypothetical_protein	AF-P32703-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P32703-F1-model_v4 Uncharacterized Na(+)/H(+) exchanger YjcE	0.134	521	442	122	642	4	514	2.668E-01	32
+DESULFOASV1_1886_hypothetical_protein	AF-Q5GV87-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5GV87-F1-model_v4 Protoheme IX farnesyltransferase	0.112	407	250	33	439	12	294	7.828E-01	31
+DESULFOASV1_1886_hypothetical_protein	AF-Q66FF0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q66FF0-F1-model_v4 L-rhamnose-proton symporter	0.135	471	292	120	590	1	339	4.207E-01	31
+DESULFOASV1_1886_hypothetical_protein	AF-Q03TH5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q03TH5-F1-model_v4 Divalent metal cation transporter MntH	0.125	472	368	172	643	37	457	1.997E-01	31
+DESULFOASV1_1886_hypothetical_protein	AF-O65413-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O65413-F1-model_v4 Sugar transport protein 12	0.145	407	324	33	439	85	464	6.365E-01	31
+DESULFOASV1_1886_hypothetical_protein	AF-B1XLL7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1XLL7-F1-model_v4 Nitrate/nitrite transporter NrtP	0.148	514	394	160	622	1	514	2.781E-01	31
+DESULFOASV1_1886_hypothetical_protein	AF-P9WJI3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WJI3-F1-model_v4 Uncharacterized Na(+)/H(+) exchanger Rv2287	0.111	504	443	144	647	11	509	4.207E-01	31
+DESULFOASV1_1886_hypothetical_protein	AF-P49283-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P49283-F1-model_v4 Protein Malvolio	0.103	468	397	173	640	71	514	6.010E-02	31
+DESULFOASV1_1886_hypothetical_protein	AF-Q8P5M6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8P5M6-F1-model_v4 K(+)-insensitive pyrophosphate-energized proton pump	0.121	598	520	33	630	78	670	1.434E-01	31
+DESULFOASV1_1886_hypothetical_protein	AF-Q3AFC6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3AFC6-F1-model_v4 K(+)-stimulated pyrophosphate-energized proton pump	0.120	617	524	30	625	35	651	7.705E-02	31
+DESULFOASV1_1886_hypothetical_protein	AF-Q13CY5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q13CY5-F1-model_v4 Protoheme IX farnesyltransferase	0.115	409	244	33	441	28	304	6.106E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-B1JNC3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1JNC3-F1-model_v4 L-rhamnose-proton symporter	0.135	471	292	120	590	1	339	5.174E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-A9QYR5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A9QYR5-F1-model_v4 L-rhamnose-proton symporter	0.144	467	278	124	590	14	339	4.385E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-P77389-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P77389-F1-model_v4 Inner membrane transport protein YdhP	0.106	465	297	33	497	45	377	5.859E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-Q9CMZ9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9CMZ9-F1-model_v4 Probable multidrug resistance protein NorM	0.136	533	399	118	650	2	464	5.174E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-D0ZXQ3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-D0ZXQ3-F1-model_v4 Methyl viologen resistance protein SmvA	0.112	531	402	22	552	35	488	2.456E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-Q8AVC3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8AVC3-F1-model_v4 Glucose-6-phosphate exchanger SLC37A2	0.113	483	415	112	580	8	490	4.570E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-O43000-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O43000-F1-model_v4 Pantothenate transporter liz1	0.113	427	348	29	455	64	456	3.148E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-Q4WF31-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4WF31-F1-model_v4 MFS siderochrome iron transporter B	0.117	524	405	33	556	130	589	6.529E-02	30
+DESULFOASV1_1886_hypothetical_protein	AF-P69956-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P69956-F1-model_v4 Low calcium response locus protein D	0.141	408	263	90	497	15	321	3.873E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-P31414-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P31414-F1-model_v4 Pyrophosphate-energized vacuolar membrane proton pump 1	0.113	603	529	33	629	145	747	2.560E-01	30
+DESULFOASV1_1886_hypothetical_protein	AF-Q3BND5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3BND5-F1-model_v4 Protoheme IX farnesyltransferase	0.115	407	250	33	439	12	294	1.341E+00	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q2NYG1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2NYG1-F1-model_v4 Protoheme IX farnesyltransferase	0.112	407	250	33	439	12	294	1.234E+00	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q8P487-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8P487-F1-model_v4 Protoheme IX farnesyltransferase	0.119	406	248	33	438	12	294	9.238E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q8PFU4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8PFU4-F1-model_v4 Protoheme IX farnesyltransferase	0.108	407	252	33	439	12	294	1.341E+00	29
+DESULFOASV1_1886_hypothetical_protein	AF-O34430-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O34430-F1-model_v4 Probable membrane transporter protein YtnM	0.125	427	259	219	645	2	298	1.341E+00	29
+DESULFOASV1_1886_hypothetical_protein	AF-C6DJS3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C6DJS3-F1-model_v4 L-rhamnose-proton symporter	0.140	475	264	149	623	36	343	3.565E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-A7FN78-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A7FN78-F1-model_v4 L-rhamnose-proton symporter	0.151	471	287	120	590	1	339	6.365E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-B2K1W7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B2K1W7-F1-model_v4 L-rhamnose-proton symporter	0.135	471	292	120	590	1	339	6.106E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q0TAF6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q0TAF6-F1-model_v4 L-rhamnose-proton symporter	0.113	416	296	197	612	4	338	6.106E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q7WJR0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7WJR0-F1-model_v4 Probable multidrug resistance protein NorM	0.149	517	383	125	641	3	453	2.668E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-P37034-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P37034-F1-model_v4 Uncharacterized transporter lpg1691	0.117	440	349	194	589	10	449	2.781E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q9UM01-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9UM01-F1-model_v4 Y+L amino acid transporter 1	0.118	445	373	194	638	39	462	1.434E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q27981-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q27981-F1-model_v4 Natural resistance-associated macrophage protein 1	0.120	470	385	171	640	47	484	2.356E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q5QN13-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5QN13-F1-model_v4 Metal transporter Nramp4	0.126	481	396	157	637	57	510	2.456E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q874L4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q874L4-F1-model_v4 Vitamin B6 transporter TPN1	0.133	389	310	202	590	87	444	2.781E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-P06972-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P06972-F1-model_v4 Iron(3+)-hydroxamate import system permease protein FhuB	0.126	573	445	120	629	1	573	3.148E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q898Q9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q898Q9-F1-model_v4 Putative K(+)-stimulated pyrophosphate-energized sodium pump	0.136	603	511	28	630	71	663	1.997E-01	29
+DESULFOASV1_1886_hypothetical_protein	AF-Q88UB3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q88UB3-F1-model_v4 Putative sugar uptake protein lp_2594	0.099	362	252	193	554	1	281	1.946E+00	28
+DESULFOASV1_1886_hypothetical_protein	AF-A4TRS5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4TRS5-F1-model_v4 L-rhamnose-proton symporter	0.128	467	283	124	590	14	339	6.914E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-B1IVH1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1IVH1-F1-model_v4 L-rhamnose-proton symporter	0.113	534	300	57	590	1	339	7.828E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-B1XB74-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1XB74-F1-model_v4 L-rhamnose-proton symporter	0.113	556	299	57	612	1	338	5.859E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-Q1CEB8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1CEB8-F1-model_v4 L-rhamnose-proton symporter	0.134	467	281	124	590	14	339	6.914E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-A7ML63-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A7ML63-F1-model_v4 L-rhamnose-proton symporter	0.125	501	289	124	624	14	344	5.174E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-Q1JII6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1JII6-F1-model_v4 Serine/threonine transporter SstT	0.122	408	311	33	440	40	394	4.036E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-Q8P8R8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8P8R8-F1-model_v4 Divalent metal cation transporter MntH	0.114	469	363	173	641	32	442	4.385E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-Q81T85-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q81T85-F1-model_v4 Probable multidrug resistance protein NorM	0.131	448	386	195	642	8	452	9.238E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-P37594-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P37594-F1-model_v4 Methyl viologen resistance protein SmvA	0.111	531	403	22	552	35	488	3.716E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-Q9NUN5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9NUN5-F1-model_v4 Lysosomal cobalamin transport escort protein LMBD1	0.111	414	358	33	436	18	431	6.914E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-P55452-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P55452-F1-model_v4 Probable ABC transporter permease protein y4fN	0.117	615	493	30	644	1	559	1.166E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-P69955-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P69955-F1-model_v4 Low calcium response locus protein D	0.145	408	262	90	497	15	321	5.859E-01	28
+DESULFOASV1_1886_hypothetical_protein	AF-Q4UPT7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4UPT7-F1-model_v4 Protoheme IX farnesyltransferase	0.119	406	248	33	438	12	294	1.582E+00	27
+DESULFOASV1_1886_hypothetical_protein	AF-A8A711-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A8A711-F1-model_v4 L-rhamnose-proton symporter	0.115	534	299	57	590	1	339	8.864E-01	27
+DESULFOASV1_1886_hypothetical_protein	AF-C5A075-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C5A075-F1-model_v4 L-rhamnose-proton symporter	0.110	556	300	57	612	1	338	7.206E-01	27
+DESULFOASV1_1886_hypothetical_protein	AF-Q32A72-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q32A72-F1-model_v4 L-rhamnose-proton symporter	0.109	556	300	57	612	1	338	7.206E-01	27
+DESULFOASV1_1886_hypothetical_protein	AF-P0AAE0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AAE0-F1-model_v4 D-serine/D-alanine/glycine transporter	0.113	494	390	150	643	28	468	4.385E-01	27
+DESULFOASV1_1886_hypothetical_protein	AF-B5RHV8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5RHV8-F1-model_v4 Low affinity inorganic phosphate transporter 4	0.118	587	438	18	604	4	501	2.781E-01	27
+DESULFOASV1_1886_hypothetical_protein	AF-P53099-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P53099-F1-model_v4 Vitamin B6 transporter TPN1	0.120	389	314	202	590	87	444	3.420E-01	27
+DESULFOASV1_1886_hypothetical_protein	AF-Q553K4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q553K4-F1-model_v4 Natural resistance-associated macrophage protein 2 homolog	0.107	465	405	193	646	146	610	3.420E-01	27
+DESULFOASV1_1886_hypothetical_protein	AF-A5VWP2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A5VWP2-F1-model_v4 Protoheme IX farnesyltransferase 1	0.107	417	259	1	417	1	291	2.825E+00	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q0BBM3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q0BBM3-F1-model_v4 Protoheme IX farnesyltransferase	0.111	407	252	12	418	9	293	3.475E+00	26
+DESULFOASV1_1886_hypothetical_protein	AF-O34436-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O34436-F1-model_v4 Probable low-affinity inorganic phosphate transporter	0.132	370	273	193	562	3	318	6.106E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q1C0W4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1C0W4-F1-model_v4 L-rhamnose-proton symporter	0.151	471	286	120	590	1	338	1.136E+00	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q8X3T0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8X3T0-F1-model_v4 L-rhamnose-proton symporter	0.114	556	299	57	612	1	338	9.238E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-B4SZZ5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B4SZZ5-F1-model_v4 L-rhamnose-proton symporter	0.120	534	297	57	590	1	339	1.004E+00	26
+DESULFOASV1_1886_hypothetical_protein	AF-C0Q3L6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C0Q3L6-F1-model_v4 L-rhamnose-proton symporter	0.120	534	297	57	590	1	339	1.004E+00	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q9A1E0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9A1E0-F1-model_v4 Serine/threonine transporter SstT	0.118	408	312	33	440	40	394	5.859E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-P0AAA8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AAA8-F1-model_v4 Lipid III flippase	0.153	442	349	193	634	2	414	3.475E+00	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q8NBP5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8NBP5-F1-model_v4 Major facilitator superfamily domain-containing protein 9	0.107	396	332	33	428	84	456	2.029E+00	26
+DESULFOASV1_1886_hypothetical_protein	AF-F4I9E1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-F4I9E1-F1-model_v4 Protein NUCLEAR FUSION DEFECTIVE 4	0.122	543	401	193	650	33	575	7.511E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q8N695-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8N695-F1-model_v4 Sodium-coupled monocarboxylate transporter 1	0.108	587	397	24	610	7	452	2.560E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q8PH20-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8PH20-F1-model_v4 K(+)-insensitive pyrophosphate-energized proton pump	0.117	640	522	34	625	3	642	1.997E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q9SIT5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9SIT5-F1-model_v4 Cation/H(+) antiporter 15	0.121	473	355	89	561	31	435	3.021E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-P55017-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P55017-F1-model_v4 Solute carrier family 12 member 3	0.102	441	394	200	639	167	607	4.385E-01	26
+DESULFOASV1_1886_hypothetical_protein	AF-Q9ZE70-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9ZE70-F1-model_v4 S-adenosylmethionine uptake transporter	0.093	311	244	202	512	7	276	2.114E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-B0RXJ1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B0RXJ1-F1-model_v4 Protoheme IX farnesyltransferase	0.119	406	248	33	438	12	294	2.204E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-A3N5D1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A3N5D1-F1-model_v4 Protoheme IX farnesyltransferase	0.119	430	255	13	442	10	300	1.867E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-B4EA84-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B4EA84-F1-model_v4 Protoheme IX farnesyltransferase	0.117	419	259	1	419	1	294	3.334E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-B1JZ41-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1JZ41-F1-model_v4 Protoheme IX farnesyltransferase	0.117	419	259	1	419	1	294	3.622E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-Q3SUL3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3SUL3-F1-model_v4 Protoheme IX farnesyltransferase 2	0.124	441	265	1	441	1	303	2.394E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-A4WG89-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4WG89-F1-model_v4 L-rhamnose-proton symporter	0.123	556	299	57	612	1	342	1.457E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-Q58596-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q58596-F1-model_v4 Putative amino-acid transporter MJ1196	0.115	410	310	203	612	6	356	6.634E-01	25
+DESULFOASV1_1886_hypothetical_protein	AF-P40760-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P40760-F1-model_v4 Uncharacterized MFS-type transporter YuxJ	0.137	465	291	33	497	41	378	1.398E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-C0Q855-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C0Q855-F1-model_v4 Multidrug resistance protein MdtG	0.126	482	295	33	514	57	395	1.867E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-Q9SQN2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9SQN2-F1-model_v4 Probable folate-biopterin transporter 3	0.089	407	306	33	439	90	426	1.341E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-Q4R5E3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4R5E3-F1-model_v4 Lysosomal cobalamin transport escort protein LMBD1	0.123	413	353	34	436	19	431	1.090E+00	25
+DESULFOASV1_1886_hypothetical_protein	AF-Q8NA29-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8NA29-F1-model_v4 Sodium-dependent lysophosphatidylcholine symporter 1	0.109	492	382	17	508	73	502	7.828E-01	25
+DESULFOASV1_1886_hypothetical_protein	AF-Q7T384-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7T384-F1-model_v4 Sodium-coupled monocarboxylate transporter 2	0.147	440	347	203	610	10	449	5.859E-01	25
+DESULFOASV1_1886_hypothetical_protein	AF-B5FB78-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5FB78-F1-model_v4 Undecaprenyl-diphosphatase	0.140	253	206	202	441	6	258	1.946E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-B8I004-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B8I004-F1-model_v4 Undecaprenyl-diphosphatase	0.125	277	216	208	455	3	279	1.649E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-B1YN86-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1YN86-F1-model_v4 Protoheme IX farnesyltransferase	0.111	418	260	1	418	1	293	4.839E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q63XS7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q63XS7-F1-model_v4 Protoheme IX farnesyltransferase	0.117	430	256	13	442	10	300	2.297E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-A1UZV8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A1UZV8-F1-model_v4 Protoheme IX farnesyltransferase	0.119	406	249	13	418	10	293	3.775E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q2IR91-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2IR91-F1-model_v4 Protoheme IX farnesyltransferase	0.107	430	267	12	441	5	304	1.792E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q69S43-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q69S43-F1-model_v4 Cyclin-D6-1	0.126	183	157	17	199	39	219	7.631E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q71MR7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q71MR7-F1-model_v4 Formyl peptide receptor-related sequence 7	0.111	378	245	33	410	32	308	1.287E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q45247-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q45247-F1-model_v4 Hydrogenase nickel incorporation protein HupN	0.120	554	310	86	639	6	358	1.136E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-B1J9Y3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1J9Y3-F1-model_v4 Probable sugar efflux transporter	0.144	399	282	33	431	59	389	3.199E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q1JND7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1JND7-F1-model_v4 Serine/threonine transporter SstT	0.114	408	314	33	440	40	394	1.046E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q5XDS5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5XDS5-F1-model_v4 Serine/threonine transporter SstT	0.111	408	315	33	440	40	394	8.159E-01	24
+DESULFOASV1_1886_hypothetical_protein	AF-B5FL11-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5FL11-F1-model_v4 Multidrug resistance protein MdtG	0.124	482	296	33	514	57	395	2.204E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q0VC03-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q0VC03-F1-model_v4 Molybdate-anion transporter	0.120	413	316	33	445	76	435	1.184E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q9SIA4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9SIA4-F1-model_v4 Protein DETOXIFICATION 3	0.137	527	386	124	650	29	476	1.398E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q9RQ29-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9RQ29-F1-model_v4 Fatty acid resistance protein FarB	0.117	518	388	33	550	55	494	1.090E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-O82390-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O82390-F1-model_v4 Sodium-dependent phosphate transport protein 1, chloroplastic	0.100	393	321	33	425	144	501	1.792E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-D2C1Z6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-D2C1Z6-F1-model_v4 p-hydroxybenzoic acid efflux pump subunit AaeB	0.091	609	511	32	640	63	625	1.649E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q56887-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q56887-F1-model_v4 Flagellar biosynthesis protein FlhA	0.132	386	279	112	497	3	325	1.518E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-P55726-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P55726-F1-model_v4 Probable translocation protein y4yR	0.123	389	275	106	494	5	319	2.204E+00	24
+DESULFOASV1_1886_hypothetical_protein	AF-P36619-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P36619-F1-model_v4 Leptomycin B resistance protein pmd1	0.116	419	306	8	426	51	397	6.634E-01	24
+DESULFOASV1_1886_hypothetical_protein	AF-Q1H1K6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1H1K6-F1-model_v4 Putative manganese efflux pump MntP	0.129	246	158	210	455	6	187	3.475E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q9WZZ5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9WZZ5-F1-model_v4 Undecaprenyl-diphosphatase	0.140	218	180	218	427	3	220	2.204E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q5E2K6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5E2K6-F1-model_v4 Undecaprenyl-diphosphatase	0.160	256	200	203	441	3	258	1.582E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-A4JI25-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4JI25-F1-model_v4 Protoheme IX farnesyltransferase	0.117	411	254	9	419	6	294	4.839E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-A2S646-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A2S646-F1-model_v4 Protoheme IX farnesyltransferase	0.113	406	251	13	418	10	293	4.455E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q1BTD0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1BTD0-F1-model_v4 Protoheme IX farnesyltransferase	0.117	419	259	1	419	1	294	4.839E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q67ET0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q67ET0-F1-model_v4 Taste receptor type 2 member 4	0.101	365	236	33	397	12	274	3.775E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q1QHV7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1QHV7-F1-model_v4 Protoheme IX farnesyltransferase	0.123	408	241	33	440	27	302	3.334E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q05394-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q05394-F1-model_v4 fMet-Leu-Phe receptor	0.119	395	238	33	427	32	302	1.867E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q8GXB4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8GXB4-F1-model_v4 WAT1-related protein At1g09380	0.116	448	300	201	648	12	351	1.287E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q328Z8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q328Z8-F1-model_v4 Multidrug resistance protein MdtL	0.109	476	293	33	508	43	372	2.711E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q0TAZ8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q0TAZ8-F1-model_v4 Multidrug resistance protein MdtL	0.113	475	292	34	508	43	372	3.069E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q1JDG4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1JDG4-F1-model_v4 Serine/threonine transporter SstT	0.112	407	320	33	439	40	400	6.634E-01	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q48V75-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q48V75-F1-model_v4 Serine/threonine transporter SstT	0.112	408	314	33	440	40	394	1.234E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-B5F954-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5F954-F1-model_v4 Multidrug resistance protein MdtG	0.126	482	295	33	514	57	395	2.945E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q8Z7L7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8Z7L7-F1-model_v4 Multidrug resistance protein MdtG	0.124	482	296	33	514	57	395	3.475E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q6N075-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6N075-F1-model_v4 Molybdate-anion transporter	0.129	413	313	33	445	76	435	2.204E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q9SIA3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9SIA3-F1-model_v4 Protein DETOXIFICATION 4	0.122	517	385	119	635	14	453	1.234E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-P0AEJ1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AEJ1-F1-model_v4 Multidrug export protein EmrB	0.103	526	395	33	558	56	496	1.341E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q8X5Z7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8X5Z7-F1-model_v4 Uncharacterized protein YjbB	0.118	611	430	33	643	10	498	2.114E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-A6QLI1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A6QLI1-F1-model_v4 Vesicular glutamate transporter 2	0.112	408	352	22	429	99	495	2.114E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-P14639-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P14639-F1-model_v4 Albumin	0.087	576	517	46	612	31	606	1.719E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-O87656-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O87656-F1-model_v4 Iron(3+)-hydroxamate import system permease protein FhuB	0.122	587	465	99	629	12	598	1.090E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q8K9S0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8K9S0-F1-model_v4 Flagellar biosynthesis protein FlhA	0.111	389	288	109	497	4	328	1.946E+00	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q9LUN4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9LUN4-F1-model_v4 Cation/H(+) antiporter 19	0.126	470	355	83	552	22	428	6.106E-01	23
+DESULFOASV1_1886_hypothetical_protein	AF-Q9KKU0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9KKU0-F1-model_v4 Riboflavin transporter	0.125	439	254	205	643	7	297	1.457E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-A0KAR0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A0KAR0-F1-model_v4 Protoheme IX farnesyltransferase	0.117	419	259	1	419	1	294	5.479E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-A3NR29-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A3NR29-F1-model_v4 Protoheme IX farnesyltransferase	0.100	406	255	13	418	10	293	6.204E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-Q0VN94-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q0VN94-F1-model_v4 Protoheme IX farnesyltransferase	0.115	377	250	33	409	14	297	6.740E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-Q9JKA3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9JKA3-F1-model_v4 Taste receptor type 2 member 103	0.106	369	257	33	401	16	303	3.622E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-A6U6U6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A6U6U6-F1-model_v4 Protoheme IX farnesyltransferase	0.102	392	270	7	398	6	307	3.334E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-A3M4X1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A3M4X1-F1-model_v4 Serine/threonine transporter SstT	0.122	407	338	33	439	13	398	2.029E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-A9N5Q9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A9N5Q9-F1-model_v4 Multidrug resistance protein MdtG	0.118	482	298	33	514	57	395	3.199E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-B4TES5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B4TES5-F1-model_v4 Multidrug resistance protein MdtG	0.126	482	295	33	514	57	395	3.775E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-A8AI28-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A8AI28-F1-model_v4 Multidrug resistance protein MdtG	0.129	482	294	33	514	57	395	3.199E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-P9WIZ4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WIZ4-F1-model_v4 Divalent metal cation transporter MntH	0.126	440	340	203	642	38	427	1.341E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-A5G348-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A5G348-F1-model_v4 Divalent metal cation transporter MntH	0.112	528	359	112	639	19	423	1.234E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-P09836-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P09836-F1-model_v4 Membrane sensor protein UhpC	0.108	417	322	29	445	62	423	2.711E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-Q5R542-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5R542-F1-model_v4 Molybdate-anion transporter	0.123	413	315	33	445	76	435	2.204E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-Q8L731-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8L731-F1-model_v4 Protein DETOXIFICATION 12	0.129	516	402	118	633	19	480	2.711E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-P0DKG9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0DKG9-F1-model_v4 High-affinity nitrate transporter 2.1	0.100	406	352	32	437	64	455	1.184E+00	22
+DESULFOASV1_1886_hypothetical_protein	AF-Q9UT92-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9UT92-F1-model_v4 Uncharacterized transporter C323.07c	0.127	508	442	119	626	24	530	7.828E-01	22
+DESULFOASV1_1886_hypothetical_protein	AF-P83740-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P83740-F1-model_v4 Putative sodium-dependent multivitamin transporter	0.111	602	469	31	632	5	533	3.420E-01	22
+DESULFOASV1_1886_hypothetical_protein	AF-C6BYL0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C6BYL0-F1-model_v4 Putative manganese efflux pump MntP	0.147	219	151	210	428	6	183	7.321E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q1RBN8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1RBN8-F1-model_v4 UPF0056 inner membrane protein MarC	0.142	193	151	239	431	2	178	5.044E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q5UXT1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5UXT1-F1-model_v4 Undecaprenyl-diphosphatase	0.151	267	198	206	439	3	269	1.518E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q5NI07-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5NI07-F1-model_v4 Protoheme IX farnesyltransferase	0.108	364	236	33	396	10	275	7.953E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q7W316-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7W316-F1-model_v4 Protoheme IX farnesyltransferase	0.099	366	247	33	398	19	293	3.775E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q2KTX0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2KTX0-F1-model_v4 Protoheme IX farnesyltransferase	0.106	366	245	33	398	19	293	5.257E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q2T1F6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2T1F6-F1-model_v4 Protoheme IX farnesyltransferase	0.115	430	257	13	442	10	300	3.935E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q146A1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q146A1-F1-model_v4 Protoheme IX farnesyltransferase	0.120	392	246	33	424	21	300	5.044E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q3SW48-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3SW48-F1-model_v4 Protoheme IX farnesyltransferase 1	0.107	429	269	13	441	2	303	4.643E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q9RM98-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9RM98-F1-model_v4 Protoheme IX farnesyltransferase	0.110	398	270	1	398	1	304	4.839E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-B2IGJ6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B2IGJ6-F1-model_v4 Protoheme IX farnesyltransferase	0.093	445	284	13	457	2	315	2.601E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q8R4G1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8R4G1-F1-model_v4 Mas-related G-protein coupled receptor member X1	0.094	398	247	1	398	3	276	3.334E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q4QXU3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4QXU3-F1-model_v4 Mas-related G-protein coupled receptor member X2	0.108	368	225	28	395	24	276	1.946E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-B8AAM2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B8AAM2-F1-model_v4 GDT1-like protein 1, chloroplastic	0.123	292	195	146	437	83	305	2.029E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-P79177-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P79177-F1-model_v4 N-formyl peptide receptor 2	0.121	381	258	33	413	29	322	4.643E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-O88536-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O88536-F1-model_v4 Formyl peptide receptor 2	0.118	385	258	33	417	32	325	3.475E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-A5FLP0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A5FLP0-F1-model_v4 Na(+)/H(+) antiporter NhaA 1	0.100	443	327	122	564	11	374	4.643E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-B4T2Y5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B4T2Y5-F1-model_v4 Multidrug resistance protein MdtG	0.126	482	295	33	514	57	395	4.274E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-B5QY11-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5QY11-F1-model_v4 Multidrug resistance protein MdtG	0.118	482	298	33	514	57	395	3.775E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q8FIR9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8FIR9-F1-model_v4 Multidrug resistance protein MdtG	0.113	488	308	33	520	59	406	3.069E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-E8XY75-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-E8XY75-F1-model_v4 Multidrug resistance protein MdtG	0.122	479	294	33	511	63	398	4.455E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-A6VMW8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A6VMW8-F1-model_v4 Serine/threonine transporter SstT	0.127	401	346	29	429	11	407	1.792E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-A5UEG3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A5UEG3-F1-model_v4 Serine/threonine transporter SstT	0.133	397	305	33	429	55	407	8.864E-01	21
+DESULFOASV1_1886_hypothetical_protein	AF-P42726-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P42726-F1-model_v4 Trifolitoxin-processing protein TfxD	0.116	389	326	33	402	20	408	3.622E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q4V8E5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4V8E5-F1-model_v4 Major facilitator superfamily domain-containing protein 3	0.108	524	333	33	556	42	415	2.204E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-A4YQF7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4YQF7-F1-model_v4 C4-dicarboxylate transport protein 1	0.100	407	317	32	438	55	407	1.719E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-B9K2V4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B9K2V4-F1-model_v4 C4-dicarboxylate transport protein	0.088	400	327	33	432	52	411	1.398E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q921Y4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q921Y4-F1-model_v4 Molybdate-anion transporter	0.113	413	318	33	445	76	435	3.069E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q88BA2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q88BA2-F1-model_v4 Probable multidrug resistance protein NorM	0.147	523	384	122	644	6	456	3.334E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-B7UTB5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7UTB5-F1-model_v4 Putative multidrug resistance protein MdtD	0.136	476	346	33	508	49	450	1.867E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-P33699-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P33699-F1-model_v4 Succinoglycan biosynthesis transport protein ExoT	0.129	474	395	193	646	9	482	1.341E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-O80695-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O80695-F1-model_v4 Protein DETOXIFICATION 37	0.117	528	416	108	635	23	494	2.204E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-P0DPR7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0DPR7-F1-model_v4 Colistin resistance protein EmrB	0.101	529	410	30	558	50	506	2.029E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q10710-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q10710-F1-model_v4 Sugar carrier protein A	0.141	409	326	33	441	88	467	4.455E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q66GI9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q66GI9-F1-model_v4 Probable anion transporter 4, chloroplastic	0.133	391	318	33	423	153	520	3.622E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q9LXH0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9LXH0-F1-model_v4 High affinity nitrate transporter 2.6	0.112	411	321	27	437	103	464	2.711E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-P0AF44-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AF44-F1-model_v4 Uncharacterized protein YjbB	0.123	597	449	33	629	10	522	2.825E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q39608-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q39608-F1-model_v4 Nitrate transporter 2.1	0.124	416	318	33	448	87	450	3.775E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-B7NSM7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7NSM7-F1-model_v4 Cation/acetate symporter ActP	0.090	533	482	97	629	3	533	1.004E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q8H6G7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8H6G7-F1-model_v4 Probable inorganic phosphate transporter 1-9	0.115	597	477	37	633	19	558	6.914E-01	21
+DESULFOASV1_1886_hypothetical_protein	AF-Q1HDT2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1HDT2-F1-model_v4 Cation/H(+) antiporter 24	0.109	435	354	122	556	65	462	2.601E+00	21
+DESULFOASV1_1886_hypothetical_protein	AF-A7GW20-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A7GW20-F1-model_v4 Putative manganese efflux pump MntP	0.158	254	152	202	455	2	182	2.945E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B8I1G8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B8I1G8-F1-model_v4 Putative manganese efflux pump MntP	0.138	235	153	203	437	5	182	7.024E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q39CQ5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q39CQ5-F1-model_v4 Protoheme IX farnesyltransferase	0.117	419	259	1	419	1	294	9.005E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q20X25-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q20X25-F1-model_v4 Protoheme IX farnesyltransferase	0.110	409	242	32	440	31	303	4.455E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q985X0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q985X0-F1-model_v4 Protoheme IX farnesyltransferase 2	0.101	423	271	1	423	3	305	4.839E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q3SXG2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3SXG2-F1-model_v4 Formyl peptide receptor-related sequence 6	0.107	378	246	33	410	32	308	3.935E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q5RKL7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5RKL7-F1-model_v4 Solute carrier family 35 member E4	0.143	294	237	203	496	48	324	5.044E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-P25090-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P25090-F1-model_v4 N-formyl peptide receptor 2	0.121	381	258	33	413	32	325	4.839E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-F4KHA8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-F4KHA8-F1-model_v4 WAT1-related protein At5g40230	0.109	313	272	202	514	28	333	5.257E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q329F4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q329F4-F1-model_v4 Purine ribonucleoside efflux pump NepI	0.124	403	318	38	440	18	381	2.825E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B2HZB0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B2HZB0-F1-model_v4 Serine/threonine transporter SstT	0.147	407	328	33	439	13	398	2.495E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q5PGY0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5PGY0-F1-model_v4 Multidrug resistance protein MdtG	0.119	482	298	33	514	57	395	5.952E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B7LT82-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7LT82-F1-model_v4 Multidrug resistance protein MdtG	0.126	482	295	33	514	59	397	5.044E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B7NL82-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7NL82-F1-model_v4 Multidrug resistance protein MdtG	0.111	488	308	33	520	59	406	3.935E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B1X9G6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1X9G6-F1-model_v4 Multidrug resistance protein MdtG	0.096	487	318	28	514	45	397	5.711E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B2VDB2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B2VDB2-F1-model_v4 Serine/threonine transporter SstT	0.105	404	311	33	436	53	401	1.792E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B5XXK2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5XXK2-F1-model_v4 Multidrug resistance protein MdtG	0.102	487	308	33	519	57	400	4.839E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-A4WEU1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4WEU1-F1-model_v4 Threonine/serine transporter TdcC	0.104	430	358	200	629	35	434	1.457E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B5REJ9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5REJ9-F1-model_v4 Threonine/serine transporter TdcC	0.107	413	356	200	612	35	434	2.394E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B1XGT1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1XGT1-F1-model_v4 Threonine/serine transporter TdcC	0.091	597	387	30	626	16	442	1.518E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q73BB8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q73BB8-F1-model_v4 Probable multidrug resistance protein NorM	0.143	451	383	192	642	5	452	4.643E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-B7MWZ0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7MWZ0-F1-model_v4 Putative multidrug resistance protein MdtD	0.136	476	346	33	508	49	450	2.825E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-P30878-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P30878-F1-model_v4 Melibiose carrier protein	0.101	538	355	33	570	47	442	2.495E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-P96792-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P96792-F1-model_v4 Isoprimeverose transporter	0.107	505	397	1	505	4	449	1.582E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q9FHB6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9FHB6-F1-model_v4 Protein DETOXIFICATION 16	0.113	508	405	132	639	23	480	4.101E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q5A6P6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5A6P6-F1-model_v4 MFS antiporter QDR1	0.097	613	429	27	639	33	508	1.004E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q03411-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q03411-F1-model_v4 Sucrose transport protein	0.117	430	355	33	435	76	505	3.475E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q9SDI4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9SDI4-F1-model_v4 Probable anion transporter 1, chloroplastic	0.128	393	311	33	425	161	518	2.297E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-P0DKH0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0DKH0-F1-model_v4 High-affinity nitrate transporter 2.2	0.122	406	343	32	437	64	455	1.719E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-C6C4L7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C6C4L7-F1-model_v4 p-hydroxybenzoic acid efflux pump subunit AaeB	0.099	639	524	30	612	1	639	2.601E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q8MI28-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8MI28-F1-model_v4 Limbin	0.091	575	435	35	609	300	779	8.504E-01	20
+DESULFOASV1_1886_hypothetical_protein	AF-Q9QY30-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9QY30-F1-model_v4 Bile salt export pump	0.101	440	338	1	440	21	397	2.945E+00	20
+DESULFOASV1_1886_hypothetical_protein	AF-A8AGR9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A8AGR9-F1-model_v4 UPF0056 inner membrane protein MarC	0.134	193	152	239	431	2	178	7.321E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q8RB29-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8RB29-F1-model_v4 Undecaprenyl-diphosphatase	0.112	263	212	203	442	2	264	4.101E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-C0QC99-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C0QC99-F1-model_v4 Undecaprenyl-diphosphatase	0.129	251	191	212	431	3	253	5.479E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-C5CBT8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C5CBT8-F1-model_v4 Undecaprenyl-diphosphatase	0.138	273	209	202	444	2	274	3.935E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-P14182-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P14182-F1-model_v4 Protein LicB	0.143	256	207	202	443	3	258	4.101E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q62F61-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q62F61-F1-model_v4 Protoheme IX farnesyltransferase	0.111	430	258	13	442	10	300	6.204E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q87IR2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q87IR2-F1-model_v4 Protoheme IX farnesyltransferase 1	0.107	366	245	33	398	23	297	6.204E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-A4Z2D2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4Z2D2-F1-model_v4 Protoheme IX farnesyltransferase	0.104	417	270	1	417	1	302	8.290E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q646D0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q646D0-F1-model_v4 Taste receptor type 2 member 60	0.107	369	255	202	570	19	305	8.290E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-A0A0A7GEY4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A0A0A7GEY4-F1-model_v4 Geranylgeranyl pyrophosphate synthase	0.104	391	281	33	423	2	316	5.952E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q4QXU5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4QXU5-F1-model_v4 Mas-related G-protein coupled receptor member X2	0.100	388	237	8	395	12	275	3.475E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q96LB1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q96LB1-F1-model_v4 Mas-related G-protein coupled receptor member X2	0.108	412	242	10	421	7	278	4.455E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q6P6S2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6P6S2-F1-model_v4 Zinc transporter ZIP11	0.148	313	204	201	441	17	329	4.274E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-O88416-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O88416-F1-model_v4 Probable G-protein coupled receptor 33	0.094	397	258	2	398	13	298	3.775E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q95KC3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q95KC3-F1-model_v4 P2Y purinoceptor 12	0.087	399	263	28	426	9	297	3.935E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-O49726-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O49726-F1-model_v4 Purine permease 21	0.122	369	285	202	570	43	368	1.046E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-P0DF78-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0DF78-F1-model_v4 Serine/threonine transporter sstT	0.111	408	315	33	440	40	394	2.711E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-B4TSR5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B4TSR5-F1-model_v4 Multidrug resistance protein MdtG	0.120	482	297	33	514	57	395	5.044E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-B5BBD5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5BBD5-F1-model_v4 Multidrug resistance protein MdtG	0.105	482	303	33	514	57	395	4.643E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q8X9I3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8X9I3-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	5.044E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-B1LIV8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1LIV8-F1-model_v4 Multidrug resistance protein MdtG	0.112	482	300	33	514	59	397	5.044E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q1RDA5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1RDA5-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	4.455E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-A7ZKF6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A7ZKF6-F1-model_v4 Multidrug resistance protein MdtG	0.119	482	298	33	514	59	397	3.475E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q0TJ20-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q0TJ20-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	4.839E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-A7ZZ10-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A7ZZ10-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	299	33	514	59	398	4.455E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-P12384-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P12384-F1-model_v4 Pheromone alpha factor receptor	0.094	423	268	1	423	1	297	2.394E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-A9N628-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A9N628-F1-model_v4 Threonine/serine transporter TdcC	0.102	413	358	200	612	35	434	2.204E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-B5XVZ7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5XVZ7-F1-model_v4 Threonine/serine transporter TdcC	0.104	430	358	200	629	35	434	1.582E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-A7ZS06-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A7ZS06-F1-model_v4 Threonine/serine transporter TdcC	0.098	412	370	202	612	23	434	2.711E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q6D2A9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6D2A9-F1-model_v4 Putative multidrug resistance protein MdtD	0.121	476	352	33	508	48	449	5.952E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q48457-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q48457-F1-model_v4 Uncharacterized membrane protein in cps region	0.130	467	387	194	639	14	480	6.740E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-F4HZH9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-F4HZH9-F1-model_v4 Protein DETOXIFICATION 11	0.121	529	410	118	646	16	483	2.825E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-P25737-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P25737-F1-model_v4 Lysine-specific permease	0.107	451	348	200	590	18	468	3.334E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q25605-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q25605-F1-model_v4 Excitatory amino acid transporter	0.111	502	404	146	647	9	463	4.274E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q9LPV5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9LPV5-F1-model_v4 High affinity nitrate transporter 2.5	0.125	410	340	32	441	45	433	2.029E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-A0R5K5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A0R5K5-F1-model_v4 Multidrug efflux pump LfrA	0.106	516	390	37	552	65	501	2.825E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-P9WG88-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WG88-F1-model_v4 Multidrug resistance protein B homolog	0.133	479	379	33	511	85	522	2.825E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-O79422-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O79422-F1-model_v4 NADH-ubiquinone oxidoreductase chain 5	0.115	458	346	33	424	32	489	5.479E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q51910-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q51910-F1-model_v4 Flagellar biosynthesis protein FlhA	0.112	449	283	194	642	31	350	1.457E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-D3GS80-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-D3GS80-F1-model_v4 Putative flagellar export/assembly protein LfhA	0.106	487	280	32	518	13	326	2.394E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q89AN5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q89AN5-F1-model_v4 Flagellar biosynthesis protein FlhA	0.107	480	276	32	511	15	324	3.475E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q5BAY0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5BAY0-F1-model_v4 ABC multidrug transporter atrD	0.111	396	271	31	426	110	415	1.719E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-J9VF33-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-J9VF33-F1-model_v4 ABC multidrug transporter MDR1	0.102	410	311	17	426	130	476	2.495E+00	19
+DESULFOASV1_1886_hypothetical_protein	AF-Q65W61-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q65W61-F1-model_v4 Putative manganese efflux pump MntP	0.122	243	153	203	445	5	179	5.711E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q7WE16-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7WE16-F1-model_v4 Protoheme IX farnesyltransferase	0.097	371	258	28	398	7	293	7.631E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B8GPF3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B8GPF3-F1-model_v4 Protoheme IX farnesyltransferase	0.121	407	243	33	439	23	299	5.952E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q1LRS0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1LRS0-F1-model_v4 Protoheme IX farnesyltransferase	0.106	366	245	33	398	25	299	6.466E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q1GE49-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1GE49-F1-model_v4 Protoheme IX farnesyltransferase	0.113	441	273	1	441	1	309	3.475E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q49SQ2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q49SQ2-F1-model_v4 Probable G-protein coupled receptor 33	0.081	378	253	33	410	35	310	4.274E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-P79236-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P79236-F1-model_v4 N-formyl peptide receptor 2	0.107	385	262	33	417	29	322	7.631E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-P79190-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P79190-F1-model_v4 N-formyl peptide receptor 2	0.115	385	259	33	417	29	322	7.321E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-O31577-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O31577-F1-model_v4 Uncharacterized MFS-type transporter YfhI	0.135	399	288	33	431	48	381	9.386E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-A5W5G7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A5W5G7-F1-model_v4 Serine/threonine transporter SstT	0.108	397	313	33	429	46	397	5.044E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q8ZQ25-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8ZQ25-F1-model_v4 Multidrug resistance protein MdtG	0.124	482	296	33	514	57	395	7.631E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B7M928-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7M928-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	6.204E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B7NAS9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7NAS9-F1-model_v4 Multidrug resistance protein MdtG	0.116	482	299	33	514	59	397	6.466E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-C4ZRZ3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C4ZRZ3-F1-model_v4 Multidrug resistance protein MdtG	0.101	482	304	33	514	59	397	7.024E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B1IV49-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1IV49-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	5.257E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B7MIJ4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7MIJ4-F1-model_v4 Multidrug resistance protein MdtG	0.116	482	299	33	514	59	397	5.711E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B6I9D0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B6I9D0-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	6.204E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-P25744-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P25744-F1-model_v4 Multidrug resistance protein MdtG	0.111	488	308	33	520	59	406	6.204E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B7MTI5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7MTI5-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	5.257E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q9I273-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9I273-F1-model_v4 Serine/threonine transporter SstT	0.122	404	306	33	436	53	401	3.775E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-A8GCZ5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A8GCZ5-F1-model_v4 Multidrug resistance protein MdtG	0.132	479	291	33	511	57	392	8.640E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q31WU4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q31WU4-F1-model_v4 Serine/threonine transporter SstT	0.113	396	312	33	428	50	402	6.204E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-P0AFF5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AFF5-F1-model_v4 Nucleoside permease NupG	0.120	480	323	29	508	35	402	3.775E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-A4SK68-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4SK68-F1-model_v4 C4-dicarboxylate transport protein	0.097	405	321	32	436	43	399	3.069E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-B7LH53-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7LH53-F1-model_v4 Threonine/serine transporter TdcC	0.101	430	359	200	629	35	434	2.114E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-A4YTR6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4YTR6-F1-model_v4 C4-dicarboxylate transport protein 2	0.110	400	315	32	431	61	415	2.825E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q8P5J5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8P5J5-F1-model_v4 C4-dicarboxylate transport protein	0.105	401	320	33	433	52	410	4.101E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q5GS15-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5GS15-F1-model_v4 NADH-quinone oxidoreductase subunit N	0.113	464	356	30	431	1	464	7.631E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q8VYL8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8VYL8-F1-model_v4 Protein DETOXIFICATION 10	0.123	529	410	118	646	16	483	4.455E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-O82811-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O82811-F1-model_v4 High-affinity nitrate transporter 2.1	0.110	406	348	32	437	63	454	2.204E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q9FJH7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9FJH7-F1-model_v4 High affinity nitrate transporter 2.3	0.126	406	342	32	437	70	461	2.495E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q9C1B3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9C1B3-F1-model_v4 Trichothecene efflux pump TRI12	0.109	557	489	1	557	1	550	2.394E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-O67265-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O67265-F1-model_v4 Flagellar biosynthesis protein FlhA	0.134	304	257	194	497	15	312	5.952E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-Q03845-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q03845-F1-model_v4 Flagellar biosynthesis protein FlhA	0.129	291	245	207	497	49	330	3.775E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-C1F1J0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C1F1J0-F1-model_v4 Glycine--tRNA ligase beta subunit	0.104	395	326	34	428	333	697	4.101E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-A9MTT7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A9MTT7-F1-model_v4 HTH-type transcriptional regulator MalT	0.094	599	444	34	632	409	899	4.839E+00	18
+DESULFOASV1_1886_hypothetical_protein	AF-P39154-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P39154-F1-model_v4 Putative manganese efflux pump MntP	0.147	248	149	194	441	9	184	8.290E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-A3DFC2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A3DFC2-F1-model_v4 Putative manganese efflux pump MntP	0.142	250	157	205	454	5	188	8.290E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q9JKT3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9JKT3-F1-model_v4 Taste receptor type 2 member 4	0.096	394	247	33	426	12	285	7.024E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q7VT22-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q7VT22-F1-model_v4 Protoheme IX farnesyltransferase	0.097	366	247	33	398	19	293	7.321E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-A9NCT0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A9NCT0-F1-model_v4 Protoheme IX farnesyltransferase	0.091	441	272	1	441	2	301	8.290E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q8Y2G4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8Y2G4-F1-model_v4 Protoheme IX farnesyltransferase	0.112	374	247	33	406	24	302	7.631E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q96LB2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q96LB2-F1-model_v4 Mas-related G-protein coupled receptor member X1	0.090	386	238	33	418	33	295	6.466E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P12526-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P12526-F1-model_v4 Proto-oncogene Mas	0.094	381	239	33	413	37	301	6.204E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q9Y2D2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9Y2D2-F1-model_v4 UDP-N-acetylglucosamine transporter	0.104	473	281	120	592	1	315	4.455E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-O49725-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O49725-F1-model_v4 Probable purine permease 10	0.114	375	293	202	576	43	374	2.114E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P81909-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P81909-F1-model_v4 Odorant receptor 22a	0.105	427	336	215	641	20	395	4.643E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q6XKD3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6XKD3-F1-model_v4 Prostaglandin D2 receptor 2	0.096	372	248	24	395	26	300	5.044E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q6AS08-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6AS08-F1-model_v4 Serine/threonine transporter SstT	0.112	400	312	33	432	49	400	3.622E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-B7LFG4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7LFG4-F1-model_v4 Multidrug resistance protein MdtG	0.101	482	304	33	514	59	397	9.783E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q485F0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q485F0-F1-model_v4 Serine/threonine transporter SstT	0.130	404	298	33	436	56	399	4.274E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-A1A9U9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A1A9U9-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	7.953E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q09366-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q09366-F1-model_v4 Uncharacterized protein ZK1320.5	0.106	368	250	35	402	5	285	4.455E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-E3GC98-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-E3GC98-F1-model_v4 Multidrug resistance protein MdtG	0.122	413	279	33	445	57	375	6.740E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q1CMJ5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1CMJ5-F1-model_v4 Serine/threonine transporter SstT	0.111	404	313	33	436	49	401	3.475E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P0AFF4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AFF4-F1-model_v4 Nucleoside permease NupG	0.121	480	323	29	508	35	402	5.479E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P27669-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P27669-F1-model_v4 Membrane sensor protein UhpC	0.113	464	317	33	496	70	427	5.257E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-B7M023-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7M023-F1-model_v4 Threonine/serine transporter TdcC	0.114	407	345	200	589	35	441	3.069E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q3YXB3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3YXB3-F1-model_v4 Threonine/serine transporter TdcC	0.095	597	386	30	626	16	442	3.775E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-A1AG28-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A1AG28-F1-model_v4 Threonine/serine transporter TdcC	0.106	413	357	200	612	35	434	4.643E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-B5F6Q0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5F6Q0-F1-model_v4 Threonine/serine transporter TdcC	0.116	427	360	200	626	35	442	4.455E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q2RUF7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2RUF7-F1-model_v4 C4-dicarboxylate transport protein	0.101	409	325	33	441	52	414	2.945E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P58734-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P58734-F1-model_v4 C4-dicarboxylate transport protein	0.107	431	305	11	441	73	414	5.044E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q28722-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q28722-F1-model_v4 Sodium-dependent phosphate transport protein 1	0.097	395	328	33	427	81	444	6.740E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-O04249-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O04249-F1-model_v4 Sugar transport protein 7	0.115	477	354	33	509	88	488	7.631E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q9LMZ9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9LMZ9-F1-model_v4 High-affinity nitrate transporter 2.2	0.112	406	347	32	437	61	452	3.334E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q9FJH8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9FJH8-F1-model_v4 High affinity nitrate transporter 2.4	0.118	406	345	32	437	63	454	4.455E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q5A1L6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5A1L6-F1-model_v4 Major glycerophosphoinositol permease GIT3	0.120	516	370	33	548	102	523	6.204E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P40730-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P40730-F1-model_v4 Uncharacterized protein YjbB	0.124	594	456	36	629	2	522	8.290E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P0AF43-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AF43-F1-model_v4 Uncharacterized protein YjbB	0.121	597	450	33	629	10	522	7.631E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q9W701-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9W701-F1-model_v4 Chloride channel protein ClC-Kb	0.121	548	432	82	629	19	510	5.479E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q9K2S2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9K2S2-F1-model_v4 Na(+)/H(+) antiporter subunit A	0.114	648	535	34	638	25	672	8.640E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-O70127-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O70127-F1-model_v4 Bile salt export pump	0.120	395	302	30	424	54	397	3.935E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-A0A0D1BUH6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A0A0D1BUH6-F1-model_v4 ABC-type transporter atr1	0.127	539	311	9	547	758	1114	2.394E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-P56698-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P56698-F1-model_v4 Probable voltage-dependent N-type calcium channel subunit alpha-1B	0.093	779	589	1	650	1100	1878	7.631E+00	17
+DESULFOASV1_1886_hypothetical_protein	AF-Q30X24-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q30X24-F1-model_v4 Putative manganese efflux pump MntP	0.114	241	158	209	449	5	183	9.783E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q5WZC7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5WZC7-F1-model_v4 Protoheme IX farnesyltransferase	0.103	404	244	33	436	20	292	9.783E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B1Y6Q4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1Y6Q4-F1-model_v4 Protoheme IX farnesyltransferase	0.100	366	253	33	398	22	303	9.386E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B8EPK3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B8EPK3-F1-model_v4 Protoheme IX farnesyltransferase	0.111	433	270	6	438	1	305	7.321E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-P0AA74-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AA74-F1-model_v4 Uncharacterized inner membrane transporter YhbE	0.111	306	263	201	506	7	303	4.455E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-P30554-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P30554-F1-model_v4 Proto-oncogene Mas	0.096	378	236	36	413	40	301	7.024E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q8N1S5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8N1S5-F1-model_v4 Zinc transporter ZIP11	0.129	320	209	201	441	17	336	6.204E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-O31559-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O31559-F1-model_v4 Putative membrane-bound acyltransferase YfiQ	0.112	457	285	56	512	1	322	3.935E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q8E3S4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8E3S4-F1-model_v4 Serine/threonine transporter SstT	0.138	403	293	33	435	51	391	4.274E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q87FP8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q87FP8-F1-model_v4 Serine/threonine transporter SstT	0.092	407	322	33	439	47	402	9.783E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B7UP67-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7UP67-F1-model_v4 Multidrug resistance protein MdtG	0.117	482	298	33	514	59	397	9.005E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B7VA62-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B7VA62-F1-model_v4 Serine/threonine transporter SstT	0.117	404	310	33	436	50	401	5.257E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B5QZQ4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B5QZQ4-F1-model_v4 Serine/threonine transporter SstT	0.109	404	314	33	436	50	402	4.839E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-C6DKF1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-C6DKF1-F1-model_v4 Serine/threonine transporter SstT	0.123	404	309	33	436	49	401	6.740E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B1LFL8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1LFL8-F1-model_v4 Threonine/serine transporter TdcC	0.090	583	380	30	612	16	434	4.101E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q31WR5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q31WR5-F1-model_v4 Threonine/serine transporter TdcC	0.112	427	361	200	626	35	442	6.204E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B0RP10-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B0RP10-F1-model_v4 C4-dicarboxylate transport protein	0.120	397	313	33	429	52	408	8.290E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q940N9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q940N9-F1-model_v4 Protein DETOXIFICATION 39	0.112	577	421	53	629	24	498	8.640E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-P78831-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P78831-F1-model_v4 High-affinity glucose transporter ght5	0.120	474	356	33	506	61	466	7.024E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q8BLE7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8BLE7-F1-model_v4 Vesicular glutamate transporter 2	0.106	393	325	37	429	131	495	8.640E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-Q2RKV5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2RKV5-F1-model_v4 Glycine--tRNA ligase beta subunit	0.110	396	320	33	428	327	686	6.204E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-B4SVL9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B4SVL9-F1-model_v4 HTH-type transcriptional regulator MalT	0.084	645	536	46	631	251	895	5.711E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-F2T1C4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-F2T1C4-F1-model_v4 ABC multidrug transporter MDR2	0.117	424	312	1	424	48	401	5.257E+00	16
+DESULFOASV1_1886_hypothetical_protein	AF-A8A082-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A8A082-F1-model_v4 UPF0056 inner membrane protein MarC	0.126	299	184	213	511	2	212	6.740E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q96LB0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q96LB0-F1-model_v4 Mas-related G-protein coupled receptor member X3	0.081	363	217	33	395	33	269	9.386E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q5U9D9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5U9D9-F1-model_v4 Mas-related G-protein coupled receptor member X2	0.102	363	216	33	395	36	276	9.386E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q49SQ3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q49SQ3-F1-model_v4 Probable G-protein coupled receptor 33	0.083	378	252	33	410	35	310	5.952E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-A6H0G8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A6H0G8-F1-model_v4 Na(+)/H(+) antiporter NhaA	0.142	384	308	33	416	13	372	8.290E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-A6RJQ8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A6RJQ8-F1-model_v4 GDP-mannose transporter	0.131	279	216	207	455	53	331	9.005E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q3JZQ1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3JZQ1-F1-model_v4 Serine/threonine transporter SstT	0.125	403	298	33	435	51	391	6.740E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q3K9V7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3K9V7-F1-model_v4 Serine/threonine transporter SstT	0.148	386	256	253	553	19	404	7.024E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-A4THM4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4THM4-F1-model_v4 Serine/threonine transporter SstT	0.113	404	312	33	436	49	401	5.711E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-P20672-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P20672-F1-model_v4 C4-dicarboxylate transport protein	0.116	425	298	11	435	72	409	7.631E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q26789-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q26789-F1-model_v4 73 kDa paraflagellar rod protein	0.115	614	497	34	647	2	564	7.024E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-P22225-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P22225-F1-model_v4 69 kDa paraflagellar rod protein	0.106	625	509	25	649	15	584	7.631E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q91197-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q91197-F1-model_v4 Interferon-induced GTP-binding protein Mx3	0.099	342	294	100	441	258	584	7.631E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-A3PH07-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A3PH07-F1-model_v4 Glycine--tRNA ligase beta subunit	0.103	395	327	34	428	325	689	8.640E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q8ZLI3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8ZLI3-F1-model_v4 HTH-type transcriptional regulator MalT	0.095	569	461	63	631	386	895	7.953E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-B6I2Y2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B6I2Y2-F1-model_v4 HTH-type transcriptional regulator MalT	0.098	561	456	71	631	390	895	8.290E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-D4A9R4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-D4A9R4-F1-model_v4 Proline-rich transmembrane protein 4	0.112	258	204	203	433	367	624	8.290E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-Q6Y306-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6Y306-F1-model_v4 ATP-binding cassette sub-family C member 12	0.087	401	269	33	433	122	417	5.479E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-P38735-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P38735-F1-model_v4 ABC transporter ATP-binding protein/permease VMR1	0.106	608	484	27	634	90	631	2.711E+00	15
+DESULFOASV1_1886_hypothetical_protein	AF-P0AA75-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0AA75-F1-model_v4 Uncharacterized inner membrane transporter YhbE	0.114	306	262	201	506	7	303	6.740E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-P23516-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P23516-F1-model_v4 High-affinity nickel transport protein	0.117	524	291	119	642	14	343	7.024E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q8DY58-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8DY58-F1-model_v4 Serine/threonine transporter SstT	0.113	403	307	33	435	45	391	8.290E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-B8H0N0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B8H0N0-F1-model_v4 C4-dicarboxylate transport protein	0.106	397	320	32	428	38	396	5.257E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-B4EXQ1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B4EXQ1-F1-model_v4 Serine/threonine transporter SstT	0.135	403	275	33	435	83	401	5.711E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-A4WFV0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A4WFV0-F1-model_v4 C4-dicarboxylate transport protein	0.105	398	317	32	429	43	397	9.783E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q1LRW2-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1LRW2-F1-model_v4 C4-dicarboxylate transport protein 1	0.093	401	298	31	431	71	400	9.386E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-A9BZG1-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A9BZG1-F1-model_v4 C4-dicarboxylate transport protein	0.093	417	306	11	427	73	410	4.839E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q01857-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q01857-F1-model_v4 C4-dicarboxylate transport protein	0.124	403	314	33	435	54	412	9.386E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q2KYU4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2KYU4-F1-model_v4 C4-dicarboxylate transport protein	0.123	409	317	33	441	53	415	7.024E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-B2FTT6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B2FTT6-F1-model_v4 C4-dicarboxylate transport protein	0.108	409	323	33	441	52	414	7.953E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-A1W1Z0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A1W1Z0-F1-model_v4 C4-dicarboxylate transport protein	0.107	410	361	20	429	5	409	7.024E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-O84548-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O84548-F1-model_v4 Probable hexose phosphate transport protein	0.105	413	365	33	441	30	442	6.204E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q5BIZ0-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q5BIZ0-F1-model_v4 Major facilitator superfamily domain-containing protein 4A	0.112	488	392	32	519	51	492	7.631E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q8R070-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8R070-F1-model_v4 Glucose-6-phosphate exchanger SLC37A1	0.104	594	449	30	623	14	515	6.204E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q8I4N3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8I4N3-F1-model_v4 Nucleoporin ndc-1	0.097	513	393	195	630	72	584	9.783E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-B1AT66-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1AT66-F1-model_v4 Monocarboxylate transporter 7	0.091	468	405	203	648	107	574	9.386E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q03631-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q03631-F1-model_v4 Weak acid resistance protein 1	0.102	439	367	28	437	341	779	8.640E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q9VEV4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9VEV4-F1-model_v4 Protein CLEC16A homolog	0.090	640	489	29	566	38	677	7.321E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q96J65-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q96J65-F1-model_v4 ATP-binding cassette sub-family C member 12	0.078	399	273	35	433	120	416	8.290E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q14C86-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q14C86-F1-model_v4 GTPase-activating protein and VPS9 domain-containing protein 1	0.125	397	319	33	429	19	383	7.953E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-Q6FWS5-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6FWS5-F1-model_v4 Pleiotropic ABC efflux transporter of multiple drugs YBT1	0.101	642	530	1	642	94	684	3.199E+00	14
+DESULFOASV1_1886_hypothetical_protein	AF-A1JR18-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A1JR18-F1-model_v4 Serine/threonine transporter SstT	0.111	396	313	33	428	49	401	9.386E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q1C306-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q1C306-F1-model_v4 Serine/threonine transporter SstT	0.107	397	314	33	429	49	401	8.640E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-B1IRJ9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-B1IRJ9-F1-model_v4 Threonine/serine transporter TdcC	0.097	413	360	200	612	35	434	7.953E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q9D3A9-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9D3A9-F1-model_v4 Protein tweety homolog 1	0.091	413	344	128	540	40	418	7.631E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-A6UH53-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A6UH53-F1-model_v4 C4-dicarboxylate transport protein	0.110	423	300	11	433	84	421	8.290E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q99808-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q99808-F1-model_v4 Equilibrative nucleoside transporter 1	0.124	441	357	30	437	7	447	9.783E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q9PJJ8-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9PJJ8-F1-model_v4 Probable hexose phosphate transport protein	0.092	496	399	19	514	4	443	9.005E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-P9WJY3-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P9WJY3-F1-model_v4 Probable triacylglyceride transporter Rv1410c	0.125	524	393	34	557	42	491	7.953E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q8R139-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8R139-F1-model_v4 Equilibrative nucleoside transporter 4	0.103	445	374	13	430	51	495	7.953E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q3J5C7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q3J5C7-F1-model_v4 Glycine--tRNA ligase beta subunit	0.105	396	327	33	428	324	689	8.290E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-P47144-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P47144-F1-model_v4 Protein ECM27	0.084	701	557	29	637	19	719	9.386E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q9ZE42-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9ZE42-F1-model_v4 Uncharacterized protein RP106	0.087	361	304	60	420	578	911	9.386E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q4UNB6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q4UNB6-F1-model_v4 Uncharacterized protein RF_0091	0.089	361	303	60	420	579	912	8.640E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q54K24-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q54K24-F1-model_v4 ABC transporter C family member 14	0.092	507	418	51	557	572	1032	3.622E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q8ST87-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q8ST87-F1-model_v4 ABC transporter C family member 10	0.087	545	310	13	557	689	1028	4.274E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-Q9R1S7-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9R1S7-F1-model_v4 ATP-binding cassette sub-family C member 6	0.099	549	300	1	549	901	1234	7.953E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-O95255-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-O95255-F1-model_v4 ATP-binding cassette sub-family C member 6	0.082	556	297	11	566	919	1243	6.740E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-P0CE70-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P0CE70-F1-model_v4 ABC transporter NFT1	0.100	607	473	33	639	102	628	7.631E+00	13
+DESULFOASV1_1886_hypothetical_protein	AF-P40614-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P40614-F1-model_v4 Phosphate carrier protein, mitochondrial	0.107	406	271	20	425	15	318	7.953E+00	12
+DESULFOASV1_1886_hypothetical_protein	AF-Q9SX93-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q9SX93-F1-model_v4 Putative purine permease 19	0.084	369	306	203	571	44	378	9.783E+00	12
+DESULFOASV1_1886_hypothetical_protein	AF-A0A0E4AZP4-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-A0A0E4AZP4-F1-model_v4 MFS transporter fsa7	0.136	560	401	12	571	38	502	6.740E+00	12
+DESULFOASV1_1886_hypothetical_protein	AF-P46906-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-P46906-F1-model_v4 Arginine--tRNA ligase	0.092	406	359	37	432	143	548	8.640E+00	12
+DESULFOASV1_1886_hypothetical_protein	AF-Q54U44-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q54U44-F1-model_v4 ABC transporter C family member 12	0.103	553	315	1	553	671	1022	9.783E+00	12
+DESULFOASV1_1886_hypothetical_protein	AF-Q54LE6-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q54LE6-F1-model_v4 ABC transporter C family member 5	0.096	548	339	3	550	803	1178	9.386E+00	12
+DESULFOASV1_1886_hypothetical_protein	AF-Q6AX57-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q6AX57-F1-model_v4 Protein tweety homolog 1-A	0.098	403	282	34	436	95	408	8.640E+00	11
+DESULFOASV1_1886_hypothetical_protein	AF-Q2KJ98-F1-model_v4	DESULFOASV1_1886_hypothetical_protein	AF-Q2KJ98-F1-model_v4 Protein tweety homolog 1	0.120	409	290	28	436	81	410	9.005E+00	11

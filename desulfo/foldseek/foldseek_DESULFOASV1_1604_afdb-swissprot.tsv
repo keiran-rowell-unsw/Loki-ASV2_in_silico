@@ -1,0 +1,866 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52228-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52228-F1-model_v4 Thioredoxin C-3	0.413	138	80	1	138	1	137	2.498E-19	683
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG6-F1-model_v4 Thioredoxin 2	0.357	140	89	1	140	1	139	6.241E-19	663
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG7-F1-model_v4 Thioredoxin 2	0.357	140	89	1	140	1	139	6.241E-19	663
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG4-F1-model_v4 Thioredoxin 2	0.357	140	89	1	140	1	139	1.282E-18	653
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AGG5-F1-model_v4 Thioredoxin 2	0.357	140	89	1	140	1	139	2.163E-18	645
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O83889-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O83889-F1-model_v4 Thioredoxin	0.333	105	69	36	140	2	105	1.183E-12	436
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P48384-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P48384-F1-model_v4 Thioredoxin M-type, chloroplastic	0.358	106	67	35	140	67	172	2.132E-12	432
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P43785-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P43785-F1-model_v4 Thioredoxin	0.336	107	70	34	140	1	107	7.388E-12	422
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P37395-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P37395-F1-model_v4 Thioredoxin	0.373	107	66	34	140	1	107	4.990E-12	419
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P00275-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P00275-F1-model_v4 Thioredoxin C-1	0.382	102	62	39	140	4	105	7.388E-12	414
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9X2T1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9X2T1-F1-model_v4 Thioredoxin	0.352	102	65	39	140	7	108	1.094E-11	414
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P80579-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P80579-F1-model_v4 Thioredoxin	0.368	103	64	37	139	2	103	8.990E-12	412
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2YXD0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2YXD0-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.094E-11	409
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HQ29-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HQ29-F1-model_v4 Thioredoxin	0.375	104	63	37	140	3	104	1.025E-11	409
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P07887-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P07887-F1-model_v4 Thioredoxin C-2	0.342	108	70	33	140	1	108	1.331E-11	409
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HGT9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HGT9-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.168E-11	408
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P57653-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P57653-F1-model_v4 Thioredoxin	0.336	107	70	34	140	1	107	1.517E-11	408
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0K5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0K5-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.421E-11	406
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0K6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0K6-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.517E-11	405
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GA69-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GA69-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.517E-11	405
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0K4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0K4-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.421E-11	405
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4L5F0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4L5F0-F1-model_v4 Thioredoxin	0.365	104	64	37	140	3	104	1.331E-11	405
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4UNK3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4UNK3-F1-model_v4 Thioredoxin	0.343	102	66	39	140	4	105	1.971E-11	405
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FHT6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FHT6-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.517E-11	404
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG67-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG67-F1-model_v4 Thioredoxin	0.382	102	62	37	138	9	110	1.729E-11	404
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P14949-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P14949-F1-model_v4 Thioredoxin	0.346	104	66	37	140	3	104	1.421E-11	403
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FZD2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FZD2-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.620E-11	403
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L1-F1-model_v4 Thioredoxin 1	0.379	108	66	33	140	1	107	7.388E-12	403
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q49WR2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q49WR2-F1-model_v4 Thioredoxin	0.365	104	64	37	140	3	104	1.620E-11	402
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P99122-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P99122-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.971E-11	402
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CM49-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CM49-F1-model_v4 Thioredoxin	0.323	105	70	36	140	2	106	3.115E-11	402
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L2-F1-model_v4 Thioredoxin 1	0.379	108	66	33	140	1	107	7.888E-12	402
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GHU0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GHU0-F1-model_v4 Thioredoxin	0.384	104	62	37	140	3	104	1.971E-11	401
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZEE0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZEE0-F1-model_v4 Thioredoxin	0.323	102	68	39	140	4	105	2.918E-11	401
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A617-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A617-F1-model_v4 Thioredoxin	0.382	102	62	37	138	9	110	2.246E-11	401
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA29-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA29-F1-model_v4 Thioredoxin 1	0.364	107	67	33	139	1	107	1.421E-11	400
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7M1B9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7M1B9-F1-model_v4 Thioredoxin	0.392	107	64	36	142	3	109	1.846E-11	400
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CPL5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CPL5-F1-model_v4 Thioredoxin	0.375	104	63	37	140	3	104	2.246E-11	399
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92JR5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92JR5-F1-model_v4 Thioredoxin	0.343	102	66	39	140	4	105	2.918E-11	399
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P12243-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P12243-F1-model_v4 Thioredoxin 1	0.383	107	65	34	140	1	107	2.246E-11	398
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA27-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA27-F1-model_v4 Thioredoxin 1	0.364	107	67	33	139	1	107	1.729E-11	398
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA30-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA30-F1-model_v4 Thioredoxin 1	0.364	107	67	33	139	1	107	1.620E-11	398
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA26-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA26-F1-model_v4 Thioredoxin 1	0.364	107	67	33	139	1	107	1.620E-11	398
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P08058-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P08058-F1-model_v4 Thioredoxin	0.314	105	71	36	140	2	106	5.613E-11	395
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG66-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG66-F1-model_v4 Thioredoxin	0.371	105	65	34	138	6	110	2.733E-11	395
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8KEA4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8KEA4-F1-model_v4 Thioredoxin 1	0.354	96	61	45	140	5	100	1.421E-11	394
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA28-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA28-F1-model_v4 Thioredoxin 1	0.364	107	67	33	139	1	107	2.398E-11	393
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P50254-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P50254-F1-model_v4 Thioredoxin	0.382	102	62	39	140	5	106	3.551E-11	392
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA25-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0AA25-F1-model_v4 Thioredoxin 1	0.364	107	67	33	139	1	107	2.733E-11	391
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RKN1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RKN1-F1-model_v4 Thioredoxin	0.333	102	67	39	140	4	105	4.924E-11	388
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8KE49-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8KE49-F1-model_v4 Thioredoxin 2	0.324	108	72	33	140	1	108	3.326E-11	388
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P33791-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P33791-F1-model_v4 Thioredoxin	0.352	102	65	39	140	5	106	8.872E-11	385
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O17486-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O17486-F1-model_v4 Thioredoxin	0.333	108	69	33	140	3	107	2.918E-11	385
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P59527-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P59527-F1-model_v4 Thioredoxin	0.358	106	67	33	138	1	106	3.326E-11	385
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52231-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52231-F1-model_v4 Thioredoxin	0.398	103	61	36	138	4	105	4.924E-11	384
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L3-F1-model_v4 Thioredoxin	0.284	102	71	39	140	4	103	2.918E-11	383
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZP20-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZP20-F1-model_v4 Thioredoxin M5, chloroplastic	0.306	133	90	12	142	40	172	5.057E-13	382
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Z7P5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Z7P5-F1-model_v4 Thioredoxin	0.352	102	64	39	140	4	102	3.791E-11	381
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52233-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52233-F1-model_v4 Thioredoxin	0.392	102	61	39	140	7	108	8.872E-11	381
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O30974-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O30974-F1-model_v4 Thioredoxin	0.367	106	65	37	140	7	112	4.047E-11	381
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52232-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52232-F1-model_v4 Thioredoxin-like protein slr0233	0.408	93	54	46	138	11	103	5.992E-11	379
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P10472-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P10472-F1-model_v4 Thioredoxin	0.330	106	70	34	139	1	106	7.784E-11	379
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9PJK3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9PJK3-F1-model_v4 Thioredoxin	0.352	102	64	39	140	4	102	5.257E-11	378
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O84544-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O84544-F1-model_v4 Thioredoxin	0.362	102	63	39	140	4	102	4.924E-11	377
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P66928-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P66928-F1-model_v4 Thioredoxin	0.289	107	73	33	139	1	104	2.560E-11	376
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P66929-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P66929-F1-model_v4 Thioredoxin	0.289	107	73	33	139	1	104	3.115E-11	374
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A4L4-F1-model_v4 Thioredoxin	0.284	102	71	39	140	4	103	6.397E-11	373
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P51225-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P51225-F1-model_v4 Thioredoxin	0.390	100	60	39	138	5	104	1.230E-10	373
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O22022-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O22022-F1-model_v4 Thioredoxin	0.352	102	64	39	140	3	102	5.613E-11	371
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P50338-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P50338-F1-model_v4 Thioredoxin	0.355	104	66	39	142	5	108	1.598E-10	368
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P20857-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P20857-F1-model_v4 Thioredoxin 2	0.272	110	79	33	142	1	110	1.314E-10	367
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O51890-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O51890-F1-model_v4 Thioredoxin	0.317	107	72	34	140	1	107	2.526E-10	366
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52230-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52230-F1-model_v4 Thioredoxin 1	0.326	104	69	39	142	7	110	1.822E-10	365
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52227-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52227-F1-model_v4 Thioredoxin	0.333	102	65	39	140	4	102	6.829E-11	364
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZP21-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZP21-F1-model_v4 Thioredoxin M-type, chloroplastic	0.314	140	93	3	142	40	175	4.737E-13	364
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P73263-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P73263-F1-model_v4 Thioredoxin-like protein slr1139	0.273	106	76	36	141	2	107	2.697E-10	361
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q68Y00-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q68Y00-F1-model_v4 Thioredoxin	0.320	100	67	39	138	4	103	4.263E-10	360
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P23400-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P23400-F1-model_v4 Thioredoxin M-type, chloroplastic	0.313	134	87	6	139	11	138	1.109E-12	359
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RD25-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RD25-F1-model_v4 Putative thioredoxin 2	0.314	105	70	34	138	1	103	2.366E-10	356
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q41864-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q41864-F1-model_v4 Thioredoxin M-type, chloroplastic	0.295	142	99	1	142	25	166	9.726E-13	353
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O48737-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O48737-F1-model_v4 Thioredoxin M1, chloroplastic	0.279	129	89	12	140	56	179	6.921E-12	353
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P22803-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P22803-F1-model_v4 Thioredoxin-2	0.359	102	64	39	140	4	104	3.074E-10	352
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P07591-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P07591-F1-model_v4 Thioredoxin M-type, chloroplastic	0.290	130	90	10	139	51	178	4.378E-12	345
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SEU6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SEU6-F1-model_v4 Thioredoxin M4, chloroplastic	0.307	127	87	12	138	63	189	4.990E-12	343
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P75512-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P75512-F1-model_v4 Thioredoxin	0.373	99	61	39	137	4	101	5.913E-10	340
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7X8R5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7X8R5-F1-model_v4 Thioredoxin M2, chloroplastic	0.317	129	84	12	140	55	178	1.331E-11	338
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XGS0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XGS0-F1-model_v4 Thioredoxin M-type, chloroplastic	0.253	130	91	10	139	53	175	2.733E-11	335
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P46843-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P46843-F1-model_v4 Bifunctional thioredoxin reductase/thioredoxin	0.292	129	87	10	138	329	452	1.846E-11	335
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6H7E4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6H7E4-F1-model_v4 Thioredoxin M1, chloroplastic	0.291	134	86	7	140	49	171	8.421E-12	330
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8NBS9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8NBS9-F1-model_v4 Thioredoxin domain-containing protein 5	0.259	106	78	33	138	187	292	4.263E-10	329
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P22217-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P22217-F1-model_v4 Thioredoxin-1	0.300	102	69	39	140	4	103	2.493E-09	324
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O14463-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O14463-F1-model_v4 Thioredoxin-1	0.291	102	70	39	140	4	103	3.034E-09	324
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P81109-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P81109-F1-model_v4 Thioredoxin	0.291	103	72	39	140	3	105	2.049E-09	324
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9UW02-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9UW02-F1-model_v4 Thioredoxin	0.291	101	71	39	139	4	104	1.684E-09	324
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q05739-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q05739-F1-model_v4 Thioredoxin	0.347	95	61	39	133	7	100	1.798E-09	324
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9R6P9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9R6P9-F1-model_v4 Thioredoxin	0.292	98	68	39	136	3	99	2.335E-09	320
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NPF9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NPF9-F1-model_v4 Thioredoxin Y1, chloroplastic	0.335	131	85	12	142	42	170	1.729E-11	319
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LD49-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LD49-F1-model_v4 Thioredoxin X, chloroplastic	0.279	127	85	12	138	56	174	5.613E-11	319
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WNE3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WNE3-F1-model_v4 Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase	0.307	102	69	39	139	5	106	1.477E-09	319
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P80028-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P80028-F1-model_v4 Thioredoxin H-type	0.376	107	64	39	142	7	113	5.913E-10	317
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RQI9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RQI9-F1-model_v4 Thioredoxin	0.310	101	69	39	139	3	103	3.941E-09	314
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O97680-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O97680-F1-model_v4 Thioredoxin	0.266	102	74	39	140	4	105	4.795E-09	314
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RQJ0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RQJ0-F1-model_v4 Thioredoxin Asp f 29	0.281	109	77	33	140	1	109	2.842E-09	314
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C9K7C5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C9K7C5-F1-model_v4 Thioredoxin AMT13	0.254	104	77	35	138	4	107	4.492E-09	313
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P82460-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P82460-F1-model_v4 Thioredoxin	0.257	102	75	39	140	4	105	5.465E-09	312
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P21609-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P21609-F1-model_v4 Thioredoxin	0.295	105	73	39	142	3	107	5.465E-09	312
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SEU8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SEU8-F1-model_v4 Thioredoxin M2, chloroplastic	0.274	131	92	10	140	58	185	7.784E-11	312
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q70G58-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q70G58-F1-model_v4 Thioredoxin reductase NTRC	0.240	100	75	39	138	414	513	4.492E-09	312
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P50413-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P50413-F1-model_v4 Thioredoxin	0.266	102	74	39	140	4	105	5.835E-09	311
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VWG7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VWG7-F1-model_v4 TPR repeat-containing thioredoxin TDX	0.275	108	75	35	139	270	377	1.384E-09	311
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P21610-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P21610-F1-model_v4 Thioredoxin	0.262	103	75	39	140	7	109	7.100E-09	310
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P47370-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P47370-F1-model_v4 Thioredoxin	0.356	99	62	39	137	4	101	6.650E-09	308
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29448-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29448-F1-model_v4 Thioredoxin H1	0.311	106	71	35	138	6	111	1.919E-09	308
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0D840-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0D840-F1-model_v4 Thioredoxin H1	0.283	110	77	35	142	6	115	1.577E-09	308
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SEU7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SEU7-F1-model_v4 Thioredoxin M3, chloroplastic	0.240	129	93	10	138	47	169	9.471E-11	308
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q07090-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q07090-F1-model_v4 Thioredoxin H-type 2	0.265	110	79	35	142	5	114	2.049E-09	307
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10N04-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10N04-F1-model_v4 Protein disulfide isomerase-like 5-1	0.207	106	82	35	138	29	134	4.795E-09	307
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9USR1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9USR1-F1-model_v4 Thioredoxin-like protein 1	0.269	102	74	36	137	2	103	3.239E-09	307
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q28ID3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q28ID3-F1-model_v4 Glutaredoxin-3	0.227	108	83	34	141	1	108	5.835E-09	307
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A2YIW7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A2YIW7-F1-model_v4 Thioredoxin H-type	0.283	110	77	35	142	6	115	1.919E-09	306
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8GYD1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8GYD1-F1-model_v4 Protein disulfide-isomerase 5-1	0.201	127	100	12	138	5	130	8.872E-11	306
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8IFW4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8IFW4-F1-model_v4 Thioredoxin-T	0.284	99	70	41	139	7	105	2.842E-09	306
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7KQL8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7KQL8-F1-model_v4 Thioredoxin	0.247	100	73	39	138	4	101	1.198E-08	305
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P34723-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P34723-F1-model_v4 Thioredoxin	0.298	103	71	36	138	2	103	9.847E-09	305
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5JMR9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5JMR9-F1-model_v4 Thioredoxin Y, chloroplastic	0.346	127	77	12	138	44	162	6.397E-11	305
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O97508-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O97508-F1-model_v4 Thioredoxin	0.276	102	73	39	140	4	105	1.051E-08	304
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P08628-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P08628-F1-model_v4 Thioredoxin	0.271	100	72	39	138	4	103	8.639E-09	304
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10057-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10057-F1-model_v4 Putative protein disulfide-isomerase C1F5.02	0.276	129	89	10	138	2	125	1.314E-10	304
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9BDJ3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9BDJ3-F1-model_v4 Thioredoxin	0.264	102	74	39	140	4	105	8.639E-09	303
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9TW67-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9TW67-F1-model_v4 Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase	0.280	105	73	37	139	2	106	3.239E-09	303
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39239-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39239-F1-model_v4 Thioredoxin H4	0.272	109	76	35	139	6	114	1.919E-09	302
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P11232-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P11232-F1-model_v4 Thioredoxin	0.245	102	76	39	140	4	105	1.198E-08	299
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29451-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29451-F1-model_v4 Thioredoxin	0.254	102	75	39	140	4	105	9.847E-09	298
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6XHI1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6XHI1-F1-model_v4 Thioredoxin-2	0.292	103	72	39	140	4	106	3.941E-09	298
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RQJ1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RQJ1-F1-model_v4 Thioredoxin Asp f 28	0.293	107	74	33	139	2	106	1.051E-08	298
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96419-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96419-F1-model_v4 Thioredoxin H-type	0.261	109	78	36	142	6	114	5.119E-09	298
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8L7S9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8L7S9-F1-model_v4 Thioredoxin Y2, chloroplastic	0.287	132	89	7	138	36	161	4.924E-11	298
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O76003-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O76003-F1-model_v4 Glutaredoxin-3	0.254	105	78	35	139	11	115	4.795E-09	298
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9JLZ1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9JLZ1-F1-model_v4 Glutaredoxin-3	0.247	119	89	23	141	1	119	2.842E-09	298
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q98TX1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q98TX1-F1-model_v4 Thioredoxin	0.273	102	73	39	140	4	105	5.835E-09	297
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P10639-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P10639-F1-model_v4 Thioredoxin	0.245	102	76	39	140	4	105	1.366E-08	297
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q43636-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q43636-F1-model_v4 Thioredoxin H-type	0.283	110	77	35	142	6	115	4.795E-09	297
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29449-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29449-F1-model_v4 Thioredoxin H-type 1	0.284	120	84	25	142	2	121	1.684E-09	297
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17424-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17424-F1-model_v4 Probable thioredoxin-2	0.257	133	95	10	142	17	145	9.471E-11	297
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LXZ8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LXZ8-F1-model_v4 Putative thioredoxin H10	0.290	86	59	53	138	62	145	9.223E-09	297
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9V429-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9V429-F1-model_v4 Thioredoxin-2	0.292	103	72	39	140	4	106	7.580E-09	296
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39362-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39362-F1-model_v4 Thioredoxin H-type 2	0.263	113	79	35	142	6	118	2.493E-09	295
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XQQ2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XQQ2-F1-model_v4 Thioredoxin M3, chloroplastic	0.251	127	90	12	138	48	168	5.538E-10	295
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6ES52-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6ES52-F1-model_v4 TPR repeat-containing thioredoxin TDX	0.214	110	84	35	142	208	317	9.847E-09	295
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P10599-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P10599-F1-model_v4 Thioredoxin	0.254	102	75	39	140	4	105	1.894E-08	294
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P42115-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P42115-F1-model_v4 Thioredoxin	0.233	119	81	33	138	1	119	8.755E-10	294
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O65049-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O65049-F1-model_v4 Thioredoxin H-type	0.295	102	70	39	138	8	109	3.034E-09	293
+DESULFOASV1_1604_thioredoxin_TrxC	AF-M1A3D5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-M1A3D5-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.228	105	78	39	140	71	175	1.279E-08	292
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P08629-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P08629-F1-model_v4 Thioredoxin	0.273	102	73	39	140	4	105	2.159E-08	291
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZPH2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZPH2-F1-model_v4 Monothiol glutaredoxin-S17	0.214	110	84	33	142	1	108	9.847E-09	291
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XKD0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XKD0-F1-model_v4 Thioredoxin X, chloroplastic	0.289	134	91	10	138	39	172	1.230E-10	290
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29429-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29429-F1-model_v4 Thioredoxin	0.271	106	76	33	138	3	107	3.196E-08	289
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P97615-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P97615-F1-model_v4 Thioredoxin, mitochondrial	0.282	131	92	10	138	33	163	3.074E-10	289
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P97493-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P97493-F1-model_v4 Thioredoxin, mitochondrial	0.282	131	92	10	138	33	163	3.504E-10	288
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95108-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95108-F1-model_v4 Thioredoxin, mitochondrial	0.274	131	93	10	138	33	163	3.994E-10	287
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P38659-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P38659-F1-model_v4 Protein disulfide-isomerase A4	0.333	103	67	37	138	177	279	1.458E-08	287
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29445-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29445-F1-model_v4 Thioredoxin-1	0.233	106	78	33	138	1	103	1.556E-08	286
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39241-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39241-F1-model_v4 Thioredoxin H5	0.283	110	77	35	142	5	114	1.366E-08	285
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9M7X9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9M7X9-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.257	105	75	39	140	79	183	2.159E-08	285
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQM9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQM9-F1-model_v4 Glutaredoxin-3	0.239	119	90	23	141	1	119	7.580E-09	285
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9VYV3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9VYV3-F1-model_v4 Thioredoxin domain-containing protein 5 homolog	0.286	134	88	5	138	146	269	6.739E-10	285
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q91W90-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q91W90-F1-model_v4 Thioredoxin domain-containing protein 5	0.219	130	96	9	138	155	278	3.994E-10	285
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DGI3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DGI3-F1-model_v4 Thioredoxin	0.271	104	74	39	140	4	107	1.198E-08	284
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q42403-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q42403-F1-model_v4 Thioredoxin H3	0.258	111	79	35	142	5	115	9.223E-09	283
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99757-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99757-F1-model_v4 Thioredoxin, mitochondrial	0.274	133	93	6	138	35	163	4.263E-10	283
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P77395-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P77395-F1-model_v4 Chaperedoxin	0.235	106	80	36	140	5	110	2.159E-08	283
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17967-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17967-F1-model_v4 Protein disulfide-isomerase 1	0.294	116	80	23	138	13	127	2.493E-09	283
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R9M3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R9M3-F1-model_v4 Thioredoxin	0.252	103	76	39	140	4	106	2.804E-08	282
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O81332-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O81332-F1-model_v4 Thioredoxin F-type, chloroplastic	0.286	127	89	12	138	62	187	1.919E-09	282
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q58DA7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q58DA7-F1-model_v4 Glutaredoxin-3	0.233	115	86	25	139	2	114	4.492E-09	281
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O22229-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O22229-F1-model_v4 NADPH-dependent thioredoxin reductase 3	0.213	131	100	10	140	402	529	8.200E-10	281
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A2YUQ6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A2YUQ6-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.258	134	99	7	140	56	189	3.994E-10	280
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P12865-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P12865-F1-model_v4 Bloodstream-specific protein 2	0.258	116	85	23	138	7	121	9.847E-09	280
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O32171-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O32171-F1-model_v4 Thioredoxin-like protein YusE	0.217	101	75	39	139	3	99	2.994E-08	278
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P60226-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P60226-F1-model_v4 Thioredoxin-1	0.250	101	74	39	138	3	103	1.662E-08	278
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9MAU6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9MAU6-F1-model_v4 Protein disulfide-isomerase like 2-2	0.288	103	72	37	138	169	271	4.732E-08	278
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P68569-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P68569-F1-model_v4 SPbeta prophage-derived disulfide bond formation protein A	0.236	107	79	36	139	28	134	5.119E-09	277
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O51088-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O51088-F1-model_v4 Thioredoxin	0.270	110	72	39	138	4	113	1.051E-08	276
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O94504-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O94504-F1-model_v4 Thioredoxin-2, mitochondrial	0.193	128	97	12	139	11	131	2.049E-09	275
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8R4U2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8R4U2-F1-model_v4 Protein disulfide-isomerase	0.303	110	73	33	138	24	133	9.223E-09	275
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q921X9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q921X9-F1-model_v4 Protein disulfide-isomerase A5	0.250	108	77	37	140	151	258	5.052E-08	274
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P17967-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P17967-F1-model_v4 Protein disulfide-isomerase	0.346	99	63	39	135	36	134	3.412E-08	274
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4N4N8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4N4N8-F1-model_v4 Thioredoxin domain-containing protein	0.290	115	75	34	140	29	143	5.835E-09	273
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P47938-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P47938-F1-model_v4 Thioredoxin-1	0.240	101	75	39	138	3	103	2.627E-08	272
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29450-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29450-F1-model_v4 Thioredoxin F-type, chloroplastic	0.225	129	98	10	138	52	178	1.214E-09	272
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86H62-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86H62-F1-model_v4 Glutaredoxin-3 homolog	0.209	103	78	39	138	4	106	2.804E-08	270
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O43396-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O43396-F1-model_v4 Thioredoxin-like protein 1	0.227	106	81	34	139	1	106	7.006E-08	270
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8IXB1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8IXB1-F1-model_v4 DnaJ homolog subfamily C member 10	0.266	104	73	35	138	452	552	1.037E-07	270
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z4I3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z4I3-F1-model_v4 Thioredoxin H2-1	0.250	118	86	23	138	9	126	6.229E-09	269
+DESULFOASV1_1604_thioredoxin_TrxC	AF-G4NFB7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-G4NFB7-F1-model_v4 Thioredoxin-2	0.261	131	95	12	142	43	171	1.919E-09	269
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2KIL5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2KIL5-F1-model_v4 Protein disulfide-isomerase A5	0.266	105	73	37	137	155	259	7.986E-08	269
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R5L3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R5L3-F1-model_v4 DnaJ homolog subfamily C member 10	0.266	104	73	35	138	452	552	1.107E-07	269
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5I0H9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5I0H9-F1-model_v4 Protein disulfide-isomerase A5	0.266	105	73	37	137	151	255	7.480E-08	268
+DESULFOASV1_1604_thioredoxin_TrxC	AF-F4IXE4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-F4IXE4-F1-model_v4 TPR repeat-containing thioredoxin TTL2	0.157	107	88	33	139	624	728	9.102E-08	268
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8TFM8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8TFM8-F1-model_v4 Thioredoxin-like protein	0.298	113	69	39	138	4	116	5.119E-09	267
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P25372-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P25372-F1-model_v4 Thioredoxin-3, mitochondrial	0.261	129	85	10	138	11	126	2.049E-09	267
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8H2V6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8H2V6-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.262	132	96	10	140	58	189	1.577E-09	267
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P04785-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P04785-F1-model_v4 Protein disulfide-isomerase	0.297	119	79	26	138	15	133	6.229E-09	267
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P34329-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P34329-F1-model_v4 Probable protein disulfide-isomerase A4	0.310	113	77	26	138	139	251	1.122E-08	266
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P68177-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P68177-F1-model_v4 Thioredoxin H-type 1	0.222	130	93	13	142	1	120	1.366E-08	265
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q920J4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q920J4-F1-model_v4 Thioredoxin-like protein 1	0.227	106	81	34	139	1	106	1.037E-07	265
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17770-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17770-F1-model_v4 Protein disulfide-isomerase 2	0.253	127	93	12	138	3	127	3.239E-09	265
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O34357-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O34357-F1-model_v4 Thioredoxin-like protein YtpP	0.233	100	76	39	138	3	102	4.432E-08	264
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LDI5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LDI5-F1-model_v4 Thioredoxin-like protein CXXS1	0.229	107	80	34	138	1	107	9.717E-08	264
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0IWL9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0IWL9-F1-model_v4 Monothiol glutaredoxin-S11	0.190	104	83	34	137	1	103	1.262E-07	263
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P68176-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P68176-F1-model_v4 Thioredoxin H-type	0.234	113	83	33	142	9	121	3.412E-08	262
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CAS1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CAS1-F1-model_v4 Thioredoxin H8	0.240	102	75	39	138	41	142	7.006E-08	262
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XJ54-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XJ54-F1-model_v4 Glutaredoxin 3	0.227	99	76	39	137	6	104	1.262E-07	262
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8JG64-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8JG64-F1-model_v4 Protein disulfide-isomerase A3	0.320	128	84	12	139	5	129	7.100E-09	262
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q53LQ0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q53LQ0-F1-model_v4 Protein disulfide isomerase-like 1-1	0.325	126	84	12	137	23	147	2.493E-09	262
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VX13-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VX13-F1-model_v4 Protein disulfide isomerase-like 1-3	0.268	137	92	12	137	64	200	2.662E-09	262
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O96952-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O96952-F1-model_v4 Thioredoxin	0.281	99	70	39	137	7	104	4.152E-08	261
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O64394-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O64394-F1-model_v4 Thioredoxin H-type	0.235	131	96	12	142	2	127	7.580E-09	261
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P09103-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P09103-F1-model_v4 Protein disulfide-isomerase	0.295	120	80	25	138	14	133	8.092E-09	260
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FF55-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FF55-F1-model_v4 Protein disulfide isomerase-like 1-4	0.308	131	89	7	137	75	204	1.798E-09	260
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P54399-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P54399-F1-model_v4 Protein disulfide-isomerase	0.272	129	92	10	138	4	131	4.207E-09	259
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52589-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52589-F1-model_v4 Protein disulfide-isomerase	0.336	109	68	34	137	38	146	7.986E-08	259
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O64432-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O64432-F1-model_v4 Thioredoxin H-type	0.237	130	91	13	142	1	120	2.627E-08	258
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0J9V5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0J9V5-F1-model_v4 Thioredoxin-like protein CXXS1	0.188	120	94	25	141	1	120	3.643E-08	258
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P07237-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P07237-F1-model_v4 Protein disulfide-isomerase	0.272	126	88	13	138	10	131	7.100E-09	258
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54EN4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54EN4-F1-model_v4 Protein disulfide-isomerase 2	0.274	132	90	7	138	20	144	2.187E-09	258
+DESULFOASV1_1604_thioredoxin_TrxC	AF-D3Z6P0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-D3Z6P0-F1-model_v4 Protein disulfide-isomerase A2	0.264	119	84	23	137	33	151	8.639E-09	258
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P96132-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P96132-F1-model_v4 Thioredoxin	0.348	86	55	33	118	1	86	1.262E-07	257
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0JD42-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0JD42-F1-model_v4 Protein disulfide isomerase-like 5-2	0.283	104	73	35	137	42	145	1.995E-07	257
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29447-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29447-F1-model_v4 Thioredoxin-3	0.227	100	74	39	138	6	102	1.640E-07	256
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XIF4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XIF4-F1-model_v4 Thioredoxin H7	0.274	129	91	12	140	3	128	4.795E-09	256
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG61-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG61-F1-model_v4 Uncharacterized protein Rv1324	0.175	126	100	16	141	30	151	6.650E-09	256
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P11598-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P11598-F1-model_v4 Protein disulfide-isomerase A3	0.307	128	86	12	139	7	131	8.639E-09	255
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P21195-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P21195-F1-model_v4 Protein disulfide-isomerase	0.263	127	91	12	138	9	132	4.207E-09	255
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9MAH1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9MAH1-F1-model_v4 TPR repeat-containing thioredoxin TTL1	0.148	107	89	33	139	593	697	3.367E-07	255
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P32474-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P32474-F1-model_v4 Protein disulfide-isomerase EUG1	0.283	117	80	22	138	27	138	6.147E-08	254
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XFH8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XFH8-F1-model_v4 Thioredoxin F1, chloroplastic	0.227	132	98	7	138	44	171	5.119E-09	253
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q942L2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q942L2-F1-model_v4 Protein disulfide isomerase-like 2-2	0.235	131	96	12	142	18	144	6.229E-09	253
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SIN1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SIN1-F1-model_v4 Inactive TPR repeat-containing thioredoxin TTL3	0.186	106	84	34	139	586	689	4.985E-07	253
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q09433-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q09433-F1-model_v4 Thioredoxin-1	0.277	104	74	38	141	11	113	7.006E-08	252
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q11067-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q11067-F1-model_v4 Protein disulfide-isomerase A6 homolog	0.285	116	81	23	138	157	270	8.525E-08	252
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HVG7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HVG7-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.233	106	75	39	137	461	566	3.643E-08	252
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P13667-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P13667-F1-model_v4 Protein disulfide-isomerase A4	0.255	126	89	12	137	46	165	8.092E-09	252
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O64764-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O64764-F1-model_v4 Thioredoxin O1, mitochondrial	0.235	118	89	23	139	75	192	1.556E-08	251
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CDN6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CDN6-F1-model_v4 Thioredoxin-like protein 1	0.227	106	81	34	139	1	106	3.367E-07	251
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XFH9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XFH9-F1-model_v4 Thioredoxin F2, chloroplastic	0.227	130	97	9	138	56	182	1.662E-08	250
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q851R5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q851R5-F1-model_v4 Thioredoxin H2-2	0.265	127	93	12	138	1	127	4.492E-09	249
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O48897-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O48897-F1-model_v4 Thioredoxin F-type, chloroplastic	0.219	136	100	10	138	39	174	4.795E-09	249
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8S091-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8S091-F1-model_v4 Thioredoxin F, chloroplastic	0.266	133	97	6	138	51	183	8.092E-09	249
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P27773-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P27773-F1-model_v4 Protein disulfide-isomerase A3	0.320	126	83	12	137	7	129	1.556E-08	249
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P09102-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P09102-F1-model_v4 Protein disulfide-isomerase	0.263	131	93	12	138	6	136	4.795E-09	249
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q66GQ3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q66GQ3-F1-model_v4 Protein disulfide isomerase-like 1-6	0.278	102	72	37	137	77	178	2.592E-07	249
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q498R3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q498R3-F1-model_v4 DnaJ homolog subfamily C member 10	0.250	111	80	32	138	667	777	4.432E-08	249
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54KN7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54KN7-F1-model_v4 Putative thioredoxin-5	0.240	104	78	37	140	2	105	1.536E-07	248
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O74790-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O74790-F1-model_v4 Monothiol glutaredoxin-4	0.222	105	81	37	141	2	106	2.592E-07	248
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67UF5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67UF5-F1-model_v4 Protein disulfide isomerase-like 2-3	0.262	136	91	18	141	141	276	8.639E-09	248
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13087-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13087-F1-model_v4 Protein disulfide-isomerase A2	0.261	128	92	12	137	21	148	7.580E-09	248
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1ZXE0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1ZXE0-F1-model_v4 Putative thioredoxin-4	0.207	100	76	39	138	6	102	2.428E-07	247
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P64808-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P64808-F1-model_v4 Uncharacterized protein Mb1359	0.175	126	100	16	141	30	151	1.774E-08	247
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DC23-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DC23-F1-model_v4 DnaJ homolog subfamily C member 10	0.267	111	78	32	138	667	777	5.393E-08	247
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q38879-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q38879-F1-model_v4 Thioredoxin H2	0.272	127	85	12	138	13	130	7.580E-09	246
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HWU2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HWU2-F1-model_v4 Protein disulfide-isomerase	0.251	133	96	10	138	1	133	4.207E-09	246
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52588-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52588-F1-model_v4 Protein disulfide-isomerase	0.318	126	82	12	137	21	141	1.774E-08	246
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P09856-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P09856-F1-model_v4 Thioredoxin F-type, chloroplastic	0.259	127	93	12	138	60	186	3.196E-08	245
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9PHR3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9PHR3-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.233	106	75	39	137	461	566	7.006E-08	245
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84JR9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84JR9-F1-model_v4 TPR repeat-containing thioredoxin TTL4	0.181	120	93	20	139	566	680	2.130E-07	245
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P96695-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P96695-F1-model_v4 Thioredoxin-like protein YdfQ	0.178	100	81	39	138	6	104	2.130E-07	244
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9C9Y6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9C9Y6-F1-model_v4 Thioredoxin H9	0.195	129	100	10	138	4	128	1.774E-08	244
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q75M08-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q75M08-F1-model_v4 Protein disulfide isomerase-like 2-1	0.246	135	100	10	142	5	139	1.458E-08	244
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9V438-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9V438-F1-model_v4 Protein disulfide-isomerase A6 homolog	0.286	120	83	23	139	145	264	9.102E-08	244
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P38658-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P38658-F1-model_v4 Probable protein disulfide-isomerase ER-60	0.294	118	81	23	138	5	122	7.480E-08	244
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P38657-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P38657-F1-model_v4 Protein disulfide-isomerase A3	0.296	130	91	10	139	2	131	1.366E-08	244
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XHX6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XHX6-F1-model_v4 Thioredoxin domain-containing protein 2	0.181	134	107	7	138	415	548	3.034E-09	244
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RCH2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RCH2-F1-model_v4 Protein disulfide-isomerase A2	0.257	126	91	12	137	26	148	1.774E-08	243
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P38661-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P38661-F1-model_v4 Probable protein disulfide-isomerase A6	0.244	131	97	12	142	10	138	3.196E-08	242
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P05307-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P05307-F1-model_v4 Protein disulfide-isomerase	0.266	133	94	10	138	1	133	6.229E-09	242
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P30101-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P30101-F1-model_v4 Protein disulfide-isomerase A3	0.298	128	89	10	137	2	129	1.662E-08	241
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67IX6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67IX6-F1-model_v4 Protein disulfide isomerase-like 1-4	0.274	131	94	7	137	47	176	1.198E-08	241
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SGS4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SGS4-F1-model_v4 Thioredoxin-like protein CDSP32, chloroplastic	0.194	108	81	37	137	187	294	4.374E-07	240
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O13811-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O13811-F1-model_v4 Protein disulfide-isomerase C17H9.14c	0.274	131	94	12	142	1	131	3.196E-08	240
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54NX2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54NX2-F1-model_v4 Thioredoxin domain-containing protein, mitochondrial	0.196	126	92	12	137	1	116	2.460E-08	239
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LCH9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LCH9-F1-model_v4 Thioredoxin-like 3-3	0.170	129	101	12	140	4	126	2.022E-08	239
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R5B6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R5B6-F1-model_v4 Protein disulfide-isomerase	0.259	131	95	10	138	1	131	8.639E-09	239
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O22263-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O22263-F1-model_v4 Protein disulfide-isomerase like 2-1	0.229	130	96	10	139	5	129	2.994E-08	238
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O48773-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O48773-F1-model_v4 Protein disulfide-isomerase 2-3	0.267	129	90	10	138	10	133	3.412E-08	238
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4VIT4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4VIT4-F1-model_v4 Protein disulfide-isomerase A3	0.305	128	88	10	137	2	129	2.304E-08	238
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29828-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29828-F1-model_v4 Protein disulfide-isomerase	0.305	128	88	10	137	14	140	1.366E-08	238
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0E0I1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0E0I1-F1-model_v4 Protein disulfide isomerase-like 5-3	0.278	128	90	10	137	25	149	3.412E-08	237
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SRG3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SRG3-F1-model_v4 Protein disulfide isomerase-like 1-2	0.313	116	76	26	137	21	136	9.102E-08	237
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P80284-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P80284-F1-model_v4 Protein disulfide-isomerase	0.283	128	90	10	137	19	145	2.022E-08	237
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XRB5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XRB5-F1-model_v4 Protein disulfide isomerase-like 1-2	0.328	120	77	23	137	20	139	2.022E-08	237
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8GXV2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8GXV2-F1-model_v4 Thioredoxin-like protein CXXS2	0.197	131	100	8	138	21	145	1.556E-08	236
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LKW0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LKW0-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.205	141	103	10	140	35	175	8.639E-09	236
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P73920-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P73920-F1-model_v4 Thiol:disulfide interchange protein TxlA homolog	0.240	108	74	43	141	36	143	2.130E-07	235
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RDG4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RDG4-F1-model_v4 Protein disulfide-isomerase A3	0.301	130	90	10	139	2	131	2.159E-08	234
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6P902-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6P902-F1-model_v4 Thioredoxin domain-containing protein 2	0.201	125	97	13	137	391	512	4.152E-08	234
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9AS75-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9AS75-F1-model_v4 Thioredoxin H4-1	0.198	127	99	12	138	3	126	4.432E-08	233
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0DKF1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0DKF1-F1-model_v4 Thioredoxin H4-2	0.201	127	93	23	139	2	128	6.147E-08	233
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R6T1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R6T1-F1-model_v4 Protein disulfide-isomerase A6	0.273	124	81	12	135	152	264	1.262E-07	233
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P96611-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P96611-F1-model_v4 Thioredoxin-like protein YdbP	0.209	103	80	39	140	3	105	1.024E-06	232
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q58E26-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q58E26-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.205	117	78	39	137	140	256	2.767E-07	232
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG60-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG60-F1-model_v4 Uncharacterized protein MT1366	0.167	140	109	10	141	12	151	1.662E-08	232
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O13704-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O13704-F1-model_v4 Thioredoxin domain-containing protein C13F5.05, mitochondrial	0.261	108	75	34	136	31	138	9.102E-08	232
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96JJ7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96JJ7-F1-model_v4 Protein disulfide-isomerase TMX3	0.266	105	76	39	142	30	134	3.595E-07	232
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WA72-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WA72-F1-model_v4 Protein disulfide isomerase-like 1-5	0.283	104	73	36	138	69	172	1.024E-06	232
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A3KPF5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A3KPF5-F1-model_v4 Protein disulfide isomerase-like 1-5	0.278	102	72	37	137	79	180	1.246E-06	232
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q03835-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q03835-F1-model_v4 Monothiol glutaredoxin-3	0.188	103	80	39	138	5	107	6.476E-07	231
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86IA3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86IA3-F1-model_v4 Protein disulfide-isomerase 1	0.294	130	88	10	139	6	130	4.152E-08	231
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P85801-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P85801-F1-model_v4 Thioredoxin H-type	0.198	127	96	12	138	9	129	7.480E-08	230
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XF61-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XF61-F1-model_v4 Protein disulfide-isomerase	0.305	126	86	13	137	15	140	2.159E-08	230
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RF53-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RF53-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.213	117	77	39	137	140	256	3.367E-07	229
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NRT6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NRT6-F1-model_v4 DnaJ homolog subfamily C member 10	0.244	127	91	12	138	111	232	1.182E-07	229
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29446-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29446-F1-model_v4 Thioredoxin-2	0.219	90	68	34	123	1	88	1.167E-06	228
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6JE38-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6JE38-F1-model_v4 Thioredoxin-like protein CITRX1, chloroplastic	0.182	134	105	7	140	53	181	3.889E-08	228
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q00216-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q00216-F1-model_v4 Protein disulfide-isomerase tigA	0.286	131	89	12	142	6	130	6.147E-08	228
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XI01-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XI01-F1-model_v4 Protein disulfide isomerase-like 1-1	0.320	128	85	10	137	12	137	1.556E-08	228
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q43116-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q43116-F1-model_v4 Protein disulfide-isomerase	0.305	125	82	13	137	21	139	6.563E-08	227
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12730-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12730-F1-model_v4 Protein disulfide-isomerase	0.284	133	90	10	142	8	134	2.159E-08	227
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P08003-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P08003-F1-model_v4 Protein disulfide-isomerase A4	0.272	136	94	9	138	139	274	2.460E-08	227
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FG36-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FG36-F1-model_v4 Thioredoxin-like 3-1, chloroplastic	0.166	108	85	36	138	97	204	5.322E-07	226
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84NN4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84NN4-F1-model_v4 Thioredoxin-like protein CDSP32, chloroplastic	0.181	109	82	37	137	186	294	7.381E-07	226
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9BS26-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9BS26-F1-model_v4 Endoplasmic reticulum resident protein 44	0.242	132	95	7	138	13	138	1.894E-08	226
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R875-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R875-F1-model_v4 Protein disulfide-isomerase TMX3	0.266	105	76	39	142	30	134	5.322E-07	226
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q14554-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q14554-F1-model_v4 Protein disulfide-isomerase A5	0.278	136	89	7	142	262	385	4.432E-08	226
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q29RV1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q29RV1-F1-model_v4 Protein disulfide-isomerase A4	0.276	139	96	5	137	26	164	1.279E-08	226
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q922R8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q922R8-F1-model_v4 Protein disulfide-isomerase A6	0.278	129	84	7	135	148	264	1.536E-07	225
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H3N1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H3N1-F1-model_v4 Thioredoxin-related transmembrane protein 1	0.211	122	90	17	138	15	129	1.348E-07	224
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17688-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17688-F1-model_v4 Endoplasmic reticulum resident protein 44.2	0.237	129	98	10	138	5	133	4.152E-08	224
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q15084-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q15084-F1-model_v4 Protein disulfide-isomerase A6	0.263	129	86	7	135	147	264	1.439E-07	224
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q93VQ9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q93VQ9-F1-model_v4 Thioredoxin O2, mitochondrial	0.205	131	103	10	139	27	157	3.196E-08	223
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6JE37-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6JE37-F1-model_v4 Thioredoxin-like protein CITRX2, chloroplastic	0.212	143	106	5	140	39	181	2.460E-08	223
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63081-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63081-F1-model_v4 Protein disulfide-isomerase A6	0.264	132	88	7	138	147	267	1.869E-07	223
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q98PL5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q98PL5-F1-model_v4 Thioredoxin	0.242	104	75	39	138	3	106	6.066E-07	222
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q75GM1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q75GM1-F1-model_v4 Thioredoxin H5	0.212	125	91	23	138	2	126	9.102E-08	222
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q94F09-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q94F09-F1-model_v4 Protein disulfide-isomerase 5-2	0.245	116	86	23	137	20	135	1.093E-06	222
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86VQ3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86VQ3-F1-model_v4 Thioredoxin domain-containing protein 2	0.175	127	97	12	138	432	550	9.717E-08	222
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69AB2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69AB2-F1-model_v4 Thioredoxin domain-containing protein 8	0.206	122	79	39	138	4	125	4.374E-07	221
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q655X0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q655X0-F1-model_v4 Thioredoxin O, mitochondrial	0.242	129	92	10	138	47	169	5.393E-08	219
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0Z7W6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0Z7W6-F1-model_v4 Thioredoxin-related transmembrane protein 1	0.224	126	94	13	138	8	129	1.640E-07	219
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y320-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y320-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.213	117	77	39	137	140	256	7.880E-07	219
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9D1Q6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9D1Q6-F1-model_v4 Endoplasmic reticulum resident protein 44	0.231	131	97	12	138	8	138	5.052E-08	219
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XSQ7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7XSQ7-F1-model_v4 Thioredoxin-like 3-3	0.152	129	108	12	140	2	129	2.130E-07	217
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQ79-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQ79-F1-model_v4 Thioredoxin domain-containing protein 9	0.193	87	69	39	125	75	160	3.112E-06	217
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3T0L2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3T0L2-F1-model_v4 Endoplasmic reticulum resident protein 44	0.242	138	97	10	138	1	138	5.393E-08	217
+DESULFOASV1_1604_thioredoxin_TrxC	AF-D4B2L8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-D4B2L8-F1-model_v4 Protein disulfide-isomerase	0.265	129	90	12	140	14	136	1.995E-07	217
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8K581-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8K581-F1-model_v4 Thioredoxin domain-containing protein 9	0.173	91	74	35	125	71	160	4.316E-06	216
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92249-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92249-F1-model_v4 Protein disulfide-isomerase erp38	0.279	131	94	12	142	1	131	1.995E-07	215
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P92981-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P92981-F1-model_v4 5'-adenylylsulfate reductase 2, chloroplastic	0.234	114	81	34	140	341	454	2.102E-06	215
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q11183-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q11183-F1-model_v4 Thioredoxin domain-containing protein 9	0.159	111	87	35	138	66	176	2.731E-06	214
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NPL9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NPL9-F1-model_v4 Thioredoxin domain-containing protein PLP3A	0.138	106	85	39	138	88	193	2.915E-06	214
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XIK2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XIK2-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.213	117	77	39	137	140	256	1.330E-06	214
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9NX01-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9NX01-F1-model_v4 Thioredoxin-like protein 4B	0.140	113	87	36	137	5	117	1.844E-06	213
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BUH1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BUH1-F1-model_v4 Thioredoxin-like protein 4B	0.131	113	88	36	137	5	117	1.844E-06	213
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7Y0D4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7Y0D4-F1-model_v4 Thioredoxin-like protein HCF164, chloroplastic	0.197	96	74	47	139	133	228	2.915E-06	213
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A8WG88-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A8WG88-F1-model_v4 Thioredoxin-related transmembrane protein 2-A	0.210	127	90	23	137	130	256	1.536E-07	213
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12404-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12404-F1-model_v4 Protein disulfide-isomerase MPD1	0.250	136	86	26	140	18	153	2.130E-07	213
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q869Z0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q869Z0-F1-model_v4 Putative protein disulfide-isomerase DDB_G0275025	0.242	133	98	10	139	5	137	1.751E-07	213
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69AB1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69AB1-F1-model_v4 Thioredoxin domain-containing protein 8	0.230	122	76	39	138	4	125	6.066E-07	212
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P38660-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P38660-F1-model_v4 Protein disulfide-isomerase A6	0.259	127	85	12	138	152	267	1.751E-07	212
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9P2K2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9P2K2-F1-model_v4 Thioredoxin domain-containing protein 16	0.174	101	83	37	137	393	493	7.284E-06	212
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6IQC7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6IQC7-F1-model_v4 Thioredoxin-related transmembrane protein 2-B	0.188	117	80	39	137	140	256	1.330E-06	211
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BXZ1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BXZ1-F1-model_v4 Protein disulfide-isomerase TMX3	0.265	93	65	54	142	45	137	1.969E-06	211
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z7L3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z7L3-F1-model_v4 Thioredoxin-like 3-1, chloroplastic	0.195	136	103	12	140	58	193	1.640E-07	210
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4R5B4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4R5B4-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.213	117	77	39	137	140	256	1.844E-06	210
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69ST6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69ST6-F1-model_v4 Protein disulfide isomerase-like 1-3	0.278	126	87	12	137	65	185	2.954E-07	210
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LCV1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LCV1-F1-model_v4 Thioredoxin domain-containing protein PLP3B	0.157	106	83	39	138	88	193	4.316E-06	209
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6DFS0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6DFS0-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.187	127	93	23	137	130	256	3.154E-07	209
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P55059-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P55059-F1-model_v4 Protein disulfide-isomerase	0.233	134	94	7	140	5	127	2.592E-07	209
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O14096-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O14096-F1-model_v4 Queuine tRNA-ribosyltransferase accessory subunit 2	0.122	112	90	35	138	505	616	2.102E-06	209
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q04004-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q04004-F1-model_v4 Phosducin-like protein 1	0.173	112	85	35	138	82	193	3.112E-06	207
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VBT0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VBT0-F1-model_v4 Thioredoxin-related transmembrane protein 1	0.241	123	88	16	138	13	129	6.914E-07	207
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q93YX4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q93YX4-F1-model_v4 5'-adenylylsulfate reductase-like 5	0.181	108	87	36	142	55	162	6.391E-06	207
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O14095-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O14095-F1-model_v4 Thioredoxin domain-containing protein plp1	0.122	112	90	35	138	135	246	2.731E-06	206
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84JN1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84JN1-F1-model_v4 5'-adenylylsulfate reductase-like 7	0.181	108	87	36	142	51	158	5.986E-06	206
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84M47-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84M47-F1-model_v4 5'-adenylylsulfate reductase-like 5	0.172	108	88	36	142	58	165	5.607E-06	206
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VZT6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VZT6-F1-model_v4 Thioredoxin-like 3-2, chloroplastic	0.174	141	113	1	138	44	184	7.006E-08	205
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q00248-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q00248-F1-model_v4 Protein disulfide-isomerase	0.246	131	93	12	142	14	138	4.670E-07	204
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O14530-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O14530-F1-model_v4 Thioredoxin domain-containing protein 9	0.155	107	84	39	138	75	181	6.391E-06	203
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9D710-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9D710-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.213	117	77	39	137	140	256	3.547E-06	203
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H1E5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H1E5-F1-model_v4 Thioredoxin-related transmembrane protein 4	0.154	122	100	17	138	19	137	1.516E-06	202
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z4A7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z4A7-F1-model_v4 Probable 5'-adenylylsulfate reductase 1, chloroplastic	0.212	140	105	7	140	336	475	2.274E-07	202
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6A555-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6A555-F1-model_v4 Thioredoxin domain-containing protein 8	0.222	122	77	39	138	4	125	3.112E-06	201
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q44856-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q44856-F1-model_v4 Disulfide bond formation protein	0.213	88	68	52	138	29	116	3.787E-06	200
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q18484-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q18484-F1-model_v4 Thioredoxin-related transmembrane protein 2 homolog	0.186	123	82	33	134	120	242	2.558E-06	199
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7JW12-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7JW12-F1-model_v4 Thioredoxin-related transmembrane protein 2 homolog	0.216	128	89	23	137	121	248	6.914E-07	199
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2TBU2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2TBU2-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.203	122	83	33	137	135	256	3.547E-06	198
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8C0L0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8C0L0-F1-model_v4 Thioredoxin-related transmembrane protein 4	0.161	123	97	16	138	17	133	2.244E-06	198
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P87178-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P87178-F1-model_v4 Uncharacterized protein C3D6.13c	0.154	131	108	10	138	2	132	1.869E-07	198
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q71A37-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q71A37-F1-model_v4 Phosducin-like protein 3	0.177	115	86	35	140	46	160	5.607E-06	197
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P32642-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P32642-F1-model_v4 Monothiol glutaredoxin-4	0.163	103	83	39	138	5	107	1.496E-05	197
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8TFH3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8TFH3-F1-model_v4 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	0.161	129	103	19	142	23	151	5.322E-07	197
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9P4X1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9P4X1-F1-model_v4 Thioredoxin domain-containing protein C959.05c	0.150	104	87	35	138	26	128	7.284E-06	194
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O18883-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O18883-F1-model_v4 Thioredoxin domain-containing protein 9	0.184	87	69	39	125	75	160	4.920E-06	193
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0IHI1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0IHI1-F1-model_v4 Thioredoxin domain-containing protein 15	0.181	138	111	7	142	142	279	1.167E-06	192
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7TN22-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7TN22-F1-model_v4 Thioredoxin domain-containing protein 16	0.200	101	80	37	137	394	494	1.705E-05	192
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GNG3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GNG3-F1-model_v4 Protein disulfide-isomerase TMX3	0.240	130	91	8	137	7	127	1.246E-06	191
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P87215-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P87215-F1-model_v4 Mitosis protein dim1	0.095	114	92	37	139	6	119	2.215E-05	190
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P92980-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P92980-F1-model_v4 5'-adenylylsulfate reductase 3, chloroplastic	0.217	133	100	12	140	326	458	1.420E-06	188
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O74551-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O74551-F1-model_v4 Uncharacterized protein C777.12c	0.186	104	83	36	138	55	158	1.820E-05	187
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RCM7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RCM7-F1-model_v4 DnaJ homolog subfamily C member 16	0.180	102	81	39	138	143	244	1.078E-05	187
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6IRC5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6IRC5-F1-model_v4 Thioredoxin domain-containing protein 6	0.182	102	82	37	138	11	111	2.731E-06	186
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FE62-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FE62-F1-model_v4 Thioredoxin-like protein YLS8	0.139	113	87	36	137	5	117	1.705E-05	185
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P83876-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P83876-F1-model_v4 Thioredoxin-like protein 4A	0.136	115	89	34	137	3	117	1.820E-05	184
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LEK4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LEK4-F1-model_v4 Thioredoxin-like 2-1, chloroplastic	0.153	133	110	7	139	70	200	5.322E-07	184
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5FVM7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5FVM7-F1-model_v4 DnaJ homolog subfamily C member 16	0.180	102	81	39	138	140	241	1.401E-05	183
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q06819-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q06819-F1-model_v4 Spliceosomal protein DIB1	0.103	115	92	36	139	6	120	3.500E-05	182
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5ZKZ4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5ZKZ4-F1-model_v4 DnaJ homolog subfamily C member 16	0.200	102	79	39	138	139	240	1.705E-05	182
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O23166-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O23166-F1-model_v4 Thioredoxin-like protein HCF164, chloroplastic	0.194	111	81	40	141	119	229	5.252E-06	181
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96J42-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96J42-F1-model_v4 Thioredoxin domain-containing protein 15	0.159	135	109	12	142	163	297	4.920E-06	181
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9T042-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9T042-F1-model_v4 Protein disulfide-isomerase 5-4	0.191	155	110	2	138	106	260	8.413E-07	180
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P35088-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P35088-F1-model_v4 Thiol:disulfide interchange protein TxlA	0.144	110	86	41	141	39	148	1.943E-05	179
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O64654-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O64654-F1-model_v4 Thioredoxin-like 1-1, chloroplastic	0.168	104	83	39	139	101	204	2.877E-05	179
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y2G8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y2G8-F1-model_v4 DnaJ homolog subfamily C member 16	0.180	102	81	39	138	143	244	2.364E-05	179
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10M18-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10M18-F1-model_v4 Thioredoxin-like 1-2, chloroplastic	0.161	102	83	40	139	100	201	2.877E-05	178
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2QP53-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2QP53-F1-model_v4 5'-adenylylsulfate reductase-like 6	0.166	132	109	7	138	31	162	2.558E-06	178
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7ZV50-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7ZV50-F1-model_v4 Magnesium transporter protein 1	0.201	124	84	37	142	46	169	1.229E-05	178
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5BJT4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5BJT4-F1-model_v4 Thioredoxin domain-containing protein 15	0.166	135	108	12	142	146	280	6.823E-06	178
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LJU2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LJU2-F1-model_v4 Protein disulfide-isomerase 5-3	0.202	144	103	8	137	116	259	1.728E-06	178
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q75BD8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q75BD8-F1-model_v4 Spliceosomal protein DIB1	0.121	113	89	36	137	6	118	3.500E-05	177
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5TKD8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5TKD8-F1-model_v4 Thioredoxin-like 2, chloroplastic	0.142	132	109	12	139	55	186	2.731E-06	176
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84P95-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q84P95-F1-model_v4 5'-adenylylsulfate reductase-like 3	0.210	132	100	12	138	30	161	2.244E-06	176
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P92979-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P92979-F1-model_v4 5'-adenylylsulfate reductase 1, chloroplastic	0.194	134	107	7	140	332	465	3.112E-06	176
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O64628-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O64628-F1-model_v4 Thioredoxin domain-containing protein 9 homolog	0.174	106	82	39	138	70	175	5.533E-05	175
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3ZBU9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3ZBU9-F1-model_v4 UBX domain-containing protein 4	0.195	91	69	52	138	18	108	2.074E-05	175
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HZY0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HZY0-F1-model_v4 UBX domain-containing protein 4	0.206	91	68	52	138	18	108	2.695E-05	174
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6FMI2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6FMI2-F1-model_v4 Spliceosomal protein DIB1	0.123	113	88	39	139	6	118	7.674E-05	173
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q32L57-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q32L57-F1-model_v4 Tumor suppressor candidate 3	0.172	122	85	39	142	67	188	1.597E-05	173
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86XW9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q86XW9-F1-model_v4 Thioredoxin domain-containing protein 6	0.200	109	85	33	141	8	114	7.284E-06	172
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6ZRP7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6ZRP7-F1-model_v4 Sulfhydryl oxidase 2	0.264	106	73	39	138	65	170	9.462E-06	172
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67VZ8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67VZ8-F1-model_v4 5'-adenylylsulfate reductase-like 2	0.201	130	101	12	138	27	156	1.312E-05	171
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92575-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92575-F1-model_v4 UBX domain-containing protein 4	0.206	91	68	52	138	18	108	3.279E-05	171
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DAN1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DAN1-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.142	131	108	12	138	17	147	6.823E-06	171
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P83877-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P83877-F1-model_v4 Thioredoxin-like protein 4A	0.136	115	89	34	137	3	117	6.733E-05	170
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SKB6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SKB6-F1-model_v4 Thioredoxin-like fold domain-containing protein MRL7L, chloroplastic	0.188	137	106	12	142	190	326	1.401E-05	170
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69SA9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q69SA9-F1-model_v4 Protein disulfide isomerase-like 5-4	0.167	158	112	2	137	106	263	6.066E-07	170
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q80TN4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q80TN4-F1-model_v4 DnaJ homolog subfamily C member 16	0.171	129	94	10	138	129	242	4.920E-06	170
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R4I3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R4I3-F1-model_v4 UBX domain-containing protein 4	0.206	91	68	52	138	18	108	3.737E-05	169
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P40557-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P40557-F1-model_v4 ER-retained PMA1-suppressing protein 1	0.130	136	107	12	135	1	136	5.607E-06	169
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39591-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39591-F1-model_v4 Dynein 14 kDa light chain, flagellar outer arm	0.174	106	87	33	138	1	106	8.302E-06	168
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6P6J9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6P6J9-F1-model_v4 Thioredoxin domain-containing protein 15	0.184	143	110	7	142	139	281	9.462E-06	168
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95LM0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95LM0-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.153	137	106	12	137	13	149	4.608E-06	168
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XI02-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5XI02-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.145	131	108	12	138	17	147	7.284E-06	168
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5QLS7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5QLS7-F1-model_v4 Thioredoxin-like fold domain-containing protein MRL7 homolog, chloroplastic	0.173	145	107	7	136	151	295	1.516E-06	167
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RE31-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RE31-F1-model_v4 Magnesium transporter protein 1	0.193	124	85	37	142	53	176	3.500E-05	167
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8JGM4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8JGM4-F1-model_v4 Sulfhydryl oxidase 1	0.191	145	104	10	138	19	163	5.252E-06	167
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9VUR7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9VUR7-F1-model_v4 Phosducin-like protein	0.146	113	89	35	139	154	266	2.074E-05	166
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z4N3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6Z4N3-F1-model_v4 Thioredoxin-like 1-1, chloroplastic	0.141	134	109	12	139	67	200	6.823E-06	166
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8N807-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8N807-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.146	136	110	8	137	14	149	8.863E-06	166
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H0U3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H0U3-F1-model_v4 Magnesium transporter protein 1	0.193	124	85	37	142	53	176	4.259E-05	165
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQY5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQY5-F1-model_v4 Magnesium transporter protein 1	0.193	124	85	37	142	53	176	4.855E-05	164
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XFI1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XFI1-F1-model_v4 Thioredoxin-like 1-2, chloroplastic	0.166	134	108	10	139	59	192	8.863E-06	163
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5DJV7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5DJV7-F1-model_v4 5'-adenylylsulfate reductase-like 4	0.178	132	106	7	138	40	169	1.151E-05	163
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5ZJ06-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5ZJ06-F1-model_v4 Magnesium transporter protein 1	0.185	124	86	37	142	46	169	5.533E-05	163
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O00391-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O00391-F1-model_v4 Sulfhydryl oxidase 1	0.239	118	80	35	140	41	158	1.229E-05	163
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6YTI3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6YTI3-F1-model_v4 Thioredoxin-like 4, chloroplastic	0.177	134	105	10	138	63	196	2.915E-06	162
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P41686-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P41686-F1-model_v4 Phosducin	0.184	112	84	35	138	112	223	3.737E-05	162
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SA00-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SA00-F1-model_v4 5'-adenylylsulfate reductase-like 4	0.173	136	107	7	142	40	169	1.943E-05	162
+DESULFOASV1_1604_thioredoxin_TrxC	AF-F4JLC1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-F4JLC1-F1-model_v4 Thioredoxin-like fold domain-containing protein MRL7, chloroplastic	0.169	140	102	13	136	170	309	2.396E-06	162
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VCH8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VCH8-F1-model_v4 UBX domain-containing protein 4	0.195	91	69	52	138	18	108	7.674E-05	162
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13454-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13454-F1-model_v4 Tumor suppressor candidate 3	0.155	122	87	39	142	67	188	5.183E-05	160
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8N427-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8N427-F1-model_v4 Thioredoxin domain-containing protein 3	0.163	107	88	33	139	8	113	1.496E-05	160
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RB77-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RB77-F1-model_v4 Phosducin-like protein 3	0.147	109	88	35	138	92	200	5.907E-05	159
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P20941-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P20941-F1-model_v4 Phosducin	0.177	114	86	33	138	110	223	4.547E-05	159
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O35777-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O35777-F1-model_v4 Magnesium transporter protein 1	0.193	124	85	37	142	53	176	6.733E-05	159
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95YJ5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95YJ5-F1-model_v4 Thioredoxin domain-containing protein 3 homolog	0.194	106	83	33	138	7	110	2.215E-05	159
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WGY8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WGY8-F1-model_v4 Probable thiol-disulfide oxidoreductase ResA	0.221	111	68	53	140	64	174	3.737E-05	158
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6AUC6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6AUC6-F1-model_v4 Sulfhydryl oxidase 1	0.177	152	108	7	138	20	171	7.776E-06	158
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63ZR0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63ZR0-F1-model_v4 Magnesium transporter protein 1	0.161	124	88	37	142	47	170	9.969E-05	157
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9C5C5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9C5C5-F1-model_v4 Thioredoxin-like 4, chloroplastic	0.170	135	106	10	138	65	199	4.316E-06	156
+DESULFOASV1_1604_thioredoxin_TrxC	AF-H2N4I1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-H2N4I1-F1-model_v4 Sulfhydryl oxidase 1	0.197	159	107	7	140	3	161	2.558E-06	156
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BTV1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BTV1-F1-model_v4 Tumor suppressor candidate 3	0.163	122	86	39	142	67	188	8.746E-05	155
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y7L1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y7L1-F1-model_v4 Phosducin-like protein C2A9.09	0.175	103	80	39	136	91	193	6.307E-05	154
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZPE9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZPE9-F1-model_v4 5'-adenylylsulfate reductase-like 6	0.167	132	107	13	142	31	162	5.533E-05	154
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P19632-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P19632-F1-model_v4 Phosducin	0.144	114	90	33	138	110	223	7.674E-05	153
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O22779-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O22779-F1-model_v4 Thioredoxin-like 1-3, chloroplastic	0.178	136	104	12	139	65	200	1.820E-05	153
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6AX23-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6AX23-F1-model_v4 Sulfhydryl oxidase 2	0.196	126	90	26	138	26	151	5.183E-05	153
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0DI48-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0DI48-F1-model_v4 Thioredoxin-like fold domain-containing protein MRL7L homolog, chloroplastic	0.153	142	114	7	142	167	308	8.863E-06	152
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P90666-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P90666-F1-model_v4 Thioredoxin domain-containing protein 3 homolog	0.168	112	91	27	138	2	111	2.364E-05	152
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P31910-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P31910-F1-model_v4 Hydrogenase expression/formation protein HoxO	0.149	106	87	39	141	33	138	2.185E-04	151
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6P268-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6P268-F1-model_v4 Phosducin-like protein 3	0.153	105	84	39	138	94	198	6.307E-05	151
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q715S9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q715S9-F1-model_v4 Thioredoxin domain-containing protein 3	0.144	109	92	33	141	8	115	3.990E-05	151
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O26898-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O26898-F1-model_v4 Probable Thioredoxin	0.223	85	62	54	138	2	82	4.855E-05	150
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P39914-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P39914-F1-model_v4 Uncharacterized protein YtxJ	0.157	105	85	34	135	1	105	1.682E-04	150
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P48339-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P48339-F1-model_v4 Hydrogenase expression/formation protein HupG	0.113	105	88	39	138	17	121	8.746E-05	150
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DBX2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9DBX2-F1-model_v4 Phosducin-like protein	0.136	114	91	33	138	157	270	1.064E-04	150
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3TMX7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3TMX7-F1-model_v4 Sulfhydryl oxidase 2	0.241	116	77	39	140	59	174	3.737E-05	149
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LCT3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LCT3-F1-model_v4 Thioredoxin-like 2-2, chloroplastic	0.161	130	107	8	137	77	205	2.364E-05	148
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q71A38-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q71A38-F1-model_v4 Phosducin-like protein 2	0.135	107	88	36	138	92	198	2.659E-04	148
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63737-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63737-F1-model_v4 Phosducin-like protein	0.142	122	103	17	138	150	270	4.547E-05	148
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZU40-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZU40-F1-model_v4 Sulfhydryl oxidase 2	0.191	151	102	12	138	11	161	3.279E-05	148
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZW74-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9ZW74-F1-model_v4 Plant UBX domain-containing protein 11	0.136	91	73	53	138	24	114	7.188E-05	147
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q715T0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q715T0-F1-model_v4 Thioredoxin domain-containing protein 3	0.163	107	88	33	139	8	113	4.855E-05	147
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q71A39-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q71A39-F1-model_v4 Phosducin-like protein 1	0.095	111	95	33	138	174	284	2.839E-04	146
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A0A1L1SUL6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A0A1L1SUL6-F1-model_v4 Thioredoxin domain-containing protein 6	0.200	114	88	25	138	1	111	5.533E-05	146
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P26829-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P26829-F1-model_v4 NADH dehydrogenase	0.213	89	65	52	140	115	198	1.213E-04	146
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O31687-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O31687-F1-model_v4 Sporulation thiol-disulfide oxidoreductase A	0.241	114	65	51	137	51	164	1.597E-05	145
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O31820-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O31820-F1-model_v4 Thioredoxin-like protein YneN	0.258	120	65	50	138	50	169	2.524E-05	145
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A155-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A155-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.204	83	61	52	134	115	192	1.796E-04	145
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BND5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BND5-F1-model_v4 Sulfhydryl oxidase 1	0.201	129	102	12	140	33	161	1.496E-05	145
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O77560-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O77560-F1-model_v4 Phosducin	0.189	141	102	12	138	83	223	2.695E-05	143
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O06465-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O06465-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.233	89	64	45	133	108	192	7.188E-05	143
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P81628-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P81628-F1-model_v4 Endoplasmic reticulum resident protein 29	0.192	135	102	12	138	4	138	3.279E-05	142
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13371-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13371-F1-model_v4 Phosducin-like protein	0.150	122	102	17	138	150	270	9.337E-05	142
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8W4J3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8W4J3-F1-model_v4 Sulfhydryl oxidase 1	0.193	143	102	12	138	25	167	8.746E-05	142
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6PKC3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6PKC3-F1-model_v4 Thioredoxin domain-containing protein 11	0.216	133	100	7	139	670	797	3.279E-05	142
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q94I55-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q94I55-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	0.161	123	85	37	138	43	165	7.188E-05	141
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10MW6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10MW6-F1-model_v4 DnaJ protein ERDJ3A	0.156	129	107	12	139	185	313	1.576E-04	141
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q05530-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q05530-F1-model_v4 Glutaredoxin-like protein YDR286C	0.223	92	66	53	138	19	110	1.576E-04	140
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P34669-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P34669-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	0.190	127	85	37	142	39	165	2.839E-04	140
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8K2W3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8K2W3-F1-model_v4 Thioredoxin domain-containing protein 11	0.180	134	105	9	142	641	769	8.192E-05	140
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H2J4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H2J4-F1-model_v4 Phosducin-like protein 3	0.149	108	87	36	138	93	200	2.839E-04	139
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0VCW8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0VCW8-F1-model_v4 Phosducin-like protein 3	0.149	108	87	36	138	94	201	3.688E-04	139
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4KLJ8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4KLJ8-F1-model_v4 Phosducin-like protein 3	0.149	108	87	36	138	94	201	3.031E-04	139
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P52555-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P52555-F1-model_v4 Endoplasmic reticulum resident protein 29	0.190	141	102	12	138	7	147	3.500E-05	139
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A4FUW8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A4FUW8-F1-model_v4 Thioredoxin domain-containing protein 11	0.208	133	101	7	139	642	769	5.183E-05	139
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q553S5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q553S5-F1-model_v4 Thioredoxin-like protein 4A homolog	0.101	108	87	40	137	1	108	1.050E-03	138
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q78Y63-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q78Y63-F1-model_v4 Phosducin-like protein 2	0.115	108	90	36	138	91	198	4.487E-04	138
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A156-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A156-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.204	83	61	52	134	115	192	3.454E-04	138
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SR96-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SR96-F1-model_v4 DnaJ protein ERDJ3A	0.144	131	110	10	139	172	302	7.674E-05	138
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q57755-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q57755-F1-model_v4 Thioredoxin	0.220	86	63	53	138	2	83	1.796E-04	137
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P20942-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P20942-F1-model_v4 Phosducin	0.180	141	103	12	138	83	223	5.183E-05	137
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P57759-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P57759-F1-model_v4 Endoplasmic reticulum resident protein 29	0.182	139	103	12	138	11	149	3.990E-05	137
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O28137-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O28137-F1-model_v4 Probable Thioredoxin	0.160	85	67	54	138	1	81	8.084E-04	136
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BVF2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BVF2-F1-model_v4 Phosducin-like protein 3	0.149	108	87	36	138	94	201	3.688E-04	136
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P72804-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P72804-F1-model_v4 Thylakoid membrane protein slr1796	0.145	138	113	7	139	38	175	2.364E-05	135
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9QW08-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9QW08-F1-model_v4 Phosducin	0.173	141	104	12	138	81	221	6.733E-05	135
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P30040-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P30040-F1-model_v4 Endoplasmic reticulum resident protein 29	0.190	132	102	12	138	16	147	4.855E-05	135
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HJA9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HJA9-F1-model_v4 Phosducin-like protein	0.136	114	91	33	138	157	270	5.115E-04	134
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A619-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A619-F1-model_v4 Soluble secreted antigen MPT53	0.211	114	72	47	138	57	170	9.969E-05	133
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG64-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG64-F1-model_v4 Soluble secreted antigen MPT53	0.211	114	72	47	138	57	170	9.969E-05	133
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9I6Z2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9I6Z2-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.210	99	73	40	138	103	196	1.476E-04	133
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q55819-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q55819-F1-model_v4 KaiB-like protein 2	0.178	83	67	53	134	4	86	1.364E-03	132
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P73859-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P73859-F1-model_v4 KaiB-like protein 1	0.168	88	72	53	140	14	101	6.644E-04	132
+DESULFOASV1_1604_thioredoxin_TrxC	AF-F4I8X8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-F4I8X8-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3A	0.117	127	89	37	138	45	171	1.682E-04	132
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q319E4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q319E4-F1-model_v4 Circadian clock protein KaiB	0.154	83	69	53	135	5	87	1.050E-03	131
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P19931-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P19931-F1-model_v4 Hydrogenase-1 operon protein HyaE	0.114	101	87	39	137	21	121	1.682E-04	131
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P40593-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P40593-F1-model_v4 Hydrogenase expression/formation protein HoxO	0.183	103	83	36	138	15	116	8.746E-05	131
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8N4E4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8N4E4-F1-model_v4 Phosducin-like protein 2	0.106	108	91	36	138	91	198	8.631E-04	131
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XS39-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9XS39-F1-model_v4 Phosducin	0.173	141	104	12	138	83	223	1.064E-04	131
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P81623-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P81623-F1-model_v4 Endoplasmic reticulum resident protein 29	0.169	144	114	1	138	1	144	4.855E-05	131
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P42035-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P42035-F1-model_v4 Probable Thioredoxin	0.211	85	63	54	138	2	82	1.682E-04	130
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SYB5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9SYB5-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3B	0.153	126	85	38	138	50	175	1.476E-04	130
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P42974-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P42974-F1-model_v4 NADH dehydrogenase	0.205	101	76	40	140	103	198	1.576E-04	130
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P35340-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P35340-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.154	96	77	41	136	104	195	2.333E-04	130
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O09161-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O09161-F1-model_v4 Calsequestrin-2	0.161	123	102	16	137	17	139	2.839E-04	129
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67LR6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q67LR6-F1-model_v4 UPF0403 protein STH2395	0.173	114	82	39	138	24	137	4.791E-04	128
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG65-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WG65-F1-model_v4 Soluble secreted antigen MPT53	0.211	114	72	47	138	57	170	1.796E-04	128
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54N33-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54N33-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	0.171	132	89	35	142	56	187	1.796E-04	128
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P19204-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P19204-F1-model_v4 Calsequestrin-2	0.182	119	96	20	137	21	139	5.115E-04	127
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P51868-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P51868-F1-model_v4 Calsequestrin-2	0.174	119	97	20	137	21	139	4.203E-04	127
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P66013-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P66013-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.195	87	64	52	138	114	193	6.644E-04	126
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P19480-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P19480-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.157	94	75	41	134	104	193	3.236E-04	126
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V0C3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V0C3-F1-model_v4 Circadian clock protein KaiB	0.154	83	69	53	135	5	87	1.772E-03	125
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P43787-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P43787-F1-model_v4 Thioredoxin-like protein HI_1115	0.149	136	105	1	136	39	162	2.215E-05	125
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O74481-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O74481-F1-model_v4 Uncharacterized protein C1840.08c	0.128	107	89	35	137	99	205	8.631E-04	125
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10Y25-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10Y25-F1-model_v4 Circadian clock protein KaiB	0.154	83	69	53	135	6	88	1.892E-03	124
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A2BY50-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A2BY50-F1-model_v4 Circadian clock protein KaiB	0.154	83	69	53	135	5	87	2.157E-03	124
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9KC58-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9KC58-F1-model_v4 UPF0403 protein BH1716	0.192	120	84	35	139	23	142	5.460E-04	124
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6L8K0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6L8K0-F1-model_v4 Circadian clock protein KaiB	0.166	83	68	53	135	6	88	2.020E-03	123
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P28149-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P28149-F1-model_v4 Hydrogenase expression/formation protein HupG	0.122	107	90	36	138	15	121	1.213E-04	123
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O09165-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O09165-F1-model_v4 Calsequestrin-1	0.151	132	110	7	137	23	154	2.491E-04	123
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P19633-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P19633-F1-model_v4 Calsequestrin-1	0.173	132	108	7	137	23	154	2.491E-04	123
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q79V61-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q79V61-F1-model_v4 Circadian clock protein KaiB	0.151	85	70	52	136	5	88	1.660E-03	122
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3MEE5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3MEE5-F1-model_v4 Circadian clock protein KaiB	0.154	83	69	53	135	6	88	2.302E-03	122
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O66899-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O66899-F1-model_v4 Uncharacterized protein aq_668	0.149	100	82	39	138	12	108	1.576E-04	122
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8MR62-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8MR62-F1-model_v4 Viral IAP-associated factor homolog	0.110	111	92	39	142	104	214	9.837E-04	122
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q32LN3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q32LN3-F1-model_v4 Phosducin-like protein 2	0.109	105	88	39	138	94	198	1.660E-03	122
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GJR8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GJR8-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.195	87	64	52	138	114	193	9.837E-04	122
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GC92-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GC92-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.195	87	64	52	138	114	193	1.050E-03	122
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FY55-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FY55-F1-model_v4 UPF0403 protein SAOUHSC_01610	0.184	117	83	37	139	25	141	9.837E-04	121
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39592-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q39592-F1-model_v4 Dynein 16 kDa light chain, flagellar outer arm	0.184	110	87	32	139	5	114	7.093E-04	121
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P12637-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P12637-F1-model_v4 Calsequestrin-2	0.176	136	103	12	137	4	139	3.236E-04	121
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A9BBW6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A9BBW6-F1-model_v4 Circadian clock protein KaiB	0.152	84	70	53	136	5	87	2.458E-03	120
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96DN0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96DN0-F1-model_v4 Endoplasmic reticulum resident protein 27	0.110	138	115	9	138	114	251	6.644E-04	120
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B2IWG6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B2IWG6-F1-model_v4 Circadian clock protein KaiB	0.142	83	70	53	135	6	88	3.639E-03	118
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8YT41-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8YT41-F1-model_v4 Circadian clock protein KaiB	0.152	84	70	53	136	6	88	2.801E-03	118
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0I803-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0I803-F1-model_v4 Circadian clock protein KaiB	0.164	84	69	53	136	5	87	2.801E-03	118
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FGL9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FGL9-F1-model_v4 UPF0403 protein SAUSA300_1463	0.201	112	81	37	138	25	136	1.197E-03	118
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A5G0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A5G0-F1-model_v4 UPF0403 protein SA1345	0.184	117	83	37	139	25	141	1.278E-03	118
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WF77-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WF77-F1-model_v4 UPF0403 protein ABC2448	0.188	112	82	37	138	24	135	9.837E-04	117
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GGI4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GGI4-F1-model_v4 UPF0403 protein SAR1592	0.184	117	83	37	139	25	141	1.555E-03	117
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6G951-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6G951-F1-model_v4 UPF0403 protein SAS1453	0.184	117	83	37	139	25	141	1.457E-03	117
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q57127-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q57127-F1-model_v4 Uncharacterized protein HI_1453	0.166	114	70	53	137	42	155	3.454E-04	117
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B8HSU2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B8HSU2-F1-model_v4 Circadian clock protein KaiB	0.152	84	70	53	136	6	88	3.409E-03	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10417-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10417-F1-model_v4 Protein MesC	0.142	108	85	39	138	26	133	8.084E-04	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A0T9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A0T9-F1-model_v4 UPF0403 protein MW1467	0.201	112	81	37	138	25	136	1.457E-03	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HFQ8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HFQ8-F1-model_v4 UPF0403 protein SACOL1558	0.201	112	81	37	138	25	136	1.457E-03	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2YYC7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2YYC7-F1-model_v4 UPF0403 protein SAB1387c	0.201	112	81	37	138	25	136	1.457E-03	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99TX9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99TX9-F1-model_v4 UPF0403 protein SAV1514	0.205	110	79	39	138	27	136	1.278E-03	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P66012-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P66012-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.191	89	66	52	140	114	195	1.555E-03	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P34542-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P34542-F1-model_v4 Uncharacterized protein R05D3.9	0.124	136	110	2	137	230	355	3.236E-04	116
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V5W6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V5W6-F1-model_v4 Circadian clock protein KaiB	0.188	84	67	53	136	5	87	3.409E-03	115
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O44342-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O44342-F1-model_v4 Protein windbeutel	0.171	132	104	17	142	11	142	5.115E-04	115
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B0JK50-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B0JK50-F1-model_v4 Adaptive-response sensory-kinase SasA	0.127	84	72	55	138	21	104	4.428E-03	115
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P31231-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P31231-F1-model_v4 Calsequestrin-1	0.165	126	104	13	137	17	142	9.214E-04	115
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P99118-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P99118-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.168	100	77	41	140	102	195	5.460E-04	115
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q03006-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q03006-F1-model_v4 Hydrogenase expression/formation protein HupG	0.145	108	91	36	142	29	136	3.688E-04	114
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q06904-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q06904-F1-model_v4 Adaptive-response sensory-kinase SasA	0.144	88	74	54	141	13	100	5.388E-03	114
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P07221-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P07221-F1-model_v4 Calsequestrin-1	0.197	140	100	12	137	9	148	5.115E-04	114
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O14958-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O14958-F1-model_v4 Calsequestrin-2	0.160	124	102	15	137	16	139	1.121E-03	114
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P31235-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P31235-F1-model_v4 Calsequestrin-2	0.165	136	104	12	137	4	139	3.937E-04	114
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3TDN2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3TDN2-F1-model_v4 FAS-associated factor 2	0.169	115	86	35	138	150	264	1.121E-03	114
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6HE08-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6HE08-F1-model_v4 UPF0403 protein BT9727_3899	0.205	112	80	37	138	24	135	1.050E-03	113
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HP38-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HP38-F1-model_v4 UPF0403 protein SERP1075	0.188	112	82	37	138	25	136	1.050E-03	113
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P31415-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P31415-F1-model_v4 Calsequestrin-1	0.156	126	105	12	137	30	154	1.197E-03	113
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HIR6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HIR6-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.181	98	75	41	138	102	193	8.631E-04	113
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VL14-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8VL14-F1-model_v4 Circadian clock protein KaiB	0.144	89	72	54	138	7	95	3.639E-03	112
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P39910-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P39910-F1-model_v4 Pal-related lipoprotein	0.122	85	73	54	138	37	120	5.829E-04	112
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9K991-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9K991-F1-model_v4 UPF0403 protein BH2759	0.191	110	80	39	138	29	138	1.278E-03	112
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9D8U3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9D8U3-F1-model_v4 Endoplasmic reticulum resident protein 27	0.130	141	117	3	138	111	251	1.555E-03	112
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5REY7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5REY7-F1-model_v4 UBX domain-containing protein 7	0.102	97	77	53	139	165	261	2.302E-03	112
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q818U0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q818U0-F1-model_v4 UPF0403 protein BC_4151	0.205	112	80	37	138	24	135	1.364E-03	111
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WGC5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5WGC5-F1-model_v4 UPF0403 protein ABC2045	0.185	111	81	35	134	23	133	2.020E-03	111
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4L6L5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4L6L5-F1-model_v4 UPF0403 protein SH1401	0.196	112	81	37	138	25	136	1.278E-03	111
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5E936-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5E936-F1-model_v4 Thioredoxin domain-containing protein 12	0.236	114	76	39	138	40	153	9.214E-04	111
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q87BH3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q87BH3-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.171	108	70	53	138	71	178	9.837E-04	111
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q50416-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q50416-F1-model_v4 Methylamine utilization protein MauD	0.152	118	94	27	138	64	181	2.491E-04	111
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99316-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99316-F1-model_v4 Protein disulfide isomerase MPD2	0.098	107	93	12	115	6	112	4.791E-04	111
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q79PF5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q79PF5-F1-model_v4 Circadian clock protein KaiB	0.166	83	68	53	135	5	87	6.556E-03	110
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B7KEN6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B7KEN6-F1-model_v4 Circadian clock protein KaiB	0.135	95	74	52	138	5	99	1.555E-03	110
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P37249-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P37249-F1-model_v4 Pediocin PA-1 biosynthesis protein PedC	0.098	151	114	12	138	20	170	1.682E-04	110
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7VAN4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7VAN4-F1-model_v4 Circadian clock protein KaiB	0.166	83	68	53	135	5	87	8.517E-03	109
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q81M74-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q81M74-F1-model_v4 UPF0403 protein BA_4378/GBAA_4378/BAS4061	0.205	112	80	37	138	24	135	1.660E-03	109
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CSG4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CSG4-F1-model_v4 UPF0403 protein SE_1195	0.188	112	82	37	138	25	136	1.555E-03	109
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q731D9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q731D9-F1-model_v4 UPF0403 protein BCE_4227	0.208	110	78	39	138	26	135	1.660E-03	108
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q635D0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q635D0-F1-model_v4 UPF0403 protein BCE33L3907	0.208	110	78	39	138	26	135	1.660E-03	108
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6HJF7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6HJF7-F1-model_v4 UPF0403 protein BT9727_1990	0.201	112	79	39	138	27	138	2.458E-03	108
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HFZ5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HFZ5-F1-model_v4 UPF0403 protein SACOL1464	0.157	117	87	35	138	22	138	1.772E-03	108
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HPA7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HPA7-F1-model_v4 UPF0403 protein SERP1006	0.161	117	86	35	138	22	138	3.639E-03	108
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5N595-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5N595-F1-model_v4 Circadian clock protein KaiB	0.166	83	68	53	135	5	87	9.707E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q11WG7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q11WG7-F1-model_v4 UPF0403 protein CHU_0972	0.200	112	81	37	138	19	130	1.457E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q81E36-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q81E36-F1-model_v4 UPF0403 protein BC_2157	0.201	112	79	39	138	27	138	2.624E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63C03-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q63C03-F1-model_v4 UPF0403 protein BCE33L1972	0.201	112	79	39	138	27	138	2.624E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P54170-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P54170-F1-model_v4 UPF0403 protein YphP	0.175	118	83	39	140	27	144	2.991E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P54534-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P54534-F1-model_v4 UPF0403 protein YqiW	0.196	117	82	37	139	25	141	2.157E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q49XV9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q49XV9-F1-model_v4 UPF0403 protein SSP1241	0.188	112	82	37	138	25	136	1.892E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RAN9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RAN9-F1-model_v4 Calsequestrin-2	0.157	133	110	7	137	7	139	1.278E-03	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12229-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12229-F1-model_v4 UBX domain-containing protein 3	0.136	128	98	24	138	152	279	4.203E-04	107
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B0JLH2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B0JLH2-F1-model_v4 Circadian clock protein KaiB	0.142	90	73	53	138	6	95	4.728E-03	106
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7U8R4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7U8R4-F1-model_v4 Circadian clock protein KaiB	0.147	94	73	53	138	5	98	2.801E-03	106
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O28598-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O28598-F1-model_v4 Uncharacterized protein AF_1675	0.168	98	79	40	137	31	126	7.473E-03	106
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q81R83-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q81R83-F1-model_v4 UPF0403 protein BA_2173/GBAA_2173/BAS2019	0.201	112	79	39	138	27	138	2.991E-03	106
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A5M6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A5M6-F1-model_v4 UPF0403 protein SA1261	0.157	117	87	35	138	22	138	2.157E-03	106
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q46JC3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q46JC3-F1-model_v4 Circadian clock protein KaiB	0.138	93	72	54	138	6	98	4.148E-03	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GGX9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GGX9-F1-model_v4 UPF0403 protein SAR1441	0.157	117	87	35	138	22	138	2.458E-03	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CSK2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8CSK2-F1-model_v4 UPF0403 protein SE_1123	0.161	117	86	35	138	22	138	4.728E-03	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99U60-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q99U60-F1-model_v4 UPF0403 protein SAV1428	0.157	117	87	35	138	22	138	2.458E-03	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FYK4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FYK4-F1-model_v4 UPF0403 protein SAOUHSC_01436	0.157	117	87	35	138	22	138	2.458E-03	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q32L47-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q32L47-F1-model_v4 Endoplasmic reticulum resident protein 27	0.108	138	115	9	138	113	250	9.214E-04	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B1WYT4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B1WYT4-F1-model_v4 Adaptive-response sensory-kinase SasA	0.123	87	72	52	138	18	100	4.148E-03	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HJD0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HJD0-F1-model_v4 FAS-associated factor 2	0.170	116	86	34	138	149	264	7.093E-04	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HRY2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HRY2-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.173	97	74	41	137	102	192	2.020E-03	105
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q739A9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q739A9-F1-model_v4 UPF0403 protein BCE_2233	0.201	112	79	39	138	27	138	3.885E-03	104
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A0W2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7A0W2-F1-model_v4 UPF0403 protein MW1318	0.157	117	87	35	138	22	138	2.624E-03	104
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O05204-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O05204-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.178	100	76	41	140	102	195	2.020E-03	104
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q65IB1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q65IB1-F1-model_v4 UPF0403 protein BLi02323/BL05224	0.154	122	89	35	140	23	144	4.728E-03	103
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4L6D8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4L6D8-F1-model_v4 UPF0403 protein SH1478	0.148	117	88	35	138	22	138	2.801E-03	103
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5KZ20-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5KZ20-F1-model_v4 UPF0403 protein GK1781	0.153	116	87	35	138	23	138	5.752E-03	102
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1IQG9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1IQG9-F1-model_v4 UPF0403 protein Acid345_1880	0.185	111	81	39	138	21	131	5.047E-03	102
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2YY39-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2YY39-F1-model_v4 UPF0403 protein SAB1283c	0.157	117	87	35	138	22	138	3.193E-03	102
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6G9D3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6G9D3-F1-model_v4 UPF0403 protein SAS1371	0.157	117	87	35	138	22	138	3.409E-03	102
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q65HL2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q65HL2-F1-model_v4 UPF0403 protein BLi02578/BL01507	0.196	117	82	37	139	25	141	3.639E-03	102
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P43221-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P43221-F1-model_v4 Thiol:disulfide interchange protein TlpA	0.226	128	68	50	138	88	215	1.121E-03	102
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FH10-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2FH10-F1-model_v4 UPF0403 protein SAUSA300_1321	0.157	117	87	35	138	22	138	3.885E-03	101
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q00002-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q00002-F1-model_v4 Protein disulfide-isomerase	0.118	132	114	7	138	86	215	1.364E-03	101
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q56461-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q56461-F1-model_v4 Methylamine utilization protein MauD	0.165	108	73	50	138	69	176	1.197E-03	100
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A5GN76-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A5GN76-F1-model_v4 Circadian clock protein KaiB	0.147	94	73	53	138	5	98	5.752E-03	99
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A9ULR9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A9ULR9-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 1	0.081	112	91	39	138	150	261	1.050E-03	99
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q03723-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q03723-F1-model_v4 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST6	0.121	128	89	37	138	42	169	2.157E-03	99
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8YR50-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8YR50-F1-model_v4 Adaptive-response sensory-kinase SasA	0.179	87	67	52	138	18	100	1.106E-02	99
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O00237-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O00237-F1-model_v4 E3 ubiquitin-protein ligase RNF103	0.160	106	86	36	138	213	318	6.556E-03	99
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6L8L6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6L8L6-F1-model_v4 Circadian clock protein KaiB	0.159	83	69	53	135	6	88	5.388E-03	98
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P74645-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P74645-F1-model_v4 Circadian clock protein KaiB	0.142	90	73	53	138	6	95	8.517E-03	98
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8EQ52-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8EQ52-F1-model_v4 UPF0403 protein OB1863	0.211	117	80	37	139	23	139	3.639E-03	98
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q50232-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q50232-F1-model_v4 Methylamine utilization protein MauD	0.125	119	95	29	138	66	184	2.659E-04	98
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O70479-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O70479-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2	0.131	103	83	20	122	127	222	5.460E-04	98
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A5GV19-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A5GV19-F1-model_v4 Circadian clock protein KaiB	0.157	84	69	53	136	5	87	5.752E-03	96
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q28DC9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q28DC9-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2	0.135	107	87	16	122	125	225	7.573E-04	96
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3M8A7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3M8A7-F1-model_v4 Adaptive-response sensory-kinase SasA	0.170	87	68	52	138	18	100	1.261E-02	96
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WKS8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WKS8-F1-model_v4 Uncharacterized protein MT0529	0.166	84	68	54	137	3	84	7.000E-03	95
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WKS9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P9WKS9-F1-model_v4 Uncharacterized protein Rv0508	0.157	84	68	54	137	3	84	5.752E-03	94
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q922M3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q922M3-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3	0.093	117	93	36	139	140	256	4.728E-03	94
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7TNY1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7TNY1-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2	0.144	107	86	16	122	122	222	9.837E-04	94
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96CS3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q96CS3-F1-model_v4 FAS-associated factor 2	0.180	115	84	35	138	150	264	2.458E-03	94
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q49126-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q49126-F1-model_v4 Methylamine utilization protein MauD	0.163	103	71	53	138	78	180	3.409E-03	93
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B7KFU0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B7KFU0-F1-model_v4 Adaptive-response sensory-kinase SasA	0.146	87	70	52	138	18	100	1.534E-02	93
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P38349-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P38349-F1-model_v4 UBX domain-containing protein 7	0.146	89	72	53	137	21	109	6.556E-03	93
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A2C735-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A2C735-F1-model_v4 Circadian clock protein KaiB	0.168	84	68	53	136	5	87	9.093E-03	92
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P29895-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P29895-F1-model_v4 Methylamine utilization protein MauD	0.153	106	75	50	138	74	179	7.473E-03	92
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9R1W3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9R1W3-F1-model_v4 E3 ubiquitin-protein ligase RNF103	0.160	106	86	36	138	213	318	1.437E-02	92
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12017-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q12017-F1-model_v4 Phosducin-like protein 2	0.139	129	108	14	142	102	227	2.020E-03	91
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9EPZ8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9EPZ8-F1-model_v4 E3 ubiquitin-protein ligase RNF103	0.160	106	86	36	138	213	318	1.534E-02	91
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O31699-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O31699-F1-model_v4 Thiol-disulfide oxidoreductase YkuV	0.166	114	71	53	138	29	142	9.707E-03	90
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V6P7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V6P7-F1-model_v4 Adaptive-response sensory-kinase SasA	0.144	85	72	54	138	11	95	8.517E-03	90
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8DMT2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8DMT2-F1-model_v4 Adaptive-response sensory-kinase SasA	0.179	85	67	54	138	14	96	1.534E-02	90
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H3F6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9H3F6-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3	0.091	109	87	39	135	142	250	2.801E-03	89
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8WZ19-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8WZ19-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 1	0.095	114	92	36	138	150	263	2.624E-03	89
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A2C884-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A2C884-F1-model_v4 Adaptive-response sensory-kinase SasA	0.144	85	72	54	138	11	95	9.707E-03	89
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q31AE8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q31AE8-F1-model_v4 Adaptive-response sensory-kinase SasA	0.155	85	68	54	138	6	86	3.639E-03	88
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7Y0E8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7Y0E8-F1-model_v4 Probable nucleoredoxin 1-1	0.153	109	74	52	139	33	141	2.624E-03	88
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V113-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7V113-F1-model_v4 Adaptive-response sensory-kinase SasA	0.144	85	72	54	138	6	90	1.261E-02	87
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7Y0F2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7Y0F2-F1-model_v4 Probable nucleoredoxin 1-2	0.165	107	71	52	137	40	146	2.302E-03	86
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P64728-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P64728-F1-model_v4 Uncharacterized protein Mb0520	0.153	86	70	53	138	2	85	1.638E-02	85
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6L8L2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6L8L2-F1-model_v4 Circadian clock protein KaiB	0.135	91	74	53	138	6	96	1.993E-02	84
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A3PDI2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A3PDI2-F1-model_v4 Adaptive-response sensory-kinase SasA	0.150	87	71	52	138	3	86	4.428E-03	84
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13829-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q13829-F1-model_v4 BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2	0.126	107	87	16	122	122	222	1.660E-03	82
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7U871-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7U871-F1-model_v4 Adaptive-response sensory-kinase SasA	0.173	99	72	40	138	4	91	5.047E-03	82
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2JWK9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2JWK9-F1-model_v4 Adaptive-response sensory-kinase SasA	0.136	88	75	52	139	11	98	2.426E-02	81
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3AYV8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3AYV8-F1-model_v4 Adaptive-response sensory-kinase SasA	0.177	85	66	54	138	11	91	1.534E-02	81
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q55630-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q55630-F1-model_v4 Adaptive-response sensory-kinase SasA	0.126	85	70	54	138	14	94	6.470E-02	80
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2JKD9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2JKD9-F1-model_v4 Adaptive-response sensory-kinase SasA	0.148	87	73	53	139	12	98	3.591E-02	79
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7BWI3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7BWI3-F1-model_v4 Adaptive-response sensory-kinase SasA	0.142	85	72	52	136	8	92	1.993E-02	79
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B2J946-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B2J946-F1-model_v4 Adaptive-response sensory-kinase SasA	0.163	87	69	52	138	18	100	2.764E-02	79
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6DJ58-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6DJ58-F1-model_v4 Anterior gradient protein 3	0.151	113	87	35	137	39	151	1.534E-02	77
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O80763-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O80763-F1-model_v4 Probable nucleoredoxin 1	0.184	132	91	10	121	7	138	1.197E-03	76
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O95994-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O95994-F1-model_v4 Anterior gradient protein 2 homolog	0.128	111	85	40	138	56	166	1.867E-02	75
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0IBF4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0IBF4-F1-model_v4 Adaptive-response sensory-kinase SasA	0.155	85	68	54	138	11	91	2.426E-02	73
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2S5Z3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2S5Z3-F1-model_v4 UPF0403 protein SRU_0242	0.136	109	82	39	134	22	130	2.272E-02	72
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P55869-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P55869-F1-model_v4 Anterior gradient protein 2	0.181	145	104	10	137	28	172	3.885E-03	71
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P68688-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P68688-F1-model_v4 Glutaredoxin 1	0.150	87	71	56	142	2	85	1.993E-02	70
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P34631-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P34631-F1-model_v4 UBX domain-containing protein 4	0.126	74	61	54	124	20	93	6.060E-02	70
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B7K3M6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B7K3M6-F1-model_v4 Adaptive-response sensory-kinase SasA	0.160	85	67	54	138	20	100	1.023E-01	69
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A1P9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A1P9-F1-model_v4 Glutaredoxin 1	0.179	83	65	56	138	2	81	5.677E-02	68
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P68689-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P68689-F1-model_v4 Glutaredoxin 1	0.150	87	71	56	142	2	85	3.151E-02	67
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NVS9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6NVS9-F1-model_v4 Anterior gradient protein 1	0.211	147	103	7	137	28	174	1.555E-03	67
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7W2Q0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7W2Q0-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.282	39	27	52	90	45	83	2.394E-01	66
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17374-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q17374-F1-model_v4 Putative potassium channel regulatory protein sup-10	0.104	109	90	38	138	147	255	1.329E-01	66
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A1P8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A1P8-F1-model_v4 Glutaredoxin 1	0.179	83	65	56	138	2	81	7.873E-02	65
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R7P1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R7P1-F1-model_v4 Anterior gradient protein 2 homolog	0.139	144	108	12	138	23	166	1.867E-02	65
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P55868-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P55868-F1-model_v4 Anterior gradient protein 1	0.211	152	103	10	140	28	179	1.036E-02	65
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7WDP8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7WDP8-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.282	39	27	52	90	45	83	2.555E-01	65
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8R3W7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8R3W7-F1-model_v4 Anterior gradient protein 3	0.163	131	101	16	137	22	152	2.272E-02	64
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7W0K2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7W0K2-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.282	39	27	52	90	45	83	3.109E-01	64
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1XDA3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1XDA3-F1-model_v4 Uncharacterized monothiol glutaredoxin ycf64	0.131	84	69	55	138	18	97	2.426E-02	63
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O05957-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O05957-F1-model_v4 Probable monothiol glutaredoxin 2	0.135	99	84	43	140	8	106	2.426E-02	63
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q45FN5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q45FN5-F1-model_v4 Protein TlpB	0.103	153	120	7	141	211	363	2.128E-02	63
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GM16-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6GM16-F1-model_v4 Nucleoredoxin	0.186	100	59	48	121	169	268	5.317E-02	63
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8K9V6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8K9V6-F1-model_v4 Glutaredoxin 4	0.121	99	80	40	138	1	92	2.272E-02	62
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q555C8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q555C8-F1-model_v4 Monothiol glutaredoxin-5, mitochondrial	0.165	96	73	43	138	39	126	4.370E-02	62
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P73056-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P73056-F1-model_v4 Uncharacterized monothiol glutaredoxin ycf64-like	0.118	94	75	45	138	9	94	3.151E-02	61
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92GH5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q92GH5-F1-model_v4 Probable monothiol glutaredoxin 2	0.138	96	78	43	138	8	98	4.665E-02	61
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q68W05-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q68W05-F1-model_v4 Probable monothiol glutaredoxin 2	0.117	99	86	43	140	8	106	2.951E-02	61
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O88312-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O88312-F1-model_v4 Anterior gradient protein 2 homolog	0.158	145	108	10	138	22	166	4.093E-02	61
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0JQ97-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0JQ97-F1-model_v4 Monothiol glutaredoxin-S1, mitochondrial	0.138	94	72	45	138	80	164	2.272E-02	61
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P47049-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P47049-F1-model_v4 UBX domain-containing protein 6	0.115	126	104	13	138	1	118	1.749E-02	60
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O30824-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O30824-F1-model_v4 Glutaredoxin 4	0.158	96	73	43	138	5	92	3.834E-02	59
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6PBM1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6PBM1-F1-model_v4 Glutaredoxin-related protein 5, mitochondrial	0.168	94	72	45	138	45	131	3.591E-02	59
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2KTN7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2KTN7-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.127	158	75	52	138	44	201	1.617E-01	59
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RZ65-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RZ65-F1-model_v4 Anterior gradient protein 2 homolog	0.153	94	70	54	137	65	158	3.834E-02	58
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0JM76-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0JM76-F1-model_v4 Monothiol glutaredoxin-S4, mitochondrial	0.128	94	73	45	138	80	164	3.364E-02	58
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O45405-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O45405-F1-model_v4 Chloride intracellular channel exl-1	0.115	91	75	54	139	1	91	2.100E-01	58
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5ATH0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5ATH0-F1-model_v4 FAD-dependent monooxygenase apdD	0.133	123	105	14	136	480	601	7.374E-02	58
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8TD06-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8TD06-F1-model_v4 Anterior gradient protein 3	0.133	127	108	12	137	27	153	5.677E-02	57
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0SG15-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q0SG15-F1-model_v4 Na(+)/H(+) antiporter NhaA 1	0.107	158	77	53	139	458	615	1.726E-01	56
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4UK94-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4UK94-F1-model_v4 Probable monothiol glutaredoxin 2	0.108	96	77	43	138	8	94	1.092E-01	55
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LBK6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8LBK6-F1-model_v4 Monothiol glutaredoxin-S15, mitochondrial	0.102	132	106	7	138	36	154	1.638E-02	54
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P32557-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P32557-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.205	39	30	52	90	36	74	6.385E-01	54
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5L1S1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5L1S1-F1-model_v4 ClpXP adapter protein SpxH	0.090	206	81	52	141	23	228	2.100E-01	54
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P50024-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P50024-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.210	38	29	53	90	41	78	1.077E+00	51
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P77202-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P77202-F1-model_v4 Thiol:disulfide interchange protein DsbG	0.132	138	78	50	140	111	248	2.555E-01	49
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5F204-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5F204-F1-model_v4 Putative malate dehydrogenase 1B	0.141	95	76	54	142	1	95	2.394E-01	49
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A4T134-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A4T134-F1-model_v4 Na(+)/H(+) antiporter NhaA 1	0.100	155	77	52	138	460	614	6.385E-01	49
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A1KV41-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A1KV41-F1-model_v4 Glutathione peroxidase homolog	0.115	158	81	48	140	20	177	1.418E-01	47
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P58320-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P58320-F1-model_v4 Thiol:disulfide interchange protein DsbG	0.132	138	78	50	140	111	248	3.319E-01	47
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q07842-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q07842-F1-model_v4 NADH-ubiquinone oxidoreductase 10.5 kDa subunit	0.141	92	72	49	140	6	90	5.247E-01	46
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P45965-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P45965-F1-model_v4 Uncharacterized protein T09A5.5	0.107	87	71	52	138	16	96	5.980E-01	46
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Z9N7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Z9N7-F1-model_v4 Glutathione peroxidase homolog BsaA	0.131	138	80	48	140	20	157	1.726E-01	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HKZ3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HKZ3-F1-model_v4 Glutathione peroxidase homolog BsaA	0.085	138	84	47	139	19	156	3.783E-01	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q02DM0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q02DM0-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.117	198	111	12	138	3	200	3.544E-01	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0C2B2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0C2B2-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.117	198	111	12	138	3	200	3.783E-01	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O75715-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O75715-F1-model_v4 Epididymal secretory glutathione peroxidase	0.087	171	125	1	138	43	213	4.604E-01	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A3KMX7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A3KMX7-F1-model_v4 Putative malate dehydrogenase 1B	0.135	110	73	54	138	1	110	1.843E-01	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5I0G3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5I0G3-F1-model_v4 Putative malate dehydrogenase 1B	0.117	95	78	54	142	1	95	4.312E-01	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A3PTR0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A3PTR0-F1-model_v4 Na(+)/H(+) antiporter NhaA 1	0.095	152	75	55	138	460	611	1.009E+00	45
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9BRT3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9BRT3-F1-model_v4 Migration and invasion enhancer 1	0.102	68	48	53	120	21	74	3.109E-01	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q148C8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q148C8-F1-model_v4 Migration and invasion enhancer 1	0.115	68	48	53	120	20	74	2.728E-01	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQ86-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9CQ86-F1-model_v4 Migration and invasion enhancer 1	0.106	66	46	55	120	23	74	3.319E-01	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q28ID5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q28ID5-F1-model_v4 Anterior gradient protein 2	0.155	111	83	6	116	24	122	6.907E-02	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0T4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0T4-F1-model_v4 Glutathione peroxidase homolog	0.103	158	83	48	140	20	177	2.555E-01	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P28714-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P28714-F1-model_v4 Epididymal secretory glutathione peroxidase	0.092	171	124	1	138	43	213	5.602E-01	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RMP7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RMP7-F1-model_v4 Probable inactive peptidyl-prolyl cis-trans isomerase-like 6	0.100	96	79	52	140	17	112	5.247E-01	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A1UA55-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A1UA55-F1-model_v4 Na(+)/H(+) antiporter NhaA 1	0.095	152	75	55	138	460	611	1.150E+00	44
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0C2T0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0C2T0-F1-model_v4 Glutathione peroxidase homolog	0.115	158	81	48	140	20	177	3.109E-01	43
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0T5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0A0T5-F1-model_v4 Glutathione peroxidase homolog	0.109	158	82	48	140	20	177	2.912E-01	43
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A8MXD5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A8MXD5-F1-model_v4 Glutaredoxin domain-containing cysteine-rich protein 1	0.125	86	73	53	138	137	220	1.967E-01	43
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LH89-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9LH89-F1-model_v4 Uncharacterized protein At3g28850	0.094	86	77	53	138	251	336	4.039E-01	43
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1BES7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1BES7-F1-model_v4 Na(+)/H(+) antiporter NhaA 1	0.093	155	78	52	138	457	611	1.311E+00	43
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A1T2V5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A1T2V5-F1-model_v4 Na(+)/H(+) antiporter NhaA 1	0.098	158	79	50	138	457	614	1.228E+00	42
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q44504-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q44504-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.136	165	74	52	138	48	212	8.855E-01	41
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RC61-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RC61-F1-model_v4 SH3 domain-binding glutamic acid-rich-like protein 3	0.120	84	70	55	138	4	83	7.277E-01	40
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RHJ0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q1RHJ0-F1-model_v4 Glutaredoxin 1	0.175	87	66	52	138	4	84	3.109E-01	40
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8IXY8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8IXY8-F1-model_v4 Probable inactive peptidyl-prolyl cis-trans isomerase-like 6	0.129	120	95	23	142	9	118	3.544E-01	40
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RXC9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RXC9-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.129	103	71	56	138	314	416	3.544E-01	40
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q04228-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q04228-F1-model_v4 UBX domain-containing protein 2	0.076	129	91	40	138	218	346	4.604E-01	40
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2IE76-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2IE76-F1-model_v4 Na(+)/H(+) antiporter NhaA	0.092	157	83	50	141	41	197	2.072E+00	40
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7WHN0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7WHN0-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.157	111	74	53	141	312	422	5.247E-01	39
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q91VW3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q91VW3-F1-model_v4 SH3 domain-binding glutamic acid-rich-like protein 3	0.119	85	72	54	138	1	83	1.311E+00	38
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RHV8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RHV8-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.115	178	102	10	125	9	186	4.312E-01	38
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BG73-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8BG73-F1-model_v4 SH3 domain-binding glutamic acid-rich-like protein 2	0.166	87	68	56	138	2	88	1.009E+00	37
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P0C6P9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P0C6P9-F1-model_v4 Thiol peroxidase	0.089	162	121	1	134	1	162	5.247E-01	37
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O18994-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O18994-F1-model_v4 Epididymal secretory glutathione peroxidase	0.090	154	78	52	138	58	211	1.400E+00	37
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6R4B4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q6R4B4-F1-model_v4 Glutathione-S-transferase	0.117	82	70	57	138	13	92	1.009E+00	37
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4R7R5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q4R7R5-F1-model_v4 SH3 domain-binding glutamic acid-rich-like protein	0.156	87	69	56	138	2	88	1.228E+00	36
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O52376-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O52376-F1-model_v4 Thiol:disulfide interchange protein DsbA	0.122	198	110	12	137	3	200	1.077E+00	36
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7W6P6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7W6P6-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.140	113	94	32	141	310	422	6.816E-01	36
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B4EAW9-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B4EAW9-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.148	113	93	32	141	312	424	8.294E-01	35
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B1YR44-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B1YR44-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.148	113	93	32	141	312	424	8.294E-01	35
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3ZCL8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3ZCL8-F1-model_v4 SH3 domain-binding glutamic acid-rich-like protein 3	0.152	85	70	54	138	1	83	1.228E+00	34
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RFN7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5RFN7-F1-model_v4 SH3 domain-binding glutamic acid-rich-like protein	0.156	87	69	56	138	2	88	1.595E+00	34
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3YRZ7-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q3YRZ7-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.100	107	77	56	142	313	419	1.077E+00	34
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A2BN21-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A2BN21-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.132	103	87	36	138	176	276	5.602E-01	33
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FLE8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9FLE8-F1-model_v4 Uncharacterized protein At5g39865	0.103	89	76	53	138	223	311	2.692E+00	32
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C0R5E5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C0R5E5-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.096	103	72	58	138	317	419	1.311E+00	32
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q08BZ4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q08BZ4-F1-model_v4 Putative malate dehydrogenase 1B	0.126	110	73	54	138	1	110	1.703E+00	32
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q73IP1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q73IP1-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.083	106	72	59	138	314	419	1.595E+00	31
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P55822-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P55822-F1-model_v4 SH3 domain-binding glutamic acid-rich protein	0.163	90	72	52	138	61	150	3.497E+00	30
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q08096-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q08096-F1-model_v4 RNA 3'-terminal phosphate cyclase-like protein	0.123	93	75	53	138	189	281	1.941E+00	30
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A1UR54-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A1UR54-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.115	108	75	53	138	297	404	1.150E+00	30
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5GRK4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5GRK4-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.094	106	72	59	138	317	422	1.494E+00	30
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A1SHU2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A1SHU2-F1-model_v4 Na(+)/H(+) antiporter NhaA 2	0.093	156	80	50	138	458	613	4.255E+00	30
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9JJT0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9JJT0-F1-model_v4 RNA 3'-terminal phosphate cyclase-like protein	0.119	105	90	36	138	178	282	5.602E-01	29
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B3CNN4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B3CNN4-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.096	113	99	32	141	310	422	2.362E+00	29
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P06610-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P06610-F1-model_v4 Thioredoxin/glutathione peroxidase BtuE	0.107	162	81	47	138	21	182	2.212E+00	28
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q09870-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q09870-F1-model_v4 Probable RNA 3'-terminal phosphate cyclase-like protein	0.129	107	90	36	142	178	281	1.400E+00	28
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A8YUJ8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A8YUJ8-F1-model_v4 ATP synthase subunit delta	0.126	86	60	53	138	107	176	5.980E-01	27
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B7NMI4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B7NMI4-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.119	113	91	30	142	173	276	1.400E+00	27
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P56175-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P56175-F1-model_v4 Probable RNA 3'-terminal phosphate cyclase-like protein	0.138	81	68	54	134	194	273	8.855E-01	27
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2Y8T1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2Y8T1-F1-model_v4 Na(+)/H(+) antiporter NhaA	0.079	159	84	50	141	23	181	9.329E+00	27
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q042L2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q042L2-F1-model_v4 ATP synthase subunit delta	0.114	86	61	53	138	107	176	7.769E-01	26
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95003-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q95003-F1-model_v4 Glutathione peroxidase 3	0.175	40	31	53	91	61	100	4.543E+00	26
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2KHX8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2KHX8-F1-model_v4 RNA 3'-terminal phosphate cyclase-like protein	0.122	101	87	36	135	178	278	6.816E-01	26
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7VA62-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q7VA62-F1-model_v4 ATP synthase subunit delta	0.103	86	60	53	138	110	177	1.150E+00	25
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q23400-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q23400-F1-model_v4 Probable RNA 3'-terminal phosphate cyclase-like protein	0.155	44	36	49	92	183	226	1.818E+00	25
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RGY4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9RGY4-F1-model_v4 ATP synthase subunit delta	0.126	86	60	53	138	107	176	1.228E+00	24
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B6YR07-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B6YR07-F1-model_v4 ATP synthase subunit delta	0.117	85	58	54	138	109	175	1.494E+00	23
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C6A4N4-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C6A4N4-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.094	93	80	53	141	186	278	4.850E+00	23
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A8A9W2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A8A9W2-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.120	81	70	55	134	190	270	2.362E+00	23
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y2P8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9Y2P8-F1-model_v4 RNA 3'-terminal phosphate cyclase-like protein	0.120	85	69	31	115	171	249	6.385E-01	23
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5FHA6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5FHA6-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.053	109	83	53	141	310	418	2.874E+00	23
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A8FIB5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A8FIB5-F1-model_v4 ATP synthase subunit delta	0.091	86	63	53	138	105	174	2.362E+00	22
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C3N969-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C3N969-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.062	86	78	49	134	180	263	4.543E+00	22
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2Y720-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2Y720-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.089	80	69	54	133	189	265	2.212E+00	22
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HB57-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5HB57-F1-model_v4 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	0.078	109	81	53	141	310	418	4.255E+00	22
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9X1K8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q9X1K8-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.118	82	68	54	135	120	197	3.068E+00	21
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O46607-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O46607-F1-model_v4 Epididymal secretory glutathione peroxidase	0.090	139	102	1	139	43	155	2.874E+00	21
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C3N179-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C3N179-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.090	86	76	49	134	180	263	4.543E+00	21
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C3MU91-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C3MU91-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.101	86	75	49	134	180	263	5.528E+00	21
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C4KKE6-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C4KKE6-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.062	86	78	49	134	180	263	5.528E+00	21
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B1LBR0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B1LBR0-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.118	82	68	54	135	120	197	3.497E+00	20
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A4YEC3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A4YEC3-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.074	85	72	54	138	186	264	6.726E+00	20
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HJ88-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q2HJ88-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.148	106	89	36	141	179	283	7.666E+00	20
+DESULFOASV1_1604_thioredoxin_TrxC	AF-B9K866-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-B9K866-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.139	82	66	54	135	120	197	4.255E+00	19
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C3MKC1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C3MKC1-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.052	86	79	49	134	180	263	5.528E+00	19
+DESULFOASV1_1604_thioredoxin_TrxC	AF-C3NMT8-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-C3NMT8-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.052	86	79	49	134	180	263	6.726E+00	19
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R7P3-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q5R7P3-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.148	106	89	36	141	179	283	6.300E+00	19
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A5IM63-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A5IM63-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.118	82	68	54	135	120	197	5.902E+00	18
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8DHH2-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8DHH2-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.084	116	82	35	124	129	244	5.178E+00	18
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O00442-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O00442-F1-model_v4 RNA 3'-terminal phosphate cyclase	0.145	128	103	21	141	156	283	8.185E+00	18
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54S38-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q54S38-F1-model_v4 Probable RNA 3'-terminal phosphate cyclase-like protein	0.118	93	78	49	138	179	271	3.497E+00	18
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8GUM5-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q8GUM5-F1-model_v4 Nicastrin	0.183	76	58	17	92	322	393	6.300E+00	18
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q89VX1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q89VX1-F1-model_v4 DNA mismatch repair protein MutS	0.119	115	85	42	138	724	838	1.941E+00	17
+DESULFOASV1_1604_thioredoxin_TrxC	AF-A4YKQ0-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-A4YKQ0-F1-model_v4 DNA mismatch repair protein MutS	0.117	101	72	56	138	742	842	2.212E+00	17
+DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10YI1-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-Q10YI1-F1-model_v4 4-hydroxy-tetrahydrodipicolinate reductase	0.057	128	96	35	137	128	255	9.959E+00	14
+DESULFOASV1_1604_thioredoxin_TrxC	AF-O08439-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-O08439-F1-model_v4 Cell division protein FtsZ	0.122	55	46	42	94	248	302	5.902E+00	14
+DESULFOASV1_1604_thioredoxin_TrxC	AF-P47466-F1-model_v4	DESULFOASV1_1604_thioredoxin_TrxC	AF-P47466-F1-model_v4 Cell division protein FtsZ	0.100	90	79	49	138	268	356	9.329E+00	12

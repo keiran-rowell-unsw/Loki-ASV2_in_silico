@@ -1,0 +1,841 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_0932_arylesterase	AF-Q07792-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q07792-F1-model_v4 Arylesterase	0.312	198	133	4	197	1	198	7.453E-15	476
+DESULFOASV1_0932_arylesterase	AF-P0ADA2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0ADA2-F1-model_v4 Thioesterase 1/protease 1/lysophospholipase L1	0.309	178	117	28	197	25	202	3.608E-13	450
+DESULFOASV1_0932_arylesterase	AF-P0ADA1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0ADA1-F1-model_v4 Thioesterase 1/protease 1/lysophospholipase L1	0.309	178	117	28	197	25	202	3.608E-13	450
+DESULFOASV1_0932_arylesterase	AF-Q9HZY8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9HZY8-F1-model_v4 Esterase TesA	0.260	200	146	1	198	1	200	6.609E-14	446
+DESULFOASV1_0932_arylesterase	AF-P40766-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P40766-F1-model_v4 Uncharacterized protein YpmR	0.215	244	157	1	201	10	253	6.245E-10	306
+DESULFOASV1_0932_arylesterase	AF-P54451-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P54451-F1-model_v4 Uncharacterized lipoprotein YqeF	0.205	241	159	1	201	1	241	5.878E-10	285
+DESULFOASV1_0932_arylesterase	AF-O53423-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O53423-F1-model_v4 GDSL-like esterase Rv1075c	0.191	203	141	24	198	65	267	1.862E-08	273
+DESULFOASV1_0932_arylesterase	AF-P41734-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P41734-F1-model_v4 Isoamyl acetate-hydrolyzing esterase	0.198	207	134	30	197	3	209	1.015E-08	259
+DESULFOASV1_0932_arylesterase	AF-Q711G3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q711G3-F1-model_v4 Isoamyl acetate-hydrolyzing esterase 1 homolog	0.173	220	152	14	198	1	220	4.622E-08	239
+DESULFOASV1_0932_arylesterase	AF-Q3SZ16-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3SZ16-F1-model_v4 Isoamyl acetate-hydrolyzing esterase 1 homolog	0.188	210	140	25	198	11	220	3.853E-08	239
+DESULFOASV1_0932_arylesterase	AF-Q09LX1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q09LX1-F1-model_v4 Acetylxylan esterase	0.237	208	130	31	201	7	214	2.521E-08	233
+DESULFOASV1_0932_arylesterase	AF-Q503L4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q503L4-F1-model_v4 Isoamyl acetate-hydrolyzing esterase 1 homolog	0.194	212	140	24	198	1	212	7.507E-08	224
+DESULFOASV1_0932_arylesterase	AF-Q2TAA2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2TAA2-F1-model_v4 Isoamyl acetate-hydrolyzing esterase 1 homolog	0.167	208	144	25	198	12	219	9.566E-08	224
+DESULFOASV1_0932_arylesterase	AF-O80443-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O80443-F1-model_v4 GDSL esterase/lipase At2g38180	0.185	201	135	30	196	6	206	2.375E-07	221
+DESULFOASV1_0932_arylesterase	AF-Q9DB29-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9DB29-F1-model_v4 Isoamyl acetate-hydrolyzing esterase 1 homolog	0.171	220	153	14	198	1	220	7.072E-07	205
+DESULFOASV1_0932_arylesterase	AF-O74648-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O74648-F1-model_v4 Isoamyl acetate-hydrolyzing esterase	0.231	218	151	1	198	7	224	6.265E-07	204
+DESULFOASV1_0932_arylesterase	AF-Q9SRM5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9SRM5-F1-model_v4 GDSL esterase/lipase CPRD49	0.187	208	140	24	196	1	208	1.081E-06	201
+DESULFOASV1_0932_arylesterase	AF-Q9FM04-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9FM04-F1-model_v4 GDSL esterase/lipase At5g62930	0.164	209	140	30	197	2	210	2.852E-06	198
+DESULFOASV1_0932_arylesterase	AF-K5BJH8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-K5BJH8-F1-model_v4 Diglucosylglycerate octanoyltransferase	0.157	237	153	20	201	2	238	7.072E-07	197
+DESULFOASV1_0932_arylesterase	AF-Q6NMR9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6NMR9-F1-model_v4 GDSL esterase/lipase At5g45920	0.188	211	137	30	199	3	213	9.013E-07	197
+DESULFOASV1_0932_arylesterase	AF-P71725-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P71725-F1-model_v4 Diglucosylglycerate octanoyltransferase	0.151	238	155	16	199	2	239	5.896E-07	197
+DESULFOASV1_0932_arylesterase	AF-P42304-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P42304-F1-model_v4 Uncharacterized esterase YxiM	0.185	205	141	26	199	174	378	8.491E-06	177
+DESULFOASV1_0932_arylesterase	AF-A0R109-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0R109-F1-model_v4 Diglucosylglycerate octanoyltransferase	0.171	242	155	14	201	5	246	1.081E-06	172
+DESULFOASV1_0932_arylesterase	AF-P0A4V1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0A4V1-F1-model_v4 N-acylneuraminate cytidylyltransferase	0.154	170	139	27	196	244	408	1.222E-05	160
+DESULFOASV1_0932_arylesterase	AF-Q9AFG9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9AFG9-F1-model_v4 N-acylneuraminate cytidylyltransferase	0.162	170	137	27	196	244	408	4.107E-05	153
+DESULFOASV1_0932_arylesterase	AF-P0A4V0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0A4V0-F1-model_v4 N-acylneuraminate cytidylyltransferase	0.157	175	142	27	201	244	413	4.363E-05	151
+DESULFOASV1_0932_arylesterase	AF-P25158-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P25158-F1-model_v4 Maternal effect protein oskar	0.138	217	168	1	196	389	605	2.110E-04	123
+DESULFOASV1_0932_arylesterase	AF-Q24741-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q24741-F1-model_v4 Maternal effect protein oskar	0.127	222	171	1	197	372	593	5.914E-04	112
+DESULFOASV1_0932_arylesterase	AF-P15329-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P15329-F1-model_v4 Putative endoglucanase X	0.165	136	104	72	197	8	143	4.119E-02	79
+DESULFOASV1_0932_arylesterase	AF-P41395-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P41395-F1-model_v4 Uncharacterized protein LB_356	0.216	71	54	25	95	67	136	2.247E-02	77
+DESULFOASV1_0932_arylesterase	AF-P36949-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P36949-F1-model_v4 Ribose import binding protein RbsB	0.101	133	111	1	133	1	125	4.119E-02	74
+DESULFOASV1_0932_arylesterase	AF-P61730-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61730-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.136	166	115	32	197	2	135	1.085E-02	71
+DESULFOASV1_0932_arylesterase	AF-Q2YKV1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2YKV1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.132	185	132	13	197	1	153	5.244E-03	71
+DESULFOASV1_0932_arylesterase	AF-P44737-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P44737-F1-model_v4 Ribose import binding protein RbsB	0.139	133	96	1	133	1	112	6.690E-02	70
+DESULFOASV1_0932_arylesterase	AF-Q7MB18-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7MB18-F1-model_v4 Autoinducer 2-binding protein LsrB	0.111	137	106	1	137	1	120	5.926E-02	69
+DESULFOASV1_0932_arylesterase	AF-Q1CN18-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1CN18-F1-model_v4 Autoinducer 2-binding protein LsrB	0.083	137	107	1	137	3	120	7.553E-02	69
+DESULFOASV1_0932_arylesterase	AF-O28152-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O28152-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.147	168	114	30	197	3	137	1.302E-02	68
+DESULFOASV1_0932_arylesterase	AF-A1JJ52-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1JJ52-F1-model_v4 Autoinducer 2-binding protein LsrB	0.063	137	114	1	137	3	125	9.625E-02	68
+DESULFOASV1_0932_arylesterase	AF-Q8Q093-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8Q093-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.168	136	106	31	166	2	130	1.302E-02	67
+DESULFOASV1_0932_arylesterase	AF-P61711-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61711-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.132	185	132	13	197	1	153	9.616E-03	67
+DESULFOASV1_0932_arylesterase	AF-P77269-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P77269-F1-model_v4 ABC transporter periplasmic-binding protein YphF	0.121	138	102	1	138	8	124	7.109E-02	67
+DESULFOASV1_0932_arylesterase	AF-Q57HE0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q57HE0-F1-model_v4 Autoinducer 2-binding protein LsrB	0.076	137	110	1	137	2	121	8.025E-02	67
+DESULFOASV1_0932_arylesterase	AF-B1XEA4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1XEA4-F1-model_v4 Autoinducer 2-binding protein LsrB	0.069	137	111	1	137	2	121	9.625E-02	67
+DESULFOASV1_0932_arylesterase	AF-B1IRU4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1IRU4-F1-model_v4 Autoinducer 2-binding protein LsrB	0.076	137	107	1	137	5	121	9.625E-02	66
+DESULFOASV1_0932_arylesterase	AF-A3CRJ3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3CRJ3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.170	135	108	31	165	2	132	3.434E-02	65
+DESULFOASV1_0932_arylesterase	AF-P61712-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61712-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.132	185	132	13	197	1	153	1.225E-02	65
+DESULFOASV1_0932_arylesterase	AF-P61713-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61713-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.132	185	132	13	197	1	153	1.302E-02	65
+DESULFOASV1_0932_arylesterase	AF-P55568-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P55568-F1-model_v4 Probable ABC transporter periplasmic-binding protein y4mI	0.137	201	157	1	201	5	187	1.022E-02	65
+DESULFOASV1_0932_arylesterase	AF-A4TQL8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4TQL8-F1-model_v4 Autoinducer 2-binding protein LsrB	0.083	137	107	1	137	3	120	1.385E-01	65
+DESULFOASV1_0932_arylesterase	AF-Q8XAY9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8XAY9-F1-model_v4 Autoinducer 2-binding protein LsrB	0.076	137	107	1	137	5	121	1.087E-01	65
+DESULFOASV1_0932_arylesterase	AF-B1LF99-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1LF99-F1-model_v4 Autoinducer 2-binding protein LsrB	0.076	137	107	1	137	5	121	1.087E-01	65
+DESULFOASV1_0932_arylesterase	AF-Q6L8J9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6L8J9-F1-model_v4 Circadian clock protein kinase KaiC	0.136	178	115	20	153	255	432	1.470E-02	65
+DESULFOASV1_0932_arylesterase	AF-A4G0E3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4G0E3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.136	166	115	32	197	2	135	2.863E-02	64
+DESULFOASV1_0932_arylesterase	AF-B1Y9N5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1Y9N5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.138	167	118	31	197	2	139	4.119E-02	64
+DESULFOASV1_0932_arylesterase	AF-P0C888-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0C888-F1-model_v4 Autoinducer 2-binding protein LsrB	0.069	137	108	1	137	5	121	1.303E-01	64
+DESULFOASV1_0932_arylesterase	AF-E4S1L1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-E4S1L1-F1-model_v4 Basic membrane protein D	0.112	132	99	1	132	1	113	6.690E-02	64
+DESULFOASV1_0932_arylesterase	AF-Q46AS9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q46AS9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.170	136	106	31	166	2	130	1.153E-02	63
+DESULFOASV1_0932_arylesterase	AF-Q8TPT7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8TPT7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.158	137	108	30	166	2	130	3.042E-02	63
+DESULFOASV1_0932_arylesterase	AF-B1JLQ3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1JLQ3-F1-model_v4 Autoinducer 2-binding protein LsrB	0.090	137	106	1	137	3	120	7.553E-02	63
+DESULFOASV1_0932_arylesterase	AF-A8A069-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8A069-F1-model_v4 Autoinducer 2-binding protein LsrB	0.076	137	107	1	137	5	121	1.385E-01	63
+DESULFOASV1_0932_arylesterase	AF-Q8ZKQ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8ZKQ1-F1-model_v4 Autoinducer 2-binding protein LsrB	0.090	137	106	1	137	5	121	5.578E-02	63
+DESULFOASV1_0932_arylesterase	AF-P76142-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P76142-F1-model_v4 Autoinducer 2-binding protein LsrB	0.076	137	107	1	137	5	121	1.385E-01	63
+DESULFOASV1_0932_arylesterase	AF-O59403-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O59403-F1-model_v4 Uncharacterized lipoprotein PH1714	0.121	139	109	1	139	7	131	3.042E-02	63
+DESULFOASV1_0932_arylesterase	AF-P61727-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61727-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.115	197	148	1	197	1	168	5.578E-02	62
+DESULFOASV1_0932_arylesterase	AF-P37387-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P37387-F1-model_v4 D-xylose-binding periplasmic protein	0.148	198	148	1	198	1	175	1.873E-02	62
+DESULFOASV1_0932_arylesterase	AF-A7ZLX3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7ZLX3-F1-model_v4 Autoinducer 2-binding protein LsrB	0.069	137	108	1	137	5	121	1.661E-01	62
+DESULFOASV1_0932_arylesterase	AF-Q79V60-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q79V60-F1-model_v4 Circadian clock protein kinase KaiC	0.136	178	115	20	153	255	432	2.115E-02	62
+DESULFOASV1_0932_arylesterase	AF-Q8VL13-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8VL13-F1-model_v4 Circadian clock protein kinase KaiC	0.103	178	119	20	153	256	433	2.536E-02	62
+DESULFOASV1_0932_arylesterase	AF-P9WP43-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P9WP43-F1-model_v4 Carboxylesterase Culp1	0.114	209	175	1	199	9	217	8.518E-03	61
+DESULFOASV1_0932_arylesterase	AF-Q8U0A4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8U0A4-F1-model_v4 Uncharacterized lipoprotein PF1695	0.146	134	97	1	134	9	123	5.578E-02	61
+DESULFOASV1_0932_arylesterase	AF-A6UTD8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6UTD8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.170	166	110	32	197	2	135	8.025E-02	60
+DESULFOASV1_0932_arylesterase	AF-O32436-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O32436-F1-model_v4 Transcriptional activator protein med	0.120	132	99	1	132	2	115	6.690E-02	60
+DESULFOASV1_0932_arylesterase	AF-Q66EZ2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q66EZ2-F1-model_v4 Autoinducer 2-binding protein LsrB	0.090	137	106	1	137	3	120	1.087E-01	60
+DESULFOASV1_0932_arylesterase	AF-P0C887-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0C887-F1-model_v4 Autoinducer 2-binding protein LsrB	0.069	137	108	1	137	5	121	1.875E-01	60
+DESULFOASV1_0932_arylesterase	AF-A0QYB3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0QYB3-F1-model_v4 Xylitol-binding protein	0.102	132	95	2	133	15	121	1.227E-01	60
+DESULFOASV1_0932_arylesterase	AF-Q8YT40-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8YT40-F1-model_v4 Circadian clock protein kinase KaiC	0.125	178	116	20	153	254	431	2.695E-02	60
+DESULFOASV1_0932_arylesterase	AF-Q8GGL1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8GGL1-F1-model_v4 Circadian clock protein kinase KaiC	0.106	178	119	20	153	276	453	3.042E-02	60
+DESULFOASV1_0932_arylesterase	AF-O27443-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O27443-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.148	170	116	28	197	1	137	7.109E-02	59
+DESULFOASV1_0932_arylesterase	AF-Q8TYL5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8TYL5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.151	167	116	30	196	3	140	3.232E-02	59
+DESULFOASV1_0932_arylesterase	AF-Q9YC88-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9YC88-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	170	116	30	199	6	140	5.926E-02	59
+DESULFOASV1_0932_arylesterase	AF-Q2SBX9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2SBX9-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 4	0.126	169	108	30	198	2	125	8.526E-02	59
+DESULFOASV1_0932_arylesterase	AF-Q7U8R3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7U8R3-F1-model_v4 Circadian clock protein kinase KaiC	0.085	178	122	20	153	251	428	3.042E-02	59
+DESULFOASV1_0932_arylesterase	AF-Q79PF4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q79PF4-F1-model_v4 Circadian clock protein kinase KaiC	0.126	201	129	8	156	1	201	1.153E-02	59
+DESULFOASV1_0932_arylesterase	AF-Q7V0C4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7V0C4-F1-model_v4 Circadian clock protein kinase KaiC	0.103	178	119	20	153	251	428	3.877E-02	58
+DESULFOASV1_0932_arylesterase	AF-Q6L8L5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6L8L5-F1-model_v4 Circadian clock protein kinase KaiC	0.114	191	123	7	146	1	191	3.042E-02	58
+DESULFOASV1_0932_arylesterase	AF-Q465Q4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q465Q4-F1-model_v4 CTP synthase	0.172	107	79	27	133	284	379	3.877E-02	58
+DESULFOASV1_0932_arylesterase	AF-Q2NAA7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2NAA7-F1-model_v4 CTP synthase	0.084	104	85	30	133	289	382	1.087E-01	58
+DESULFOASV1_0932_arylesterase	AF-A8I0J5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8I0J5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.135	188	139	14	201	1	162	7.109E-02	57
+DESULFOASV1_0932_arylesterase	AF-Q1JUP8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1JUP8-F1-model_v4 ABC transporter L-arabinose-binding periplasmic protein	0.110	201	174	1	201	1	196	2.536E-02	57
+DESULFOASV1_0932_arylesterase	AF-Q74PW2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q74PW2-F1-model_v4 Autoinducer 2-binding protein LsrB	0.105	239	178	1	200	1	239	5.578E-02	57
+DESULFOASV1_0932_arylesterase	AF-P74503-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P74503-F1-model_v4 KaiC-like protein 2	0.100	155	113	27	153	270	424	7.109E-02	57
+DESULFOASV1_0932_arylesterase	AF-Q6L8L1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6L8L1-F1-model_v4 Circadian clock protein kinase KaiC	0.109	178	119	20	153	256	433	4.377E-02	57
+DESULFOASV1_0932_arylesterase	AF-Q1Q9K1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1Q9K1-F1-model_v4 CTP synthase	0.106	104	82	30	133	289	381	1.087E-01	57
+DESULFOASV1_0932_arylesterase	AF-Q92NI1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q92NI1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.114	176	136	22	197	2	155	4.377E-02	56
+DESULFOASV1_0932_arylesterase	AF-Q986N2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q986N2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.102	185	136	14	198	1	152	1.227E-01	56
+DESULFOASV1_0932_arylesterase	AF-A7X0C7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7X0C7-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	4.124E-01	56
+DESULFOASV1_0932_arylesterase	AF-Q5PJE4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5PJE4-F1-model_v4 Autoinducer 2-binding protein LsrB	0.090	137	106	1	137	5	121	1.385E-01	56
+DESULFOASV1_0932_arylesterase	AF-Q2G6R7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2G6R7-F1-model_v4 CTP synthase	0.092	104	84	30	133	288	381	1.303E-01	56
+DESULFOASV1_0932_arylesterase	AF-B4RBW5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4RBW5-F1-model_v4 CTP synthase	0.086	126	101	30	155	291	402	7.553E-02	56
+DESULFOASV1_0932_arylesterase	AF-B8GW64-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8GW64-F1-model_v4 CTP synthase	0.080	122	92	30	151	295	395	1.661E-01	56
+DESULFOASV1_0932_arylesterase	AF-Q38PU8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q38PU8-F1-model_v4 Glutamate receptor 1	0.152	174	146	29	201	141	314	5.572E-03	56
+DESULFOASV1_0932_arylesterase	AF-P23818-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P23818-F1-model_v4 Glutamate receptor 1	0.163	174	144	29	201	141	314	5.244E-03	56
+DESULFOASV1_0932_arylesterase	AF-A5UMS3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5UMS3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.169	130	102	27	156	1	124	8.025E-02	55
+DESULFOASV1_0932_arylesterase	AF-A4WLK4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4WLK4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.127	138	115	31	168	2	134	5.926E-02	55
+DESULFOASV1_0932_arylesterase	AF-A9R0S5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9R0S5-F1-model_v4 Autoinducer 2-binding protein LsrB	0.105	239	178	1	200	1	239	7.553E-02	55
+DESULFOASV1_0932_arylesterase	AF-Q1C135-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1C135-F1-model_v4 Autoinducer 2-binding protein LsrB	0.105	239	178	1	200	1	239	7.553E-02	55
+DESULFOASV1_0932_arylesterase	AF-A0LRU4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0LRU4-F1-model_v4 Succinate--CoA ligase [ADP-forming] subunit beta	0.154	168	122	23	190	246	390	1.087E-01	55
+DESULFOASV1_0932_arylesterase	AF-Q9V1H5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9V1H5-F1-model_v4 Uncharacterized lipoprotein PYRAB04520	0.126	137	111	1	137	6	133	6.690E-02	55
+DESULFOASV1_0932_arylesterase	AF-P74646-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P74646-F1-model_v4 Circadian clock protein kinase KaiC	0.111	195	127	3	146	1	195	3.434E-02	55
+DESULFOASV1_0932_arylesterase	AF-Q8TYT7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8TYT7-F1-model_v4 CTP synthase	0.110	104	83	30	133	289	382	1.765E-01	55
+DESULFOASV1_0932_arylesterase	AF-Q9A7K3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9A7K3-F1-model_v4 CTP synthase	0.080	122	92	30	151	295	395	1.875E-01	55
+DESULFOASV1_0932_arylesterase	AF-C0Q7U2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C0Q7U2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	171	128	27	197	9	153	1.227E-01	54
+DESULFOASV1_0932_arylesterase	AF-O24854-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O24854-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.083	177	138	23	199	6	156	9.625E-02	54
+DESULFOASV1_0932_arylesterase	AF-P61714-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61714-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	171	128	27	197	9	153	8.025E-02	54
+DESULFOASV1_0932_arylesterase	AF-B5BDB5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5BDB5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.103	171	129	27	197	9	153	1.227E-01	54
+DESULFOASV1_0932_arylesterase	AF-Q8CPW4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8CPW4-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	5.255E-01	54
+DESULFOASV1_0932_arylesterase	AF-A6TEB5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6TEB5-F1-model_v4 Autoinducer 2-binding protein LsrB	0.096	198	159	1	198	1	177	7.109E-02	54
+DESULFOASV1_0932_arylesterase	AF-Q5PFS8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5PFS8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.385E-01	53
+DESULFOASV1_0932_arylesterase	AF-B4TM97-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4TM97-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.303E-01	53
+DESULFOASV1_0932_arylesterase	AF-B5QTG5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5QTG5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	171	128	27	197	9	153	1.563E-01	53
+DESULFOASV1_0932_arylesterase	AF-C5BCH5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C5BCH5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.126	168	121	27	194	9	148	9.625E-02	53
+DESULFOASV1_0932_arylesterase	AF-B2UW06-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2UW06-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.078	177	138	23	199	6	156	1.023E-01	53
+DESULFOASV1_0932_arylesterase	AF-Q2NV98-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2NV98-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.129	171	125	27	197	9	153	9.059E-02	53
+DESULFOASV1_0932_arylesterase	AF-P65287-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P65287-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	5.933E-01	53
+DESULFOASV1_0932_arylesterase	AF-Q2FZX4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2FZX4-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	5.933E-01	53
+DESULFOASV1_0932_arylesterase	AF-Q49W64-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q49W64-F1-model_v4 Lipoyl synthase	0.142	89	70	65	153	77	159	4.946E-01	53
+DESULFOASV1_0932_arylesterase	AF-P23905-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P23905-F1-model_v4 D-galactose-binding periplasmic protein	0.132	199	166	2	200	3	194	5.926E-02	53
+DESULFOASV1_0932_arylesterase	AF-Q2PBL7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2PBL7-F1-model_v4 Autoinducer 2-binding protein LsrB	0.113	239	177	1	200	1	239	4.941E-02	53
+DESULFOASV1_0932_arylesterase	AF-Q7V5W7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7V5W7-F1-model_v4 Circadian clock protein kinase KaiC	0.125	176	109	7	131	1	176	3.232E-02	53
+DESULFOASV1_0932_arylesterase	AF-B5R6R8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5R6R8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.104	168	125	27	194	9	148	1.875E-01	52
+DESULFOASV1_0932_arylesterase	AF-A7FLE8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7FLE8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	123	22	192	5	146	1.087E-01	52
+DESULFOASV1_0932_arylesterase	AF-P61715-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61715-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	9.059E-02	52
+DESULFOASV1_0932_arylesterase	AF-B5FKS2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5FKS2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.103	171	129	27	197	9	153	1.765E-01	52
+DESULFOASV1_0932_arylesterase	AF-Q1C4I4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1C4I4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.119	171	124	22	192	5	146	1.155E-01	52
+DESULFOASV1_0932_arylesterase	AF-Q8K9A6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8K9A6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.106	171	129	27	197	9	153	7.553E-02	52
+DESULFOASV1_0932_arylesterase	AF-Q2FIE9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2FIE9-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	6.697E-01	52
+DESULFOASV1_0932_arylesterase	AF-Q2JZQ5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2JZQ5-F1-model_v4 D-apiose import binding protein	0.107	194	156	1	194	3	178	1.023E-01	52
+DESULFOASV1_0932_arylesterase	AF-A5EK18-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5EK18-F1-model_v4 CTP synthase	0.102	122	88	30	151	289	387	1.875E-01	52
+DESULFOASV1_0932_arylesterase	AF-B8ZKD0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8ZKD0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.104	173	126	20	192	3	144	4.941E-02	51
+DESULFOASV1_0932_arylesterase	AF-A8AK39-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8AK39-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.023E-01	51
+DESULFOASV1_0932_arylesterase	AF-P66039-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P66039-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.110	168	124	27	194	9	148	2.390E-01	51
+DESULFOASV1_0932_arylesterase	AF-B7MQD0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7MQD0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.155E-01	51
+DESULFOASV1_0932_arylesterase	AF-Q4L4T8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4L4T8-F1-model_v4 Lipoyl synthase	0.120	89	72	65	153	77	159	5.933E-01	51
+DESULFOASV1_0932_arylesterase	AF-B9JK76-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9JK76-F1-model_v4 D-apiose import binding protein	0.090	234	182	1	201	5	238	1.155E-01	51
+DESULFOASV1_0932_arylesterase	AF-A9MZG4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9MZG4-F1-model_v4 Autoinducer 2-binding protein LsrB	0.094	236	180	1	200	5	240	1.385E-01	51
+DESULFOASV1_0932_arylesterase	AF-Q8Z2X8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8Z2X8-F1-model_v4 Autoinducer 2-binding protein LsrB	0.098	236	179	1	200	5	240	6.690E-02	51
+DESULFOASV1_0932_arylesterase	AF-Q7SYK0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7SYK0-F1-model_v4 Chitinase domain-containing protein 1	0.132	289	154	1	178	6	294	5.926E-02	51
+DESULFOASV1_0932_arylesterase	AF-Q7VAN5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7VAN5-F1-model_v4 Circadian clock protein kinase KaiC	0.103	178	119	20	153	240	417	1.087E-01	51
+DESULFOASV1_0932_arylesterase	AF-A3MX07-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3MX07-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.129	166	119	32	197	2	139	8.526E-02	50
+DESULFOASV1_0932_arylesterase	AF-Q3SGU9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3SGU9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.126	186	134	12	197	1	154	1.875E-01	50
+DESULFOASV1_0932_arylesterase	AF-B7M3Q4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7M3Q4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.385E-01	50
+DESULFOASV1_0932_arylesterase	AF-A7ZX67-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7ZX67-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.385E-01	50
+DESULFOASV1_0932_arylesterase	AF-B1LJG5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1LJG5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	171	128	27	197	9	153	1.303E-01	50
+DESULFOASV1_0932_arylesterase	AF-Q32JG9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q32JG9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.227E-01	50
+DESULFOASV1_0932_arylesterase	AF-P61718-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61718-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.118	171	127	27	197	9	153	1.385E-01	50
+DESULFOASV1_0932_arylesterase	AF-B5EXF8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5EXF8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.135	171	125	27	197	9	153	1.992E-01	50
+DESULFOASV1_0932_arylesterase	AF-P66038-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P66038-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	168	123	27	194	9	148	2.539E-01	50
+DESULFOASV1_0932_arylesterase	AF-B1XF03-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1XF03-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.155E-01	50
+DESULFOASV1_0932_arylesterase	AF-Q885J3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q885J3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.103	174	144	24	197	1	161	4.119E-02	50
+DESULFOASV1_0932_arylesterase	AF-B2ICH3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2ICH3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.110	171	133	27	197	17	166	7.109E-02	50
+DESULFOASV1_0932_arylesterase	AF-Q6NUD4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6NUD4-F1-model_v4 Putative hydroxypyruvate isomerase	0.134	97	74	74	159	83	179	3.236E-01	50
+DESULFOASV1_0932_arylesterase	AF-A4WER1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4WER1-F1-model_v4 Autoinducer 2-binding protein LsrB	0.100	198	158	1	198	1	177	1.385E-01	50
+DESULFOASV1_0932_arylesterase	AF-P54083-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P54083-F1-model_v4 Multiple sugar-binding periplasmic protein SbpA	0.092	199	165	1	199	10	192	4.119E-02	50
+DESULFOASV1_0932_arylesterase	AF-A4XBE5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4XBE5-F1-model_v4 Succinate--CoA ligase [ADP-forming] subunit beta	0.141	172	124	23	194	246	390	7.109E-02	50
+DESULFOASV1_0932_arylesterase	AF-A5V8U1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5V8U1-F1-model_v4 CTP synthase	0.077	122	92	30	151	289	389	2.117E-01	50
+DESULFOASV1_0932_arylesterase	AF-C3MR14-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3MR14-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.123	139	117	30	168	5	138	1.992E-01	49
+DESULFOASV1_0932_arylesterase	AF-Q53107-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q53107-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.142	144	119	29	168	7	150	9.059E-02	49
+DESULFOASV1_0932_arylesterase	AF-B7LMH2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7LMH2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.563E-01	49
+DESULFOASV1_0932_arylesterase	AF-B5Y0X6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5Y0X6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	171	128	27	197	9	153	1.563E-01	49
+DESULFOASV1_0932_arylesterase	AF-Q325I6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q325I6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.563E-01	49
+DESULFOASV1_0932_arylesterase	AF-Q57SE7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q57SE7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.110	168	124	27	194	9	148	3.045E-01	49
+DESULFOASV1_0932_arylesterase	AF-B5Z3R9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5Z3R9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.563E-01	49
+DESULFOASV1_0932_arylesterase	AF-B4SWQ9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4SWQ9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.110	168	124	27	194	9	148	3.045E-01	49
+DESULFOASV1_0932_arylesterase	AF-B6HZL6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B6HZL6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.563E-01	49
+DESULFOASV1_0932_arylesterase	AF-A7MFG5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7MFG5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.139	171	124	27	197	9	153	1.087E-01	49
+DESULFOASV1_0932_arylesterase	AF-Q0TKM6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0TKM6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.563E-01	49
+DESULFOASV1_0932_arylesterase	AF-A5UF15-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5UF15-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.136	174	128	27	200	9	157	4.941E-02	49
+DESULFOASV1_0932_arylesterase	AF-Q0HL88-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0HL88-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	130	27	197	9	157	7.109E-02	49
+DESULFOASV1_0932_arylesterase	AF-B1LZB2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1LZB2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	188	136	10	197	1	157	1.765E-01	49
+DESULFOASV1_0932_arylesterase	AF-Q9F9B2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9F9B2-F1-model_v4 Fructose import binding protein FrcB	0.161	136	99	1	136	2	120	3.438E-01	49
+DESULFOASV1_0932_arylesterase	AF-Q9Y700-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9Y700-F1-model_v4 Elongation factor Tu, mitochondrial	0.085	216	175	1	192	24	239	1.563E-01	49
+DESULFOASV1_0932_arylesterase	AF-A4YVC9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4YVC9-F1-model_v4 CTP synthase	0.102	122	88	30	151	289	387	2.866E-01	49
+DESULFOASV1_0932_arylesterase	AF-P96801-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P96801-F1-model_v4 CoB--CoM heterodisulfide reductase iron-sulfur subunit A 2	0.102	138	112	30	167	5	130	1.385E-01	49
+DESULFOASV1_0932_arylesterase	AF-B7L649-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7L649-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.119	171	127	27	197	9	153	9.625E-02	48
+DESULFOASV1_0932_arylesterase	AF-C4ZTH2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C4ZTH2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.471E-01	48
+DESULFOASV1_0932_arylesterase	AF-B6JPA1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B6JPA1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.087	177	137	23	199	6	156	1.471E-01	48
+DESULFOASV1_0932_arylesterase	AF-A4W787-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4W787-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.115	176	131	22	197	5	153	1.227E-01	48
+DESULFOASV1_0932_arylesterase	AF-A7ZIG8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7ZIG8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	126	27	197	9	153	1.875E-01	48
+DESULFOASV1_0932_arylesterase	AF-Q9PLJ4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9PLJ4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	150	127	26	169	8	157	2.249E-01	48
+DESULFOASV1_0932_arylesterase	AF-B2AG45-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2AG45-F1-model_v4 Pyrrolidone-carboxylate peptidase	0.135	66	55	31	95	2	67	3.045E-01	48
+DESULFOASV1_0932_arylesterase	AF-Q96ZK5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q96ZK5-F1-model_v4 UPF0273 protein STK_18300	0.113	165	106	31	150	25	189	2.249E-01	48
+DESULFOASV1_0932_arylesterase	AF-P65286-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P65286-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	1.024E+00	48
+DESULFOASV1_0932_arylesterase	AF-P0AEE7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0AEE7-F1-model_v4 D-galactose-binding periplasmic protein	0.119	199	168	2	200	3	194	1.471E-01	48
+DESULFOASV1_0932_arylesterase	AF-A7FMK0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7FMK0-F1-model_v4 Autoinducer 2-binding protein LsrB	0.112	239	177	1	200	1	239	1.155E-01	48
+DESULFOASV1_0932_arylesterase	AF-A8M469-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8M469-F1-model_v4 Succinate--CoA ligase [ADP-forming] subunit beta	0.136	172	124	23	194	246	390	1.023E-01	48
+DESULFOASV1_0932_arylesterase	AF-P85834-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P85834-F1-model_v4 Elongation factor Tu, mitochondrial	0.089	217	178	1	196	28	244	1.992E-01	48
+DESULFOASV1_0932_arylesterase	AF-Q054N5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q054N5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.101	169	127	26	194	6	147	1.875E-01	47
+DESULFOASV1_0932_arylesterase	AF-Q485J2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q485J2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.112	139	112	28	154	7	145	1.765E-01	47
+DESULFOASV1_0932_arylesterase	AF-A9R2J8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9R2J8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.108	171	126	22	192	5	146	2.698E-01	47
+DESULFOASV1_0932_arylesterase	AF-A6VPE9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6VPE9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.108	171	128	27	197	9	153	2.117E-01	47
+DESULFOASV1_0932_arylesterase	AF-A8AJA6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8AJA6-F1-model_v4 Pyrrolidone-carboxylate peptidase	0.211	66	51	30	95	2	67	2.117E-01	47
+DESULFOASV1_0932_arylesterase	AF-P50897-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P50897-F1-model_v4 Palmitoyl-protein thioesterase 1	0.133	210	172	1	199	1	210	5.926E-02	47
+DESULFOASV1_0932_arylesterase	AF-Q0SND0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0SND0-F1-model_v4 Basic membrane protein A	0.140	132	97	1	132	1	114	4.655E-01	47
+DESULFOASV1_0932_arylesterase	AF-Q8RS40-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8RS40-F1-model_v4 Beta-1,3-xylanase	0.144	158	131	1	154	1	158	2.249E-01	47
+DESULFOASV1_0932_arylesterase	AF-Q6N5T4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6N5T4-F1-model_v4 CTP synthase	0.078	122	90	30	151	289	387	3.881E-01	47
+DESULFOASV1_0932_arylesterase	AF-P19490-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P19490-F1-model_v4 Glutamate receptor 1	0.159	171	143	29	199	141	311	1.990E-02	47
+DESULFOASV1_0932_arylesterase	AF-Q9R001-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9R001-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 5	0.126	126	82	1	95	239	364	9.059E-02	47
+DESULFOASV1_0932_arylesterase	AF-A4YCS3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4YCS3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	168	122	30	197	5	144	2.698E-01	46
+DESULFOASV1_0932_arylesterase	AF-C4LAE1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C4LAE1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.107	178	134	23	200	6	156	5.255E-01	46
+DESULFOASV1_0932_arylesterase	AF-Q0HXJ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0HXJ1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	130	27	197	9	157	1.087E-01	46
+DESULFOASV1_0932_arylesterase	AF-B9EAJ9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9EAJ9-F1-model_v4 Lipoyl synthase	0.153	94	74	65	158	77	164	7.116E-01	46
+DESULFOASV1_0932_arylesterase	AF-A6QFD6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6QFD6-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	1.386E+00	46
+DESULFOASV1_0932_arylesterase	AF-A6U030-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6U030-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	1.305E+00	46
+DESULFOASV1_0932_arylesterase	AF-Q56208-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q56208-F1-model_v4 Molybdenum cofactor biosynthesis bifunctional protein	0.100	174	139	24	197	150	304	1.471E-01	46
+DESULFOASV1_0932_arylesterase	AF-P0AEE5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0AEE5-F1-model_v4 D-galactose-binding periplasmic protein	0.119	199	168	2	200	3	194	1.992E-01	46
+DESULFOASV1_0932_arylesterase	AF-B2K3F8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2K3F8-F1-model_v4 Autoinducer 2-binding protein LsrB	0.109	239	177	1	200	1	239	1.661E-01	46
+DESULFOASV1_0932_arylesterase	AF-P29724-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P29724-F1-model_v4 Membrane lipoprotein TmpC	0.125	134	109	1	134	6	130	3.653E-01	46
+DESULFOASV1_0932_arylesterase	AF-Q67TG8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q67TG8-F1-model_v4 CTP synthase	0.131	107	85	27	133	288	386	3.653E-01	46
+DESULFOASV1_0932_arylesterase	AF-Q1MGC4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1MGC4-F1-model_v4 CTP synthase	0.080	122	90	30	151	289	387	5.933E-01	46
+DESULFOASV1_0932_arylesterase	AF-Q5NQB9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5NQB9-F1-model_v4 CTP synthase	0.083	107	91	27	133	283	382	2.249E-01	46
+DESULFOASV1_0932_arylesterase	AF-B0SYY1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0SYY1-F1-model_v4 CTP synthase	0.078	149	109	30	178	295	413	1.992E-01	46
+DESULFOASV1_0932_arylesterase	AF-Q1IKC9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1IKC9-F1-model_v4 CTP synthase	0.078	104	86	30	133	289	382	3.045E-01	46
+DESULFOASV1_0932_arylesterase	AF-P73860-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P73860-F1-model_v4 KaiC-like protein 1	0.093	185	125	15	153	240	424	2.117E-01	46
+DESULFOASV1_0932_arylesterase	AF-Q5GT94-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5GT94-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.111	167	123	31	197	2	140	4.655E-01	45
+DESULFOASV1_0932_arylesterase	AF-B7UJN8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7UJN8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	126	27	197	9	153	1.023E-01	45
+DESULFOASV1_0932_arylesterase	AF-A1WVG1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1WVG1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.127	178	130	21	198	4	153	2.539E-01	45
+DESULFOASV1_0932_arylesterase	AF-A1JNS3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1JNS3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	166	121	27	192	9	146	3.438E-01	45
+DESULFOASV1_0932_arylesterase	AF-B4EU19-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4EU19-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.137	106	90	27	131	9	114	3.236E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q66DV8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q66DV8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.127	166	120	27	192	9	146	3.438E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q4QKN2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4QKN2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	168	121	27	194	9	148	1.385E-01	45
+DESULFOASV1_0932_arylesterase	AF-B0UU22-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0UU22-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.106	180	137	21	200	4	157	1.087E-01	45
+DESULFOASV1_0932_arylesterase	AF-A8H1Q5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8H1Q5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.119	171	130	27	197	9	157	3.438E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q2S9R9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2S9R9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.118	164	118	31	194	16	150	3.236E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q8EBP3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8EBP3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	130	27	197	9	157	1.303E-01	45
+DESULFOASV1_0932_arylesterase	AF-B8D9N6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8D9N6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.091	173	139	23	195	5	158	1.661E-01	45
+DESULFOASV1_0932_arylesterase	AF-P42419-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P42419-F1-model_v4 Inosose isomerase	0.115	162	106	34	154	3	164	1.563E-01	45
+DESULFOASV1_0932_arylesterase	AF-A8Z1I3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8Z1I3-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	1.565E+00	45
+DESULFOASV1_0932_arylesterase	AF-Q2YWR5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2YWR5-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	1.565E+00	45
+DESULFOASV1_0932_arylesterase	AF-P65285-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P65285-F1-model_v4 Lipoyl synthase	0.148	92	72	65	156	77	161	1.565E+00	45
+DESULFOASV1_0932_arylesterase	AF-Q8HXW6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8HXW6-F1-model_v4 Palmitoyl-protein thioesterase 1	0.129	208	172	1	199	3	210	1.023E-01	45
+DESULFOASV1_0932_arylesterase	AF-A1VHK4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1VHK4-F1-model_v4 GTPase Era	0.108	179	156	18	196	2	177	3.236E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q8K3K9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8K3K9-F1-model_v4 GTPase IMAP family member 4	0.101	212	177	1	198	1	212	2.249E-01	45
+DESULFOASV1_0932_arylesterase	AF-B9DIX8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9DIX8-F1-model_v4 Lipoyl synthase	0.153	94	74	65	158	77	164	7.561E-01	45
+DESULFOASV1_0932_arylesterase	AF-B9KSE2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9KSE2-F1-model_v4 Lipoyl synthase	0.136	91	74	66	156	94	180	1.386E+00	45
+DESULFOASV1_0932_arylesterase	AF-Q48754-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q48754-F1-model_v4 CD4+ T-cell-stimulating antigen	0.105	138	108	1	138	18	139	3.438E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q43467-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q43467-F1-model_v4 Elongation factor Tu, chloroplastic	0.106	226	172	1	193	53	278	2.390E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q9WUA3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9WUA3-F1-model_v4 ATP-dependent 6-phosphofructokinase, platelet type	0.064	157	134	25	168	404	560	1.303E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q4G033-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4G033-F1-model_v4 Piwi-like protein 4	0.140	101	78	31	131	480	571	7.561E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q8CGT6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8CGT6-F1-model_v4 Piwi-like protein 4	0.128	111	88	21	131	470	571	6.697E-01	45
+DESULFOASV1_0932_arylesterase	AF-Q9UNA0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9UNA0-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 5	0.119	126	83	1	95	239	364	1.227E-01	45
+DESULFOASV1_0932_arylesterase	AF-B1XYF6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1XYF6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.100	175	129	23	197	9	152	4.381E-01	44
+DESULFOASV1_0932_arylesterase	AF-A4TPG7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4TPG7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.127	166	120	27	192	9	146	3.881E-01	44
+DESULFOASV1_0932_arylesterase	AF-B7NJ82-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7NJ82-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	126	27	197	9	153	1.227E-01	44
+DESULFOASV1_0932_arylesterase	AF-Q1CVF3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1CVF3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.092	177	136	23	199	6	156	2.866E-01	44
+DESULFOASV1_0932_arylesterase	AF-B6EI99-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B6EI99-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	171	127	27	197	9	153	1.661E-01	44
+DESULFOASV1_0932_arylesterase	AF-P45149-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P45149-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	168	122	27	194	9	148	1.563E-01	44
+DESULFOASV1_0932_arylesterase	AF-A5UCB8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5UCB8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	174	129	27	200	9	157	1.087E-01	44
+DESULFOASV1_0932_arylesterase	AF-P57869-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P57869-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	174	129	27	200	9	157	1.471E-01	44
+DESULFOASV1_0932_arylesterase	AF-A3D7C5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3D7C5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	171	128	27	197	9	156	1.563E-01	44
+DESULFOASV1_0932_arylesterase	AF-B8D7Y8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8D7Y8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.098	169	134	27	195	9	158	1.992E-01	44
+DESULFOASV1_0932_arylesterase	AF-A2SK12-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A2SK12-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	182	140	13	194	1	159	2.698E-01	44
+DESULFOASV1_0932_arylesterase	AF-P61196-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61196-F1-model_v4 Lipoyl synthase	0.206	125	89	76	200	81	193	5.933E-01	44
+DESULFOASV1_0932_arylesterase	AF-A0QYB5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0QYB5-F1-model_v4 D-threitol-binding protein	0.100	131	96	1	131	12	119	8.033E-01	44
+DESULFOASV1_0932_arylesterase	AF-B1W3P6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1W3P6-F1-model_v4 Succinate--CoA ligase [ADP-forming] subunit beta	0.116	172	127	23	194	247	391	6.697E-01	44
+DESULFOASV1_0932_arylesterase	AF-B1XKM7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1XKM7-F1-model_v4 CinA-like protein	0.175	90	70	31	120	2	87	6.697E-01	44
+DESULFOASV1_0932_arylesterase	AF-Q43364-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q43364-F1-model_v4 Elongation factor TuB, chloroplastic	0.113	235	170	1	193	50	284	1.765E-01	44
+DESULFOASV1_0932_arylesterase	AF-P73930-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P73930-F1-model_v4 Signal recognition particle receptor FtsY	0.181	180	137	24	191	294	473	6.297E-02	44
+DESULFOASV1_0932_arylesterase	AF-A6U8E2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6U8E2-F1-model_v4 CTP synthase	0.085	122	90	30	151	289	387	5.933E-01	44
+DESULFOASV1_0932_arylesterase	AF-Q04MR3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q04MR3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.104	173	126	20	192	3	144	1.992E-01	43
+DESULFOASV1_0932_arylesterase	AF-B5Z6D8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5Z6D8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.092	177	136	23	199	6	156	3.653E-01	43
+DESULFOASV1_0932_arylesterase	AF-B1JIE2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1JIE2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.109	170	125	23	192	6	146	5.255E-01	43
+DESULFOASV1_0932_arylesterase	AF-B1J034-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1J034-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	171	125	27	197	9	153	1.227E-01	43
+DESULFOASV1_0932_arylesterase	AF-Q8ZC41-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8ZC41-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.133	166	119	27	192	9	146	4.124E-01	43
+DESULFOASV1_0932_arylesterase	AF-Q1CL92-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1CL92-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.126	171	123	22	192	5	146	2.390E-01	43
+DESULFOASV1_0932_arylesterase	AF-Q9ZNM0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9ZNM0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.094	175	134	23	197	5	153	2.866E-01	43
+DESULFOASV1_0932_arylesterase	AF-Q89DI7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q89DI7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 2	0.106	177	136	21	197	7	159	1.661E-01	43
+DESULFOASV1_0932_arylesterase	AF-Q3SWE9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3SWE9-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH 1	0.152	101	73	33	133	2	88	1.765E-01	43
+DESULFOASV1_0932_arylesterase	AF-Q9K7C9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9K7C9-F1-model_v4 Lipoyl synthase	0.142	89	70	65	153	76	158	1.767E+00	43
+DESULFOASV1_0932_arylesterase	AF-A5G2D2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5G2D2-F1-model_v4 Lipoyl synthase	0.208	89	65	65	153	96	178	1.228E+00	43
+DESULFOASV1_0932_arylesterase	AF-Q8P804-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8P804-F1-model_v4 GDP-mannose:glycolipid 4-beta-D-mannosyltransferase	0.075	149	120	7	155	1	131	4.124E-01	43
+DESULFOASV1_0932_arylesterase	AF-Q2JDK2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2JDK2-F1-model_v4 Elongation factor 4	0.085	203	178	2	196	13	215	3.045E-01	43
+DESULFOASV1_0932_arylesterase	AF-P39730-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P39730-F1-model_v4 Eukaryotic translation initiation factor 5B	0.123	242	173	1	198	378	619	6.690E-02	43
+DESULFOASV1_0932_arylesterase	AF-Q21F19-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q21F19-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	167	121	28	194	12	149	2.117E-01	42
+DESULFOASV1_0932_arylesterase	AF-P61717-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61717-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	171	125	27	197	9	153	1.563E-01	42
+DESULFOASV1_0932_arylesterase	AF-B2VHS9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2VHS9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	179	132	22	200	5	156	2.866E-01	42
+DESULFOASV1_0932_arylesterase	AF-B7MD73-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7MD73-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.112	176	131	22	197	5	153	1.661E-01	42
+DESULFOASV1_0932_arylesterase	AF-C6BYC7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C6BYC7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.084	170	133	28	197	10	155	5.584E-01	42
+DESULFOASV1_0932_arylesterase	AF-Q0I3N6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0I3N6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.106	180	137	21	200	4	157	1.661E-01	42
+DESULFOASV1_0932_arylesterase	AF-A8FSR4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8FSR4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.118	171	131	27	197	9	157	3.045E-01	42
+DESULFOASV1_0932_arylesterase	AF-P47269-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P47269-F1-model_v4 Fructose-bisphosphate aldolase	0.108	269	153	29	200	16	284	3.042E-02	42
+DESULFOASV1_0932_arylesterase	AF-Q8K349-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8K349-F1-model_v4 GTPase IMAP family member 6	0.090	216	179	2	199	75	290	2.539E-01	42
+DESULFOASV1_0932_arylesterase	AF-P46280-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P46280-F1-model_v4 Elongation factor Tu, chloroplastic	0.097	226	173	1	193	53	278	2.539E-01	42
+DESULFOASV1_0932_arylesterase	AF-A1W9I3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1W9I3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.148	172	118	26	197	13	152	3.438E-01	41
+DESULFOASV1_0932_arylesterase	AF-A6T5E8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6T5E8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	171	125	27	197	9	153	1.765E-01	41
+DESULFOASV1_0932_arylesterase	AF-B7N8W7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7N8W7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.131	171	125	27	197	9	153	1.765E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q3Z4Z4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3Z4Z4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.123	176	130	22	197	5	153	1.661E-01	41
+DESULFOASV1_0932_arylesterase	AF-B2U4L8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2U4L8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.123	176	130	22	197	5	153	1.875E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q6LU12-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6LU12-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	126	27	197	9	153	9.625E-02	41
+DESULFOASV1_0932_arylesterase	AF-B2K6T3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2K6T3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.132	170	122	23	192	6	146	2.866E-01	41
+DESULFOASV1_0932_arylesterase	AF-A4VHT4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4VHT4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.101	171	129	27	197	11	154	7.116E-01	41
+DESULFOASV1_0932_arylesterase	AF-A2C5A7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A2C5A7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.108	165	124	27	191	9	148	4.655E-01	41
+DESULFOASV1_0932_arylesterase	AF-A9M2W8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9M2W8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	175	132	24	198	4	153	2.866E-01	41
+DESULFOASV1_0932_arylesterase	AF-A6WR47-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6WR47-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.133	171	127	27	197	9	156	2.539E-01	41
+DESULFOASV1_0932_arylesterase	AF-B8E6W6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8E6W6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	171	128	27	197	9	156	2.698E-01	41
+DESULFOASV1_0932_arylesterase	AF-A9KYJ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9KYJ1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.136	171	127	27	197	9	156	2.390E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q97CC6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q97CC6-F1-model_v4 Deoxyribose-phosphate aldolase	0.093	115	94	40	154	45	149	9.635E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q8U3J0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8U3J0-F1-model_v4 Protein PF0476	0.244	91	64	30	120	2	87	6.303E-01	41
+DESULFOASV1_0932_arylesterase	AF-A7ZAH3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7ZAH3-F1-model_v4 Inosose isomerase	0.095	163	110	34	155	3	165	3.653E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q40450-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q40450-F1-model_v4 Elongation factor TuA, chloroplastic	0.104	224	174	2	196	53	276	3.653E-01	41
+DESULFOASV1_0932_arylesterase	AF-O30020-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O30020-F1-model_v4 Probable 2-isopropylmalate synthase	0.125	178	123	28	168	4	181	2.866E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q136D7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q136D7-F1-model_v4 CTP synthase	0.093	122	89	30	151	289	387	7.116E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q9P2N4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9P2N4-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 9	0.102	126	84	1	95	262	387	2.539E-01	41
+DESULFOASV1_0932_arylesterase	AF-Q54IX3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q54IX3-F1-model_v4 Probable polyketide synthase 26	0.088	105	82	28	132	1602	1692	5.255E-01	41
+DESULFOASV1_0932_arylesterase	AF-A1USI4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1USI4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.091	170	128	30	199	8	149	2.249E-01	40
+DESULFOASV1_0932_arylesterase	AF-C1CBX9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1CBX9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.131	166	117	27	192	9	144	3.045E-01	40
+DESULFOASV1_0932_arylesterase	AF-A2SQG5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A2SQG5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.100	179	135	21	199	4	154	2.698E-01	40
+DESULFOASV1_0932_arylesterase	AF-C1CP44-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1CP44-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.131	166	117	27	192	9	144	3.045E-01	40
+DESULFOASV1_0932_arylesterase	AF-C1CI69-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1CI69-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	173	125	20	192	3	144	2.390E-01	40
+DESULFOASV1_0932_arylesterase	AF-Q0ABQ4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0ABQ4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.072	176	138	22	197	5	154	6.303E-01	40
+DESULFOASV1_0932_arylesterase	AF-A4Y961-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4Y961-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.126	171	129	27	197	9	157	2.249E-01	40
+DESULFOASV1_0932_arylesterase	AF-Q6MCT6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6MCT6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.101	170	133	28	197	10	158	3.236E-01	40
+DESULFOASV1_0932_arylesterase	AF-Q830K5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q830K5-F1-model_v4 Thiamine-phosphate synthase	0.124	128	67	29	156	4	80	1.305E+00	40
+DESULFOASV1_0932_arylesterase	AF-C3PHK6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3PHK6-F1-model_v4 Lipoyl synthase	0.162	78	59	76	153	101	172	3.048E+00	40
+DESULFOASV1_0932_arylesterase	AF-P17745-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P17745-F1-model_v4 Elongation factor Tu, chloroplastic	0.109	207	178	1	201	50	256	2.390E-01	40
+DESULFOASV1_0932_arylesterase	AF-Q2K871-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2K871-F1-model_v4 CTP synthase	0.080	122	90	30	151	289	387	9.068E-01	40
+DESULFOASV1_0932_arylesterase	AF-A8LIN6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8LIN6-F1-model_v4 CTP synthase	0.089	122	89	30	151	289	387	5.255E-01	40
+DESULFOASV1_0932_arylesterase	AF-Q14957-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q14957-F1-model_v4 Glutamate receptor ionotropic, NMDA 2C	0.111	146	116	1	146	5	136	1.024E+00	40
+DESULFOASV1_0932_arylesterase	AF-Q01098-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q01098-F1-model_v4 Glutamate receptor ionotropic, NMDA 2C	0.116	193	161	1	193	5	187	3.881E-01	40
+DESULFOASV1_0932_arylesterase	AF-O66529-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O66529-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.089	177	135	21	197	4	152	6.303E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q8GLK5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8GLK5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.098	137	115	27	154	8	144	3.881E-01	39
+DESULFOASV1_0932_arylesterase	AF-C1CAI5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1CAI5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.104	173	126	20	192	3	144	3.881E-01	39
+DESULFOASV1_0932_arylesterase	AF-A1SUU5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1SUU5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	171	127	27	197	9	153	5.933E-01	39
+DESULFOASV1_0932_arylesterase	AF-B1I8F3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1I8F3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.104	173	126	20	192	3	144	4.124E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q93E92-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q93E92-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.107	171	129	27	197	9	153	1.227E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q7VK54-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7VK54-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.103	178	135	23	200	6	156	7.116E-01	39
+DESULFOASV1_0932_arylesterase	AF-A4XHM5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4XHM5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.084	165	124	27	191	9	144	7.116E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q086C4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q086C4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.120	171	130	27	197	9	157	3.881E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q317Z9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q317Z9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.085	159	121	31	189	14	146	8.535E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q7VRI2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7VRI2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.082	175	139	23	197	6	157	4.381E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q9K8I4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9K8I4-F1-model_v4 Molybdenum cofactor biosynthesis protein B	0.178	69	56	27	95	10	78	1.767E+00	39
+DESULFOASV1_0932_arylesterase	AF-Q0KFE0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0KFE0-F1-model_v4 Pyrrolidone-carboxylate peptidase	0.086	207	155	31	201	2	208	1.385E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q89WM6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q89WM6-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.114	101	76	33	133	2	88	3.045E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q83NN8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q83NN8-F1-model_v4 Lipoyl synthase	0.162	78	59	76	153	120	191	3.048E+00	39
+DESULFOASV1_0932_arylesterase	AF-Q9KY56-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9KY56-F1-model_v4 Succinate--CoA ligase [ADP-forming] subunit beta 1	0.120	174	128	23	196	247	393	1.473E+00	39
+DESULFOASV1_0932_arylesterase	AF-Q4J989-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4J989-F1-model_v4 Homocitrate synthase	0.121	156	110	30	155	10	165	4.655E-01	39
+DESULFOASV1_0932_arylesterase	AF-B3Q0M2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B3Q0M2-F1-model_v4 CTP synthase	0.085	122	90	30	151	289	387	1.305E+00	39
+DESULFOASV1_0932_arylesterase	AF-O27434-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O27434-F1-model_v4 H(2):CoB-CoM heterodisulfide,ferredoxin reductase subunit A	0.091	155	124	13	167	1	137	6.697E-01	39
+DESULFOASV1_0932_arylesterase	AF-Q8RIR4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8RIR4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.092	104	93	29	131	10	113	5.255E-01	38
+DESULFOASV1_0932_arylesterase	AF-P66040-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P66040-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	173	125	20	192	3	144	3.045E-01	38
+DESULFOASV1_0932_arylesterase	AF-P66041-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P66041-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	173	125	20	192	3	144	3.045E-01	38
+DESULFOASV1_0932_arylesterase	AF-B2IS11-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2IS11-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	173	125	20	192	3	144	3.236E-01	38
+DESULFOASV1_0932_arylesterase	AF-Q88X16-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q88X16-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	169	120	27	195	8	147	6.697E-01	38
+DESULFOASV1_0932_arylesterase	AF-A7HDY3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7HDY3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.153	165	121	30	194	13	156	2.866E-01	38
+DESULFOASV1_0932_arylesterase	AF-P60601-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P60601-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.106	103	77	31	133	2	88	3.236E-01	38
+DESULFOASV1_0932_arylesterase	AF-C5D7H5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C5D7H5-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	3.048E+00	38
+DESULFOASV1_0932_arylesterase	AF-Q1GGW2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1GGW2-F1-model_v4 Lipoyl synthase	0.148	134	106	65	198	90	214	1.024E+00	38
+DESULFOASV1_0932_arylesterase	AF-Q8UFG1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8UFG1-F1-model_v4 Lipoyl synthase	0.163	88	69	66	153	95	178	2.542E+00	38
+DESULFOASV1_0932_arylesterase	AF-Q311M8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q311M8-F1-model_v4 Protein-glutamate methylesterase/protein-glutamine glutaminase 1	0.112	135	114	31	165	2	130	4.124E-01	38
+DESULFOASV1_0932_arylesterase	AF-Q9LV72-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9LV72-F1-model_v4 Glutamate receptor 1.2	0.083	190	159	10	199	26	199	4.946E-01	38
+DESULFOASV1_0932_arylesterase	AF-C4Z8N0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C4Z8N0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.101	139	118	23	154	6	144	4.655E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q9ZN56-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9ZN56-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.111	173	126	23	195	6	148	8.535E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q5P3H3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5P3H3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.123	175	132	20	194	5	155	3.653E-01	37
+DESULFOASV1_0932_arylesterase	AF-B4RJT4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4RJT4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	175	132	24	198	4	153	5.933E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q816R0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q816R0-F1-model_v4 Molybdenum cofactor biosynthesis protein B	0.142	108	83	27	124	10	117	8.033E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q2YQZ0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2YQZ0-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.097	101	78	33	133	2	88	7.116E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q8YE35-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8YE35-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.097	101	78	33	133	2	88	6.697E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q57AH5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q57AH5-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.097	101	78	33	133	2	88	7.116E-01	37
+DESULFOASV1_0932_arylesterase	AF-O67368-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O67368-F1-model_v4 Lipoyl synthase	0.168	97	72	62	158	63	149	2.119E+00	37
+DESULFOASV1_0932_arylesterase	AF-A4SEG3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4SEG3-F1-model_v4 Lipoyl synthase	0.155	124	94	77	200	86	197	1.877E+00	37
+DESULFOASV1_0932_arylesterase	AF-Q7V0Z8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7V0Z8-F1-model_v4 Lipoyl synthase 2	0.117	97	79	66	156	79	175	3.048E+00	37
+DESULFOASV1_0932_arylesterase	AF-P45479-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P45479-F1-model_v4 Palmitoyl-protein thioesterase 1	0.118	205	173	2	198	5	209	3.045E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q98MY2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q98MY2-F1-model_v4 Lipoyl synthase	0.178	91	70	66	156	94	179	3.239E+00	37
+DESULFOASV1_0932_arylesterase	AF-Q1MH26-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1MH26-F1-model_v4 Lipoyl synthase	0.172	88	69	66	153	95	178	2.542E+00	37
+DESULFOASV1_0932_arylesterase	AF-Q2YKI6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2YKI6-F1-model_v4 Purine-binding protein BAB2_0673	0.115	136	102	3	138	1	116	1.386E+00	37
+DESULFOASV1_0932_arylesterase	AF-Q96YR6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q96YR6-F1-model_v4 DNA double-strand break repair protein Mre11	0.125	126	92	33	158	6	111	8.033E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q9YFY8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9YFY8-F1-model_v4 DNA double-strand break repair protein Mre11	0.140	125	89	34	158	4	108	5.933E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q58595-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q58595-F1-model_v4 2-isopropylmalate synthase	0.120	213	143	27	190	20	232	3.236E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q2Q5Y9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2Q5Y9-F1-model_v4 Piwi-like protein 1	0.072	102	82	30	131	432	520	3.239E+00	37
+DESULFOASV1_0932_arylesterase	AF-Q4U3U3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4U3U3-F1-model_v4 Quinate repressor protein	0.088	130	117	2	131	72	200	2.249E-01	37
+DESULFOASV1_0932_arylesterase	AF-Q6ZN16-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6ZN16-F1-model_v4 Mitogen-activated protein kinase kinase kinase 15	0.094	200	178	1	197	35	234	7.561E-01	37
+DESULFOASV1_0932_arylesterase	AF-P59510-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P59510-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 20	0.111	124	84	1	95	233	356	5.255E-01	37
+DESULFOASV1_0932_arylesterase	AF-B6YUQ8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B6YUQ8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.087	171	128	27	197	11	151	1.473E+00	36
+DESULFOASV1_0932_arylesterase	AF-B7J444-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7J444-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	139	115	23	154	7	145	6.303E-01	36
+DESULFOASV1_0932_arylesterase	AF-B5ELV8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5ELV8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	139	115	23	154	7	145	6.303E-01	36
+DESULFOASV1_0932_arylesterase	AF-B0K0Z0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0K0Z0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	171	124	27	197	11	152	3.881E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q7UGV1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7UGV1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.089	175	130	24	198	8	151	1.565E+00	36
+DESULFOASV1_0932_arylesterase	AF-B4SJC0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4SJC0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	171	124	27	197	10	153	6.303E-01	36
+DESULFOASV1_0932_arylesterase	AF-B5E6C6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5E6C6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.104	173	126	20	192	3	144	5.933E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q7N0I9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7N0I9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	126	27	197	9	153	1.765E-01	36
+DESULFOASV1_0932_arylesterase	AF-B1MYJ5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1MYJ5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.102	167	122	29	195	11	147	1.663E+00	36
+DESULFOASV1_0932_arylesterase	AF-Q5F9X9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5F9X9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.107	175	133	24	198	4	153	4.655E-01	36
+DESULFOASV1_0932_arylesterase	AF-B0KL70-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0KL70-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.096	178	136	20	197	5	155	6.697E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q494E6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q494E6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.090	171	131	27	197	9	153	1.024E+00	36
+DESULFOASV1_0932_arylesterase	AF-A3PFD1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3PFD1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.074	163	127	27	189	9	146	3.653E-01	36
+DESULFOASV1_0932_arylesterase	AF-A1T2Z5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1T2Z5-F1-model_v4 Thiamine-phosphate synthase	0.114	127	74	30	156	10	93	6.697E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q8A0V3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8A0V3-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.114	183	151	30	200	2	184	3.045E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q2GKX7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2GKX7-F1-model_v4 Lipoyl synthase	0.170	92	67	62	153	70	151	3.441E+00	36
+DESULFOASV1_0932_arylesterase	AF-B9LM70-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9LM70-F1-model_v4 Lipoyl synthase	0.165	121	90	78	198	103	211	1.877E+00	36
+DESULFOASV1_0932_arylesterase	AF-B8DQN1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8DQN1-F1-model_v4 GTPase Era	0.102	181	158	18	198	2	178	1.473E+00	36
+DESULFOASV1_0932_arylesterase	AF-Q8ERL8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8ERL8-F1-model_v4 Lipoyl synthase	0.087	89	75	65	153	76	158	3.441E+00	36
+DESULFOASV1_0932_arylesterase	AF-Q11HV6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q11HV6-F1-model_v4 Lipoyl synthase	0.164	89	69	65	153	94	176	3.048E+00	36
+DESULFOASV1_0932_arylesterase	AF-B3PYS0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B3PYS0-F1-model_v4 Lipoyl synthase	0.172	88	69	66	153	95	178	3.048E+00	36
+DESULFOASV1_0932_arylesterase	AF-O57890-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O57890-F1-model_v4 Molybdate/tungstate-binding protein WtpA	0.123	84	67	1	84	4	80	6.697E-01	36
+DESULFOASV1_0932_arylesterase	AF-P61194-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61194-F1-model_v4 Lipoyl synthase	0.141	78	61	76	153	101	172	2.869E+00	36
+DESULFOASV1_0932_arylesterase	AF-A3CUF2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3CUF2-F1-model_v4 Putative (R)-citramalate synthase CimA	0.123	162	118	23	158	5	166	7.561E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q8Y2X7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8Y2X7-F1-model_v4 Putative thymidine phosphorylase	0.132	222	158	19	201	164	385	4.381E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q626I0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q626I0-F1-model_v4 Probable FAD synthase	0.150	89	68	7	95	1	81	8.033E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q8CIW5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8CIW5-F1-model_v4 Twinkle protein, mitochondrial	0.105	160	101	31	144	410	569	5.933E-01	36
+DESULFOASV1_0932_arylesterase	AF-Q5R636-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5R636-F1-model_v4 ATP-dependent 6-phosphofructokinase, platelet type	0.075	155	131	26	168	407	561	5.933E-01	36
+DESULFOASV1_0932_arylesterase	AF-P19491-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P19491-F1-model_v4 Glutamate receptor 2	0.142	170	144	29	197	144	313	3.653E-01	36
+DESULFOASV1_0932_arylesterase	AF-A1TPC1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1TPC1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.148	172	118	26	197	13	152	8.033E-01	35
+DESULFOASV1_0932_arylesterase	AF-B9MBL6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9MBL6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	166	124	29	194	12	153	4.946E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q9CGU6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9CGU6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.094	172	128	27	198	9	150	1.386E+00	35
+DESULFOASV1_0932_arylesterase	AF-A0RQJ7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0RQJ7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.084	166	125	23	188	6	143	1.663E+00	35
+DESULFOASV1_0932_arylesterase	AF-A8GAN7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8GAN7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	173	126	22	194	5	148	2.390E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q9HWX5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9HWX5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.101	171	129	27	197	11	154	1.663E+00	35
+DESULFOASV1_0932_arylesterase	AF-Q2RNA5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2RNA5-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.132	101	75	33	133	2	88	6.697E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q3V814-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3V814-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.132	183	148	30	200	2	184	4.381E-01	35
+DESULFOASV1_0932_arylesterase	AF-A4SXQ5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4SXQ5-F1-model_v4 Triosephosphate isomerase	0.093	249	144	30	189	3	251	5.255E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q2GGX7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2GGX7-F1-model_v4 Lipoyl synthase	0.176	134	99	65	198	69	189	1.386E+00	35
+DESULFOASV1_0932_arylesterase	AF-B5ZNB1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5ZNB1-F1-model_v4 Lipoyl synthase	0.172	88	69	66	153	95	178	3.048E+00	35
+DESULFOASV1_0932_arylesterase	AF-Q0APQ9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0APQ9-F1-model_v4 Lipoyl synthase	0.208	133	95	65	197	100	220	1.663E+00	35
+DESULFOASV1_0932_arylesterase	AF-O28928-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O28928-F1-model_v4 AMP phosphorylase 1	0.113	241	159	19	198	149	389	4.655E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q12E97-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q12E97-F1-model_v4 Putative thymidine phosphorylase	0.151	217	151	21	199	169	385	6.303E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q01813-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q01813-F1-model_v4 ATP-dependent 6-phosphofructokinase, platelet type	0.074	155	131	26	168	407	561	6.697E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q38PU7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q38PU7-F1-model_v4 Glutamate receptor 2	0.176	170	138	29	197	144	313	4.381E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q8VIJ5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8VIJ5-F1-model_v4 Protein O-GlcNAcase	0.108	151	105	2	152	38	156	1.088E+00	35
+DESULFOASV1_0932_arylesterase	AF-O74429-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O74429-F1-model_v4 Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase	0.116	171	100	1	171	11	124	2.117E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q9WUQ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9WUQ1-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 1	0.101	125	85	1	95	231	355	6.697E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q76LX8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q76LX8-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 13	0.132	127	82	2	97	53	179	3.045E-01	35
+DESULFOASV1_0932_arylesterase	AF-Q01097-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q01097-F1-model_v4 Glutamate receptor ionotropic, NMDA 2B	0.113	173	142	31	191	167	339	2.866E-01	35
+DESULFOASV1_0932_arylesterase	AF-B9MPC6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9MPC6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.095	171	129	27	197	9	152	9.635E-01	34
+DESULFOASV1_0932_arylesterase	AF-B2FNL3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2FNL3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	171	126	27	197	10	153	9.635E-01	34
+DESULFOASV1_0932_arylesterase	AF-C0QVI8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C0QVI8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.095	171	124	21	191	8	145	1.228E+00	34
+DESULFOASV1_0932_arylesterase	AF-C1CYL1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1CYL1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.092	173	126	27	199	9	148	1.228E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q15W98-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q15W98-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.102	163	123	29	191	8	145	2.390E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q1IFM0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1IFM0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.096	171	129	27	197	11	154	2.251E+00	34
+DESULFOASV1_0932_arylesterase	AF-B7V7Q5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7V7Q5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.101	171	129	27	197	11	154	2.119E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q01T71-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q01T71-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.089	172	137	23	194	7	157	1.305E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q2ILH7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2ILH7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.132	166	127	28	193	9	155	5.584E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q81KI3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q81KI3-F1-model_v4 Molybdenum cofactor biosynthesis protein B	0.157	108	82	27	124	10	117	9.068E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q24SU9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q24SU9-F1-model_v4 Deoxyribose-phosphate aldolase	0.081	146	117	29	156	7	152	1.088E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q0I131-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0I131-F1-model_v4 Thiamine-phosphate synthase	0.094	142	116	29	170	10	138	3.881E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q5L912-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5L912-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.123	183	149	30	200	2	184	4.946E-01	34
+DESULFOASV1_0932_arylesterase	AF-A8XZJ0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8XZJ0-F1-model_v4 Adenylate kinase	0.118	243	172	2	197	9	251	7.109E-02	34
+DESULFOASV1_0932_arylesterase	AF-Q65D08-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q65D08-F1-model_v4 Inosose isomerase	0.105	189	121	34	169	3	191	3.236E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q5PAD4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5PAD4-F1-model_v4 Lipoyl synthase	0.173	137	103	65	201	69	194	7.116E-01	34
+DESULFOASV1_0932_arylesterase	AF-A0L509-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0L509-F1-model_v4 Lipoyl synthase	0.152	124	96	76	199	91	204	1.994E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q816A0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q816A0-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	4.951E+00	34
+DESULFOASV1_0932_arylesterase	AF-B4RBV1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4RBV1-F1-model_v4 Lipoyl synthase	0.218	122	86	76	197	104	214	2.392E+00	34
+DESULFOASV1_0932_arylesterase	AF-B9JEZ6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9JEZ6-F1-model_v4 Lipoyl synthase	0.177	77	55	77	153	111	178	3.885E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q2K8V9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2K8V9-F1-model_v4 Lipoyl synthase	0.163	88	69	66	153	95	178	4.128E+00	34
+DESULFOASV1_0932_arylesterase	AF-A6WD63-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6WD63-F1-model_v4 Lipoyl synthase	0.150	78	60	76	153	101	172	6.310E+00	34
+DESULFOASV1_0932_arylesterase	AF-B2GJ88-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2GJ88-F1-model_v4 Lipoyl synthase	0.111	125	92	29	153	68	172	2.119E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q45011-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q45011-F1-model_v4 Basic membrane protein B	0.131	200	163	1	200	1	189	1.024E+00	34
+DESULFOASV1_0932_arylesterase	AF-P27366-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P27366-F1-model_v4 Sulfate-binding protein	0.118	105	89	1	105	12	113	3.881E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q83MU9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q83MU9-F1-model_v4 Lipoyl synthase	0.162	78	59	76	153	120	191	5.261E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q5YZ59-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5YZ59-F1-model_v4 Lipoyl synthase	0.175	78	59	76	153	117	188	5.261E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q5JEB6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5JEB6-F1-model_v4 Molybdate/tungstate-binding protein WtpA	0.081	84	69	1	84	13	88	1.088E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q54LN9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q54LN9-F1-model_v4 2-amino-3-carboxymuconate-6-semialdehyde decarboxylase	0.080	161	143	1	156	1	161	8.033E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q8XIP3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8XIP3-F1-model_v4 UV DNA damage endonuclease	0.128	93	80	74	166	34	126	9.635E-01	34
+DESULFOASV1_0932_arylesterase	AF-B0Y9E7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0Y9E7-F1-model_v4 Probable mannan endo-1,4-beta-mannosidase F	0.136	124	92	52	159	276	399	2.700E+00	34
+DESULFOASV1_0932_arylesterase	AF-Q9UHI8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9UHI8-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 1	0.106	127	84	1	95	229	355	7.561E-01	34
+DESULFOASV1_0932_arylesterase	AF-Q818X5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q818X5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.080	136	116	28	154	8	143	2.700E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q0SVI9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0SVI9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.072	136	118	27	154	9	144	1.994E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q7VM44-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7VM44-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.094	170	130	28	197	9	152	1.305E+00	33
+DESULFOASV1_0932_arylesterase	AF-A1WS77-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1WS77-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	166	123	29	194	12	153	1.386E+00	33
+DESULFOASV1_0932_arylesterase	AF-A5FQE3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5FQE3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.130	170	126	28	197	8	153	7.116E-01	33
+DESULFOASV1_0932_arylesterase	AF-A8EVW3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8EVW3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.093	166	124	23	188	6	143	2.251E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q5WH07-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5WH07-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.108	176	134	21	196	5	155	1.663E+00	33
+DESULFOASV1_0932_arylesterase	AF-O68250-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O68250-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.090	162	122	27	188	9	143	1.228E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q8E0I2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8E0I2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.137	136	110	27	154	9	144	4.381E-01	33
+DESULFOASV1_0932_arylesterase	AF-C0QKW7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C0QKW7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.090	178	136	22	199	6	155	1.663E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q8ELL1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8ELL1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	105	90	27	131	11	113	1.565E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q0AD61-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0AD61-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.118	193	138	5	197	1	157	8.535E-01	33
+DESULFOASV1_0932_arylesterase	AF-Q9X2E5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9X2E5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.094	170	130	28	197	9	152	1.767E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q13V36-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q13V36-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.148	178	126	22	199	7	155	1.305E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q7UIM1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7UIM1-F1-model_v4 Thymidylate kinase	0.118	206	175	1	199	15	220	3.438E-01	33
+DESULFOASV1_0932_arylesterase	AF-C1EY56-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1EY56-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	5.589E+00	33
+DESULFOASV1_0932_arylesterase	AF-A7Z9T8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7Z9T8-F1-model_v4 UV DNA damage endonuclease	0.111	131	109	73	196	43	173	4.124E-01	33
+DESULFOASV1_0932_arylesterase	AF-P75371-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P75371-F1-model_v4 High affinity transport system protein p37	0.131	84	70	1	84	8	88	7.561E-01	33
+DESULFOASV1_0932_arylesterase	AF-Q8NKQ0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8NKQ0-F1-model_v4 DNA double-strand break repair protein Mre11	0.099	126	95	33	158	3	108	2.700E+00	33
+DESULFOASV1_0932_arylesterase	AF-Q07179-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q07179-F1-model_v4 Homocitrate synthase	0.129	216	153	24	200	1	216	1.024E+00	33
+DESULFOASV1_0932_arylesterase	AF-P25524-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P25524-F1-model_v4 Cytosine deaminase	0.124	168	133	33	200	119	271	1.767E+00	33
+DESULFOASV1_0932_arylesterase	AF-P42262-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P42262-F1-model_v4 Glutamate receptor 2	0.137	170	145	29	197	144	313	6.303E-01	33
+DESULFOASV1_0932_arylesterase	AF-Q8XMW9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8XMW9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.102	134	114	27	154	11	144	9.635E-01	32
+DESULFOASV1_0932_arylesterase	AF-Q635G9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q635G9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.087	136	115	28	154	8	143	2.542E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q6G8G2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6G8G2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	1.156E+00	32
+DESULFOASV1_0932_arylesterase	AF-B9L729-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9L729-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.117	182	133	20	201	3	154	4.660E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q5QVF0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5QVF0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.096	172	130	26	197	9	153	3.653E-01	32
+DESULFOASV1_0932_arylesterase	AF-Q8KAW4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8KAW4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.096	107	93	28	131	9	115	1.877E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q3ZY85-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3ZY85-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.135	170	125	28	197	8	153	8.033E-01	32
+DESULFOASV1_0932_arylesterase	AF-Q9RXZ8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9RXZ8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	171	125	27	197	9	152	1.473E+00	32
+DESULFOASV1_0932_arylesterase	AF-C5CJ15-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C5CJ15-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.086	171	133	27	197	9	155	1.565E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q65TX7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q65TX7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.081	174	135	27	200	9	156	9.635E-01	32
+DESULFOASV1_0932_arylesterase	AF-A6QBK7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6QBK7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.086	170	127	23	192	6	145	1.767E+00	32
+DESULFOASV1_0932_arylesterase	AF-A8ZTU7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8ZTU7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.105	171	132	27	197	9	156	2.249E-01	32
+DESULFOASV1_0932_arylesterase	AF-A4SVH2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4SVH2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	186	136	13	198	1	154	1.024E+00	32
+DESULFOASV1_0932_arylesterase	AF-O80575-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O80575-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase, chloroplastic	0.111	196	152	1	196	52	223	1.228E+00	32
+DESULFOASV1_0932_arylesterase	AF-A6KXM3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6KXM3-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.092	182	151	30	196	2	183	9.068E-01	32
+DESULFOASV1_0932_arylesterase	AF-A5VRD3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5VRD3-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.130	191	147	31	200	2	192	5.255E-01	32
+DESULFOASV1_0932_arylesterase	AF-B7IMZ7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7IMZ7-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	6.704E+00	32
+DESULFOASV1_0932_arylesterase	AF-O32179-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O32179-F1-model_v4 Proline dehydrogenase 1	0.111	126	81	30	155	53	144	1.877E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q051I5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q051I5-F1-model_v4 Lipoyl synthase	0.128	126	98	76	201	100	212	3.441E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q8RMG1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8RMG1-F1-model_v4 Proline dehydrogenase 1	0.126	126	80	30	155	53	144	1.386E+00	32
+DESULFOASV1_0932_arylesterase	AF-A0R075-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0R075-F1-model_v4 Lipoyl synthase	0.160	115	91	76	190	101	209	3.239E+00	32
+DESULFOASV1_0932_arylesterase	AF-P65282-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P65282-F1-model_v4 Lipoyl synthase	0.139	77	58	77	153	110	177	5.261E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q5FNM1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5FNM1-F1-model_v4 Lipoyl synthase	0.159	92	71	65	156	96	180	5.939E+00	32
+DESULFOASV1_0932_arylesterase	AF-P02906-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P02906-F1-model_v4 Sulfate-binding protein	0.201	100	69	1	100	1	87	9.068E-01	32
+DESULFOASV1_0932_arylesterase	AF-O31284-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O31284-F1-model_v4 Basic membrane protein B	0.142	132	100	1	132	1	118	2.700E+00	32
+DESULFOASV1_0932_arylesterase	AF-Q8D291-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8D291-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.066	162	125	27	188	9	143	1.767E+00	31
+DESULFOASV1_0932_arylesterase	AF-C0QT44-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C0QT44-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.092	165	123	27	191	8	144	2.251E+00	31
+DESULFOASV1_0932_arylesterase	AF-B4S3W8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4S3W8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.132	107	89	28	131	9	115	1.565E+00	31
+DESULFOASV1_0932_arylesterase	AF-A1K280-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1K280-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.118	162	135	5	166	1	154	1.386E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q8E657-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8E657-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.143	136	109	27	154	9	144	7.116E-01	31
+DESULFOASV1_0932_arylesterase	AF-Q889Q6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q889Q6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase 1	0.115	171	127	27	197	11	154	1.565E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q02SM0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q02SM0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.101	171	129	27	197	11	154	3.048E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q2YD51-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2YD51-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	182	136	16	197	2	157	1.228E+00	31
+DESULFOASV1_0932_arylesterase	AF-B4UIM2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4UIM2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.140	166	127	28	193	7	155	8.033E-01	31
+DESULFOASV1_0932_arylesterase	AF-Q7WR85-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7WR85-F1-model_v4 Shikimate kinase	0.136	200	149	1	200	11	183	1.087E-01	31
+DESULFOASV1_0932_arylesterase	AF-Q5LU93-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5LU93-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.135	101	74	33	133	2	87	1.088E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q98CT5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q98CT5-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.085	102	79	32	133	2	88	1.386E+00	31
+DESULFOASV1_0932_arylesterase	AF-P57930-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P57930-F1-model_v4 Thiamine-phosphate synthase	0.117	147	118	24	170	1	135	1.088E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q7UZY1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7UZY1-F1-model_v4 Lipoyl synthase 1	0.165	122	88	77	198	89	194	4.386E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q8DL83-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8DL83-F1-model_v4 Lipoyl synthase 1	0.171	122	90	77	198	82	190	4.386E+00	31
+DESULFOASV1_0932_arylesterase	AF-A4ISG5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4ISG5-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	7.123E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q72YB2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q72YB2-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	7.568E+00	31
+DESULFOASV1_0932_arylesterase	AF-B7HCZ6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7HCZ6-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	7.568E+00	31
+DESULFOASV1_0932_arylesterase	AF-B7JDM3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7JDM3-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	7.568E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q3IU11-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3IU11-F1-model_v4 Lipoyl synthase	0.144	88	71	66	153	75	158	4.951E+00	31
+DESULFOASV1_0932_arylesterase	AF-A5V2U6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5V2U6-F1-model_v4 Lipoyl synthase	0.186	122	91	77	198	92	204	3.885E+00	31
+DESULFOASV1_0932_arylesterase	AF-B9IRY0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9IRY0-F1-model_v4 UV DNA damage endonuclease	0.104	176	149	32	198	3	178	3.045E-01	31
+DESULFOASV1_0932_arylesterase	AF-Q3SSP1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3SSP1-F1-model_v4 Lipoyl synthase	0.142	89	70	65	153	96	178	5.939E+00	31
+DESULFOASV1_0932_arylesterase	AF-A5CQ99-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5CQ99-F1-model_v4 Lipoyl synthase	0.154	126	101	65	190	92	211	3.239E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q838S2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q838S2-F1-model_v4 Chitinase	0.129	215	134	1	155	3	217	9.635E-01	31
+DESULFOASV1_0932_arylesterase	AF-O32861-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O32861-F1-model_v4 Signal recognition particle receptor FtsY	0.144	172	134	31	188	174	345	5.584E-01	31
+DESULFOASV1_0932_arylesterase	AF-P57137-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P57137-F1-model_v4 Signal recognition particle receptor FtsY	0.136	210	144	21	188	167	376	3.653E-01	31
+DESULFOASV1_0932_arylesterase	AF-Q1GQ92-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1GQ92-F1-model_v4 Putative thymidine phosphorylase	0.116	221	161	19	201	171	391	1.156E+00	31
+DESULFOASV1_0932_arylesterase	AF-P34393-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P34393-F1-model_v4 C-type lectin domain-containing protein 160	0.102	225	174	1	195	247	471	1.767E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q8BNJ2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8BNJ2-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 4	0.103	123	84	1	95	189	311	1.088E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q5R4M0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5R4M0-F1-model_v4 Glutamate receptor 2	0.073	193	155	1	168	1	193	1.024E+00	31
+DESULFOASV1_0932_arylesterase	AF-Q0TTN7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0TTN7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.102	134	114	27	154	11	144	1.473E+00	30
+DESULFOASV1_0932_arylesterase	AF-B0RVD2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0RVD2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.123	177	126	21	197	8	152	2.392E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q3BXI0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3BXI0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.138	177	124	21	197	8	152	1.767E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q9PIB9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9PIB9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.084	178	135	21	198	4	151	4.386E+00	30
+DESULFOASV1_0932_arylesterase	AF-A5I5U9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5I5U9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.096	137	115	27	154	8	144	1.088E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q8PPD6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8PPD6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.138	177	124	21	197	8	152	2.700E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q3K1V6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3K1V6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.143	136	109	27	154	9	144	8.033E-01	30
+DESULFOASV1_0932_arylesterase	AF-Q2S3N1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2S3N1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.105	168	124	21	188	5	144	3.438E-01	30
+DESULFOASV1_0932_arylesterase	AF-Q7MAF0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7MAF0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.081	178	138	23	200	6	156	2.869E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q89AB1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q89AB1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.092	170	132	28	197	12	157	1.088E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q9KAH2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9KAH2-F1-model_v4 Inosose isomerase	0.129	163	102	34	151	3	165	1.473E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q8KDH2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8KDH2-F1-model_v4 Lipoyl synthase	0.132	79	59	76	154	85	153	8.041E+00	30
+DESULFOASV1_0932_arylesterase	AF-O05959-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O05959-F1-model_v4 Lipoyl synthase	0.190	119	87	77	195	84	192	3.657E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q5KVM7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5KVM7-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	8.041E+00	30
+DESULFOASV1_0932_arylesterase	AF-O34873-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O34873-F1-model_v4 Hydroxymethylglutaryl-CoA lyase YngG	0.099	224	148	26	190	2	225	1.473E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q1QMA2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1QMA2-F1-model_v4 Lipoyl synthase	0.142	89	70	65	153	96	178	6.704E+00	30
+DESULFOASV1_0932_arylesterase	AF-A5UFJ8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5UFJ8-F1-model_v4 Lipoyl synthase	0.132	93	67	63	155	106	183	5.589E+00	30
+DESULFOASV1_0932_arylesterase	AF-B0RE24-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0RE24-F1-model_v4 Lipoyl synthase	0.152	82	64	72	153	97	172	4.951E+00	30
+DESULFOASV1_0932_arylesterase	AF-Q8NFF5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8NFF5-F1-model_v4 FAD synthase	0.147	154	119	2	155	73	213	1.305E+00	30
+DESULFOASV1_0932_arylesterase	AF-B9DN29-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9DN29-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.137	136	110	27	154	8	143	3.048E+00	29
+DESULFOASV1_0932_arylesterase	AF-C3P7P8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3P7P8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.114	132	109	31	154	12	143	3.239E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q81MB5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q81MB5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.097	162	120	28	189	8	141	3.657E+00	29
+DESULFOASV1_0932_arylesterase	AF-P61719-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61719-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.111	136	112	28	154	8	143	3.239E+00	29
+DESULFOASV1_0932_arylesterase	AF-B7IWM6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7IWM6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.110	137	113	27	154	7	143	3.657E+00	29
+DESULFOASV1_0932_arylesterase	AF-B7HAY5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7HAY5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.080	136	116	28	154	8	143	4.660E+00	29
+DESULFOASV1_0932_arylesterase	AF-B8FXB6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8FXB6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.098	168	124	27	194	9	147	8.033E-01	29
+DESULFOASV1_0932_arylesterase	AF-A8FKH0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8FKH0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.082	181	138	21	201	4	154	4.660E+00	29
+DESULFOASV1_0932_arylesterase	AF-A1VYA3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1VYA3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.102	181	135	21	201	4	154	3.657E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q3II28-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3II28-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.112	170	130	28	197	7	153	4.946E-01	29
+DESULFOASV1_0932_arylesterase	AF-B3EHV0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B3EHV0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	177	132	21	197	5	154	1.024E+00	29
+DESULFOASV1_0932_arylesterase	AF-C5BS85-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C5BS85-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.131	165	116	28	192	12	146	8.033E-01	29
+DESULFOASV1_0932_arylesterase	AF-A7ZBS6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7ZBS6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.066	166	128	23	188	6	143	4.386E+00	29
+DESULFOASV1_0932_arylesterase	AF-A5VXW0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5VXW0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.120	171	126	27	197	11	154	1.767E+00	29
+DESULFOASV1_0932_arylesterase	AF-C1DLH8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1DLH8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.096	162	120	27	188	11	144	6.303E-01	29
+DESULFOASV1_0932_arylesterase	AF-Q82S08-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q82S08-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	170	128	28	197	13	157	1.156E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q1D349-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1D349-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.100	178	145	21	198	5	166	1.767E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q7VT94-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7VT94-F1-model_v4 Shikimate kinase	0.140	200	148	1	200	11	183	1.155E-01	29
+DESULFOASV1_0932_arylesterase	AF-A3CS45-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3CS45-F1-model_v4 Thiamine-phosphate synthase	0.092	130	70	27	156	1	78	2.869E+00	29
+DESULFOASV1_0932_arylesterase	AF-B8GLE3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8GLE3-F1-model_v4 Thiamine-phosphate synthase	0.129	85	56	72	156	20	84	9.078E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q92TB1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q92TB1-F1-model_v4 Imidazole glycerol phosphate synthase subunit HisH	0.097	101	78	33	133	2	88	2.392E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q11PM4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q11PM4-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.118	183	147	33	200	2	184	1.565E+00	29
+DESULFOASV1_0932_arylesterase	AF-A9IUY4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9IUY4-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.110	238	150	30	199	2	239	1.024E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q5HB02-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5HB02-F1-model_v4 Lipoyl synthase	0.157	89	69	65	153	69	151	4.951E+00	29
+DESULFOASV1_0932_arylesterase	AF-C3PDK2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3PDK2-F1-model_v4 Lipoyl synthase	0.122	94	76	65	158	76	163	9.645E+00	29
+DESULFOASV1_0932_arylesterase	AF-B9LR22-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9LR22-F1-model_v4 Lipoyl synthase	0.138	88	72	66	153	75	158	4.386E+00	29
+DESULFOASV1_0932_arylesterase	AF-Q8NJU8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8NJU8-F1-model_v4 ATP-dependent 6-phosphofructokinase subunit alpha	0.113	267	155	25	200	590	856	1.386E+00	29
+DESULFOASV1_0932_arylesterase	AF-P59509-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P59509-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 19	0.065	135	87	2	95	303	437	1.386E+00	29
+DESULFOASV1_0932_arylesterase	AF-B7HNM9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7HNM9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.079	163	122	27	189	8	141	4.386E+00	28
+DESULFOASV1_0932_arylesterase	AF-B7JLW7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7JLW7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.111	136	112	28	154	8	143	3.657E+00	28
+DESULFOASV1_0932_arylesterase	AF-C3LIX8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3LIX8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.106	162	119	28	189	8	141	3.441E+00	28
+DESULFOASV1_0932_arylesterase	AF-A4J6A4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4J6A4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.118	167	122	31	197	15	153	1.877E+00	28
+DESULFOASV1_0932_arylesterase	AF-Q2LQN1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2LQN1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.090	171	131	27	197	9	153	8.033E-01	28
+DESULFOASV1_0932_arylesterase	AF-B4SGD1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B4SGD1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.118	176	129	23	198	8	154	5.584E-01	28
+DESULFOASV1_0932_arylesterase	AF-B7GN04-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7GN04-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.092	173	128	20	192	3	144	1.663E+00	28
+DESULFOASV1_0932_arylesterase	AF-Q03XY9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q03XY9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.097	177	132	22	198	4	150	2.700E+00	28
+DESULFOASV1_0932_arylesterase	AF-Q17Z25-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q17Z25-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.096	177	136	23	199	6	156	3.441E+00	28
+DESULFOASV1_0932_arylesterase	AF-A1VEL0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1VEL0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.099	189	139	9	197	1	155	5.933E-01	28
+DESULFOASV1_0932_arylesterase	AF-B3QL67-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B3QL67-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.100	143	120	21	154	4	146	3.657E+00	28
+DESULFOASV1_0932_arylesterase	AF-A1KSU7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1KSU7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.107	175	133	24	198	4	153	2.251E+00	28
+DESULFOASV1_0932_arylesterase	AF-A4XZ35-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4XZ35-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.108	182	136	20	201	5	158	2.700E+00	28
+DESULFOASV1_0932_arylesterase	AF-B5Y5X6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5Y5X6-F1-model_v4 Pyrrolidone-carboxylate peptidase	0.138	205	143	30	196	2	206	3.438E-01	28
+DESULFOASV1_0932_arylesterase	AF-Q7UYK5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7UYK5-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.134	242	148	28	199	1	242	1.024E+00	28
+DESULFOASV1_0932_arylesterase	AF-Q9UUF1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9UUF1-F1-model_v4 Deoxyribonuclease Tat-D	0.145	151	112	27	158	8	158	2.392E+00	28
+DESULFOASV1_0932_arylesterase	AF-Q72XA0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q72XA0-F1-model_v4 UV DNA damage endonuclease	0.120	138	112	71	198	41	178	9.635E-01	28
+DESULFOASV1_0932_arylesterase	AF-A5VQP8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5VQP8-F1-model_v4 Lipoyl synthase	0.147	122	92	77	198	110	218	4.128E+00	28
+DESULFOASV1_0932_arylesterase	AF-A3CSY4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3CSY4-F1-model_v4 AMP phosphorylase	0.101	252	163	19	200	149	400	2.542E+00	28
+DESULFOASV1_0932_arylesterase	AF-A7I5N0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7I5N0-F1-model_v4 AMP phosphorylase	0.088	252	165	19	200	150	401	1.663E+00	28
+DESULFOASV1_0932_arylesterase	AF-Q89QK7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q89QK7-F1-model_v4 Putative thymidine phosphorylase	0.102	247	162	19	199	160	406	9.068E-01	28
+DESULFOASV1_0932_arylesterase	AF-Q6N2A3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6N2A3-F1-model_v4 Putative thymidine phosphorylase	0.112	244	157	22	199	164	407	6.697E-01	28
+DESULFOASV1_0932_arylesterase	AF-Q0ATA0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0ATA0-F1-model_v4 Putative thymidine phosphorylase	0.115	219	159	21	201	174	392	2.392E+00	28
+DESULFOASV1_0932_arylesterase	AF-Q2IUT4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2IUT4-F1-model_v4 2-isopropylmalate synthase	0.138	193	134	13	168	1	193	1.767E+00	28
+DESULFOASV1_0932_arylesterase	AF-A0RIB4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0RIB4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.098	136	114	28	154	8	143	3.657E+00	27
+DESULFOASV1_0932_arylesterase	AF-A6QHU9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6QHU9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.115	136	112	27	154	8	143	3.885E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q4UQU3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4UQU3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.142	177	124	21	197	8	152	2.119E+00	27
+DESULFOASV1_0932_arylesterase	AF-A7X3K7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7X3K7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	2.869E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q2YTM0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2YTM0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.115	136	112	27	154	8	143	3.441E+00	27
+DESULFOASV1_0932_arylesterase	AF-B5YHQ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5YHQ1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.116	170	126	28	197	9	152	3.048E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q6F6V3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6F6V3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.094	162	119	30	191	16	147	3.885E+00	27
+DESULFOASV1_0932_arylesterase	AF-A7HZG0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7HZG0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.068	143	125	20	154	3	145	5.589E+00	27
+DESULFOASV1_0932_arylesterase	AF-P61940-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61940-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.093	170	130	28	197	12	155	6.697E-01	27
+DESULFOASV1_0932_arylesterase	AF-P66037-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P66037-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	175	132	24	198	4	153	3.657E+00	27
+DESULFOASV1_0932_arylesterase	AF-B8ZU95-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8ZU95-F1-model_v4 Thiamine-phosphate synthase	0.094	216	149	29	194	18	233	4.655E-01	27
+DESULFOASV1_0932_arylesterase	AF-B1XUJ6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1XUJ6-F1-model_v4 Triosephosphate isomerase	0.078	248	146	30	188	3	250	1.228E+00	27
+DESULFOASV1_0932_arylesterase	AF-C3N026-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3N026-F1-model_v4 Protein M1627_2099	0.145	133	99	30	162	5	121	1.663E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q6HAT6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6HAT6-F1-model_v4 UV DNA damage endonuclease	0.100	177	150	31	198	2	178	7.561E-01	27
+DESULFOASV1_0932_arylesterase	AF-Q5M8J0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5M8J0-F1-model_v4 BRISC and BRCA1-A complex member 1	0.071	236	186	1	201	55	290	2.392E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q65RH7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q65RH7-F1-model_v4 Lipoyl synthase	0.140	105	70	66	170	105	186	5.261E+00	27
+DESULFOASV1_0932_arylesterase	AF-P0AG79-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0AG79-F1-model_v4 Sulfate-binding protein	0.173	100	71	1	100	1	87	2.251E+00	27
+DESULFOASV1_0932_arylesterase	AF-P0AG78-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0AG78-F1-model_v4 Sulfate-binding protein	0.173	100	71	1	100	1	87	2.392E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q2J897-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2J897-F1-model_v4 Lipoyl synthase	0.161	118	92	76	193	102	212	3.441E+00	27
+DESULFOASV1_0932_arylesterase	AF-P41654-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P41654-F1-model_v4 Probable N5-carboxyaminoimidazole ribonucleotide mutase	0.117	191	138	8	198	167	323	1.024E+00	27
+DESULFOASV1_0932_arylesterase	AF-C5CCN0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C5CCN0-F1-model_v4 Lipoyl synthase	0.120	113	93	78	190	103	209	6.310E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q4WBS1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4WBS1-F1-model_v4 Mannan endo-1,4-beta-mannosidase F	0.143	212	130	1	153	71	282	1.663E+00	27
+DESULFOASV1_0932_arylesterase	AF-C4LAA1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C4LAA1-F1-model_v4 Putative thymidine phosphorylase	0.113	222	161	19	201	162	383	1.767E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q11BH8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q11BH8-F1-model_v4 Putative thymidine phosphorylase	0.143	207	142	31	197	177	383	1.767E+00	27
+DESULFOASV1_0932_arylesterase	AF-A0B6C9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0B6C9-F1-model_v4 AMP phosphorylase	0.101	249	161	21	200	149	397	1.305E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q5ZWR3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5ZWR3-F1-model_v4 Putative thymidine phosphorylase	0.135	218	154	19	197	172	389	1.994E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q3B7N1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3B7N1-F1-model_v4 Chromodomain-helicase-DNA-binding protein 1-like	0.121	181	136	3	158	690	870	1.877E+00	27
+DESULFOASV1_0932_arylesterase	AF-P58459-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P58459-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 10	0.090	143	86	3	97	210	352	1.305E+00	27
+DESULFOASV1_0932_arylesterase	AF-Q3AC30-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3AC30-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.110	162	117	30	191	11	143	1.767E+00	26
+DESULFOASV1_0932_arylesterase	AF-B9IWX5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9IWX5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.106	163	119	27	189	8	141	4.660E+00	26
+DESULFOASV1_0932_arylesterase	AF-B0U4K3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0U4K3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.097	177	130	21	197	8	152	3.885E+00	26
+DESULFOASV1_0932_arylesterase	AF-B2VAC3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2VAC3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.107	170	128	28	197	9	152	1.767E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q8PCM7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8PCM7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.082	177	132	21	197	8	152	5.261E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q2FFX3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2FFX3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.115	136	112	27	154	8	143	4.386E+00	26
+DESULFOASV1_0932_arylesterase	AF-A7Z674-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7Z674-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.117	165	120	27	191	8	144	1.565E+00	26
+DESULFOASV1_0932_arylesterase	AF-B3QWR1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B3QWR1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.085	171	132	27	197	10	154	5.933E-01	26
+DESULFOASV1_0932_arylesterase	AF-A6V049-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6V049-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.111	178	132	20	197	5	154	3.657E+00	26
+DESULFOASV1_0932_arylesterase	AF-D5CE05-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-D5CE05-F1-model_v4 O-acetyl-ADP-ribose deacetylase	0.073	166	122	27	159	14	179	6.310E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q8U192-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8U192-F1-model_v4 Thiamine-phosphate synthase	0.109	128	65	29	156	6	79	3.048E+00	26
+DESULFOASV1_0932_arylesterase	AF-A8G5H7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8G5H7-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.086	236	153	30	197	2	237	2.700E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q5GSY2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5GSY2-F1-model_v4 Lipoyl synthase	0.168	87	62	65	151	69	143	9.078E+00	26
+DESULFOASV1_0932_arylesterase	AF-B3CP16-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B3CP16-F1-model_v4 Lipoyl synthase	0.127	90	69	65	154	69	148	9.645E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q2RHM6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2RHM6-F1-model_v4 Lipoyl synthase	0.170	123	93	76	198	89	201	5.939E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q7NLU2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7NLU2-F1-model_v4 Lipoyl synthase 1	0.145	121	92	77	197	82	190	7.123E+00	26
+DESULFOASV1_0932_arylesterase	AF-A9VSE5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9VSE5-F1-model_v4 UV DNA damage endonuclease	0.107	162	128	32	193	3	146	1.228E+00	26
+DESULFOASV1_0932_arylesterase	AF-C1F0S5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1F0S5-F1-model_v4 UV DNA damage endonuclease	0.127	138	111	71	198	41	178	1.767E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q0HXV7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0HXV7-F1-model_v4 Lipoyl synthase	0.139	90	64	63	152	107	181	5.589E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q4JWE0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4JWE0-F1-model_v4 Lipoyl synthase	0.162	115	91	76	190	101	209	4.660E+00	26
+DESULFOASV1_0932_arylesterase	AF-A2RK47-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A2RK47-F1-model_v4 ABC transporter nucleoside-binding protein BmpA	0.106	135	112	1	135	9	134	5.261E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q49410-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q49410-F1-model_v4 High affinity transport system protein p37	0.109	84	72	1	84	6	87	3.441E+00	26
+DESULFOASV1_0932_arylesterase	AF-Q8TJJ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8TJJ1-F1-model_v4 Putative (R)-citramalate synthase CimA	0.105	105	90	51	155	43	144	7.568E+00	26
+DESULFOASV1_0932_arylesterase	AF-P17858-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P17858-F1-model_v4 ATP-dependent 6-phosphofructokinase, liver type	0.121	173	118	20	154	390	562	2.251E+00	26
+DESULFOASV1_0932_arylesterase	AF-P06564-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P06564-F1-model_v4 Endoglucanase	0.090	124	90	30	153	77	176	7.568E+00	26
+DESULFOASV1_0932_arylesterase	AF-C1EQY6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1EQY6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	136	111	28	154	8	143	3.657E+00	25
+DESULFOASV1_0932_arylesterase	AF-B7GKI1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7GKI1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.124	167	121	31	197	14	152	8.033E-01	25
+DESULFOASV1_0932_arylesterase	AF-Q1J1M8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1J1M8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	171	127	27	197	9	152	2.869E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q44681-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q44681-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.117	164	119	28	191	9	144	1.877E+00	25
+DESULFOASV1_0932_arylesterase	AF-P99141-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P99141-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	4.386E+00	25
+DESULFOASV1_0932_arylesterase	AF-A1VRD9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1VRD9-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.082	174	124	26	199	13	148	2.700E+00	25
+DESULFOASV1_0932_arylesterase	AF-A7GWZ6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7GWZ6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.084	176	135	23	198	6	153	8.041E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q03PZ7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q03PZ7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.132	174	130	21	194	6	156	4.128E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q9UZQ5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9UZQ5-F1-model_v4 Thiamine-phosphate synthase	0.070	128	68	29	156	6	79	4.128E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q5FFK4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5FFK4-F1-model_v4 Lipoyl synthase	0.157	89	69	65	153	69	151	9.078E+00	25
+DESULFOASV1_0932_arylesterase	AF-A5CWR6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5CWR6-F1-model_v4 Lipoyl synthase	0.137	77	58	76	152	108	175	8.544E+00	25
+DESULFOASV1_0932_arylesterase	AF-C3P2A9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3P2A9-F1-model_v4 UV DNA damage endonuclease	0.109	176	147	33	198	3	178	9.068E-01	25
+DESULFOASV1_0932_arylesterase	AF-P45864-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P45864-F1-model_v4 UV DNA damage endonuclease	0.105	172	144	32	193	3	174	1.156E+00	25
+DESULFOASV1_0932_arylesterase	AF-P44992-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P44992-F1-model_v4 Uncharacterized protein HI_1028	0.137	198	117	2	199	1	137	1.565E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q315G1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q315G1-F1-model_v4 Solute-binding protein Dde_0634	0.111	68	55	1	68	9	71	3.657E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q6FYN4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6FYN4-F1-model_v4 Phosphoglycerate kinase	0.095	210	153	31	200	188	397	2.119E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q27683-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q27683-F1-model_v4 Phosphoglycerate kinase, cytosolic	0.079	202	152	25	190	203	404	2.700E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q3E8E5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3E8E5-F1-model_v4 Putative myrosinase 3	0.129	226	171	1	197	3	228	5.589E+00	25
+DESULFOASV1_0932_arylesterase	AF-O26819-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O26819-F1-model_v4 Putative (R)-citramalate synthase CimA	0.115	210	150	30	200	2	211	1.088E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q07J10-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q07J10-F1-model_v4 Putative thymidine phosphorylase	0.119	247	158	20	199	161	407	1.565E+00	25
+DESULFOASV1_0932_arylesterase	AF-Q75JT4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q75JT4-F1-model_v4 Metabotropic glutamate receptor-like protein J	0.140	123	89	16	138	16	120	4.951E+00	25
+DESULFOASV1_0932_arylesterase	AF-A9VG51-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9VG51-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.121	136	111	28	154	8	143	4.128E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q2NZ91-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2NZ91-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.138	177	124	21	197	8	152	5.261E+00	24
+DESULFOASV1_0932_arylesterase	AF-B0V9X5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0V9X5-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.125	169	122	23	191	8	147	4.386E+00	24
+DESULFOASV1_0932_arylesterase	AF-A5TZE0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5TZE0-F1-model_v4 Thiamine-phosphate synthase	0.127	212	143	30	194	9	220	1.024E+00	24
+DESULFOASV1_0932_arylesterase	AF-P9WG74-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P9WG74-F1-model_v4 Thiamine-phosphate synthase	0.139	213	145	30	198	9	221	1.305E+00	24
+DESULFOASV1_0932_arylesterase	AF-A5GSL8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5GSL8-F1-model_v4 Triosephosphate isomerase	0.083	242	150	24	188	1	242	1.663E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q59023-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q59023-F1-model_v4 UPF0282 protein MJ1629	0.111	51	44	81	131	192	242	8.544E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q3ARP5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3ARP5-F1-model_v4 Lipoyl synthase	0.115	121	96	63	171	74	194	9.645E+00	24
+DESULFOASV1_0932_arylesterase	AF-A2CAG3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A2CAG3-F1-model_v4 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	0.143	144	108	73	199	141	284	3.441E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q7VBJ3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7VBJ3-F1-model_v4 Lipoyl synthase 2	0.094	124	111	76	198	96	219	5.261E+00	24
+DESULFOASV1_0932_arylesterase	AF-C3LFM1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3LFM1-F1-model_v4 UV DNA damage endonuclease	0.103	177	150	31	198	2	178	1.663E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q312S0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q312S0-F1-model_v4 Isethionate-binding periplasmic protein DctP	0.168	88	69	1	84	1	88	6.310E+00	24
+DESULFOASV1_0932_arylesterase	AF-P41565-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P41565-F1-model_v4 Isocitrate dehydrogenase [NAD] subunit gamma 1, mitochondrial	0.086	263	174	2	192	26	288	1.473E+00	24
+DESULFOASV1_0932_arylesterase	AF-A7HYS8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7HYS8-F1-model_v4 Putative thymidine phosphorylase	0.114	224	158	19	197	162	385	2.119E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q5X2M8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5X2M8-F1-model_v4 Putative thymidine phosphorylase	0.124	218	156	19	197	172	389	3.239E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q920P5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q920P5-F1-model_v4 Adenylate kinase isoenzyme 5	0.112	204	177	2	201	335	538	5.255E-01	24
+DESULFOASV1_0932_arylesterase	AF-O34311-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O34311-F1-model_v4 Signaling protein YkoW	0.107	133	111	33	165	668	792	5.589E+00	24
+DESULFOASV1_0932_arylesterase	AF-O60502-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O60502-F1-model_v4 Protein O-GlcNAcase	0.108	151	103	2	152	41	156	4.386E+00	24
+DESULFOASV1_0932_arylesterase	AF-Q769J6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q769J6-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 13	0.116	126	83	1	95	54	179	1.877E+00	24
+DESULFOASV1_0932_arylesterase	AF-P61597-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61597-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	5.939E+00	23
+DESULFOASV1_0932_arylesterase	AF-A6U2N1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6U2N1-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	5.939E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q9PES4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9PES4-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.093	177	131	21	197	8	152	5.939E+00	23
+DESULFOASV1_0932_arylesterase	AF-A5ITT7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5ITT7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	5.939E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q1MS15-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1MS15-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.082	161	124	28	188	10	145	7.123E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q88QH6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q88QH6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.106	171	128	27	197	11	154	2.251E+00	23
+DESULFOASV1_0932_arylesterase	AF-O34457-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O34457-F1-model_v4 Molybdenum cofactor biosynthesis protein B	0.107	172	139	27	198	10	166	2.869E+00	23
+DESULFOASV1_0932_arylesterase	AF-P9WG75-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P9WG75-F1-model_v4 Thiamine-phosphate synthase	0.139	213	145	30	198	9	221	1.565E+00	23
+DESULFOASV1_0932_arylesterase	AF-A1KFN6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1KFN6-F1-model_v4 Thiamine-phosphate synthase	0.111	212	146	30	194	9	220	1.024E+00	23
+DESULFOASV1_0932_arylesterase	AF-P66917-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P66917-F1-model_v4 Thiamine-phosphate synthase	0.127	212	143	30	194	9	220	1.156E+00	23
+DESULFOASV1_0932_arylesterase	AF-P61412-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61412-F1-model_v4 Thiamine-phosphate synthase	0.145	212	144	30	198	11	222	1.386E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q04T63-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q04T63-F1-model_v4 Lipoyl synthase	0.135	126	97	76	201	100	212	8.544E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q7V6S0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7V6S0-F1-model_v4 Lipoyl synthase 2	0.148	122	99	77	193	97	218	8.041E+00	23
+DESULFOASV1_0932_arylesterase	AF-B8ZQJ9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B8ZQJ9-F1-model_v4 Lipoyl synthase	0.131	125	96	76	200	101	212	5.939E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q6AFG7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6AFG7-F1-model_v4 Lipoyl synthase	0.138	114	95	76	189	101	211	9.078E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q5LR94-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5LR94-F1-model_v4 Phosphoglycerate kinase	0.094	198	144	31	190	188	385	5.261E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q5FTL1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5FTL1-F1-model_v4 Phosphoglycerate kinase	0.104	211	151	31	199	188	398	2.700E+00	23
+DESULFOASV1_0932_arylesterase	AF-P08966-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P08966-F1-model_v4 Phosphoglycerate kinase, cytosolic	0.062	202	155	25	190	203	404	5.589E+00	23
+DESULFOASV1_0932_arylesterase	AF-P27035-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P27035-F1-model_v4 Endoglucanase CelA	0.125	125	108	74	198	189	312	4.128E+00	23
+DESULFOASV1_0932_arylesterase	AF-C4XPA8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C4XPA8-F1-model_v4 2-isopropylmalate synthase	0.103	157	113	29	155	5	161	5.939E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q04855-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q04855-F1-model_v4 Uncharacterized protein AZC_3085	0.079	162	127	39	200	548	686	2.542E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q9HZQ3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9HZQ3-F1-model_v4 Aerobic cobaltochelatase subunit CobN	0.123	177	124	31	172	199	375	1.877E+00	23
+DESULFOASV1_0932_arylesterase	AF-Q6GFT6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6GFT6-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.133	136	110	27	154	8	143	5.939E+00	22
+DESULFOASV1_0932_arylesterase	AF-A6Q4R0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6Q4R0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.079	170	128	23	192	6	145	5.939E+00	22
+DESULFOASV1_0932_arylesterase	AF-B2I1Q0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2I1Q0-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.108	162	117	30	191	16	147	5.939E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q9XH32-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9XH32-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase, chloroplastic	0.089	196	154	1	196	48	217	2.869E+00	22
+DESULFOASV1_0932_arylesterase	AF-A0QLT6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0QLT6-F1-model_v4 Thiamine-phosphate synthase	0.149	212	143	30	198	11	222	1.767E+00	22
+DESULFOASV1_0932_arylesterase	AF-P67344-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P67344-F1-model_v4 Protein-ADP-ribose hydrolase	0.081	187	126	18	155	76	262	7.568E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q7V839-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7V839-F1-model_v4 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	0.136	144	109	73	199	141	284	4.386E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q72DM4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q72DM4-F1-model_v4 Lipoyl synthase	0.120	125	98	76	200	89	200	9.645E+00	22
+DESULFOASV1_0932_arylesterase	AF-A6X0M7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6X0M7-F1-model_v4 Lipoyl synthase	0.133	122	94	77	198	110	218	4.951E+00	22
+DESULFOASV1_0932_arylesterase	AF-C0RJ95-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C0RJ95-F1-model_v4 Lipoyl synthase	0.133	122	94	77	198	110	218	4.660E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q6A9X0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6A9X0-F1-model_v4 Lipoyl synthase	0.142	156	130	46	201	157	309	3.048E+00	22
+DESULFOASV1_0932_arylesterase	AF-P16700-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P16700-F1-model_v4 Thiosulfate-binding protein	0.101	232	178	1	199	1	232	1.156E+00	22
+DESULFOASV1_0932_arylesterase	AF-C4LI04-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C4LI04-F1-model_v4 Lipoyl synthase	0.144	204	128	52	201	136	339	2.119E+00	22
+DESULFOASV1_0932_arylesterase	AF-A4QFS3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4QFS3-F1-model_v4 Lipoyl synthase	0.129	196	132	49	201	129	324	1.088E+00	22
+DESULFOASV1_0932_arylesterase	AF-A7IJW3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7IJW3-F1-model_v4 Phosphoglycerate kinase	0.095	206	153	21	190	180	385	4.951E+00	22
+DESULFOASV1_0932_arylesterase	AF-P50314-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P50314-F1-model_v4 Phosphoglycerate kinase	0.092	198	144	31	190	189	386	6.704E+00	22
+DESULFOASV1_0932_arylesterase	AF-P41760-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P41760-F1-model_v4 Phosphoglycerate kinase, cytosolic	0.084	202	151	25	190	206	407	2.869E+00	22
+DESULFOASV1_0932_arylesterase	AF-A4YRL1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4YRL1-F1-model_v4 Putative thymidine phosphorylase	0.083	253	167	19	201	161	413	3.657E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q1QM39-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1QM39-F1-model_v4 Putative thymidine phosphorylase	0.101	247	162	19	199	161	407	5.589E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q8RNP4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8RNP4-F1-model_v4 Putative thymidine phosphorylase	0.127	217	155	19	197	172	388	4.128E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q6NVG7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q6NVG7-F1-model_v4 Procollagen galactosyltransferase 2	0.107	139	114	1	129	24	162	5.261E+00	22
+DESULFOASV1_0932_arylesterase	AF-P45178-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P45178-F1-model_v4 Glycogen operon protein GlgX homolog	0.092	132	118	29	160	147	277	3.239E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q5XHF8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5XHF8-F1-model_v4 Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 2	0.082	166	106	2	167	30	146	3.048E+00	22
+DESULFOASV1_0932_arylesterase	AF-Q87AS7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q87AS7-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.098	177	130	21	197	8	152	8.041E+00	21
+DESULFOASV1_0932_arylesterase	AF-P0C600-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0C600-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	8.041E+00	21
+DESULFOASV1_0932_arylesterase	AF-P61595-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61595-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.134	136	110	27	154	8	143	8.041E+00	21
+DESULFOASV1_0932_arylesterase	AF-Q30TJ8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q30TJ8-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.074	166	127	23	188	6	143	3.441E+00	21
+DESULFOASV1_0932_arylesterase	AF-A9BAP6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9BAP6-F1-model_v4 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	0.157	144	106	73	199	141	284	3.441E+00	21
+DESULFOASV1_0932_arylesterase	AF-P61197-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61197-F1-model_v4 Lipoyl synthase	0.148	169	120	51	192	139	307	2.119E+00	21
+DESULFOASV1_0932_arylesterase	AF-O32962-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O32962-F1-model_v4 Lipoyl synthase	0.150	174	124	51	197	139	312	3.048E+00	21
+DESULFOASV1_0932_arylesterase	AF-A9M5D7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9M5D7-F1-model_v4 Lipoyl synthase	0.133	122	94	77	198	110	218	5.589E+00	21
+DESULFOASV1_0932_arylesterase	AF-B0BRR9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B0BRR9-F1-model_v4 Lipoyl synthase	0.113	92	75	47	132	153	244	5.589E+00	21
+DESULFOASV1_0932_arylesterase	AF-Q8NNJ0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8NNJ0-F1-model_v4 Lipoyl synthase	0.139	210	130	49	200	129	338	1.473E+00	21
+DESULFOASV1_0932_arylesterase	AF-Q8FNP4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8FNP4-F1-model_v4 Lipoyl synthase	0.144	203	127	52	200	136	338	1.156E+00	21
+DESULFOASV1_0932_arylesterase	AF-Q4DC43-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4DC43-F1-model_v4 Lipoyl synthase 1, mitochondrial	0.101	139	114	63	201	169	296	8.041E+00	21
+DESULFOASV1_0932_arylesterase	AF-P50312-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P50312-F1-model_v4 Phosphoglycerate kinase, glycosomal	0.078	202	152	25	190	203	404	7.123E+00	21
+DESULFOASV1_0932_arylesterase	AF-O28927-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-O28927-F1-model_v4 AMP phosphorylase 2	0.077	232	164	21	199	152	383	3.657E+00	21
+DESULFOASV1_0932_arylesterase	AF-Q2FXG2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2FXG2-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.152	136	108	27	154	8	143	8.544E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q5NLS8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5NLS8-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.119	187	152	28	200	1	187	6.704E+00	20
+DESULFOASV1_0932_arylesterase	AF-A8MLP1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A8MLP1-F1-model_v4 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	0.118	143	110	73	198	125	267	9.078E+00	20
+DESULFOASV1_0932_arylesterase	AF-A7GUG3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7GUG3-F1-model_v4 Lipoyl synthase	0.137	196	142	29	194	102	297	4.660E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q8YXD1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8YXD1-F1-model_v4 Lipoyl synthase 2	0.135	123	104	76	198	93	213	9.078E+00	20
+DESULFOASV1_0932_arylesterase	AF-P65284-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P65284-F1-model_v4 Lipoyl synthase	0.150	201	131	39	193	110	310	2.251E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q8EHQ6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8EHQ6-F1-model_v4 Lipoyl synthase	0.117	129	112	29	156	129	257	6.310E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q5E6V9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5E6V9-F1-model_v4 Lipoyl synthase	0.098	128	111	33	156	130	257	8.544E+00	20
+DESULFOASV1_0932_arylesterase	AF-A3D7P9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3D7P9-F1-model_v4 Lipoyl synthase	0.141	136	101	63	198	107	224	5.261E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q1B6R1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1B6R1-F1-model_v4 Lipoyl synthase	0.170	141	115	51	191	150	289	3.441E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q0VN36-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0VN36-F1-model_v4 Lipoyl synthase	0.093	172	136	50	200	147	318	6.704E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q58CP0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q58CP0-F1-model_v4 Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial	0.081	265	176	1	192	23	287	3.885E+00	20
+DESULFOASV1_0932_arylesterase	AF-B6IWR7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B6IWR7-F1-model_v4 Phosphoglycerate kinase	0.095	213	162	22	201	184	396	8.041E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q01655-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q01655-F1-model_v4 Phosphoglycerate kinase	0.102	200	151	25	193	195	394	5.939E+00	20
+DESULFOASV1_0932_arylesterase	AF-A4QEG1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4QEG1-F1-model_v4 Phosphoglycerate kinase	0.102	200	151	25	193	195	394	5.939E+00	20
+DESULFOASV1_0932_arylesterase	AF-P29102-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P29102-F1-model_v4 3-isopropylmalate dehydrogenase, chloroplastic	0.107	281	172	1	194	18	298	3.239E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q8CWX8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8CWX8-F1-model_v4 Signal recognition particle receptor FtsY	0.163	175	138	30	195	323	497	4.128E+00	20
+DESULFOASV1_0932_arylesterase	AF-Q9I5A5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q9I5A5-F1-model_v4 Phosphate acetyltransferase	0.088	167	115	31	157	32	198	3.239E+00	20
+DESULFOASV1_0932_arylesterase	AF-A3MA34-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3MA34-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.108	162	117	30	191	16	147	9.645E+00	19
+DESULFOASV1_0932_arylesterase	AF-A6LC86-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A6LC86-F1-model_v4 Pyridoxine 5'-phosphate synthase	0.150	183	145	30	200	2	184	8.544E+00	19
+DESULFOASV1_0932_arylesterase	AF-B1KU65-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B1KU65-F1-model_v4 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	0.086	145	113	73	197	143	287	9.078E+00	19
+DESULFOASV1_0932_arylesterase	AF-C1AQD3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C1AQD3-F1-model_v4 Lipoyl synthase	0.151	186	124	47	193	125	310	2.869E+00	19
+DESULFOASV1_0932_arylesterase	AF-Q3MGS5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q3MGS5-F1-model_v4 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	0.111	146	114	73	201	151	296	7.568E+00	19
+DESULFOASV1_0932_arylesterase	AF-B5FBJ6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B5FBJ6-F1-model_v4 Lipoyl synthase	0.095	128	111	33	156	130	257	7.123E+00	19
+DESULFOASV1_0932_arylesterase	AF-Q0TK45-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0TK45-F1-model_v4 Lipoyl synthase	0.137	151	118	63	200	107	257	6.704E+00	19
+DESULFOASV1_0932_arylesterase	AF-Q7VKB1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q7VKB1-F1-model_v4 Lipoyl synthase	0.105	114	98	47	156	153	266	9.645E+00	19
+DESULFOASV1_0932_arylesterase	AF-P61521-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P61521-F1-model_v4 Argininosuccinate synthase	0.123	162	139	30	191	3	162	8.544E+00	19
+DESULFOASV1_0932_arylesterase	AF-A5CDP5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5CDP5-F1-model_v4 Phosphoglycerate kinase	0.084	212	147	31	191	189	400	9.645E+00	19
+DESULFOASV1_0932_arylesterase	AF-Q4DYL7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q4DYL7-F1-model_v4 Lipoyl synthase 2, mitochondrial	0.105	137	110	65	201	173	296	7.568E+00	19
+DESULFOASV1_0932_arylesterase	AF-A5IFN1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5IFN1-F1-model_v4 Putative thymidine phosphorylase	0.125	218	156	19	197	172	389	8.544E+00	19
+DESULFOASV1_0932_arylesterase	AF-P0C644-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P0C644-F1-model_v4 Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 1	0.127	171	100	1	171	34	148	7.123E+00	19
+DESULFOASV1_0932_arylesterase	AF-A2ARP1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A2ARP1-F1-model_v4 Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 1	0.124	122	102	1	117	32	153	7.568E+00	19
+DESULFOASV1_0932_arylesterase	AF-B7GUW3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7GUW3-F1-model_v4 6,7-dimethyl-8-ribityllumazine synthase	0.113	162	116	30	191	16	147	9.078E+00	18
+DESULFOASV1_0932_arylesterase	AF-A9AZD9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9AZD9-F1-model_v4 Thiamine-phosphate synthase	0.086	200	148	29	191	5	204	3.239E+00	18
+DESULFOASV1_0932_arylesterase	AF-B9DNM2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9DNM2-F1-model_v4 Putative pyruvate, phosphate dikinase regulatory protein	0.081	245	156	30	200	2	246	4.951E+00	18
+DESULFOASV1_0932_arylesterase	AF-P42418-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P42418-F1-model_v4 Protein IolH	0.116	167	121	34	200	3	140	6.310E+00	18
+DESULFOASV1_0932_arylesterase	AF-A1KKR0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1KKR0-F1-model_v4 Lipoyl synthase	0.150	201	131	39	193	110	310	3.885E+00	18
+DESULFOASV1_0932_arylesterase	AF-A5U4P6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5U4P6-F1-model_v4 Lipoyl synthase	0.150	201	131	39	193	110	310	3.885E+00	18
+DESULFOASV1_0932_arylesterase	AF-P9WK90-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P9WK90-F1-model_v4 Lipoyl synthase	0.150	201	131	39	193	110	310	3.885E+00	18
+DESULFOASV1_0932_arylesterase	AF-Q8YUI2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q8YUI2-F1-model_v4 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	0.111	146	114	73	201	151	296	9.078E+00	18
+DESULFOASV1_0932_arylesterase	AF-P60719-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P60719-F1-model_v4 Lipoyl synthase	0.139	151	118	63	200	107	257	8.544E+00	18
+DESULFOASV1_0932_arylesterase	AF-A7MY96-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7MY96-F1-model_v4 Lipoyl synthase	0.118	131	102	63	193	107	223	9.078E+00	18
+DESULFOASV1_0932_arylesterase	AF-B6I137-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B6I137-F1-model_v4 Lipoyl synthase	0.137	151	118	63	200	107	257	7.568E+00	18
+DESULFOASV1_0932_arylesterase	AF-A5F2Y0-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A5F2Y0-F1-model_v4 Lipoyl synthase	0.089	124	111	33	155	130	253	6.310E+00	18
+DESULFOASV1_0932_arylesterase	AF-A9L014-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9L014-F1-model_v4 Lipoyl synthase	0.141	136	101	63	198	107	224	9.078E+00	18
+DESULFOASV1_0932_arylesterase	AF-A4Y9G2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4Y9G2-F1-model_v4 Lipoyl synthase	0.141	136	101	63	198	107	224	8.544E+00	18
+DESULFOASV1_0932_arylesterase	AF-A3Q1S8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A3Q1S8-F1-model_v4 Lipoyl synthase	0.170	141	115	51	191	150	289	5.261E+00	18
+DESULFOASV1_0932_arylesterase	AF-Q0RFE8-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q0RFE8-F1-model_v4 Lipoyl synthase	0.118	184	134	49	201	134	317	3.885E+00	18
+DESULFOASV1_0932_arylesterase	AF-A4H9Z3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A4H9Z3-F1-model_v4 Lipoyl synthase, mitochondrial	0.090	214	136	48	197	146	359	3.885E+00	18
+DESULFOASV1_0932_arylesterase	AF-Q28RQ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q28RQ1-F1-model_v4 Phosphoglycerate kinase	0.077	198	147	31	190	184	381	6.310E+00	18
+DESULFOASV1_0932_arylesterase	AF-P62419-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P62419-F1-model_v4 Phosphoglycerate kinase	0.084	201	153	23	190	186	386	6.704E+00	18
+DESULFOASV1_0932_arylesterase	AF-Q1MC31-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q1MC31-F1-model_v4 Phosphoglycerate kinase	0.097	212	153	31	200	190	401	7.123E+00	18
+DESULFOASV1_0932_arylesterase	AF-Q2FTS5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2FTS5-F1-model_v4 AMP phosphorylase	0.143	167	120	19	159	149	315	4.951E+00	18
+DESULFOASV1_0932_arylesterase	AF-Q5RDF1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q5RDF1-F1-model_v4 Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 1	0.115	171	101	1	171	32	146	8.544E+00	18
+DESULFOASV1_0932_arylesterase	AF-A9VNX6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9VNX6-F1-model_v4 Lipoyl synthase	0.126	196	144	29	194	102	297	7.123E+00	17
+DESULFOASV1_0932_arylesterase	AF-B9J3H2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B9J3H2-F1-model_v4 Lipoyl synthase	0.122	196	145	29	194	102	297	8.544E+00	17
+DESULFOASV1_0932_arylesterase	AF-B7HUW3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7HUW3-F1-model_v4 Lipoyl synthase	0.101	182	129	50	194	116	297	6.704E+00	17
+DESULFOASV1_0932_arylesterase	AF-A7ZXQ4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7ZXQ4-F1-model_v4 Lipoyl synthase	0.139	151	118	63	200	107	257	9.078E+00	17
+DESULFOASV1_0932_arylesterase	AF-A9MV74-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9MV74-F1-model_v4 Lipoyl synthase	0.129	151	119	63	200	107	257	7.123E+00	17
+DESULFOASV1_0932_arylesterase	AF-P93832-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-P93832-F1-model_v4 3-isopropylmalate dehydrogenase 2, chloroplastic	0.118	287	168	1	192	9	295	5.589E+00	17
+DESULFOASV1_0932_arylesterase	AF-A7Z050-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A7Z050-F1-model_v4 Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase 1	0.108	136	115	1	136	32	161	7.568E+00	17
+DESULFOASV1_0932_arylesterase	AF-C3LCA6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3LCA6-F1-model_v4 Lipoyl synthase	0.137	196	142	29	194	102	297	9.078E+00	16
+DESULFOASV1_0932_arylesterase	AF-Q2RT68-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-Q2RT68-F1-model_v4 Lipoyl synthase	0.094	199	149	33	197	115	313	4.128E+00	16
+DESULFOASV1_0932_arylesterase	AF-A1SJ19-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1SJ19-F1-model_v4 Lipoyl synthase	0.153	177	130	41	194	138	314	9.645E+00	16
+DESULFOASV1_0932_arylesterase	AF-B7L9H2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7L9H2-F1-model_v4 Lipoyl synthase	0.127	151	120	63	200	107	257	9.078E+00	16
+DESULFOASV1_0932_arylesterase	AF-B7M5F5-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7M5F5-F1-model_v4 Lipoyl synthase	0.150	151	116	63	200	107	257	8.544E+00	16
+DESULFOASV1_0932_arylesterase	AF-B7UKR9-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7UKR9-F1-model_v4 Lipoyl synthase	0.150	151	116	63	200	107	257	9.078E+00	16
+DESULFOASV1_0932_arylesterase	AF-B7LLI3-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7LLI3-F1-model_v4 Lipoyl synthase	0.129	151	119	63	200	107	257	9.078E+00	16
+DESULFOASV1_0932_arylesterase	AF-B7MFQ1-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7MFQ1-F1-model_v4 Lipoyl synthase	0.150	151	116	63	200	107	257	9.645E+00	16
+DESULFOASV1_0932_arylesterase	AF-B7NLY7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B7NLY7-F1-model_v4 Lipoyl synthase	0.129	151	119	63	200	107	257	8.041E+00	16
+DESULFOASV1_0932_arylesterase	AF-A9WGD2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A9WGD2-F1-model_v4 Riboflavin-binding protein RibY	0.121	115	76	1	88	4	118	6.310E+00	16
+DESULFOASV1_0932_arylesterase	AF-C3MIJ2-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-C3MIJ2-F1-model_v4 Phosphoglycerate kinase	0.089	210	152	31	198	189	398	9.645E+00	16
+DESULFOASV1_0932_arylesterase	AF-A0QEY6-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0QEY6-F1-model_v4 Lipoyl synthase	0.133	169	122	51	192	139	307	4.128E+00	15
+DESULFOASV1_0932_arylesterase	AF-B2HHL4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-B2HHL4-F1-model_v4 Lipoyl synthase	0.126	174	128	51	197	149	322	2.700E+00	15
+DESULFOASV1_0932_arylesterase	AF-A0PNH7-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A0PNH7-F1-model_v4 Lipoyl synthase	0.126	174	128	51	197	149	322	3.657E+00	14
+DESULFOASV1_0932_arylesterase	AF-A1UIB4-F1-model_v4	DESULFOASV1_0932_arylesterase	AF-A1UIB4-F1-model_v4 Lipoyl synthase	0.155	166	117	51	189	150	315	6.310E+00	14

@@ -1,0 +1,987 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_2775_YitT_family_protein	AF-P94357-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P94357-F1-model_v4 UPF0750 membrane protein YxkD	0.285	269	192	9	277	5	273	9.187E-23	993
+DESULFOASV1_2775_YitT_family_protein	AF-P42978-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P42978-F1-model_v4 UPF0750 membrane protein YpjC	0.333	279	184	1	277	1	279	1.709E-22	949
+DESULFOASV1_2775_YitT_family_protein	AF-P39803-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P39803-F1-model_v4 UPF0750 membrane protein YitT	0.286	271	190	9	275	6	276	2.199E-19	832
+DESULFOASV1_2775_YitT_family_protein	AF-P54478-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P54478-F1-model_v4 UPF0750 membrane protein YqfU	0.258	282	205	2	278	8	289	1.838E-20	795
+DESULFOASV1_2775_YitT_family_protein	AF-O34792-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O34792-F1-model_v4 UPF0750 membrane protein YvjA	0.272	271	196	8	278	10	279	2.962E-20	779
+DESULFOASV1_2775_YitT_family_protein	AF-P96672-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P96672-F1-model_v4 UPF0750 membrane protein YdeO	0.264	275	201	8	281	14	288	1.999E-19	770
+DESULFOASV1_2775_YitT_family_protein	AF-P75134-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P75134-F1-model_v4 Uncharacterized protein MG443 homolog	0.148	362	233	1	275	33	394	2.032E-12	464
+DESULFOASV1_2775_YitT_family_protein	AF-Q49432-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q49432-F1-model_v4 Uncharacterized protein MG432	0.165	368	234	1	281	24	391	4.009E-13	458
+DESULFOASV1_2775_YitT_family_protein	AF-P47681-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P47681-F1-model_v4 Uncharacterized protein MG443	0.158	359	231	1	275	31	389	2.344E-12	445
+DESULFOASV1_2775_YitT_family_protein	AF-P75166-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P75166-F1-model_v4 Uncharacterized protein MG432 homolog	0.164	357	228	2	275	25	381	6.388E-12	430
+DESULFOASV1_2775_YitT_family_protein	AF-O06740-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O06740-F1-model_v4 UPF0750 membrane protein YitE	0.171	186	153	9	193	8	193	1.249E-07	371
+DESULFOASV1_2775_YitT_family_protein	AF-P55815-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P55815-F1-model_v4 Uncharacterized protein in cccA 5'region	0.281	150	107	130	279	1	150	2.615E-09	340
+DESULFOASV1_2775_YitT_family_protein	AF-P27712-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P27712-F1-model_v4 Uncharacterized protein in fibril gene 3'region	0.123	293	182	8	216	68	360	1.969E-05	197
+DESULFOASV1_2775_YitT_family_protein	AF-Q04UZ1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q04UZ1-F1-model_v4 UPF0316 protein LBJ_0597	0.142	168	131	106	273	19	172	8.337E-06	190
+DESULFOASV1_2775_YitT_family_protein	AF-Q04YI7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q04YI7-F1-model_v4 UPF0316 protein LBL_2483	0.142	168	131	106	273	19	172	9.172E-06	188
+DESULFOASV1_2775_YitT_family_protein	AF-Q8F8F1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8F8F1-F1-model_v4 UPF0316 protein LA_0606	0.132	183	156	97	279	1	181	3.703E-06	185
+DESULFOASV1_2775_YitT_family_protein	AF-C1FT66-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1FT66-F1-model_v4 UPF0316 protein CLM_0701	0.166	147	117	134	274	18	164	2.065E-05	182
+DESULFOASV1_2775_YitT_family_protein	AF-A3DHI6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3DHI6-F1-model_v4 UPF0316 protein Cthe_2213	0.169	174	135	106	279	15	178	1.551E-05	182
+DESULFOASV1_2775_YitT_family_protein	AF-P61547-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P61547-F1-model_v4 UPF0316 protein LIC_12973	0.140	187	157	92	278	7	189	4.273E-06	182
+DESULFOASV1_2775_YitT_family_protein	AF-Q24WB0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q24WB0-F1-model_v4 UPF0316 protein DSY1893	0.131	178	145	106	283	7	174	7.948E-06	180
+DESULFOASV1_2775_YitT_family_protein	AF-C4L5I5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4L5I5-F1-model_v4 UPF0316 protein EAT1b_0871	0.134	169	136	106	274	3	160	1.344E-05	179
+DESULFOASV1_2775_YitT_family_protein	AF-O34624-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O34624-F1-model_v4 UPF0316 protein YebE	0.136	174	141	106	279	12	175	1.409E-05	179
+DESULFOASV1_2775_YitT_family_protein	AF-Q8ESA3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8ESA3-F1-model_v4 UPF0316 protein OB0738	0.127	174	142	106	279	8	171	7.577E-06	179
+DESULFOASV1_2775_YitT_family_protein	AF-B1YKE7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1YKE7-F1-model_v4 UPF0316 protein Exig_2248	0.134	169	136	106	274	3	160	1.626E-05	178
+DESULFOASV1_2775_YitT_family_protein	AF-Q9KF65-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9KF65-F1-model_v4 UPF0316 protein BH0621	0.131	175	143	106	280	12	176	6.566E-06	178
+DESULFOASV1_2775_YitT_family_protein	AF-B8G014-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8G014-F1-model_v4 UPF0316 protein Dhaf_3052	0.131	178	145	106	283	7	174	1.281E-05	176
+DESULFOASV1_2775_YitT_family_protein	AF-Q65MT6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q65MT6-F1-model_v4 UPF0316 protein BLi00691/BL01474	0.134	174	141	106	279	12	175	1.058E-05	176
+DESULFOASV1_2775_YitT_family_protein	AF-B9DMS4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9DMS4-F1-model_v4 UPF0316 protein Sca_1484	0.167	172	137	105	276	7	171	7.577E-06	176
+DESULFOASV1_2775_YitT_family_protein	AF-Q6AJ39-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6AJ39-F1-model_v4 UPF0316 protein DP2912	0.174	168	131	107	274	17	175	4.876E-05	176
+DESULFOASV1_2775_YitT_family_protein	AF-B1IDK9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1IDK9-F1-model_v4 UPF0316 protein CLD_0163	0.137	170	139	106	275	4	165	2.383E-05	175
+DESULFOASV1_2775_YitT_family_protein	AF-A7FRK3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7FRK3-F1-model_v4 UPF0316 protein CLB_0632	0.150	174	141	106	279	4	170	2.383E-05	174
+DESULFOASV1_2775_YitT_family_protein	AF-A8FAL9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8FAL9-F1-model_v4 UPF0316 protein BPUM_0594	0.129	174	142	106	279	12	175	1.706E-05	174
+DESULFOASV1_2775_YitT_family_protein	AF-A5HZD5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5HZD5-F1-model_v4 UPF0316 protein CBO0591/CLC_0646	0.138	169	138	106	274	4	164	2.499E-05	173
+DESULFOASV1_2775_YitT_family_protein	AF-Q67MN1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q67MN1-F1-model_v4 UPF0316 protein STH2077	0.170	169	130	106	274	12	169	1.478E-05	173
+DESULFOASV1_2775_YitT_family_protein	AF-A7Z241-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7Z241-F1-model_v4 UPF0316 protein RBAM_006820	0.115	171	142	106	276	12	172	3.025E-05	173
+DESULFOASV1_2775_YitT_family_protein	AF-A7GAZ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7GAZ7-F1-model_v4 UPF0316 protein CLI_0673	0.143	170	138	106	275	4	165	2.166E-05	172
+DESULFOASV1_2775_YitT_family_protein	AF-C3L101-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3L101-F1-model_v4 UPF0316 protein CLJ_B0679	0.137	170	139	106	275	4	165	3.173E-05	172
+DESULFOASV1_2775_YitT_family_protein	AF-Q92AN2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q92AN2-F1-model_v4 UPF0316 protein lin1888	0.145	178	146	104	281	1	172	2.383E-05	172
+DESULFOASV1_2775_YitT_family_protein	AF-Q0AZJ4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0AZJ4-F1-model_v4 UPF0316 protein Swol_0526	0.171	147	118	137	279	21	167	2.383E-05	171
+DESULFOASV1_2775_YitT_family_protein	AF-B9ISM3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9ISM3-F1-model_v4 UPF0316 protein BCQ_3166	0.135	174	141	106	279	3	166	3.173E-05	171
+DESULFOASV1_2775_YitT_family_protein	AF-Q2G2R9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2G2R9-F1-model_v4 UPF0316 protein SAOUHSC_02131	0.149	174	139	106	279	11	174	1.706E-05	171
+DESULFOASV1_2775_YitT_family_protein	AF-A7I6E8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7I6E8-F1-model_v4 UPF0316 protein Mboo_0791	0.174	169	128	106	274	42	197	2.065E-05	171
+DESULFOASV1_2775_YitT_family_protein	AF-A3CVP0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3CVP0-F1-model_v4 UPF0316 protein Memar_1511	0.146	169	132	106	274	22	176	1.344E-05	170
+DESULFOASV1_2775_YitT_family_protein	AF-A1SUM3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1SUM3-F1-model_v4 UPF0316 protein Ping_1367	0.153	176	136	106	281	4	165	2.499E-05	169
+DESULFOASV1_2775_YitT_family_protein	AF-Q5WH46-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5WH46-F1-model_v4 UPF0316 protein ABC1774	0.140	175	141	106	280	4	168	2.621E-05	169
+DESULFOASV1_2775_YitT_family_protein	AF-Q5HEL0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5HEL0-F1-model_v4 UPF0316 protein SACOL1973	0.146	170	136	106	275	11	170	1.969E-05	169
+DESULFOASV1_2775_YitT_family_protein	AF-Q8Y6B5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8Y6B5-F1-model_v4 UPF0316 protein lmo1776	0.137	175	142	106	280	7	171	2.750E-05	168
+DESULFOASV1_2775_YitT_family_protein	AF-C1ELN0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1ELN0-F1-model_v4 UPF0316 protein BCA_3456	0.134	175	142	106	280	3	167	3.491E-05	168
+DESULFOASV1_2775_YitT_family_protein	AF-B1KVR4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1KVR4-F1-model_v4 UPF0316 protein CLK_3798	0.144	169	137	106	274	4	164	3.328E-05	167
+DESULFOASV1_2775_YitT_family_protein	AF-Q49YV5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q49YV5-F1-model_v4 UPF0316 protein SSP0880	0.124	176	147	105	280	7	175	2.065E-05	167
+DESULFOASV1_2775_YitT_family_protein	AF-Q6GFE5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6GFE5-F1-model_v4 UPF0316 protein SAR2004	0.149	174	139	106	279	11	174	2.621E-05	167
+DESULFOASV1_2775_YitT_family_protein	AF-Q2YU61-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2YU61-F1-model_v4 UPF0316 protein SAB1848c	0.146	170	136	106	275	11	170	2.499E-05	167
+DESULFOASV1_2775_YitT_family_protein	AF-A0AJN0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0AJN0-F1-model_v4 UPF0316 protein lwe1794	0.139	178	147	104	281	1	172	2.884E-05	166
+DESULFOASV1_2775_YitT_family_protein	AF-A0RGF6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0RGF6-F1-model_v4 UPF0316 protein BALH_3038	0.135	174	141	106	279	3	166	4.876E-05	166
+DESULFOASV1_2775_YitT_family_protein	AF-C3LBH7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3LBH7-F1-model_v4 UPF0316 protein BAMEG_1207	0.135	174	141	106	279	3	166	4.876E-05	166
+DESULFOASV1_2775_YitT_family_protein	AF-A5IU79-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5IU79-F1-model_v4 UPF0316 protein SaurJH9_1967	0.146	170	136	106	275	11	170	2.621E-05	166
+DESULFOASV1_2775_YitT_family_protein	AF-A6TLV6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6TLV6-F1-model_v4 UPF0316 protein Amet_0954	0.172	176	137	106	281	6	171	5.626E-05	165
+DESULFOASV1_2775_YitT_family_protein	AF-Q71YP2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q71YP2-F1-model_v4 UPF0316 protein LMOf2365_1801	0.148	145	119	137	277	24	168	6.493E-05	165
+DESULFOASV1_2775_YitT_family_protein	AF-C3P314-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3P314-F1-model_v4 UPF0316 protein BAA_3454	0.135	174	141	106	279	3	166	5.364E-05	164
+DESULFOASV1_2775_YitT_family_protein	AF-Q81MZ9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q81MZ9-F1-model_v4 UPF0316 protein BA_3420/GBAA_3420/BAS3170	0.135	174	141	106	279	3	166	4.876E-05	164
+DESULFOASV1_2775_YitT_family_protein	AF-A8Z2S6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8Z2S6-F1-model_v4 UPF0316 protein USA300HOU_1913	0.140	170	137	106	275	11	170	2.383E-05	164
+DESULFOASV1_2775_YitT_family_protein	AF-A6QID9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6QID9-F1-model_v4 UPF0316 protein NWMN_1849	0.146	170	136	106	275	11	170	3.491E-05	164
+DESULFOASV1_2775_YitT_family_protein	AF-P61545-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P61545-F1-model_v4 UPF0316 protein MW1852	0.146	170	136	106	275	11	170	3.491E-05	164
+DESULFOASV1_2775_YitT_family_protein	AF-P61543-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P61543-F1-model_v4 UPF0316 protein SAV1911	0.146	170	136	106	275	11	170	3.491E-05	164
+DESULFOASV1_2775_YitT_family_protein	AF-Q3A1T4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3A1T4-F1-model_v4 UPF0316 protein Pcar_2434	0.160	174	144	100	273	2	173	5.969E-06	163
+DESULFOASV1_2775_YitT_family_protein	AF-Q8CRT4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8CRT4-F1-model_v4 UPF0316 protein SE_1595	0.149	171	139	105	275	7	170	2.383E-05	163
+DESULFOASV1_2775_YitT_family_protein	AF-A8MLK3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8MLK3-F1-model_v4 UPF0316 protein Clos_0555	0.166	169	128	106	274	10	164	4.432E-05	162
+DESULFOASV1_2775_YitT_family_protein	AF-B1HYA2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1HYA2-F1-model_v4 UPF0316 protein Bsph_0745	0.144	171	137	106	276	3	163	7.858E-05	162
+DESULFOASV1_2775_YitT_family_protein	AF-Q638L6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q638L6-F1-model_v4 UPF0316 protein BCE33L3064	0.135	174	141	106	279	3	166	6.493E-05	162
+DESULFOASV1_2775_YitT_family_protein	AF-B7JG51-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7JG51-F1-model_v4 UPF0316 protein BCAH820_3389	0.135	174	141	106	279	3	166	7.143E-05	162
+DESULFOASV1_2775_YitT_family_protein	AF-A6U317-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6U317-F1-model_v4 UPF0316 protein SaurJH1_2001	0.140	170	137	106	275	11	170	3.025E-05	162
+DESULFOASV1_2775_YitT_family_protein	AF-A7X441-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7X441-F1-model_v4 UPF0316 protein SAHV_1896	0.146	170	136	106	275	11	170	4.028E-05	162
+DESULFOASV1_2775_YitT_family_protein	AF-P37505-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P37505-F1-model_v4 Uncharacterized protein YyaS	0.154	187	154	11	193	2	188	1.378E-03	162
+DESULFOASV1_2775_YitT_family_protein	AF-Q88XQ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q88XQ3-F1-model_v4 UPF0316 protein lp_1140	0.157	175	139	101	275	1	166	5.364E-05	161
+DESULFOASV1_2775_YitT_family_protein	AF-Q2FLQ6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2FLQ6-F1-model_v4 UPF0316 protein Mhun_0543	0.142	170	133	106	275	20	175	6.493E-05	161
+DESULFOASV1_2775_YitT_family_protein	AF-P61544-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P61544-F1-model_v4 UPF0316 protein SA1727	0.146	170	136	106	275	11	170	4.432E-05	161
+DESULFOASV1_2775_YitT_family_protein	AF-Q4L7M5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4L7M5-F1-model_v4 UPF0316 protein SH1041	0.156	170	134	106	275	11	170	2.621E-05	161
+DESULFOASV1_2775_YitT_family_protein	AF-Q30YE7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q30YE7-F1-model_v4 UPF0316 protein Dde_2502	0.106	215	143	60	274	6	166	2.166E-05	160
+DESULFOASV1_2775_YitT_family_protein	AF-C1KW75-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1KW75-F1-model_v4 UPF0316 protein Lm4b_01790	0.131	175	139	106	280	11	171	6.190E-05	160
+DESULFOASV1_2775_YitT_family_protein	AF-Q21N99-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q21N99-F1-model_v4 UPF0316 protein Sde_0566	0.152	146	121	137	280	29	174	1.393E-04	160
+DESULFOASV1_2775_YitT_family_protein	AF-Q6HG49-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6HG49-F1-model_v4 UPF0316 protein BT9727_3154	0.134	175	142	106	280	3	167	7.858E-05	160
+DESULFOASV1_2775_YitT_family_protein	AF-Q5HN24-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5HN24-F1-model_v4 UPF0316 protein SERP1448	0.168	170	132	106	275	11	170	3.491E-05	160
+DESULFOASV1_2775_YitT_family_protein	AF-B7IPN4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7IPN4-F1-model_v4 UPF0316 protein BCG9842_B1857	0.136	175	142	106	280	3	167	4.432E-05	159
+DESULFOASV1_2775_YitT_family_protein	AF-B7HY28-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7HY28-F1-model_v4 UPF0316 protein BCAH187_A3394	0.137	174	141	106	279	3	166	4.432E-05	159
+DESULFOASV1_2775_YitT_family_protein	AF-B7H698-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7H698-F1-model_v4 UPF0316 protein BCB4264_A3368	0.137	174	141	106	279	3	166	4.876E-05	158
+DESULFOASV1_2775_YitT_family_protein	AF-Q834N5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q834N5-F1-model_v4 UPF0316 protein EF_1609	0.153	173	142	108	280	5	173	3.491E-05	158
+DESULFOASV1_2775_YitT_family_protein	AF-Q2FFI4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2FFI4-F1-model_v4 UPF0316 protein SAUSA300_1892	0.140	170	137	106	275	11	170	4.028E-05	158
+DESULFOASV1_2775_YitT_family_protein	AF-Q57256-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q57256-F1-model_v4 Uncharacterized protein HI_0522	0.151	187	155	11	193	25	211	6.120E-04	158
+DESULFOASV1_2775_YitT_family_protein	AF-Q6G821-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6G821-F1-model_v4 UPF0316 protein SAS1835	0.140	170	137	106	275	11	170	5.114E-05	157
+DESULFOASV1_2775_YitT_family_protein	AF-B8DDY1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8DDY1-F1-model_v4 UPF0316 protein LMHCC_0787	0.138	173	143	104	276	1	167	7.143E-05	156
+DESULFOASV1_2775_YitT_family_protein	AF-A7GQJ0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7GQJ0-F1-model_v4 UPF0316 protein Bcer98_2136	0.142	174	140	106	279	3	166	5.626E-05	156
+DESULFOASV1_2775_YitT_family_protein	AF-P61546-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P61546-F1-model_v4 UPF0316 protein BCE_3390	0.137	174	141	106	279	3	166	5.626E-05	156
+DESULFOASV1_2775_YitT_family_protein	AF-Q81B38-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q81B38-F1-model_v4 UPF0316 protein BC_3353	0.137	174	141	106	279	3	166	5.901E-05	155
+DESULFOASV1_2775_YitT_family_protein	AF-A9VM05-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9VM05-F1-model_v4 UPF0316 protein BcerKBAB4_3093	0.136	175	142	106	280	3	167	5.626E-05	155
+DESULFOASV1_2775_YitT_family_protein	AF-A7I5W2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7I5W2-F1-model_v4 UPF0316 protein Mboo_0605	0.152	167	133	106	272	12	169	1.608E-04	149
+DESULFOASV1_2775_YitT_family_protein	AF-A4ILH7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4ILH7-F1-model_v4 UPF0316 protein GTNG_0803	0.139	171	139	106	276	4	165	5.626E-05	146
+DESULFOASV1_2775_YitT_family_protein	AF-P37538-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P37538-F1-model_v4 Cyclic di-AMP receptor A	0.101	108	70	197	275	2	109	4.332E-03	143
+DESULFOASV1_2775_YitT_family_protein	AF-O34927-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O34927-F1-model_v4 Uncharacterized membrane protein YczE	0.182	195	151	9	193	2	196	1.924E-03	137
+DESULFOASV1_2775_YitT_family_protein	AF-Q8FMY8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8FMY8-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.097	81	69	196	272	253	333	1.554E-01	106
+DESULFOASV1_2775_YitT_family_protein	AF-C6BXJ6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C6BXJ6-F1-model_v4 Putative nickel insertion protein	0.094	84	70	196	273	276	359	1.284E-01	103
+DESULFOASV1_2775_YitT_family_protein	AF-A6TKJ0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6TKJ0-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.117	84	70	194	273	278	361	1.973E-01	102
+DESULFOASV1_2775_YitT_family_protein	AF-B1GYP6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1GYP6-F1-model_v4 Putative nickel insertion protein	0.060	81	71	196	272	270	350	2.505E-01	101
+DESULFOASV1_2775_YitT_family_protein	AF-O59172-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O59172-F1-model_v4 UPF0166 protein PH1503	0.118	110	77	194	281	7	116	7.242E-02	99
+DESULFOASV1_2775_YitT_family_protein	AF-Q5HRE0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5HRE0-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.154	83	66	195	273	244	326	2.628E-01	98
+DESULFOASV1_2775_YitT_family_protein	AF-P0CW49-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0CW49-F1-model_v4 Uncharacterized protein MMP0618	0.128	108	74	196	281	2	109	3.712E-02	97
+DESULFOASV1_2775_YitT_family_protein	AF-Q4A0S3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4A0S3-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.121	81	65	195	269	244	324	1.284E-01	97
+DESULFOASV1_2775_YitT_family_protein	AF-B3E9Z4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3E9Z4-F1-model_v4 Putative nickel insertion protein	0.084	81	67	197	270	256	336	1.881E-01	95
+DESULFOASV1_2775_YitT_family_protein	AF-Q01904-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q01904-F1-model_v4 Uncharacterized protein ssr2439	0.120	73	62	196	267	19	91	8.765E-02	94
+DESULFOASV1_2775_YitT_family_protein	AF-Q8TTK2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8TTK2-F1-model_v4 Putative nickel insertion protein	0.096	82	70	196	273	246	327	4.235E-01	93
+DESULFOASV1_2775_YitT_family_protein	AF-Q2NF52-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2NF52-F1-model_v4 Putative nickel insertion protein	0.101	88	74	193	275	252	339	2.891E-01	93
+DESULFOASV1_2775_YitT_family_protein	AF-B9LU14-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9LU14-F1-model_v4 ATP phosphoribosyltransferase	0.152	103	86	172	274	195	296	9.194E-02	92
+DESULFOASV1_2775_YitT_family_protein	AF-Q8UDP9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8UDP9-F1-model_v4 Ribosomal protein L11 methyltransferase	0.096	82	69	196	272	3	84	9.194E-02	90
+DESULFOASV1_2775_YitT_family_protein	AF-Q58641-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q58641-F1-model_v4 Uncharacterized protein MJ1244	0.077	102	73	196	275	2	103	5.185E-02	89
+DESULFOASV1_2775_YitT_family_protein	AF-Q8PWH0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8PWH0-F1-model_v4 Putative nickel insertion protein	0.096	82	70	196	273	246	327	5.640E-01	89
+DESULFOASV1_2775_YitT_family_protein	AF-B1L8M5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1L8M5-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.073	81	71	195	272	256	336	4.887E-01	88
+DESULFOASV1_2775_YitT_family_protein	AF-P53553-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P53553-F1-model_v4 Aspartokinase	0.115	74	65	195	268	260	333	1.224E-01	88
+DESULFOASV1_2775_YitT_family_protein	AF-P0CW48-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0CW48-F1-model_v4 Uncharacterized protein in radB 5'region	0.119	108	75	196	281	2	109	5.704E-02	87
+DESULFOASV1_2775_YitT_family_protein	AF-Q98KD0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q98KD0-F1-model_v4 Ribosomal protein L11 methyltransferase	0.154	82	64	196	272	2	83	2.070E-01	87
+DESULFOASV1_2775_YitT_family_protein	AF-B5YFE5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5YFE5-F1-model_v4 Putative nickel insertion protein	0.096	82	68	195	270	244	325	3.181E-01	87
+DESULFOASV1_2775_YitT_family_protein	AF-O28301-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O28301-F1-model_v4 Divalent-cation tolerance protein CutA	0.111	90	70	197	276	2	91	1.710E-01	86
+DESULFOASV1_2775_YitT_family_protein	AF-Q5JDG6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5JDG6-F1-model_v4 Divalent-cation tolerance protein CutA	0.055	90	72	197	273	2	91	1.881E-01	86
+DESULFOASV1_2775_YitT_family_protein	AF-Q833U9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q833U9-F1-model_v4 Putative nickel insertion protein	0.085	81	68	196	270	183	263	3.181E-01	86
+DESULFOASV1_2775_YitT_family_protein	AF-A5N505-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5N505-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.066	88	76	192	273	254	341	2.891E-01	86
+DESULFOASV1_2775_YitT_family_protein	AF-P61489-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P61489-F1-model_v4 Aspartokinase	0.098	79	66	194	267	258	336	1.347E-01	86
+DESULFOASV1_2775_YitT_family_protein	AF-Q58642-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q58642-F1-model_v4 Uncharacterized protein MJ1245	0.129	108	70	196	276	4	111	1.167E-01	85
+DESULFOASV1_2775_YitT_family_protein	AF-Q58782-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q58782-F1-model_v4 Putative nickel insertion protein	0.144	82	65	196	272	236	317	3.670E-01	85
+DESULFOASV1_2775_YitT_family_protein	AF-B8E2H4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8E2H4-F1-model_v4 Putative nickel insertion protein	0.081	85	72	193	271	242	326	3.336E-01	85
+DESULFOASV1_2775_YitT_family_protein	AF-B1XPA6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1XPA6-F1-model_v4 Putative nickel insertion protein	0.047	83	71	196	270	267	349	2.628E-01	85
+DESULFOASV1_2775_YitT_family_protein	AF-Q2N9U6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2N9U6-F1-model_v4 Elongation factor 4	0.125	78	67	196	272	411	488	2.891E-01	85
+DESULFOASV1_2775_YitT_family_protein	AF-A1ALN7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1ALN7-F1-model_v4 Putative nickel insertion protein	0.113	86	72	192	273	244	329	7.878E-01	83
+DESULFOASV1_2775_YitT_family_protein	AF-A3DCC8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3DCC8-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.117	84	68	196	273	257	340	2.756E-01	83
+DESULFOASV1_2775_YitT_family_protein	AF-Q72KV2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q72KV2-F1-model_v4 Elongation factor 4	0.115	75	65	196	270	409	483	5.126E-01	83
+DESULFOASV1_2775_YitT_family_protein	AF-A0LLA7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0LLA7-F1-model_v4 Putative nickel insertion protein	0.137	86	66	196	273	243	328	2.628E-01	82
+DESULFOASV1_2775_YitT_family_protein	AF-Q3A1W7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3A1W7-F1-model_v4 Putative nickel insertion protein	0.082	84	70	197	273	247	330	3.850E-01	82
+DESULFOASV1_2775_YitT_family_protein	AF-Q8CTP4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8CTP4-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.071	82	69	195	269	243	324	4.887E-01	81
+DESULFOASV1_2775_YitT_family_protein	AF-Q7MSU1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7MSU1-F1-model_v4 Putative nickel insertion protein	0.060	81	71	197	272	248	328	8.667E-01	81
+DESULFOASV1_2775_YitT_family_protein	AF-P61488-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P61488-F1-model_v4 Aspartokinase	0.098	79	66	194	267	258	336	2.171E-01	81
+DESULFOASV1_2775_YitT_family_protein	AF-P08495-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P08495-F1-model_v4 Aspartokinase 2	0.062	76	67	197	268	261	336	3.336E-01	81
+DESULFOASV1_2775_YitT_family_protein	AF-Q5QYE7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5QYE7-F1-model_v4 UPF0250 protein IL0958	0.082	72	63	196	265	17	88	4.038E-01	80
+DESULFOASV1_2775_YitT_family_protein	AF-P44831-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P44831-F1-model_v4 Regulator of ribonuclease activity B	0.080	95	78	196	281	29	123	6.205E-01	80
+DESULFOASV1_2775_YitT_family_protein	AF-B5ED01-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5ED01-F1-model_v4 Putative nickel insertion protein	0.129	84	67	196	273	247	330	4.235E-01	80
+DESULFOASV1_2775_YitT_family_protein	AF-Q2JVS9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2JVS9-F1-model_v4 Putative nickel insertion protein	0.070	84	72	196	273	249	332	5.126E-01	80
+DESULFOASV1_2775_YitT_family_protein	AF-Q2JPU4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2JPU4-F1-model_v4 Putative nickel insertion protein	0.058	84	73	196	273	252	335	4.887E-01	80
+DESULFOASV1_2775_YitT_family_protein	AF-Q03432-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q03432-F1-model_v4 Formyltetrahydrofolate deformylase	0.106	75	63	196	266	3	77	4.442E-01	79
+DESULFOASV1_2775_YitT_family_protein	AF-A5GDB2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5GDB2-F1-model_v4 Putative nickel insertion protein	0.068	86	70	196	271	246	331	2.277E-01	79
+DESULFOASV1_2775_YitT_family_protein	AF-A5INL0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5INL0-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.072	82	71	195	271	251	332	4.442E-01	79
+DESULFOASV1_2775_YitT_family_protein	AF-F9UST1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-F9UST1-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.097	81	67	196	270	275	355	6.205E-01	79
+DESULFOASV1_2775_YitT_family_protein	AF-Q7NN71-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7NN71-F1-model_v4 Putative nickel insertion protein	0.056	87	74	195	273	267	353	4.442E-01	78
+DESULFOASV1_2775_YitT_family_protein	AF-Q8RDM5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8RDM5-F1-model_v4 UPF0735 ACT domain-containing protein FN1487	0.108	135	112	135	269	27	152	2.534E-02	77
+DESULFOASV1_2775_YitT_family_protein	AF-Q8PWS3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8PWS3-F1-model_v4 ATP phosphoribosyltransferase	0.130	104	89	171	274	187	289	1.973E-01	77
+DESULFOASV1_2775_YitT_family_protein	AF-C3MEL0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3MEL0-F1-model_v4 Ribosomal protein L11 methyltransferase	0.094	82	69	196	272	3	84	4.038E-01	77
+DESULFOASV1_2775_YitT_family_protein	AF-Q9EQ80-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9EQ80-F1-model_v4 NIF3-like protein 1	0.067	72	63	197	265	166	237	9.535E-01	77
+DESULFOASV1_2775_YitT_family_protein	AF-C6E6X2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C6E6X2-F1-model_v4 Putative nickel insertion protein	0.069	84	71	197	273	247	330	5.640E-01	77
+DESULFOASV1_2775_YitT_family_protein	AF-Q2RFJ5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2RFJ5-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.085	81	68	195	269	246	326	5.916E-01	77
+DESULFOASV1_2775_YitT_family_protein	AF-Q46CW7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q46CW7-F1-model_v4 ATP phosphoribosyltransferase	0.130	104	89	171	274	187	289	2.171E-01	76
+DESULFOASV1_2775_YitT_family_protein	AF-A5F2Y2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5F2Y2-F1-model_v4 UPF0250 protein VC0395_A0469/VC395_0960	0.109	72	61	197	265	21	92	6.205E-01	75
+DESULFOASV1_2775_YitT_family_protein	AF-A6VKX6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6VKX6-F1-model_v4 Regulator of ribonuclease activity B	0.106	90	72	196	276	31	120	1.211E+00	75
+DESULFOASV1_2775_YitT_family_protein	AF-P0A440-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A440-F1-model_v4 Formyltetrahydrofolate deformylase	0.120	78	64	196	269	5	82	5.377E-01	75
+DESULFOASV1_2775_YitT_family_protein	AF-B2USI5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2USI5-F1-model_v4 Elongation factor 4	0.105	74	64	196	269	409	480	7.160E-01	75
+DESULFOASV1_2775_YitT_family_protein	AF-B5E4T8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5E4T8-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	8.263E-01	75
+DESULFOASV1_2775_YitT_family_protein	AF-D0NKK0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-D0NKK0-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.105	74	64	196	269	460	531	7.878E-01	75
+DESULFOASV1_2775_YitT_family_protein	AF-Q9HWD2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9HWD2-F1-model_v4 Elongation factor G 1	0.097	96	84	176	269	593	688	3.181E-01	75
+DESULFOASV1_2775_YitT_family_protein	AF-B7M5F8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7M5F8-F1-model_v4 UPF0250 protein YbeD	0.083	72	62	197	265	16	87	7.510E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-B2VBJ9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2VBJ9-F1-model_v4 UPF0250 protein ETA_23570	0.055	72	64	197	265	16	87	7.510E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-A4W817-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4W817-F1-model_v4 UPF0250 protein Ent638_1166	0.067	74	64	196	265	14	87	8.667E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-Q4V7D6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4V7D6-F1-model_v4 NIF3-like protein 1	0.088	76	67	196	269	166	241	2.756E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-Q6AQ96-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6AQ96-F1-model_v4 Putative nickel insertion protein	0.087	88	73	193	273	244	331	3.670E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-B9M361-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9M361-F1-model_v4 Putative nickel insertion protein	0.070	82	68	196	269	246	327	6.205E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-Q39Z84-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q39Z84-F1-model_v4 Putative nickel insertion protein	0.081	84	69	196	271	246	329	7.878E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-Q24VE4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q24VE4-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.084	82	66	197	269	251	332	5.377E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-B0SRL4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0SRL4-F1-model_v4 Elongation factor 4	0.113	75	64	196	270	407	479	7.160E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-B0S8S7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0S8S7-F1-model_v4 Elongation factor 4	0.113	75	64	196	270	407	479	7.160E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-B7GKC4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7GKC4-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	412	484	5.916E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-C4YIT6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4YIT6-F1-model_v4 Translation factor GUF1, mitochondrial	0.103	75	65	196	270	460	532	9.535E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-Q3JMR0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3JMR0-F1-model_v4 Elongation factor G 2	0.088	116	104	168	282	579	694	1.630E-01	74
+DESULFOASV1_2775_YitT_family_protein	AF-A8AJH3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8AJH3-F1-model_v4 UPF0250 protein CKO_02527	0.066	74	64	196	265	14	87	8.667E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-B2TU87-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2TU87-F1-model_v4 UPF0250 protein YbeD	0.083	72	62	197	265	16	87	8.263E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-A1A8Q6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1A8Q6-F1-model_v4 UPF0250 protein YbeD	0.055	72	64	197	265	16	87	8.667E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-B6I140-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B6I140-F1-model_v4 UPF0250 protein YbeD	0.086	81	69	189	265	7	87	6.508E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-Q4QPL6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4QPL6-F1-model_v4 UPF0250 protein NTHI0035	0.106	74	62	196	265	19	92	7.510E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-A5UFK0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5UFK0-F1-model_v4 UPF0250 protein CGSHiGG_02625	0.106	74	62	196	265	19	92	7.510E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-A1QYR4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1QYR4-F1-model_v4 30S ribosomal protein S6	0.150	101	73	196	282	2	102	7.242E-02	73
+DESULFOASV1_2775_YitT_family_protein	AF-A7NIG2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7NIG2-F1-model_v4 Putative nickel insertion protein	0.096	82	67	195	269	245	326	1.100E+00	73
+DESULFOASV1_2775_YitT_family_protein	AF-B8G2K7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8G2K7-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.072	82	67	197	269	251	332	5.640E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-B7K2N3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7K2N3-F1-model_v4 Putative nickel insertion protein	0.083	81	67	197	270	268	348	2.891E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-A0RIT7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0RIT7-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	412	484	7.878E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-Q5SKA7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5SKA7-F1-model_v4 Elongation factor 4	0.137	75	64	196	270	409	483	5.916E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-C0MDV7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C0MDV7-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	9.090E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-Q1G9R4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1G9R4-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	7.878E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-A5DWY7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5DWY7-F1-model_v4 Translation factor GUF1, mitochondrial	0.103	75	65	196	270	480	552	9.535E-01	73
+DESULFOASV1_2775_YitT_family_protein	AF-B1JGB5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1JGB5-F1-model_v4 UPF0250 protein YPK_3025	0.054	72	64	197	265	16	87	8.263E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-A7ZXQ8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7ZXQ8-F1-model_v4 UPF0250 protein YbeD	0.054	74	65	196	265	14	87	1.049E+00	72
+DESULFOASV1_2775_YitT_family_protein	AF-A4TP07-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4TP07-F1-model_v4 UPF0250 protein YPDSF_2653	0.054	72	64	197	265	16	87	8.667E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-B7NLZ0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7NLZ0-F1-model_v4 UPF0250 protein YbeD	0.086	81	69	189	265	7	87	7.510E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-C5BGD7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5BGD7-F1-model_v4 UPF0250 protein NT01EI_2946	0.069	72	63	197	265	16	87	9.090E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-B2K876-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2K876-F1-model_v4 UPF0250 protein YPTS_1150	0.054	72	64	197	265	16	87	8.263E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q8ZDG8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8ZDG8-F1-model_v4 UPF0250 protein YPO2600/y1174/YP_1113	0.054	72	64	197	265	16	87	8.667E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-A1S8T9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1S8T9-F1-model_v4 UPF0250 protein Sama_2593	0.069	72	61	198	263	17	88	8.263E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q57424-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q57424-F1-model_v4 Uncharacterized protein HI_0647	0.114	262	193	8	269	19	237	2.117E-03	72
+DESULFOASV1_2775_YitT_family_protein	AF-P0A441-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A441-F1-model_v4 Formyltetrahydrofolate deformylase	0.120	78	64	196	269	5	82	6.826E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-O25827-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O25827-F1-model_v4 Aspartokinase	0.075	75	68	195	269	263	337	3.850E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q92142-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q92142-F1-model_v4 Tryptophan 5-hydroxylase	0.091	83	71	196	274	54	136	3.181E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-C4Z9E3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4Z9E3-F1-model_v4 Elongation factor 4	0.078	74	65	196	269	408	479	8.263E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q9ZM93-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9ZM93-F1-model_v4 Elongation factor 4	0.105	74	64	196	269	411	482	9.535E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q17X87-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q17X87-F1-model_v4 Elongation factor 4	0.080	74	65	196	269	411	482	6.508E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q2NJE6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2NJE6-F1-model_v4 Elongation factor 4	0.078	74	65	196	269	412	483	9.535E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-C1CKU6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1CKU6-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.000E+00	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q1WUE6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1WUE6-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	5.126E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-P65273-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P65273-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.049E+00	72
+DESULFOASV1_2775_YitT_family_protein	AF-C0M8H9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C0M8H9-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.049E+00	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q044A7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q044A7-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	7.878E-01	72
+DESULFOASV1_2775_YitT_family_protein	AF-A4HAG7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4HAG7-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.112	76	67	196	271	632	707	1.211E+00	72
+DESULFOASV1_2775_YitT_family_protein	AF-Q6D7M6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6D7M6-F1-model_v4 UPF0250 protein ECA1299	0.108	71	61	197	267	16	84	5.126E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-B7N9N7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7N9N7-F1-model_v4 UPF0250 protein YbeD	0.061	81	71	189	265	7	87	7.878E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-Q32IU9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q32IU9-F1-model_v4 UPF0250 protein YbeD	0.083	72	62	197	265	16	87	9.535E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-P0ADG3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0ADG3-F1-model_v4 Acetolactate synthase isozyme 2 small subunit	0.084	78	67	196	269	2	79	3.499E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-A7ZJ19-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7ZJ19-F1-model_v4 UPF0250 protein YbeD	0.061	81	71	189	265	7	87	7.878E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-P0ADG2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0ADG2-F1-model_v4 Acetolactate synthase isozyme 2 small subunit	0.082	80	69	196	271	2	81	4.038E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-P0ADG1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0ADG1-F1-model_v4 Acetolactate synthase isozyme 2 small subunit	0.082	80	69	196	271	2	81	3.850E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-P0ADG0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0ADG0-F1-model_v4 Acetolactate synthase isozyme 1 small subunit	0.108	79	70	194	272	6	84	4.038E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-Q8TU56-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8TU56-F1-model_v4 ATP phosphoribosyltransferase	0.113	104	90	171	274	187	289	4.887E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-P46586-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P46586-F1-model_v4 ATP phosphoribosyltransferase	0.161	94	77	179	272	204	296	5.377E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-P16331-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P16331-F1-model_v4 Phenylalanine-4-hydroxylase	0.101	77	65	196	268	34	110	5.916E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-B5ZBD4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5ZBD4-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	406	478	8.263E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-Q2SSF7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2SSF7-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	406	478	8.667E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-Q6MTR6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6MTR6-F1-model_v4 Elongation factor 4	0.103	75	65	196	270	406	478	9.090E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-A7HCF3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7HCF3-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	407	479	1.154E+00	71
+DESULFOASV1_2775_YitT_family_protein	AF-C4Z541-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4Z541-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	409	481	7.878E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-Q1J6V6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1J6V6-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	1.100E+00	71
+DESULFOASV1_2775_YitT_family_protein	AF-B1IC02-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1IC02-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.100E+00	71
+DESULFOASV1_2775_YitT_family_protein	AF-B9DSE0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9DSE0-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.100E+00	71
+DESULFOASV1_2775_YitT_family_protein	AF-Q38W39-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q38W39-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	1.100E+00	71
+DESULFOASV1_2775_YitT_family_protein	AF-P60790-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P60790-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	8.667E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-B8AI54-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8AI54-F1-model_v4 Translation factor GUF1 homolog, chloroplastic	0.090	75	66	196	270	439	511	1.100E+00	71
+DESULFOASV1_2775_YitT_family_protein	AF-Q2S909-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2S909-F1-model_v4 Elongation factor G 1	0.117	96	82	176	269	585	680	3.336E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-A1AVJ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1AVJ7-F1-model_v4 Elongation factor G	0.115	109	94	176	282	586	694	1.973E-01	71
+DESULFOASV1_2775_YitT_family_protein	AF-O25237-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O25237-F1-model_v4 Uncharacterized protein HP_0495	0.111	72	60	196	263	15	86	6.205E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-B4TAI9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4TAI9-F1-model_v4 UPF0250 protein YbeD	0.069	72	63	197	265	16	87	1.100E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-P0A8J7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A8J7-F1-model_v4 UPF0250 protein YbeD	0.055	72	64	197	265	16	87	1.100E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-A9R701-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9R701-F1-model_v4 UPF0250 protein YpAngola_A1853	0.060	82	72	188	265	6	87	6.826E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q7N765-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7N765-F1-model_v4 UPF0250 protein plu1293	0.041	72	65	197	265	16	87	1.000E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q2NUV6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2NUV6-F1-model_v4 UPF0250 protein SG0794	0.094	71	62	197	267	16	84	6.508E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q7MN15-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7MN15-F1-model_v4 UPF0250 protein VV0902	0.121	71	60	197	267	21	89	5.377E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q8DFD3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8DFD3-F1-model_v4 UPF0250 protein VV1_0282	0.121	71	60	197	267	21	89	5.377E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q7VKA8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7VKA8-F1-model_v4 UPF0250 protein HD_2015	0.083	72	61	197	263	26	97	8.263E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-A4SJC2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4SJC2-F1-model_v4 Regulator of ribonuclease activity B	0.101	87	68	196	272	29	115	8.263E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-D2BRP0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-D2BRP0-F1-model_v4 Modulator protein MzrA	0.128	111	92	169	279	10	116	1.710E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q46339-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q46339-F1-model_v4 Formyltetrahydrofolate deformylase	0.050	80	68	196	268	6	85	5.640E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q58618-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q58618-F1-model_v4 Uncharacterized protein MJ1221	0.111	86	74	196	279	7	92	8.667E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-O28183-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O28183-F1-model_v4 Putative nickel insertion protein	0.144	82	63	196	270	239	320	9.535E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q9ZJZ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9ZJZ7-F1-model_v4 Aspartokinase	0.075	75	68	195	269	263	337	4.887E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q7NAT2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7NAT2-F1-model_v4 Elongation factor 4	0.116	75	64	196	270	405	477	1.000E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q8F500-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8F500-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	407	479	8.263E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-A4XKA0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4XKA0-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	408	480	7.878E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-P60792-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P60792-F1-model_v4 Elongation factor 4	0.078	74	65	196	269	412	483	1.154E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q04KB7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q04KB7-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.211E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q81LR7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q81LR7-F1-model_v4 Elongation factor 4	0.103	75	65	196	270	412	484	9.090E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q97QK5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q97QK5-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.154E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-B7HCU5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7HCU5-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	412	484	8.667E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-B8ZQ69-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8ZQ69-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.154E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q8DPN5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8DPN5-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.211E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-B5XLC6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5XLC6-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	1.154E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-A4W0W0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4W0W0-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.211E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q1JH37-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1JH37-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	1.154E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-Q049W8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q049W8-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	1.211E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-B3WEQ5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3WEQ5-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	412	484	1.000E+00	70
+DESULFOASV1_2775_YitT_family_protein	AF-B0WXB8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0WXB8-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.088	77	67	196	272	455	529	9.090E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-D1ZET3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-D1ZET3-F1-model_v4 Translation factor GUF1, mitochondrial	0.103	75	65	196	270	498	570	7.878E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-A9BHA8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9BHA8-F1-model_v4 Elongation factor G	0.145	99	80	176	270	581	679	3.850E-01	70
+DESULFOASV1_2775_YitT_family_protein	AF-B7L9H5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7L9H5-F1-model_v4 UPF0250 protein YbeD	0.083	72	62	197	265	16	87	1.211E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-P0A8J6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A8J6-F1-model_v4 UPF0250 protein YbeD	0.061	81	71	189	265	7	87	1.000E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-B7LLI1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7LLI1-F1-model_v4 UPF0250 protein YbeD	0.085	81	70	189	265	7	87	9.090E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q3Z4G1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3Z4G1-F1-model_v4 UPF0250 protein YbeD	0.083	72	62	197	265	16	87	1.211E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q0T6P1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0T6P1-F1-model_v4 UPF0250 protein YbeD	0.085	81	70	189	265	7	87	9.090E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q1RET1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1RET1-F1-model_v4 UPF0250 protein YbeD	0.061	81	71	189	265	7	87	1.000E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-A1JPR7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1JPR7-F1-model_v4 UPF0250 protein YE3006	0.054	72	64	197	265	16	87	1.049E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-B7MRR8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7MRR8-F1-model_v4 UPF0250 protein YbeD	0.086	81	69	189	265	7	87	9.535E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-P0AFV2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0AFV2-F1-model_v4 Putative magnesium transporter YhiD	0.096	260	190	8	267	5	215	1.073E-02	69
+DESULFOASV1_2775_YitT_family_protein	AF-P37051-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P37051-F1-model_v4 Formyltetrahydrofolate deformylase	0.123	76	62	196	267	5	80	8.263E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q8DGM0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8DGM0-F1-model_v4 Putative nickel insertion protein	0.022	86	75	196	273	251	336	9.535E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-B2J0M4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2J0M4-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	1.397E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-B0JQT7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0JQT7-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	1.000E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q4A5S3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4A5S3-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	405	477	8.667E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-O51115-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O51115-F1-model_v4 Elongation factor 4	0.103	74	64	196	269	411	482	7.160E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-B9IY86-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9IY86-F1-model_v4 Elongation factor 4	0.103	75	65	196	270	412	484	9.535E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-C1CR98-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1CR98-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.332E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-C1KVC6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1KVC6-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	412	484	1.154E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-A4IR35-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4IR35-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	412	484	1.100E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-P65274-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P65274-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.270E+00	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q1BU86-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1BU86-F1-model_v4 Elongation factor G 1	0.100	104	91	168	269	581	684	2.891E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q7S0P6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7S0P6-F1-model_v4 Translation factor guf1, mitochondrial	0.116	75	64	196	270	527	599	9.535E-01	69
+DESULFOASV1_2775_YitT_family_protein	AF-Q9ZLX9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9ZLX9-F1-model_v4 Uncharacterized protein jhp_0447	0.083	72	61	196	263	15	86	7.160E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-A6T692-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6T692-F1-model_v4 UPF0250 protein KPN78578_06520	0.081	71	62	197	267	16	84	7.878E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-B5XZS3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5XZS3-F1-model_v4 UPF0250 protein KPK_3910	0.081	71	62	197	267	16	84	7.878E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q5PMA0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5PMA0-F1-model_v4 UPF0250 protein YbeD	0.074	81	70	189	265	7	87	1.000E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-B4TPA7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4TPA7-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	7.510E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-B5EZ76-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5EZ76-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	7.510E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-B5R7Y4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5R7Y4-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	7.510E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q8EHQ4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8EHQ4-F1-model_v4 UPF0250 protein SO_1163	0.069	72	63	197	265	17	88	1.211E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-A3QH58-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3QH58-F1-model_v4 UPF0250 protein Shew_2940	0.068	72	62	197	263	17	88	9.535E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-B0TR55-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0TR55-F1-model_v4 UPF0250 protein Shal_3239	0.095	72	59	198	263	17	88	1.000E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q74GV3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q74GV3-F1-model_v4 Putative nickel insertion protein	0.134	88	68	194	273	244	331	9.090E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q59229-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q59229-F1-model_v4 Aspartokinase	0.075	77	65	198	268	261	337	5.640E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-P04176-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P04176-F1-model_v4 Phenylalanine-4-hydroxylase	0.100	78	67	197	271	35	112	4.038E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-P60930-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P60930-F1-model_v4 Elongation factor 4	0.078	74	65	196	269	405	476	9.535E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q112D2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q112D2-F1-model_v4 Elongation factor 4	0.066	73	65	196	268	408	478	1.211E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-B9MJZ5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9MJZ5-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	408	480	9.535E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-A5D3X6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5D3X6-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	407	479	1.332E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q67S76-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q67S76-F1-model_v4 Elongation factor 4	0.128	75	63	196	270	406	478	1.049E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-A9KKU4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9KKU4-F1-model_v4 Elongation factor 4	0.113	77	66	196	272	409	483	7.878E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-C1ESL3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1ESL3-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	412	484	9.535E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-B8DE32-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8DE32-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	412	484	1.211E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q92BN4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q92BN4-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	9.535E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q5KWZ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5KWZ3-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	412	484	1.100E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-A4VUL8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4VUL8-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.397E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q03KW7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q03KW7-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	413	484	1.397E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q5M4M2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5M4M2-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	413	484	1.397E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q5M008-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5M008-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	413	484	1.397E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-C3PHY1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3PHY1-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	420	492	1.000E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q4JWS1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4JWS1-F1-model_v4 Elongation factor 4	0.116	75	64	196	270	421	493	7.510E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-B7GRY7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7GRY7-F1-model_v4 Elongation factor 4	0.051	75	68	196	270	413	485	1.154E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-B9F2U5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9F2U5-F1-model_v4 Translation factor GUF1 homolog, chloroplastic	0.090	75	66	196	270	483	555	1.465E+00	68
+DESULFOASV1_2775_YitT_family_protein	AF-B1Y7G9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1Y7G9-F1-model_v4 Elongation factor G	0.089	116	104	168	282	579	694	2.277E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-Q62HK4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q62HK4-F1-model_v4 Elongation factor G 1	0.099	104	91	168	269	579	682	4.038E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-B0R8C8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0R8C8-F1-model_v4 Elongation factor 2	0.080	105	94	172	276	599	701	2.756E-01	68
+DESULFOASV1_2775_YitT_family_protein	AF-A7FKY7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7FKY7-F1-model_v4 UPF0250 protein YpsIP31758_2953	0.054	72	64	197	265	16	87	1.332E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-A7MK40-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7MK40-F1-model_v4 UPF0250 protein ESA_02696	0.108	71	61	197	267	16	84	7.160E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-A0KTV6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0KTV6-F1-model_v4 UPF0250 protein Shewana3_0990	0.055	72	62	197	263	17	88	1.100E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-A8FZ21-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8FZ21-F1-model_v4 UPF0250 protein Ssed_3490	0.055	72	62	197	263	17	88	1.100E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-B1KDX1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1KDX1-F1-model_v4 UPF0250 protein Swoo_3713	0.097	72	61	196	263	17	88	1.000E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-B8E4W6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8E4W6-F1-model_v4 UPF0250 protein Sbal223_1087	0.055	72	61	198	263	17	88	1.270E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-A3D7P7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3D7P7-F1-model_v4 UPF0250 protein Sbal_3280	0.054	72	61	198	263	17	88	1.100E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q9CJR4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9CJR4-F1-model_v4 UPF0250 protein PM1928	0.097	72	61	197	265	17	88	1.270E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-P44465-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P44465-F1-model_v4 UPF0250 protein HI_0028	0.112	88	68	188	265	5	92	7.160E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-A7MY91-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7MY91-F1-model_v4 UPF0250 protein VIBHAR_01213	0.106	71	61	197	267	21	89	6.205E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-D4GIR2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-D4GIR2-F1-model_v4 Regulator of ribonuclease activity B	0.080	96	78	196	281	31	126	1.100E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q2NR38-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2NR38-F1-model_v4 Regulator of ribonuclease activity B	0.101	95	76	196	281	32	126	1.154E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-P0AFV3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0AFV3-F1-model_v4 Uncharacterized protein YhiD	0.097	260	190	8	267	5	215	1.499E-02	67
+DESULFOASV1_2775_YitT_family_protein	AF-A0RQX4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0RQX4-F1-model_v4 Elongation factor 4	0.103	74	64	196	269	403	474	8.263E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-A0Q1R8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0Q1R8-F1-model_v4 Elongation factor 4	0.103	75	65	196	270	408	480	9.090E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-B0TAD2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0TAD2-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	407	479	1.100E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-B7K3Z7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7K3Z7-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	408	480	1.100E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q2JWR1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2JWR1-F1-model_v4 Elongation factor 4	0.090	74	65	196	269	408	479	1.332E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-C1C7G9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1C7G9-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.537E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q818E4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q818E4-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	412	484	1.100E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-P0DC23-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0DC23-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	1.465E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q5YZZ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5YZZ7-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	413	485	1.049E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q6BMV8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6BMV8-F1-model_v4 Translation factor GUF1, mitochondrial	0.103	75	65	196	270	442	514	1.612E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-A5DG70-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5DG70-F1-model_v4 Translation factor GUF1, mitochondrial	0.090	75	66	196	270	468	540	1.612E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q46PQ4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q46PQ4-F1-model_v4 Elongation factor G 2	0.113	105	90	168	270	579	683	2.505E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-C5BQ43-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5BQ43-F1-model_v4 Elongation factor G	0.078	109	98	176	282	587	695	2.171E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-A4I9M7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4I9M7-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.075	76	69	196	271	635	710	1.270E+00	67
+DESULFOASV1_2775_YitT_family_protein	AF-Q15029-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q15029-F1-model_v4 116 kDa U5 small nuclear ribonucleoprotein component	0.099	95	81	179	269	808	902	5.640E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-F4JWP9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-F4JWP9-F1-model_v4 109 kDa U5 small nuclear ribonucleoprotein component GFL	0.166	98	78	176	269	805	902	5.377E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-O94316-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O94316-F1-model_v4 Pre-mRNA-splicing factor cwf10	0.118	95	79	179	269	822	916	7.878E-01	67
+DESULFOASV1_2775_YitT_family_protein	AF-B1LKM2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1LKM2-F1-model_v4 UPF0250 protein YbeD	0.065	72	65	196	267	14	84	1.049E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q057D5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q057D5-F1-model_v4 UPF0250 protein BCc_307	0.109	72	61	196	265	16	87	1.270E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-C6DBV8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C6DBV8-F1-model_v4 UPF0250 protein PC1_1177	0.108	71	61	197	267	16	84	7.510E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q1C509-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1C509-F1-model_v4 UPF0250 protein YPA_2499	0.069	72	63	197	265	16	87	1.000E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q89A91-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q89A91-F1-model_v4 UPF0250 protein bbp_432	0.135	72	59	196	267	17	85	7.510E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-O74452-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O74452-F1-model_v4 Cell wall integrity protein scw1	0.097	91	76	194	278	106	196	1.000E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q64T74-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q64T74-F1-model_v4 Elongation factor 4	0.078	74	65	196	269	400	471	1.397E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-A7GZW3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7GZW3-F1-model_v4 Elongation factor 4	0.144	74	61	196	269	403	474	8.667E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q7NGX4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7NGX4-F1-model_v4 Elongation factor 4	0.080	73	64	196	268	408	478	8.667E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-B8I3E6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8I3E6-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	409	481	1.100E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-A8MFA6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8MFA6-F1-model_v4 Elongation factor 4	0.053	73	66	196	268	408	478	1.270E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q1D6M1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1D6M1-F1-model_v4 Elongation factor 4	0.076	75	68	196	270	407	481	1.537E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q8RB72-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8RB72-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	407	479	1.000E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-B7KJX0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7KJX0-F1-model_v4 Elongation factor 4	0.129	75	63	196	270	408	480	1.154E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-C1CEG3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1CEG3-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.612E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q634M2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q634M2-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	412	484	8.667E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-A8AWG3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8AWG3-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.612E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-B4U3G9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4U3G9-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.691E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q99ZV8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q99ZV8-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	1.612E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q038N6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q038N6-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	9.090E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-A8YVQ1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8YVQ1-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	1.691E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q0IFX5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0IFX5-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.088	77	67	196	272	464	538	1.270E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q00ZZ1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q00ZZ1-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.089	75	66	196	270	472	544	1.154E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-A4G9U1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4G9U1-F1-model_v4 Elongation factor G	0.094	111	98	168	276	579	689	2.891E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q63WJ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q63WJ7-F1-model_v4 Elongation factor G 1	0.096	117	103	168	282	579	695	4.235E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q2T0I7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2T0I7-F1-model_v4 Elongation factor G 1	0.108	104	90	168	269	579	682	4.887E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q4Q3F0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4Q3F0-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.100	76	68	196	271	635	710	2.147E+00	66
+DESULFOASV1_2775_YitT_family_protein	AF-Q9LNC5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9LNC5-F1-model_v4 110 kDa U5 small nuclear ribonucleoprotein component CLO	0.147	98	79	176	269	819	916	5.916E-01	66
+DESULFOASV1_2775_YitT_family_protein	AF-B5BCF8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5BCF8-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	9.535E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-B5FMN2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5FMN2-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	9.535E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q0HLK1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0HLK1-F1-model_v4 UPF0250 protein Shewmr4_0986	0.055	72	62	197	263	17	88	1.211E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-A6WRL0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6WRL0-F1-model_v4 UPF0250 protein Shew185_3322	0.068	72	62	196	263	17	88	1.100E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q0HXV5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0HXV5-F1-model_v4 UPF0250 protein Shewmr7_1051	0.055	72	62	197	263	17	88	1.211E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-A9L012-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9L012-F1-model_v4 UPF0250 protein Sbal195_3458	0.055	72	62	197	263	17	88	1.270E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-A4Y9G0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4Y9G0-F1-model_v4 UPF0250 protein Sputcn32_2874	0.055	72	62	197	263	17	88	1.270E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q3IJ79-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3IJ79-F1-model_v4 UPF0250 protein PSHAa1021	0.097	72	61	196	263	21	92	1.000E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-P0AF90-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0AF90-F1-model_v4 Regulator of ribonuclease activity B	0.083	92	76	196	279	33	124	1.612E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B7K8F6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7K8F6-F1-model_v4 Putative nickel insertion protein	0.096	80	66	196	269	261	340	7.878E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-A0M6M2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0M6M2-F1-model_v4 Elongation factor 4	0.093	73	63	196	268	404	474	1.537E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-A0LI00-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0LI00-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	403	474	1.332E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B3PLU0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3PLU0-F1-model_v4 Elongation factor 4	0.080	73	64	196	268	401	471	1.211E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q0SRD8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0SRD8-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	407	479	1.332E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q0TNS2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0TNS2-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	407	479	1.332E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B8JAF3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8JAF3-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	407	479	1.154E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q182F4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q182F4-F1-model_v4 Elongation factor 4	0.101	77	67	196	272	407	481	1.397E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B1ILM7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1ILM7-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	1.397E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q97JJ6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q97JJ6-F1-model_v4 Elongation factor 4	0.128	75	63	196	270	409	481	1.332E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-P74751-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P74751-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	1.270E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B1WWD8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1WWD8-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	1.332E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B3QZT9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3QZT9-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.211E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B1V9C5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1V9C5-F1-model_v4 Elongation factor 4	0.077	74	66	196	269	412	483	1.211E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B9E6X5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9E6X5-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	412	484	1.154E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-A7GT14-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7GT14-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	412	484	9.535E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-P0DC22-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0DC22-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	1.773E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q5FJP6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5FJP6-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	412	484	1.100E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q59P53-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q59P53-F1-model_v4 Translation factor GUF1, mitochondrial	0.077	75	66	196	270	460	532	1.612E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B9GHA6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9GHA6-F1-model_v4 Translation factor GUF1 homolog, chloroplastic	0.090	75	66	196	270	481	553	1.537E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-P80868-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P80868-F1-model_v4 Elongation factor G	0.103	109	95	176	282	577	685	4.038E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q65PB0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q65PB0-F1-model_v4 Elongation factor G	0.128	109	92	176	282	577	685	3.850E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q1LAN7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1LAN7-F1-model_v4 Elongation factor G 2	0.084	112	101	171	282	585	695	3.336E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-A6T3K7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6T3K7-F1-model_v4 Elongation factor G	0.101	111	97	168	276	579	689	3.850E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q2KV83-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2KV83-F1-model_v4 Elongation factor G 2	0.081	117	105	168	282	579	695	2.756E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-Q4DKF7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4DKF7-F1-model_v4 Translation factor GUF1 homolog 1, mitochondrial	0.112	76	67	196	271	550	625	1.537E+00	65
+DESULFOASV1_2775_YitT_family_protein	AF-B0W010-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0W010-F1-model_v4 Ribosome-releasing factor 2, mitochondrial	0.133	110	93	175	282	632	741	2.505E-01	65
+DESULFOASV1_2775_YitT_family_protein	AF-B7MFQ4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7MFQ4-F1-model_v4 UPF0250 protein YbeD	0.096	79	70	189	267	7	84	8.667E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-B5QVN7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5QVN7-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	1.100E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A8GB11-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8GB11-F1-model_v4 UPF0250 protein Spro_1197	0.054	71	64	197	267	16	84	1.100E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A9MKE1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9MKE1-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	1.100E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q66DF3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q66DF3-F1-model_v4 UPF0250 protein YPTB1093	0.069	72	63	197	265	16	87	1.100E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A8H7D3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8H7D3-F1-model_v4 UPF0250 protein Spea_3154	0.054	72	61	198	263	17	88	1.465E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A1RGT4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1RGT4-F1-model_v4 UPF0250 protein Sputw3181_1029	0.055	72	62	197	263	17	88	1.270E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-P0ADF9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0ADF9-F1-model_v4 Acetolactate synthase isozyme 1 small subunit	0.156	79	66	194	272	6	84	3.670E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q57092-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q57092-F1-model_v4 Endolytic peptidoglycan transglycosylase RlpA	0.104	92	80	180	271	198	287	5.640E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-P29541-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P29541-F1-model_v4 Elongation factor G	0.099	102	91	168	269	220	321	4.235E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-P9WG94-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P9WG94-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.118	237	203	35	271	192	422	1.299E-02	64
+DESULFOASV1_2775_YitT_family_protein	AF-A7H311-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7H311-F1-model_v4 Elongation factor 4	0.144	74	61	196	269	403	474	1.000E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-P47384-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P47384-F1-model_v4 Elongation factor 4	0.131	75	63	196	270	404	476	8.667E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q6F0Z2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6F0Z2-F1-model_v4 Elongation factor 4	0.150	75	61	196	270	406	478	5.916E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q2IIA6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2IIA6-F1-model_v4 Elongation factor 4	0.051	75	68	196	270	407	479	1.100E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A4J7F8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4J7F8-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	407	479	1.270E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-B4UDQ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4UDQ7-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	407	479	1.332E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q83NI1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q83NI1-F1-model_v4 Elongation factor 4	0.101	77	67	196	272	407	481	1.951E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q2RKX8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2RKX8-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	407	479	1.332E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q2JQ51-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2JQ51-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	408	480	1.612E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q8RFD1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8RFD1-F1-model_v4 Elongation factor 4	0.103	74	64	196	269	410	481	1.537E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A4RZA6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4RZA6-F1-model_v4 Translation factor GUF1 homolog, chloroplastic	0.076	75	67	196	270	408	480	1.465E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A9VHU6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9VHU6-F1-model_v4 Elongation factor 4	0.116	75	64	196	270	412	484	1.100E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-C3L5S2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3L5S2-F1-model_v4 Elongation factor 4	0.116	75	64	196	270	412	484	1.100E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q71ZJ1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q71ZJ1-F1-model_v4 Elongation factor 4	0.108	81	66	196	276	412	486	1.211E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q3K1F9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3K1F9-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	412	483	1.691E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q1JLY8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1JLY8-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	1.951E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A5VJE9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5VJE9-F1-model_v4 Elongation factor 4	0.051	75	68	196	270	412	484	1.332E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-B2G6W5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2G6W5-F1-model_v4 Elongation factor 4	0.053	73	66	196	268	412	482	1.211E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-A1R6W8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1R6W8-F1-model_v4 Elongation factor 4	0.112	75	64	196	270	416	488	1.397E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q0SH84-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0SH84-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	429	501	1.465E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-C1AUN7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1AUN7-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	429	501	1.537E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-C5M6K8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5M6K8-F1-model_v4 Translation factor GUF1, mitochondrial	0.078	75	66	196	270	459	531	1.612E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q1JNH7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1JNH7-F1-model_v4 Elongation factor G	0.068	109	100	175	282	577	685	5.377E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q9VRH6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9VRH6-F1-model_v4 Translation factor waclaw, mitochondrial	0.077	75	66	196	270	504	576	1.612E+00	64
+DESULFOASV1_2775_YitT_family_protein	AF-Q123W3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q123W3-F1-model_v4 Elongation factor G 2	0.098	105	92	168	270	579	683	6.205E-01	64
+DESULFOASV1_2775_YitT_family_protein	AF-P67537-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P67537-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	1.211E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q9CGZ6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9CGZ6-F1-model_v4 UPF0237 protein YjhC	0.086	75	65	196	267	2	76	9.090E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-P0A8J4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A8J4-F1-model_v4 UPF0250 protein YbeD	0.096	79	70	189	267	7	84	9.535E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q87RQ9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q87RQ9-F1-model_v4 UPF0250 protein VP0718	0.106	71	61	197	267	21	89	8.667E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q3IG75-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3IG75-F1-model_v4 Regulator of ribonuclease activity B	0.103	86	68	196	272	26	111	1.537E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-B5RLI9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5RLI9-F1-model_v4 30S ribosomal protein S6	0.121	99	76	196	282	4	102	1.061E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q9X7F1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9X7F1-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.117	237	203	35	271	189	419	1.299E-02	63
+DESULFOASV1_2775_YitT_family_protein	AF-P66898-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P66898-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.125	237	201	35	271	192	422	1.572E-02	63
+DESULFOASV1_2775_YitT_family_protein	AF-P00439-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P00439-F1-model_v4 Phenylalanine-4-hydroxylase	0.115	77	64	196	268	34	110	6.826E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-A6L744-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6L744-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	400	471	1.860E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q8AA33-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8AA33-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	400	471	1.691E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q9PQG7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9PQG7-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	406	478	1.332E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-B1AIW2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1AIW2-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	406	478	1.332E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q9PKX6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9PKX6-F1-model_v4 Elongation factor 4	0.089	74	65	196	269	409	480	1.537E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-B1X3K4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1X3K4-F1-model_v4 Translation factor GUF1 homolog, organellar chromatophore	0.064	75	67	196	270	408	480	1.691E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q3MG20-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3MG20-F1-model_v4 Elongation factor 4	0.120	73	62	196	268	408	478	1.397E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q31R08-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q31R08-F1-model_v4 Elongation factor 4	0.116	75	64	196	270	408	480	1.612E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q02Z80-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q02Z80-F1-model_v4 Elongation factor 4	0.089	74	65	196	269	412	483	1.049E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q5WHG5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5WHG5-F1-model_v4 Elongation factor 4	0.080	73	64	196	268	412	482	1.049E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-B7HPL8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7HPL8-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	412	484	1.049E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-A2RL76-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2RL76-F1-model_v4 Elongation factor 4	0.089	74	65	196	269	412	483	1.049E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q831Z0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q831Z0-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	412	484	1.773E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-B1VY28-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1VY28-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	421	493	1.465E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q1JC06-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1JC06-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	2.147E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-B3RXR7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3RXR7-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.089	75	66	196	270	468	540	1.332E+00	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q3SLQ2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3SLQ2-F1-model_v4 Elongation factor G	0.110	109	96	168	276	578	686	5.377E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q7VTD5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7VTD5-F1-model_v4 Elongation factor G	0.102	111	98	172	282	585	694	4.660E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q21M89-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q21M89-F1-model_v4 Elongation factor G 1	0.103	109	95	176	282	587	695	3.850E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-C5BGM8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5BGM8-F1-model_v4 Elongation factor G	0.081	115	105	168	282	582	696	2.891E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q1CCT8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1CCT8-F1-model_v4 Elongation factor G	0.089	115	104	168	282	582	696	2.628E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-Q1C2U0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1C2U0-F1-model_v4 Elongation factor G	0.089	115	104	168	282	582	696	2.891E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-O08810-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O08810-F1-model_v4 116 kDa U5 small nuclear ribonucleoprotein component	0.090	96	83	178	269	806	901	8.667E-01	63
+DESULFOASV1_2775_YitT_family_protein	AF-B4SYJ4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4SYJ4-F1-model_v4 UPF0250 protein YbeD	0.060	79	72	189	267	7	84	1.049E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q1CKR4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1CKR4-F1-model_v4 UPF0250 protein YPN_1085	0.069	72	63	197	265	16	87	1.397E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-B9JL06-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9JL06-F1-model_v4 Putative nickel-responsive regulator	0.120	130	108	158	281	13	142	2.388E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q58853-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q58853-F1-model_v4 Uncharacterized protein MJ1458	0.093	73	62	196	264	2	74	1.100E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-A2C717-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2C717-F1-model_v4 Ribosomal protein L11 methyltransferase	0.093	83	68	196	271	9	91	6.826E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-P9WG95-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P9WG95-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.120	237	202	35	271	192	422	1.429E-02	62
+DESULFOASV1_2775_YitT_family_protein	AF-A7ZCJ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7ZCJ3-F1-model_v4 Elongation factor 4	0.092	74	64	196	269	403	474	1.154E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-A5IYS0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5IYS0-F1-model_v4 Elongation factor 4	0.119	81	65	196	276	401	475	1.100E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q8GCP5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8GCP5-F1-model_v4 Elongation factor 4	0.113	75	64	196	270	401	473	1.049E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-B1XK44-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1XK44-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	408	480	1.465E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q7VDF7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7VDF7-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	408	480	2.046E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q5N390-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5N390-F1-model_v4 Elongation factor 4	0.103	75	65	196	270	408	480	1.049E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-C3P8M5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3P8M5-F1-model_v4 Elongation factor 4	0.154	81	63	196	276	412	486	9.090E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-B7IYH2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7IYH2-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	412	484	1.270E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q9CGI8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9CGI8-F1-model_v4 Elongation factor 4	0.089	74	65	196	269	412	483	1.154E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q6HDK2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6HDK2-F1-model_v4 Elongation factor 4	0.115	75	64	196	270	412	484	1.211E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q82BZ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q82BZ3-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	419	491	1.537E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-B3DSA9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3DSA9-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	413	485	1.691E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q6C255-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6C255-F1-model_v4 Translation factor GUF1, mitochondrial	0.075	75	67	196	270	463	535	1.397E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q9FNM5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9FNM5-F1-model_v4 Translation factor GUF1 homolog, chloroplastic	0.101	75	65	196	270	484	556	1.154E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-B5XJR1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5XJR1-F1-model_v4 Elongation factor G	0.068	109	100	175	282	577	685	6.508E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q9Z9L7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9Z9L7-F1-model_v4 Elongation factor G	0.086	109	97	176	282	577	685	5.640E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-P13550-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P13550-F1-model_v4 Elongation factor G	0.068	99	88	176	270	580	678	4.887E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-C1DAR4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1DAR4-F1-model_v4 Elongation factor G	0.114	116	101	168	282	578	693	3.181E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q47UW3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q47UW3-F1-model_v4 Elongation factor G 2	0.095	110	96	176	282	586	695	3.850E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-B2K5N5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2K5N5-F1-model_v4 Elongation factor G	0.089	115	104	168	282	582	696	3.181E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q664R6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q664R6-F1-model_v4 Elongation factor G	0.089	115	104	168	282	582	696	3.181E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q7W455-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7W455-F1-model_v4 Elongation factor G 2	0.082	111	101	172	282	583	693	4.442E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-A2RP72-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2RP72-F1-model_v4 Elongation factor G	0.068	109	100	175	282	592	700	4.660E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-B4SKW0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4SKW0-F1-model_v4 Elongation factor G	0.076	98	86	176	269	599	696	3.499E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-A9RFQ5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9RFQ5-F1-model_v4 Translation factor GUF1 homolog, chloroplastic	0.088	75	66	196	270	538	610	1.154E+00	62
+DESULFOASV1_2775_YitT_family_protein	AF-Q5F3X4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5F3X4-F1-model_v4 116 kDa U5 small nuclear ribonucleoprotein component	0.099	95	81	179	269	808	902	8.263E-01	62
+DESULFOASV1_2775_YitT_family_protein	AF-B8D816-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8D816-F1-model_v4 UPF0250 protein BUAPTUC7_482	0.146	72	58	196	267	16	84	1.154E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-B7UKS1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7UKS1-F1-model_v4 UPF0250 protein YbeD	0.096	79	70	189	267	7	84	1.211E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q324R2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q324R2-F1-model_v4 UPF0250 protein YbeD	0.067	71	63	197	267	16	84	1.397E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-B5YQI2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5YQI2-F1-model_v4 UPF0250 protein YbeD	0.072	79	71	189	267	7	84	1.270E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-B1IYH7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1IYH7-F1-model_v4 UPF0250 protein YbeD	0.072	79	71	189	267	7	84	1.270E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-P67538-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P67538-F1-model_v4 UPF0250 protein YbeD	0.081	71	62	197	267	16	84	1.397E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-P0A8J5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A8J5-F1-model_v4 UPF0250 protein YbeD	0.096	79	70	189	267	7	84	1.211E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-B8CSH5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8CSH5-F1-model_v4 UPF0250 protein swp_3927	0.048	82	71	188	263	7	88	1.332E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-C3LTJ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3LTJ3-F1-model_v4 UPF0250 protein VCM66_0901	0.120	71	60	197	267	21	89	1.211E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-P0ADF8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0ADF8-F1-model_v4 Acetolactate synthase isozyme 1 small subunit	0.144	79	67	194	272	6	84	4.442E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-P48862-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P48862-F1-model_v4 Elongation factor G	0.123	110	93	176	282	111	220	4.235E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q86KZ5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q86KZ5-F1-model_v4 Ribosome maturation protein SBDS	0.080	135	115	147	281	128	253	1.630E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q2KIH7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2KIH7-F1-model_v4 Phenylalanine-4-hydroxylase	0.102	77	65	196	268	33	109	7.878E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q5LC85-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5LC85-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	400	472	2.251E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q7MV56-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7MV56-F1-model_v4 Elongation factor 4	0.040	74	68	196	269	402	473	1.691E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q5HU70-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5HU70-F1-model_v4 Elongation factor 4	0.144	74	61	196	269	405	476	1.000E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q30XI4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q30XI4-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	406	477	1.691E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q254E1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q254E1-F1-model_v4 Elongation factor 4	0.128	74	63	196	269	408	480	1.773E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-A6TSM4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6TSM4-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	408	480	1.691E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q3AF13-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3AF13-F1-model_v4 Elongation factor 4	0.141	74	61	196	269	407	478	8.263E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-A3DF29-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3DF29-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	409	481	1.465E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-B0S1G2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0S1G2-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	407	479	1.773E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-A5GRE6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5GRE6-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	408	480	1.691E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-A1BHJ8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1BHJ8-F1-model_v4 Elongation factor 4	0.153	74	60	196	269	411	482	1.154E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-A8Z4C4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8Z4C4-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	1.332E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q2FXY7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2FXY7-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	1.332E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q8Y742-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8Y742-F1-model_v4 Elongation factor 4	0.120	81	65	196	276	412	486	1.270E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q5XCD2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5XCD2-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	2.046E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q88VN0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q88VN0-F1-model_v4 Elongation factor 4 1	0.053	73	66	196	268	412	482	2.362E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-A8FFD6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8FFD6-F1-model_v4 Elongation factor 4	0.077	73	65	196	268	413	483	1.154E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q9RDC9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9RDC9-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	419	491	1.612E+00	61
+DESULFOASV1_2775_YitT_family_protein	AF-P9WNM6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P9WNM6-F1-model_v4 Elongation factor G	0.120	116	100	168	282	580	695	4.038E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-B1JIV5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1JIV5-F1-model_v4 Elongation factor G	0.089	115	104	168	282	582	696	3.336E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-B2FQ42-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2FQ42-F1-model_v4 Elongation factor G	0.076	111	98	176	282	599	709	3.850E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-Q5R6E0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5R6E0-F1-model_v4 116 kDa U5 small nuclear ribonucleoprotein component	0.099	95	81	179	269	808	902	9.535E-01	61
+DESULFOASV1_2775_YitT_family_protein	AF-C4ZWB8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4ZWB8-F1-model_v4 UPF0250 protein YbeD	0.095	79	70	189	267	7	84	1.154E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-B8D9R4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8D9R4-F1-model_v4 UPF0250 protein BUAP5A_481	0.146	72	58	196	267	16	84	1.332E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q0TK42-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0TK42-F1-model_v4 UPF0250 protein YbeD	0.072	79	71	189	267	7	84	1.270E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q9KTF7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9KTF7-F1-model_v4 UPF0250 protein VC_0945	0.120	71	60	197	267	21	89	1.332E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q11GT9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q11GT9-F1-model_v4 Ribosomal protein L11 methyltransferase	0.097	79	69	196	272	3	81	1.000E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q6BRU4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6BRU4-F1-model_v4 ATP phosphoribosyltransferase	0.111	94	82	179	272	210	302	1.270E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q05B89-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q05B89-F1-model_v4 NIF3-like protein 1	0.119	80	66	197	272	167	246	1.154E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-P15088-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P15088-F1-model_v4 Mast cell carboxypeptidase A	0.093	73	63	194	266	21	91	2.251E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-B2RKK1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2RKK1-F1-model_v4 Elongation factor 4	0.040	74	68	196	269	402	473	1.860E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-A1ARG8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1ARG8-F1-model_v4 Elongation factor 4	0.101	74	64	196	269	405	476	1.691E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-A5FLU8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5FLU8-F1-model_v4 Elongation factor 4	0.093	73	63	196	268	404	474	2.362E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q0AWL9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0AWL9-F1-model_v4 Elongation factor 4	0.092	74	64	196	269	404	475	1.860E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-A9GWZ4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9GWZ4-F1-model_v4 Elongation factor 4	0.065	74	66	196	269	407	478	2.147E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q8XIS6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8XIS6-F1-model_v4 Elongation factor 4	0.102	75	65	196	270	407	479	2.046E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q3AWX3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3AWX3-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	1.860E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q3ATB2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3ATB2-F1-model_v4 Elongation factor 4	0.153	74	60	196	269	411	482	1.270E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-B1YKS5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1YKS5-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	412	484	2.362E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q48TU0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q48TU0-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	2.858E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-B2GBR9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2GBR9-F1-model_v4 Elongation factor 4	0.078	74	65	196	269	412	483	1.860E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q47RQ0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q47RQ0-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	410	482	1.465E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-B8H8S3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8H8S3-F1-model_v4 Elongation factor 4	0.038	75	69	196	270	416	488	2.046E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-A1UIU2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1UIU2-F1-model_v4 Elongation factor 4	0.126	75	63	196	270	438	510	1.211E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q1B684-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1B684-F1-model_v4 Elongation factor 4	0.126	75	63	196	270	438	510	1.270E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-A4S3R2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4S3R2-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.076	75	67	196	270	456	528	2.147E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-B9WBR8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9WBR8-F1-model_v4 Translation factor GUF1, mitochondrial	0.101	75	65	196	270	460	532	1.465E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-A4VYX6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4VYX6-F1-model_v4 Elongation factor G	0.076	109	99	175	282	577	685	8.667E-01	60
+DESULFOASV1_2775_YitT_family_protein	AF-A5IQA1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5IQA1-F1-model_v4 Elongation factor G	0.077	109	98	176	282	578	686	6.826E-01	60
+DESULFOASV1_2775_YitT_family_protein	AF-A1WVC5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1WVC5-F1-model_v4 Elongation factor G	0.097	109	94	178	282	585	693	4.235E-01	60
+DESULFOASV1_2775_YitT_family_protein	AF-A1T4L5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1T4L5-F1-model_v4 Elongation factor G	0.104	116	102	168	282	579	694	4.660E-01	60
+DESULFOASV1_2775_YitT_family_protein	AF-A1KGG4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1KGG4-F1-model_v4 Elongation factor G	0.120	116	100	168	282	580	695	4.442E-01	60
+DESULFOASV1_2775_YitT_family_protein	AF-A7FNN9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7FNN9-F1-model_v4 Elongation factor G	0.089	115	104	168	282	582	696	3.850E-01	60
+DESULFOASV1_2775_YitT_family_protein	AF-Q8ZJB3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8ZJB3-F1-model_v4 Elongation factor G	0.089	115	104	168	282	582	696	4.038E-01	60
+DESULFOASV1_2775_YitT_family_protein	AF-A4FUD3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4FUD3-F1-model_v4 116 kDa U5 small nuclear ribonucleoprotein component	0.099	95	81	179	269	808	902	1.049E+00	60
+DESULFOASV1_2775_YitT_family_protein	AF-P0A1U7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A1U7-F1-model_v4 Regulator of ribonuclease activity B	0.101	95	76	196	281	33	127	2.147E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q11UD0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q11UD0-F1-model_v4 Elongation factor 4	0.113	75	64	196	270	402	474	2.477E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-A6H1S4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6H1S4-F1-model_v4 Elongation factor 4	0.078	73	65	196	268	404	474	1.951E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-A8FM79-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8FM79-F1-model_v4 Elongation factor 4	0.113	74	63	196	269	405	476	1.154E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q4AAQ8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4AAQ8-F1-model_v4 Elongation factor 4	0.078	74	65	196	269	401	472	2.477E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-O67618-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O67618-F1-model_v4 Elongation factor 4	0.129	74	62	196	269	407	478	2.362E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-B8J444-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8J444-F1-model_v4 Elongation factor 4	0.090	74	65	196	269	406	477	1.860E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-A5I644-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5I644-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	1.691E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-A7GHI0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7GHI0-F1-model_v4 Elongation factor 4	0.103	75	65	196	270	408	480	2.046E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-B1I6E0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1I6E0-F1-model_v4 Elongation factor 4	0.051	75	68	196	270	407	479	2.046E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-B0B9H2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0B9H2-F1-model_v4 Elongation factor 4	0.089	74	65	196	269	409	480	2.046E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q8DM20-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8DM20-F1-model_v4 Elongation factor 4	0.066	73	65	196	268	408	478	1.860E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q7V8S4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7V8S4-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	408	480	2.251E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-A4SFN5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4SFN5-F1-model_v4 Elongation factor 4	0.139	75	62	196	270	411	483	1.211E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q730L6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q730L6-F1-model_v4 Elongation factor 4	0.154	81	63	196	276	412	486	1.211E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-B7JNV1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7JNV1-F1-model_v4 Elongation factor 4	0.154	81	63	196	276	412	486	1.211E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q8DTF3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8DTF3-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	412	483	2.046E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-C7ZA26-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C7ZA26-F1-model_v4 Translation factor GUF1, mitochondrial	0.063	75	67	196	270	447	519	1.270E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-O13869-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O13869-F1-model_v4 Translation factor guf1, mitochondrial	0.102	74	64	196	269	456	527	1.397E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-C5FMX6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5FMX6-F1-model_v4 Translation factor GUF1, mitochondrial	0.076	74	66	196	269	462	533	1.465E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-B0G189-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0G189-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.078	75	66	196	270	488	560	1.691E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q5L400-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5L400-F1-model_v4 Elongation factor G	0.086	109	97	176	282	577	685	7.510E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-P69948-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P69948-F1-model_v4 Elongation factor G	0.060	109	101	175	282	577	685	1.049E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-B7IT16-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7IT16-F1-model_v4 Elongation factor G	0.069	109	99	176	282	577	685	4.660E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q8DXS7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8DXS7-F1-model_v4 Elongation factor G	0.051	109	102	175	282	577	685	1.154E+00	59
+DESULFOASV1_2775_YitT_family_protein	AF-P43925-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P43925-F1-model_v4 Elongation factor G	0.097	115	103	168	282	580	694	5.126E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-A0PM41-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0PM41-F1-model_v4 Elongation factor G	0.104	116	102	168	282	580	695	5.126E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-B2HSL2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B2HSL2-F1-model_v4 Elongation factor G	0.104	116	102	168	282	580	695	5.126E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-B7UK50-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7UK50-F1-model_v4 Elongation factor G	0.051	111	102	172	282	590	698	4.442E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-Q6CZW5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6CZW5-F1-model_v4 Elongation factor G	0.081	103	94	168	270	584	686	4.235E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-B4TKM1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4TKM1-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	3.499E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-P0A1H4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A1H4-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	3.499E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-B7NLP5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7NLP5-F1-model_v4 Elongation factor G	0.051	111	102	172	282	590	698	4.442E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-A9MN39-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9MN39-F1-model_v4 Elongation factor G	0.065	115	107	168	282	584	698	3.850E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-B7N0X6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7N0X6-F1-model_v4 Elongation factor G	0.051	111	102	172	282	590	698	4.442E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-P53893-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P53893-F1-model_v4 Ribosome assembly protein 1	0.119	117	96	162	271	930	1046	3.181E-01	59
+DESULFOASV1_2775_YitT_family_protein	AF-P57559-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P57559-F1-model_v4 UPF0250 protein BU488	0.146	72	58	196	267	16	84	1.537E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-O57802-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O57802-F1-model_v4 Uncharacterized HTH-type transcriptional regulator PH0061	0.135	142	119	134	275	7	145	1.794E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-A7I377-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7I377-F1-model_v4 Probable transcriptional regulatory protein CHAB381_1426	0.050	76	67	196	267	133	208	1.860E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-Q5GRW9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5GRW9-F1-model_v4 Elongation factor 4	0.103	74	65	196	269	403	475	1.612E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-P60794-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P60794-F1-model_v4 Elongation factor 4	0.116	74	63	196	269	406	477	2.046E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-A3PBD8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3PBD8-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	408	480	2.477E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-A2BPP8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2BPP8-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	408	480	2.598E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-A2C0M8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2C0M8-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	408	480	2.598E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-B8HLK8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8HLK8-F1-model_v4 Elongation factor 4	0.053	73	66	196	268	408	478	1.691E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-Q8NWA7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8NWA7-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	1.773E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-Q5HFH6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5HFH6-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	1.773E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-Q49Y26-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q49Y26-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	1.691E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-Q6G8Y3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6G8Y3-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	1.691E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-A0AIS8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0AIS8-F1-model_v4 Elongation factor 4	0.120	81	65	196	276	412	486	1.691E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-P37949-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P37949-F1-model_v4 Elongation factor 4	0.075	75	67	196	270	413	485	1.773E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-A3Q2A6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3Q2A6-F1-model_v4 Elongation factor 4	0.126	75	63	196	270	438	510	1.537E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-C0MF25-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C0MF25-F1-model_v4 Elongation factor G	0.051	109	102	175	282	577	685	1.100E+00	58
+DESULFOASV1_2775_YitT_family_protein	AF-A1UBL0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1UBL0-F1-model_v4 Elongation factor G	0.103	116	102	168	282	580	695	4.660E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-A3N247-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3N247-F1-model_v4 Elongation factor G	0.081	115	105	168	282	580	694	5.640E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-A5U070-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5U070-F1-model_v4 Elongation factor G	0.103	116	102	168	282	580	695	5.126E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-Q0SZX7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0SZX7-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.235E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-C0Q0C2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C0Q0C2-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	3.670E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-B6I240-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B6I240-F1-model_v4 Elongation factor G	0.050	111	103	172	282	590	698	3.670E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-B1X6J0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1X6J0-F1-model_v4 Elongation factor G	0.077	111	100	172	282	590	698	4.235E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-Q0TCB9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0TCB9-F1-model_v4 Elongation factor G	0.051	111	102	172	282	590	698	4.887E-01	58
+DESULFOASV1_2775_YitT_family_protein	AF-C5A3H3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5A3H3-F1-model_v4 Protein-export membrane protein SecF	0.073	82	70	194	270	61	142	4.188E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-B0C8E3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0C8E3-F1-model_v4 Putative nickel insertion protein	0.047	84	72	197	273	262	345	2.598E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q9PNR1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9PNR1-F1-model_v4 Elongation factor 4	0.118	74	63	196	269	405	476	1.332E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-A9A0N0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9A0N0-F1-model_v4 Elongation factor 4	0.118	74	63	196	269	403	474	1.860E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-B3E9R0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3E9R0-F1-model_v4 Elongation factor 4	0.101	74	64	196	269	405	476	2.251E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-A7FXL9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7FXL9-F1-model_v4 Elongation factor 4	0.132	81	64	196	276	408	482	1.537E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q46GZ6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q46GZ6-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	408	480	2.725E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-A2CBG9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2CBG9-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	408	480	2.725E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-C4L433-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4L433-F1-model_v4 Elongation factor 4	0.080	73	64	196	268	412	482	2.858E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q03QU8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q03QU8-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	412	484	2.598E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q65H50-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q65H50-F1-model_v4 Elongation factor 4	0.117	81	65	196	276	413	487	2.046E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-A0JX50-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0JX50-F1-model_v4 Elongation factor 4	0.038	75	69	196	270	416	488	2.598E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-B8DUL6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8DUL6-F1-model_v4 Elongation factor 4	0.064	75	67	196	270	413	485	2.362E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q8G603-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8G603-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	413	485	1.691E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-C1AQW9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1AQW9-F1-model_v4 Elongation factor 4	0.126	75	63	196	270	452	524	1.612E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-A5U598-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5U598-F1-model_v4 Elongation factor 4	0.092	75	65	196	270	452	524	1.951E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-C1GGI6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1GGI6-F1-model_v4 Translation factor GUF1, mitochondrial	0.088	75	66	196	270	466	538	1.860E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-B0XZZ2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0XZZ2-F1-model_v4 Translation factor guf1, mitochondrial	0.076	74	66	196	269	491	562	1.951E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-P0DA85-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0DA85-F1-model_v4 Elongation factor G	0.068	109	100	175	282	577	685	1.100E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q5XDW4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5XDW4-F1-model_v4 Elongation factor G	0.068	109	100	175	282	577	685	1.100E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q1J8I4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1J8I4-F1-model_v4 Elongation factor G	0.068	109	100	175	282	577	685	1.100E+00	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q04MH7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q04MH7-F1-model_v4 Elongation factor G	0.060	109	101	175	282	577	685	6.826E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q9KUZ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9KUZ7-F1-model_v4 Elongation factor G 1	0.072	105	96	172	276	584	687	8.263E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-A6VL11-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6VL11-F1-model_v4 Elongation factor G	0.106	115	102	168	282	580	694	4.442E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q4QMT6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4QMT6-F1-model_v4 Elongation factor G	0.106	115	102	168	282	580	694	4.038E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-P0A557-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A557-F1-model_v4 Elongation factor G	0.104	116	102	168	282	580	695	4.887E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q7VNA2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7VNA2-F1-model_v4 Elongation factor G	0.081	115	105	168	282	580	694	6.205E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-O50565-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O50565-F1-model_v4 Elongation factor G	0.122	103	89	168	269	580	682	5.916E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-B7NDU8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7NDU8-F1-model_v4 Elongation factor G	0.114	115	101	168	282	584	698	4.038E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-A9MT06-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9MT06-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.442E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-A8AQM8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8AQM8-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.442E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q5PIW3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5PIW3-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.442E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-B4SUU6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4SUU6-F1-model_v4 Elongation factor G	0.065	115	107	168	282	584	698	4.887E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-B4TXE8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4TXE8-F1-model_v4 Elongation factor G	0.065	115	107	168	282	584	698	4.660E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-Q83JC3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q83JC3-F1-model_v4 Elongation factor G	0.114	115	101	168	282	584	698	4.038E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-B5R297-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5R297-F1-model_v4 Elongation factor G	0.114	115	101	168	282	584	698	4.038E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-B5RH09-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5RH09-F1-model_v4 Elongation factor G	0.077	111	100	172	282	590	698	4.887E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-P0A1H3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A1H3-F1-model_v4 Elongation factor G	0.065	115	107	168	282	584	698	4.887E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-A7MKJ6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7MKJ6-F1-model_v4 Elongation factor G	0.065	115	107	168	282	584	698	4.887E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-B5BGZ2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5BGZ2-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.235E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-B5FJM0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5FJM0-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.442E-01	57
+DESULFOASV1_2775_YitT_family_protein	AF-C3NEK4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3NEK4-F1-model_v4 Putative nickel-responsive regulator	0.076	75	66	196	267	53	127	1.332E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q1CRS0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1CRS0-F1-model_v4 Putative nickel-responsive regulator	0.127	124	100	158	273	22	145	6.205E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-O27492-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O27492-F1-model_v4 Probable acetolactate synthase small subunit	0.115	75	65	196	269	8	82	1.860E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-A0QUX7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0QUX7-F1-model_v4 Acetolactate synthase small subunit	0.065	75	66	196	267	7	81	2.725E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q1DDP4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1DDP4-F1-model_v4 Methionine import ATP-binding protein MetN	0.092	71	63	196	265	255	325	8.667E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-P75498-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P75498-F1-model_v4 Elongation factor 4	0.108	74	63	196	269	404	475	1.465E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q2LTN3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2LTN3-F1-model_v4 Elongation factor 4	0.076	74	66	196	269	403	474	1.691E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q3A445-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3A445-F1-model_v4 Elongation factor 4	0.077	74	66	196	269	405	476	1.773E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-B8FUP2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8FUP2-F1-model_v4 Elongation factor 4	0.101	75	65	196	270	407	479	2.046E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-A9BE39-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A9BE39-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	408	480	2.858E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-B1KZP1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1KZP1-F1-model_v4 Elongation factor 4	0.132	81	64	196	276	408	482	1.691E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-B0C9R9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0C9R9-F1-model_v4 Elongation factor 4	0.087	75	66	196	270	408	480	1.537E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q6GGB6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6GGB6-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.147E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-A6QHC7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6QHC7-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.147E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q2FGD9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2FGD9-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.147E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q2YT42-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2YT42-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.147E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-P65271-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P65271-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.147E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-A5ITB2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5ITB2-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.147E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-B0RCT0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0RCT0-F1-model_v4 Elongation factor 4	0.125	77	65	196	272	416	490	2.147E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-B1VAM2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1VAM2-F1-model_v4 Elongation factor G	0.086	115	104	168	282	569	683	3.499E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-C5D3R4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5D3R4-F1-model_v4 Elongation factor G	0.084	109	97	176	282	577	685	9.090E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q48VB6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q48VB6-F1-model_v4 Elongation factor G	0.059	111	102	172	282	577	685	1.154E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-P64022-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P64022-F1-model_v4 Elongation factor G	0.060	109	101	175	282	577	685	7.878E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-A4XBP9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A4XBP9-F1-model_v4 Elongation factor G	0.071	101	93	168	268	577	677	5.640E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-P57938-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P57938-F1-model_v4 Elongation factor G	0.093	115	103	168	282	580	694	4.887E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q9K1I8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9K1I8-F1-model_v4 Elongation factor G	0.100	97	84	176	269	586	682	7.510E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q57J26-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q57J26-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.660E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-B5F8F8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5F8F8-F1-model_v4 Elongation factor G	0.090	115	104	168	282	584	698	4.660E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q3JV86-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3JV86-F1-model_v4 Elongation factor G 1	0.085	98	89	172	269	585	682	1.270E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-C6DG80-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C6DG80-F1-model_v4 Elongation factor G	0.065	115	107	168	282	584	698	5.640E-01	56
+DESULFOASV1_2775_YitT_family_protein	AF-B8BYH3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8BYH3-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.065	74	66	196	269	508	579	2.598E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-Q38BU9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q38BU9-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.119	77	66	196	271	569	645	2.362E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-O85709-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O85709-F1-model_v4 GTP pyrophosphokinase	0.065	75	65	196	265	761	835	2.046E+00	56
+DESULFOASV1_2775_YitT_family_protein	AF-E0SKT0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-E0SKT0-F1-model_v4 Modulator protein MzrA	0.120	110	93	169	278	11	117	4.887E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-P57320-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P57320-F1-model_v4 Acetolactate synthase small subunit	0.106	74	63	196	266	2	75	3.298E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-A5G4G3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5G4G3-F1-model_v4 Elongation factor 4	0.076	74	66	196	269	405	476	2.477E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-Q24SR6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q24SR6-F1-model_v4 Elongation factor 4	0.101	75	65	196	270	407	479	2.147E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-A2BV79-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2BV79-F1-model_v4 Elongation factor 4	0.077	75	66	196	270	408	480	3.298E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-A6U257-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6U257-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.362E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-A7Z6W5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7Z6W5-F1-model_v4 Elongation factor 4	0.117	81	65	196	276	413	487	1.691E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-Q6CUH2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6CUH2-F1-model_v4 Translation factor GUF1, mitochondrial	0.052	75	69	196	270	438	511	2.598E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-C5DN84-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5DN84-F1-model_v4 Translation factor GUF1, mitochondrial	0.051	75	69	196	270	447	520	2.598E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-C5DWG7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5DWG7-F1-model_v4 Translation factor GUF1, mitochondrial	0.051	75	69	196	270	450	523	2.858E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-C4JWU3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4JWU3-F1-model_v4 Translation factor GUF1, mitochondrial	0.089	74	65	196	269	471	542	2.147E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-C4Y8M4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4Y8M4-F1-model_v4 Translation factor GUF1, mitochondrial	0.125	75	63	196	270	470	542	1.691E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-B8ZKU0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8ZKU0-F1-model_v4 Elongation factor G	0.060	109	101	175	282	577	685	9.090E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-B1I8Z9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1I8Z9-F1-model_v4 Elongation factor G	0.050	111	103	172	282	577	685	8.263E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-Q71WB8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q71WB8-F1-model_v4 Elongation factor G	0.113	109	94	176	282	576	684	7.160E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-C1CXH0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1CXH0-F1-model_v4 Elongation factor G	0.066	98	89	172	269	586	681	1.100E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-A8A5E7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8A5E7-F1-model_v4 Elongation factor G	0.050	111	103	172	282	590	698	5.377E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-A5DI11-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5DI11-F1-model_v4 Elongation factor 2	0.087	108	93	179	281	705	812	8.667E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-P28996-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P28996-F1-model_v4 Elongation factor 2	0.118	113	88	176	276	705	817	7.510E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-P58252-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P58252-F1-model_v4 Elongation factor 2	0.101	77	65	196	272	744	816	2.598E+00	55
+DESULFOASV1_2775_YitT_family_protein	AF-P36048-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P36048-F1-model_v4 Pre-mRNA-splicing factor SNU114	0.138	102	84	168	266	829	930	9.090E-01	55
+DESULFOASV1_2775_YitT_family_protein	AF-Q9TLY1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9TLY1-F1-model_v4 Acetolactate synthase small subunit	0.088	76	67	196	270	2	77	2.362E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-A6LC18-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6LC18-F1-model_v4 Elongation factor 4	0.052	74	67	196	269	402	473	2.598E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-B9M4U5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B9M4U5-F1-model_v4 Elongation factor 4	0.077	74	66	196	269	405	476	2.362E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q31CB8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q31CB8-F1-model_v4 Elongation factor 4	0.076	75	67	196	270	408	480	3.629E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q7V2Q1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7V2Q1-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	3.298E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-A1KL96-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1KL96-F1-model_v4 Elongation factor 4	0.088	75	66	196	270	452	524	2.362E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q2U3T4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2U3T4-F1-model_v4 Translation factor guf1, mitochondrial	0.078	74	65	196	269	472	543	3.298E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q0ANP7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0ANP7-F1-model_v4 Elongation factor G	0.076	109	98	176	282	578	686	6.508E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q2GD82-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2GD82-F1-model_v4 Elongation factor G	0.140	109	91	176	282	577	685	9.535E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-P64023-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P64023-F1-model_v4 Elongation factor G	0.060	109	101	175	282	577	685	9.535E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-B5E6U5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5E6U5-F1-model_v4 Elongation factor G	0.060	109	101	175	282	577	685	9.535E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q8XRM7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8XRM7-F1-model_v4 Elongation factor G 2	0.084	111	101	172	282	584	694	1.465E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-A5U9R0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5U9R0-F1-model_v4 Elongation factor G	0.094	111	98	172	282	586	694	7.160E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q4ZMP1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4ZMP1-F1-model_v4 Elongation factor G	0.106	96	83	176	269	588	683	7.510E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q13UU8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q13UU8-F1-model_v4 Elongation factor G 1	0.098	105	92	168	270	579	683	1.465E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-B4EYV7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B4EYV7-F1-model_v4 Elongation factor G	0.081	103	94	168	270	583	685	6.826E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-P0A6M8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A6M8-F1-model_v4 Elongation factor G	0.058	111	102	172	282	590	698	3.850E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q9CDG1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9CDG1-F1-model_v4 Elongation factor G	0.051	109	102	175	282	592	700	6.826E-01	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q8SQT7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8SQT7-F1-model_v4 Elongation factor 2	0.072	116	104	169	281	705	820	1.100E+00	54
+DESULFOASV1_2775_YitT_family_protein	AF-Q137U7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q137U7-F1-model_v4 Putative nickel-responsive regulator	0.113	125	104	158	275	13	137	5.126E-01	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q57625-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q57625-F1-model_v4 Probable acetolactate synthase small subunit	0.118	75	61	196	265	8	82	2.858E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q6N9W0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6N9W0-F1-model_v4 Methionine import ATP-binding protein MetN 1	0.099	255	215	27	266	114	368	1.996E-02	53
+DESULFOASV1_2775_YitT_family_protein	AF-P60789-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P60789-F1-model_v4 Elongation factor 4	0.076	74	66	196	269	405	476	2.858E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q8YU48-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8YU48-F1-model_v4 Elongation factor 4	0.128	73	61	196	268	408	478	1.612E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q3ALG5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3ALG5-F1-model_v4 Elongation factor 4	0.086	75	66	196	270	408	480	1.860E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-A7X2Y7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7X2Y7-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.725E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-P65272-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P65272-F1-model_v4 Elongation factor 4	0.038	74	68	196	269	412	483	2.725E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-A6WDJ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6WDJ3-F1-model_v4 Elongation factor 4	0.087	75	66	196	270	416	488	3.298E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-B3RHG9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3RHG9-F1-model_v4 Translation factor GUF1, mitochondrial	0.050	75	69	196	270	452	525	1.951E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-C6HPI9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C6HPI9-F1-model_v4 Translation factor GUF1, mitochondrial	0.089	74	65	196	269	465	536	2.598E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-C0NZL9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C0NZL9-F1-model_v4 Translation factor GUF1, mitochondrial	0.088	75	66	196	270	465	537	2.598E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-C5JRK2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5JRK2-F1-model_v4 Translation factor GUF1, mitochondrial	0.089	74	65	196	269	465	536	2.598E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q6FR62-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6FR62-F1-model_v4 Translation factor GUF1, mitochondrial	0.039	75	70	196	270	464	537	3.992E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q55421-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q55421-F1-model_v4 Elongation factor G-like protein	0.055	100	93	172	270	555	654	2.147E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-A1D5Z0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1D5Z0-F1-model_v4 Translation factor guf1, mitochondrial	0.088	74	65	196	269	491	562	2.598E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q1D777-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1D777-F1-model_v4 Elongation factor G 2	0.026	105	100	172	276	583	686	9.535E-01	53
+DESULFOASV1_2775_YitT_family_protein	AF-B1MW21-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1MW21-F1-model_v4 Elongation factor G	0.059	109	101	175	282	587	695	8.263E-01	53
+DESULFOASV1_2775_YitT_family_protein	AF-A7ZSL5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7ZSL5-F1-model_v4 Elongation factor G	0.058	111	102	172	282	590	698	4.235E-01	53
+DESULFOASV1_2775_YitT_family_protein	AF-P75386-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P75386-F1-model_v4 Probable guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	0.111	76	64	197	269	658	733	1.860E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q875Z2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q875Z2-F1-model_v4 Elongation factor 2	0.074	99	89	176	272	702	800	1.100E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q96X45-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q96X45-F1-model_v4 Elongation factor 2	0.066	99	83	183	272	703	801	1.397E+00	53
+DESULFOASV1_2775_YitT_family_protein	AF-Q8KF60-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8KF60-F1-model_v4 Putative nickel-responsive regulator	0.072	113	101	158	267	19	131	6.508E-01	52
+DESULFOASV1_2775_YitT_family_protein	AF-Q8TV90-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8TV90-F1-model_v4 Putative nickel-responsive regulator	0.123	118	100	158	272	24	141	6.826E-01	52
+DESULFOASV1_2775_YitT_family_protein	AF-O78451-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O78451-F1-model_v4 Acetolactate synthase small subunit	0.075	77	69	196	271	2	78	2.858E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-A1U4Z7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1U4Z7-F1-model_v4 Urease accessory protein UreE	0.091	90	77	196	281	74	163	6.826E-01	52
+DESULFOASV1_2775_YitT_family_protein	AF-P21961-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P21961-F1-model_v4 Mast cell carboxypeptidase A	0.102	73	63	194	266	16	86	2.477E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-A1W018-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1W018-F1-model_v4 Elongation factor 4	0.151	74	60	196	269	405	476	1.270E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-B5EB36-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5EB36-F1-model_v4 Elongation factor 4	0.090	74	65	196	269	405	476	2.725E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-A8G3D2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8G3D2-F1-model_v4 Elongation factor 4	0.090	75	66	196	270	408	480	4.188E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-A5GMR2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5GMR2-F1-model_v4 Elongation factor 4	0.113	75	64	196	270	408	480	1.691E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-Q9X1V8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9X1V8-F1-model_v4 Elongation factor 4	0.103	74	65	196	269	422	494	4.607E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-A8QCE7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A8QCE7-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.125	75	63	196	270	453	525	1.860E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-P9WK97-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P9WK97-F1-model_v4 Elongation factor 4	0.092	75	65	196	270	452	524	2.998E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-P65270-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P65270-F1-model_v4 Elongation factor 4	0.088	75	66	196	270	452	524	2.858E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-A6RGX9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6RGX9-F1-model_v4 Translation factor GUF1, mitochondrial	0.089	74	65	196	269	465	536	2.858E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-C0SHD5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C0SHD5-F1-model_v4 Translation factor GUF1, mitochondrial	0.103	75	65	196	270	466	538	3.992E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-B6H2S6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B6H2S6-F1-model_v4 Translation factor guf1, mitochondrial	0.075	74	66	196	269	474	545	2.362E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-O51216-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O51216-F1-model_v4 Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	0.086	88	73	196	283	585	665	2.362E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-F4K410-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-F4K410-F1-model_v4 Putative elongation factor TypA-like SVR3, chloroplastic	0.101	79	67	196	274	477	551	3.298E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-Q5M2M6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5M2M6-F1-model_v4 Elongation factor G	0.034	109	103	175	282	577	685	1.100E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-B7LS46-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7LS46-F1-model_v4 Elongation factor G	0.058	111	102	172	282	590	698	5.377E-01	52
+DESULFOASV1_2775_YitT_family_protein	AF-Q31VU9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q31VU9-F1-model_v4 Elongation factor G	0.058	111	102	172	282	590	698	5.377E-01	52
+DESULFOASV1_2775_YitT_family_protein	AF-Q4FQG5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4FQG5-F1-model_v4 Elongation factor G	0.081	112	101	171	282	587	697	9.090E-01	52
+DESULFOASV1_2775_YitT_family_protein	AF-P52560-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P52560-F1-model_v4 GTP pyrophosphokinase	0.060	82	71	196	272	766	847	2.362E+00	52
+DESULFOASV1_2775_YitT_family_protein	AF-P44651-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P44651-F1-model_v4 Chaperone NapD	0.123	86	72	191	273	8	93	2.251E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-O33113-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O33113-F1-model_v4 Acetolactate synthase small subunit	0.128	75	62	196	267	6	80	2.725E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q55141-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q55141-F1-model_v4 Acetolactate synthase small subunit	0.088	76	67	196	270	2	77	3.145E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q9CIN4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9CIN4-F1-model_v4 Methionine import ATP-binding protein MetN	0.098	275	224	27	275	94	368	1.996E-02	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q39US7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q39US7-F1-model_v4 Elongation factor 4	0.101	74	64	196	269	405	476	3.460E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q8CXD0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8CXD0-F1-model_v4 Elongation factor 4	0.065	73	65	196	268	407	477	2.998E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q6MEF3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6MEF3-F1-model_v4 Elongation factor 4	0.160	75	60	196	270	408	480	1.612E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-A7A1H2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7A1H2-F1-model_v4 Translation factor GUF1, mitochondrial	0.050	75	69	196	270	452	525	2.362E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-P9WK96-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P9WK96-F1-model_v4 Elongation factor 4	0.126	75	63	196	270	452	524	2.998E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-B8MS24-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8MS24-F1-model_v4 Translation factor guf1, mitochondrial	0.064	75	67	196	270	473	545	3.460E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q4WYV0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q4WYV0-F1-model_v4 Translation factor guf1, mitochondrial	0.109	74	63	196	269	491	562	2.147E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q2NJ19-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2NJ19-F1-model_v4 Elongation factor G	0.068	109	99	176	282	575	683	6.205E-01	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q7VRN9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7VRN9-F1-model_v4 Elongation factor G	0.081	103	93	168	269	587	689	8.263E-01	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q874B9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q874B9-F1-model_v4 Elongation factor 2	0.073	105	85	179	271	702	806	1.154E+00	51
+DESULFOASV1_2775_YitT_family_protein	AF-Q9ASR1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9ASR1-F1-model_v4 Elongation factor 2	0.071	105	89	175	271	703	807	9.535E-01	51
+DESULFOASV1_2775_YitT_family_protein	AF-B1ZUS4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1ZUS4-F1-model_v4 Ribosomal protein L11 methyltransferase	0.109	76	64	197	269	2	77	1.211E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-Q03P57-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q03P57-F1-model_v4 Methionine import ATP-binding protein MetN	0.096	264	222	21	267	83	346	3.067E-02	50
+DESULFOASV1_2775_YitT_family_protein	AF-Q2IHM1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2IHM1-F1-model_v4 Putative nickel insertion protein	0.096	80	65	197	269	251	330	4.188E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-Q9KC63-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9KC63-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.065	231	207	36	266	182	403	5.438E-02	50
+DESULFOASV1_2775_YitT_family_protein	AF-Q3KMV7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3KMV7-F1-model_v4 Elongation factor 4	0.123	74	62	196	269	409	480	1.951E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-Q6A9B2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6A9B2-F1-model_v4 Elongation factor 4	0.038	75	69	196	270	412	484	4.832E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-C8ZDQ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C8ZDQ3-F1-model_v4 Translation factor GUF1, mitochondrial	0.037	75	70	196	270	452	525	2.046E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-P60791-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P60791-F1-model_v4 Elongation factor 4	0.126	75	63	196	270	459	531	3.298E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-Q7WFL2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7WFL2-F1-model_v4 Elongation factor G 2	0.076	111	102	172	282	585	695	2.147E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-Q49640-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q49640-F1-model_v4 Probable GTP pyrophosphokinase	0.072	79	71	196	273	709	787	2.477E+00	50
+DESULFOASV1_2775_YitT_family_protein	AF-B3QCC6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3QCC6-F1-model_v4 Putative nickel-responsive regulator	0.094	131	111	158	281	13	143	8.263E-01	49
+DESULFOASV1_2775_YitT_family_protein	AF-O85294-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O85294-F1-model_v4 Acetolactate synthase small subunit	0.106	74	63	196	266	2	75	5.576E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-Q89AP8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q89AP8-F1-model_v4 Acetolactate synthase small subunit	0.051	75	69	196	269	3	77	3.629E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-Q1QVQ7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1QVQ7-F1-model_v4 Methionine import ATP-binding protein MetN	0.092	268	227	23	273	80	347	4.493E-02	49
+DESULFOASV1_2775_YitT_family_protein	AF-C6DZ67-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C6DZ67-F1-model_v4 Elongation factor 4	0.090	74	65	196	269	405	476	3.460E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-Q0ICF2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0ICF2-F1-model_v4 Elongation factor 4	0.113	75	64	196	270	408	480	2.251E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-A1CLD7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1CLD7-F1-model_v4 Translation factor guf1, mitochondrial	0.088	74	65	196	269	472	543	3.629E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-A2QU25-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A2QU25-F1-model_v4 Translation factor guf1, mitochondrial	0.102	74	64	196	269	474	545	2.858E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-A6QLJ3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A6QLJ3-F1-model_v4 Translation factor GUF1, mitochondrial	0.076	75	67	196	270	473	545	4.607E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-B3QZH4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3QZH4-F1-model_v4 Elongation factor G	0.084	109	97	176	282	575	683	6.826E-01	49
+DESULFOASV1_2775_YitT_family_protein	AF-Q889X4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q889X4-F1-model_v4 Elongation factor G	0.120	96	82	176	269	588	683	5.916E-01	49
+DESULFOASV1_2775_YitT_family_protein	AF-B8D852-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8D852-F1-model_v4 Elongation factor G	0.116	116	101	168	282	582	697	9.535E-01	49
+DESULFOASV1_2775_YitT_family_protein	AF-P15112-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P15112-F1-model_v4 Elongation factor 2	0.104	98	85	176	271	701	798	1.860E+00	49
+DESULFOASV1_2775_YitT_family_protein	AF-O26703-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O26703-F1-model_v4 Putative nickel-responsive regulator 1	0.122	115	96	158	267	13	127	7.878E-01	48
+DESULFOASV1_2775_YitT_family_protein	AF-Q3A9G5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3A9G5-F1-model_v4 Methionine import ATP-binding protein MetN	0.101	248	210	33	267	90	337	3.374E-02	48
+DESULFOASV1_2775_YitT_family_protein	AF-P15089-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P15089-F1-model_v4 Mast cell carboxypeptidase A	0.090	73	64	194	266	21	91	2.598E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-Q74ZG2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q74ZG2-F1-model_v4 Translation factor GUF1, mitochondrial	0.075	75	68	196	270	451	524	2.725E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-P53530-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P53530-F1-model_v4 Elongation factor 4	0.089	75	66	196	270	445	517	4.832E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-C5GRI9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5GRI9-F1-model_v4 Translation factor GUF1, mitochondrial	0.102	74	64	196	269	465	536	3.145E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-C8VPJ1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C8VPJ1-F1-model_v4 Translation factor guf1, mitochondrial	0.101	75	65	196	270	470	542	2.725E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-C5PCH4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5PCH4-F1-model_v4 Translation factor GUF1, mitochondrial	0.102	74	64	196	269	471	542	3.145E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-Q0CS42-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0CS42-F1-model_v4 Translation factor guf1, mitochondrial	0.102	74	64	196	269	473	544	3.145E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-P09952-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P09952-F1-model_v4 Elongation factor G	0.084	111	101	172	282	584	694	1.951E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-Q39DL2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q39DL2-F1-model_v4 Elongation factor G 2	0.076	75	67	196	270	415	487	1.691E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-A5WGL0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5WGL0-F1-model_v4 Elongation factor G	0.119	112	97	171	282	587	697	6.205E-01	48
+DESULFOASV1_2775_YitT_family_protein	AF-P0AG21-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0AG21-F1-model_v4 GTP pyrophosphokinase	0.123	79	67	196	272	666	744	2.251E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-P32324-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P32324-F1-model_v4 Elongation factor 2	0.084	114	94	168	271	693	806	1.211E+00	48
+DESULFOASV1_2775_YitT_family_protein	AF-O32488-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O32488-F1-model_v4 Phosphate-specific transport system accessory protein PhoU	0.119	200	167	2	191	8	207	1.224E-01	47
+DESULFOASV1_2775_YitT_family_protein	AF-P0CI33-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0CI33-F1-model_v4 Methionine import ATP-binding protein MetN	0.108	266	213	27	266	94	359	2.658E-02	47
+DESULFOASV1_2775_YitT_family_protein	AF-D8KFN1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-D8KFN1-F1-model_v4 Methionine import ATP-binding protein MetN	0.100	266	215	27	266	94	359	2.788E-02	47
+DESULFOASV1_2775_YitT_family_protein	AF-P37946-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P37946-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.072	232	207	35	266	187	410	1.224E-01	47
+DESULFOASV1_2775_YitT_family_protein	AF-P20506-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P20506-F1-model_v4 L-Threonine dehydratase biosynthetic IlvA	0.103	231	198	36	266	187	408	7.242E-02	47
+DESULFOASV1_2775_YitT_family_protein	AF-P04968-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P04968-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.093	232	201	35	266	186	408	1.011E-01	47
+DESULFOASV1_2775_YitT_family_protein	AF-B7G816-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7G816-F1-model_v4 Translation factor GUF1 homolog, mitochondrial	0.038	74	68	196	269	499	570	4.392E+00	47
+DESULFOASV1_2775_YitT_family_protein	AF-C3K2X9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3K2X9-F1-model_v4 Elongation factor G	0.137	96	80	176	269	588	683	6.205E-01	47
+DESULFOASV1_2775_YitT_family_protein	AF-C1N1Y2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1N1Y2-F1-model_v4 Translation factor GUF1 homolog, chloroplastic	0.132	77	62	196	272	502	574	2.725E+00	47
+DESULFOASV1_2775_YitT_family_protein	AF-C4YJQ8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4YJQ8-F1-model_v4 Elongation factor 2	0.074	99	89	176	272	702	800	2.046E+00	47
+DESULFOASV1_2775_YitT_family_protein	AF-P05197-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P05197-F1-model_v4 Elongation factor 2	0.083	99	88	176	272	718	816	2.147E+00	47
+DESULFOASV1_2775_YitT_family_protein	AF-Q17Z13-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q17Z13-F1-model_v4 Putative nickel-responsive regulator	0.098	81	68	196	271	65	145	1.860E+00	46
+DESULFOASV1_2775_YitT_family_protein	AF-Q02140-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q02140-F1-model_v4 Acetolactate synthase small subunit	0.164	77	62	196	270	2	78	2.725E+00	46
+DESULFOASV1_2775_YitT_family_protein	AF-P21622-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P21622-F1-model_v4 Acetolactate synthase isozyme 3 small subunit	0.116	74	64	196	268	2	75	4.832E+00	46
+DESULFOASV1_2775_YitT_family_protein	AF-P0A9K8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A9K8-F1-model_v4 Phosphate-specific transport system accessory protein PhoU	0.108	207	169	1	191	1	207	1.482E-01	46
+DESULFOASV1_2775_YitT_family_protein	AF-Q83WB2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q83WB2-F1-model_v4 Phosphate-specific transport system accessory protein PhoU	0.098	207	171	1	191	1	207	1.347E-01	46
+DESULFOASV1_2775_YitT_family_protein	AF-Q7U5L9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q7U5L9-F1-model_v4 Elongation factor 4	0.112	75	64	196	270	408	480	3.629E+00	46
+DESULFOASV1_2775_YitT_family_protein	AF-Q0V3J4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q0V3J4-F1-model_v4 Translation factor GUF1, mitochondrial	0.063	75	67	196	270	468	540	3.145E+00	46
+DESULFOASV1_2775_YitT_family_protein	AF-B6QW35-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B6QW35-F1-model_v4 Translation factor guf1, mitochondrial	0.107	75	64	196	270	471	543	2.858E+00	46
+DESULFOASV1_2775_YitT_family_protein	AF-Q6CPQ9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6CPQ9-F1-model_v4 Elongation factor 2	0.074	114	95	168	271	693	806	1.332E+00	46
+DESULFOASV1_2775_YitT_family_protein	AF-Q6N798-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6N798-F1-model_v4 Methionine import ATP-binding protein MetN 2	0.117	260	215	23	266	101	360	5.983E-02	45
+DESULFOASV1_2775_YitT_family_protein	AF-A5F9Y3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A5F9Y3-F1-model_v4 CinA-like protein	0.185	91	67	178	260	156	246	8.263E-01	45
+DESULFOASV1_2775_YitT_family_protein	AF-Q9CKJ2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9CKJ2-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.119	353	233	2	266	54	406	4.493E-02	45
+DESULFOASV1_2775_YitT_family_protein	AF-C1GX39-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C1GX39-F1-model_v4 Translation factor GUF1, mitochondrial	0.101	75	65	196	270	466	538	4.188E+00	45
+DESULFOASV1_2775_YitT_family_protein	AF-O00936-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O00936-F1-model_v4 Myosin-B/C	0.105	123	104	161	277	943	1065	7.878E-01	45
+DESULFOASV1_2775_YitT_family_protein	AF-P0A6Z7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A6Z7-F1-model_v4 Nickel-responsive regulator	0.069	121	105	158	271	13	133	1.773E+00	44
+DESULFOASV1_2775_YitT_family_protein	AF-Q6N0K6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6N0K6-F1-model_v4 Putative nickel-responsive regulator	0.086	132	112	158	281	13	144	8.667E-01	44
+DESULFOASV1_2775_YitT_family_protein	AF-P00732-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P00732-F1-model_v4 Carboxypeptidase B	0.128	77	65	192	268	21	96	2.998E+00	44
+DESULFOASV1_2775_YitT_family_protein	AF-O94634-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O94634-F1-model_v4 Threonine dehydratase, mitochondrial	0.110	234	200	35	268	269	494	1.413E-01	44
+DESULFOASV1_2775_YitT_family_protein	AF-B8ZUS2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8ZUS2-F1-model_v4 Elongation factor 4	0.078	75	66	196	270	445	517	6.435E+00	44
+DESULFOASV1_2775_YitT_family_protein	AF-Q88HL5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q88HL5-F1-model_v4 Putative nickel-responsive regulator	0.075	125	110	158	277	13	137	1.951E+00	43
+DESULFOASV1_2775_YitT_family_protein	AF-Q2IVL9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2IVL9-F1-model_v4 Putative nickel-responsive regulator	0.083	125	110	158	278	13	137	1.860E+00	43
+DESULFOASV1_2775_YitT_family_protein	AF-Q9V2D7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9V2D7-F1-model_v4 Uncharacterized HTH-type transcriptional regulator PYRAB01370	0.101	142	125	134	275	15	154	4.887E-01	43
+DESULFOASV1_2775_YitT_family_protein	AF-O28555-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O28555-F1-model_v4 Probable acetolactate synthase small subunit	0.088	77	68	196	271	2	78	5.849E+00	43
+DESULFOASV1_2775_YitT_family_protein	AF-O30498-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O30498-F1-model_v4 Putative pit accessory protein	0.123	191	162	6	191	10	200	2.277E-01	43
+DESULFOASV1_2775_YitT_family_protein	AF-C4KJ66-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C4KJ66-F1-model_v4 Protein M164_2028	0.080	108	86	176	269	155	262	9.090E-01	43
+DESULFOASV1_2775_YitT_family_protein	AF-P53607-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P53607-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.112	351	224	14	266	51	401	5.983E-02	43
+DESULFOASV1_2775_YitT_family_protein	AF-P47520-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P47520-F1-model_v4 Probable guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	0.148	76	63	197	271	645	720	5.576E+00	43
+DESULFOASV1_2775_YitT_family_protein	AF-P0DKG8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0DKG8-F1-model_v4 Putative GTP diphosphokinase RSH1, chloroplastic	0.088	86	78	181	266	779	864	2.725E+00	43
+DESULFOASV1_2775_YitT_family_protein	AF-A1ST89-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A1ST89-F1-model_v4 Regulator of ribonuclease activity B	0.096	82	64	196	267	37	118	6.435E+00	42
+DESULFOASV1_2775_YitT_family_protein	AF-C0QPW0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C0QPW0-F1-model_v4 Putative nickel-responsive regulator	0.107	121	103	158	273	17	137	2.598E+00	42
+DESULFOASV1_2775_YitT_family_protein	AF-C5BCE8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5BCE8-F1-model_v4 Nickel-responsive regulator	0.101	127	111	158	281	13	139	4.887E-01	42
+DESULFOASV1_2775_YitT_family_protein	AF-Q8U1H7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8U1H7-F1-model_v4 Uncharacterized HTH-type transcriptional regulator PF1231	0.125	124	100	161	275	21	144	1.397E+00	42
+DESULFOASV1_2775_YitT_family_protein	AF-Q8FBT8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8FBT8-F1-model_v4 Phosphate-specific transport system accessory protein PhoU	0.112	200	168	2	191	14	213	3.032E-01	42
+DESULFOASV1_2775_YitT_family_protein	AF-Q9KNM2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9KNM2-F1-model_v4 Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	0.074	77	69	196	271	629	705	6.135E+00	42
+DESULFOASV1_2775_YitT_family_protein	AF-Q23716-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q23716-F1-model_v4 Elongation factor 2	0.091	113	94	176	279	692	804	1.154E+00	42
+DESULFOASV1_2775_YitT_family_protein	AF-Q8ENU2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8ENU2-F1-model_v4 Methionine import ATP-binding protein MetN 2	0.098	263	224	23	271	80	342	1.630E-01	41
+DESULFOASV1_2775_YitT_family_protein	AF-Q04513-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q04513-F1-model_v4 L-threonine dehydratase biosynthetic IlvA	0.087	357	231	14	267	69	425	1.881E-01	41
+DESULFOASV1_2775_YitT_family_protein	AF-Q57IP3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q57IP3-F1-model_v4 Nickel-responsive regulator	0.061	121	106	158	271	13	133	1.465E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q89WI8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q89WI8-F1-model_v4 Putative nickel-responsive regulator	0.070	130	113	158	279	13	142	7.878E-01	40
+DESULFOASV1_2775_YitT_family_protein	AF-P15886-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P15886-F1-model_v4 Uncharacterized protein Mevan_1275	0.125	63	53	197	258	2	64	5.069E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-P0A9K7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A9K7-F1-model_v4 Phosphate-specific transport system accessory protein PhoU	0.117	207	168	1	191	1	207	3.499E-01	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q58091-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q58091-F1-model_v4 Uncharacterized protein MJ0678	0.076	86	79	196	281	3	88	8.569E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q9ZJ34-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9ZJ34-F1-model_v4 Methionine import ATP-binding protein MetN	0.080	233	213	35	267	92	323	7.967E-02	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q1M8E0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1M8E0-F1-model_v4 Methionine import ATP-binding protein MetN	0.099	244	208	35	266	111	354	1.482E-01	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q98DA2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q98DA2-F1-model_v4 Methionine import ATP-binding protein MetN	0.104	247	209	33	266	111	357	1.413E-01	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q8N4T0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8N4T0-F1-model_v4 Carboxypeptidase A6	0.175	72	59	197	268	40	111	9.888E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q5U901-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5U901-F1-model_v4 Carboxypeptidase A6	0.148	72	60	197	268	40	111	9.427E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-P0A0F0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A0F0-F1-model_v4 GTP pyrophosphokinase	0.098	77	68	196	271	660	736	7.080E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-Q90705-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q90705-F1-model_v4 Elongation factor 2	0.087	189	126	134	272	628	816	1.691E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-F4KGU4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-F4KGU4-F1-model_v4 ATP-dependent RNA helicase DEAH12, chloroplastic	0.102	86	66	196	269	1165	1250	3.145E+00	40
+DESULFOASV1_2775_YitT_family_protein	AF-A7GYJ8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7GYJ8-F1-model_v4 Putative nickel-responsive regulator	0.091	120	105	158	274	16	135	1.773E+00	39
+DESULFOASV1_2775_YitT_family_protein	AF-Q8ELQ6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8ELQ6-F1-model_v4 Methionine import ATP-binding protein MetN 3	0.092	254	222	27	271	85	338	7.596E-02	39
+DESULFOASV1_2775_YitT_family_protein	AF-Q6ME20-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6ME20-F1-model_v4 Methionine import ATP-binding protein MetN	0.112	243	209	33	268	97	339	1.482E-01	39
+DESULFOASV1_2775_YitT_family_protein	AF-Q2K284-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q2K284-F1-model_v4 Methionine import ATP-binding protein MetN	0.101	239	183	62	266	115	353	2.628E-01	39
+DESULFOASV1_2775_YitT_family_protein	AF-B1KSY5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1KSY5-F1-model_v4 Putative competence-damage inducible protein	0.159	87	72	175	261	154	240	4.442E-01	39
+DESULFOASV1_2775_YitT_family_protein	AF-C3KYP8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C3KYP8-F1-model_v4 Putative competence-damage inducible protein	0.159	87	72	175	261	154	240	4.887E-01	39
+DESULFOASV1_2775_YitT_family_protein	AF-P25306-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P25306-F1-model_v4 Threonine dehydratase 2 biosynthetic, chloroplastic	0.113	348	224	14	266	142	489	1.482E-01	39
+DESULFOASV1_2775_YitT_family_protein	AF-A0FKE6-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0FKE6-F1-model_v4 Threonine dehydratase 1 biosynthetic, chloroplastic	0.121	232	196	35	266	278	501	1.710E-01	39
+DESULFOASV1_2775_YitT_family_protein	AF-Q30Y72-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q30Y72-F1-model_v4 Siroheme decarboxylase alpha subunit	0.102	142	107	135	276	31	150	1.211E+00	38
+DESULFOASV1_2775_YitT_family_protein	AF-Q63GR8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q63GR8-F1-model_v4 Methionine import ATP-binding protein MetN 2	0.093	250	218	27	267	85	334	1.413E-01	38
+DESULFOASV1_2775_YitT_family_protein	AF-P31212-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P31212-F1-model_v4 Threonine dehydratase biosynthetic, chloroplastic	0.106	252	220	15	266	7	253	3.850E-01	38
+DESULFOASV1_2775_YitT_family_protein	AF-Q3SYU2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q3SYU2-F1-model_v4 Elongation factor 2	0.085	189	126	134	272	628	816	1.951E+00	38
+DESULFOASV1_2775_YitT_family_protein	AF-O57880-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O57880-F1-model_v4 Uncharacterized HTH-type transcriptional regulator PH0140	0.101	142	112	138	279	31	156	1.270E+00	37
+DESULFOASV1_2775_YitT_family_protein	AF-B1IDA0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B1IDA0-F1-model_v4 Putative competence-damage inducible protein	0.150	87	71	177	261	154	240	7.878E-01	37
+DESULFOASV1_2775_YitT_family_protein	AF-B5YB52-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5YB52-F1-model_v4 CinA-like protein	0.113	91	74	178	261	154	244	1.773E+00	37
+DESULFOASV1_2775_YitT_family_protein	AF-Q6GG70-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6GG70-F1-model_v4 GTP pyrophosphokinase	0.098	77	68	196	271	660	736	9.427E+00	37
+DESULFOASV1_2775_YitT_family_protein	AF-Q931Q4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q931Q4-F1-model_v4 GTP pyrophosphokinase	0.098	77	68	196	271	660	736	9.888E+00	37
+DESULFOASV1_2775_YitT_family_protein	AF-O52177-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O52177-F1-model_v4 GTP pyrophosphokinase	0.112	77	65	196	269	681	757	9.427E+00	37
+DESULFOASV1_2775_YitT_family_protein	AF-P13639-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P13639-F1-model_v4 Elongation factor 2	0.079	195	126	134	271	628	822	1.773E+00	37
+DESULFOASV1_2775_YitT_family_protein	AF-I6TCK3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-I6TCK3-F1-model_v4 Siroheme decarboxylase NirG subunit	0.111	118	94	171	277	34	151	1.465E+00	36
+DESULFOASV1_2775_YitT_family_protein	AF-Q6HP89-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6HP89-F1-model_v4 Methionine import ATP-binding protein MetN 1	0.097	250	217	27	267	85	334	2.277E-01	36
+DESULFOASV1_2775_YitT_family_protein	AF-Q83F44-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q83F44-F1-model_v4 Methionine import ATP-binding protein MetN	0.089	265	226	23	271	80	344	3.181E-01	36
+DESULFOASV1_2775_YitT_family_protein	AF-Q8YD40-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8YD40-F1-model_v4 Methionine import ATP-binding protein MetN	0.104	246	209	33	266	116	361	2.171E-01	36
+DESULFOASV1_2775_YitT_family_protein	AF-B8DYM0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8DYM0-F1-model_v4 CinA-like protein	0.100	74	65	186	258	164	237	1.537E+00	36
+DESULFOASV1_2775_YitT_family_protein	AF-Q9AYT5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9AYT5-F1-model_v4 Putative GTP diphosphokinase RSH1, chloroplastic	0.100	84	71	196	275	806	889	9.427E+00	36
+DESULFOASV1_2775_YitT_family_protein	AF-Q81ZF5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q81ZF5-F1-model_v4 Methionine import ATP-binding protein MetN 2	0.081	250	221	27	267	85	334	2.628E-01	35
+DESULFOASV1_2775_YitT_family_protein	AF-Q73EL7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q73EL7-F1-model_v4 Methionine import ATP-binding protein MetN 2	0.100	250	216	27	267	85	334	2.070E-01	35
+DESULFOASV1_2775_YitT_family_protein	AF-Q81IN8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q81IN8-F1-model_v4 Methionine import ATP-binding protein MetN 2	0.081	250	221	27	267	85	334	2.277E-01	35
+DESULFOASV1_2775_YitT_family_protein	AF-Q9AXU4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9AXU4-F1-model_v4 Threonine dehydratase	0.108	348	225	14	266	149	496	3.032E-01	35
+DESULFOASV1_2775_YitT_family_protein	AF-Q9P6M8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9P6M8-F1-model_v4 mRNA export factor crp79	0.102	85	74	197	279	202	286	6.135E+00	35
+DESULFOASV1_2775_YitT_family_protein	AF-P0A1C7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P0A1C7-F1-model_v4 Propanediol utilization protein PduA	0.108	78	68	196	273	5	81	8.988E+00	34
+DESULFOASV1_2775_YitT_family_protein	AF-C5DZ92-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5DZ92-F1-model_v4 RNA annealing protein YRA2	0.105	84	73	197	279	44	127	4.392E+00	34
+DESULFOASV1_2775_YitT_family_protein	AF-B8J364-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B8J364-F1-model_v4 Siroheme decarboxylase alpha subunit	0.102	139	107	138	276	45	164	2.477E+00	34
+DESULFOASV1_2775_YitT_family_protein	AF-O94403-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O94403-F1-model_v4 Uncharacterized RNA-binding protein C126.11c	0.079	84	76	196	279	99	182	9.888E+00	34
+DESULFOASV1_2775_YitT_family_protein	AF-C5CFW1-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-C5CFW1-F1-model_v4 CinA-like protein	0.162	83	68	179	261	159	240	1.100E+00	34
+DESULFOASV1_2775_YitT_family_protein	AF-B0R4X4-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B0R4X4-F1-model_v4 HTH-type transcriptional regulator LrpA1	0.133	133	100	161	276	10	142	1.773E+00	33
+DESULFOASV1_2775_YitT_family_protein	AF-Q52524-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q52524-F1-model_v4 Siroheme decarboxylase NirG subunit	0.109	137	104	138	274	23	140	2.858E+00	33
+DESULFOASV1_2775_YitT_family_protein	AF-Q72DS5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q72DS5-F1-model_v4 Siroheme decarboxylase alpha subunit	0.108	143	117	134	276	37	168	1.270E+00	33
+DESULFOASV1_2775_YitT_family_protein	AF-Q9PBJ9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9PBJ9-F1-model_v4 Phosphate-specific transport system accessory protein PhoU homolog	0.115	194	163	7	191	12	205	9.090E-01	33
+DESULFOASV1_2775_YitT_family_protein	AF-B3DRV8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B3DRV8-F1-model_v4 Probable cell division protein WhiA	0.078	61	49	200	253	44	104	6.750E+00	33
+DESULFOASV1_2775_YitT_family_protein	AF-Q1IPQ9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q1IPQ9-F1-model_v4 CinA-like protein	0.140	67	55	197	261	183	249	2.858E+00	33
+DESULFOASV1_2775_YitT_family_protein	AF-Q03338-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q03338-F1-model_v4 U4/U6 small nuclear ribonucleoprotein PRP3	0.137	156	121	135	275	276	431	2.251E+00	33
+DESULFOASV1_2775_YitT_family_protein	AF-A7I1P3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A7I1P3-F1-model_v4 Putative nickel-responsive regulator	0.075	121	107	158	274	16	136	5.069E+00	32
+DESULFOASV1_2775_YitT_family_protein	AF-P95414-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P95414-F1-model_v4 Siroheme decarboxylase NirG subunit	0.096	137	106	138	274	23	140	3.806E+00	32
+DESULFOASV1_2775_YitT_family_protein	AF-Q87C87-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q87C87-F1-model_v4 Phosphate-specific transport system accessory protein PhoU homolog	0.122	205	167	1	191	1	205	1.049E+00	32
+DESULFOASV1_2775_YitT_family_protein	AF-Q8G6D7-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8G6D7-F1-model_v4 Probable cell division protein WhiA	0.078	61	49	200	253	44	104	8.170E+00	32
+DESULFOASV1_2775_YitT_family_protein	AF-A0RHF2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A0RHF2-F1-model_v4 Putative competence-damage inducible protein	0.097	86	74	178	260	155	240	2.477E+00	32
+DESULFOASV1_2775_YitT_family_protein	AF-O27767-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O27767-F1-model_v4 Phosphate-specific transport system accessory protein PhoU homolog 1	0.111	204	169	1	191	1	204	1.211E+00	31
+DESULFOASV1_2775_YitT_family_protein	AF-B7HLB5-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B7HLB5-F1-model_v4 Putative competence-damage inducible protein	0.097	86	74	178	260	155	240	2.598E+00	31
+DESULFOASV1_2775_YitT_family_protein	AF-Q9SMC2-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9SMC2-F1-model_v4 Acetolactate synthase small subunit 1, chloroplastic	0.119	84	71	196	279	338	419	8.569E+00	31
+DESULFOASV1_2775_YitT_family_protein	AF-Q5HNR8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5HNR8-F1-model_v4 GTP pyrophosphokinase	0.083	77	69	196	271	653	729	7.789E+00	31
+DESULFOASV1_2775_YitT_family_protein	AF-P44337-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P44337-F1-model_v4 Regulatory protein AsnC	0.130	142	122	134	275	7	147	3.298E+00	30
+DESULFOASV1_2775_YitT_family_protein	AF-O14327-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O14327-F1-model_v4 Polyadenylate-binding protein 2	0.125	129	108	158	281	12	140	4.392E+00	30
+DESULFOASV1_2775_YitT_family_protein	AF-Q65M34-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q65M34-F1-model_v4 Methionine import ATP-binding protein MetN 1	0.099	235	182	67	269	99	333	1.397E+00	29
+DESULFOASV1_2775_YitT_family_protein	AF-Q6AE21-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q6AE21-F1-model_v4 Methionine import ATP-binding protein MetN	0.096	250	215	27	265	87	336	8.667E-01	29
+DESULFOASV1_2775_YitT_family_protein	AF-Q8CS97-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q8CS97-F1-model_v4 GTP pyrophosphokinase	0.083	77	69	196	271	653	729	8.569E+00	29
+DESULFOASV1_2775_YitT_family_protein	AF-Q65JF3-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q65JF3-F1-model_v4 Putative competence-damage inducible protein	0.094	89	78	175	261	158	246	2.725E+00	28
+DESULFOASV1_2775_YitT_family_protein	AF-O14346-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-O14346-F1-model_v4 Probable very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase	0.116	187	162	8	191	7	193	2.251E+00	27
+DESULFOASV1_2775_YitT_family_protein	AF-Q64X43-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q64X43-F1-model_v4 Putative manganese efflux pump MntP	0.142	183	155	10	191	4	186	1.773E+00	26
+DESULFOASV1_2775_YitT_family_protein	AF-Q5LG69-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q5LG69-F1-model_v4 Putative manganese efflux pump MntP	0.142	183	155	10	191	4	186	1.951E+00	25
+DESULFOASV1_2775_YitT_family_protein	AF-Q64TK0-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q64TK0-F1-model_v4 CinA-like protein	0.133	84	68	178	257	154	237	5.576E+00	25
+DESULFOASV1_2775_YitT_family_protein	AF-Q9HPU8-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-Q9HPU8-F1-model_v4 Bacterioopsin transcriptional activator	0.099	118	93	168	271	425	542	9.427E+00	25
+DESULFOASV1_2775_YitT_family_protein	AF-E7KEM9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-E7KEM9-F1-model_v4 RNA annealing protein YRA2	0.132	138	106	144	281	24	146	7.426E+00	24
+DESULFOASV1_2775_YitT_family_protein	AF-P39832-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-P39832-F1-model_v4 High-affinity zinc uptake system membrane protein ZnuB	0.152	180	149	8	187	4	180	2.477E+00	24
+DESULFOASV1_2775_YitT_family_protein	AF-A3KI17-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-A3KI17-F1-model_v4 2-methylisoborneol synthase	0.118	180	131	42	191	248	427	9.888E+00	20
+DESULFOASV1_2775_YitT_family_protein	AF-B5REE9-F1-model_v4	DESULFOASV1_2775_YitT_family_protein	AF-B5REE9-F1-model_v4 Zinc transporter ZupT	0.140	215	156	10	191	3	217	2.147E+00	18

@@ -1,0 +1,963 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_0978_hypothetical_protein	AF-Q57726-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q57726-F1-model_v4 Short-type peptidyl-prolyl cis-trans isomerase	0.190	231	122	29	259	2	152	9.211E-12	366
+DESULFOASV1_0978_hypothetical_protein	AF-O52980-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O52980-F1-model_v4 Short-type peptidyl-prolyl cis-trans isomerase	0.196	229	120	32	260	2	151	1.795E-10	338
+DESULFOASV1_0978_hypothetical_protein	AF-P21863-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P21863-F1-model_v4 Probable FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase	0.172	238	122	23	260	2	149	6.157E-10	332
+DESULFOASV1_0978_hypothetical_protein	AF-P0AEM2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AEM2-F1-model_v4 FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase	0.210	228	110	31	258	4	143	2.123E-10	307
+DESULFOASV1_0978_hypothetical_protein	AF-O27197-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O27197-F1-model_v4 Long-type peptidyl-prolyl cis-trans isomerase	0.186	312	203	30	341	1	250	4.446E-12	304
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CKP2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CKP2-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.186	231	114	30	260	1	141	9.640E-10	298
+DESULFOASV1_0978_hypothetical_protein	AF-Q58235-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q58235-F1-model_v4 Long-type peptidyl-prolyl cis-trans isomerase	0.188	294	175	32	325	2	218	2.525E-11	297
+DESULFOASV1_0978_hypothetical_protein	AF-P0AEM3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AEM3-F1-model_v4 FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase	0.206	228	110	31	258	4	143	2.375E-10	296
+DESULFOASV1_0978_hypothetical_protein	AF-P0AEM0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AEM0-F1-model_v4 FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase	0.206	228	110	31	258	4	143	4.160E-10	291
+DESULFOASV1_0978_hypothetical_protein	AF-P0AEM1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AEM1-F1-model_v4 FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase	0.206	228	110	31	258	4	143	3.933E-10	289
+DESULFOASV1_0978_hypothetical_protein	AF-O07046-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O07046-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.177	231	114	30	260	1	140	1.078E-09	289
+DESULFOASV1_0978_hypothetical_protein	AF-P44830-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P44830-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.173	231	116	30	260	1	141	4.376E-09	279
+DESULFOASV1_0978_hypothetical_protein	AF-Q95108-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q95108-F1-model_v4 Thioredoxin, mitochondrial	0.201	107	84	271	377	61	166	9.489E-07	272
+DESULFOASV1_0978_hypothetical_protein	AF-Q7M1B9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7M1B9-F1-model_v4 Thioredoxin	0.223	111	84	268	378	1	109	2.460E-06	266
+DESULFOASV1_0978_hypothetical_protein	AF-Q99757-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q99757-F1-model_v4 Thioredoxin, mitochondrial	0.217	113	87	265	377	55	166	7.171E-07	265
+DESULFOASV1_0978_hypothetical_protein	AF-Q9KNX6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9KNX6-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.190	231	113	30	260	1	141	1.349E-09	265
+DESULFOASV1_0978_hypothetical_protein	AF-P97493-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P97493-F1-model_v4 Thioredoxin, mitochondrial	0.208	113	88	265	377	55	166	1.123E-06	263
+DESULFOASV1_0978_hypothetical_protein	AF-P0A9L1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A9L1-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.164	231	117	30	260	1	141	1.014E-08	261
+DESULFOASV1_0978_hypothetical_protein	AF-P0A9L0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A9L0-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.164	231	117	30	260	1	141	1.014E-08	259
+DESULFOASV1_0978_hypothetical_protein	AF-P97615-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P97615-F1-model_v4 Thioredoxin, mitochondrial	0.200	113	89	265	377	55	166	1.571E-06	258
+DESULFOASV1_0978_hypothetical_protein	AF-P0A9K9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A9K9-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.164	231	117	30	260	1	141	2.101E-08	255
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZP20-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZP20-F1-model_v4 Thioredoxin M5, chloroplastic	0.177	114	91	265	378	61	172	1.571E-06	253
+DESULFOASV1_0978_hypothetical_protein	AF-P0A9L2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A9L2-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.164	231	117	30	260	1	141	1.878E-08	253
+DESULFOASV1_0978_hypothetical_protein	AF-Q17424-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q17424-F1-model_v4 Probable thioredoxin-2	0.181	114	92	265	378	33	145	2.752E-06	252
+DESULFOASV1_0978_hypothetical_protein	AF-Q41864-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q41864-F1-model_v4 Thioredoxin M-type, chloroplastic	0.169	115	94	265	378	52	166	2.752E-06	252
+DESULFOASV1_0978_hypothetical_protein	AF-P52232-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52232-F1-model_v4 Thioredoxin-like protein slr0233	0.271	103	72	272	374	4	103	3.443E-06	248
+DESULFOASV1_0978_hypothetical_protein	AF-P23400-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P23400-F1-model_v4 Thioredoxin M-type, chloroplastic	0.185	112	89	265	376	30	139	4.819E-06	247
+DESULFOASV1_0978_hypothetical_protein	AF-P9WG61-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WG61-F1-model_v4 Uncharacterized protein Rv1324	0.176	116	95	262	377	36	151	2.460E-06	247
+DESULFOASV1_0978_hypothetical_protein	AF-O22229-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O22229-F1-model_v4 NADPH-dependent thioredoxin reductase 3	0.154	110	90	266	375	422	528	2.326E-06	247
+DESULFOASV1_0978_hypothetical_protein	AF-Q7CFU4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7CFU4-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.168	231	116	30	260	1	141	2.781E-08	245
+DESULFOASV1_0978_hypothetical_protein	AF-O84544-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O84544-F1-model_v4 Thioredoxin	0.173	104	81	271	374	2	100	6.377E-06	244
+DESULFOASV1_0978_hypothetical_protein	AF-Q9XDB2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9XDB2-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.208	124	92	262	378	455	578	2.199E-06	244
+DESULFOASV1_0978_hypothetical_protein	AF-P66928-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P66928-F1-model_v4 Thioredoxin	0.205	107	81	271	377	4	106	1.117E-05	243
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZP21-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZP21-F1-model_v4 Thioredoxin M-type, chloroplastic	0.194	114	89	265	378	65	175	1.859E-06	243
+DESULFOASV1_0978_hypothetical_protein	AF-P64808-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P64808-F1-model_v4 Uncharacterized protein Mb1359	0.182	112	91	266	377	40	151	5.390E-06	242
+DESULFOASV1_0978_hypothetical_protein	AF-P33791-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P33791-F1-model_v4 Thioredoxin	0.200	104	81	271	374	3	104	1.181E-05	240
+DESULFOASV1_0978_hypothetical_protein	AF-P52228-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52228-F1-model_v4 Thioredoxin C-3	0.196	111	86	267	377	33	140	7.133E-06	238
+DESULFOASV1_0978_hypothetical_protein	AF-P66929-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P66929-F1-model_v4 Thioredoxin	0.209	107	81	271	377	4	106	1.056E-05	234
+DESULFOASV1_0978_hypothetical_protein	AF-O25748-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O25748-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.149	226	117	35	260	9	146	6.816E-08	233
+DESULFOASV1_0978_hypothetical_protein	AF-P9WG60-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WG60-F1-model_v4 Uncharacterized protein MT1366	0.182	112	91	266	377	40	151	1.056E-05	233
+DESULFOASV1_0978_hypothetical_protein	AF-P00275-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P00275-F1-model_v4 Thioredoxin C-1	0.207	105	81	271	375	2	104	2.068E-05	232
+DESULFOASV1_0978_hypothetical_protein	AF-P0AGG4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AGG4-F1-model_v4 Thioredoxin 2	0.196	129	95	257	375	10	138	2.199E-06	232
+DESULFOASV1_0978_hypothetical_protein	AF-O83369-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O83369-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.167	249	138	30	278	1	167	1.878E-08	232
+DESULFOASV1_0978_hypothetical_protein	AF-P0AGG6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AGG6-F1-model_v4 Thioredoxin 2	0.196	129	95	257	375	10	138	2.602E-06	231
+DESULFOASV1_0978_hypothetical_protein	AF-Q9PJK3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9PJK3-F1-model_v4 Thioredoxin	0.173	104	81	271	374	2	100	1.849E-05	230
+DESULFOASV1_0978_hypothetical_protein	AF-P14949-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P14949-F1-model_v4 Thioredoxin	0.207	106	80	269	374	1	102	2.895E-05	230
+DESULFOASV1_0978_hypothetical_protein	AF-P0AGG7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AGG7-F1-model_v4 Thioredoxin 2	0.196	129	95	257	375	10	138	2.602E-06	230
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZK89-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZK89-F1-model_v4 FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	0.154	246	135	33	278	8	168	5.150E-08	230
+DESULFOASV1_0978_hypothetical_protein	AF-Q9Z7P5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9Z7P5-F1-model_v4 Thioredoxin	0.207	103	77	272	374	3	100	9.439E-06	229
+DESULFOASV1_0978_hypothetical_protein	AF-P20857-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P20857-F1-model_v4 Thioredoxin 2	0.165	108	88	271	378	5	110	2.314E-05	228
+DESULFOASV1_0978_hypothetical_protein	AF-P48384-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P48384-F1-model_v4 Thioredoxin M-type, chloroplastic	0.200	114	87	262	375	62	171	1.181E-05	228
+DESULFOASV1_0978_hypothetical_protein	AF-O83889-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O83889-F1-model_v4 Thioredoxin	0.174	103	82	273	375	5	104	3.238E-05	227
+DESULFOASV1_0978_hypothetical_protein	AF-P52227-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52227-F1-model_v4 Thioredoxin	0.207	103	77	272	374	3	100	1.117E-05	225
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CM49-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CM49-F1-model_v4 Thioredoxin	0.157	107	88	269	375	1	105	2.588E-05	225
+DESULFOASV1_0978_hypothetical_protein	AF-P0AGG5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AGG5-F1-model_v4 Thioredoxin 2	0.196	129	95	257	375	10	138	4.073E-06	225
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SEU6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SEU6-F1-model_v4 Thioredoxin M4, chloroplastic	0.156	114	94	265	378	82	193	2.588E-05	225
+DESULFOASV1_0978_hypothetical_protein	AF-Q9X2T1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9X2T1-F1-model_v4 Thioredoxin	0.198	105	82	271	375	5	107	3.425E-05	224
+DESULFOASV1_0978_hypothetical_protein	AF-Q7X8R5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7X8R5-F1-model_v4 Thioredoxin M2, chloroplastic	0.173	111	89	265	375	69	177	6.029E-06	224
+DESULFOASV1_0978_hypothetical_protein	AF-P46843-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P46843-F1-model_v4 Bifunctional thioredoxin reductase/thioredoxin	0.171	104	84	273	376	353	454	3.238E-05	223
+DESULFOASV1_0978_hypothetical_protein	AF-A5UDI9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5UDI9-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.192	124	94	259	375	455	578	6.744E-06	223
+DESULFOASV1_0978_hypothetical_protein	AF-Q9R6P9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9R6P9-F1-model_v4 Thioredoxin	0.223	101	75	272	372	2	99	2.314E-05	222
+DESULFOASV1_0978_hypothetical_protein	AF-P12243-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P12243-F1-model_v4 Thioredoxin 1	0.194	107	84	268	374	1	105	3.622E-05	222
+DESULFOASV1_0978_hypothetical_protein	AF-P10472-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P10472-F1-model_v4 Thioredoxin	0.182	110	88	268	377	1	108	1.748E-05	222
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CP40-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CP40-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.211	117	86	268	377	454	570	1.321E-05	222
+DESULFOASV1_0978_hypothetical_protein	AF-P50254-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P50254-F1-model_v4 Thioredoxin	0.157	107	88	269	375	1	105	3.831E-05	221
+DESULFOASV1_0978_hypothetical_protein	AF-P9WG66-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WG66-F1-model_v4 Thioredoxin	0.157	113	93	265	377	3	113	2.895E-05	221
+DESULFOASV1_0978_hypothetical_protein	AF-A5UI29-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5UI29-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.180	121	93	262	375	458	578	1.117E-05	221
+DESULFOASV1_0978_hypothetical_protein	AF-A6TH46-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A6TH46-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.219	123	85	265	374	473	595	1.563E-05	220
+DESULFOASV1_0978_hypothetical_protein	AF-P50338-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P50338-F1-model_v4 Thioredoxin	0.234	110	82	269	378	1	108	3.622E-05	219
+DESULFOASV1_0978_hypothetical_protein	AF-Q7VMZ4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7VMZ4-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.201	119	89	264	375	455	573	1.321E-05	219
+DESULFOASV1_0978_hypothetical_protein	AF-P52233-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52233-F1-model_v4 Thioredoxin	0.180	104	83	271	374	5	106	5.362E-05	218
+DESULFOASV1_0978_hypothetical_protein	AF-Q8KE49-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8KE49-F1-model_v4 Thioredoxin 2	0.161	104	85	271	374	5	106	4.793E-05	218
+DESULFOASV1_0978_hypothetical_protein	AF-Q8L7S9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8L7S9-F1-model_v4 Thioredoxin Y2, chloroplastic	0.247	114	84	265	377	51	164	5.390E-06	218
+DESULFOASV1_0978_hypothetical_protein	AF-Q4QM23-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4QM23-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.191	119	90	264	375	460	578	1.653E-05	218
+DESULFOASV1_0978_hypothetical_protein	AF-P44919-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P44919-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.183	119	91	264	375	460	578	1.478E-05	218
+DESULFOASV1_0978_hypothetical_protein	AF-P75512-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P75512-F1-model_v4 Thioredoxin	0.182	103	81	271	373	2	101	4.285E-05	217
+DESULFOASV1_0978_hypothetical_protein	AF-O14463-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O14463-F1-model_v4 Thioredoxin-1	0.185	105	82	271	375	2	102	2.737E-05	217
+DESULFOASV1_0978_hypothetical_protein	AF-Q6NPF9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6NPF9-F1-model_v4 Thioredoxin Y1, chloroplastic	0.217	114	87	265	378	59	170	1.181E-05	217
+DESULFOASV1_0978_hypothetical_protein	AF-O48737-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O48737-F1-model_v4 Thioredoxin M1, chloroplastic	0.181	111	87	265	375	72	178	7.979E-06	217
+DESULFOASV1_0978_hypothetical_protein	AF-Q9XGS0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9XGS0-F1-model_v4 Thioredoxin M-type, chloroplastic	0.153	112	91	265	376	69	176	8.925E-06	216
+DESULFOASV1_0978_hypothetical_protein	AF-Q70G58-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q70G58-F1-model_v4 Thioredoxin reductase NTRC	0.165	109	88	266	374	408	513	2.447E-05	216
+DESULFOASV1_0978_hypothetical_protein	AF-Q3YUK4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3YUK4-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.217	115	82	269	374	448	562	4.793E-05	216
+DESULFOASV1_0978_hypothetical_protein	AF-P08058-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P08058-F1-model_v4 Thioredoxin	0.182	103	82	273	375	5	105	4.793E-05	215
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SEU8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SEU8-F1-model_v4 Thioredoxin M2, chloroplastic	0.187	111	88	265	375	76	184	3.831E-05	214
+DESULFOASV1_0978_hypothetical_protein	AF-Q6D9J6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6D9J6-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.227	122	89	259	374	453	574	1.563E-05	214
+DESULFOASV1_0978_hypothetical_protein	AF-Q487R3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q487R3-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.225	123	87	263	375	484	606	1.117E-05	214
+DESULFOASV1_0978_hypothetical_protein	AF-P0A0K5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A0K5-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.175E-04	213
+DESULFOASV1_0978_hypothetical_protein	AF-Q5HGT9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5HGT9-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.111E-04	213
+DESULFOASV1_0978_hypothetical_protein	AF-P0A0K4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A0K4-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.175E-04	213
+DESULFOASV1_0978_hypothetical_protein	AF-O17486-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O17486-F1-model_v4 Thioredoxin	0.165	109	84	266	374	4	105	2.588E-05	213
+DESULFOASV1_0978_hypothetical_protein	AF-Q39362-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q39362-F1-model_v4 Thioredoxin H-type 2	0.149	111	94	265	375	4	114	1.478E-05	213
+DESULFOASV1_0978_hypothetical_protein	AF-Q7XQQ2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7XQQ2-F1-model_v4 Thioredoxin M3, chloroplastic	0.168	106	86	272	377	68	171	6.343E-05	213
+DESULFOASV1_0978_hypothetical_protein	AF-Q5HVG7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5HVG7-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.200	119	86	261	368	444	562	1.117E-05	213
+DESULFOASV1_0978_hypothetical_protein	AF-Q9HUW5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9HUW5-F1-model_v4 Thiol:disulfide interchange protein DsbD 1	0.227	123	86	266	377	467	589	3.425E-05	213
+DESULFOASV1_0978_hypothetical_protein	AF-Q2FHT6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2FHT6-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.243E-04	212
+DESULFOASV1_0978_hypothetical_protein	AF-Q6GA69-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6GA69-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.243E-04	212
+DESULFOASV1_0978_hypothetical_protein	AF-P80579-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P80579-F1-model_v4 Thioredoxin	0.168	104	83	273	376	4	104	3.622E-05	212
+DESULFOASV1_0978_hypothetical_protein	AF-P37395-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P37395-F1-model_v4 Thioredoxin	0.165	102	83	273	374	6	105	6.343E-05	212
+DESULFOASV1_0978_hypothetical_protein	AF-P0A4L1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A4L1-F1-model_v4 Thioredoxin 1	0.198	102	79	273	374	6	105	2.314E-05	212
+DESULFOASV1_0978_hypothetical_protein	AF-P07887-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P07887-F1-model_v4 Thioredoxin C-2	0.162	106	86	270	375	4	107	3.622E-05	212
+DESULFOASV1_0978_hypothetical_protein	AF-Q7MZX2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7MZX2-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.208	120	87	265	375	454	573	6.343E-05	212
+DESULFOASV1_0978_hypothetical_protein	AF-Q8XV41-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8XV41-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.275	119	80	265	375	480	598	1.849E-05	212
+DESULFOASV1_0978_hypothetical_protein	AF-P0A0K6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A0K6-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.390E-04	211
+DESULFOASV1_0978_hypothetical_protein	AF-P0A4L2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A4L2-F1-model_v4 Thioredoxin 1	0.198	102	79	273	374	6	105	2.737E-05	211
+DESULFOASV1_0978_hypothetical_protein	AF-O51890-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O51890-F1-model_v4 Thioredoxin	0.145	109	91	268	376	1	107	8.394E-05	211
+DESULFOASV1_0978_hypothetical_protein	AF-Q7XKD0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7XKD0-F1-model_v4 Thioredoxin X, chloroplastic	0.235	116	86	264	377	60	175	2.188E-05	211
+DESULFOASV1_0978_hypothetical_protein	AF-P0A4L3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A4L3-F1-model_v4 Thioredoxin	0.153	104	84	272	375	3	102	1.050E-04	210
+DESULFOASV1_0978_hypothetical_protein	AF-Q8CPL5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8CPL5-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.243E-04	210
+DESULFOASV1_0978_hypothetical_protein	AF-Q2FZD2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2FZD2-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.470E-04	210
+DESULFOASV1_0978_hypothetical_protein	AF-P99122-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P99122-F1-model_v4 Thioredoxin	0.168	107	85	269	375	1	103	1.243E-04	210
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA28-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA28-F1-model_v4 Thioredoxin 1	0.162	106	86	271	376	5	108	2.314E-05	210
+DESULFOASV1_0978_hypothetical_protein	AF-Q6H7E4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6H7E4-F1-model_v4 Thioredoxin M1, chloroplastic	0.152	114	92	265	378	64	173	1.956E-05	210
+DESULFOASV1_0978_hypothetical_protein	AF-Q2YXD0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2YXD0-F1-model_v4 Thioredoxin	0.179	106	83	269	374	1	102	1.314E-04	209
+DESULFOASV1_0978_hypothetical_protein	AF-P60226-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P60226-F1-model_v4 Thioredoxin-1	0.204	93	70	286	378	19	107	6.343E-05	209
+DESULFOASV1_0978_hypothetical_protein	AF-P51225-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P51225-F1-model_v4 Thioredoxin	0.158	106	87	269	374	1	104	7.937E-05	209
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA29-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA29-F1-model_v4 Thioredoxin 1	0.162	106	86	271	376	5	108	2.314E-05	209
+DESULFOASV1_0978_hypothetical_protein	AF-Q7MGV6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7MGV6-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.233	123	87	262	375	474	596	2.447E-05	209
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZEE0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZEE0-F1-model_v4 Thioredoxin	0.190	104	82	272	375	3	104	9.931E-05	208
+DESULFOASV1_0978_hypothetical_protein	AF-Q5JMR9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5JMR9-F1-model_v4 Thioredoxin Y, chloroplastic	0.219	113	86	265	377	55	165	2.314E-05	208
+DESULFOASV1_0978_hypothetical_protein	AF-Q6GHU0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6GHU0-F1-model_v4 Thioredoxin	0.177	107	84	269	375	1	103	1.739E-04	207
+DESULFOASV1_0978_hypothetical_protein	AF-Q5HQ29-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5HQ29-F1-model_v4 Thioredoxin	0.181	107	84	269	375	1	103	6.709E-05	207
+DESULFOASV1_0978_hypothetical_protein	AF-O30974-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O30974-F1-model_v4 Thioredoxin	0.163	110	90	265	374	3	110	1.849E-05	207
+DESULFOASV1_0978_hypothetical_protein	AF-Q54NX2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q54NX2-F1-model_v4 Thioredoxin domain-containing protein, mitochondrial	0.196	119	95	259	377	2	120	1.748E-05	207
+DESULFOASV1_0978_hypothetical_protein	AF-Q9RD25-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9RD25-F1-model_v4 Putative thioredoxin 2	0.196	107	82	268	374	1	103	9.931E-05	207
+DESULFOASV1_0978_hypothetical_protein	AF-Q10057-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q10057-F1-model_v4 Putative protein disulfide-isomerase C1F5.02	0.205	111	85	264	374	18	125	3.062E-05	207
+DESULFOASV1_0978_hypothetical_protein	AF-Q8ZKC3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8ZKC3-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.201	118	88	264	374	447	564	3.831E-05	207
+DESULFOASV1_0978_hypothetical_protein	AF-O22263-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O22263-F1-model_v4 Protein disulfide-isomerase like 2-1	0.170	114	94	265	378	19	132	2.068E-05	206
+DESULFOASV1_0978_hypothetical_protein	AF-Q9PHR3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9PHR3-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.212	111	84	262	368	452	562	2.068E-05	206
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA30-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA30-F1-model_v4 Thioredoxin 1	0.162	106	86	271	376	5	108	3.425E-05	205
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA26-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA26-F1-model_v4 Thioredoxin 1	0.162	106	86	271	376	5	108	3.425E-05	205
+DESULFOASV1_0978_hypothetical_protein	AF-P9WG67-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WG67-F1-model_v4 Thioredoxin	0.166	113	89	265	377	6	113	7.096E-05	205
+DESULFOASV1_0978_hypothetical_protein	AF-P0A617-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A617-F1-model_v4 Thioredoxin	0.166	113	89	265	377	6	113	7.504E-05	204
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SEU7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SEU7-F1-model_v4 Thioredoxin M3, chloroplastic	0.126	114	95	265	378	64	173	2.068E-05	204
+DESULFOASV1_0978_hypothetical_protein	AF-Q5QVU3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5QVU3-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.185	122	95	262	378	447	568	5.998E-05	204
+DESULFOASV1_0978_hypothetical_protein	AF-P43785-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P43785-F1-model_v4 Thioredoxin	0.151	109	88	267	375	2	106	3.831E-05	203
+DESULFOASV1_0978_hypothetical_protein	AF-P52230-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52230-F1-model_v4 Thioredoxin 1	0.159	109	89	270	378	4	110	5.998E-05	203
+DESULFOASV1_0978_hypothetical_protein	AF-Q31T72-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q31T72-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.208	115	83	269	374	448	562	1.175E-04	203
+DESULFOASV1_0978_hypothetical_protein	AF-Q4L5F0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4L5F0-F1-model_v4 Thioredoxin	0.190	107	83	269	375	1	103	8.394E-05	202
+DESULFOASV1_0978_hypothetical_protein	AF-P52231-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52231-F1-model_v4 Thioredoxin	0.180	107	85	268	374	1	105	5.998E-05	202
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA25-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA25-F1-model_v4 Thioredoxin 1	0.162	106	86	271	376	5	108	4.052E-05	202
+DESULFOASV1_0978_hypothetical_protein	AF-A7MMC7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A7MMC7-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.248	125	85	261	374	447	571	7.096E-05	202
+DESULFOASV1_0978_hypothetical_protein	AF-Q1RQI9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1RQI9-F1-model_v4 Thioredoxin	0.169	105	85	272	376	2	104	1.644E-04	201
+DESULFOASV1_0978_hypothetical_protein	AF-Q92JR5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q92JR5-F1-model_v4 Thioredoxin	0.194	104	81	272	375	3	104	8.878E-05	201
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA27-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA27-F1-model_v4 Thioredoxin 1	0.162	106	86	271	376	5	108	4.532E-05	201
+DESULFOASV1_0978_hypothetical_protein	AF-O94504-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O94504-F1-model_v4 Thioredoxin-2, mitochondrial	0.151	109	87	267	375	29	131	3.238E-05	201
+DESULFOASV1_0978_hypothetical_protein	AF-P68569-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P68569-F1-model_v4 SPbeta prophage-derived disulfide bond formation protein A	0.145	111	93	268	378	28	137	5.096E-06	201
+DESULFOASV1_0978_hypothetical_protein	AF-Q942L2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q942L2-F1-model_v4 Protein disulfide isomerase-like 2-2	0.192	111	89	268	378	34	144	4.532E-05	201
+DESULFOASV1_0978_hypothetical_protein	AF-P58162-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P58162-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.217	115	82	269	374	448	562	1.470E-04	201
+DESULFOASV1_0978_hypothetical_protein	AF-Q57GQ5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q57GQ5-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.210	118	87	264	374	447	564	5.671E-05	201
+DESULFOASV1_0978_hypothetical_protein	AF-P0A4L4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A4L4-F1-model_v4 Thioredoxin	0.153	104	84	272	375	3	102	2.057E-04	200
+DESULFOASV1_0978_hypothetical_protein	AF-Q4UNK3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4UNK3-F1-model_v4 Thioredoxin	0.203	104	80	272	375	3	104	1.050E-04	200
+DESULFOASV1_0978_hypothetical_protein	AF-Q1CEC8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1CEC8-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.244	126	88	262	378	470	595	5.362E-05	200
+DESULFOASV1_0978_hypothetical_protein	AF-Q8KEA4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8KEA4-F1-model_v4 Thioredoxin 1	0.182	104	80	274	377	3	101	1.050E-04	199
+DESULFOASV1_0978_hypothetical_protein	AF-P47938-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P47938-F1-model_v4 Thioredoxin-1	0.193	93	71	286	378	19	107	1.243E-04	199
+DESULFOASV1_0978_hypothetical_protein	AF-A3N207-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A3N207-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.250	120	83	265	375	464	583	1.314E-04	199
+DESULFOASV1_0978_hypothetical_protein	AF-Q39239-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q39239-F1-model_v4 Thioredoxin H4	0.122	111	97	265	375	4	114	3.831E-05	198
+DESULFOASV1_0978_hypothetical_protein	AF-Q8GYD1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8GYD1-F1-model_v4 Protein disulfide-isomerase 5-1	0.146	113	96	265	377	21	133	4.532E-05	198
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R4I3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R4I3-F1-model_v4 UBX domain-containing protein 4	0.162	109	89	271	377	3	111	5.362E-05	198
+DESULFOASV1_0978_hypothetical_protein	AF-Q5PIQ0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5PIQ0-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.226	118	85	264	374	447	564	7.096E-05	198
+DESULFOASV1_0978_hypothetical_protein	AF-Q8Z1A8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8Z1A8-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.226	118	85	264	374	447	564	7.937E-05	198
+DESULFOASV1_0978_hypothetical_protein	AF-P34723-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P34723-F1-model_v4 Thioredoxin	0.186	107	82	269	375	3	104	6.709E-05	197
+DESULFOASV1_0978_hypothetical_protein	AF-Q8GXV2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8GXV2-F1-model_v4 Thioredoxin-like protein CXXS2	0.169	113	93	265	377	36	148	8.878E-05	197
+DESULFOASV1_0978_hypothetical_protein	AF-Q92575-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q92575-F1-model_v4 UBX domain-containing protein 4	0.162	109	89	271	377	3	111	5.671E-05	197
+DESULFOASV1_0978_hypothetical_protein	AF-Q75M08-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q75M08-F1-model_v4 Protein disulfide isomerase-like 2-1	0.196	109	87	270	378	31	139	7.937E-05	196
+DESULFOASV1_0978_hypothetical_protein	AF-Q0SXE3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0SXE3-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.217	115	82	269	374	448	562	2.057E-04	196
+DESULFOASV1_0978_hypothetical_protein	AF-Q49WR2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q49WR2-F1-model_v4 Thioredoxin	0.172	107	84	269	375	1	103	1.470E-04	195
+DESULFOASV1_0978_hypothetical_protein	AF-Q68Y00-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q68Y00-F1-model_v4 Thioredoxin	0.208	96	73	279	374	11	103	1.839E-04	195
+DESULFOASV1_0978_hypothetical_protein	AF-P57653-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P57653-F1-model_v4 Thioredoxin	0.140	110	90	267	376	2	107	1.243E-04	195
+DESULFOASV1_0978_hypothetical_protein	AF-P36655-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P36655-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.217	115	82	269	374	448	562	2.301E-04	195
+DESULFOASV1_0978_hypothetical_protein	AF-P22217-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P22217-F1-model_v4 Thioredoxin-1	0.169	106	83	268	373	1	101	8.878E-05	194
+DESULFOASV1_0978_hypothetical_protein	AF-P77395-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P77395-F1-model_v4 Chaperedoxin	0.189	110	87	266	375	2	109	4.532E-05	194
+DESULFOASV1_0978_hypothetical_protein	AF-Q8CVH5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8CVH5-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.226	115	81	269	374	448	562	2.434E-04	194
+DESULFOASV1_0978_hypothetical_protein	AF-O65049-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O65049-F1-model_v4 Thioredoxin H-type	0.172	109	89	269	377	4	112	6.709E-05	193
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZPH2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZPH2-F1-model_v4 Monothiol glutaredoxin-S17	0.183	108	84	271	378	5	108	1.243E-04	193
+DESULFOASV1_0978_hypothetical_protein	AF-Q3ZBU9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3ZBU9-F1-model_v4 UBX domain-containing protein 4	0.157	109	89	271	377	3	111	3.622E-05	193
+DESULFOASV1_0978_hypothetical_protein	AF-Q1R3C4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1R3C4-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.217	115	82	269	374	448	562	2.574E-04	193
+DESULFOASV1_0978_hypothetical_protein	AF-Q15ZS2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q15ZS2-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.213	122	87	265	375	470	591	1.243E-04	193
+DESULFOASV1_0978_hypothetical_protein	AF-Q87KW0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q87KW0-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.233	119	84	265	374	494	612	8.878E-05	193
+DESULFOASV1_0978_hypothetical_protein	AF-P25372-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P25372-F1-model_v4 Thioredoxin-3, mitochondrial	0.181	110	84	266	375	24	127	9.390E-05	192
+DESULFOASV1_0978_hypothetical_protein	AF-P73920-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P73920-F1-model_v4 Thiol:disulfide interchange protein TxlA homolog	0.238	99	75	279	377	45	143	5.362E-05	192
+DESULFOASV1_0978_hypothetical_protein	AF-Q328D2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q328D2-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.217	115	82	269	374	448	562	2.723E-04	192
+DESULFOASV1_0978_hypothetical_protein	AF-A4TRR6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A4TRR6-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.244	126	88	262	378	470	595	9.931E-05	192
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZW74-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZW74-F1-model_v4 Plant UBX domain-containing protein 11	0.168	106	86	272	375	10	115	9.390E-05	191
+DESULFOASV1_0978_hypothetical_protein	AF-A1JIN7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1JIN7-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.248	121	85	262	375	456	576	9.931E-05	191
+DESULFOASV1_0978_hypothetical_protein	AF-Q66FE1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q66FE1-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.236	126	89	262	378	470	595	1.050E-04	191
+DESULFOASV1_0978_hypothetical_protein	AF-Q8ZIY9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8ZIY9-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.248	124	86	264	378	472	595	1.314E-04	191
+DESULFOASV1_0978_hypothetical_protein	AF-P47370-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P47370-F1-model_v4 Thioredoxin	0.189	108	81	271	378	2	102	8.394E-05	190
+DESULFOASV1_0978_hypothetical_protein	AF-Q9UW02-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9UW02-F1-model_v4 Thioredoxin	0.162	109	87	268	376	1	105	1.555E-04	190
+DESULFOASV1_0978_hypothetical_protein	AF-A8AMR4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8AMR4-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.200	125	90	261	374	442	566	1.555E-04	190
+DESULFOASV1_0978_hypothetical_protein	AF-Q8DCZ0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8DCZ0-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.225	123	88	263	376	470	592	1.175E-04	190
+DESULFOASV1_0978_hypothetical_protein	AF-P59527-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P59527-F1-model_v4 Thioredoxin	0.135	110	90	265	374	2	106	2.723E-04	189
+DESULFOASV1_0978_hypothetical_protein	AF-Q96419-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q96419-F1-model_v4 Thioredoxin H-type	0.174	105	85	271	374	7	111	9.390E-05	189
+DESULFOASV1_0978_hypothetical_protein	AF-Q1RKN1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1RKN1-F1-model_v4 Thioredoxin	0.186	103	81	273	375	4	104	1.390E-04	188
+DESULFOASV1_0978_hypothetical_protein	AF-Q0DKF1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0DKF1-F1-model_v4 Thioredoxin H4-2	0.157	114	94	264	377	19	130	6.709E-05	188
+DESULFOASV1_0978_hypothetical_protein	AF-P09856-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P09856-F1-model_v4 Thioredoxin F-type, chloroplastic	0.168	108	87	271	378	85	190	9.390E-05	188
+DESULFOASV1_0978_hypothetical_protein	AF-Q5HZY0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5HZY0-F1-model_v4 UBX domain-containing protein 4	0.166	112	88	271	377	3	114	4.793E-05	188
+DESULFOASV1_0978_hypothetical_protein	AF-Q7KQL8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7KQL8-F1-model_v4 Thioredoxin	0.192	106	82	271	376	2	103	2.301E-04	187
+DESULFOASV1_0978_hypothetical_protein	AF-Q0IWL9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0IWL9-F1-model_v4 Monothiol glutaredoxin-S11	0.222	107	79	272	378	5	107	2.057E-04	187
+DESULFOASV1_0978_hypothetical_protein	AF-Q0T9Q5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0T9Q5-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.206	120	89	262	374	443	562	1.390E-04	187
+DESULFOASV1_0978_hypothetical_protein	AF-Q851R5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q851R5-F1-model_v4 Thioredoxin H2-2	0.173	116	93	265	377	15	130	8.394E-05	186
+DESULFOASV1_0978_hypothetical_protein	AF-Q8VCH8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8VCH8-F1-model_v4 UBX domain-containing protein 4	0.157	112	89	271	377	3	114	5.070E-05	186
+DESULFOASV1_0978_hypothetical_protein	AF-O22022-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O22022-F1-model_v4 Thioredoxin	0.165	107	83	268	374	1	100	1.555E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-P81109-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P81109-F1-model_v4 Thioredoxin	0.200	103	81	273	375	3	104	1.555E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-Q05739-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q05739-F1-model_v4 Thioredoxin	0.169	99	79	270	368	4	99	1.175E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-P73263-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P73263-F1-model_v4 Thioredoxin-like protein slr1139	0.205	102	79	273	374	5	104	1.111E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-P29449-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29449-F1-model_v4 Thioredoxin H-type 1	0.188	113	90	265	376	8	120	1.175E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-Q9LXZ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9LXZ8-F1-model_v4 Putative thioredoxin H10	0.176	108	85	270	377	41	144	1.470E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-Q8IFW4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8IFW4-F1-model_v4 Thioredoxin-T	0.203	106	80	272	377	6	107	2.434E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-Q6ES52-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6ES52-F1-model_v4 TPR repeat-containing thioredoxin TDX	0.177	117	94	262	378	203	317	4.052E-05	185
+DESULFOASV1_0978_hypothetical_protein	AF-P38661-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38661-F1-model_v4 Probable protein disulfide-isomerase A6	0.159	109	91	270	378	30	138	1.555E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-P12865-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P12865-F1-model_v4 Bloodstream-specific protein 2	0.165	109	88	265	373	15	120	1.314E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-Q1C0X4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1C0X4-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.246	126	85	265	378	470	595	3.046E-04	185
+DESULFOASV1_0978_hypothetical_protein	AF-P22803-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P22803-F1-model_v4 Thioredoxin-2	0.154	108	86	268	375	1	103	2.574E-04	183
+DESULFOASV1_0978_hypothetical_protein	AF-Q1RQJ0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1RQJ0-F1-model_v4 Thioredoxin Asp f 29	0.163	109	86	268	376	2	105	7.096E-05	183
+DESULFOASV1_0978_hypothetical_protein	AF-Q00216-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q00216-F1-model_v4 Protein disulfide-isomerase tigA	0.205	116	90	265	378	15	130	1.390E-04	183
+DESULFOASV1_0978_hypothetical_protein	AF-Q1RQJ1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1RQJ1-F1-model_v4 Thioredoxin Asp f 28	0.157	109	88	268	376	3	107	1.739E-04	182
+DESULFOASV1_0978_hypothetical_protein	AF-O23166-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O23166-F1-model_v4 Thioredoxin-like protein HCF164, chloroplastic	0.240	98	74	280	377	132	229	4.030E-04	182
+DESULFOASV1_0978_hypothetical_protein	AF-Q17688-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q17688-F1-model_v4 Endoplasmic reticulum resident protein 44.2	0.172	112	90	265	374	22	133	9.390E-05	182
+DESULFOASV1_0978_hypothetical_protein	AF-Q54KN7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q54KN7-F1-model_v4 Putative thioredoxin-5	0.207	105	81	271	375	2	104	2.880E-04	181
+DESULFOASV1_0978_hypothetical_protein	AF-P96695-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P96695-F1-model_v4 Thioredoxin-like protein YdfQ	0.162	107	86	268	374	1	104	3.221E-04	181
+DESULFOASV1_0978_hypothetical_protein	AF-Q9Z6Y0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9Z6Y0-F1-model_v4 Disulfide bond reductase DsbH	0.227	129	87	265	378	38	166	4.052E-05	181
+DESULFOASV1_0978_hypothetical_protein	AF-Q7Y0D4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7Y0D4-F1-model_v4 Thioredoxin-like protein HCF164, chloroplastic	0.207	106	81	272	377	128	230	1.555E-04	181
+DESULFOASV1_0978_hypothetical_protein	AF-P82460-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P82460-F1-model_v4 Thioredoxin	0.148	105	87	271	375	2	104	5.641E-04	180
+DESULFOASV1_0978_hypothetical_protein	AF-Q9XFH8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9XFH8-F1-model_v4 Thioredoxin F1, chloroplastic	0.173	115	93	266	378	64	178	6.709E-05	180
+DESULFOASV1_0978_hypothetical_protein	AF-O64394-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O64394-F1-model_v4 Thioredoxin H-type	0.159	108	90	271	378	20	127	3.811E-04	179
+DESULFOASV1_0978_hypothetical_protein	AF-Q6Z4I3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6Z4I3-F1-model_v4 Thioredoxin H2-1	0.155	108	90	271	378	23	130	1.839E-04	178
+DESULFOASV1_0978_hypothetical_protein	AF-Q3T0L2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3T0L2-F1-model_v4 Endoplasmic reticulum resident protein 44	0.127	115	96	264	374	24	138	2.176E-04	177
+DESULFOASV1_0978_hypothetical_protein	AF-P21610-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P21610-F1-model_v4 Thioredoxin	0.144	107	90	271	377	5	110	3.811E-04	176
+DESULFOASV1_0978_hypothetical_protein	AF-P29429-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29429-F1-model_v4 Thioredoxin	0.149	107	86	269	375	7	108	2.723E-04	176
+DESULFOASV1_0978_hypothetical_protein	AF-Q8VZT6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8VZT6-F1-model_v4 Thioredoxin-like 3-2, chloroplastic	0.186	120	93	263	377	68	187	9.931E-05	176
+DESULFOASV1_0978_hypothetical_protein	AF-Q38879-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q38879-F1-model_v4 Thioredoxin H2	0.180	98	75	279	376	40	132	2.723E-04	175
+DESULFOASV1_0978_hypothetical_protein	AF-P85801-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P85801-F1-model_v4 Thioredoxin H-type	0.154	117	95	266	378	18	134	9.390E-05	175
+DESULFOASV1_0978_hypothetical_protein	AF-Q9MAH1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9MAH1-F1-model_v4 TPR repeat-containing thioredoxin TTL1	0.094	112	99	266	377	590	699	2.176E-04	175
+DESULFOASV1_0978_hypothetical_protein	AF-Q8LD49-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8LD49-F1-model_v4 Thioredoxin X, chloroplastic	0.198	197	141	181	377	1	177	2.199E-06	174
+DESULFOASV1_0978_hypothetical_protein	AF-Q8JG64-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8JG64-F1-model_v4 Protein disulfide-isomerase A3	0.264	113	81	265	377	21	131	1.644E-04	174
+DESULFOASV1_0978_hypothetical_protein	AF-Q2NW99-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2NW99-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.222	116	84	268	376	474	589	4.768E-04	174
+DESULFOASV1_0978_hypothetical_protein	AF-O97508-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O97508-F1-model_v4 Thioredoxin	0.148	105	87	271	375	2	104	9.341E-04	173
+DESULFOASV1_0978_hypothetical_protein	AF-O97680-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O97680-F1-model_v4 Thioredoxin	0.148	105	87	271	375	2	104	5.966E-04	173
+DESULFOASV1_0978_hypothetical_protein	AF-Q10N04-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q10N04-F1-model_v4 Protein disulfide isomerase-like 5-1	0.159	116	95	262	377	24	137	1.945E-04	173
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CAS1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CAS1-F1-model_v4 Thioredoxin H8	0.176	112	91	265	375	32	143	1.644E-04	173
+DESULFOASV1_0978_hypothetical_protein	AF-Q92249-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q92249-F1-model_v4 Protein disulfide-isomerase erp38	0.239	114	85	265	378	19	131	2.434E-04	173
+DESULFOASV1_0978_hypothetical_protein	AF-Q55BU7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q55BU7-F1-model_v4 UBX domain-containing protein 7 homolog	0.149	114	91	271	378	145	258	4.030E-04	173
+DESULFOASV1_0978_hypothetical_protein	AF-Q9V429-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9V429-F1-model_v4 Thioredoxin-2	0.185	104	83	271	374	2	104	5.043E-04	172
+DESULFOASV1_0978_hypothetical_protein	AF-P80028-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P80028-F1-model_v4 Thioredoxin H-type	0.196	100	74	279	378	21	113	2.301E-04	172
+DESULFOASV1_0978_hypothetical_protein	AF-Q9Z6X3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9Z6X3-F1-model_v4 Thioredoxin-related protein DsbJ	0.187	128	91	265	377	37	164	2.301E-04	172
+DESULFOASV1_0978_hypothetical_protein	AF-Q8VWG7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8VWG7-F1-model_v4 TPR repeat-containing thioredoxin TDX	0.178	117	95	262	378	265	380	4.285E-05	172
+DESULFOASV1_0978_hypothetical_protein	AF-Q67UF5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q67UF5-F1-model_v4 Protein disulfide isomerase-like 2-3	0.173	113	89	265	377	164	272	2.301E-04	172
+DESULFOASV1_0978_hypothetical_protein	AF-Q8VX13-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8VX13-F1-model_v4 Protein disulfide isomerase-like 1-3	0.187	109	88	268	376	95	203	5.966E-04	172
+DESULFOASV1_0978_hypothetical_protein	AF-O34342-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O34342-F1-model_v4 SPbeta prophage-derived thioredoxin-like protein YosR	0.252	87	58	289	375	2	79	2.434E-04	171
+DESULFOASV1_0978_hypothetical_protein	AF-P29448-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29448-F1-model_v4 Thioredoxin H1	0.195	97	72	279	375	24	113	1.945E-04	171
+DESULFOASV1_0978_hypothetical_protein	AF-G4NFB7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-G4NFB7-F1-model_v4 Thioredoxin-2	0.180	119	90	259	377	55	165	1.470E-04	171
+DESULFOASV1_0978_hypothetical_protein	AF-O81332-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O81332-F1-model_v4 Thioredoxin F-type, chloroplastic	0.178	117	92	262	378	79	191	1.470E-04	171
+DESULFOASV1_0978_hypothetical_protein	AF-O13811-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O13811-F1-model_v4 Protein disulfide-isomerase C17H9.14c	0.129	113	98	266	378	19	131	3.046E-04	171
+DESULFOASV1_0978_hypothetical_protein	AF-Q94JZ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q94JZ8-F1-model_v4 Plant UBX domain-containing protein 7	0.164	97	77	285	377	197	293	9.879E-04	171
+DESULFOASV1_0978_hypothetical_protein	AF-Q43636-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q43636-F1-model_v4 Thioredoxin H-type	0.135	112	95	265	376	4	114	8.394E-05	169
+DESULFOASV1_0978_hypothetical_protein	AF-A2YIW7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2YIW7-F1-model_v4 Thioredoxin H-type	0.163	107	88	271	376	8	114	1.243E-04	169
+DESULFOASV1_0978_hypothetical_protein	AF-Q9C9Y6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9C9Y6-F1-model_v4 Thioredoxin H9	0.178	113	91	265	377	16	127	1.243E-04	169
+DESULFOASV1_0978_hypothetical_protein	AF-F4JLC1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-F4JLC1-F1-model_v4 Thioredoxin-like fold domain-containing protein MRL7, chloroplastic	0.191	115	91	262	374	197	311	2.057E-04	169
+DESULFOASV1_0978_hypothetical_protein	AF-P55059-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P55059-F1-model_v4 Protein disulfide-isomerase	0.209	109	84	266	374	18	124	5.334E-04	169
+DESULFOASV1_0978_hypothetical_protein	AF-P29451-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29451-F1-model_v4 Thioredoxin	0.154	105	86	271	375	2	104	8.832E-04	168
+DESULFOASV1_0978_hypothetical_protein	AF-P29450-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29450-F1-model_v4 Thioredoxin F-type, chloroplastic	0.178	123	99	256	378	61	182	1.945E-04	168
+DESULFOASV1_0978_hypothetical_protein	AF-Q0E0I1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0E0I1-F1-model_v4 Protein disulfide isomerase-like 5-3	0.265	110	78	266	375	45	151	3.221E-04	168
+DESULFOASV1_0978_hypothetical_protein	AF-Q9KJZ3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9KJZ3-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.196	117	84	269	374	459	575	3.407E-04	168
+DESULFOASV1_0978_hypothetical_protein	AF-Q9XIF4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9XIF4-F1-model_v4 Thioredoxin H7	0.175	112	90	265	374	15	126	2.176E-04	167
+DESULFOASV1_0978_hypothetical_protein	AF-Q9BS26-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9BS26-F1-model_v4 Endoplasmic reticulum resident protein 44	0.127	113	96	264	374	26	138	3.603E-04	167
+DESULFOASV1_0978_hypothetical_protein	AF-P37512-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P37512-F1-model_v4 Uncharacterized protein YyaL	0.198	130	92	261	376	18	147	6.343E-05	167
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R9M3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R9M3-F1-model_v4 Thioredoxin	0.133	105	89	271	375	2	105	1.045E-03	166
+DESULFOASV1_0978_hypothetical_protein	AF-Q09433-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q09433-F1-model_v4 Thioredoxin-1	0.179	115	89	264	378	7	115	3.407E-04	166
+DESULFOASV1_0978_hypothetical_protein	AF-Q0D840-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0D840-F1-model_v4 Thioredoxin H1	0.163	107	88	271	376	8	114	1.739E-04	166
+DESULFOASV1_0978_hypothetical_protein	AF-Q0J9V5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0J9V5-F1-model_v4 Thioredoxin-like protein CXXS1	0.151	99	79	279	377	27	120	6.674E-04	166
+DESULFOASV1_0978_hypothetical_protein	AF-Q9FG36-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9FG36-F1-model_v4 Thioredoxin-like 3-1, chloroplastic	0.136	114	95	267	377	94	207	4.768E-04	166
+DESULFOASV1_0978_hypothetical_protein	AF-Q84NN4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q84NN4-F1-model_v4 Thioredoxin-like protein CDSP32, chloroplastic	0.173	146	104	251	377	152	297	2.447E-05	166
+DESULFOASV1_0978_hypothetical_protein	AF-P27773-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P27773-F1-model_v4 Protein disulfide-isomerase A3	0.222	113	87	265	377	21	133	3.221E-04	166
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SRG3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SRG3-F1-model_v4 Protein disulfide isomerase-like 1-2	0.173	113	90	265	374	25	137	2.723E-04	166
+DESULFOASV1_0978_hypothetical_protein	AF-Q9FF55-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9FF55-F1-model_v4 Protein disulfide isomerase-like 1-4	0.189	107	86	268	374	99	205	5.966E-04	166
+DESULFOASV1_0978_hypothetical_protein	AF-P10599-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P10599-F1-model_v4 Thioredoxin	0.145	105	87	271	375	2	104	9.341E-04	165
+DESULFOASV1_0978_hypothetical_protein	AF-P50413-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P50413-F1-model_v4 Thioredoxin	0.145	105	87	271	375	2	104	9.341E-04	165
+DESULFOASV1_0978_hypothetical_protein	AF-O32171-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O32171-F1-model_v4 Thioredoxin-like protein YusE	0.158	104	82	272	375	2	99	2.723E-04	165
+DESULFOASV1_0978_hypothetical_protein	AF-Q9D1Q6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9D1Q6-F1-model_v4 Endoplasmic reticulum resident protein 44	0.127	113	96	264	374	26	138	4.263E-04	165
+DESULFOASV1_0978_hypothetical_protein	AF-P08628-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P08628-F1-model_v4 Thioredoxin	0.154	105	86	271	375	2	104	1.830E-03	164
+DESULFOASV1_0978_hypothetical_protein	AF-O51088-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O51088-F1-model_v4 Thioredoxin	0.144	112	88	271	374	2	113	4.030E-04	164
+DESULFOASV1_0978_hypothetical_protein	AF-Q9XFH9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9XFH9-F1-model_v4 Thioredoxin F2, chloroplastic	0.189	109	88	266	374	74	182	1.945E-04	164
+DESULFOASV1_0978_hypothetical_protein	AF-Q5BK32-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5BK32-F1-model_v4 FAS-associated factor 2	0.141	127	99	262	377	42	168	5.043E-04	164
+DESULFOASV1_0978_hypothetical_protein	AF-O94888-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O94888-F1-model_v4 UBX domain-containing protein 7	0.123	96	81	285	377	164	259	9.341E-04	164
+DESULFOASV1_0978_hypothetical_protein	AF-P11598-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P11598-F1-model_v4 Protein disulfide-isomerase A3	0.224	113	87	265	377	21	133	6.310E-04	164
+DESULFOASV1_0978_hypothetical_protein	AF-Q9XF61-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9XF61-F1-model_v4 Protein disulfide-isomerase	0.177	116	92	262	374	26	141	3.046E-04	163
+DESULFOASV1_0978_hypothetical_protein	AF-P11232-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P11232-F1-model_v4 Thioredoxin	0.137	108	89	268	375	1	104	7.895E-04	162
+DESULFOASV1_0978_hypothetical_protein	AF-P08629-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P08629-F1-model_v4 Thioredoxin	0.136	105	88	271	375	2	104	1.169E-03	162
+DESULFOASV1_0978_hypothetical_protein	AF-P21609-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P21609-F1-model_v4 Thioredoxin	0.176	106	86	273	378	3	107	4.768E-04	162
+DESULFOASV1_0978_hypothetical_protein	AF-Q8LDI5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8LDI5-F1-model_v4 Thioredoxin-like protein CXXS1	0.142	107	91	271	377	4	110	9.879E-04	162
+DESULFOASV1_0978_hypothetical_protein	AF-Q655X0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q655X0-F1-model_v4 Thioredoxin O, mitochondrial	0.150	115	95	265	377	58	172	5.043E-04	162
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SGS4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SGS4-F1-model_v4 Thioredoxin-like protein CDSP32, chloroplastic	0.154	145	107	251	377	153	297	8.394E-05	162
+DESULFOASV1_0978_hypothetical_protein	AF-Q2HJD0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2HJD0-F1-model_v4 FAS-associated factor 2	0.149	127	98	262	377	141	267	5.043E-04	162
+DESULFOASV1_0978_hypothetical_protein	AF-Q4VIT4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4VIT4-F1-model_v4 Protein disulfide-isomerase A3	0.230	113	86	265	377	21	133	5.043E-04	162
+DESULFOASV1_0978_hypothetical_protein	AF-Q07090-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q07090-F1-model_v4 Thioredoxin H-type 2	0.120	111	96	265	375	3	112	2.434E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-Q9AS75-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9AS75-F1-model_v4 Thioredoxin H4-1	0.158	112	91	266	377	17	125	1.945E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-Q75GM1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q75GM1-F1-model_v4 Thioredoxin H5	0.200	113	89	265	376	11	123	1.314E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-O64654-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O64654-F1-model_v4 Thioredoxin-like 1-1, chloroplastic	0.165	116	95	264	378	91	206	3.603E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-Q9USR1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9USR1-F1-model_v4 Thioredoxin-like protein 1	0.172	105	84	273	377	5	107	8.832E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-Q86IA3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q86IA3-F1-model_v4 Protein disulfide-isomerase 1	0.209	108	83	273	378	26	133	8.832E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-P0DKI4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0DKI4-F1-model_v4 Putative plant UBX domain-containing protein 14	0.102	98	83	286	378	135	232	2.289E-03	161
+DESULFOASV1_0978_hypothetical_protein	AF-Q9M0N1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9M0N1-F1-model_v4 Plant UBX domain-containing protein 10	0.118	124	101	262	377	176	299	7.895E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-P54399-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P54399-F1-model_v4 Protein disulfide-isomerase	0.210	110	85	266	374	22	131	5.966E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-P09102-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P09102-F1-model_v4 Protein disulfide-isomerase	0.194	114	88	265	374	23	136	3.046E-04	161
+DESULFOASV1_0978_hypothetical_protein	AF-Q80YT5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q80YT5-F1-model_v4 Spermatogenesis-associated protein 20	0.189	131	94	261	377	77	207	5.998E-05	161
+DESULFOASV1_0978_hypothetical_protein	AF-Q58DA7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q58DA7-F1-model_v4 Glutaredoxin-3	0.156	110	89	267	376	10	115	4.263E-04	160
+DESULFOASV1_0978_hypothetical_protein	AF-Q5REY7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5REY7-F1-model_v4 UBX domain-containing protein 7	0.123	96	81	285	377	164	259	1.236E-03	160
+DESULFOASV1_0978_hypothetical_protein	AF-Q7XRB5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7XRB5-F1-model_v4 Protein disulfide isomerase-like 1-2	0.219	109	84	265	373	31	139	3.603E-04	160
+DESULFOASV1_0978_hypothetical_protein	AF-Q14554-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q14554-F1-model_v4 Protein disulfide-isomerase A5	0.149	111	90	268	374	396	506	4.263E-04	160
+DESULFOASV1_0978_hypothetical_protein	AF-Q4K909-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4K909-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.200	120	87	269	378	464	583	8.350E-04	160
+DESULFOASV1_0978_hypothetical_protein	AF-Q8TFM8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8TFM8-F1-model_v4 Thioredoxin-like protein	0.168	111	88	271	377	2	112	7.895E-04	159
+DESULFOASV1_0978_hypothetical_protein	AF-P07591-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P07591-F1-model_v4 Thioredoxin M-type, chloroplastic	0.162	200	142	179	378	12	181	6.744E-06	159
+DESULFOASV1_0978_hypothetical_protein	AF-P38660-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38660-F1-model_v4 Protein disulfide-isomerase A6	0.189	114	91	264	377	20	132	8.832E-04	159
+DESULFOASV1_0978_hypothetical_protein	AF-Q96CS3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q96CS3-F1-model_v4 FAS-associated factor 2	0.141	127	99	262	377	141	267	6.674E-04	159
+DESULFOASV1_0978_hypothetical_protein	AF-Q3TDN2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3TDN2-F1-model_v4 FAS-associated factor 2	0.141	127	99	262	377	141	267	6.674E-04	159
+DESULFOASV1_0978_hypothetical_protein	AF-P38658-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38658-F1-model_v4 Probable protein disulfide-isomerase ER-60	0.165	113	92	265	377	15	125	1.236E-03	159
+DESULFOASV1_0978_hypothetical_protein	AF-P30101-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P30101-F1-model_v4 Protein disulfide-isomerase A3	0.230	110	84	268	377	24	133	1.236E-03	159
+DESULFOASV1_0978_hypothetical_protein	AF-Q67IX6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q67IX6-F1-model_v4 Protein disulfide isomerase-like 1-4	0.169	114	92	265	376	66	179	7.465E-04	159
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SIN1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SIN1-F1-model_v4 Inactive TPR repeat-containing thioredoxin TTL3	0.103	114	97	262	375	581	689	5.966E-04	159
+DESULFOASV1_0978_hypothetical_protein	AF-Q6XHI1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6XHI1-F1-model_v4 Thioredoxin-2	0.200	96	71	279	374	15	104	7.465E-04	158
+DESULFOASV1_0978_hypothetical_protein	AF-Q6Z4N3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6Z4N3-F1-model_v4 Thioredoxin-like 1-1, chloroplastic	0.151	114	96	265	378	89	202	5.043E-04	158
+DESULFOASV1_0978_hypothetical_protein	AF-O48773-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O48773-F1-model_v4 Protein disulfide-isomerase 2-3	0.181	118	93	264	377	19	136	7.058E-04	158
+DESULFOASV1_0978_hypothetical_protein	AF-Q43116-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q43116-F1-model_v4 Protein disulfide-isomerase	0.228	124	93	256	377	20	143	3.811E-04	158
+DESULFOASV1_0978_hypothetical_protein	AF-Q5RDG4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5RDG4-F1-model_v4 Protein disulfide-isomerase A3	0.222	113	87	265	377	21	133	5.966E-04	158
+DESULFOASV1_0978_hypothetical_protein	AF-Q53LQ0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q53LQ0-F1-model_v4 Protein disulfide isomerase-like 1-1	0.217	113	85	265	374	36	148	5.641E-04	158
+DESULFOASV1_0978_hypothetical_protein	AF-Q9BDJ3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9BDJ3-F1-model_v4 Thioredoxin	0.137	108	89	268	375	1	104	1.236E-03	157
+DESULFOASV1_0978_hypothetical_protein	AF-O34357-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O34357-F1-model_v4 Thioredoxin-like protein YtpP	0.145	107	89	272	378	2	106	2.047E-03	157
+DESULFOASV1_0978_hypothetical_protein	AF-Q42403-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q42403-F1-model_v4 Thioredoxin H3	0.123	110	95	266	375	4	112	6.674E-04	157
+DESULFOASV1_0978_hypothetical_protein	AF-Q9M7X9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9M7X9-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.177	111	90	264	373	70	180	4.030E-04	157
+DESULFOASV1_0978_hypothetical_protein	AF-O76003-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O76003-F1-model_v4 Glutaredoxin-3	0.158	115	93	264	378	8	118	5.043E-04	157
+DESULFOASV1_0978_hypothetical_protein	AF-Q9VYV3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9VYV3-F1-model_v4 Thioredoxin domain-containing protein 5 homolog	0.162	165	132	219	377	108	272	1.563E-05	157
+DESULFOASV1_0978_hypothetical_protein	AF-Q9MAU6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9MAU6-F1-model_v4 Protein disulfide-isomerase like 2-2	0.175	112	88	265	376	166	273	6.674E-04	157
+DESULFOASV1_0978_hypothetical_protein	AF-Q9V438-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9V438-F1-model_v4 Protein disulfide-isomerase A6 homolog	0.168	105	86	273	377	29	132	1.236E-03	156
+DESULFOASV1_0978_hypothetical_protein	AF-P29828-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29828-F1-model_v4 Protein disulfide-isomerase	0.184	112	88	265	373	29	140	5.966E-04	156
+DESULFOASV1_0978_hypothetical_protein	AF-Q84JR9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q84JR9-F1-model_v4 TPR repeat-containing thioredoxin TTL4	0.139	110	89	266	375	577	680	7.895E-04	156
+DESULFOASV1_0978_hypothetical_protein	AF-P10639-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P10639-F1-model_v4 Thioredoxin	0.137	108	89	268	375	1	104	1.383E-03	155
+DESULFOASV1_0978_hypothetical_protein	AF-P0DKI5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0DKI5-F1-model_v4 Plant UBX domain-containing protein 16	0.115	95	79	286	375	119	213	2.865E-03	155
+DESULFOASV1_0978_hypothetical_protein	AF-P17967-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P17967-F1-model_v4 Protein disulfide-isomerase	0.149	104	88	271	374	34	137	1.636E-03	155
+DESULFOASV1_0978_hypothetical_protein	AF-C9K7C5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C9K7C5-F1-model_v4 Thioredoxin AMT13	0.147	112	91	264	375	2	109	6.310E-04	154
+DESULFOASV1_0978_hypothetical_protein	AF-P42115-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P42115-F1-model_v4 Thioredoxin	0.126	107	93	271	377	5	111	3.603E-04	154
+DESULFOASV1_0978_hypothetical_protein	AF-Q28ID3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q28ID3-F1-model_v4 Glutaredoxin-3	0.180	105	84	273	377	6	108	1.462E-03	154
+DESULFOASV1_0978_hypothetical_protein	AF-P04785-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P04785-F1-model_v4 Protein disulfide-isomerase	0.186	114	89	265	374	20	133	5.641E-04	154
+DESULFOASV1_0978_hypothetical_protein	AF-Q5I0H9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5I0H9-F1-model_v4 Protein disulfide-isomerase A5	0.136	112	94	265	374	393	504	5.043E-04	154
+DESULFOASV1_0978_hypothetical_protein	AF-Q9I104-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9I104-F1-model_v4 Thiol:disulfide interchange protein DsbD 2	0.184	118	86	269	374	468	585	1.105E-03	154
+DESULFOASV1_0978_hypothetical_protein	AF-P29447-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29447-F1-model_v4 Thioredoxin-3	0.154	107	85	268	374	1	102	1.462E-03	153
+DESULFOASV1_0978_hypothetical_protein	AF-Q39241-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q39241-F1-model_v4 Thioredoxin H5	0.173	100	75	279	378	23	114	9.341E-04	153
+DESULFOASV1_0978_hypothetical_protein	AF-Q39591-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q39591-F1-model_v4 Dynein 14 kDa light chain, flagellar outer arm	0.214	108	83	271	378	4	110	4.768E-04	153
+DESULFOASV1_0978_hypothetical_protein	AF-P35088-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P35088-F1-model_v4 Thiol:disulfide interchange protein TxlA	0.230	98	75	280	377	51	148	2.434E-04	153
+DESULFOASV1_0978_hypothetical_protein	AF-Q15084-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q15084-F1-model_v4 Protein disulfide-isomerase A6	0.189	114	91	264	377	20	132	1.462E-03	153
+DESULFOASV1_0978_hypothetical_protein	AF-Q9XFI1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9XFI1-F1-model_v4 Thioredoxin-like 1-2, chloroplastic	0.132	116	99	264	378	79	194	7.895E-04	152
+DESULFOASV1_0978_hypothetical_protein	AF-Q920J4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q920J4-F1-model_v4 Thioredoxin-like protein 1	0.191	96	71	279	374	17	105	9.879E-04	152
+DESULFOASV1_0978_hypothetical_protein	AF-Q5XJ54-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5XJ54-F1-model_v4 Glutaredoxin 3	0.179	111	89	268	378	1	109	1.830E-03	152
+DESULFOASV1_0978_hypothetical_protein	AF-Q94F09-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q94F09-F1-model_v4 Protein disulfide-isomerase 5-2	0.209	102	79	273	374	36	136	1.236E-03	152
+DESULFOASV1_0978_hypothetical_protein	AF-P38657-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38657-F1-model_v4 Protein disulfide-isomerase A3	0.215	113	88	265	377	21	133	1.636E-03	152
+DESULFOASV1_0978_hypothetical_protein	AF-P09103-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P09103-F1-model_v4 Protein disulfide-isomerase	0.186	114	89	265	374	20	133	6.674E-04	152
+DESULFOASV1_0978_hypothetical_protein	AF-P34329-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P34329-F1-model_v4 Probable protein disulfide-isomerase A4	0.221	110	84	265	374	143	251	1.462E-03	152
+DESULFOASV1_0978_hypothetical_protein	AF-F4IXE4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-F4IXE4-F1-model_v4 TPR repeat-containing thioredoxin TTL2	0.131	111	94	266	376	621	729	2.561E-03	152
+DESULFOASV1_0978_hypothetical_protein	AF-O43396-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O43396-F1-model_v4 Thioredoxin-like protein 1	0.191	96	71	279	374	17	105	1.045E-03	151
+DESULFOASV1_0978_hypothetical_protein	AF-Q0JD42-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0JD42-F1-model_v4 Protein disulfide isomerase-like 5-2	0.241	109	80	266	374	41	146	1.169E-03	151
+DESULFOASV1_0978_hypothetical_protein	AF-Q11067-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q11067-F1-model_v4 Protein disulfide-isomerase A6 homolog	0.178	121	98	257	377	12	131	7.895E-04	151
+DESULFOASV1_0978_hypothetical_protein	AF-Q6AZH6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6AZH6-F1-model_v4 FAS-associated factor 2-A	0.121	123	101	262	377	145	267	1.383E-03	151
+DESULFOASV1_0978_hypothetical_protein	AF-P05307-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P05307-F1-model_v4 Protein disulfide-isomerase	0.200	111	86	266	374	23	133	1.045E-03	151
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CQM9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CQM9-F1-model_v4 Glutaredoxin-3	0.163	105	85	273	377	17	119	2.421E-03	150
+DESULFOASV1_0978_hypothetical_protein	AF-Q91W90-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q91W90-F1-model_v4 Thioredoxin domain-containing protein 5	0.158	161	131	221	377	121	281	4.532E-05	150
+DESULFOASV1_0978_hypothetical_protein	AF-Q6GQ69-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6GQ69-F1-model_v4 FAS-associated factor 2-B	0.118	127	101	262	377	141	267	1.236E-03	150
+DESULFOASV1_0978_hypothetical_protein	AF-Q2HWU2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2HWU2-F1-model_v4 Protein disulfide-isomerase	0.186	114	89	265	374	20	133	8.350E-04	150
+DESULFOASV1_0978_hypothetical_protein	AF-Q6T393-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6T393-F1-model_v4 Spermatogenesis-associated protein 20	0.189	131	94	261	377	76	206	1.243E-04	150
+DESULFOASV1_0978_hypothetical_protein	AF-Q9DGI3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9DGI3-F1-model_v4 Thioredoxin	0.151	104	87	271	373	2	105	1.236E-03	149
+DESULFOASV1_0978_hypothetical_protein	AF-M1A3D5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-M1A3D5-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.165	107	88	265	371	65	170	7.895E-04	149
+DESULFOASV1_0978_hypothetical_protein	AF-Q63081-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q63081-F1-model_v4 Protein disulfide-isomerase A6	0.165	114	93	265	376	156	269	2.165E-03	149
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R6T1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R6T1-F1-model_v4 Protein disulfide-isomerase A6	0.189	114	91	264	377	20	132	1.935E-03	149
+DESULFOASV1_0978_hypothetical_protein	AF-P07237-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P07237-F1-model_v4 Protein disulfide-isomerase	0.193	115	88	265	374	17	131	7.895E-04	149
+DESULFOASV1_0978_hypothetical_protein	AF-Q8CDN6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8CDN6-F1-model_v4 Thioredoxin-like protein 1	0.191	96	71	279	374	17	105	1.383E-03	148
+DESULFOASV1_0978_hypothetical_protein	AF-D4B2L8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-D4B2L8-F1-model_v4 Protein disulfide-isomerase	0.194	102	77	265	366	26	122	8.350E-04	148
+DESULFOASV1_0978_hypothetical_protein	AF-P87178-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P87178-F1-model_v4 Uncharacterized protein C3D6.13c	0.160	119	97	262	377	17	135	4.030E-04	148
+DESULFOASV1_0978_hypothetical_protein	AF-Q8TB22-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8TB22-F1-model_v4 Spermatogenesis-associated protein 20	0.196	132	91	261	374	73	204	3.046E-04	148
+DESULFOASV1_0978_hypothetical_protein	AF-Q9LKW0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9LKW0-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.177	111	88	264	371	60	170	7.465E-04	147
+DESULFOASV1_0978_hypothetical_protein	AF-Q5TKD8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5TKD8-F1-model_v4 Thioredoxin-like 2, chloroplastic	0.146	113	94	265	377	75	185	1.636E-03	147
+DESULFOASV1_0978_hypothetical_protein	AF-Q9JLZ1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9JLZ1-F1-model_v4 Glutaredoxin-3	0.161	112	90	266	377	12	119	2.047E-03	147
+DESULFOASV1_0978_hypothetical_protein	AF-Q17770-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q17770-F1-model_v4 Protein disulfide-isomerase 2	0.157	110	91	266	374	18	127	1.935E-03	147
+DESULFOASV1_0978_hypothetical_protein	AF-Q8R4U2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8R4U2-F1-model_v4 Protein disulfide-isomerase	0.194	104	81	273	374	30	133	1.462E-03	147
+DESULFOASV1_0978_hypothetical_protein	AF-Q09214-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q09214-F1-model_v4 Uncharacterized protein B0495.5	0.198	131	91	261	374	29	159	1.644E-04	147
+DESULFOASV1_0978_hypothetical_protein	AF-O64432-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O64432-F1-model_v4 Thioredoxin H-type	0.108	114	99	264	375	5	118	1.307E-03	146
+DESULFOASV1_0978_hypothetical_protein	AF-Q6NPL9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6NPL9-F1-model_v4 Thioredoxin domain-containing protein PLP3A	0.182	119	92	262	374	76	194	4.768E-04	146
+DESULFOASV1_0978_hypothetical_protein	AF-Q13087-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q13087-F1-model_v4 Protein disulfide-isomerase A2	0.180	107	85	273	377	46	152	1.830E-03	146
+DESULFOASV1_0978_hypothetical_protein	AF-Q96J42-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q96J42-F1-model_v4 Thioredoxin domain-containing protein 15	0.132	116	99	264	378	182	297	1.169E-03	145
+DESULFOASV1_0978_hypothetical_protein	AF-Q6P902-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6P902-F1-model_v4 Thioredoxin domain-containing protein 2	0.190	115	92	261	375	401	514	1.236E-03	145
+DESULFOASV1_0978_hypothetical_protein	AF-P13667-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P13667-F1-model_v4 Protein disulfide-isomerase A4	0.182	122	96	259	376	47	168	7.895E-04	145
+DESULFOASV1_0978_hypothetical_protein	AF-P68176-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P68176-F1-model_v4 Thioredoxin H-type	0.100	114	100	264	375	5	118	1.547E-03	144
+DESULFOASV1_0978_hypothetical_protein	AF-Q69AB1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q69AB1-F1-model_v4 Thioredoxin domain-containing protein 8	0.145	125	89	271	375	2	126	1.636E-03	144
+DESULFOASV1_0978_hypothetical_protein	AF-O64764-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O64764-F1-model_v4 Thioredoxin O1, mitochondrial	0.120	108	92	271	376	86	193	1.105E-03	144
+DESULFOASV1_0978_hypothetical_protein	AF-Q28BP9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q28BP9-F1-model_v4 FAS-associated factor 2	0.133	127	100	262	377	141	267	2.289E-03	144
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R5B6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R5B6-F1-model_v4 Protein disulfide-isomerase	0.175	116	90	265	374	16	131	9.341E-04	144
+DESULFOASV1_0978_hypothetical_protein	AF-P52588-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52588-F1-model_v4 Protein disulfide-isomerase	0.205	105	80	273	374	38	142	2.165E-03	144
+DESULFOASV1_0978_hypothetical_protein	AF-Q98TX1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q98TX1-F1-model_v4 Thioredoxin	0.097	108	93	268	375	1	104	2.561E-03	143
+DESULFOASV1_0978_hypothetical_protein	AF-Q4N4N8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4N4N8-F1-model_v4 Thioredoxin domain-containing protein	0.182	110	89	262	371	25	134	1.383E-03	143
+DESULFOASV1_0978_hypothetical_protein	AF-O22779-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O22779-F1-model_v4 Thioredoxin-like 1-3, chloroplastic	0.115	116	101	264	378	87	202	1.383E-03	143
+DESULFOASV1_0978_hypothetical_protein	AF-Q6IQC7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6IQC7-F1-model_v4 Thioredoxin-related transmembrane protein 2-B	0.176	127	89	269	377	136	262	7.895E-04	143
+DESULFOASV1_0978_hypothetical_protein	AF-Q5QLS7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5QLS7-F1-model_v4 Thioredoxin-like fold domain-containing protein MRL7 homolog, chloroplastic	0.182	107	83	272	374	191	297	5.043E-04	143
+DESULFOASV1_0978_hypothetical_protein	AF-Q8NBS9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8NBS9-F1-model_v4 Thioredoxin domain-containing protein 5	0.172	158	127	221	374	135	292	6.343E-05	143
+DESULFOASV1_0978_hypothetical_protein	AF-P21195-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P21195-F1-model_v4 Protein disulfide-isomerase	0.175	116	90	265	374	17	132	9.879E-04	143
+DESULFOASV1_0978_hypothetical_protein	AF-Q9KNN1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9KNN1-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.250	124	84	263	375	477	600	1.730E-03	143
+DESULFOASV1_0978_hypothetical_protein	AF-P96611-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P96611-F1-model_v4 Thioredoxin-like protein YdbP	0.165	106	84	272	377	2	102	1.935E-03	142
+DESULFOASV1_0978_hypothetical_protein	AF-Q5XIK2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5XIK2-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.141	127	93	269	377	136	262	5.334E-04	142
+DESULFOASV1_0978_hypothetical_protein	AF-Q84M47-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q84M47-F1-model_v4 5'-adenylylsulfate reductase-like 5	0.154	106	88	273	378	61	165	2.561E-03	142
+DESULFOASV1_0978_hypothetical_protein	AF-O13704-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O13704-F1-model_v4 Thioredoxin domain-containing protein C13F5.05, mitochondrial	0.176	108	88	267	374	29	136	8.832E-04	142
+DESULFOASV1_0978_hypothetical_protein	AF-Q6GNG3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6GNG3-F1-model_v4 Protein disulfide-isomerase TMX3	0.145	114	94	265	378	22	132	2.561E-03	142
+DESULFOASV1_0978_hypothetical_protein	AF-Q54EN4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q54EN4-F1-model_v4 Protein disulfide-isomerase 2	0.186	111	89	265	374	34	144	1.236E-03	142
+DESULFOASV1_0978_hypothetical_protein	AF-O74790-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O74790-F1-model_v4 Monothiol glutaredoxin-4	0.139	110	91	268	377	1	107	1.547E-03	141
+DESULFOASV1_0978_hypothetical_protein	AF-Q922R8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q922R8-F1-model_v4 Protein disulfide-isomerase A6	0.181	114	92	264	377	20	132	3.791E-03	141
+DESULFOASV1_0978_hypothetical_protein	AF-P52589-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52589-F1-model_v4 Protein disulfide-isomerase	0.196	115	89	262	373	32	146	2.165E-03	141
+DESULFOASV1_0978_hypothetical_protein	AF-Q00248-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q00248-F1-model_v4 Protein disulfide-isomerase	0.196	111	88	265	375	25	135	9.879E-04	141
+DESULFOASV1_0978_hypothetical_protein	AF-Q66GQ3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q66GQ3-F1-model_v4 Protein disulfide isomerase-like 1-6	0.134	113	94	262	374	71	179	8.350E-04	141
+DESULFOASV1_0978_hypothetical_protein	AF-Q8N807-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8N807-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.203	111	85	267	374	41	151	1.636E-03	141
+DESULFOASV1_0978_hypothetical_protein	AF-Q6A555-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6A555-F1-model_v4 Thioredoxin domain-containing protein 8	0.162	125	87	271	375	2	126	4.485E-03	140
+DESULFOASV1_0978_hypothetical_protein	AF-Q10M18-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q10M18-F1-model_v4 Thioredoxin-like 1-2, chloroplastic	0.166	114	93	264	377	88	200	8.832E-04	140
+DESULFOASV1_0978_hypothetical_protein	AF-Q58E26-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q58E26-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.172	126	89	269	376	136	261	5.966E-04	140
+DESULFOASV1_0978_hypothetical_protein	AF-Q12730-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q12730-F1-model_v4 Protein disulfide-isomerase	0.210	111	87	265	375	21	131	2.421E-03	140
+DESULFOASV1_0978_hypothetical_protein	AF-D3Z6P0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-D3Z6P0-F1-model_v4 Protein disulfide-isomerase A2	0.177	104	83	273	374	49	152	4.743E-03	140
+DESULFOASV1_0978_hypothetical_protein	AF-Q69ST6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q69ST6-F1-model_v4 Protein disulfide isomerase-like 1-3	0.223	108	81	273	377	82	189	2.165E-03	140
+DESULFOASV1_0978_hypothetical_protein	AF-Q6JE38-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6JE38-F1-model_v4 Thioredoxin-like protein CITRX1, chloroplastic	0.175	113	90	262	371	64	176	1.045E-03	139
+DESULFOASV1_0978_hypothetical_protein	AF-Q6Z7L3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6Z7L3-F1-model_v4 Thioredoxin-like 3-1, chloroplastic	0.179	120	94	262	377	71	190	7.058E-04	139
+DESULFOASV1_0978_hypothetical_protein	AF-Q86H62-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q86H62-F1-model_v4 Glutaredoxin-3 homolog	0.145	99	81	279	377	14	109	5.334E-04	139
+DESULFOASV1_0978_hypothetical_protein	AF-Q6DFS0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6DFS0-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.184	127	88	269	377	136	262	1.236E-03	139
+DESULFOASV1_0978_hypothetical_protein	AF-Q6P6J9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6P6J9-F1-model_v4 Thioredoxin domain-containing protein 15	0.150	108	91	271	378	174	281	1.045E-03	139
+DESULFOASV1_0978_hypothetical_protein	AF-Q95LM0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q95LM0-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.196	103	80	273	373	47	149	1.830E-03	139
+DESULFOASV1_0978_hypothetical_protein	AF-Q9JYM0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9JYM0-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.228	92	67	287	374	508	599	5.935E-03	139
+DESULFOASV1_0978_hypothetical_protein	AF-Q6NRT6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6NRT6-F1-model_v4 DnaJ homolog subfamily C member 10	0.120	156	121	222	377	418	556	2.880E-04	139
+DESULFOASV1_0978_hypothetical_protein	AF-P80284-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P80284-F1-model_v4 Protein disulfide-isomerase	0.219	109	84	265	373	37	145	2.165E-03	138
+DESULFOASV1_0978_hypothetical_protein	AF-Q5BJT4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5BJT4-F1-model_v4 Thioredoxin domain-containing protein 15	0.141	108	92	271	378	173	280	1.383E-03	137
+DESULFOASV1_0978_hypothetical_protein	AF-Q96JJ7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q96JJ7-F1-model_v4 Protein disulfide-isomerase TMX3	0.150	117	94	262	378	22	132	2.561E-03	137
+DESULFOASV1_0978_hypothetical_protein	AF-Q5WNE3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5WNE3-F1-model_v4 Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase	0.145	104	87	272	375	4	106	5.017E-03	137
+DESULFOASV1_0978_hypothetical_protein	AF-P68177-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P68177-F1-model_v4 Thioredoxin H-type 1	0.099	112	98	264	373	5	116	1.169E-03	136
+DESULFOASV1_0978_hypothetical_protein	AF-O14530-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O14530-F1-model_v4 Thioredoxin domain-containing protein 9	0.179	102	79	262	363	66	162	1.935E-03	136
+DESULFOASV1_0978_hypothetical_protein	AF-Q9Y320-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9Y320-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.141	127	93	269	377	136	262	8.832E-04	136
+DESULFOASV1_0978_hypothetical_protein	AF-P96132-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P96132-F1-model_v4 Thioredoxin	0.192	81	65	268	348	1	81	6.277E-03	135
+DESULFOASV1_0978_hypothetical_protein	AF-Q6JE37-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6JE37-F1-model_v4 Thioredoxin-like protein CITRX2, chloroplastic	0.183	113	89	262	371	64	176	1.547E-03	135
+DESULFOASV1_0978_hypothetical_protein	AF-O14095-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O14095-F1-model_v4 Thioredoxin domain-containing protein plp1	0.120	126	101	261	376	123	248	8.832E-04	135
+DESULFOASV1_0978_hypothetical_protein	AF-Q5RCH2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5RCH2-F1-model_v4 Protein disulfide-isomerase A2	0.186	103	81	273	373	46	148	3.791E-03	135
+DESULFOASV1_0978_hypothetical_protein	AF-P32642-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P32642-F1-model_v4 Monothiol glutaredoxin-4	0.086	108	97	271	377	3	110	7.021E-03	134
+DESULFOASV1_0978_hypothetical_protein	AF-Q84JN1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q84JN1-F1-model_v4 5'-adenylylsulfate reductase-like 7	0.154	106	88	273	378	54	158	4.485E-03	134
+DESULFOASV1_0978_hypothetical_protein	AF-A8WG88-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8WG88-F1-model_v4 Thioredoxin-related transmembrane protein 2-A	0.156	128	92	269	378	136	263	7.465E-04	134
+DESULFOASV1_0978_hypothetical_protein	AF-A3KPF5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A3KPF5-F1-model_v4 Protein disulfide isomerase-like 1-5	0.151	116	94	262	377	73	184	4.240E-03	134
+DESULFOASV1_0978_hypothetical_protein	AF-Q5E936-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5E936-F1-model_v4 Thioredoxin domain-containing protein 12	0.236	125	88	261	376	31	155	1.547E-03	133
+DESULFOASV1_0978_hypothetical_protein	AF-Q5WGY8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5WGY8-F1-model_v4 Probable thiol-disulfide oxidoreductase ResA	0.182	113	75	284	376	62	174	2.289E-03	133
+DESULFOASV1_0978_hypothetical_protein	AF-Q9NX01-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9NX01-F1-model_v4 Thioredoxin-like protein 4B	0.150	116	92	268	376	4	119	6.277E-03	132
+DESULFOASV1_0978_hypothetical_protein	AF-Q8LEK4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8LEK4-F1-model_v4 Thioredoxin-like 2-1, chloroplastic	0.170	110	88	265	374	89	195	7.058E-04	132
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CQ79-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CQ79-F1-model_v4 Thioredoxin domain-containing protein 9	0.195	93	72	271	363	73	162	5.017E-03	132
+DESULFOASV1_0978_hypothetical_protein	AF-Q4R5B4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4R5B4-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.161	127	91	269	377	136	262	1.105E-03	132
+DESULFOASV1_0978_hypothetical_protein	AF-Q869Z0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q869Z0-F1-model_v4 Putative protein disulfide-isomerase DDB_G0275025	0.151	116	94	264	375	22	137	3.791E-03	132
+DESULFOASV1_0978_hypothetical_protein	AF-P38349-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38349-F1-model_v4 UBX domain-containing protein 7	0.155	107	87	271	377	6	109	1.383E-03	132
+DESULFOASV1_0978_hypothetical_protein	AF-O96952-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O96952-F1-model_v4 Thioredoxin	0.173	95	74	279	373	15	104	3.204E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q69AB2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q69AB2-F1-model_v4 Thioredoxin domain-containing protein 8	0.165	126	89	268	375	1	126	4.009E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q8BUH1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8BUH1-F1-model_v4 Thioredoxin-like protein 4B	0.141	116	93	268	376	4	119	6.639E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-P72804-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P72804-F1-model_v4 Thylakoid membrane protein slr1796	0.183	104	83	274	375	72	175	4.009E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q8K581-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8K581-F1-model_v4 Thioredoxin domain-containing protein 9	0.188	102	78	262	363	66	162	2.561E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q8LCV1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8LCV1-F1-model_v4 Thioredoxin domain-containing protein PLP3B	0.158	119	94	262	374	76	194	1.935E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q9D710-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9D710-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.141	127	93	269	377	136	262	9.341E-04	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q93YX4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q93YX4-F1-model_v4 5'-adenylylsulfate reductase-like 5	0.160	106	87	273	378	58	162	4.240E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R875-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R875-F1-model_v4 Protein disulfide-isomerase TMX3	0.150	117	94	262	378	22	132	4.485E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-Q5XI02-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5XI02-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.155	104	85	273	374	44	147	4.240E-03	131
+DESULFOASV1_0978_hypothetical_protein	AF-O95881-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O95881-F1-model_v4 Thioredoxin domain-containing protein 12	0.234	126	89	261	377	31	156	2.165E-03	130
+DESULFOASV1_0978_hypothetical_protein	AF-Q2TBU2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2TBU2-F1-model_v4 Thioredoxin-related transmembrane protein 2	0.149	127	92	269	377	136	262	1.105E-03	130
+DESULFOASV1_0978_hypothetical_protein	AF-Q9DC23-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9DC23-F1-model_v4 DnaJ homolog subfamily C member 10	0.133	155	132	223	377	632	784	8.394E-05	130
+DESULFOASV1_0978_hypothetical_protein	AF-Q10417-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q10417-F1-model_v4 Protein MesC	0.132	123	101	262	378	15	137	1.307E-03	129
+DESULFOASV1_0978_hypothetical_protein	AF-O48897-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O48897-F1-model_v4 Thioredoxin F-type, chloroplastic	0.151	172	139	206	377	14	178	4.793E-05	129
+DESULFOASV1_0978_hypothetical_protein	AF-Q9DAN1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9DAN1-F1-model_v4 Protein disulfide-isomerase-like protein of the testis	0.146	112	91	267	374	36	147	5.017E-03	129
+DESULFOASV1_0978_hypothetical_protein	AF-Q8IXB1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8IXB1-F1-model_v4 DnaJ homolog subfamily C member 10	0.121	152	127	223	374	632	777	2.434E-04	129
+DESULFOASV1_0978_hypothetical_protein	AF-Q498R3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q498R3-F1-model_v4 DnaJ homolog subfamily C member 10	0.116	155	134	223	377	632	784	9.390E-05	129
+DESULFOASV1_0978_hypothetical_protein	AF-O31820-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O31820-F1-model_v4 Thioredoxin-like protein YneN	0.158	116	80	279	374	54	169	9.341E-04	128
+DESULFOASV1_0978_hypothetical_protein	AF-O74481-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O74481-F1-model_v4 Uncharacterized protein C1840.08c	0.113	110	96	269	377	100	209	1.636E-03	128
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R5L3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R5L3-F1-model_v4 DnaJ homolog subfamily C member 10	0.122	155	133	223	377	632	784	1.050E-04	128
+DESULFOASV1_0978_hypothetical_protein	AF-Q8S091-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8S091-F1-model_v4 Thioredoxin F, chloroplastic	0.164	200	130	179	378	32	187	8.878E-05	127
+DESULFOASV1_0978_hypothetical_protein	AF-Q84P95-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q84P95-F1-model_v4 5'-adenylylsulfate reductase-like 3	0.138	122	97	265	378	44	165	1.935E-03	127
+DESULFOASV1_0978_hypothetical_protein	AF-Q921X9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q921X9-F1-model_v4 Protein disulfide-isomerase A5	0.085	156	141	218	373	101	255	2.574E-04	126
+DESULFOASV1_0978_hypothetical_protein	AF-Q29RV1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q29RV1-F1-model_v4 Protein disulfide-isomerase A4	0.171	172	123	205	376	19	167	1.945E-04	126
+DESULFOASV1_0978_hypothetical_protein	AF-P48339-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P48339-F1-model_v4 Hydrogenase expression/formation protein HupG	0.137	108	90	271	375	15	122	1.383E-03	125
+DESULFOASV1_0978_hypothetical_protein	AF-A0A1L1SUL6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0A1L1SUL6-F1-model_v4 Thioredoxin domain-containing protein 6	0.206	113	87	265	377	6	115	3.030E-03	125
+DESULFOASV1_0978_hypothetical_protein	AF-Q67VZ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q67VZ8-F1-model_v4 5'-adenylylsulfate reductase-like 2	0.113	115	100	265	378	46	160	3.584E-03	124
+DESULFOASV1_0978_hypothetical_protein	AF-Q12404-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q12404-F1-model_v4 Protein disulfide-isomerase MPD1	0.130	135	97	265	376	19	153	3.584E-03	124
+DESULFOASV1_0978_hypothetical_protein	AF-Q2KIL5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2KIL5-F1-model_v4 Protein disulfide-isomerase A5	0.102	156	138	218	373	105	259	4.263E-04	123
+DESULFOASV1_0978_hypothetical_protein	AF-Q5DJV7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5DJV7-F1-model_v4 5'-adenylylsulfate reductase-like 4	0.099	113	100	267	378	61	173	7.021E-03	122
+DESULFOASV1_0978_hypothetical_protein	AF-Q9JTL9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9JTL9-F1-model_v4 Thiol:disulfide interchange protein DsbD	0.200	115	84	269	374	485	599	1.721E-02	122
+DESULFOASV1_0978_hypothetical_protein	AF-Q8H2V6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8H2V6-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.197	165	112	207	371	45	184	3.221E-04	121
+DESULFOASV1_0978_hypothetical_protein	AF-Q11183-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q11183-F1-model_v4 Thioredoxin domain-containing protein 9	0.142	112	90	271	376	68	179	7.426E-03	121
+DESULFOASV1_0978_hypothetical_protein	AF-Q8TFH3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8TFH3-F1-model_v4 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	0.115	131	100	265	378	21	151	1.462E-03	121
+DESULFOASV1_0978_hypothetical_protein	AF-Q12229-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q12229-F1-model_v4 UBX domain-containing protein 3	0.117	118	92	273	377	165	282	4.240E-03	121
+DESULFOASV1_0978_hypothetical_protein	AF-Q6P5G6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6P5G6-F1-model_v4 UBX domain-containing protein 7	0.108	137	103	262	377	101	237	1.830E-03	121
+DESULFOASV1_0978_hypothetical_protein	AF-P08003-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P08003-F1-model_v4 Protein disulfide-isomerase A4	0.155	159	127	219	377	127	277	6.674E-04	121
+DESULFOASV1_0978_hypothetical_protein	AF-Q8R3W7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8R3W7-F1-model_v4 Anterior gradient protein 3	0.139	116	94	268	377	40	155	1.462E-03	120
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CQU0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CQU0-F1-model_v4 Thioredoxin domain-containing protein 12	0.236	125	88	261	376	29	153	5.017E-03	120
+DESULFOASV1_0978_hypothetical_protein	AF-Q71A37-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q71A37-F1-model_v4 Phosducin-like protein 3	0.164	119	96	262	377	39	157	4.743E-03	120
+DESULFOASV1_0978_hypothetical_protein	AF-Q944B0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q944B0-F1-model_v4 Peptidyl-prolyl cis-trans isomerase FKBP16-1, chloroplastic	0.223	85	56	28	112	97	169	3.204E-03	120
+DESULFOASV1_0978_hypothetical_protein	AF-Q0Z7W6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0Z7W6-F1-model_v4 Thioredoxin-related transmembrane protein 1	0.141	105	85	270	374	30	129	2.153E-02	120
+DESULFOASV1_0978_hypothetical_protein	AF-Q8BXZ1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8BXZ1-F1-model_v4 Protein disulfide-isomerase TMX3	0.166	117	92	262	378	25	135	1.099E-02	120
+DESULFOASV1_0978_hypothetical_protein	AF-Q9P2K2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9P2K2-F1-model_v4 Thioredoxin domain-containing protein 16	0.094	113	101	261	373	382	493	2.036E-02	120
+DESULFOASV1_0978_hypothetical_protein	AF-Q57127-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q57127-F1-model_v4 Uncharacterized protein HI_1453	0.206	121	79	278	378	36	156	4.030E-04	119
+DESULFOASV1_0978_hypothetical_protein	AF-Q498E0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q498E0-F1-model_v4 Thioredoxin domain-containing protein 12	0.260	95	69	261	355	29	122	5.017E-03	119
+DESULFOASV1_0978_hypothetical_protein	AF-Q6HL81-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6HL81-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.184	141	91	264	376	32	172	1.383E-03	118
+DESULFOASV1_0978_hypothetical_protein	AF-O18883-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O18883-F1-model_v4 Thioredoxin domain-containing protein 9	0.160	102	81	262	363	66	162	8.785E-03	118
+DESULFOASV1_0978_hypothetical_protein	AF-Q03835-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q03835-F1-model_v4 Monothiol glutaredoxin-3	0.116	104	91	271	374	3	106	1.300E-02	118
+DESULFOASV1_0978_hypothetical_protein	AF-P29446-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P29446-F1-model_v4 Thioredoxin-2	0.126	92	76	268	359	1	88	1.375E-02	117
+DESULFOASV1_0978_hypothetical_protein	AF-Q73B22-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q73B22-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.182	143	93	262	376	30	172	1.307E-03	117
+DESULFOASV1_0978_hypothetical_protein	AF-P38659-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38659-F1-model_v4 Protein disulfide-isomerase A4	0.152	159	127	219	377	132	282	1.169E-03	117
+DESULFOASV1_0978_hypothetical_protein	AF-Q86XW9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q86XW9-F1-model_v4 Thioredoxin domain-containing protein 6	0.165	113	89	265	377	8	114	7.854E-03	116
+DESULFOASV1_0978_hypothetical_protein	AF-Q9H1E5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9H1E5-F1-model_v4 Thioredoxin-related transmembrane protein 4	0.153	110	86	265	374	35	137	1.300E-02	116
+DESULFOASV1_0978_hypothetical_protein	AF-Q8C0L0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8C0L0-F1-model_v4 Thioredoxin-related transmembrane protein 4	0.150	112	85	265	376	31	131	1.627E-02	115
+DESULFOASV1_0978_hypothetical_protein	AF-Q6IRC5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6IRC5-F1-model_v4 Thioredoxin domain-containing protein 6	0.173	113	88	265	377	8	115	5.017E-03	115
+DESULFOASV1_0978_hypothetical_protein	AF-Q6DJ58-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6DJ58-F1-model_v4 Anterior gradient protein 3	0.157	115	91	269	377	40	154	2.708E-03	114
+DESULFOASV1_0978_hypothetical_protein	AF-Q8XFE5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8XFE5-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.198	124	79	280	378	62	185	7.895E-04	114
+DESULFOASV1_0978_hypothetical_protein	AF-Q2QP53-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2QP53-F1-model_v4 5'-adenylylsulfate reductase-like 6	0.126	107	90	272	378	63	166	1.721E-02	114
+DESULFOASV1_0978_hypothetical_protein	AF-Q715T0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q715T0-F1-model_v4 Thioredoxin domain-containing protein 3	0.172	113	90	265	377	6	115	6.639E-03	114
+DESULFOASV1_0978_hypothetical_protein	AF-A0RBT0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0RBT0-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.155	143	96	262	376	30	172	2.421E-03	113
+DESULFOASV1_0978_hypothetical_protein	AF-Q63DQ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q63DQ8-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.155	143	96	262	376	30	172	2.289E-03	113
+DESULFOASV1_0978_hypothetical_protein	AF-Q81SZ9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q81SZ9-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.155	143	96	262	376	30	172	2.561E-03	112
+DESULFOASV1_0978_hypothetical_protein	AF-O88312-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O88312-F1-model_v4 Anterior gradient protein 2 homolog	0.187	121	91	264	376	48	168	5.611E-03	112
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SA00-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SA00-F1-model_v4 5'-adenylylsulfate reductase-like 4	0.145	109	91	271	378	61	169	1.627E-02	112
+DESULFOASV1_0978_hypothetical_protein	AF-Q5WA72-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5WA72-F1-model_v4 Protein disulfide isomerase-like 1-5	0.142	102	81	262	363	64	158	7.854E-03	112
+DESULFOASV1_0978_hypothetical_protein	AF-Q81FU5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q81FU5-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.155	143	96	262	376	30	172	3.030E-03	111
+DESULFOASV1_0978_hypothetical_protein	AF-P44943-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P44943-F1-model_v4 Probable thiol:disulfide interchange protein DsbE-2	0.184	120	82	278	378	57	176	3.584E-03	111
+DESULFOASV1_0978_hypothetical_protein	AF-Q8XFK6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8XFK6-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.198	124	79	280	378	62	185	1.105E-03	111
+DESULFOASV1_0978_hypothetical_protein	AF-P32474-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P32474-F1-model_v4 Protein disulfide-isomerase EUG1	0.135	109	91	269	374	33	141	1.539E-02	111
+DESULFOASV1_0978_hypothetical_protein	AF-Q5XHX6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5XHX6-F1-model_v4 Thioredoxin domain-containing protein 2	0.162	197	131	179	375	393	549	5.043E-04	111
+DESULFOASV1_0978_hypothetical_protein	AF-P19931-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P19931-F1-model_v4 Hydrogenase-1 operon protein HyaE	0.205	105	83	271	375	19	123	5.935E-03	110
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA88-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA88-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.190	124	79	280	378	62	185	1.105E-03	110
+DESULFOASV1_0978_hypothetical_protein	AF-P45038-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P45038-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.166	121	83	278	377	59	179	9.879E-04	109
+DESULFOASV1_0978_hypothetical_protein	AF-H9D1R1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-H9D1R1-F1-model_v4 Thioredoxin domain-containing protein 12	0.223	129	92	259	378	30	158	6.639E-03	108
+DESULFOASV1_0978_hypothetical_protein	AF-Q8ZD52-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8ZD52-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.173	118	79	281	377	69	186	2.047E-03	108
+DESULFOASV1_0978_hypothetical_protein	AF-Q7ZV50-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7ZV50-F1-model_v4 Magnesium transporter protein 1	0.089	131	102	262	374	35	165	9.827E-03	108
+DESULFOASV1_0978_hypothetical_protein	AF-F4I8X8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-F4I8X8-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3A	0.083	129	96	273	378	47	175	3.204E-03	108
+DESULFOASV1_0978_hypothetical_protein	AF-Q8N427-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8N427-F1-model_v4 Thioredoxin domain-containing protein 3	0.136	113	94	265	377	6	115	5.935E-03	108
+DESULFOASV1_0978_hypothetical_protein	AF-O95994-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O95994-F1-model_v4 Anterior gradient protein 2 homolog	0.140	115	94	268	377	51	165	5.306E-03	107
+DESULFOASV1_0978_hypothetical_protein	AF-P55868-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P55868-F1-model_v4 Anterior gradient protein 1	0.170	115	90	269	377	59	173	4.485E-03	107
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA86-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA86-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.190	124	79	280	378	62	185	1.636E-03	107
+DESULFOASV1_0978_hypothetical_protein	AF-Q8CXF3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8CXF3-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.146	119	85	279	378	72	190	1.455E-02	107
+DESULFOASV1_0978_hypothetical_protein	AF-Q2YDL5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2YDL5-F1-model_v4 Peptidyl-prolyl cis-trans isomerase FKBP11	0.194	127	95	1	119	1	127	2.865E-03	107
+DESULFOASV1_0978_hypothetical_protein	AF-Q04004-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q04004-F1-model_v4 Phosducin-like protein 1	0.159	105	86	261	363	69	173	1.099E-02	107
+DESULFOASV1_0978_hypothetical_protein	AF-Q7TN22-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7TN22-F1-model_v4 Thioredoxin domain-containing protein 16	0.101	113	101	261	373	382	494	3.565E-02	107
+DESULFOASV1_0978_hypothetical_protein	AF-Q9Z645-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9Z645-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.187	125	81	278	378	61	185	1.935E-03	106
+DESULFOASV1_0978_hypothetical_protein	AF-P55869-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P55869-F1-model_v4 Anterior gradient protein 2	0.173	115	89	269	377	61	175	5.306E-03	106
+DESULFOASV1_0978_hypothetical_protein	AF-A2YUQ6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2YUQ6-F1-model_v4 Thioredoxin-like protein CITRX, chloroplastic	0.179	193	127	179	371	29	184	5.334E-04	106
+DESULFOASV1_0978_hypothetical_protein	AF-Q32L57-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q32L57-F1-model_v4 Tumor suppressor candidate 3	0.120	122	92	269	374	63	184	1.925E-02	106
+DESULFOASV1_0978_hypothetical_protein	AF-Q8BTV1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8BTV1-F1-model_v4 Tumor suppressor candidate 3	0.112	122	93	269	374	63	184	1.925E-02	106
+DESULFOASV1_0978_hypothetical_protein	AF-Q13454-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q13454-F1-model_v4 Tumor suppressor candidate 3	0.112	122	93	269	374	63	184	1.820E-02	106
+DESULFOASV1_0978_hypothetical_protein	AF-Q715S9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q715S9-F1-model_v4 Thioredoxin domain-containing protein 3	0.172	113	90	265	377	6	115	1.230E-02	106
+DESULFOASV1_0978_hypothetical_protein	AF-Q95YJ5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q95YJ5-F1-model_v4 Thioredoxin domain-containing protein 3 homolog	0.177	106	82	269	374	10	110	1.163E-02	106
+DESULFOASV1_0978_hypothetical_protein	AF-P40557-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P40557-F1-model_v4 ER-retained PMA1-suppressing protein 1	0.092	112	100	265	376	27	137	1.539E-02	106
+DESULFOASV1_0978_hypothetical_protein	AF-Q06819-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q06819-F1-model_v4 Spliceosomal protein DIB1	0.112	119	98	267	377	4	122	5.278E-02	105
+DESULFOASV1_0978_hypothetical_protein	AF-Q90Y05-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q90Y05-F1-model_v4 Anterior gradient protein 2-A	0.171	118	94	264	377	32	149	2.561E-03	105
+DESULFOASV1_0978_hypothetical_protein	AF-P52236-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52236-F1-model_v4 Thiol:disulfide interchange protein DsbE homolog	0.150	118	82	281	377	60	177	4.009E-03	105
+DESULFOASV1_0978_hypothetical_protein	AF-P0AA87-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0AA87-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.195	125	81	278	378	61	185	2.165E-03	105
+DESULFOASV1_0978_hypothetical_protein	AF-Q87BH3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q87BH3-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.163	111	76	286	377	71	181	3.389E-03	105
+DESULFOASV1_0978_hypothetical_protein	AF-Q18484-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q18484-F1-model_v4 Thioredoxin-related transmembrane protein 2 homolog	0.138	130	96	266	377	122	251	5.611E-03	105
+DESULFOASV1_0978_hypothetical_protein	AF-P35340-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P35340-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.147	98	77	274	371	104	194	7.021E-03	104
+DESULFOASV1_0978_hypothetical_protein	AF-Q03006-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q03006-F1-model_v4 Hydrogenase expression/formation protein HupG	0.155	108	90	271	378	29	136	1.163E-02	103
+DESULFOASV1_0978_hypothetical_protein	AF-Q8TD06-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8TD06-F1-model_v4 Anterior gradient protein 3	0.142	119	97	264	377	38	156	7.854E-03	102
+DESULFOASV1_0978_hypothetical_protein	AF-P34669-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P34669-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	0.100	125	95	273	378	41	165	1.627E-02	102
+DESULFOASV1_0978_hypothetical_protein	AF-Q17967-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q17967-F1-model_v4 Protein disulfide-isomerase 1	0.159	165	135	216	377	306	470	1.307E-03	102
+DESULFOASV1_0978_hypothetical_protein	AF-Q6AX23-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6AX23-F1-model_v4 Sulfhydryl oxidase 2	0.113	110	91	266	375	163	266	1.375E-02	102
+DESULFOASV1_0978_hypothetical_protein	AF-Q80TN4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q80TN4-F1-model_v4 DnaJ homolog subfamily C member 16	0.151	105	86	273	377	141	242	2.409E-02	102
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R7P1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R7P1-F1-model_v4 Anterior gradient protein 2 homolog	0.141	114	93	269	377	52	165	1.039E-02	101
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CPM6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CPM6-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.182	121	81	278	377	59	179	2.561E-03	101
+DESULFOASV1_0978_hypothetical_protein	AF-Q6NVS9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6NVS9-F1-model_v4 Anterior gradient protein 1	0.150	119	96	264	377	59	177	9.292E-03	101
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CQY5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CQY5-F1-model_v4 Magnesium transporter protein 1	0.074	131	104	262	374	42	172	1.820E-02	101
+DESULFOASV1_0978_hypothetical_protein	AF-Q94HV8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q94HV8-F1-model_v4 Putative plant UBX domain-containing protein 15	0.126	91	77	289	377	94	184	3.771E-02	101
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZPE9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZPE9-F1-model_v4 5'-adenylylsulfate reductase-like 6	0.105	109	95	272	378	54	162	4.990E-02	100
+DESULFOASV1_0978_hypothetical_protein	AF-Q5RE31-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5RE31-F1-model_v4 Magnesium transporter protein 1	0.074	131	104	262	374	42	172	1.925E-02	100
+DESULFOASV1_0978_hypothetical_protein	AF-Q9I3N1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9I3N1-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.151	127	105	254	378	50	176	2.561E-03	99
+DESULFOASV1_0978_hypothetical_protein	AF-Q9PAN4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9PAN4-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.163	111	76	286	377	71	181	6.639E-03	99
+DESULFOASV1_0978_hypothetical_protein	AF-Q9H0U3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9H0U3-F1-model_v4 Magnesium transporter protein 1	0.074	131	104	262	374	42	172	2.153E-02	99
+DESULFOASV1_0978_hypothetical_protein	AF-Q94I55-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q94I55-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3	0.106	140	104	262	378	30	169	1.039E-02	99
+DESULFOASV1_0978_hypothetical_protein	AF-Q5RZ65-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5RZ65-F1-model_v4 Anterior gradient protein 2 homolog	0.161	118	90	269	376	47	164	8.785E-03	98
+DESULFOASV1_0978_hypothetical_protein	AF-A1USB3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1USB3-F1-model_v4 Trigger factor	0.292	82	44	28	109	158	220	5.935E-03	98
+DESULFOASV1_0978_hypothetical_protein	AF-P26829-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P26829-F1-model_v4 NADH dehydrogenase	0.105	100	82	274	373	103	195	1.039E-02	98
+DESULFOASV1_0978_hypothetical_protein	AF-Q6BP84-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6BP84-F1-model_v4 FK506-binding protein 2	0.232	98	63	23	120	28	110	2.547E-02	97
+DESULFOASV1_0978_hypothetical_protein	AF-P31910-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P31910-F1-model_v4 Hydrogenase expression/formation protein HoxO	0.108	108	95	271	377	31	138	2.153E-02	97
+DESULFOASV1_0978_hypothetical_protein	AF-Q50232-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q50232-F1-model_v4 Methylamine utilization protein MauD	0.205	104	71	286	375	78	181	2.561E-03	97
+DESULFOASV1_0978_hypothetical_protein	AF-Q8LCT3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8LCT3-F1-model_v4 Thioredoxin-like 2-2, chloroplastic	0.132	167	122	207	373	64	205	5.935E-03	97
+DESULFOASV1_0978_hypothetical_protein	AF-Q1MHK9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1MHK9-F1-model_v4 Trigger factor	0.271	81	44	29	109	163	224	1.163E-02	97
+DESULFOASV1_0978_hypothetical_protein	AF-Q10MW6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q10MW6-F1-model_v4 DnaJ protein ERDJ3A	0.136	113	95	265	375	201	313	2.036E-02	97
+DESULFOASV1_0978_hypothetical_protein	AF-P90666-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P90666-F1-model_v4 Thioredoxin domain-containing protein 3 homolog	0.169	113	91	265	377	6	115	2.547E-02	97
+DESULFOASV1_0978_hypothetical_protein	AF-O26898-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O26898-F1-model_v4 Probable Thioredoxin	0.172	87	65	288	374	3	82	2.409E-02	96
+DESULFOASV1_0978_hypothetical_protein	AF-P87215-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P87215-F1-model_v4 Mitosis protein dim1	0.117	117	95	269	377	5	121	8.739E-02	96
+DESULFOASV1_0978_hypothetical_protein	AF-P28149-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P28149-F1-model_v4 Hydrogenase expression/formation protein HupG	0.111	109	93	271	376	15	123	2.547E-02	96
+DESULFOASV1_0978_hypothetical_protein	AF-Q2K952-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2K952-F1-model_v4 Trigger factor	0.259	81	45	29	109	163	224	1.039E-02	96
+DESULFOASV1_0978_hypothetical_protein	AF-H2L056-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-H2L056-F1-model_v4 UBX domain-containing protein 3	0.102	146	102	263	377	301	446	2.409E-02	96
+DESULFOASV1_0978_hypothetical_protein	AF-Q5FVM7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5FVM7-F1-model_v4 DnaJ homolog subfamily C member 16	0.151	105	85	273	377	140	240	3.988E-02	96
+DESULFOASV1_0978_hypothetical_protein	AF-Q5RCM7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5RCM7-F1-model_v4 DnaJ homolog subfamily C member 16	0.150	115	97	263	377	129	243	2.277E-02	95
+DESULFOASV1_0978_hypothetical_protein	AF-O31699-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O31699-F1-model_v4 Thiol-disulfide oxidoreductase YkuV	0.130	123	89	275	377	19	141	9.292E-03	94
+DESULFOASV1_0978_hypothetical_protein	AF-Q39592-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q39592-F1-model_v4 Dynein 16 kDa light chain, flagellar outer arm	0.194	108	85	269	376	9	115	3.988E-02	94
+DESULFOASV1_0978_hypothetical_protein	AF-Q7ZZH4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7ZZH4-F1-model_v4 Anterior gradient protein 2-B	0.183	90	72	268	357	40	128	1.539E-02	94
+DESULFOASV1_0978_hypothetical_protein	AF-Q9KCJ4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9KCJ4-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.119	169	115	209	377	40	170	4.485E-03	94
+DESULFOASV1_0978_hypothetical_protein	AF-Q63ZR0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q63ZR0-F1-model_v4 Magnesium transporter protein 1	0.097	135	105	262	378	36	170	2.153E-02	94
+DESULFOASV1_0978_hypothetical_protein	AF-Q65HX8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q65HX8-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.100	167	119	209	375	39	171	1.462E-03	93
+DESULFOASV1_0978_hypothetical_protein	AF-P35160-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P35160-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.105	167	118	209	375	40	172	3.030E-03	93
+DESULFOASV1_0978_hypothetical_protein	AF-Q5ZJ06-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5ZJ06-F1-model_v4 Magnesium transporter protein 1	0.101	131	101	262	374	35	165	2.153E-02	93
+DESULFOASV1_0978_hypothetical_protein	AF-Q06205-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q06205-F1-model_v4 FK506-binding protein 4	0.252	91	55	30	120	301	374	4.461E-02	93
+DESULFOASV1_0978_hypothetical_protein	AF-Q0C0H6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0C0H6-F1-model_v4 Trigger factor	0.278	79	43	31	109	164	223	2.036E-02	93
+DESULFOASV1_0978_hypothetical_protein	AF-P36893-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P36893-F1-model_v4 Thiol:disulfide interchange protein HelX	0.142	119	99	259	374	55	173	3.584E-03	92
+DESULFOASV1_0978_hypothetical_protein	AF-P30960-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P30960-F1-model_v4 Thiol:disulfide interchange protein CycY	0.142	134	96	264	376	60	193	7.854E-03	92
+DESULFOASV1_0978_hypothetical_protein	AF-Q9I6Z2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9I6Z2-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.123	102	80	274	375	103	194	2.036E-02	92
+DESULFOASV1_0978_hypothetical_protein	AF-Q28ID5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q28ID5-F1-model_v4 Anterior gradient protein 2	0.177	115	90	268	377	40	154	1.820E-02	91
+DESULFOASV1_0978_hypothetical_protein	AF-Q46476-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q46476-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.142	119	83	280	377	60	178	1.375E-02	91
+DESULFOASV1_0978_hypothetical_protein	AF-O74551-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O74551-F1-model_v4 Uncharacterized protein C777.12c	0.140	145	101	259	376	45	189	7.021E-03	91
+DESULFOASV1_0978_hypothetical_protein	AF-A0Q6T0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0Q6T0-F1-model_v4 Trigger factor	0.280	82	45	28	109	153	215	1.925E-02	91
+DESULFOASV1_0978_hypothetical_protein	AF-P0A156-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A156-F1-model_v4 Alkyl hydroperoxide reductase subunit F	0.128	104	78	274	377	103	192	7.426E-03	91
+DESULFOASV1_0978_hypothetical_protein	AF-Q9KQE9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9KQE9-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.195	124	81	278	378	61	184	8.785E-03	90
+DESULFOASV1_0978_hypothetical_protein	AF-P43221-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P43221-F1-model_v4 Thiol:disulfide interchange protein TlpA	0.197	133	81	276	377	83	215	4.240E-03	90
+DESULFOASV1_0978_hypothetical_protein	AF-P31235-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P31235-F1-model_v4 Calsequestrin-2	0.153	113	92	266	375	29	141	7.813E-02	90
+DESULFOASV1_0978_hypothetical_protein	AF-Q2A3U2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2A3U2-F1-model_v4 Trigger factor	0.280	82	45	28	109	153	215	2.153E-02	90
+DESULFOASV1_0978_hypothetical_protein	AF-Q9P4X1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9P4X1-F1-model_v4 Thioredoxin domain-containing protein C959.05c	0.097	154	122	223	376	253	388	8.785E-03	90
+DESULFOASV1_0978_hypothetical_protein	AF-Q9Y2G8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9Y2G8-F1-model_v4 DnaJ homolog subfamily C member 16	0.158	115	96	263	377	129	243	3.988E-02	90
+DESULFOASV1_0978_hypothetical_protein	AF-O31687-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O31687-F1-model_v4 Sporulation thiol-disulfide oxidoreductase A	0.116	172	119	207	378	30	165	1.045E-03	89
+DESULFOASV1_0978_hypothetical_protein	AF-Q4KLJ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4KLJ8-F1-model_v4 Phosducin-like protein 3	0.118	98	82	262	359	86	179	4.218E-02	89
+DESULFOASV1_0978_hypothetical_protein	AF-O35777-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O35777-F1-model_v4 Magnesium transporter protein 1	0.086	131	102	262	374	42	172	3.187E-02	89
+DESULFOASV1_0978_hypothetical_protein	AF-Q0BM93-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0BM93-F1-model_v4 Trigger factor	0.280	82	45	28	109	153	215	2.277E-02	89
+DESULFOASV1_0978_hypothetical_protein	AF-Q14IK0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q14IK0-F1-model_v4 Trigger factor	0.280	82	45	28	109	153	215	2.277E-02	89
+DESULFOASV1_0978_hypothetical_protein	AF-Q89KG0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q89KG0-F1-model_v4 Trigger factor	0.237	80	46	30	109	166	226	2.694E-02	89
+DESULFOASV1_0978_hypothetical_protein	AF-Q0IHI1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0IHI1-F1-model_v4 Thioredoxin domain-containing protein 15	0.140	200	163	179	378	90	279	6.674E-04	88
+DESULFOASV1_0978_hypothetical_protein	AF-P51868-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P51868-F1-model_v4 Calsequestrin-2	0.163	113	91	266	375	29	141	4.218E-02	88
+DESULFOASV1_0978_hypothetical_protein	AF-A7NBR5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A7NBR5-F1-model_v4 Trigger factor	0.280	82	45	28	109	153	215	2.409E-02	88
+DESULFOASV1_0978_hypothetical_protein	AF-Q05530-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q05530-F1-model_v4 Glutaredoxin-like protein YDR286C	0.116	98	83	284	378	17	114	5.278E-02	87
+DESULFOASV1_0978_hypothetical_protein	AF-P38143-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38143-F1-model_v4 Glutathione peroxidase-like peroxiredoxin 2	0.154	144	85	278	378	19	162	6.277E-03	87
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CPK9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CPK9-F1-model_v4 Probable thiol:disulfide interchange protein DsbE-2	0.135	113	79	286	377	70	182	1.300E-02	87
+DESULFOASV1_0978_hypothetical_protein	AF-Q9LM71-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9LM71-F1-model_v4 Peptidyl-prolyl cis-trans isomerase FKBP18, chloroplastic	0.115	103	77	29	116	102	204	1.820E-02	87
+DESULFOASV1_0978_hypothetical_protein	AF-Q0VCW8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0VCW8-F1-model_v4 Phosducin-like protein 3	0.181	118	94	262	377	86	203	4.218E-02	87
+DESULFOASV1_0978_hypothetical_protein	AF-Q2NDC7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2NDC7-F1-model_v4 Trigger factor	0.287	80	43	30	109	159	219	2.547E-02	87
+DESULFOASV1_0978_hypothetical_protein	AF-Q5ZKZ4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5ZKZ4-F1-model_v4 DnaJ homolog subfamily C member 16	0.160	105	85	273	377	139	240	9.243E-02	87
+DESULFOASV1_0978_hypothetical_protein	AF-Q57755-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q57755-F1-model_v4 Thioredoxin	0.133	90	72	286	375	2	85	9.243E-02	86
+DESULFOASV1_0978_hypothetical_protein	AF-P83876-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P83876-F1-model_v4 Thioredoxin-like protein 4A	0.136	112	92	269	375	5	116	1.034E-01	86
+DESULFOASV1_0978_hypothetical_protein	AF-O83122-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O83122-F1-model_v4 Uncharacterized protein TP_0084	0.126	87	65	289	375	2	76	2.850E-02	85
+DESULFOASV1_0978_hypothetical_protein	AF-P42035-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P42035-F1-model_v4 Probable Thioredoxin	0.181	88	66	287	374	2	82	7.387E-02	85
+DESULFOASV1_0978_hypothetical_protein	AF-Q46JC3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q46JC3-F1-model_v4 Circadian clock protein KaiB	0.156	93	73	287	374	6	98	7.813E-02	85
+DESULFOASV1_0978_hypothetical_protein	AF-Q9FE62-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9FE62-F1-model_v4 Thioredoxin-like protein YLS8	0.129	115	93	269	376	5	119	5.904E-02	84
+DESULFOASV1_0978_hypothetical_protein	AF-Q75BD8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q75BD8-F1-model_v4 Spliceosomal protein DIB1	0.112	114	96	267	375	4	117	1.156E-01	84
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SYB5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SYB5-F1-model_v4 Probable dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3B	0.111	119	94	271	377	49	167	1.721E-02	84
+DESULFOASV1_0978_hypothetical_protein	AF-B9M0Y0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B9M0Y0-F1-model_v4 Trigger factor	0.250	80	45	30	109	158	218	3.565E-02	84
+DESULFOASV1_0978_hypothetical_protein	AF-Q5KXL9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5KXL9-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.105	167	118	209	375	40	172	6.277E-03	83
+DESULFOASV1_0978_hypothetical_protein	AF-O64628-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O64628-F1-model_v4 Thioredoxin domain-containing protein 9 homolog	0.122	118	100	262	376	61	178	7.387E-02	83
+DESULFOASV1_0978_hypothetical_protein	AF-A1JNN4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1JNN4-F1-model_v4 Trigger factor	0.219	82	48	28	109	154	216	4.990E-02	83
+DESULFOASV1_0978_hypothetical_protein	AF-O31430-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O31430-F1-model_v4 Thioredoxin-like protein SkfH	0.184	122	82	278	378	20	141	1.099E-02	82
+DESULFOASV1_0978_hypothetical_protein	AF-O09161-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O09161-F1-model_v4 Calsequestrin-2	0.162	113	91	266	375	29	141	3.988E-02	82
+DESULFOASV1_0978_hypothetical_protein	AF-A8GAQ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8GAQ8-F1-model_v4 Trigger factor	0.243	82	47	28	109	154	216	5.278E-02	82
+DESULFOASV1_0978_hypothetical_protein	AF-Q5FUR2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5FUR2-F1-model_v4 Trigger factor	0.271	81	44	29	109	158	219	5.278E-02	82
+DESULFOASV1_0978_hypothetical_protein	AF-A1V4X2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1V4X2-F1-model_v4 Trigger factor	0.231	82	48	28	109	166	228	4.218E-02	82
+DESULFOASV1_0978_hypothetical_protein	AF-A2BY50-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2BY50-F1-model_v4 Circadian clock protein KaiB	0.148	76	61	286	361	5	77	1.915E-01	81
+DESULFOASV1_0978_hypothetical_protein	AF-A4IQF5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A4IQF5-F1-model_v4 Thiol-disulfide oxidoreductase ResA	0.089	167	120	209	375	40	172	1.455E-02	81
+DESULFOASV1_0978_hypothetical_protein	AF-Q2Y6I9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2Y6I9-F1-model_v4 Trigger factor	0.243	82	47	28	109	155	217	4.990E-02	81
+DESULFOASV1_0978_hypothetical_protein	AF-Q63769-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q63769-F1-model_v4 Sushi repeat-containing protein SRPX	0.128	250	211	129	378	218	460	1.390E-04	81
+DESULFOASV1_0978_hypothetical_protein	AF-Q7V0C3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7V0C3-F1-model_v4 Circadian clock protein KaiB	0.148	76	61	286	361	5	77	2.142E-01	80
+DESULFOASV1_0978_hypothetical_protein	AF-O09165-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O09165-F1-model_v4 Calsequestrin-1	0.179	114	90	266	376	44	157	2.534E-01	80
+DESULFOASV1_0978_hypothetical_protein	AF-Q5QXN7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5QXN7-F1-model_v4 Trigger factor	0.243	82	47	28	109	154	216	6.604E-02	80
+DESULFOASV1_0978_hypothetical_protein	AF-Q3JRC7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3JRC7-F1-model_v4 Trigger factor	0.231	82	48	28	109	166	228	5.278E-02	80
+DESULFOASV1_0978_hypothetical_protein	AF-P07221-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P07221-F1-model_v4 Calsequestrin-1	0.170	114	91	266	376	38	151	2.142E-01	79
+DESULFOASV1_0978_hypothetical_protein	AF-P31415-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P31415-F1-model_v4 Calsequestrin-1	0.170	114	91	266	376	44	157	2.680E-01	79
+DESULFOASV1_0978_hypothetical_protein	AF-Q2SWQ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2SWQ8-F1-model_v4 Trigger factor	0.243	82	47	28	109	166	228	6.604E-02	79
+DESULFOASV1_0978_hypothetical_protein	AF-Q319E4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q319E4-F1-model_v4 Circadian clock protein KaiB	0.148	76	61	286	361	5	77	2.534E-01	78
+DESULFOASV1_0978_hypothetical_protein	AF-P52237-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52237-F1-model_v4 Thiol:disulfide interchange protein DsbE	0.137	125	103	257	376	52	176	1.039E-02	78
+DESULFOASV1_0978_hypothetical_protein	AF-P12637-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P12637-F1-model_v4 Calsequestrin-2	0.154	113	92	266	375	29	141	6.244E-02	78
+DESULFOASV1_0978_hypothetical_protein	AF-Q62JK6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q62JK6-F1-model_v4 Trigger factor	0.231	82	48	28	109	166	228	6.604E-02	78
+DESULFOASV1_0978_hypothetical_protein	AF-Q6L8K0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6L8K0-F1-model_v4 Circadian clock protein KaiB	0.118	90	74	286	375	6	90	1.093E-01	77
+DESULFOASV1_0978_hypothetical_protein	AF-A9BBW6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9BBW6-F1-model_v4 Circadian clock protein KaiB	0.150	92	73	286	372	5	96	1.447E-01	77
+DESULFOASV1_0978_hypothetical_protein	AF-P45409-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P45409-F1-model_v4 Thiol:disulfide interchange protein CycY	0.120	138	99	265	378	46	183	3.187E-02	77
+DESULFOASV1_0978_hypothetical_protein	AF-Q10175-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q10175-F1-model_v4 Probable peptidyl-prolyl cis-trans isomerase C27F1.06c	0.215	93	59	28	120	269	344	1.811E-01	77
+DESULFOASV1_0978_hypothetical_protein	AF-Q8R5Z2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8R5Z2-F1-model_v4 Trigger factor	0.256	82	46	28	109	155	217	1.034E-01	77
+DESULFOASV1_0978_hypothetical_protein	AF-Q7VN98-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7VN98-F1-model_v4 Trigger factor	0.195	82	50	28	109	154	216	9.775E-02	77
+DESULFOASV1_0978_hypothetical_protein	AF-Q55819-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q55819-F1-model_v4 KaiB-like protein 2	0.080	92	78	286	377	4	89	6.984E-02	76
+DESULFOASV1_0978_hypothetical_protein	AF-P83877-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P83877-F1-model_v4 Thioredoxin-like protein 4A	0.132	112	92	269	375	5	116	1.447E-01	76
+DESULFOASV1_0978_hypothetical_protein	AF-Q7U8R4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7U8R4-F1-model_v4 Circadian clock protein KaiB	0.137	94	76	286	374	5	98	1.368E-01	75
+DESULFOASV1_0978_hypothetical_protein	AF-O14958-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O14958-F1-model_v4 Calsequestrin-2	0.147	113	93	266	375	29	141	1.619E-01	75
+DESULFOASV1_0978_hypothetical_protein	AF-B2VHT7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B2VHT7-F1-model_v4 Trigger factor	0.207	82	49	28	109	154	216	1.223E-01	75
+DESULFOASV1_0978_hypothetical_protein	AF-B1YRZ6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B1YRZ6-F1-model_v4 Trigger factor	0.231	82	48	28	109	165	227	8.739E-02	75
+DESULFOASV1_0978_hypothetical_protein	AF-Q9R0M3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9R0M3-F1-model_v4 Sushi-repeat-containing protein SRPX	0.122	246	198	129	374	218	444	5.043E-04	75
+DESULFOASV1_0978_hypothetical_protein	AF-Q8BZW8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8BZW8-F1-model_v4 NHL repeat-containing protein 2	0.140	138	96	265	377	59	196	2.396E-01	75
+DESULFOASV1_0978_hypothetical_protein	AF-B2IWG6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B2IWG6-F1-model_v4 Circadian clock protein KaiB	0.123	76	63	286	361	6	78	3.547E-01	74
+DESULFOASV1_0978_hypothetical_protein	AF-Q10Y25-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q10Y25-F1-model_v4 Circadian clock protein KaiB	0.123	76	63	286	361	6	78	3.751E-01	74
+DESULFOASV1_0978_hypothetical_protein	AF-Q49126-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q49126-F1-model_v4 Methylamine utilization protein MauD	0.139	170	115	208	377	50	183	2.289E-03	74
+DESULFOASV1_0978_hypothetical_protein	AF-Q0I803-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0I803-F1-model_v4 Circadian clock protein KaiB	0.147	94	75	286	374	5	98	1.811E-01	73
+DESULFOASV1_0978_hypothetical_protein	AF-Q6FMI2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6FMI2-F1-model_v4 Spliceosomal protein DIB1	0.117	118	96	268	377	3	120	1.619E-01	73
+DESULFOASV1_0978_hypothetical_protein	AF-P57980-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P57980-F1-model_v4 Trigger factor	0.219	82	48	28	109	154	216	1.619E-01	73
+DESULFOASV1_0978_hypothetical_protein	AF-A8HYF0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8HYF0-F1-model_v4 Trigger factor	0.244	82	50	28	109	158	224	4.218E-02	73
+DESULFOASV1_0978_hypothetical_protein	AF-P78539-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P78539-F1-model_v4 Sushi repeat-containing protein SRPX	0.127	251	199	123	373	215	443	5.641E-04	73
+DESULFOASV1_0978_hypothetical_protein	AF-P34631-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P34631-F1-model_v4 UBX domain-containing protein 4	0.109	107	94	269	375	1	106	8.739E-02	73
+DESULFOASV1_0978_hypothetical_protein	AF-Q8YT41-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8YT41-F1-model_v4 Circadian clock protein KaiB	0.137	94	76	286	374	6	99	9.243E-02	72
+DESULFOASV1_0978_hypothetical_protein	AF-P73859-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P73859-F1-model_v4 KaiB-like protein 1	0.148	101	78	275	375	6	98	2.534E-01	72
+DESULFOASV1_0978_hypothetical_protein	AF-Q553S5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q553S5-F1-model_v4 Thioredoxin-like protein 4A homolog	0.139	127	79	282	374	10	136	4.718E-02	72
+DESULFOASV1_0978_hypothetical_protein	AF-A1S4X4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1S4X4-F1-model_v4 Trigger factor	0.244	85	50	28	112	153	219	1.447E-01	72
+DESULFOASV1_0978_hypothetical_protein	AF-Q7VXI8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7VXI8-F1-model_v4 Trigger factor	0.187	80	49	30	109	158	218	7.387E-02	72
+DESULFOASV1_0978_hypothetical_protein	AF-C1DHE8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C1DHE8-F1-model_v4 Trigger factor	0.223	81	51	29	109	151	216	5.582E-02	72
+DESULFOASV1_0978_hypothetical_protein	AF-B0KJG5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B0KJG5-F1-model_v4 Trigger factor	0.204	81	50	29	109	153	216	1.223E-01	72
+DESULFOASV1_0978_hypothetical_protein	AF-A5W636-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5W636-F1-model_v4 Trigger factor	0.216	81	49	29	109	153	216	1.294E-01	72
+DESULFOASV1_0978_hypothetical_protein	AF-A9HRV7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9HRV7-F1-model_v4 Trigger factor	0.271	81	44	29	109	160	221	2.025E-01	72
+DESULFOASV1_0978_hypothetical_protein	AF-Q39FE7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q39FE7-F1-model_v4 Trigger factor	0.219	82	48	28	109	165	227	1.093E-01	72
+DESULFOASV1_0978_hypothetical_protein	AF-Q8NBF2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8NBF2-F1-model_v4 NHL repeat-containing protein 2	0.136	119	79	286	377	78	196	2.680E-01	72
+DESULFOASV1_0978_hypothetical_protein	AF-B0JLH2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B0JLH2-F1-model_v4 Circadian clock protein KaiB	0.117	94	78	286	374	6	99	8.263E-02	71
+DESULFOASV1_0978_hypothetical_protein	AF-Q5ZI67-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5ZI67-F1-model_v4 NHL repeat-containing protein 2	0.138	130	89	274	377	62	191	3.354E-01	71
+DESULFOASV1_0978_hypothetical_protein	AF-B8HSU2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B8HSU2-F1-model_v4 Circadian clock protein KaiB	0.118	90	74	286	375	6	90	2.396E-01	70
+DESULFOASV1_0978_hypothetical_protein	AF-Q7V5W6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7V5W6-F1-model_v4 Circadian clock protein KaiB	0.127	94	77	286	374	5	98	1.156E-01	70
+DESULFOASV1_0978_hypothetical_protein	AF-Q6IRC8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6IRC8-F1-model_v4 Probable glutathione peroxidase 8-A	0.124	139	87	278	377	61	199	5.904E-02	70
+DESULFOASV1_0978_hypothetical_protein	AF-Q5U583-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5U583-F1-model_v4 Probable glutathione peroxidase 8-B	0.124	139	87	278	377	61	199	6.244E-02	70
+DESULFOASV1_0978_hypothetical_protein	AF-Q1CL66-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1CL66-F1-model_v4 Trigger factor	0.207	82	49	28	109	154	216	1.915E-01	70
+DESULFOASV1_0978_hypothetical_protein	AF-Q1C4K7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1C4K7-F1-model_v4 Trigger factor	0.207	82	49	28	109	154	216	1.915E-01	70
+DESULFOASV1_0978_hypothetical_protein	AF-Q5RAN9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5RAN9-F1-model_v4 Calsequestrin-2	0.088	154	115	251	377	214	367	1.368E-01	69
+DESULFOASV1_0978_hypothetical_protein	AF-P31231-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P31231-F1-model_v4 Calsequestrin-1	0.094	154	114	251	377	217	370	1.294E-01	69
+DESULFOASV1_0978_hypothetical_protein	AF-Q8ZC64-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8ZC64-F1-model_v4 Trigger factor	0.207	82	49	28	109	154	216	2.142E-01	69
+DESULFOASV1_0978_hypothetical_protein	AF-Q66DT5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q66DT5-F1-model_v4 Trigger factor	0.207	82	49	28	109	154	216	2.265E-01	69
+DESULFOASV1_0978_hypothetical_protein	AF-Q1BH86-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1BH86-F1-model_v4 Trigger factor	0.219	82	48	28	109	165	227	9.243E-02	69
+DESULFOASV1_0978_hypothetical_protein	AF-P19633-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P19633-F1-model_v4 Calsequestrin-1	0.106	154	113	251	377	229	382	1.712E-01	68
+DESULFOASV1_0978_hypothetical_protein	AF-B2S3A0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B2S3A0-F1-model_v4 Trigger factor	0.200	80	49	30	109	165	226	2.534E-01	68
+DESULFOASV1_0978_hypothetical_protein	AF-Q8R054-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8R054-F1-model_v4 Sushi repeat-containing protein SRPX2	0.121	246	199	129	374	223	449	1.636E-03	68
+DESULFOASV1_0978_hypothetical_protein	AF-O00237-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O00237-F1-model_v4 E3 ubiquitin-protein ligase RNF103	0.106	154	133	220	373	168	317	3.371E-02	68
+DESULFOASV1_0978_hypothetical_protein	AF-Q3MEE5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3MEE5-F1-model_v4 Circadian clock protein KaiB	0.147	94	75	286	374	6	99	3.354E-01	67
+DESULFOASV1_0978_hypothetical_protein	AF-Q56461-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q56461-F1-model_v4 Methylamine utilization protein MauD	0.128	170	114	208	377	48	179	8.785E-03	67
+DESULFOASV1_0978_hypothetical_protein	AF-Q0BSJ5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0BSJ5-F1-model_v4 Trigger factor	0.195	81	49	29	109	157	218	2.142E-01	67
+DESULFOASV1_0978_hypothetical_protein	AF-Q86VQ3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q86VQ3-F1-model_v4 Thioredoxin domain-containing protein 2	0.160	318	213	58	375	298	552	1.105E-03	67
+DESULFOASV1_0978_hypothetical_protein	AF-A4IF69-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A4IF69-F1-model_v4 NHL repeat-containing protein 2	0.129	138	98	265	377	59	196	3.547E-01	67
+DESULFOASV1_0978_hypothetical_protein	AF-Q79V61-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q79V61-F1-model_v4 Circadian clock protein KaiB	0.103	91	76	285	375	5	90	1.294E-01	66
+DESULFOASV1_0978_hypothetical_protein	AF-Q50416-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q50416-F1-model_v4 Methylamine utilization protein MauD	0.138	170	115	208	377	50	183	1.039E-02	65
+DESULFOASV1_0978_hypothetical_protein	AF-Q8TED1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8TED1-F1-model_v4 Probable glutathione peroxidase 8	0.118	139	87	278	377	61	199	1.156E-01	65
+DESULFOASV1_0978_hypothetical_protein	AF-P19204-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P19204-F1-model_v4 Calsequestrin-2	0.098	155	138	224	377	213	367	1.156E-01	65
+DESULFOASV1_0978_hypothetical_protein	AF-Q9SR96-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9SR96-F1-model_v4 DnaJ protein ERDJ3A	0.107	155	128	223	377	268	411	1.721E-02	65
+DESULFOASV1_0978_hypothetical_protein	AF-P9WG63-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WG63-F1-model_v4 Protein DipZ	0.116	124	88	278	377	419	542	4.964E-01	65
+DESULFOASV1_0978_hypothetical_protein	AF-Q9D7B7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9D7B7-F1-model_v4 Probable glutathione peroxidase 8	0.143	139	85	278	377	61	199	1.294E-01	64
+DESULFOASV1_0978_hypothetical_protein	AF-A5FX03-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5FX03-F1-model_v4 Trigger factor	0.219	81	48	29	109	157	218	2.680E-01	64
+DESULFOASV1_0978_hypothetical_protein	AF-A5GV19-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5GV19-F1-model_v4 Circadian clock protein KaiB	0.116	90	78	286	374	5	94	3.751E-01	63
+DESULFOASV1_0978_hypothetical_protein	AF-B8F6T9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B8F6T9-F1-model_v4 Trigger factor	0.197	82	53	28	109	150	216	1.034E-01	63
+DESULFOASV1_0978_hypothetical_protein	AF-B7KEN6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B7KEN6-F1-model_v4 Circadian clock protein KaiB	0.120	95	78	285	374	5	99	1.223E-01	62
+DESULFOASV1_0978_hypothetical_protein	AF-B5DF94-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B5DF94-F1-model_v4 Sushi repeat-containing protein SRPX2	0.114	302	263	77	374	146	447	1.169E-03	62
+DESULFOASV1_0978_hypothetical_protein	AF-Q8VL14-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8VL14-F1-model_v4 Circadian clock protein KaiB	0.132	93	76	287	374	7	99	1.712E-01	61
+DESULFOASV1_0978_hypothetical_protein	AF-A5GN76-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5GN76-F1-model_v4 Circadian clock protein KaiB	0.121	94	77	286	374	5	98	3.171E-01	61
+DESULFOASV1_0978_hypothetical_protein	AF-Q12LA0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q12LA0-F1-model_v4 Trigger factor	0.186	82	54	28	109	149	215	1.530E-01	61
+DESULFOASV1_0978_hypothetical_protein	AF-B1XL18-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B1XL18-F1-model_v4 Trigger factor	0.209	79	52	31	109	165	231	9.775E-02	61
+DESULFOASV1_0978_hypothetical_protein	AF-Q5EA25-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5EA25-F1-model_v4 Sushi repeat-containing protein SRPX2	0.104	302	266	77	374	145	446	5.641E-04	61
+DESULFOASV1_0978_hypothetical_protein	AF-A2C884-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2C884-F1-model_v4 Adaptive-response sensory-kinase SasA	0.118	95	78	283	377	6	94	3.547E-01	59
+DESULFOASV1_0978_hypothetical_protein	AF-A8M1L0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8M1L0-F1-model_v4 Trigger factor	0.203	109	69	1	109	130	217	1.368E-01	59
+DESULFOASV1_0978_hypothetical_protein	AF-Q4RSM6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4RSM6-F1-model_v4 Probable glutathione peroxidase 8	0.076	139	91	278	377	62	200	3.967E-01	58
+DESULFOASV1_0978_hypothetical_protein	AF-Q7W8X3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7W8X3-F1-model_v4 Trigger factor	0.197	81	53	29	109	152	218	1.811E-01	58
+DESULFOASV1_0978_hypothetical_protein	AF-Q601G9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q601G9-F1-model_v4 Trigger factor	0.170	82	51	28	109	156	218	5.250E-01	58
+DESULFOASV1_0978_hypothetical_protein	AF-B2SG17-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B2SG17-F1-model_v4 Trigger factor	0.148	184	82	28	211	153	249	1.230E-02	57
+DESULFOASV1_0978_hypothetical_protein	AF-Q8G5Q7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8G5Q7-F1-model_v4 Trigger factor	0.181	84	54	28	111	155	221	2.680E-01	57
+DESULFOASV1_0978_hypothetical_protein	AF-P59960-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P59960-F1-model_v4 Protein DipZ	0.124	124	87	278	377	419	542	7.772E-01	57
+DESULFOASV1_0978_hypothetical_protein	AF-P74645-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P74645-F1-model_v4 Circadian clock protein KaiB	0.112	94	78	286	374	6	99	2.534E-01	56
+DESULFOASV1_0978_hypothetical_protein	AF-Q5NH48-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5NH48-F1-model_v4 Trigger factor	0.148	184	82	28	211	153	249	1.539E-02	56
+DESULFOASV1_0978_hypothetical_protein	AF-Q9R1W3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9R1W3-F1-model_v4 E3 ubiquitin-protein ligase RNF103	0.113	161	125	213	373	176	317	1.093E-01	56
+DESULFOASV1_0978_hypothetical_protein	AF-Q2NL01-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2NL01-F1-model_v4 Probable glutathione peroxidase 8	0.109	142	107	257	377	58	199	1.368E-01	55
+DESULFOASV1_0978_hypothetical_protein	AF-P9WG62-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WG62-F1-model_v4 Protein DipZ	0.116	124	88	278	377	419	542	1.287E+00	55
+DESULFOASV1_0978_hypothetical_protein	AF-Q9YF36-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9YF36-F1-model_v4 V-type ATP synthase beta chain	0.169	61	47	192	252	19	75	3.967E-01	54
+DESULFOASV1_0978_hypothetical_protein	AF-O60687-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O60687-F1-model_v4 Sushi repeat-containing protein SRPX2	0.095	432	291	52	374	15	446	1.383E-03	54
+DESULFOASV1_0978_hypothetical_protein	AF-A4IYB7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A4IYB7-F1-model_v4 Trigger factor	0.148	184	82	28	211	153	249	2.547E-02	53
+DESULFOASV1_0978_hypothetical_protein	AF-B3DSL6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B3DSL6-F1-model_v4 Trigger factor	0.181	84	54	28	111	155	221	4.196E-01	53
+DESULFOASV1_0978_hypothetical_protein	AF-B7GSV7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B7GSV7-F1-model_v4 Trigger factor	0.181	84	54	28	111	155	221	4.694E-01	53
+DESULFOASV1_0978_hypothetical_protein	AF-Q8K2W3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8K2W3-F1-model_v4 Thioredoxin domain-containing protein 11	0.110	371	270	70	373	395	765	6.639E-03	53
+DESULFOASV1_0978_hypothetical_protein	AF-Q6L8L2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6L8L2-F1-model_v4 Circadian clock protein KaiB	0.093	94	80	286	374	6	99	4.694E-01	52
+DESULFOASV1_0978_hypothetical_protein	AF-Q9EPZ8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9EPZ8-F1-model_v4 E3 ubiquitin-protein ligase RNF103	0.119	138	112	223	360	173	300	9.775E-02	52
+DESULFOASV1_0978_hypothetical_protein	AF-A3PK61-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A3PK61-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.161	31	25	151	181	103	133	3.947E+00	51
+DESULFOASV1_0978_hypothetical_protein	AF-Q7V6P7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7V6P7-F1-model_v4 Adaptive-response sensory-kinase SasA	0.099	91	75	287	377	11	94	2.998E-01	51
+DESULFOASV1_0978_hypothetical_protein	AF-O29100-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O29100-F1-model_v4 V-type ATP synthase beta chain	0.166	48	35	207	249	21	68	1.522E+00	51
+DESULFOASV1_0978_hypothetical_protein	AF-A4FUW8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A4FUW8-F1-model_v4 Thioredoxin domain-containing protein 11	0.114	373	279	58	373	396	768	4.485E-03	50
+DESULFOASV1_0978_hypothetical_protein	AF-A8FTH8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8FTH8-F1-model_v4 Trigger factor	0.175	91	64	19	109	138	215	5.553E-01	49
+DESULFOASV1_0978_hypothetical_protein	AF-A7HDG8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A7HDG8-F1-model_v4 V-type ATP synthase beta chain	0.153	52	40	205	252	24	75	2.015E+00	49
+DESULFOASV1_0978_hypothetical_protein	AF-C5BXG1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C5BXG1-F1-model_v4 Trigger factor	0.193	86	57	28	113	153	224	6.948E-01	49
+DESULFOASV1_0978_hypothetical_protein	AF-Q59PT0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q59PT0-F1-model_v4 V-type proton ATPase subunit B	0.163	49	37	208	252	47	95	1.703E+00	49
+DESULFOASV1_0978_hypothetical_protein	AF-B9KT07-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B9KT07-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.161	31	25	151	181	103	133	5.223E+00	48
+DESULFOASV1_0978_hypothetical_protein	AF-Q6GP28-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6GP28-F1-model_v4 Sushi repeat-containing protein SRPX2	0.096	430	290	53	374	10	439	4.240E-03	48
+DESULFOASV1_0978_hypothetical_protein	AF-B1XRV8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B1XRV8-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.152	84	51	162	245	81	141	2.680E-01	47
+DESULFOASV1_0978_hypothetical_protein	AF-P0CAT8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0CAT8-F1-model_v4 Flagellum-specific ATP synthase	0.191	47	35	209	252	38	84	1.801E+00	47
+DESULFOASV1_0978_hypothetical_protein	AF-Q52371-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q52371-F1-model_v4 Type 3 secretion system ATPase	0.163	49	37	205	249	40	88	2.820E+00	47
+DESULFOASV1_0978_hypothetical_protein	AF-Q38681-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q38681-F1-model_v4 V-type proton ATPase subunit B 1	0.160	50	39	207	253	44	93	2.254E+00	47
+DESULFOASV1_0978_hypothetical_protein	AF-Q7ZV14-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7ZV14-F1-model_v4 Probable glutathione peroxidase 8	0.090	139	90	278	377	62	200	1.522E+00	46
+DESULFOASV1_0978_hypothetical_protein	AF-A8LI68-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8LI68-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.129	31	26	151	181	107	137	6.179E+00	46
+DESULFOASV1_0978_hypothetical_protein	AF-P31410-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P31410-F1-model_v4 V-type proton ATPase subunit B	0.183	49	36	208	252	49	97	2.666E+00	45
+DESULFOASV1_0978_hypothetical_protein	AF-B2V7F8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B2V7F8-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.157	68	54	115	182	70	134	2.015E+00	44
+DESULFOASV1_0978_hypothetical_protein	AF-A0RXK0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0RXK0-F1-model_v4 V-type ATP synthase beta chain	0.125	48	38	209	252	29	76	2.820E+00	44
+DESULFOASV1_0978_hypothetical_protein	AF-A3MU07-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A3MU07-F1-model_v4 V-type ATP synthase beta chain	0.131	71	58	182	252	8	75	9.194E-01	44
+DESULFOASV1_0978_hypothetical_protein	AF-A8EZU0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8EZU0-F1-model_v4 Possible hemolysin C	0.136	66	35	142	207	252	292	8.220E-01	43
+DESULFOASV1_0978_hypothetical_protein	AF-A5GCR3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5GCR3-F1-model_v4 V-type ATP synthase beta chain	0.060	60	52	192	251	19	74	1.150E+00	43
+DESULFOASV1_0978_hypothetical_protein	AF-C5A337-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C5A337-F1-model_v4 V-type ATP synthase beta chain	0.151	63	48	192	254	17	74	1.287E+00	43
+DESULFOASV1_0978_hypothetical_protein	AF-B9MQ31-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B9MQ31-F1-model_v4 Trigger factor	0.155	183	79	28	210	155	249	1.811E-01	42
+DESULFOASV1_0978_hypothetical_protein	AF-Q12WL0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q12WL0-F1-model_v4 V-type ATP synthase beta chain	0.160	50	37	207	251	22	71	3.528E+00	42
+DESULFOASV1_0978_hypothetical_protein	AF-C4KHU9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C4KHU9-F1-model_v4 V-type ATP synthase beta chain	0.106	61	50	192	252	18	74	1.522E+00	42
+DESULFOASV1_0978_hypothetical_protein	AF-Q971B6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q971B6-F1-model_v4 V-type ATP synthase beta chain	0.111	72	60	184	251	5	76	7.348E-01	42
+DESULFOASV1_0978_hypothetical_protein	AF-A8GPR9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8GPR9-F1-model_v4 Possible hemolysin C	0.136	66	35	142	207	253	293	9.194E-01	41
+DESULFOASV1_0978_hypothetical_protein	AF-Q026Q4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q026Q4-F1-model_v4 Trigger factor	0.162	80	49	30	109	153	212	2.521E+00	41
+DESULFOASV1_0978_hypothetical_protein	AF-B8E137-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B8E137-F1-model_v4 V-type ATP synthase beta chain	0.128	75	55	179	253	9	72	9.724E-01	41
+DESULFOASV1_0978_hypothetical_protein	AF-B5YFA1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B5YFA1-F1-model_v4 V-type ATP synthase beta chain	0.141	73	54	179	251	9	72	1.088E+00	41
+DESULFOASV1_0978_hypothetical_protein	AF-A4YI06-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A4YI06-F1-model_v4 V-type ATP synthase beta chain	0.141	75	61	181	252	3	77	8.220E-01	41
+DESULFOASV1_0978_hypothetical_protein	AF-Q2LT33-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2LT33-F1-model_v4 Translational regulator CsrA	0.119	42	36	148	189	4	45	4.174E+00	40
+DESULFOASV1_0978_hypothetical_protein	AF-A0LLG0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0LLG0-F1-model_v4 ATP synthase subunit alpha	0.085	46	40	209	253	48	93	3.154E+00	40
+DESULFOASV1_0978_hypothetical_protein	AF-Q05355-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q05355-F1-model_v4 Putative polyketide hydroxylase	0.126	93	78	287	376	456	548	2.521E+00	40
+DESULFOASV1_0978_hypothetical_protein	AF-A1R7A5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1R7A5-F1-model_v4 Trigger factor	0.131	156	76	28	183	159	247	2.680E-01	39
+DESULFOASV1_0978_hypothetical_protein	AF-Q8ZXR2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8ZXR2-F1-model_v4 V-type ATP synthase beta chain	0.136	61	49	192	252	19	76	2.131E+00	39
+DESULFOASV1_0978_hypothetical_protein	AF-A1SME5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1SME5-F1-model_v4 Trigger factor	0.119	180	81	28	207	151	243	4.718E-02	38
+DESULFOASV1_0978_hypothetical_protein	AF-A4SZT7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A4SZT7-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.170	84	52	162	245	81	144	6.211E-01	37
+DESULFOASV1_0978_hypothetical_protein	AF-Q8TIJ0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8TIJ0-F1-model_v4 V-type ATP synthase beta chain	0.120	50	39	207	251	22	71	6.179E+00	37
+DESULFOASV1_0978_hypothetical_protein	AF-C3NEU2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C3NEU2-F1-model_v4 V-type ATP synthase beta chain	0.122	88	66	121	208	3	78	1.150E+00	37
+DESULFOASV1_0978_hypothetical_protein	AF-C0QVU4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C0QVU4-F1-model_v4 Translational regulator CsrA	0.058	34	31	148	181	4	37	9.673E+00	36
+DESULFOASV1_0978_hypothetical_protein	AF-Q2SDV0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2SDV0-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.096	59	48	122	180	78	131	7.731E+00	35
+DESULFOASV1_0978_hypothetical_protein	AF-Q0W362-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q0W362-F1-model_v4 V-type ATP synthase beta chain	0.153	72	57	179	250	1	68	2.521E+00	35
+DESULFOASV1_0978_hypothetical_protein	AF-B8HEI6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B8HEI6-F1-model_v4 Translational regulator CsrA	0.121	41	35	148	188	4	44	7.731E+00	34
+DESULFOASV1_0978_hypothetical_protein	AF-Q1GHP0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1GHP0-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.077	83	61	115	181	55	137	2.131E+00	34
+DESULFOASV1_0978_hypothetical_protein	AF-Q164S6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q164S6-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.091	83	60	115	181	55	137	1.801E+00	34
+DESULFOASV1_0978_hypothetical_protein	AF-C3NGV2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C3NGV2-F1-model_v4 V-type ATP synthase beta chain	0.123	87	65	122	208	4	78	1.905E+00	34
+DESULFOASV1_0978_hypothetical_protein	AF-P31408-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P31408-F1-model_v4 V-type proton ATPase subunit B, brain isoform	0.137	93	71	128	220	44	126	1.287E+00	34
+DESULFOASV1_0978_hypothetical_protein	AF-Q8N8I6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8N8I6-F1-model_v4 Putative uncharacterized protein encoded by LINC00482	0.108	37	32	207	243	97	133	4.415E+00	33
+DESULFOASV1_0978_hypothetical_protein	AF-Q68W10-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q68W10-F1-model_v4 Hemolysin C	0.072	90	79	118	207	209	294	1.522E+00	33
+DESULFOASV1_0978_hypothetical_protein	AF-B8HA36-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B8HA36-F1-model_v4 Trigger factor	0.111	184	84	28	211	155	249	1.811E-01	33
+DESULFOASV1_0978_hypothetical_protein	AF-Q1RGX2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1RGX2-F1-model_v4 Possible hemolysin C	0.063	88	78	120	207	209	292	7.772E-01	32
+DESULFOASV1_0978_hypothetical_protein	AF-A1TWB8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1TWB8-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.145	119	96	147	259	251	369	2.998E-01	32
+DESULFOASV1_0978_hypothetical_protein	AF-P22663-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P22663-F1-model_v4 V-type ATP synthase beta chain	0.125	71	60	184	252	1	71	3.528E+00	32
+DESULFOASV1_0978_hypothetical_protein	AF-Q12GQ2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q12GQ2-F1-model_v4 ATP synthase subunit alpha	0.182	117	77	135	251	1	95	4.438E-01	32
+DESULFOASV1_0978_hypothetical_protein	AF-A8GUH1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8GUH1-F1-model_v4 Possible hemolysin C	0.061	89	80	119	207	208	293	6.569E-01	31
+DESULFOASV1_0978_hypothetical_protein	AF-B9MIA2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B9MIA2-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.120	122	99	147	259	248	369	4.438E-01	31
+DESULFOASV1_0978_hypothetical_protein	AF-B1ZZ32-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B1ZZ32-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.125	123	95	149	257	256	378	3.547E-01	31
+DESULFOASV1_0978_hypothetical_protein	AF-A1WD47-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1WD47-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.116	109	88	160	259	270	378	5.873E-01	31
+DESULFOASV1_0978_hypothetical_protein	AF-Q46FH4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q46FH4-F1-model_v4 V-type ATP synthase beta chain	0.112	71	60	184	252	1	71	4.174E+00	31
+DESULFOASV1_0978_hypothetical_protein	AF-A7IAU7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A7IAU7-F1-model_v4 V-type ATP synthase beta chain	0.122	102	65	192	293	15	89	1.287E+00	31
+DESULFOASV1_0978_hypothetical_protein	AF-O27035-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O27035-F1-model_v4 V-type ATP synthase beta chain	0.147	61	49	192	252	21	78	3.947E+00	31
+DESULFOASV1_0978_hypothetical_protein	AF-Q9UWW8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9UWW8-F1-model_v4 V-type ATP synthase beta chain	0.102	114	95	122	235	4	110	8.693E-01	31
+DESULFOASV1_0978_hypothetical_protein	AF-Q2NF88-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2NF88-F1-model_v4 V-type ATP synthase beta chain	0.144	75	58	182	256	11	79	2.666E+00	31
+DESULFOASV1_0978_hypothetical_protein	AF-A8F2M1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8F2M1-F1-model_v4 Hemolysin C homolog	0.071	89	78	118	206	208	292	8.693E-01	30
+DESULFOASV1_0978_hypothetical_protein	AF-O05961-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O05961-F1-model_v4 Hemolysin C	0.070	90	79	118	207	209	294	1.703E+00	30
+DESULFOASV1_0978_hypothetical_protein	AF-A2SLT0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2SLT0-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.134	109	86	160	259	288	396	5.250E-01	30
+DESULFOASV1_0978_hypothetical_protein	AF-P52607-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P52607-F1-model_v4 Flagellum-specific ATP synthase	0.142	97	69	203	299	34	115	1.905E+00	30
+DESULFOASV1_0978_hypothetical_protein	AF-B8GFQ7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B8GFQ7-F1-model_v4 V-type ATP synthase beta chain	0.104	102	66	192	293	15	89	2.015E+00	30
+DESULFOASV1_0978_hypothetical_protein	AF-O57729-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O57729-F1-model_v4 V-type ATP synthase beta chain	0.133	102	65	192	293	19	94	1.703E+00	30
+DESULFOASV1_0978_hypothetical_protein	AF-Q5R5V5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5R5V5-F1-model_v4 V-type proton ATPase subunit B, brain isoform	0.133	90	68	128	217	44	122	2.666E+00	30
+DESULFOASV1_0978_hypothetical_protein	AF-Q1AVH7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q1AVH7-F1-model_v4 ATP synthase subunit alpha	0.121	96	63	157	252	23	95	2.383E+00	30
+DESULFOASV1_0978_hypothetical_protein	AF-O51121-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O51121-F1-model_v4 V-type ATP synthase alpha chain	0.055	53	48	202	253	17	69	7.310E+00	30
+DESULFOASV1_0978_hypothetical_protein	AF-Q8RK01-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8RK01-F1-model_v4 Type 3 secretion system ATPase	0.146	110	67	140	249	10	88	8.693E-01	29
+DESULFOASV1_0978_hypothetical_protein	AF-P0DPF4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0DPF4-F1-model_v4 T cell receptor alpha variable 35	0.098	100	82	131	230	19	110	4.694E-01	28
+DESULFOASV1_0978_hypothetical_protein	AF-B9DNH6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B9DNH6-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.114	126	99	150	262	238	363	3.751E-01	28
+DESULFOASV1_0978_hypothetical_protein	AF-Q7U359-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7U359-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.111	88	75	176	260	282	369	1.217E+00	28
+DESULFOASV1_0978_hypothetical_protein	AF-Q7U387-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7U387-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.110	90	74	176	259	282	371	1.217E+00	28
+DESULFOASV1_0978_hypothetical_protein	AF-Q8CX40-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8CX40-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.131	128	96	150	260	244	371	6.211E-01	28
+DESULFOASV1_0978_hypothetical_protein	AF-Q60187-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q60187-F1-model_v4 V-type ATP synthase beta chain	0.100	71	60	184	251	1	71	6.911E+00	28
+DESULFOASV1_0978_hypothetical_protein	AF-A3CS72-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A3CS72-F1-model_v4 V-type ATP synthase beta chain	0.121	102	65	192	293	15	89	1.801E+00	28
+DESULFOASV1_0978_hypothetical_protein	AF-P31411-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P31411-F1-model_v4 V-type proton ATPase subunit B	0.148	93	70	128	220	21	103	3.336E+00	28
+DESULFOASV1_0978_hypothetical_protein	AF-Q5LRA3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5LRA3-F1-model_v4 S-adenosylmethionine:tRNA ribosyltransferase-isomerase	0.112	83	59	115	181	55	137	5.223E+00	27
+DESULFOASV1_0978_hypothetical_protein	AF-Q891P2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q891P2-F1-model_v4 V-type ATP synthase beta chain 2	0.091	197	120	192	324	16	212	2.998E-01	27
+DESULFOASV1_0978_hypothetical_protein	AF-A1RTZ6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1RTZ6-F1-model_v4 V-type ATP synthase beta chain	0.106	110	80	184	293	4	94	1.905E+00	27
+DESULFOASV1_0978_hypothetical_protein	AF-O51333-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O51333-F1-model_v4 Ribosomal RNA small subunit methyltransferase E 2	0.093	120	106	209	326	34	153	9.724E-01	26
+DESULFOASV1_0978_hypothetical_protein	AF-P44627-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P44627-F1-model_v4 Ribosomal RNA small subunit methyltransferase E	0.120	125	107	209	331	35	159	9.724E-01	26
+DESULFOASV1_0978_hypothetical_protein	AF-Q4UK99-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4UK99-F1-model_v4 Hemolysin C	0.129	137	102	71	207	176	293	7.772E-01	26
+DESULFOASV1_0978_hypothetical_protein	AF-Q7U375-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7U375-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.120	90	73	176	259	282	371	1.610E+00	26
+DESULFOASV1_0978_hypothetical_protein	AF-Q9ZJJ3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9ZJJ3-F1-model_v4 Flagellum-specific ATP synthase	0.116	226	133	193	344	22	247	2.534E-01	26
+DESULFOASV1_0978_hypothetical_protein	AF-O07025-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O07025-F1-model_v4 Flagellum-specific ATP synthase	0.104	200	122	193	329	22	221	2.998E-01	26
+DESULFOASV1_0978_hypothetical_protein	AF-Q6MAJ6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6MAJ6-F1-model_v4 V-type ATP synthase beta chain	0.114	113	91	122	234	2	105	2.254E+00	26
+DESULFOASV1_0978_hypothetical_protein	AF-C1CXU4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C1CXU4-F1-model_v4 V-type ATP synthase beta chain	0.090	191	109	209	329	28	218	3.171E-01	26
+DESULFOASV1_0978_hypothetical_protein	AF-A0A087WT01-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0A087WT01-F1-model_v4 T cell receptor alpha variable 27	0.085	93	77	133	225	21	105	1.028E+00	25
+DESULFOASV1_0978_hypothetical_protein	AF-Q98QB7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q98QB7-F1-model_v4 ATP synthase subunit alpha 2	0.085	214	194	121	334	5	217	2.534E-01	25
+DESULFOASV1_0978_hypothetical_protein	AF-A9AVV2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9AVV2-F1-model_v4 ATP synthase subunit alpha	0.080	96	57	157	252	34	96	1.801E+00	25
+DESULFOASV1_0978_hypothetical_protein	AF-Q2FL44-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2FL44-F1-model_v4 V-type ATP synthase beta chain 2	0.106	195	118	192	324	22	216	8.693E-01	24
+DESULFOASV1_0978_hypothetical_protein	AF-A0A0B4J272-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0A0B4J272-F1-model_v4 T cell receptor alpha variable 24	0.054	121	84	131	251	23	112	1.610E+00	23
+DESULFOASV1_0978_hypothetical_protein	AF-A8GTI4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8GTI4-F1-model_v4 Hemolysin C homolog	0.111	137	104	71	207	176	293	1.217E+00	23
+DESULFOASV1_0978_hypothetical_protein	AF-Q49Y59-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q49Y59-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.105	108	93	156	260	248	355	1.361E+00	23
+DESULFOASV1_0978_hypothetical_protein	AF-Q6GG82-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6GG82-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.089	67	46	209	260	297	363	4.415E+00	23
+DESULFOASV1_0978_hypothetical_protein	AF-Q6MTG1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6MTG1-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.109	54	42	213	260	316	369	6.911E+00	23
+DESULFOASV1_0978_hypothetical_protein	AF-Q2FP51-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2FP51-F1-model_v4 V-type ATP synthase beta chain 1	0.091	199	125	192	329	15	213	7.348E-01	23
+DESULFOASV1_0978_hypothetical_protein	AF-Q9Y819-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9Y819-F1-model_v4 Transmembrane 9 superfamily protein C1105.08	0.096	255	209	1	255	6	237	4.196E-01	23
+DESULFOASV1_0978_hypothetical_protein	AF-Q8BLI0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8BLI0-F1-model_v4 ADAMTS-like protein 1	0.072	159	100	102	260	188	296	4.964E-01	23
+DESULFOASV1_0978_hypothetical_protein	AF-Q90399-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q90399-F1-model_v4 Ependymin	0.087	255	166	5	259	1	183	1.287E+00	22
+DESULFOASV1_0978_hypothetical_protein	AF-P0DSE1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0DSE1-F1-model_v4 M1-specific T cell receptor alpha chain	0.089	174	112	129	252	19	192	6.211E-01	22
+DESULFOASV1_0978_hypothetical_protein	AF-A6U290-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A6U290-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.094	126	100	150	260	238	363	1.703E+00	22
+DESULFOASV1_0978_hypothetical_protein	AF-A7X333-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A7X333-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.089	67	46	209	260	297	363	5.524E+00	22
+DESULFOASV1_0978_hypothetical_protein	AF-A9IQK6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9IQK6-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.080	101	89	163	260	274	374	3.336E+00	22
+DESULFOASV1_0978_hypothetical_protein	AF-Q9PK86-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9PK86-F1-model_v4 V-type ATP synthase beta chain	0.117	204	177	128	328	2	205	7.348E-01	22
+DESULFOASV1_0978_hypothetical_protein	AF-B1YAT5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B1YAT5-F1-model_v4 V-type ATP synthase beta chain	0.081	214	132	184	328	4	217	5.873E-01	22
+DESULFOASV1_0978_hypothetical_protein	AF-A2SC68-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2SC68-F1-model_v4 ATP synthase subunit alpha	0.097	225	131	193	338	30	254	6.211E-01	22
+DESULFOASV1_0978_hypothetical_protein	AF-Q98QU3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q98QU3-F1-model_v4 ATP synthase subunit alpha 1	0.114	213	184	116	328	20	228	8.220E-01	22
+DESULFOASV1_0978_hypothetical_protein	AF-A0A0B4J274-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0A0B4J274-F1-model_v4 T cell receptor alpha variable 20	0.092	127	81	128	254	23	112	7.772E-01	21
+DESULFOASV1_0978_hypothetical_protein	AF-P12958-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P12958-F1-model_v4 Ependymin-2	0.076	253	164	7	259	2	180	1.522E+00	21
+DESULFOASV1_0978_hypothetical_protein	AF-A6QHG3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A6QHG3-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.094	126	100	150	260	238	363	2.254E+00	21
+DESULFOASV1_0978_hypothetical_protein	AF-Q822J9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q822J9-F1-model_v4 V-type ATP synthase beta chain	0.072	182	110	209	328	24	205	1.522E+00	21
+DESULFOASV1_0978_hypothetical_protein	AF-A2SST6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2SST6-F1-model_v4 V-type ATP synthase beta chain	0.103	157	120	179	313	8	164	1.801E+00	21
+DESULFOASV1_0978_hypothetical_protein	AF-Q9UXU8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9UXU8-F1-model_v4 V-type ATP synthase beta chain	0.086	211	134	182	329	5	215	1.361E+00	21
+DESULFOASV1_0978_hypothetical_protein	AF-A2BKX5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A2BKX5-F1-model_v4 V-type ATP synthase beta chain	0.124	213	181	122	329	11	223	4.438E-01	21
+DESULFOASV1_0978_hypothetical_protein	AF-O83540-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O83540-F1-model_v4 V-type ATP synthase beta chain 2	0.097	207	135	179	329	10	216	7.348E-01	21
+DESULFOASV1_0978_hypothetical_protein	AF-O68639-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O68639-F1-model_v4 Uncharacterized protein XF_0523	0.118	264	149	83	252	179	442	1.034E-01	21
+DESULFOASV1_0978_hypothetical_protein	AF-A9GHR6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9GHR6-F1-model_v4 ATP synthase subunit alpha	0.088	211	156	157	328	22	232	6.948E-01	21
+DESULFOASV1_0978_hypothetical_protein	AF-Q20222-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q20222-F1-model_v4 Fatty acid-binding protein homolog 3	0.093	132	114	129	255	29	160	2.254E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-Q92GI2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q92GI2-F1-model_v4 Hemolysin C homolog	0.112	136	103	71	206	176	292	2.820E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-A8ES36-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8ES36-F1-model_v4 tRNA-specific 2-thiouridylase MnmA 2	0.139	118	97	147	260	245	362	4.938E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-Q255D8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q255D8-F1-model_v4 V-type ATP synthase beta chain	0.072	182	110	209	328	24	205	1.905E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-Q184E3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q184E3-F1-model_v4 V-type ATP synthase beta chain	0.156	89	69	207	289	9	97	2.254E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-A6UP55-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A6UP55-F1-model_v4 V-type ATP synthase beta chain	0.082	200	126	192	329	21	220	1.361E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-A0B9K1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A0B9K1-F1-model_v4 V-type ATP synthase beta chain	0.116	209	176	125	324	1	209	1.522E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-B6YV15-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B6YV15-F1-model_v4 V-type ATP synthase beta chain	0.085	216	135	181	329	3	218	1.088E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-Q72J73-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q72J73-F1-model_v4 V-type ATP synthase beta chain	0.117	222	180	125	329	4	225	1.088E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-A9BFX5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9BFX5-F1-model_v4 ATP synthase subunit alpha	0.112	165	107	135	299	1	122	2.383E+00	20
+DESULFOASV1_0978_hypothetical_protein	AF-Q59017-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q59017-F1-model_v4 Uncharacterized protein MJ1623	0.097	148	116	215	362	268	396	7.348E-01	20
+DESULFOASV1_0978_hypothetical_protein	AF-Q8YX56-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8YX56-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.097	69	50	205	260	284	352	8.648E+00	19
+DESULFOASV1_0978_hypothetical_protein	AF-Q8NW84-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8NW84-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.090	120	100	150	260	238	357	3.336E+00	19
+DESULFOASV1_0978_hypothetical_protein	AF-Q2YT57-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2YT57-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.086	126	101	150	260	238	363	3.336E+00	19
+DESULFOASV1_0978_hypothetical_protein	AF-Q6G8U8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6G8U8-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.094	126	100	150	260	238	363	3.732E+00	19
+DESULFOASV1_0978_hypothetical_protein	AF-Q99TM8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q99TM8-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.086	126	101	150	260	238	363	3.154E+00	19
+DESULFOASV1_0978_hypothetical_protein	AF-B8H363-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B8H363-F1-model_v4 Flagellum-specific ATP synthase	0.120	212	185	118	329	12	222	1.703E+00	19
+DESULFOASV1_0978_hypothetical_protein	AF-Q887B5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q887B5-F1-model_v4 Type 3 secretion system ATPase	0.117	224	167	140	329	10	233	8.220E-01	19
+DESULFOASV1_0978_hypothetical_protein	AF-O32467-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O32467-F1-model_v4 V-type ATP synthase beta chain	0.090	211	134	182	329	6	216	1.801E+00	19
+DESULFOASV1_0978_hypothetical_protein	AF-Q223D4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q223D4-F1-model_v4 ATP synthase subunit alpha 1	0.075	217	170	140	324	13	229	3.547E-01	19
+DESULFOASV1_0978_hypothetical_protein	AF-Q91130-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q91130-F1-model_v4 Ependymin	0.096	199	156	7	205	2	175	1.801E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-Q2FGA5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2FGA5-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.094	126	100	150	260	238	363	4.415E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-A5ITE6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A5ITE6-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.086	126	101	150	260	238	363	3.732E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-O25249-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O25249-F1-model_v4 Plasminogen-binding protein PgbA	0.077	280	202	98	377	19	238	9.724E-01	18
+DESULFOASV1_0978_hypothetical_protein	AF-A1RX20-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1RX20-F1-model_v4 V-type ATP synthase beta chain	0.127	215	178	125	329	2	216	4.196E-01	18
+DESULFOASV1_0978_hypothetical_protein	AF-A9A2Q9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9A2Q9-F1-model_v4 V-type ATP synthase beta chain	0.079	200	126	192	329	20	219	3.336E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-A9AAQ3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9AAQ3-F1-model_v4 V-type ATP synthase beta chain	0.081	207	138	179	329	14	220	1.801E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-A6UT36-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A6UT36-F1-model_v4 V-type ATP synthase beta chain	0.078	195	122	192	324	21	215	1.905E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-Q5JIR2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5JIR2-F1-model_v4 V-type ATP synthase beta chain	0.074	218	139	179	329	1	218	1.801E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-Q2FQF0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2FQF0-F1-model_v4 V-type ATP synthase beta chain 3	0.139	217	181	119	329	3	219	1.361E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-A8AAA9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8AAA9-F1-model_v4 V-type ATP synthase beta chain	0.082	210	186	121	324	7	216	1.703E+00	18
+DESULFOASV1_0978_hypothetical_protein	AF-A1TJ39-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1TJ39-F1-model_v4 ATP synthase subunit alpha	0.071	242	184	140	338	13	254	3.171E-01	18
+DESULFOASV1_0978_hypothetical_protein	AF-A1WF56-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1WF56-F1-model_v4 ATP synthase subunit alpha	0.098	229	170	135	324	1	229	4.196E-01	18
+DESULFOASV1_0978_hypothetical_protein	AF-P38528-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P38528-F1-model_v4 Ependymin	0.072	253	165	7	259	2	180	3.336E+00	17
+DESULFOASV1_0978_hypothetical_protein	AF-A1VIV0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1VIV0-F1-model_v4 ATP synthase subunit alpha 1	0.099	254	183	135	338	1	254	2.680E-01	17
+DESULFOASV1_0978_hypothetical_protein	AF-A1W2T5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A1W2T5-F1-model_v4 ATP synthase subunit alpha	0.082	254	186	135	338	1	254	3.171E-01	17
+DESULFOASV1_0978_hypothetical_protein	AF-P9WNL9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WNL9-F1-model_v4 Probable arabinosyltransferase A	0.086	243	186	31	273	776	979	3.967E-01	17
+DESULFOASV1_0978_hypothetical_protein	AF-Q6UXN2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q6UXN2-F1-model_v4 Trem-like transcript 4 protein	0.075	131	76	100	230	32	114	4.938E+00	16
+DESULFOASV1_0978_hypothetical_protein	AF-Q68X66-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q68X66-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.126	116	70	126	241	276	356	5.524E+00	16
+DESULFOASV1_0978_hypothetical_protein	AF-Q4L6W8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4L6W8-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.078	114	96	156	260	248	361	6.179E+00	16
+DESULFOASV1_0978_hypothetical_protein	AF-A8Z4F9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A8Z4F9-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.086	126	101	150	260	238	363	6.179E+00	16
+DESULFOASV1_0978_hypothetical_protein	AF-Q2FXV6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q2FXV6-F1-model_v4 tRNA-specific 2-thiouridylase MnmA	0.085	116	95	156	260	248	363	5.524E+00	16
+DESULFOASV1_0978_hypothetical_protein	AF-Q978W8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q978W8-F1-model_v4 Translation initiation factor 2 subunit gamma	0.088	171	119	128	259	241	411	4.415E+00	16
+DESULFOASV1_0978_hypothetical_protein	AF-Q9V1G0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9V1G0-F1-model_v4 Translation initiation factor 2 subunit gamma	0.102	209	129	116	260	203	411	2.015E+00	16
+DESULFOASV1_0978_hypothetical_protein	AF-C5CNB3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C5CNB3-F1-model_v4 ATP synthase subunit alpha	0.095	233	175	135	328	1	233	7.772E-01	16
+DESULFOASV1_0978_hypothetical_protein	AF-B9MBA1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B9MBA1-F1-model_v4 ATP synthase subunit alpha	0.082	229	174	135	324	1	229	6.211E-01	16
+DESULFOASV1_0978_hypothetical_protein	AF-P0A561-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P0A561-F1-model_v4 Probable arabinosyltransferase A	0.086	243	186	31	273	776	979	6.211E-01	16
+DESULFOASV1_0978_hypothetical_protein	AF-P9WNL8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WNL8-F1-model_v4 Probable arabinosyltransferase A	0.086	243	186	31	273	776	979	5.250E-01	16
+DESULFOASV1_0978_hypothetical_protein	AF-O95944-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O95944-F1-model_v4 Natural cytotoxicity triggering receptor 2	0.076	123	90	115	237	29	126	8.176E+00	15
+DESULFOASV1_0978_hypothetical_protein	AF-Q8U082-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8U082-F1-model_v4 Translation initiation factor 2 subunit gamma	0.075	175	103	149	260	237	411	6.535E+00	15
+DESULFOASV1_0978_hypothetical_protein	AF-Q50395-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q50395-F1-model_v4 Probable arabinosyltransferase B	0.114	159	110	149	273	812	970	1.088E+00	15
+DESULFOASV1_0978_hypothetical_protein	AF-Q50394-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q50394-F1-model_v4 Probable arabinosyltransferase A	0.118	245	180	29	273	773	977	4.196E-01	15
+DESULFOASV1_0978_hypothetical_protein	AF-P71485-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P71485-F1-model_v4 Probable arabinosyltransferase A	0.077	244	190	30	273	787	993	1.028E+00	15
+DESULFOASV1_0978_hypothetical_protein	AF-Q4VC17-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q4VC17-F1-model_v4 A disintegrin and metalloproteinase with thrombospondin motifs 18	0.081	198	144	104	301	732	889	2.521E+00	15
+DESULFOASV1_0978_hypothetical_protein	AF-P55268-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P55268-F1-model_v4 Laminin subunit beta-2	0.143	183	99	78	260	584	700	3.336E+00	15
+DESULFOASV1_0978_hypothetical_protein	AF-P32187-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P32187-F1-model_v4 Ependymin	0.088	253	161	7	259	2	179	6.535E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-C1A1X1-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-C1A1X1-F1-model_v4 Endonuclease NucS	0.105	206	155	170	343	14	219	1.439E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-Q3LRV9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3LRV9-F1-model_v4 Trem-like transcript 4 protein	0.080	134	85	127	260	41	133	9.146E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-Q975N8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q975N8-F1-model_v4 Translation initiation factor 2 subunit gamma	0.102	176	152	30	205	245	414	3.154E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-A9BPU5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A9BPU5-F1-model_v4 ATP synthase subunit alpha	0.086	229	173	135	324	1	229	1.703E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-Q73M28-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q73M28-F1-model_v4 V-type ATP synthase alpha chain	0.055	103	65	151	253	1	70	6.179E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CDA9-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CDA9-F1-model_v4 Probable arabinosyltransferase B	0.113	157	110	149	273	815	971	2.015E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-P15800-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P15800-F1-model_v4 Laminin subunit beta-2	0.112	165	91	96	260	600	703	4.174E+00	14
+DESULFOASV1_0978_hypothetical_protein	AF-O59410-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O59410-F1-model_v4 Translation initiation factor 2 subunit gamma	0.121	209	127	116	260	203	411	5.842E+00	13
+DESULFOASV1_0978_hypothetical_protein	AF-P26465-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P26465-F1-model_v4 Flagellum-specific ATP synthase	0.058	228	178	140	329	13	240	1.439E+00	13
+DESULFOASV1_0978_hypothetical_protein	AF-Q822J8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q822J8-F1-model_v4 V-type ATP synthase alpha chain	0.089	300	185	125	328	7	306	4.938E+00	13
+DESULFOASV1_0978_hypothetical_protein	AF-P75183-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P75183-F1-model_v4 Uncharacterized protein MG414 homolog	0.083	270	211	2	232	80	349	2.254E+00	13
+DESULFOASV1_0978_hypothetical_protein	AF-Q3IMM5-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q3IMM5-F1-model_v4 Translation initiation factor 2 subunit gamma	0.128	177	145	31	207	243	409	5.223E+00	12
+DESULFOASV1_0978_hypothetical_protein	AF-B6YW69-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B6YW69-F1-model_v4 Translation initiation factor 2 subunit gamma	0.103	209	129	116	260	202	410	6.179E+00	12
+DESULFOASV1_0978_hypothetical_protein	AF-A6UTL4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-A6UTL4-F1-model_v4 Translation initiation factor 2 subunit gamma	0.110	221	149	30	250	242	409	3.154E+00	12
+DESULFOASV1_0978_hypothetical_protein	AF-Q9HLA7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9HLA7-F1-model_v4 Translation initiation factor 2 subunit gamma	0.097	180	154	30	209	240	411	2.254E+00	12
+DESULFOASV1_0978_hypothetical_protein	AF-Q8PZA0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q8PZA0-F1-model_v4 Translation initiation factor 2 subunit gamma	0.102	221	150	30	250	262	429	1.905E+00	12
+DESULFOASV1_0978_hypothetical_protein	AF-Q9PK85-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9PK85-F1-model_v4 V-type ATP synthase alpha chain	0.087	293	183	124	324	10	302	9.146E+00	12
+DESULFOASV1_0978_hypothetical_protein	AF-Q5UYS2-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5UYS2-F1-model_v4 Translation initiation factor 2 subunit gamma	0.088	224	153	28	251	240	408	4.415E+00	11
+DESULFOASV1_0978_hypothetical_protein	AF-B9LSM6-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-B9LSM6-F1-model_v4 Translation initiation factor 2 subunit gamma	0.132	180	149	28	207	240	412	6.535E+00	11
+DESULFOASV1_0978_hypothetical_protein	AF-Q5L5J0-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q5L5J0-F1-model_v4 V-type ATP synthase alpha chain	0.085	303	192	118	328	4	306	9.673E+00	11
+DESULFOASV1_0978_hypothetical_protein	AF-Q50393-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q50393-F1-model_v4 Probable arabinosyltransferase C	0.083	245	198	29	273	747	963	3.732E+00	11
+DESULFOASV1_0978_hypothetical_protein	AF-P9WNL7-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WNL7-F1-model_v4 Probable arabinosyltransferase B	0.146	156	106	149	273	831	986	5.223E+00	11
+DESULFOASV1_0978_hypothetical_protein	AF-Q7TVN3-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7TVN3-F1-model_v4 Probable arabinosyltransferase B	0.141	156	107	149	273	831	986	6.535E+00	11
+DESULFOASV1_0978_hypothetical_protein	AF-Q9CDA8-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q9CDA8-F1-model_v4 Probable arabinosyltransferase A	0.077	243	191	31	273	789	996	3.732E+00	11
+DESULFOASV1_0978_hypothetical_protein	AF-O29663-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-O29663-F1-model_v4 Translation initiation factor 2 subunit gamma	0.087	222	150	30	251	259	423	6.911E+00	10
+DESULFOASV1_0978_hypothetical_protein	AF-P9WNL4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-P9WNL4-F1-model_v4 Probable arabinosyltransferase C	0.084	245	199	29	273	766	983	4.174E+00	10
+DESULFOASV1_0978_hypothetical_protein	AF-Q7TVN4-F1-model_v4	DESULFOASV1_0978_hypothetical_protein	AF-Q7TVN4-F1-model_v4 Probable arabinosyltransferase C	0.096	245	196	29	273	766	983	6.535E+00	9

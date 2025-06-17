@@ -1,0 +1,956 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_0506_terminase_family_protein	AF-P44224-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P44224-F1-model_v4 Mu-like prophage FluMu protein gp28	0.224	504	344	5	448	3	506	5.860E-29	647
+DESULFOASV1_0506_terminase_family_protein	AF-O31952-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O31952-F1-model_v4 SPbeta prophage-derived uncharacterized protein YonF	0.147	529	383	9	458	61	589	1.550E-20	415
+DESULFOASV1_0506_terminase_family_protein	AF-Q57776-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q57776-F1-model_v4 Uncharacterized protein MJ0330	0.120	479	398	6	458	66	544	6.976E-17	363
+DESULFOASV1_0506_terminase_family_protein	AF-P44184-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P44184-F1-model_v4 Uncharacterized protein HI_1410	0.160	380	302	61	420	2	381	1.901E-14	299
+DESULFOASV1_0506_terminase_family_protein	AF-P75978-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P75978-F1-model_v4 Protein YmfN	0.126	413	336	70	454	43	455	4.141E-10	198
+DESULFOASV1_0506_terminase_family_protein	AF-A1RY08-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1RY08-F1-model_v4 tRNA(Met) cytidine acetyltransferase TmcA	0.126	186	149	14	199	234	404	1.881E-04	125
+DESULFOASV1_0506_terminase_family_protein	AF-Q896F1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q896F1-F1-model_v4 Putative pre-16S rRNA nuclease	0.102	165	122	267	431	2	138	1.085E-03	114
+DESULFOASV1_0506_terminase_family_protein	AF-Q18BF1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q18BF1-F1-model_v4 Putative pre-16S rRNA nuclease	0.130	113	97	262	373	1	113	2.319E-03	97
+DESULFOASV1_0506_terminase_family_protein	AF-Q6F101-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6F101-F1-model_v4 Putative pre-16S rRNA nuclease	0.089	163	127	266	428	2	141	3.292E-03	94
+DESULFOASV1_0506_terminase_family_protein	AF-Q74KV1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q74KV1-F1-model_v4 Putative pre-16S rRNA nuclease	0.109	162	123	267	428	2	140	7.907E-03	92
+DESULFOASV1_0506_terminase_family_protein	AF-B8D2B0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8D2B0-F1-model_v4 Putative pre-16S rRNA nuclease	0.162	109	89	267	373	2	110	3.490E-03	90
+DESULFOASV1_0506_terminase_family_protein	AF-Q07L84-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q07L84-F1-model_v4 Putative pre-16S rRNA nuclease	0.116	186	126	267	452	20	163	2.606E-03	89
+DESULFOASV1_0506_terminase_family_protein	AF-Q215X7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q215X7-F1-model_v4 Putative pre-16S rRNA nuclease	0.112	186	127	267	452	20	163	5.904E-03	89
+DESULFOASV1_0506_terminase_family_protein	AF-B1H0H2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1H0H2-F1-model_v4 Putative pre-16S rRNA nuclease	0.114	163	120	266	428	2	138	1.418E-02	87
+DESULFOASV1_0506_terminase_family_protein	AF-C1CBZ4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1CBZ4-F1-model_v4 Putative pre-16S rRNA nuclease	0.112	163	122	267	429	2	139	1.418E-02	85
+DESULFOASV1_0506_terminase_family_protein	AF-C1CAK0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1CAK0-F1-model_v4 Putative pre-16S rRNA nuclease	0.164	92	69	267	350	2	93	1.791E-02	84
+DESULFOASV1_0506_terminase_family_protein	AF-B1I373-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1I373-F1-model_v4 Putative pre-16S rRNA nuclease	0.168	107	87	267	371	2	108	9.422E-03	84
+DESULFOASV1_0506_terminase_family_protein	AF-Q6KHK6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6KHK6-F1-model_v4 Putative pre-16S rRNA nuclease	0.119	104	85	267	364	2	105	1.123E-02	84
+DESULFOASV1_0506_terminase_family_protein	AF-A5EKQ4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5EKQ4-F1-model_v4 Putative pre-16S rRNA nuclease	0.100	189	132	260	448	13	160	8.887E-03	84
+DESULFOASV1_0506_terminase_family_protein	AF-B2IS28-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2IS28-F1-model_v4 Putative pre-16S rRNA nuclease	0.134	108	89	267	370	2	109	9.422E-03	82
+DESULFOASV1_0506_terminase_family_protein	AF-B1XJ08-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1XJ08-F1-model_v4 Putative pre-16S rRNA nuclease	0.129	111	91	263	367	1	111	3.213E-02	82
+DESULFOASV1_0506_terminase_family_protein	AF-Q1IU89-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1IU89-F1-model_v4 Putative pre-16S rRNA nuclease	0.103	193	134	261	453	4	153	1.338E-02	82
+DESULFOASV1_0506_terminase_family_protein	AF-Q135J0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q135J0-F1-model_v4 Putative pre-16S rRNA nuclease	0.098	182	126	267	448	20	160	1.503E-02	82
+DESULFOASV1_0506_terminase_family_protein	AF-P0A9K2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A9K2-F1-model_v4 Protein PhoH	0.138	219	178	4	222	145	352	7.035E-03	82
+DESULFOASV1_0506_terminase_family_protein	AF-Q8EPT1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8EPT1-F1-model_v4 Putative pre-16S rRNA nuclease	0.100	116	95	267	372	2	117	7.907E-03	81
+DESULFOASV1_0506_terminase_family_protein	AF-Q89K24-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q89K24-F1-model_v4 Putative pre-16S rRNA nuclease	0.092	184	128	267	450	20	161	1.338E-02	81
+DESULFOASV1_0506_terminase_family_protein	AF-B2A5J5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2A5J5-F1-model_v4 Putative pre-16S rRNA nuclease	0.095	157	116	267	423	2	130	1.690E-02	80
+DESULFOASV1_0506_terminase_family_protein	AF-B0K996-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0K996-F1-model_v4 Putative pre-16S rRNA nuclease	0.106	90	76	267	352	2	91	2.858E-02	79
+DESULFOASV1_0506_terminase_family_protein	AF-A4WTQ6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4WTQ6-F1-model_v4 Putative pre-16S rRNA nuclease	0.129	114	98	261	373	13	126	1.123E-02	79
+DESULFOASV1_0506_terminase_family_protein	AF-Q2JKS4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2JKS4-F1-model_v4 Putative pre-16S rRNA nuclease	0.133	196	138	263	458	11	170	7.458E-03	79
+DESULFOASV1_0506_terminase_family_protein	AF-Q0AZP9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0AZP9-F1-model_v4 Putative pre-16S rRNA nuclease	0.101	168	125	267	434	2	141	2.543E-02	78
+DESULFOASV1_0506_terminase_family_protein	AF-Q6N569-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6N569-F1-model_v4 Putative pre-16S rRNA nuclease	0.093	181	125	267	447	20	158	2.263E-02	78
+DESULFOASV1_0506_terminase_family_protein	AF-B2IEC1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2IEC1-F1-model_v4 Putative pre-16S rRNA nuclease	0.098	193	147	239	431	2	165	4.955E-03	78
+DESULFOASV1_0506_terminase_family_protein	AF-Q92QL0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q92QL0-F1-model_v4 Putative pre-16S rRNA nuclease	0.129	173	134	259	431	10	164	3.700E-03	78
+DESULFOASV1_0506_terminase_family_protein	AF-P0A044-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A044-F1-model_v4 Transposase for insertion sequence-like element IS431mec	0.128	140	112	245	384	59	188	2.063E-03	78
+DESULFOASV1_0506_terminase_family_protein	AF-Q4FLQ5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4FLQ5-F1-model_v4 Putative pre-16S rRNA nuclease	0.097	98	84	259	352	8	105	2.399E-02	77
+DESULFOASV1_0506_terminase_family_protein	AF-Q1GI16-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1GI16-F1-model_v4 Putative pre-16S rRNA nuclease	0.089	189	133	259	447	10	156	8.383E-03	77
+DESULFOASV1_0506_terminase_family_protein	AF-Q2YT62-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2YT62-F1-model_v4 Putative pre-16S rRNA nuclease	0.103	110	93	267	371	5	114	2.263E-02	76
+DESULFOASV1_0506_terminase_family_protein	AF-Q5GRU0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5GRU0-F1-model_v4 Putative pre-16S rRNA nuclease	0.066	114	105	259	371	10	123	1.594E-02	76
+DESULFOASV1_0506_terminase_family_protein	AF-B4R966-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4R966-F1-model_v4 Putative pre-16S rRNA nuclease	0.111	124	106	245	368	7	126	1.503E-02	76
+DESULFOASV1_0506_terminase_family_protein	AF-A6X566-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6X566-F1-model_v4 Putative pre-16S rRNA nuclease	0.125	166	120	259	424	10	147	1.503E-02	76
+DESULFOASV1_0506_terminase_family_protein	AF-A0RIZ9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0RIZ9-F1-model_v4 Putative pre-16S rRNA nuclease	0.134	116	91	267	372	2	117	2.543E-02	75
+DESULFOASV1_0506_terminase_family_protein	AF-P67489-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P67489-F1-model_v4 Putative pre-16S rRNA nuclease	0.120	110	92	267	371	5	114	1.338E-02	75
+DESULFOASV1_0506_terminase_family_protein	AF-A4YWF9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4YWF9-F1-model_v4 Putative pre-16S rRNA nuclease	0.130	122	104	267	388	20	140	1.338E-02	75
+DESULFOASV1_0506_terminase_family_protein	AF-Q2GL11-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2GL11-F1-model_v4 Putative pre-16S rRNA nuclease	0.095	124	106	245	368	7	124	1.059E-02	75
+DESULFOASV1_0506_terminase_family_protein	AF-Q67MD5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q67MD5-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.153	87	69	5	91	3	85	5.762E-02	75
+DESULFOASV1_0506_terminase_family_protein	AF-Q03IC4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q03IC4-F1-model_v4 Putative pre-16S rRNA nuclease	0.113	108	91	267	370	2	109	3.213E-02	74
+DESULFOASV1_0506_terminase_family_protein	AF-Q5HFE6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5HFE6-F1-model_v4 Putative pre-16S rRNA nuclease	0.093	117	103	267	381	5	121	1.059E-02	74
+DESULFOASV1_0506_terminase_family_protein	AF-A9WCR4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9WCR4-F1-model_v4 Putative pre-16S rRNA nuclease	0.108	124	97	263	372	1	124	4.058E-02	74
+DESULFOASV1_0506_terminase_family_protein	AF-Q2IXC6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2IXC6-F1-model_v4 Putative pre-16S rRNA nuclease	0.118	127	110	262	388	15	140	1.594E-02	74
+DESULFOASV1_0506_terminase_family_protein	AF-C1EST1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1EST1-F1-model_v4 Putative pre-16S rRNA nuclease	0.135	116	91	267	372	2	117	1.338E-02	73
+DESULFOASV1_0506_terminase_family_protein	AF-Q2FGB0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2FGB0-F1-model_v4 Putative pre-16S rRNA nuclease	0.107	119	93	267	371	5	123	2.399E-02	73
+DESULFOASV1_0506_terminase_family_protein	AF-B2G6F5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2G6F5-F1-model_v4 Putative pre-16S rRNA nuclease	0.129	106	91	267	371	2	107	5.435E-02	73
+DESULFOASV1_0506_terminase_family_protein	AF-B9LH40-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9LH40-F1-model_v4 Putative pre-16S rRNA nuclease	0.108	124	97	263	372	1	124	4.302E-02	73
+DESULFOASV1_0506_terminase_family_protein	AF-A8G827-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8G827-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.100	122	94	261	365	2	123	2.263E-02	73
+DESULFOASV1_0506_terminase_family_protein	AF-Q6G8V3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6G8V3-F1-model_v4 Putative pre-16S rRNA nuclease	0.111	117	101	267	381	5	121	1.190E-02	72
+DESULFOASV1_0506_terminase_family_protein	AF-Q4AAD2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4AAD2-F1-model_v4 Putative pre-16S rRNA nuclease	0.138	121	95	262	372	1	121	4.561E-02	72
+DESULFOASV1_0506_terminase_family_protein	AF-B9KRR7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9KRR7-F1-model_v4 Putative pre-16S rRNA nuclease	0.120	114	99	259	371	10	123	1.594E-02	72
+DESULFOASV1_0506_terminase_family_protein	AF-Q8EUB0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8EUB0-F1-model_v4 Type III pantothenate kinase	0.128	95	81	261	355	1	94	8.180E-02	72
+DESULFOASV1_0506_terminase_family_protein	AF-B1YKM8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1YKM8-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.177	89	69	7	95	1	85	1.231E-01	72
+DESULFOASV1_0506_terminase_family_protein	AF-C3L5Z2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C3L5Z2-F1-model_v4 Putative pre-16S rRNA nuclease	0.135	116	91	267	372	2	117	1.690E-02	71
+DESULFOASV1_0506_terminase_family_protein	AF-B1I8I5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1I8I5-F1-model_v4 Putative pre-16S rRNA nuclease	0.146	117	97	267	381	2	118	1.899E-02	71
+DESULFOASV1_0506_terminase_family_protein	AF-A6QHF7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6QHF7-F1-model_v4 Putative pre-16S rRNA nuclease	0.101	110	93	267	371	5	114	2.399E-02	71
+DESULFOASV1_0506_terminase_family_protein	AF-A6U285-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6U285-F1-model_v4 Putative pre-16S rRNA nuclease	0.093	117	103	267	381	5	121	1.594E-02	71
+DESULFOASV1_0506_terminase_family_protein	AF-P0A045-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A045-F1-model_v4 Transposase for insertion sequence-like element IS431mec	0.134	140	112	245	384	59	188	3.700E-03	71
+DESULFOASV1_0506_terminase_family_protein	AF-P0C1L0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0C1L0-F1-model_v4 Transposase for insertion sequence-like element IS431mec	0.134	140	112	245	384	59	188	3.105E-03	71
+DESULFOASV1_0506_terminase_family_protein	AF-Q730E7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q730E7-F1-model_v4 Putative pre-16S rRNA nuclease	0.120	109	92	267	371	2	110	2.399E-02	70
+DESULFOASV1_0506_terminase_family_protein	AF-A8Z4F4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8Z4F4-F1-model_v4 Putative pre-16S rRNA nuclease	0.101	110	93	267	371	5	114	2.858E-02	70
+DESULFOASV1_0506_terminase_family_protein	AF-Q4A8G3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4A8G3-F1-model_v4 Putative pre-16S rRNA nuclease	0.107	136	98	262	372	1	136	3.030E-02	70
+DESULFOASV1_0506_terminase_family_protein	AF-A3PJD6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A3PJD6-F1-model_v4 Putative pre-16S rRNA nuclease	0.120	113	98	260	371	11	123	2.134E-02	70
+DESULFOASV1_0506_terminase_family_protein	AF-P14506-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P14506-F1-model_v4 Transposase for insertion sequence element IS257 in transposon Tn4003	0.134	140	112	245	384	59	188	4.409E-03	70
+DESULFOASV1_0506_terminase_family_protein	AF-B5RFS4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5RFS4-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.085	122	94	262	365	1	122	4.836E-02	70
+DESULFOASV1_0506_terminase_family_protein	AF-C1CP75-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1CP75-F1-model_v4 Putative pre-16S rRNA nuclease	0.146	117	97	267	381	2	118	2.134E-02	69
+DESULFOASV1_0506_terminase_family_protein	AF-Q6GG87-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6GG87-F1-model_v4 Putative pre-16S rRNA nuclease	0.120	110	92	267	371	5	114	2.858E-02	69
+DESULFOASV1_0506_terminase_family_protein	AF-Q52673-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q52673-F1-model_v4 Putative pre-16S rRNA nuclease	0.094	129	109	243	371	4	124	1.791E-02	69
+DESULFOASV1_0506_terminase_family_protein	AF-P0CF30-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0CF30-F1-model_v4 Insertion element IS1 8 protein InsB	0.107	130	110	258	387	32	155	3.490E-03	69
+DESULFOASV1_0506_terminase_family_protein	AF-P0A9K1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A9K1-F1-model_v4 Protein PhoH	0.132	219	180	4	222	145	352	3.611E-02	69
+DESULFOASV1_0506_terminase_family_protein	AF-A0QS28-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0QS28-F1-model_v4 RecBCD enzyme subunit RecD	0.123	418	321	13	379	136	553	9.654E-04	69
+DESULFOASV1_0506_terminase_family_protein	AF-Q2W6Y3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2W6Y3-F1-model_v4 Putative pre-16S rRNA nuclease	0.111	129	103	256	372	3	131	3.828E-02	68
+DESULFOASV1_0506_terminase_family_protein	AF-B3Q9X0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3Q9X0-F1-model_v4 Putative pre-16S rRNA nuclease	0.113	122	106	267	388	20	140	4.058E-02	68
+DESULFOASV1_0506_terminase_family_protein	AF-Q601M3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q601M3-F1-model_v4 Putative pre-16S rRNA nuclease	0.107	136	98	262	372	1	136	3.611E-02	67
+DESULFOASV1_0506_terminase_family_protein	AF-A1UT22-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1UT22-F1-model_v4 Putative pre-16S rRNA nuclease	0.098	164	127	260	423	11	152	1.338E-02	67
+DESULFOASV1_0506_terminase_family_protein	AF-B5E2L2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5E2L2-F1-model_v4 UvrABC system protein C	0.114	325	266	33	357	185	485	9.563E-06	67
+DESULFOASV1_0506_terminase_family_protein	AF-Q04MP8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q04MP8-F1-model_v4 Putative pre-16S rRNA nuclease	0.124	137	92	267	372	2	138	2.013E-02	66
+DESULFOASV1_0506_terminase_family_protein	AF-A5ITE1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5ITE1-F1-model_v4 Putative pre-16S rRNA nuclease	0.093	117	103	267	381	5	121	3.213E-02	66
+DESULFOASV1_0506_terminase_family_protein	AF-B9DZK4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9DZK4-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.153	87	72	9	94	6	92	2.957E-01	66
+DESULFOASV1_0506_terminase_family_protein	AF-B7JY16-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7JY16-F1-model_v4 Putative pre-16S rRNA nuclease	0.118	164	120	263	426	1	137	6.476E-02	65
+DESULFOASV1_0506_terminase_family_protein	AF-A0A385XJL4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0A385XJL4-F1-model_v4 Insertion element IS1 9 protein InsB	0.120	130	108	258	387	32	155	3.292E-03	65
+DESULFOASV1_0506_terminase_family_protein	AF-P0A043-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A043-F1-model_v4 Transposase for insertion sequence-like element IS431mec	0.153	173	135	212	384	29	188	3.292E-03	65
+DESULFOASV1_0506_terminase_family_protein	AF-Q8ERW5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8ERW5-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.141	88	71	8	95	1	84	1.853E-01	65
+DESULFOASV1_0506_terminase_family_protein	AF-Q49Y54-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q49Y54-F1-model_v4 Putative pre-16S rRNA nuclease	0.084	110	95	267	371	5	114	7.278E-02	64
+DESULFOASV1_0506_terminase_family_protein	AF-P67490-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P67490-F1-model_v4 Putative pre-16S rRNA nuclease	0.100	117	95	267	372	5	121	6.108E-02	64
+DESULFOASV1_0506_terminase_family_protein	AF-P0CF29-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0CF29-F1-model_v4 Insertion element IS1 6 protein InsB	0.107	130	110	258	387	32	155	4.159E-03	64
+DESULFOASV1_0506_terminase_family_protein	AF-A9KTE6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9KTE6-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.159	84	66	8	91	3	82	2.341E-01	63
+DESULFOASV1_0506_terminase_family_protein	AF-Q1GAA9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1GAA9-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.114	85	69	7	91	1	79	2.631E-01	62
+DESULFOASV1_0506_terminase_family_protein	AF-Q88U41-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q88U41-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.103	86	73	6	91	2	83	5.003E-01	62
+DESULFOASV1_0506_terminase_family_protein	AF-Q04AN7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q04AN7-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.114	85	69	7	91	1	79	3.135E-01	61
+DESULFOASV1_0506_terminase_family_protein	AF-B1HN90-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1HN90-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.148	93	78	3	95	2	94	1.748E-01	61
+DESULFOASV1_0506_terminase_family_protein	AF-B2A610-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2A610-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.116	82	68	10	91	11	88	3.135E-01	61
+DESULFOASV1_0506_terminase_family_protein	AF-B4F1V2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4F1V2-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.087	119	91	261	361	1	119	8.672E-02	60
+DESULFOASV1_0506_terminase_family_protein	AF-Q8PRZ8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8PRZ8-F1-model_v4 UvrABC system protein C	0.097	415	299	33	447	186	517	3.261E-05	60
+DESULFOASV1_0506_terminase_family_protein	AF-Q1WT45-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1WT45-F1-model_v4 UvrABC system protein C	0.079	397	309	34	430	193	528	1.112E-04	60
+DESULFOASV1_0506_terminase_family_protein	AF-Q043G6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q043G6-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.111	89	72	8	96	1	82	3.960E-01	60
+DESULFOASV1_0506_terminase_family_protein	AF-B8E227-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8E227-F1-model_v4 Putative pre-16S rRNA nuclease	0.087	121	97	267	373	2	122	1.096E-01	59
+DESULFOASV1_0506_terminase_family_protein	AF-B0KDB7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0KDB7-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.146	85	68	7	91	1	81	3.736E-01	59
+DESULFOASV1_0506_terminase_family_protein	AF-B1MZM2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1MZM2-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.161	88	73	7	94	1	88	5.961E-01	59
+DESULFOASV1_0506_terminase_family_protein	AF-Q8CSA9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8CSA9-F1-model_v4 Putative pre-16S rRNA nuclease	0.115	117	101	267	381	5	121	2.399E-02	58
+DESULFOASV1_0506_terminase_family_protein	AF-C0R5C2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0R5C2-F1-model_v4 Putative pre-16S rRNA nuclease	0.058	125	112	243	367	4	123	9.194E-02	58
+DESULFOASV1_0506_terminase_family_protein	AF-Q3J2Z5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3J2Z5-F1-model_v4 Putative pre-16S rRNA nuclease	0.124	121	98	260	372	11	131	3.406E-02	58
+DESULFOASV1_0506_terminase_family_protein	AF-P04323-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P04323-F1-model_v4 Retrovirus-related Pol polyprotein from transposon 17.6	0.105	387	308	53	439	654	998	4.630E-05	58
+DESULFOASV1_0506_terminase_family_protein	AF-Q58914-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q58914-F1-model_v4 Uncharacterized protein MJ1519	0.106	311	235	5	315	552	815	8.887E-03	58
+DESULFOASV1_0506_terminase_family_protein	AF-B0K213-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0K213-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.146	85	68	7	91	1	81	4.451E-01	58
+DESULFOASV1_0506_terminase_family_protein	AF-Q73IL4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q73IL4-F1-model_v4 Putative pre-16S rRNA nuclease	0.064	112	102	243	354	4	113	5.127E-02	57
+DESULFOASV1_0506_terminase_family_protein	AF-A9IU51-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9IU51-F1-model_v4 Putative pre-16S rRNA nuclease	0.122	165	126	262	426	13	156	5.127E-02	57
+DESULFOASV1_0506_terminase_family_protein	AF-A1WJV9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1WJV9-F1-model_v4 Type III pantothenate kinase	0.104	89	74	267	355	2	85	1.161E-01	57
+DESULFOASV1_0506_terminase_family_protein	AF-Q03W49-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q03W49-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.151	85	65	7	91	1	78	5.623E-01	57
+DESULFOASV1_0506_terminase_family_protein	AF-P23478-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P23478-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.139	91	74	1	91	1	87	4.199E-01	57
+DESULFOASV1_0506_terminase_family_protein	AF-Q8TKS2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8TKS2-F1-model_v4 UvrABC system protein C	0.092	420	305	33	452	180	516	1.179E-04	56
+DESULFOASV1_0506_terminase_family_protein	AF-B7GM51-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7GM51-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.147	91	73	1	91	1	87	3.960E-01	56
+DESULFOASV1_0506_terminase_family_protein	AF-Q5HAW7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5HAW7-F1-model_v4 Putative pre-16S rRNA nuclease	0.073	115	101	259	368	10	124	1.231E-01	55
+DESULFOASV1_0506_terminase_family_protein	AF-B8DF44-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8DF44-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.141	91	77	5	95	4	94	4.199E-01	55
+DESULFOASV1_0506_terminase_family_protein	AF-B1Y6R5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1Y6R5-F1-model_v4 Type III pantothenate kinase	0.071	115	97	267	371	2	116	1.305E-01	54
+DESULFOASV1_0506_terminase_family_protein	AF-Q5U209-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5U209-F1-model_v4 Ribonuclease H2 subunit A	0.116	255	171	265	458	27	281	5.904E-03	54
+DESULFOASV1_0506_terminase_family_protein	AF-Q468S9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q468S9-F1-model_v4 UvrABC system protein C	0.094	418	297	35	452	188	516	1.325E-04	54
+DESULFOASV1_0506_terminase_family_protein	AF-P9WHJ0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P9WHJ0-F1-model_v4 RecBCD enzyme subunit RecD	0.112	412	322	13	376	151	562	1.690E-02	54
+DESULFOASV1_0506_terminase_family_protein	AF-A7HD93-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7HD93-F1-model_v4 UvrABC system protein C	0.093	319	268	34	352	202	498	5.203E-05	54
+DESULFOASV1_0506_terminase_family_protein	AF-Q71X99-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q71X99-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.141	91	77	5	95	4	94	4.719E-01	54
+DESULFOASV1_0506_terminase_family_protein	AF-A0PY67-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0PY67-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.164	89	70	7	95	2	86	5.961E-01	54
+DESULFOASV1_0506_terminase_family_protein	AF-Q2TBT5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2TBT5-F1-model_v4 Ribonuclease H2 subunit A	0.129	264	173	259	458	21	284	2.134E-02	53
+DESULFOASV1_0506_terminase_family_protein	AF-Q6BTL5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6BTL5-F1-model_v4 ATP-dependent RNA helicase DRS1	0.139	190	160	12	201	282	468	6.700E-01	53
+DESULFOASV1_0506_terminase_family_protein	AF-Q3AA35-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3AA35-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.113	84	70	8	91	1	80	7.103E-01	53
+DESULFOASV1_0506_terminase_family_protein	AF-P9WHJ1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P9WHJ1-F1-model_v4 RecBCD enzyme subunit RecD	0.116	411	320	14	376	152	562	2.858E-02	52
+DESULFOASV1_0506_terminase_family_protein	AF-Q72ZM1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q72ZM1-F1-model_v4 UvrABC system protein C	0.102	420	321	37	456	189	546	3.182E-04	52
+DESULFOASV1_0506_terminase_family_protein	AF-Q06683-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q06683-F1-model_v4 Putative ATP-dependent helicase IRC3	0.110	377	275	3	379	27	336	1.690E-02	52
+DESULFOASV1_0506_terminase_family_protein	AF-A7Z368-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7Z368-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.127	91	75	1	91	2	88	7.983E-01	52
+DESULFOASV1_0506_terminase_family_protein	AF-Q929A9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q929A9-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.141	91	77	5	95	4	94	5.623E-01	52
+DESULFOASV1_0506_terminase_family_protein	AF-Q056Y6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q056Y6-F1-model_v4 Putative pre-16S rRNA nuclease	0.109	110	95	267	374	2	111	1.231E-01	51
+DESULFOASV1_0506_terminase_family_protein	AF-Q5FFQ2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5FFQ2-F1-model_v4 Putative pre-16S rRNA nuclease	0.068	128	105	259	372	10	137	1.748E-01	51
+DESULFOASV1_0506_terminase_family_protein	AF-A1TUS2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1TUS2-F1-model_v4 Type III pantothenate kinase	0.090	85	74	267	351	2	83	5.304E-01	51
+DESULFOASV1_0506_terminase_family_protein	AF-Q8CPT9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8CPT9-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.132	96	77	1	96	7	96	8.972E-01	51
+DESULFOASV1_0506_terminase_family_protein	AF-Q65LJ9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q65LJ9-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.161	91	72	1	91	1	87	1.008E+00	51
+DESULFOASV1_0506_terminase_family_protein	AF-Q8Y511-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8Y511-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.141	91	77	5	95	4	94	7.103E-01	51
+DESULFOASV1_0506_terminase_family_protein	AF-Q7VC75-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7VC75-F1-model_v4 Putative pre-16S rRNA nuclease	0.105	157	112	264	420	5	130	3.524E-01	50
+DESULFOASV1_0506_terminase_family_protein	AF-Q9SEZ6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9SEZ6-F1-model_v4 Ribonuclease H2 subunit A	0.115	252	176	259	458	7	258	8.180E-02	50
+DESULFOASV1_0506_terminase_family_protein	AF-Q9P5X8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9P5X8-F1-model_v4 Ribonuclease H2 subunit A	0.097	272	182	256	458	31	302	6.108E-02	50
+DESULFOASV1_0506_terminase_family_protein	AF-P22344-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P22344-F1-model_v4 Insertion element ISM1 uncharacterized 48.3 kDa protein	0.112	290	194	100	389	79	298	2.319E-03	50
+DESULFOASV1_0506_terminase_family_protein	AF-Q6LZA1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6LZA1-F1-model_v4 UvrABC system protein C	0.082	414	308	34	447	187	522	3.002E-04	50
+DESULFOASV1_0506_terminase_family_protein	AF-Q6FW42-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6FW42-F1-model_v4 ATP-dependent RNA helicase DRS1	0.134	193	163	9	201	227	415	4.719E-01	49
+DESULFOASV1_0506_terminase_family_protein	AF-Q10213-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q10213-F1-model_v4 ATP-dependent DNA helicase srs2	0.088	286	171	11	199	11	296	1.231E-01	49
+DESULFOASV1_0506_terminase_family_protein	AF-P63136-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P63136-F1-model_v4 Endogenous retrovirus group K member 25 Pol protein	0.077	404	355	37	422	376	779	7.209E-04	49
+DESULFOASV1_0506_terminase_family_protein	AF-Q99VC3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q99VC3-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.159	91	71	1	91	1	86	1.069E+00	49
+DESULFOASV1_0506_terminase_family_protein	AF-A0AL18-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0AL18-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.140	95	78	1	95	3	94	1.008E+00	49
+DESULFOASV1_0506_terminase_family_protein	AF-B7IL84-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7IL84-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.127	94	81	3	96	2	95	7.530E-01	49
+DESULFOASV1_0506_terminase_family_protein	AF-Q2RL77-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2RL77-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.177	88	68	4	91	2	85	3.736E-01	49
+DESULFOASV1_0506_terminase_family_protein	AF-Q9VPP5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9VPP5-F1-model_v4 Ribonuclease H2 subunit A	0.117	250	156	265	442	69	318	2.696E-02	48
+DESULFOASV1_0506_terminase_family_protein	AF-Q9UUA2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9UUA2-F1-model_v4 ATP-dependent DNA helicase pfh1	0.096	198	169	2	199	301	488	2.631E-01	48
+DESULFOASV1_0506_terminase_family_protein	AF-O05052-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O05052-F1-model_v4 Putative type I restriction enzyme HindVIIP R protein	0.128	225	181	15	222	282	506	1.649E-01	48
+DESULFOASV1_0506_terminase_family_protein	AF-P55685-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P55685-F1-model_v4 Uncharacterized protein y4wG	0.094	137	103	32	168	60	174	3.406E-02	47
+DESULFOASV1_0506_terminase_family_protein	AF-O70075-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O70075-F1-model_v4 Uncharacterized protein aq_1391/aq_1640/aq_aa40	0.096	198	162	266	445	123	320	9.422E-03	47
+DESULFOASV1_0506_terminase_family_protein	AF-B0BRG1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0BRG1-F1-model_v4 DNA replication and repair protein RecF	0.177	62	48	139	200	295	353	8.463E-01	47
+DESULFOASV1_0506_terminase_family_protein	AF-P45158-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P45158-F1-model_v4 RecBCD enzyme subunit RecD	0.087	471	347	7	387	169	639	1.338E-02	47
+DESULFOASV1_0506_terminase_family_protein	AF-B2S367-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2S367-F1-model_v4 UvrABC system protein C	0.092	414	365	34	447	200	602	5.253E-03	47
+DESULFOASV1_0506_terminase_family_protein	AF-A0RAX7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0RAX7-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.141	88	71	9	96	12	95	1.350E+00	47
+DESULFOASV1_0506_terminase_family_protein	AF-B8FXD7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8FXD7-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.147	84	67	8	91	3	81	1.518E+00	47
+DESULFOASV1_0506_terminase_family_protein	AF-P63135-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P63135-F1-model_v4 Endogenous retrovirus group K member 7 Pol protein	0.075	406	356	37	422	376	781	1.150E-03	47
+DESULFOASV1_0506_terminase_family_protein	AF-Q9U6P6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9U6P6-F1-model_v4 Ribonuclease H2 subunit A	0.130	256	173	259	458	14	269	3.406E-02	46
+DESULFOASV1_0506_terminase_family_protein	AF-O75792-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O75792-F1-model_v4 Ribonuclease H2 subunit A	0.127	266	174	258	457	20	285	6.108E-02	46
+DESULFOASV1_0506_terminase_family_protein	AF-Q3SRK4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3SRK4-F1-model_v4 Enolase	0.117	34	29	99	132	6	39	1.350E+00	46
+DESULFOASV1_0506_terminase_family_protein	AF-O83485-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O83485-F1-model_v4 UvrABC system protein C	0.096	413	363	35	447	201	602	8.383E-03	46
+DESULFOASV1_0506_terminase_family_protein	AF-P63133-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P63133-F1-model_v4 Endogenous retrovirus group K member 8 Pol protein	0.078	406	355	37	422	376	781	1.150E-03	46
+DESULFOASV1_0506_terminase_family_protein	AF-P10266-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P10266-F1-model_v4 Endogenous retrovirus group K member 10 Pol protein	0.079	406	355	37	422	376	781	1.836E-03	46
+DESULFOASV1_0506_terminase_family_protein	AF-A4J4E3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4J4E3-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.144	85	68	7	91	2	82	1.133E+00	46
+DESULFOASV1_0506_terminase_family_protein	AF-Q24WW8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q24WW8-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.157	84	66	8	91	3	81	1.133E+00	46
+DESULFOASV1_0506_terminase_family_protein	AF-B3Q6U1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3Q6U1-F1-model_v4 Ribonuclease H	0.112	190	135	258	447	2	154	3.828E-02	45
+DESULFOASV1_0506_terminase_family_protein	AF-Q10236-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q10236-F1-model_v4 Ribonuclease H2 subunit A	0.090	240	145	249	408	36	275	1.033E-01	45
+DESULFOASV1_0506_terminase_family_protein	AF-Q80YY7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q80YY7-F1-model_v4 Zinc finger protein 618	0.103	107	95	266	372	549	655	3.324E-01	45
+DESULFOASV1_0506_terminase_family_protein	AF-Q9WJR5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9WJR5-F1-model_v4 Endogenous retrovirus group K member 19 Pol protein	0.084	406	353	37	422	379	784	2.063E-03	45
+DESULFOASV1_0506_terminase_family_protein	AF-B9DIS2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9DIS2-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.175	91	69	1	91	1	85	1.809E+00	45
+DESULFOASV1_0506_terminase_family_protein	AF-Q9BXR3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9BXR3-F1-model_v4 Endogenous retrovirus group K member 6 Pol protein	0.073	406	357	37	422	376	781	2.458E-03	44
+DESULFOASV1_0506_terminase_family_protein	AF-Q8RCZ0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8RCZ0-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.122	85	70	7	91	1	81	1.432E+00	44
+DESULFOASV1_0506_terminase_family_protein	AF-A8FBR1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8FBR1-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.127	91	75	1	91	1	87	2.155E+00	44
+DESULFOASV1_0506_terminase_family_protein	AF-Q4WA22-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4WA22-F1-model_v4 Dicer-like protein 2	0.123	201	174	1	199	7	207	7.103E-01	44
+DESULFOASV1_0506_terminase_family_protein	AF-A1AW38-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1AW38-F1-model_v4 Ribonuclease H	0.123	162	122	263	424	1	140	6.865E-02	43
+DESULFOASV1_0506_terminase_family_protein	AF-Q60AW8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q60AW8-F1-model_v4 Ribonuclease H	0.145	164	121	261	424	2	143	5.762E-02	43
+DESULFOASV1_0506_terminase_family_protein	AF-P9WLM8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P9WLM8-F1-model_v4 Uncharacterized protein MT2064	0.110	201	120	1	201	47	182	3.324E-01	43
+DESULFOASV1_0506_terminase_family_protein	AF-B9L9T8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9L9T8-F1-model_v4 UvrABC system protein C	0.078	283	246	68	350	210	477	1.293E-03	43
+DESULFOASV1_0506_terminase_family_protein	AF-Q5AXT5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5AXT5-F1-model_v4 ATP-dependent DNA helicase PIF1	0.107	404	343	1	404	231	615	6.108E-02	43
+DESULFOASV1_0506_terminase_family_protein	AF-Q9UQG0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9UQG0-F1-model_v4 Endogenous retrovirus group K member 11 Pol protein	0.086	505	369	37	441	376	880	1.541E-03	43
+DESULFOASV1_0506_terminase_family_protein	AF-B1I493-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1I493-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.132	88	75	8	94	3	90	1.274E+00	43
+DESULFOASV1_0506_terminase_family_protein	AF-Q97GV3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q97GV3-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.168	93	73	4	96	1	89	3.060E+00	43
+DESULFOASV1_0506_terminase_family_protein	AF-Q2G9E3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2G9E3-F1-model_v4 Ribonuclease H	0.097	160	122	266	425	5	140	8.672E-02	42
+DESULFOASV1_0506_terminase_family_protein	AF-Q5E3G5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5E3G5-F1-model_v4 Ribonuclease H	0.108	171	130	266	436	10	156	1.033E-01	42
+DESULFOASV1_0506_terminase_family_protein	AF-Q7TSE9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7TSE9-F1-model_v4 HCLS1-associated protein X-1	0.186	59	42	71	129	188	239	4.719E-01	42
+DESULFOASV1_0506_terminase_family_protein	AF-Q65VB6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q65VB6-F1-model_v4 DNA replication and repair protein RecF	0.145	62	49	137	198	294	351	8.463E-01	42
+DESULFOASV1_0506_terminase_family_protein	AF-Q8G0G3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8G0G3-F1-model_v4 Enolase	0.147	34	28	99	132	6	39	2.155E+00	42
+DESULFOASV1_0506_terminase_family_protein	AF-B2IKR4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2IKR4-F1-model_v4 Enolase	0.147	34	28	99	132	6	39	1.809E+00	42
+DESULFOASV1_0506_terminase_family_protein	AF-C6BSL8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C6BSL8-F1-model_v4 Enolase	0.151	33	27	100	132	7	39	1.917E+00	42
+DESULFOASV1_0506_terminase_family_protein	AF-Q8K9E0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8K9E0-F1-model_v4 Enolase	0.205	34	26	99	132	6	39	1.917E+00	42
+DESULFOASV1_0506_terminase_family_protein	AF-C0Z9I7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0Z9I7-F1-model_v4 UvrABC system protein C	0.118	379	305	67	445	206	552	1.836E-03	42
+DESULFOASV1_0506_terminase_family_protein	AF-Q7VBY8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7VBY8-F1-model_v4 UvrABC system protein C	0.103	411	331	35	445	212	581	1.112E-04	42
+DESULFOASV1_0506_terminase_family_protein	AF-Q131J2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q131J2-F1-model_v4 Ribonuclease H	0.097	163	125	262	424	1	139	9.194E-02	41
+DESULFOASV1_0506_terminase_family_protein	AF-A7MY21-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7MY21-F1-model_v4 Ribonuclease H	0.100	166	132	266	431	6	153	1.231E-01	41
+DESULFOASV1_0506_terminase_family_protein	AF-Q9CWY8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9CWY8-F1-model_v4 Ribonuclease H2 subunit A	0.147	275	164	265	457	27	301	5.435E-02	41
+DESULFOASV1_0506_terminase_family_protein	AF-A5DC85-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5DC85-F1-model_v4 ATP-dependent RNA helicase DBP9	0.114	189	167	13	201	60	248	2.422E+00	41
+DESULFOASV1_0506_terminase_family_protein	AF-P63132-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P63132-F1-model_v4 Endogenous retrovirus group K member 113 Pol protein	0.076	406	356	37	422	376	781	3.490E-03	41
+DESULFOASV1_0506_terminase_family_protein	AF-Q2J0F8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2J0F8-F1-model_v4 Ribonuclease H	0.110	189	137	260	448	7	161	8.672E-02	40
+DESULFOASV1_0506_terminase_family_protein	AF-Q0D1P8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0D1P8-F1-model_v4 Lactoylglutathione lyase-like protein terB	0.142	70	46	60	129	130	184	2.208E-01	40
+DESULFOASV1_0506_terminase_family_protein	AF-Q2FPC6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2FPC6-F1-model_v4 UvrABC system protein C	0.092	415	301	33	447	184	516	2.458E-03	40
+DESULFOASV1_0506_terminase_family_protein	AF-Q6BLM5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6BLM5-F1-model_v4 ATP-dependent RNA helicase DBP9	0.132	186	160	24	209	60	244	2.285E+00	40
+DESULFOASV1_0506_terminase_family_protein	AF-O51889-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O51889-F1-model_v4 ATP-dependent DNA helicase Rep	0.134	65	54	9	73	1	63	2.886E+00	40
+DESULFOASV1_0506_terminase_family_protein	AF-Q8I7P9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8I7P9-F1-model_v4 Retrovirus-related Pol polyprotein from transposon opus	0.075	431	362	1	431	558	949	2.929E-03	40
+DESULFOASV1_0506_terminase_family_protein	AF-P44151-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P44151-F1-model_v4 Uncharacterized protein HI_1280	0.098	87	75	261	344	4	90	1.706E+00	39
+DESULFOASV1_0506_terminase_family_protein	AF-A1WXD7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1WXD7-F1-model_v4 Ribonuclease H	0.161	164	118	261	424	2	143	4.561E-02	39
+DESULFOASV1_0506_terminase_family_protein	AF-Q86XP6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q86XP6-F1-model_v4 Gastrokine-2	0.230	39	28	83	120	5	43	1.133E+00	39
+DESULFOASV1_0506_terminase_family_protein	AF-B5ZNA1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5ZNA1-F1-model_v4 Enolase	0.147	34	28	99	132	6	39	2.886E+00	39
+DESULFOASV1_0506_terminase_family_protein	AF-P64924-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P64924-F1-model_v4 Uncharacterized protein Mb2031c	0.108	221	155	1	221	47	221	5.623E-01	39
+DESULFOASV1_0506_terminase_family_protein	AF-P43807-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P43807-F1-model_v4 Ribonuclease HI	0.120	160	119	266	425	6	141	1.555E-01	38
+DESULFOASV1_0506_terminase_family_protein	AF-Q6N1Y3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6N1Y3-F1-model_v4 Ribonuclease H	0.123	167	125	258	424	2	144	6.865E-02	38
+DESULFOASV1_0506_terminase_family_protein	AF-Q21SD6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q21SD6-F1-model_v4 Type III pantothenate kinase	0.125	204	141	267	428	2	205	2.789E-01	38
+DESULFOASV1_0506_terminase_family_protein	AF-A6U8E5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6U8E5-F1-model_v4 Enolase	0.147	34	28	99	132	6	39	3.244E+00	38
+DESULFOASV1_0506_terminase_family_protein	AF-Q1MH36-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1MH36-F1-model_v4 Enolase	0.147	34	28	99	132	6	39	3.439E+00	38
+DESULFOASV1_0506_terminase_family_protein	AF-A1A3C7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1A3C7-F1-model_v4 ATP synthase subunit alpha	0.132	205	165	25	215	168	372	2.631E-01	38
+DESULFOASV1_0506_terminase_family_protein	AF-P57530-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P57530-F1-model_v4 RecBCD enzyme subunit RecD	0.100	416	295	24	352	165	580	6.476E-02	38
+DESULFOASV1_0506_terminase_family_protein	AF-A5CX29-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5CX29-F1-model_v4 Ribonuclease H	0.095	159	122	266	424	6	141	7.716E-02	37
+DESULFOASV1_0506_terminase_family_protein	AF-O05086-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O05086-F1-model_v4 Uncharacterized transposase-like protein HI_1721	0.095	176	157	206	380	5	180	2.208E-01	37
+DESULFOASV1_0506_terminase_family_protein	AF-A1VT30-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1VT30-F1-model_v4 Type III pantothenate kinase	0.104	200	144	267	428	2	201	5.003E-01	37
+DESULFOASV1_0506_terminase_family_protein	AF-B9KQU4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9KQU4-F1-model_v4 Enolase	0.117	34	29	99	132	6	39	3.646E+00	37
+DESULFOASV1_0506_terminase_family_protein	AF-Q4ULN5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4ULN5-F1-model_v4 Probable DNA helicase II homolog	0.213	75	54	10	84	10	78	4.097E+00	37
+DESULFOASV1_0506_terminase_family_protein	AF-A5D1P3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5D1P3-F1-model_v4 ATP-dependent helicase/nuclease subunit A	0.127	94	77	3	91	2	95	2.422E+00	37
+DESULFOASV1_0506_terminase_family_protein	AF-P84634-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P84634-F1-model_v4 Dicer-like protein 4	0.092	256	204	1	226	105	360	7.530E-01	37
+DESULFOASV1_0506_terminase_family_protein	AF-Q9UT35-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9UT35-F1-model_v4 Guanosine-diphosphatase	0.097	140	98	253	361	120	259	1.202E+00	36
+DESULFOASV1_0506_terminase_family_protein	AF-A1W0N0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1W0N0-F1-model_v4 UvrABC system protein C	0.113	388	312	67	454	210	562	9.988E-03	36
+DESULFOASV1_0506_terminase_family_protein	AF-P57654-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P57654-F1-model_v4 ATP-dependent DNA helicase Rep	0.179	65	51	9	73	1	63	3.646E+00	36
+DESULFOASV1_0506_terminase_family_protein	AF-O35387-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O35387-F1-model_v4 HCLS1-associated protein X-1	0.222	59	40	71	129	190	241	7.530E-01	35
+DESULFOASV1_0506_terminase_family_protein	AF-Q9CD72-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9CD72-F1-model_v4 ATP-dependent DNA helicase UvrD1	0.133	95	81	1	94	1	95	3.244E+00	35
+DESULFOASV1_0506_terminase_family_protein	AF-Q5ZVQ7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5ZVQ7-F1-model_v4 Ribonuclease H	0.132	159	116	266	424	4	138	2.789E-01	34
+DESULFOASV1_0506_terminase_family_protein	AF-Q0AV47-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0AV47-F1-model_v4 Ribonuclease H	0.134	124	99	266	380	5	128	3.960E-01	34
+DESULFOASV1_0506_terminase_family_protein	AF-C1DKJ6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1DKJ6-F1-model_v4 Type III pantothenate kinase	0.110	240	200	113	352	11	236	1.161E-01	34
+DESULFOASV1_0506_terminase_family_protein	AF-Q9US51-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9US51-F1-model_v4 Mitochondrial transcription factor 1	0.109	81	67	307	387	70	145	1.706E+00	34
+DESULFOASV1_0506_terminase_family_protein	AF-B7LQN0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7LQN0-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.169	56	44	262	317	1	54	1.008E+00	34
+DESULFOASV1_0506_terminase_family_protein	AF-O35162-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O35162-F1-model_v4 Heat shock 70 kDa protein 13	0.120	308	183	103	410	122	330	4.674E-03	34
+DESULFOASV1_0506_terminase_family_protein	AF-Q73I74-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q73I74-F1-model_v4 Ribonuclease H	0.093	159	122	266	424	7	141	4.451E-01	33
+DESULFOASV1_0506_terminase_family_protein	AF-B4R8T3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4R8T3-F1-model_v4 Ribonuclease H	0.120	190	133	261	450	1	152	2.083E-01	33
+DESULFOASV1_0506_terminase_family_protein	AF-B0B7L3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0B7L3-F1-model_v4 Ribonuclease 3	0.145	62	47	75	130	150	211	1.609E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-Q2KIE2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2KIE2-F1-model_v4 HCLS1-associated protein X-1	0.190	59	41	71	129	189	240	1.069E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-O00165-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O00165-F1-model_v4 HCLS1-associated protein X-1	0.152	59	43	71	129	189	240	1.809E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-B7M0J7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7M0J7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.155	56	45	262	317	1	54	1.432E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-C5BE34-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C5BE34-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.113	50	43	262	311	1	49	1.809E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-A7MMK0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7MMK0-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.101	140	92	262	364	1	140	1.518E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-A6W7G7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6W7G7-F1-model_v4 ATP synthase subunit alpha	0.128	205	166	25	215	168	372	7.983E-01	33
+DESULFOASV1_0506_terminase_family_protein	AF-P75437-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P75437-F1-model_v4 Probable DNA helicase II homolog	0.122	88	71	9	96	7	88	6.167E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-Q924H9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q924H9-F1-model_v4 ATP-dependent RNA helicase DQX1	0.087	184	158	14	197	47	220	3.865E+00	33
+DESULFOASV1_0506_terminase_family_protein	AF-Q54L71-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q54L71-F1-model_v4 Glyoxalase domain-containing protein 5 homolog	0.094	53	44	78	130	78	127	2.033E+00	32
+DESULFOASV1_0506_terminase_family_protein	AF-A6Q9N6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6Q9N6-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.123	154	94	263	370	1	154	1.917E+00	32
+DESULFOASV1_0506_terminase_family_protein	AF-B5Z474-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5Z474-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.110	140	91	262	364	1	140	1.609E+00	32
+DESULFOASV1_0506_terminase_family_protein	AF-B2VEN5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2VEN5-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.113	50	43	262	311	1	49	2.155E+00	32
+DESULFOASV1_0506_terminase_family_protein	AF-Q98QB6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q98QB6-F1-model_v4 ATP synthase subunit beta 2	0.118	204	176	3	206	109	309	2.083E-01	32
+DESULFOASV1_0506_terminase_family_protein	AF-B2KEX0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2KEX0-F1-model_v4 ATP synthase subunit alpha	0.112	157	132	26	175	165	321	6.700E-01	32
+DESULFOASV1_0506_terminase_family_protein	AF-P64321-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P64321-F1-model_v4 ATP-dependent DNA helicase UvrD2	0.106	487	399	1	447	1	487	5.003E-01	32
+DESULFOASV1_0506_terminase_family_protein	AF-Q58611-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q58611-F1-model_v4 Uncharacterized protein MJ1214	0.105	372	325	14	377	265	636	5.003E-01	32
+DESULFOASV1_0506_terminase_family_protein	AF-Q0AMI4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0AMI4-F1-model_v4 Ribonuclease H	0.140	166	124	266	431	5	149	2.341E-01	31
+DESULFOASV1_0506_terminase_family_protein	AF-A9MEH5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9MEH5-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.066	97	61	262	327	1	97	1.609E+00	31
+DESULFOASV1_0506_terminase_family_protein	AF-Q5R8D9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5R8D9-F1-model_v4 Heat shock 70 kDa protein 13	0.120	308	181	103	410	122	328	9.988E-03	31
+DESULFOASV1_0506_terminase_family_protein	AF-Q8TGG8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8TGG8-F1-model_v4 Probable guanosine-diphosphatase	0.106	179	129	266	410	65	243	3.960E-01	31
+DESULFOASV1_0506_terminase_family_protein	AF-B8HAZ1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8HAZ1-F1-model_v4 ATP synthase subunit alpha	0.105	205	170	25	215	168	372	8.972E-01	31
+DESULFOASV1_0506_terminase_family_protein	AF-Q92HZ6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q92HZ6-F1-model_v4 Probable DNA helicase II homolog	0.213	75	54	10	84	9	77	8.756E+00	31
+DESULFOASV1_0506_terminase_family_protein	AF-O54890-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O54890-F1-model_v4 Integrin beta-3	0.102	39	32	94	132	673	709	4.882E+00	31
+DESULFOASV1_0506_terminase_family_protein	AF-B5FR01-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5FR01-F1-model_v4 Cell division inhibitor SulA	0.081	172	124	4	175	11	146	1.917E+00	30
+DESULFOASV1_0506_terminase_family_protein	AF-B7L5J3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7L5J3-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.150	57	46	262	318	1	55	2.033E+00	30
+DESULFOASV1_0506_terminase_family_protein	AF-B7NTZ2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7NTZ2-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.152	56	45	262	317	1	54	2.033E+00	30
+DESULFOASV1_0506_terminase_family_protein	AF-A8GDX7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8GDX7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.146	86	61	262	347	1	73	8.972E-01	30
+DESULFOASV1_0506_terminase_family_protein	AF-Q2NT05-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2NT05-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.090	140	93	262	364	1	140	2.033E+00	30
+DESULFOASV1_0506_terminase_family_protein	AF-Q04SI9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q04SI9-F1-model_v4 Enolase	0.162	43	32	99	141	9	47	5.487E+00	30
+DESULFOASV1_0506_terminase_family_protein	AF-A0LDA2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0LDA2-F1-model_v4 ATP synthase subunit alpha	0.103	162	136	23	175	161	322	9.512E-01	30
+DESULFOASV1_0506_terminase_family_protein	AF-Q8I0H7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8I0H7-F1-model_v4 Heat shock 70 kDa protein, mitochondrial	0.106	317	192	103	419	120	335	1.690E-02	30
+DESULFOASV1_0506_terminase_family_protein	AF-P55656-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P55656-F1-model_v4 Uncharacterized peptidase y4sO	0.149	92	74	98	189	432	519	2.482E-01	30
+DESULFOASV1_0506_terminase_family_protein	AF-Q02322-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q02322-F1-model_v4 DNA helicase II	0.102	86	67	11	96	11	86	6.931E+00	30
+DESULFOASV1_0506_terminase_family_protein	AF-Q6CJV1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6CJV1-F1-model_v4 ATP-dependent RNA helicase DRS1	0.111	366	316	12	377	257	612	2.208E-01	30
+DESULFOASV1_0506_terminase_family_protein	AF-Q55801-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q55801-F1-model_v4 Ribonuclease HI	0.110	175	134	266	440	9	159	2.208E-01	29
+DESULFOASV1_0506_terminase_family_protein	AF-A1W3F9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1W3F9-F1-model_v4 Type III pantothenate kinase	0.101	255	212	98	352	2	238	2.482E-01	29
+DESULFOASV1_0506_terminase_family_protein	AF-P03009-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P03009-F1-model_v4 Probable transposase for transposon Tn903	0.135	221	177	219	424	74	294	5.961E-01	29
+DESULFOASV1_0506_terminase_family_protein	AF-Q3Z1Z6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3Z1Z6-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.152	56	45	262	317	1	54	2.568E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-Q0T4D5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0T4D5-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.152	56	45	262	317	1	54	2.568E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-B2U2E0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2U2E0-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.155	56	45	262	317	1	54	2.422E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-A1ABI5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1ABI5-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.089	140	93	262	364	1	140	1.609E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-Q32FD3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q32FD3-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.152	56	45	262	317	1	54	2.422E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-B1XFV2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1XFV2-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.155	56	45	262	317	1	54	2.568E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-Q0THI8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0THI8-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.152	56	45	262	317	1	54	2.568E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-C6DK28-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C6DK28-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.123	86	63	262	347	1	73	5.304E-01	29
+DESULFOASV1_0506_terminase_family_protein	AF-A1JNW9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1JNW9-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.078	86	66	262	347	1	73	1.350E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-B4THC3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4THC3-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.082	140	94	262	364	1	140	1.809E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-C0Q5T6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0Q5T6-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.077	108	64	262	331	1	108	1.609E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-P25604-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P25604-F1-model_v4 Suppressor protein STP22 of temperature-sensitive alpha-factor receptor and arginine permease	0.173	68	50	68	129	15	82	1.432E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-P55519-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P55519-F1-model_v4 Uncharacterized protein y4jS	0.103	270	213	58	327	1	238	2.482E-01	29
+DESULFOASV1_0506_terminase_family_protein	AF-Q4L4K7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4L4K7-F1-model_v4 Enolase	0.107	325	244	99	372	6	330	2.696E-02	29
+DESULFOASV1_0506_terminase_family_protein	AF-P48723-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P48723-F1-model_v4 Heat shock 70 kDa protein 13	0.123	291	162	103	393	122	307	1.594E-02	29
+DESULFOASV1_0506_terminase_family_protein	AF-P72245-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P72245-F1-model_v4 ATP synthase subunit alpha	0.098	208	169	23	210	161	368	1.432E+00	29
+DESULFOASV1_0506_terminase_family_protein	AF-P06701-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P06701-F1-model_v4 Regulatory protein SIR3	0.079	172	150	36	199	550	721	8.463E-01	29
+DESULFOASV1_0506_terminase_family_protein	AF-A1RY04-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1RY04-F1-model_v4 Endonuclease V	0.148	90	70	245	327	20	109	8.972E-01	28
+DESULFOASV1_0506_terminase_family_protein	AF-O58667-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O58667-F1-model_v4 Iron-sulfur cluster carrier protein	0.117	216	166	7	222	11	199	7.983E-01	28
+DESULFOASV1_0506_terminase_family_protein	AF-Q30NT6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q30NT6-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.155	106	67	266	371	3	82	7.983E-01	28
+DESULFOASV1_0506_terminase_family_protein	AF-B7URY1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7URY1-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.082	140	94	262	364	1	140	1.706E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-B1LEP6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1LEP6-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.088	140	93	262	364	1	140	1.706E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-Q1RBF5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1RBF5-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.089	140	93	262	364	1	140	1.917E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-P77570-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P77570-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.152	56	45	262	317	1	54	2.422E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-A9N037-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9N037-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.077	108	64	262	331	1	108	1.917E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-Q57PJ1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q57PJ1-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.080	140	94	262	364	1	140	1.518E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-Q5HQV0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5HQV0-F1-model_v4 Enolase	0.107	414	296	99	430	6	419	2.543E-02	28
+DESULFOASV1_0506_terminase_family_protein	AF-Q9ZIV1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9ZIV1-F1-model_v4 Chaperone protein DnaK	0.116	301	216	103	403	25	269	2.134E-02	28
+DESULFOASV1_0506_terminase_family_protein	AF-P44804-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P44804-F1-model_v4 ATP-dependent DNA helicase Rep	0.076	272	176	9	199	1	272	2.285E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-P9WMP8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P9WMP8-F1-model_v4 ATP-dependent DNA helicase UvrD2	0.108	487	398	1	447	1	487	1.274E+00	28
+DESULFOASV1_0506_terminase_family_protein	AF-B6IB79-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B6IB79-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.089	140	93	262	364	1	140	2.422E+00	27
+DESULFOASV1_0506_terminase_family_protein	AF-B7MVB8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7MVB8-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.088	140	93	262	364	1	140	2.155E+00	27
+DESULFOASV1_0506_terminase_family_protein	AF-Q6D5V5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6D5V5-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.123	86	63	262	347	1	73	8.972E-01	27
+DESULFOASV1_0506_terminase_family_protein	AF-Q7N3W4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7N3W4-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.102	85	64	263	347	4	75	2.155E+00	27
+DESULFOASV1_0506_terminase_family_protein	AF-B4T583-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4T583-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.080	140	94	262	364	1	140	1.706E+00	27
+DESULFOASV1_0506_terminase_family_protein	AF-B4TV05-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4TV05-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.080	140	94	262	364	1	140	1.706E+00	27
+DESULFOASV1_0506_terminase_family_protein	AF-B5BKC3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5BKC3-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.080	140	94	262	364	1	140	1.706E+00	27
+DESULFOASV1_0506_terminase_family_protein	AF-B9EAH1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9EAH1-F1-model_v4 Enolase	0.108	411	291	99	425	6	416	5.127E-02	27
+DESULFOASV1_0506_terminase_family_protein	AF-Q8CPY3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8CPY3-F1-model_v4 Enolase	0.114	411	289	99	425	6	416	4.302E-02	27
+DESULFOASV1_0506_terminase_family_protein	AF-O69174-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O69174-F1-model_v4 Enolase	0.113	414	296	99	433	6	419	4.302E-02	27
+DESULFOASV1_0506_terminase_family_protein	AF-A7WZT2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7WZT2-F1-model_v4 Enolase	0.124	355	253	99	388	6	360	3.030E-02	27
+DESULFOASV1_0506_terminase_family_protein	AF-Q05746-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q05746-F1-model_v4 Heat shock 70 kDa protein	0.110	322	194	103	424	104	322	6.476E-02	27
+DESULFOASV1_0506_terminase_family_protein	AF-O32215-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O32215-F1-model_v4 DNA helicase IV	0.096	184	141	14	197	616	772	3.439E+00	27
+DESULFOASV1_0506_terminase_family_protein	AF-A4T7D7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4T7D7-F1-model_v4 Urease accessory protein UreG	0.113	195	143	25	219	5	166	2.568E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-B7NB94-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7NB94-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.088	140	93	262	364	1	140	2.285E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-C4ZYA3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C4ZYA3-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.095	140	92	262	364	1	140	2.285E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-Q320Z7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q320Z7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.088	140	93	262	364	1	140	2.422E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-B7M9Z4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7M9Z4-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.088	140	93	262	364	1	140	2.568E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-Q8FH85-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8FH85-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.084	141	92	262	362	1	141	2.886E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-B4EWL8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4EWL8-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.093	86	65	262	347	1	73	3.646E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-B5F6K1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5F6K1-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.081	140	94	262	364	1	140	2.568E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-B5QV13-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5QV13-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.080	140	94	262	364	1	140	1.917E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-B5RAL3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5RAL3-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.118	56	47	262	317	1	54	3.244E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-P64075-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P64075-F1-model_v4 Enolase	0.121	352	255	99	389	6	357	8.672E-02	26
+DESULFOASV1_0506_terminase_family_protein	AF-A8Z1A4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8Z1A4-F1-model_v4 Enolase	0.124	355	253	99	388	6	360	5.762E-02	26
+DESULFOASV1_0506_terminase_family_protein	AF-P64079-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P64079-F1-model_v4 Enolase	0.124	355	253	99	388	6	360	4.836E-02	26
+DESULFOASV1_0506_terminase_family_protein	AF-Q2YSE8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2YSE8-F1-model_v4 Enolase	0.122	355	254	99	388	6	360	4.561E-02	26
+DESULFOASV1_0506_terminase_family_protein	AF-Q6GB54-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6GB54-F1-model_v4 Enolase	0.124	355	253	99	388	6	360	4.302E-02	26
+DESULFOASV1_0506_terminase_family_protein	AF-P64078-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P64078-F1-model_v4 Enolase	0.127	351	251	99	387	6	356	5.435E-02	26
+DESULFOASV1_0506_terminase_family_protein	AF-P75438-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P75438-F1-model_v4 Probable DNA helicase MPN_340	0.110	207	169	21	227	316	506	2.886E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-P08418-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P08418-F1-model_v4 Heat shock 70 kDa protein homolog	0.095	323	195	103	425	91	306	5.127E-02	26
+DESULFOASV1_0506_terminase_family_protein	AF-P9WMP9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P9WMP9-F1-model_v4 ATP-dependent DNA helicase UvrD2	0.104	487	400	1	447	1	487	2.033E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-A5DKW3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5DKW3-F1-model_v4 ATP-dependent RNA helicase DRS1	0.110	448	394	12	455	222	669	1.133E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-Q6Q899-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6Q899-F1-model_v4 Antiviral innate immune response receptor RIG-I	0.093	220	198	1	220	234	452	4.605E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-Q5N870-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5N870-F1-model_v4 Endoribonuclease Dicer homolog 3a	0.097	175	154	1	175	22	193	9.841E+00	26
+DESULFOASV1_0506_terminase_family_protein	AF-Q9V0D9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9V0D9-F1-model_v4 Iron-sulfur cluster carrier protein	0.115	226	170	5	230	9	201	1.274E+00	25
+DESULFOASV1_0506_terminase_family_protein	AF-A8A0I3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8A0I3-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.152	56	45	262	317	1	54	3.244E+00	25
+DESULFOASV1_0506_terminase_family_protein	AF-B1IQB4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1IQB4-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.088	140	93	262	364	1	140	3.060E+00	25
+DESULFOASV1_0506_terminase_family_protein	AF-B1HVS4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1HVS4-F1-model_v4 Enolase	0.089	379	263	99	388	6	384	1.555E-01	25
+DESULFOASV1_0506_terminase_family_protein	AF-Q49W03-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q49W03-F1-model_v4 Enolase	0.109	414	295	99	430	6	419	7.278E-02	25
+DESULFOASV1_0506_terminase_family_protein	AF-B9DJJ9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9DJJ9-F1-model_v4 Enolase	0.105	414	296	99	430	6	419	7.278E-02	25
+DESULFOASV1_0506_terminase_family_protein	AF-B1VMF3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1VMF3-F1-model_v4 Chaperone protein DnaK	0.109	164	111	261	424	157	282	3.960E-01	25
+DESULFOASV1_0506_terminase_family_protein	AF-B3CNB5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3CNB5-F1-model_v4 Chaperone protein DnaK	0.113	322	192	103	424	90	306	5.435E-02	25
+DESULFOASV1_0506_terminase_family_protein	AF-B8FGS3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8FGS3-F1-model_v4 Chaperone protein DnaK	0.101	329	200	103	431	92	314	5.762E-02	25
+DESULFOASV1_0506_terminase_family_protein	AF-A0RZ01-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0RZ01-F1-model_v4 Chaperone protein DnaK	0.114	141	98	263	403	163	274	3.324E-01	25
+DESULFOASV1_0506_terminase_family_protein	AF-Q1QT13-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1QT13-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.119	82	60	266	347	2	70	4.605E+00	24
+DESULFOASV1_0506_terminase_family_protein	AF-A4W9V7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4W9V7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.100	86	65	262	347	1	73	1.809E+00	24
+DESULFOASV1_0506_terminase_family_protein	AF-B8HQY9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8HQY9-F1-model_v4 Enolase	0.113	347	256	99	388	8	354	1.305E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q8ENP5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8ENP5-F1-model_v4 Enolase	0.104	375	258	100	388	7	381	2.482E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q5HHP1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5HHP1-F1-model_v4 Enolase	0.124	355	253	99	388	6	360	9.194E-02	24
+DESULFOASV1_0506_terminase_family_protein	AF-B3EU98-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3EU98-F1-model_v4 ATP synthase subunit alpha	0.113	179	157	23	200	163	341	2.155E+00	24
+DESULFOASV1_0506_terminase_family_protein	AF-A1UUC3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1UUC3-F1-model_v4 Chaperone protein DnaK	0.089	329	202	103	431	92	314	1.467E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q21CI2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q21CI2-F1-model_v4 Chaperone protein DnaK	0.105	322	192	103	424	92	307	1.033E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-A5FZ19-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5FZ19-F1-model_v4 Chaperone protein DnaK	0.098	326	206	103	428	92	320	1.555E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q5GSE1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5GSE1-F1-model_v4 Chaperone protein DnaK	0.100	322	194	103	424	86	302	6.476E-02	24
+DESULFOASV1_0506_terminase_family_protein	AF-B7J282-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7J282-F1-model_v4 Chaperone protein DnaK	0.083	329	205	103	431	90	314	1.231E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q1AXX6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1AXX6-F1-model_v4 Chaperone protein DnaK	0.104	301	178	103	403	91	290	1.305E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q05981-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q05981-F1-model_v4 Chaperone protein DnaK	0.093	340	205	85	424	81	307	8.672E-02	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q5LG30-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5LG30-F1-model_v4 Chaperone protein DnaK	0.104	326	257	103	428	90	377	1.231E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-C0R3W7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0R3W7-F1-model_v4 Chaperone protein DnaK	0.102	322	194	103	424	90	306	1.096E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-P0DMV9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0DMV9-F1-model_v4 Heat shock 70 kDa protein 1B	0.086	301	185	103	403	93	295	1.649E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q2VYT1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2VYT1-F1-model_v4 Chaperone protein DnaK	0.110	326	197	103	428	92	313	1.161E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-P16019-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P16019-F1-model_v4 Heat shock 70 kDa protein	0.111	322	194	103	424	92	310	1.467E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-P24067-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P24067-F1-model_v4 Luminal-binding protein 2	0.114	301	179	103	403	122	324	1.305E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-P11144-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P11144-F1-model_v4 Heat shock 70 kDa protein	0.109	322	194	103	424	104	322	1.161E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-P55627-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P55627-F1-model_v4 Uncharacterized peptidase y4qF	0.104	97	85	93	189	455	550	7.530E-01	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q07E41-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q07E41-F1-model_v4 Cortactin-binding protein 2	0.089	226	175	15	240	1112	1304	2.722E+00	24
+DESULFOASV1_0506_terminase_family_protein	AF-Q8Z6Q0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8Z6Q0-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.094	113	82	262	374	1	91	1.809E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-B5FIF7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5FIF7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.110	113	80	262	374	1	91	1.069E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-A6T9Y8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6T9Y8-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.116	56	47	262	317	1	54	3.865E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-B5XWN7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5XWN7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.100	56	48	262	317	1	54	3.865E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-O94710-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O94710-F1-model_v4 tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial	0.076	127	92	267	367	40	166	6.167E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-A7HXW7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7HXW7-F1-model_v4 Enolase	0.098	323	242	99	367	6	328	2.631E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q24MW5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q24MW5-F1-model_v4 Enolase 2	0.100	319	246	99	372	6	324	2.482E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-B0S1G7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0S1G7-F1-model_v4 Enolase	0.110	405	290	99	425	6	410	2.957E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-B8J467-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8J467-F1-model_v4 Enolase	0.106	322	238	100	366	7	328	2.482E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-O32513-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O32513-F1-model_v4 Enolase	0.111	350	258	99	389	6	355	1.748E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-A1VGV5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1VGV5-F1-model_v4 Enolase	0.103	430	302	99	436	6	435	2.482E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q4AA88-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4AA88-F1-model_v4 Enolase	0.085	360	253	99	376	6	365	2.957E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-A2VD93-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A2VD93-F1-model_v4 Heat shock 70 kDa protein 14-B	0.088	327	209	102	428	89	318	2.083E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q11YP1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q11YP1-F1-model_v4 ATP synthase subunit alpha	0.090	179	161	23	200	163	341	2.886E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-A4IR31-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4IR31-F1-model_v4 Chaperone protein DnaK	0.107	328	253	98	425	13	296	7.716E-02	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q9KWS7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9KWS7-F1-model_v4 Chaperone protein DnaK	0.103	322	238	98	419	13	278	1.161E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-P44669-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P44669-F1-model_v4 Chaperone protein HscA homolog	0.087	322	184	83	404	94	295	1.305E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-A3D573-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A3D573-F1-model_v4 Chaperone protein HscA homolog	0.108	333	194	87	419	94	311	6.476E-02	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q4G366-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4G366-F1-model_v4 Chaperone protein dnaK	0.085	303	185	103	405	90	292	1.467E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q6G1F9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6G1F9-F1-model_v4 Chaperone protein DnaK	0.092	329	202	103	431	92	314	1.649E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-A9ILH7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9ILH7-F1-model_v4 Chaperone protein DnaK	0.104	345	207	87	431	83	314	1.305E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-P0C922-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0C922-F1-model_v4 Chaperone protein DnaK	0.083	329	205	103	431	90	314	1.467E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q73GL7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q73GL7-F1-model_v4 Chaperone protein DnaK	0.102	322	194	103	424	90	306	1.853E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q27031-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q27031-F1-model_v4 Heat shock 70 kDa protein	0.110	322	194	103	424	92	310	1.649E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q07437-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q07437-F1-model_v4 Heat shock 70 kDa protein	0.082	301	188	103	403	93	298	1.965E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-P07823-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P07823-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.101	320	191	84	403	107	320	1.161E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q5N0G0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5N0G0-F1-model_v4 Chaperone protein DnaK 3	0.088	301	184	103	403	90	292	2.957E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-P29844-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P29844-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.092	301	183	103	403	119	320	2.208E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-P27542-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P27542-F1-model_v4 Chaperone protein DnaK	0.081	322	198	103	424	95	310	1.384E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q59536-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q59536-F1-model_v4 Protease 2	0.122	139	101	93	231	407	522	4.719E-01	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q06903-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q06903-F1-model_v4 Prolyl endopeptidase	0.136	88	64	98	185	420	494	1.706E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-P53528-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P53528-F1-model_v4 ATP-dependent DNA helicase UvrD2	0.113	493	396	1	447	1	493	2.886E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q2IBA2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2IBA2-F1-model_v4 Cortactin-binding protein 2	0.083	226	176	15	240	1110	1302	1.706E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-Q2QLA2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2QLA2-F1-model_v4 Cortactin-binding protein 2	0.094	226	174	15	240	1112	1304	3.439E+00	23
+DESULFOASV1_0506_terminase_family_protein	AF-P16942-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P16942-F1-model_v4 Transposase for insertion sequence element IS629	0.109	221	173	33	227	43	263	7.983E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q5E084-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5E084-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.148	80	57	266	345	2	69	6.167E+00	22
+DESULFOASV1_0506_terminase_family_protein	AF-B3GYL7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3GYL7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.090	77	57	262	338	1	64	8.259E+00	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q0WEF0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0WEF0-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.129	113	78	262	374	1	91	2.155E+00	22
+DESULFOASV1_0506_terminase_family_protein	AF-A9IS50-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9IS50-F1-model_v4 Enolase	0.080	343	262	99	384	6	348	2.789E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-B3CNP3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3CNP3-F1-model_v4 Enolase	0.081	347	267	99	389	8	354	2.631E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-B7J6R4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7J6R4-F1-model_v4 Enolase	0.118	349	256	99	389	6	354	2.789E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q9F2Q3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9F2Q3-F1-model_v4 Enolase 1	0.101	351	261	98	388	2	352	2.957E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-B3Q6L0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3Q6L0-F1-model_v4 Enolase	0.098	405	294	99	425	6	410	3.524E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A8M2Y3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8M2Y3-F1-model_v4 Enolase	0.097	347	261	99	388	6	352	2.957E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-B4EDA1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4EDA1-F1-model_v4 Enolase	0.105	350	260	99	389	6	355	2.957E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q2SXC5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2SXC5-F1-model_v4 Enolase	0.102	350	260	99	389	6	355	3.324E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A5EK13-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5EK13-F1-model_v4 Enolase	0.103	349	259	99	388	6	354	2.789E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-B4RMD8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4RMD8-F1-model_v4 Enolase	0.102	350	260	99	389	6	355	2.083E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q3A578-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3A578-F1-model_v4 Enolase	0.095	351	262	99	389	6	356	2.957E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A9LZL4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9LZL4-F1-model_v4 Enolase	0.110	350	258	99	389	6	355	2.208E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q3BUT0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3BUT0-F1-model_v4 Enolase	0.114	331	244	99	374	6	336	5.304E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q3AVW5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3AVW5-F1-model_v4 Enolase	0.105	345	259	99	388	11	355	1.853E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-B8DDA1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8DDA1-F1-model_v4 Enolase	0.121	352	255	99	389	6	357	2.957E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A9BDH2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9BDH2-F1-model_v4 Enolase	0.093	346	262	99	388	11	356	2.482E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A6TZQ5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6TZQ5-F1-model_v4 Enolase	0.130	355	251	99	388	6	360	1.467E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q14IC0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q14IC0-F1-model_v4 Enolase	0.113	324	237	99	366	7	330	3.135E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-P14834-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P14834-F1-model_v4 Heat shock 70 kDa protein	0.101	344	209	103	446	93	325	1.853E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q876N3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q876N3-F1-model_v4 Ribosome-associated molecular chaperone SSB	0.086	324	275	103	404	95	418	1.350E+00	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q60C59-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q60C59-F1-model_v4 Chaperone protein HscA homolog	0.107	157	111	269	425	199	323	8.972E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A5UAB3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5UAB3-F1-model_v4 Chaperone protein HscA homolog	0.094	322	182	83	404	94	295	3.135E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A6WNY1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6WNY1-F1-model_v4 Chaperone protein HscA homolog	0.108	333	194	87	419	94	311	7.716E-02	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q0HVP0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0HVP0-F1-model_v4 Chaperone protein HscA homolog	0.084	327	197	102	428	105	320	1.305E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A4SYY9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4SYY9-F1-model_v4 Chaperone protein HscA homolog	0.123	166	114	260	425	195	325	7.103E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q4UJK7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4UJK7-F1-model_v4 Chaperone protein DnaK	0.077	322	198	103	424	91	306	2.208E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A8IPT1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8IPT1-F1-model_v4 Chaperone protein DnaK	0.105	322	192	103	424	92	307	1.305E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-B5RM75-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5RM75-F1-model_v4 Chaperone protein DnaK	0.084	329	205	103	431	90	314	2.083E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-P50019-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P50019-F1-model_v4 Chaperone protein DnaK	0.121	342	208	87	428	83	320	2.083E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-P96133-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P96133-F1-model_v4 Chaperone protein DnaK	0.109	326	195	103	428	92	311	1.748E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q0SMZ0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0SMZ0-F1-model_v4 Chaperone protein DnaK	0.086	323	212	103	425	90	322	2.208E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q661A3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q661A3-F1-model_v4 Chaperone protein DnaK	0.084	302	189	103	404	90	296	2.789E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-C0QGP6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0QGP6-F1-model_v4 Chaperone protein DnaK	0.101	329	200	103	431	92	314	2.083E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q8FXX2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8FXX2-F1-model_v4 Chaperone protein DnaK	0.096	338	202	87	424	83	307	1.649E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q57AD7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q57AD7-F1-model_v4 Chaperone protein DnaK	0.113	329	197	103	431	92	314	2.083E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-A6L2X7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6L2X7-F1-model_v4 Chaperone protein DnaK	0.104	300	178	103	402	90	289	2.957E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q39PT7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q39PT7-F1-model_v4 Chaperone protein DnaK	0.097	317	194	103	419	92	307	2.482E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q7YQC6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7YQC6-F1-model_v4 Heat shock 70 kDa protein 1	0.102	301	181	103	403	93	295	2.208E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q5R7D3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5R7D3-F1-model_v4 Heat shock 70 kDa protein 1	0.086	301	185	103	403	93	295	2.631E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-P20583-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P20583-F1-model_v4 Heat shock 70 kDa protein, mitochondrial	0.099	322	195	103	424	116	332	1.384E-01	22
+DESULFOASV1_0506_terminase_family_protein	AF-Q9P2P1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9P2P1-F1-model_v4 Protein NYNRIN	0.107	399	293	79	407	1132	1530	6.108E-02	22
+DESULFOASV1_0506_terminase_family_protein	AF-P45945-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P45945-F1-model_v4 Uncharacterized protein YqcK	0.047	113	99	26	130	5	117	2.722E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-B3LUL5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3LUL5-F1-model_v4 ATP-dependent kinase YFH7	0.099	313	169	33	221	3	315	1.202E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-B1JJ75-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1JJ75-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.129	113	78	262	374	1	91	2.722E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-A7FHL7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7FHL7-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.129	113	78	262	374	1	91	2.722E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q8ZPN1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8ZPN1-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.110	113	80	262	374	1	91	1.706E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q5GTG4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5GTG4-F1-model_v4 Enolase	0.086	403	298	99	425	8	410	3.736E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-P48285-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P48285-F1-model_v4 Enolase	0.101	351	261	99	389	6	356	3.524E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B2URY4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2URY4-F1-model_v4 Enolase	0.101	351	261	99	389	6	356	4.451E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B1Y4K4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1Y4K4-F1-model_v4 Enolase	0.117	405	288	99	425	6	410	2.957E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q8TUV6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8TUV6-F1-model_v4 Enolase	0.089	350	263	99	388	6	355	3.135E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-A1TLS5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1TLS5-F1-model_v4 Enolase	0.106	351	259	99	389	6	356	3.135E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q2NAQ1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2NAQ1-F1-model_v4 Enolase	0.098	349	261	99	388	6	354	3.736E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q2P1K8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2P1K8-F1-model_v4 Enolase	0.103	410	296	99	429	6	415	3.960E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-P64074-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P64074-F1-model_v4 Enolase	0.121	352	255	99	389	6	357	5.003E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q71WX1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q71WX1-F1-model_v4 Enolase	0.117	326	237	99	367	6	331	5.304E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q215A2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q215A2-F1-model_v4 Enolase	0.105	405	292	99	425	6	410	4.451E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q0I6K2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0I6K2-F1-model_v4 Enolase	0.093	345	262	99	388	11	355	2.789E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q72XY5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q72XY5-F1-model_v4 Enolase	0.111	353	258	99	389	6	358	3.736E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q316Q0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q316Q0-F1-model_v4 Enolase	0.105	350	260	99	389	6	355	4.199E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B7HED2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7HED2-F1-model_v4 Enolase	0.108	353	259	99	389	6	358	3.960E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q99M31-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q99M31-F1-model_v4 Heat shock 70 kDa protein 14	0.104	344	206	104	447	91	321	2.789E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q54MR6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q54MR6-F1-model_v4 Heat shock 70-related protein 5	0.082	325	218	103	427	93	331	2.341E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q5LD82-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5LD82-F1-model_v4 ATP synthase subunit alpha	0.105	214	184	23	229	164	377	3.646E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q45551-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q45551-F1-model_v4 Chaperone protein DnaK	0.102	328	254	98	425	13	296	1.748E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B1YKS9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1YKS9-F1-model_v4 Chaperone protein DnaK	0.106	322	233	107	428	29	290	2.083E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q5WHG1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5WHG1-F1-model_v4 Chaperone protein DnaK	0.098	313	227	107	419	29	281	1.467E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-P17820-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P17820-F1-model_v4 Chaperone protein DnaK	0.104	306	228	98	403	13	268	1.748E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-O87777-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O87777-F1-model_v4 Chaperone protein DnaK	0.128	331	243	98	428	13	292	1.305E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q707W3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q707W3-F1-model_v4 Ribosome-associated molecular chaperone SSB1	0.103	326	200	103	428	95	318	5.003E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B8FUN4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8FUN4-F1-model_v4 Chaperone protein DnaK	0.088	170	125	259	428	156	293	1.274E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q1WUE8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1WUE8-F1-model_v4 Chaperone protein DnaK	0.104	265	145	140	404	110	272	3.524E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-P26823-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P26823-F1-model_v4 Chaperone protein DnaK	0.100	322	241	107	428	29	297	2.208E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q0SRE3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0SRE3-F1-model_v4 Chaperone protein DnaK	0.106	331	254	98	428	13	297	1.384E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q0HJF0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0HJF0-F1-model_v4 Chaperone protein HscA homolog	0.078	339	212	90	428	94	324	1.555E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-A8H2N0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8H2N0-F1-model_v4 Chaperone protein HscA homolog	0.104	322	203	82	403	70	297	1.853E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B3R475-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3R475-F1-model_v4 Chaperone protein HscA homolog	0.111	164	110	265	428	199	323	1.706E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-B1JV00-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1JV00-F1-model_v4 Chaperone protein HscA homolog	0.094	164	108	265	428	199	318	1.274E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q0W874-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0W874-F1-model_v4 Chaperone protein DnaK	0.107	325	233	107	431	29	290	1.384E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-A7GHH6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7GHH6-F1-model_v4 Chaperone protein DnaK	0.115	306	226	98	403	13	268	1.305E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-A7IC65-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7IC65-F1-model_v4 Chaperone protein DnaK	0.098	326	199	103	428	92	313	2.083E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q0BW82-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0BW82-F1-model_v4 Chaperone protein DnaK	0.115	322	190	103	424	92	307	1.965E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B2IBR4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2IBR4-F1-model_v4 Chaperone protein DnaK	0.077	326	204	103	428	92	313	2.789E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q11KJ6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q11KJ6-F1-model_v4 Chaperone protein DnaK	0.102	329	199	103	431	92	314	2.789E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q8YE76-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8YE76-F1-model_v4 Chaperone protein DnaK	0.098	322	194	103	424	92	307	2.341E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q1MN11-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1MN11-F1-model_v4 Chaperone protein DnaK	0.105	321	192	104	424	93	307	2.957E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q28222-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q28222-F1-model_v4 Heat shock 70 kDa protein 1	0.107	329	197	103	431	93	314	2.341E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-B5ZWQ2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5ZWQ2-F1-model_v4 Chaperone protein DnaK	0.125	322	188	103	424	92	307	3.324E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-P17879-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P17879-F1-model_v4 Heat shock 70 kDa protein 1B	0.096	301	183	103	403	93	295	3.960E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q1IT15-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1IT15-F1-model_v4 Chaperone protein DnaK	0.109	303	180	103	405	90	292	3.324E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q91291-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q91291-F1-model_v4 Heat shock 70 kDa protein	0.074	144	100	260	403	189	297	1.917E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q01877-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q01877-F1-model_v4 Heat shock protein HSS1	0.086	326	203	103	428	91	313	3.324E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q8T869-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8T869-F1-model_v4 Luminal-binding protein 2	0.106	301	181	103	403	121	323	2.631E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-P27420-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P27420-F1-model_v4 Heat shock 70 kDa protein C	0.090	301	183	103	403	124	325	4.199E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q8H1B3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8H1B3-F1-model_v4 Heat shock 70 kDa protein BIP3	0.111	301	179	103	403	139	340	2.789E-01	21
+DESULFOASV1_0506_terminase_family_protein	AF-P27195-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P27195-F1-model_v4 Prolyl endopeptidase	0.138	92	72	98	189	438	521	2.722E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q8C167-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8C167-F1-model_v4 Prolyl endopeptidase-like	0.102	184	129	94	238	429	612	3.865E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q06068-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q06068-F1-model_v4 97 kDa heat shock protein	0.082	175	125	245	419	177	313	1.008E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q54NL0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q54NL0-F1-model_v4 Rho GTPase-activating protein gacT	0.090	65	49	262	316	380	444	4.882E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q04351-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q04351-F1-model_v4 Ftsk domain-containing protein CA_C3709	0.079	399	336	23	388	1011	1409	1.432E+00	21
+DESULFOASV1_0506_terminase_family_protein	AF-Q83KX8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q83KX8-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.130	159	108	262	420	1	125	1.518E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-A7ZMA2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7ZMA2-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.125	134	114	262	395	1	131	2.155E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q1C788-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1C788-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.129	113	78	262	374	1	91	3.439E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q8L202-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8L202-F1-model_v4 Enolase	0.071	348	268	99	388	6	353	4.199E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-C0R5N4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0R5N4-F1-model_v4 Enolase	0.081	406	303	99	429	7	412	6.700E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-C1A7Y3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1A7Y3-F1-model_v4 Enolase	0.099	349	259	100	388	7	355	4.719E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B0SYX8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0SYX8-F1-model_v4 Enolase	0.089	349	263	99	388	6	354	4.719E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B2JIX0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2JIX0-F1-model_v4 Enolase	0.105	324	240	99	367	6	329	6.700E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q89KV6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q89KV6-F1-model_v4 Enolase	0.083	349	265	99	388	6	354	4.451E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A4JFY5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4JFY5-F1-model_v4 Enolase	0.108	324	239	99	367	6	329	6.700E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B1JUY6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1JUY6-F1-model_v4 Enolase	0.102	324	241	99	367	6	329	7.530E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q13X07-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q13X07-F1-model_v4 Enolase	0.102	324	241	99	367	6	329	8.463E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q1BHS0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1BHS0-F1-model_v4 Enolase	0.097	350	262	99	389	6	355	6.320E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q2G662-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2G662-F1-model_v4 Enolase	0.121	323	235	99	366	6	328	7.103E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q8PLS0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8PLS0-F1-model_v4 Enolase	0.108	351	258	99	388	6	356	6.700E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A0ALD9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0ALD9-F1-model_v4 Enolase	0.120	352	255	99	389	6	357	3.960E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q815K8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q815K8-F1-model_v4 Enolase	0.104	353	260	99	389	6	358	5.304E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q6HBF3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6HBF3-F1-model_v4 Enolase	0.101	353	261	99	389	6	358	6.320E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P77972-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P77972-F1-model_v4 Enolase	0.095	348	262	99	388	11	358	4.199E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A2C038-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A2C038-F1-model_v4 Enolase	0.087	346	264	99	388	11	356	4.451E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q72F92-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q72F92-F1-model_v4 Enolase	0.119	350	255	99	389	6	355	5.304E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q4A8B5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4A8B5-F1-model_v4 Enolase	0.093	347	244	99	368	6	352	7.983E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q92260-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q92260-F1-model_v4 Heat shock 70 kDa protein	0.068	143	100	261	403	56	163	3.646E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-A5FL34-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5FL34-F1-model_v4 ATP synthase subunit alpha	0.075	217	174	23	211	163	379	6.931E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-B6YR06-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B6YR06-F1-model_v4 ATP synthase subunit alpha	0.098	179	160	23	200	163	341	4.344E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q8A9U7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8A9U7-F1-model_v4 ATP synthase subunit alpha	0.090	179	161	23	200	164	342	4.605E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-A6L4M4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6L4M4-F1-model_v4 ATP synthase subunit alpha	0.098	179	160	23	200	164	342	4.605E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q54BD8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q54BD8-F1-model_v4 Heat shock cognate 70 kDa protein 4	0.095	326	207	103	428	91	320	5.003E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B7GKC8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7GKC8-F1-model_v4 Chaperone protein DnaK	0.105	328	254	98	425	13	297	2.208E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B9E6X1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9E6X1-F1-model_v4 Chaperone protein DnaK	0.126	301	212	103	403	25	268	2.341E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-C5D4U1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C5D4U1-F1-model_v4 Chaperone protein DnaK	0.095	328	256	98	425	13	296	1.965E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P11484-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P11484-F1-model_v4 Ribosome-associated molecular chaperone SSB1	0.102	326	200	103	428	95	318	5.003E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P40150-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P40150-F1-model_v4 Ribosome-associated molecular chaperone SSB2	0.097	326	201	103	428	95	318	5.003E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P49463-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P49463-F1-model_v4 Chaperone protein dnaK	0.102	303	182	103	405	90	293	4.199E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A4SP09-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4SP09-F1-model_v4 Chaperone protein HscA homolog	0.092	303	173	102	404	103	294	3.736E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B4TDB2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4TDB2-F1-model_v4 Chaperone protein HscA	0.092	346	261	83	428	94	381	3.135E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q9TLT1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9TLT1-F1-model_v4 Chaperone protein dnaK	0.088	326	210	103	428	90	320	3.960E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q54215-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q54215-F1-model_v4 Chaperone protein DnaK	0.099	327	242	98	424	13	282	1.965E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q05558-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q05558-F1-model_v4 Chaperone protein DnaK	0.095	367	253	58	424	2	282	2.631E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A0LWS7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0LWS7-F1-model_v4 Chaperone protein DnaK	0.094	322	246	98	419	13	284	1.853E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q4QNG9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4QNG9-F1-model_v4 Chaperone protein HscA homolog	0.092	348	262	83	430	94	382	3.960E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A5UGH6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5UGH6-F1-model_v4 Chaperone protein HscA homolog	0.090	322	183	83	404	94	295	3.524E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B1KNI7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1KNI7-F1-model_v4 Chaperone protein HscA homolog	0.088	327	195	102	428	105	319	2.789E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A4Y7D3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4Y7D3-F1-model_v4 Chaperone protein HscA homolog	0.096	339	204	90	428	94	320	2.631E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q82EX9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q82EX9-F1-model_v4 Chaperone protein dnaK1	0.121	327	236	98	424	13	282	1.748E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B1ILM3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1ILM3-F1-model_v4 Chaperone protein DnaK	0.100	328	243	98	425	13	283	1.555E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-C3L3G7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C3L3G7-F1-model_v4 Chaperone protein DnaK	0.105	306	228	98	403	13	268	1.384E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q6AC76-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6AC76-F1-model_v4 Chaperone protein DnaK	0.110	376	263	58	433	2	298	1.965E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A8GMF9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8GMF9-F1-model_v4 Chaperone protein DnaK	0.080	322	198	103	424	91	306	4.199E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B0T138-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0T138-F1-model_v4 Chaperone protein DnaK	0.085	326	202	103	428	92	313	3.524E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q13E60-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q13E60-F1-model_v4 Chaperone protein DnaK	0.111	322	191	103	424	92	307	3.524E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P14659-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P14659-F1-model_v4 Heat shock-related 70 kDa protein 2	0.089	326	204	103	428	94	318	5.003E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-A9A135-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9A135-F1-model_v4 Chaperone protein DnaK	0.109	300	206	104	403	44	275	2.482E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q3Z6P1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3Z6P1-F1-model_v4 Chaperone protein DnaK	0.100	329	200	103	431	97	319	2.083E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q64X01-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q64X01-F1-model_v4 Chaperone protein DnaK	0.100	301	182	103	403	90	292	6.700E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q61696-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q61696-F1-model_v4 Heat shock 70 kDa protein 1A	0.073	301	187	103	403	93	295	4.719E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P53623-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P53623-F1-model_v4 Heat shock protein 70 2	0.085	301	185	103	403	91	293	5.003E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P18694-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P18694-F1-model_v4 Heat shock 70 kDa protein 2	0.089	301	184	103	403	91	293	5.961E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q73Q16-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q73Q16-F1-model_v4 Chaperone protein DnaK	0.077	182	129	243	424	166	306	8.972E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q71U34-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q71U34-F1-model_v4 Heat shock cognate 71 kDa protein	0.083	323	197	103	425	93	308	5.003E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P19120-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P19120-F1-model_v4 Heat shock cognate 71 kDa protein	0.087	323	196	103	425	93	308	3.524E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-B0BC31-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0BC31-F1-model_v4 Chaperone protein DnaK	0.093	329	201	103	431	95	317	3.135E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P17821-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P17821-F1-model_v4 Chaperone protein DnaK	0.087	329	203	103	431	95	317	3.524E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P19208-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P19208-F1-model_v4 Heat shock 70 kDa protein C	0.087	301	184	103	403	124	325	5.961E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q253K1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q253K1-F1-model_v4 Chaperone protein DnaK	0.092	322	195	103	424	95	310	3.736E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-Q53RJ5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q53RJ5-F1-model_v4 Heat shock 70 kDa protein BIP2	0.094	302	188	103	404	126	333	5.304E-01	20
+DESULFOASV1_0506_terminase_family_protein	AF-P81171-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P81171-F1-model_v4 Uncharacterized peptidase RP174	0.095	174	125	93	231	447	620	3.244E+00	20
+DESULFOASV1_0506_terminase_family_protein	AF-B3PEM4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3PEM4-F1-model_v4 DNA replication and repair protein RecF	0.100	108	68	22	129	22	98	5.176E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q1CIM2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1CIM2-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.129	113	78	262	374	1	91	4.344E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q5PIK4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5PIK4-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.101	113	81	262	374	1	91	2.568E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q11HU8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q11HU8-F1-model_v4 Enolase	0.086	325	252	99	375	6	330	8.463E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q98MZ3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q98MZ3-F1-model_v4 Enolase	0.077	348	267	99	388	6	353	7.530E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q1GI52-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1GI52-F1-model_v4 Enolase	0.095	405	295	99	425	6	410	5.961E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A1B9D2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1B9D2-F1-model_v4 Enolase	0.100	324	241	99	367	6	329	1.202E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-B6IQ30-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B6IQ30-F1-model_v4 Enolase	0.086	412	304	99	432	6	417	5.304E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A9AGW2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9AGW2-F1-model_v4 Enolase	0.104	324	240	99	367	6	329	8.972E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q62J10-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q62J10-F1-model_v4 Enolase	0.105	350	260	99	389	6	355	6.320E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q21V37-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q21V37-F1-model_v4 Enolase	0.117	399	283	99	420	6	404	5.304E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B2GM13-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2GM13-F1-model_v4 Enolase	0.113	303	222	100	350	7	309	7.103E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A4YVC0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4YVC0-F1-model_v4 Enolase	0.083	405	299	99	425	6	410	5.003E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A0K8N1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0K8N1-F1-model_v4 Enolase	0.100	350	261	99	389	6	355	6.700E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A4SXE9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4SXE9-F1-model_v4 Enolase	0.088	350	264	99	389	6	355	6.700E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q0S4I1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0S4I1-F1-model_v4 Enolase	0.095	347	262	99	388	6	352	5.003E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A1APJ8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1APJ8-F1-model_v4 Enolase	0.104	351	260	99	389	6	356	4.199E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B1LZU6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1LZU6-F1-model_v4 Enolase	0.117	305	221	100	350	7	311	9.512E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A4ISP4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4ISP4-F1-model_v4 Enolase	0.103	347	258	99	387	6	352	4.451E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q5GYK4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5GYK4-F1-model_v4 Enolase	0.111	351	257	99	388	6	356	8.972E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q181T5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q181T5-F1-model_v4 Enolase	0.091	381	295	99	424	6	386	5.961E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B2S455-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2S455-F1-model_v4 Enolase	0.096	352	260	100	388	7	358	8.972E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q73P50-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q73P50-F1-model_v4 Enolase	0.095	353	262	99	388	6	358	1.069E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-C4XLR9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C4XLR9-F1-model_v4 Enolase	0.102	350	260	99	389	6	355	5.623E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q601S2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q601S2-F1-model_v4 Enolase	0.090	360	252	99	376	6	365	9.512E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A8Z5R1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8Z5R1-F1-model_v4 ATP synthase subunit alpha	0.111	179	157	23	200	163	341	5.817E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q64UA4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q64UA4-F1-model_v4 ATP synthase subunit alpha	0.105	214	184	23	229	164	377	5.487E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q2SSB0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2SSB0-F1-model_v4 Chaperone protein DnaK	0.089	322	245	98	419	15	284	3.135E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q6MT06-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6MT06-F1-model_v4 Chaperone protein DnaK	0.074	322	249	98	419	15	284	4.719E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-C0M7T9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0M7T9-F1-model_v4 Chaperone protein DnaK	0.111	272	184	154	425	90	297	5.304E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q72IK5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q72IK5-F1-model_v4 Chaperone protein DnaK	0.115	301	178	103	403	89	290	8.463E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q6D263-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6D263-F1-model_v4 Chaperone protein HscA	0.090	337	194	83	419	94	307	4.719E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B2TLZ7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2TLZ7-F1-model_v4 Chaperone protein DnaK	0.107	297	213	107	403	29	268	2.482E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q7N228-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7N228-F1-model_v4 Chaperone protein HscA	0.087	322	184	83	404	94	296	5.961E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A7MGW6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7MGW6-F1-model_v4 Chaperone protein HscA	0.094	346	260	83	428	94	381	5.304E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B3GXS0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3GXS0-F1-model_v4 Chaperone protein HscA homolog	0.086	346	261	83	428	94	380	5.623E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B8E9D6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8E9D6-F1-model_v4 Chaperone protein HscA homolog	0.118	333	191	87	419	94	311	1.467E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B0TNY5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0TNY5-F1-model_v4 Chaperone protein HscA homolog	0.111	322	202	82	403	70	297	5.304E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q1XDH2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1XDH2-F1-model_v4 Chaperone protein dnaK	0.111	326	204	103	428	90	319	3.960E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A0QQC8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0QQC8-F1-model_v4 Chaperone protein DnaK	0.108	351	257	98	448	13	301	2.482E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-C1FVU0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1FVU0-F1-model_v4 Chaperone protein DnaK	0.100	328	243	98	425	13	283	2.341E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-A7FXL5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7FXL5-F1-model_v4 Chaperone protein DnaK	0.099	331	256	98	428	13	297	2.789E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q7VIE3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7VIE3-F1-model_v4 Chaperone protein DnaK	0.108	141	99	263	403	181	292	1.706E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q7ZVT3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7ZVT3-F1-model_v4 Spindle assembly abnormal protein 6 homolog	0.123	167	107	206	372	72	194	2.568E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-A6QBG0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6QBG0-F1-model_v4 Chaperone protein DnaK	0.094	321	192	83	403	80	292	3.524E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q30Q10-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q30Q10-F1-model_v4 Chaperone protein DnaK	0.102	321	200	108	428	96	319	3.135E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-P94695-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P94695-F1-model_v4 Chaperone protein DnaK	0.113	300	177	104	403	90	290	7.103E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-B1LZ51-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1LZ51-F1-model_v4 Chaperone protein DnaK	0.110	329	198	103	431	92	314	6.700E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-P0DMW1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0DMW1-F1-model_v4 Heat shock 70 kDa protein 1B	0.099	301	182	103	403	93	295	7.103E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q5B2V1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5B2V1-F1-model_v4 Heat shock 70 kDa protein	0.101	344	206	103	446	91	320	7.103E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q10265-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q10265-F1-model_v4 Probable heat shock protein ssa1	0.100	301	182	103	403	91	293	5.961E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-P83784-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P83784-F1-model_v4 Heat shock protein SSC1, mitochondrial	0.077	329	205	103	431	121	343	3.736E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-P11147-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P11147-F1-model_v4 Heat shock 70 kDa protein cognate 4	0.095	323	195	103	425	93	308	5.304E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-P0CS90-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0CS90-F1-model_v4 Import motor subunit, mitochondrial	0.096	326	196	103	428	120	337	3.960E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q6Z7B0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6Z7B0-F1-model_v4 Heat shock 70 kDa protein BIP1	0.115	298	177	106	403	124	324	4.719E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q03684-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q03684-F1-model_v4 Luminal-binding protein 4	0.114	321	190	83	403	114	328	5.961E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q2S307-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2S307-F1-model_v4 Chaperone protein DnaK	0.108	301	179	103	403	90	291	4.199E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q75C78-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q75C78-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.078	301	185	103	403	136	337	7.530E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q00043-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q00043-F1-model_v4 Heat shock 70 kDa protein	0.101	344	207	103	446	91	321	6.700E-01	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q5ZKL5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5ZKL5-F1-model_v4 Prolyl endopeptidase-like	0.074	74	58	98	171	457	520	4.882E+00	19
+DESULFOASV1_0506_terminase_family_protein	AF-Q83CP2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q83CP2-F1-model_v4 tRNA-cytidine(32) 2-sulfurtransferase	0.070	198	118	34	231	3	130	1.917E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q7PV10-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7PV10-F1-model_v4 Cytosolic Fe-S cluster assembly factor NUBP1 homolog	0.112	227	170	5	231	40	231	8.259E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q8X644-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8X644-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.130	159	108	262	420	1	125	2.285E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A4TIR8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4TIR8-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.129	113	78	262	374	1	91	5.176E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q66A46-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q66A46-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.129	113	78	262	374	1	91	5.487E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q8Y241-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8Y241-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.103	160	115	261	420	5	133	4.882E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q72H85-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q72H85-F1-model_v4 Enolase	0.101	350	291	100	424	7	356	7.530E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-C0QI43-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0QI43-F1-model_v4 Enolase	0.091	405	296	99	425	6	410	1.202E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A1US94-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1US94-F1-model_v4 Enolase	0.078	305	231	99	350	6	310	1.133E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q73HQ2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q73HQ2-F1-model_v4 Enolase	0.071	348	269	99	389	7	354	8.972E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q07ND9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q07ND9-F1-model_v4 Enolase	0.086	349	264	99	388	6	354	1.069E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q6N5U6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6N5U6-F1-model_v4 Enolase	0.098	405	294	99	425	6	410	9.512E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A3NB82-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A3NB82-F1-model_v4 Enolase	0.100	350	261	99	389	6	355	1.202E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A4G737-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4G737-F1-model_v4 Enolase	0.107	350	259	99	389	6	355	1.133E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q3JQQ6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3JQQ6-F1-model_v4 Enolase	0.108	324	239	99	367	6	329	1.432E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A2SAU7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A2SAU7-F1-model_v4 Enolase	0.104	324	240	99	367	6	329	1.274E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A1V5K2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1V5K2-F1-model_v4 Enolase	0.102	324	241	99	367	6	329	1.274E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A3NX13-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A3NX13-F1-model_v4 Enolase	0.101	324	241	99	367	6	329	1.518E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A1W4R1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1W4R1-F1-model_v4 Enolase	0.106	351	259	99	389	6	356	1.008E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A1VLH1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1VLH1-F1-model_v4 Enolase	0.091	351	264	99	389	6	356	1.008E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A6GZ69-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6GZ69-F1-model_v4 Enolase	0.102	353	260	99	388	6	358	7.983E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q8P9Z3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8P9Z3-F1-model_v4 Enolase	0.104	351	259	99	388	6	356	7.530E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A2BP03-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A2BP03-F1-model_v4 Enolase	0.099	346	260	100	389	12	357	1.069E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-B0SRL5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0SRL5-F1-model_v4 Enolase	0.104	308	224	100	350	10	317	1.069E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A5IYA8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5IYA8-F1-model_v4 Enolase	0.099	356	248	99	374	6	361	1.008E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-A6L8N5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6L8N5-F1-model_v4 ATP synthase subunit alpha	0.085	179	162	23	200	164	342	6.931E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-O86103-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O86103-F1-model_v4 Chaperone protein DnaK	0.092	300	183	103	402	94	296	1.133E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q5KWZ7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5KWZ7-F1-model_v4 Chaperone protein DnaK	0.098	328	255	98	425	13	296	3.524E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q85FW4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q85FW4-F1-model_v4 Chaperone protein dnaK	0.085	302	185	104	405	91	293	1.069E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q1J578-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1J578-F1-model_v4 Chaperone protein DnaK	0.097	284	168	142	425	111	297	8.463E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q2RKX4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2RKX4-F1-model_v4 Chaperone protein DnaK	0.118	297	212	107	403	29	269	3.736E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q71ZJ7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q71ZJ7-F1-model_v4 Chaperone protein DnaK	0.113	302	224	102	403	15	268	4.451E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q6L0S7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6L0S7-F1-model_v4 Chaperone protein DnaK	0.060	163	132	263	425	163	303	2.155E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q5YNI0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5YNI0-F1-model_v4 Chaperone protein DnaK	0.093	308	234	98	405	13	271	4.199E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-B5FAW4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5FAW4-F1-model_v4 Chaperone protein HscA homolog	0.106	322	181	83	404	93	295	5.304E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q5PNH1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5PNH1-F1-model_v4 Chaperone protein HscA	0.097	346	259	83	428	94	381	7.530E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-B2V2I5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2V2I5-F1-model_v4 Chaperone protein DnaK	0.105	306	228	98	403	13	268	3.324E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A3N0T5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A3N0T5-F1-model_v4 Chaperone protein HscA homolog	0.083	346	262	83	428	94	380	6.320E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A7MU49-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7MU49-F1-model_v4 Chaperone protein HscA homolog	0.104	346	257	83	428	94	381	5.961E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A1RJ56-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1RJ56-F1-model_v4 Chaperone protein HscA homolog	0.105	330	194	90	419	94	311	5.003E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-P69376-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P69376-F1-model_v4 Chaperone protein dnaK	0.096	326	207	103	428	89	318	6.700E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-B2HPS1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2HPS1-F1-model_v4 Chaperone protein DnaK	0.106	335	250	98	432	13	293	3.960E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A7ZEB5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7ZEB5-F1-model_v4 Chaperone protein DnaK	0.142	141	94	263	403	181	290	7.983E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A5I640-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5I640-F1-model_v4 Chaperone protein DnaK	0.104	306	228	98	403	13	268	3.960E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-B1KZN7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1KZN7-F1-model_v4 Chaperone protein DnaK	0.101	331	255	98	428	13	297	3.524E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-P9WMJ9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P9WMJ9-F1-model_v4 Chaperone protein DnaK	0.112	308	229	98	405	13	271	4.451E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A1KFH2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1KFH2-F1-model_v4 Chaperone protein DnaK	0.109	335	249	98	432	13	293	4.199E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-P0A5C0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A5C0-F1-model_v4 Chaperone protein DnaK	0.111	335	249	98	432	13	293	3.524E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A6GXZ1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6GXZ1-F1-model_v4 Chaperone protein DnaK	0.107	326	198	103	428	90	312	6.700E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-C4K110-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C4K110-F1-model_v4 Chaperone protein DnaK	0.105	301	178	103	403	91	290	7.983E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q92J36-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q92J36-F1-model_v4 Chaperone protein DnaK	0.092	301	181	103	403	91	290	8.972E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q46I76-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q46I76-F1-model_v4 Chaperone protein DnaK	0.114	285	152	140	424	134	306	7.530E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-B5RPM1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5RPM1-F1-model_v4 Chaperone protein DnaK	0.088	301	185	103	403	90	293	6.320E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-B8IHL3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8IHL3-F1-model_v4 Chaperone protein DnaK	0.097	322	194	103	424	92	307	6.700E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-B7KSZ4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7KSZ4-F1-model_v4 Chaperone protein DnaK	0.103	329	199	103	431	92	314	7.103E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q5ZMV2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5ZMV2-F1-model_v4 Spindle assembly abnormal protein 6 homolog	0.081	276	155	97	372	26	195	7.103E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-A8ZRW3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8ZRW3-F1-model_v4 Chaperone protein DnaK	0.114	329	197	103	431	92	314	8.463E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-P27322-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P27322-F1-model_v4 Heat shock cognate 70 kDa protein 2	0.095	301	186	103	403	96	301	8.463E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-P0CS91-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0CS91-F1-model_v4 Import motor subunit, mitochondrial	0.093	326	197	103	428	120	337	4.451E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q6Z058-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6Z058-F1-model_v4 Heat shock 70 kDa protein BIP5	0.094	301	183	103	403	134	336	5.961E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-P48721-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P48721-F1-model_v4 Stress-70 protein, mitochondrial	0.072	322	200	103	424	143	358	5.304E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-O35501-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O35501-F1-model_v4 Stress-70 protein, mitochondrial	0.076	322	199	103	424	143	358	6.700E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q75HQ0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q75HQ0-F1-model_v4 Heat shock 70 kDa protein BIP4	0.090	326	198	103	428	146	364	7.983E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q9ZEJ6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9ZEJ6-F1-model_v4 Chaperone protein dnaK1	0.084	320	202	104	423	91	312	7.530E-01	18
+DESULFOASV1_0506_terminase_family_protein	AF-P27028-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P27028-F1-model_v4 Prolyl endopeptidase	0.128	92	72	98	189	438	521	4.882E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-Q5RAK4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5RAK4-F1-model_v4 Prolyl endopeptidase-like	0.102	279	121	94	229	431	709	2.886E+00	18
+DESULFOASV1_0506_terminase_family_protein	AF-B9JW75-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9JW75-F1-model_v4 Enolase	0.109	305	224	99	350	6	310	1.706E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q57D07-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q57D07-F1-model_v4 Enolase	0.131	305	218	99	350	6	310	1.432E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q3J3H9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3J3H9-F1-model_v4 Enolase	0.071	349	268	99	388	6	354	1.432E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q28RE8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q28RE8-F1-model_v4 Enolase	0.109	325	244	99	373	6	330	1.202E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q8Y0B5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8Y0B5-F1-model_v4 Enolase	0.096	406	297	99	427	6	411	1.518E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q128E4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q128E4-F1-model_v4 Enolase	0.106	406	293	99	427	6	411	9.512E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q7WD75-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7WD75-F1-model_v4 Enolase	0.095	351	262	99	389	6	356	1.202E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-B0RU05-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0RU05-F1-model_v4 Enolase	0.104	351	259	99	388	6	356	1.069E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q31CX3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q31CX3-F1-model_v4 Enolase	0.102	346	260	100	389	12	357	1.518E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-A8G2L5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8G2L5-F1-model_v4 Enolase	0.098	325	247	100	374	12	336	1.518E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-B2SUA6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2SUA6-F1-model_v4 Enolase	0.111	351	257	99	388	6	356	1.809E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-A7HNS8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7HNS8-F1-model_v4 Enolase	0.105	277	202	99	375	7	233	5.961E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q5RGE6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5RGE6-F1-model_v4 Heat shock 70 kDa protein 14	0.095	361	217	87	447	81	321	1.069E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-A0M6G4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0M6G4-F1-model_v4 ATP synthase subunit alpha	0.072	180	141	23	175	163	342	8.259E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-P68837-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P68837-F1-model_v4 Chaperone protein DnaK	0.097	284	168	142	425	111	297	8.463E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P0C0C6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0C0C6-F1-model_v4 Chaperone protein DnaK	0.114	272	183	154	425	90	297	1.008E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q1JFC8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1JFC8-F1-model_v4 Chaperone protein DnaK	0.090	284	169	142	425	111	297	9.512E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-A3DF25-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A3DF25-F1-model_v4 Chaperone protein DnaK	0.100	297	216	107	403	29	269	4.451E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P0DJM2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0DJM2-F1-model_v4 Chaperone protein DnaK	0.091	262	143	142	403	111	268	7.983E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q707X3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q707X3-F1-model_v4 Ribosome-associated molecular chaperone SSB1	0.116	326	197	103	428	95	318	1.274E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-A6LRN4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6LRN4-F1-model_v4 Chaperone protein DnaK	0.117	301	215	103	403	25	268	6.320E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P30721-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P30721-F1-model_v4 Chaperone protein DnaK	0.107	306	228	98	403	13	268	5.623E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-B0UVL9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0UVL9-F1-model_v4 Chaperone protein HscA homolog	0.070	343	211	83	425	94	321	6.320E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-B4EZU4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4EZU4-F1-model_v4 Chaperone protein HscA	0.086	343	208	83	425	94	322	7.530E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-B5BAX0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5BAX0-F1-model_v4 Chaperone protein HscA	0.104	346	257	83	428	94	381	6.700E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-B0BPK8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0BPK8-F1-model_v4 Chaperone protein HscA homolog	0.079	346	263	83	428	94	380	7.983E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q6LU58-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6LU58-F1-model_v4 Chaperone protein HscA homolog	0.079	343	201	83	425	94	312	6.700E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q7VMA4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7VMA4-F1-model_v4 Chaperone protein HscA homolog	0.086	346	261	83	428	94	380	1.069E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q93R27-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q93R27-F1-model_v4 Chaperone protein DnaK	0.100	322	243	98	419	13	283	4.199E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q080Q0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q080Q0-F1-model_v4 Chaperone protein HscA homolog	0.088	327	189	102	428	105	312	8.463E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q12P79-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q12P79-F1-model_v4 Chaperone protein HscA homolog	0.098	342	262	87	428	94	384	2.631E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-A1S548-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1S548-F1-model_v4 Chaperone protein HscA homolog	0.096	342	262	87	428	94	384	5.003E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-B8ZTB7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8ZTB7-F1-model_v4 Chaperone protein DnaK	0.104	308	231	98	405	13	271	5.961E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q8Y0L9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8Y0L9-F1-model_v4 Chaperone protein HscA homolog	0.089	302	174	102	403	105	296	1.350E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q5HV33-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5HV33-F1-model_v4 Chaperone protein DnaK	0.105	326	255	103	428	92	377	6.320E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P9WMJ8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P9WMJ8-F1-model_v4 Chaperone protein DnaK	0.108	335	250	98	432	13	293	5.003E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-A8GR22-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8GR22-F1-model_v4 Chaperone protein DnaK	0.102	322	193	103	424	91	306	8.463E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-A8EWT6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8EWT6-F1-model_v4 Chaperone protein DnaK	0.102	360	241	99	458	92	360	5.961E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P30722-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P30722-F1-model_v4 Chaperone protein dnaK	0.091	297	183	108	404	94	295	1.069E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q7MA35-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7MA35-F1-model_v4 Chaperone protein DnaK	0.087	322	195	103	424	92	306	8.463E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-A9W6R7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9W6R7-F1-model_v4 Chaperone protein DnaK	0.092	322	195	103	424	92	307	8.463E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P22202-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P22202-F1-model_v4 Heat shock protein SSA4	0.074	145	102	259	403	183	293	3.646E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q04967-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q04967-F1-model_v4 Heat shock 70 kDa protein 6	0.083	301	185	103	403	95	297	1.432E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-P40918-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P40918-F1-model_v4 Heat shock 70 kDa protein	0.102	364	216	84	447	80	321	8.463E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P17066-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P17066-F1-model_v4 Heat shock 70 kDa protein 6	0.089	141	96	263	403	192	297	6.931E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-P39987-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P39987-F1-model_v4 Heat shock protein SSC3, mitochondrial	0.089	317	196	103	419	117	332	8.463E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P19378-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P19378-F1-model_v4 Heat shock cognate 71 kDa protein	0.087	323	196	103	425	93	308	1.069E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-P11142-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P11142-F1-model_v4 Heat shock cognate 71 kDa protein	0.086	323	197	103	425	93	308	1.202E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-P87047-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P87047-F1-model_v4 Heat shock 70 kDa protein 1	0.100	360	213	87	446	82	319	1.069E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-P50020-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P50020-F1-model_v4 Chaperone protein dnaK1	0.095	326	205	103	428	90	316	1.202E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q6NRG6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6NRG6-F1-model_v4 Spindle assembly abnormal protein 6 homolog	0.135	167	111	206	372	72	200	3.060E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q9FSY7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9FSY7-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.093	326	204	103	428	125	350	8.972E-01	17
+DESULFOASV1_0506_terminase_family_protein	AF-P16474-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P16474-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.094	326	200	103	428	139	360	1.133E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q9LTY1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9LTY1-F1-model_v4 Mitotic spindle checkpoint protein MAD1	0.113	107	89	67	167	616	722	5.176E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q5HZA6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5HZA6-F1-model_v4 Prolyl endopeptidase-like	0.078	279	124	94	229	430	708	4.097E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-A5LFV8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5LFV8-F1-model_v4 Prolyl endopeptidase-like	0.082	274	117	98	225	441	714	3.439E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-Q94738-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q94738-F1-model_v4 97 kDa heat shock protein	0.088	317	203	103	419	90	313	1.069E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-A1X157-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1X157-F1-model_v4 Cortactin-binding protein 2	0.103	398	300	13	410	1111	1446	2.568E+00	17
+DESULFOASV1_0506_terminase_family_protein	AF-A7A245-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7A245-F1-model_v4 ATP-dependent kinase YFH7	0.073	344	316	33	376	3	344	1.202E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q31IS6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q31IS6-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.101	142	112	262	387	1	142	6.931E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-C5DXG0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C5DXG0-F1-model_v4 ATP-dependent kinase YFH7	0.097	336	268	36	371	38	335	1.609E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q164E3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q164E3-F1-model_v4 Enolase	0.086	349	264	99	388	6	354	1.917E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q1GVS8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1GVS8-F1-model_v4 Enolase	0.088	349	264	99	388	6	354	2.033E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q92Q98-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q92Q98-F1-model_v4 Enolase	0.067	348	270	99	388	6	353	2.033E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-C3MBJ9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C3MBJ9-F1-model_v4 Enolase	0.071	348	268	99	388	6	353	1.518E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q2YPV0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2YPV0-F1-model_v4 Enolase	0.120	348	254	99	388	6	353	1.809E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A5VQQ7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A5VQQ7-F1-model_v4 Enolase	0.110	305	223	99	350	6	310	1.917E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A9HJ75-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9HJ75-F1-model_v4 Enolase	0.106	306	224	99	350	6	311	2.722E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-B4RBW1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4RBW1-F1-model_v4 Enolase	0.082	349	265	99	388	6	354	1.274E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A6SXG3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6SXG3-F1-model_v4 Enolase	0.108	350	259	99	389	6	355	1.917E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-C1A306-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1A306-F1-model_v4 Enolase	0.084	347	265	99	388	6	352	1.274E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q7VW79-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7VW79-F1-model_v4 Enolase	0.097	351	262	99	389	6	356	1.706E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A6LJF0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6LJF0-F1-model_v4 Enolase	0.112	350	258	99	389	7	356	1.202E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q3AGS4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3AGS4-F1-model_v4 Enolase	0.114	345	256	99	388	11	355	1.432E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A2RCW6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A2RCW6-F1-model_v4 Chaperone protein DnaK	0.109	142	102	263	404	157	271	3.865E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-C0ZB48-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C0ZB48-F1-model_v4 Chaperone protein DnaK	0.099	297	215	107	403	29	268	7.103E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q6CQ83-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6CQ83-F1-model_v4 Ribosome-associated molecular chaperone SSB1	0.103	301	182	103	403	95	298	1.809E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-G2K046-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-G2K046-F1-model_v4 Chaperone protein DnaK	0.098	262	142	142	403	111	268	1.809E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-P87222-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P87222-F1-model_v4 Ribosome-associated molecular chaperone SSB1	0.096	326	198	103	428	95	314	2.033E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A0AIS4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0AIS4-F1-model_v4 Chaperone protein DnaK	0.124	302	222	102	403	15	268	7.530E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q92BN8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q92BN8-F1-model_v4 Chaperone protein DnaK	0.109	302	225	102	403	15	268	4.719E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q6YPM1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6YPM1-F1-model_v4 Chaperone protein DnaK	0.079	142	105	263	404	161	275	4.097E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-B5XNK1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5XNK1-F1-model_v4 Chaperone protein HscA	0.100	343	205	83	425	94	322	1.008E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q31XW4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q31XW4-F1-model_v4 Chaperone protein HscA	0.094	346	260	83	428	94	381	9.512E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-B1IWD5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1IWD5-F1-model_v4 Chaperone protein HscA	0.085	346	263	83	428	94	381	6.700E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-B4T0R8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B4T0R8-F1-model_v4 Chaperone protein HscA	0.105	346	257	83	428	94	381	1.518E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q0I1K8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0I1K8-F1-model_v4 Chaperone protein HscA homolog	0.090	343	207	83	425	94	321	1.609E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A4WDA7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4WDA7-F1-model_v4 Chaperone protein HscA	0.090	344	259	85	428	96	381	1.274E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-B8I305-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8I305-F1-model_v4 Chaperone protein DnaK	0.101	306	230	98	403	13	269	5.961E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-B1XB01-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1XB01-F1-model_v4 Chaperone protein HscA	0.087	346	262	83	428	94	381	2.033E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q892R0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q892R0-F1-model_v4 Chaperone protein DnaK	0.106	328	241	98	425	13	283	7.103E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q0TNS7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0TNS7-F1-model_v4 Chaperone protein DnaK	0.114	306	226	98	403	13	268	6.320E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-P19993-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P19993-F1-model_v4 Chaperone protein DnaK	0.106	308	231	98	405	13	271	8.972E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-P32833-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P32833-F1-model_v4 Origin recognition complex subunit 2	0.084	410	290	14	423	301	618	6.931E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-B6JPL0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B6JPL0-F1-model_v4 Chaperone protein DnaK	0.115	322	189	103	424	92	306	7.983E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q1CV46-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1CV46-F1-model_v4 Chaperone protein DnaK	0.115	323	190	102	424	91	306	8.972E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-B2URT8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2URT8-F1-model_v4 Chaperone protein DnaK	0.114	302	178	102	403	91	292	7.983E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q6B8V2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6B8V2-F1-model_v4 Chaperone protein dnaK	0.092	322	197	103	424	90	307	1.133E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-A3PTN4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A3PTN4-F1-model_v4 Chaperone protein DnaK	0.106	335	250	98	432	13	293	7.103E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-A0PLQ1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0PLQ1-F1-model_v4 Chaperone protein DnaK	0.107	335	250	98	432	13	293	5.304E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-A1T2S3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1T2S3-F1-model_v4 Chaperone protein DnaK	0.108	351	257	98	448	13	301	7.103E-01	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q6NCY4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6NCY4-F1-model_v4 Chaperone protein DnaK	0.072	322	200	103	424	92	307	1.274E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-O67118-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O67118-F1-model_v4 Chaperone protein DnaK	0.113	300	179	103	402	94	296	1.809E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q557E0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q557E0-F1-model_v4 Heat shock cognate 70 kDa protein 2	0.096	301	184	103	403	91	294	1.432E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-B2S2G4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2S2G4-F1-model_v4 Chaperone protein DnaK	0.096	268	150	140	407	132	298	1.432E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q6S4N2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6S4N2-F1-model_v4 Heat shock 70 kDa protein 1B	0.092	301	183	103	403	93	295	1.518E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-P16627-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P16627-F1-model_v4 Heat shock 70 kDa protein 1-like	0.095	301	183	103	403	95	297	2.033E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-P26413-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P26413-F1-model_v4 Heat shock 70 kDa protein	0.099	301	185	103	403	95	300	1.706E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-O93866-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O93866-F1-model_v4 Heat shock 70 kDa protein	0.098	344	207	103	446	91	320	1.432E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q96W30-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q96W30-F1-model_v4 Heat shock 70 kDa protein 2	0.102	344	206	103	446	91	320	1.518E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-P26791-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P26791-F1-model_v4 Heat shock 70 kDa protein	0.080	327	205	102	428	93	316	1.706E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-P22010-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P22010-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.081	345	213	84	428	129	361	1.202E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q9W6Y1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9W6Y1-F1-model_v4 Heat shock cognate 71 kDa protein	0.087	301	184	103	403	93	295	1.432E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q4J6C6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4J6C6-F1-model_v4 Prolyl endopeptidase-like	0.086	284	120	94	225	431	714	4.882E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q9SAB1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9SAB1-F1-model_v4 Heat shock 70 kDa protein 16	0.080	269	167	103	371	90	271	1.917E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-P34932-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P34932-F1-model_v4 Heat shock 70 kDa protein 4	0.111	287	172	85	371	79	272	2.886E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q66HA8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q66HA8-F1-model_v4 Heat shock protein 105 kDa	0.077	317	206	103	419	90	313	2.033E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q5R606-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5R606-F1-model_v4 Heat shock protein 105 kDa	0.090	317	203	103	419	90	313	1.809E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-Q60446-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q60446-F1-model_v4 Heat shock protein 105 kDa	0.097	269	164	103	371	90	272	2.568E+00	16
+DESULFOASV1_0506_terminase_family_protein	AF-F2NV13-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-F2NV13-F1-model_v4 Ribonuclease 3	0.098	132	84	37	168	250	343	5.817E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q8UFH1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8UFH1-F1-model_v4 Enolase	0.092	348	262	99	388	6	353	2.422E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q1QMI9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1QMI9-F1-model_v4 Enolase	0.121	303	226	99	401	6	263	2.155E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q2L088-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2L088-F1-model_v4 Enolase	0.092	351	263	99	389	6	356	2.155E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B7KRB4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7KRB4-F1-model_v4 Enolase	0.102	399	288	99	420	6	404	2.422E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B7JW48-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7JW48-F1-model_v4 Enolase	0.095	347	262	99	388	11	357	2.722E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B3WCW7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B3WCW7-F1-model_v4 Enolase	0.086	323	250	99	372	6	328	2.285E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-P64409-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P64409-F1-model_v4 Chaperone protein DnaK	0.118	375	259	58	432	2	296	1.133E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B5YAR3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5YAR3-F1-model_v4 Chaperone protein DnaK	0.118	340	235	107	446	29	296	7.983E-01	15
+DESULFOASV1_0506_terminase_family_protein	AF-B8ZLY9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8ZLY9-F1-model_v4 Chaperone protein DnaK	0.111	141	99	263	403	157	268	4.344E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-A8AVA8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8AVA8-F1-model_v4 Chaperone protein DnaK	0.105	141	99	263	403	157	268	4.344E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-C4L425-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C4L425-F1-model_v4 Chaperone protein DnaK	0.114	313	223	107	419	29	281	1.350E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-P0A3J4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A3J4-F1-model_v4 Chaperone protein DnaK	0.113	163	124	263	425	157	297	3.646E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B8DE38-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8DE38-F1-model_v4 Chaperone protein DnaK	0.113	302	224	102	403	15	268	1.274E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-A6VMP1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6VMP1-F1-model_v4 Chaperone protein HscA homolog	0.093	346	259	83	428	93	379	2.155E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q1G9R2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1G9R2-F1-model_v4 Chaperone protein DnaK	0.108	289	218	140	428	110	354	1.706E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B2TXV1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2TXV1-F1-model_v4 Chaperone protein HscA	0.084	346	263	83	428	94	381	1.518E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B5Z0Z9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5Z0Z9-F1-model_v4 Chaperone protein HscA	0.094	346	260	83	428	94	381	1.518E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q8Z4N2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8Z4N2-F1-model_v4 Chaperone protein HscA	0.097	347	261	82	428	92	381	1.706E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B7NRH5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7NRH5-F1-model_v4 Chaperone protein HscA	0.095	346	260	83	428	94	381	1.917E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-A1JKQ7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1JKQ7-F1-model_v4 Chaperone protein HscA	0.086	342	198	83	424	94	311	1.917E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-A7ZPW9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7ZPW9-F1-model_v4 Chaperone protein HscA	0.086	346	262	83	428	94	381	1.518E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-A9MHJ8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9MHJ8-F1-model_v4 Chaperone protein HscA	0.108	346	256	83	428	94	381	2.568E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q8FF44-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8FF44-F1-model_v4 Chaperone protein HscA	0.095	346	260	83	428	94	381	1.518E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B5FR81-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5FR81-F1-model_v4 Chaperone protein HscA	0.102	346	258	83	428	94	381	1.706E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q87S24-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q87S24-F1-model_v4 Chaperone protein HscA homolog	0.104	346	257	83	428	94	381	1.609E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B1MIX5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1MIX5-F1-model_v4 Chaperone protein DnaK	0.096	305	231	98	402	13	268	1.274E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q9CNV2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9CNV2-F1-model_v4 Chaperone protein HscA homolog	0.073	322	186	83	404	94	295	1.809E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-B9KCH0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9KCH0-F1-model_v4 Chaperone protein DnaK	0.105	345	209	84	428	81	314	7.983E-01	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q1BEV1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1BEV1-F1-model_v4 Chaperone protein DnaK	0.106	335	250	98	432	13	293	8.972E-01	15
+DESULFOASV1_0506_terminase_family_protein	AF-O69298-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O69298-F1-model_v4 Chaperone protein DnaK	0.111	339	212	87	425	83	321	8.463E-01	15
+DESULFOASV1_0506_terminase_family_protein	AF-A7GXU4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7GXU4-F1-model_v4 Chaperone protein DnaK	0.107	326	255	103	428	92	377	1.202E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-A6Q421-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A6Q421-F1-model_v4 Chaperone protein DnaK	0.104	300	177	103	402	92	289	2.285E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q7V9G2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7V9G2-F1-model_v4 Chaperone protein dnaK2	0.118	271	168	154	424	115	306	1.432E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-O83246-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O83246-F1-model_v4 Chaperone protein DnaK	0.099	305	187	103	407	90	298	1.917E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q4R888-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q4R888-F1-model_v4 Heat shock 70 kDa protein 1-like	0.095	301	183	103	403	95	297	2.568E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-P10591-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P10591-F1-model_v4 Heat shock protein SSA1	0.087	320	194	84	403	80	292	1.518E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-P46587-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P46587-F1-model_v4 Heat shock protein SSA2	0.099	301	182	103	403	91	293	2.285E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-P48720-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P48720-F1-model_v4 Heat shock 70 kDa protein	0.086	301	185	103	403	96	298	2.722E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q80UK7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q80UK7-F1-model_v4 Spindle assembly abnormal protein 6 homolog	0.080	277	153	96	372	24	190	1.809E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q6UVJ0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q6UVJ0-F1-model_v4 Spindle assembly abnormal protein 6 homolog	0.084	277	158	96	372	24	196	1.809E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q7U6R7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7U6R7-F1-model_v4 Chaperone protein dnaK1	0.094	322	209	104	425	91	322	2.285E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-P59769-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P59769-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.097	325	192	79	403	126	339	1.706E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-O74225-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O74225-F1-model_v4 Heat shock protein hsp88	0.095	301	187	103	403	90	297	2.422E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-P73098-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P73098-F1-model_v4 Chaperone protein dnaK3	0.091	344	209	103	446	90	320	2.155E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-F4HQD4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-F4HQD4-F1-model_v4 Heat shock 70 kDa protein 15	0.094	301	187	103	403	90	296	2.722E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q9S7C0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9S7C0-F1-model_v4 Heat shock 70 kDa protein 14	0.093	301	187	103	403	90	296	2.886E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-O95757-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O95757-F1-model_v4 Heat shock 70 kDa protein 4L	0.090	326	215	103	428	90	326	2.422E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q61699-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q61699-F1-model_v4 Heat shock protein 105 kDa	0.082	317	205	103	419	90	313	3.060E+00	15
+DESULFOASV1_0506_terminase_family_protein	AF-Q9A7J9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9A7J9-F1-model_v4 Enolase	0.098	349	261	99	388	6	354	3.865E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-B8EJT3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8EJT3-F1-model_v4 Enolase	0.092	349	262	99	388	6	354	2.722E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q7W5N9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7W5N9-F1-model_v4 Enolase	0.081	351	267	99	389	6	356	2.722E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q2LR33-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2LR33-F1-model_v4 Enolase	0.071	351	269	99	389	6	356	3.439E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-C1AY93-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1AY93-F1-model_v4 Enolase	0.083	347	265	99	388	6	352	3.244E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-A9W6G9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A9W6G9-F1-model_v4 Enolase	0.091	405	296	99	425	6	410	3.060E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-P87142-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P87142-F1-model_v4 Heat shock protein 70 homolog C57A7.12	0.064	324	220	102	425	110	345	2.155E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-A4VT29-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4VT29-F1-model_v4 Chaperone protein DnaK	0.100	157	113	263	419	157	282	5.817E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-P0DB70-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0DB70-F1-model_v4 Chaperone protein DnaK	0.113	250	158	154	403	90	268	2.568E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q835R7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q835R7-F1-model_v4 Chaperone protein DnaK	0.111	320	249	100	419	3	283	1.069E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q67S54-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q67S54-F1-model_v4 Chaperone protein DnaK	0.082	331	256	98	428	13	292	1.609E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-P0A6Z2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A6Z2-F1-model_v4 Chaperone protein HscA	0.087	346	262	83	428	94	381	2.886E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-B5F1B6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5F1B6-F1-model_v4 Chaperone protein HscA	0.095	346	260	83	428	94	381	2.422E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-B6I598-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B6I598-F1-model_v4 Chaperone protein HscA	0.095	346	260	83	428	94	381	2.422E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q0TEV9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0TEV9-F1-model_v4 Chaperone protein HscA	0.085	346	263	83	428	94	381	1.432E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q8DEZ1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8DEZ1-F1-model_v4 Chaperone protein HscA homolog	0.095	346	260	83	428	94	381	2.568E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q03QU1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q03QU1-F1-model_v4 Chaperone protein DnaK	0.100	289	167	140	428	112	298	2.285E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-B5Z9P0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5Z9P0-F1-model_v4 Chaperone protein DnaK	0.115	322	189	103	424	92	306	1.809E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-A8FXA1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8FXA1-F1-model_v4 Chaperone protein HscA homolog	0.092	342	199	87	428	94	313	1.008E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-A1UA31-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A1UA31-F1-model_v4 Chaperone protein DnaK	0.106	335	250	98	432	13	293	1.706E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-A8FLH2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8FLH2-F1-model_v4 Chaperone protein DnaK	0.094	350	217	79	428	80	319	1.917E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-A0RPW7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A0RPW7-F1-model_v4 Chaperone protein DnaK	0.112	350	212	79	428	80	319	1.518E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q7UZG3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7UZG3-F1-model_v4 Chaperone protein dnaK2	0.123	271	168	154	424	115	306	2.886E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q7NDH1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7NDH1-F1-model_v4 Chaperone protein DnaK	0.126	250	155	154	403	115	292	1.917E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q9N1U2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q9N1U2-F1-model_v4 Heat shock 70 kDa protein 6	0.081	145	101	259	403	187	297	7.348E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q8ZCS5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8ZCS5-F1-model_v4 Chaperone protein HscA	0.090	346	261	83	428	128	415	2.033E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-B2RIT0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B2RIT0-F1-model_v4 Dipeptidyl-peptidase 5	0.153	114	86	78	191	408	509	6.931E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q2TFN9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2TFN9-F1-model_v4 Heat shock 70 kDa protein 4	0.100	341	272	85	425	79	381	2.422E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q0IIM3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q0IIM3-F1-model_v4 Heat shock protein 105 kDa	0.104	269	163	103	371	90	272	3.865E+00	14
+DESULFOASV1_0506_terminase_family_protein	AF-Q2K8W9-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q2K8W9-F1-model_v4 Enolase	0.080	348	266	99	388	6	353	4.882E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-B1MZG6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1MZG6-F1-model_v4 Chaperone protein DnaK	0.124	334	243	98	431	13	290	1.202E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-C1CCQ8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1CCQ8-F1-model_v4 Chaperone protein DnaK	0.109	250	159	154	403	90	268	3.865E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q8RH05-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q8RH05-F1-model_v4 Chaperone protein DnaK	0.096	297	217	107	403	29	269	3.060E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q1JA83-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1JA83-F1-model_v4 Chaperone protein DnaK	0.107	328	254	98	425	13	297	2.033E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-P0DB71-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0DB71-F1-model_v4 Chaperone protein DnaK	0.101	307	232	98	404	13	271	2.033E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-P0C0C5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0C0C5-F1-model_v4 Chaperone protein DnaK	0.102	328	255	98	425	13	297	2.722E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-B9DVF3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9DVF3-F1-model_v4 Chaperone protein DnaK	0.106	306	228	98	403	13	268	2.422E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q03WI2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q03WI2-F1-model_v4 Chaperone protein DnaK	0.123	328	250	98	425	13	298	1.518E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-B7LDB8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7LDB8-F1-model_v4 Chaperone protein HscA	0.085	346	263	83	428	94	381	2.422E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-A8A332-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A8A332-F1-model_v4 Chaperone protein HscA	0.086	346	262	83	428	94	381	1.809E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-B1LNI1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B1LNI1-F1-model_v4 Chaperone protein HscA	0.086	346	262	83	428	94	381	2.422E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-B7N6B3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7N6B3-F1-model_v4 Chaperone protein HscA	0.086	346	262	83	428	94	381	2.568E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-C4ZXA1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C4ZXA1-F1-model_v4 Chaperone protein HscA	0.086	346	262	83	428	94	381	2.422E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-C3LT05-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C3LT05-F1-model_v4 Chaperone protein HscA homolog	0.079	322	185	83	404	94	295	3.865E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-B7MY19-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7MY19-F1-model_v4 Chaperone protein HscA	0.083	347	265	82	428	92	381	2.722E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q17VY4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q17VY4-F1-model_v4 Chaperone protein DnaK	0.115	322	189	103	424	92	306	2.422E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-C1DE64-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1DE64-F1-model_v4 Chaperone protein HscA homolog	0.083	327	191	102	428	106	314	4.882E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q15WH0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q15WH0-F1-model_v4 Chaperone protein HscA homolog	0.070	287	219	142	428	151	386	1.809E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-A7H484-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A7H484-F1-model_v4 Chaperone protein DnaK	0.112	197	147	263	428	181	377	3.060E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-A2BZ91-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A2BZ91-F1-model_v4 Chaperone protein DnaK	0.115	271	169	154	424	115	306	3.646E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q7V3T5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7V3T5-F1-model_v4 Chaperone protein dnaK2	0.104	285	154	140	424	134	306	3.646E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q667Y5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q667Y5-F1-model_v4 Chaperone protein HscA	0.097	346	259	83	428	122	409	2.285E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q05866-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q05866-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.094	296	178	108	403	121	318	2.886E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-P78695-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P78695-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.077	301	186	103	403	128	329	4.605E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-P55552-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P55552-F1-model_v4 Uncharacterized protein y4lL	0.110	341	301	71	409	193	533	1.432E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q5RDM4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5RDM4-F1-model_v4 Heat shock 70 kDa protein 4	0.101	341	271	85	425	79	381	3.865E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-Q61316-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q61316-F1-model_v4 Heat shock 70 kDa protein 4	0.100	341	272	85	425	79	381	3.865E+00	13
+DESULFOASV1_0506_terminase_family_protein	AF-A4VZB5-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4VZB5-F1-model_v4 Chaperone protein DnaK	0.103	266	172	154	419	90	282	4.344E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-Q5M6D1-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5M6D1-F1-model_v4 Chaperone protein DnaK	0.117	306	225	98	403	13	268	4.097E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-Q5M1T8-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q5M1T8-F1-model_v4 Chaperone protein DnaK	0.116	306	225	98	403	13	268	3.439E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-B5XHZ0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5XHZ0-F1-model_v4 Chaperone protein DnaK	0.101	307	232	98	404	13	271	3.646E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-Q48RR3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q48RR3-F1-model_v4 Chaperone protein DnaK	0.103	306	229	98	403	13	268	3.060E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-Q1JKD6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q1JKD6-F1-model_v4 Chaperone protein DnaK	0.099	306	230	98	403	13	268	3.865E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-B8D8G2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B8D8G2-F1-model_v4 Chaperone protein HscA	0.091	303	174	102	404	97	288	3.244E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-B7LKB3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7LKB3-F1-model_v4 Chaperone protein HscA	0.095	346	260	83	428	94	381	4.605E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-B5R598-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B5R598-F1-model_v4 Chaperone protein HscA	0.097	347	261	82	428	92	381	4.344E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-Q88VM0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q88VM0-F1-model_v4 Chaperone protein DnaK	0.098	286	217	140	425	112	353	4.344E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-Q7U3C4-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q7U3C4-F1-model_v4 Chaperone protein dnaK2	0.104	275	183	154	428	115	319	3.646E+00	12
+DESULFOASV1_0506_terminase_family_protein	AF-P95829-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P95829-F1-model_v4 Chaperone protein DnaK	0.105	306	228	98	403	13	268	3.646E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-C1C5N7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-C1C5N7-F1-model_v4 Chaperone protein DnaK	0.109	250	159	154	403	90	268	6.931E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-Q3K3T2-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q3K3T2-F1-model_v4 Chaperone protein DnaK	0.116	306	225	98	403	13	268	3.646E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-P0A3J3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-P0A3J3-F1-model_v4 Chaperone protein DnaK	0.107	272	185	154	425	90	297	4.882E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-A4J7F3-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-A4J7F3-F1-model_v4 Chaperone protein DnaK	0.090	285	157	140	424	111	283	6.538E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-B7MIL6-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B7MIL6-F1-model_v4 Chaperone protein HscA	0.085	346	263	83	428	94	381	4.882E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-B0TAD7-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B0TAD7-F1-model_v4 Chaperone protein DnaK	0.088	322	240	107	428	29	292	5.176E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-B9L8Z0-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-B9L8Z0-F1-model_v4 Chaperone protein DnaK	0.084	345	218	84	428	81	319	4.097E+00	11
+DESULFOASV1_0506_terminase_family_protein	AF-Q21J10-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-Q21J10-F1-model_v4 Tetraacyldisaccharide 4'-kinase	0.086	201	171	14	201	37	237	9.841E+00	10
+DESULFOASV1_0506_terminase_family_protein	AF-O13794-F1-model_v4	DESULFOASV1_0506_terminase_family_protein	AF-O13794-F1-model_v4 Endoribonuclease ysh1	0.078	496	418	4	457	212	707	9.841E+00	10

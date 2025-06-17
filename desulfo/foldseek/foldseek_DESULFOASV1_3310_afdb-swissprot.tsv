@@ -1,0 +1,805 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O07608-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O07608-F1-model_v4 Lipoate-protein ligase LplJ	0.387	330	197	4	325	2	331	1.939E-44	1561
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0A0H3JR16-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0A0H3JR16-F1-model_v4 Lipoate--protein ligase 1	0.388	327	196	4	325	2	328	3.311E-42	1471
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P47512-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P47512-F1-model_v4 Probable lipoate-protein ligase A	0.331	333	217	1	325	1	333	2.013E-39	1343
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P75394-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P75394-F1-model_v4 Probable lipoate-protein ligase A	0.341	333	214	1	325	1	333	1.163E-38	1310
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1XFJ6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1XFJ6-F1-model_v4 Lipoate-protein ligase A	0.329	329	216	2	324	5	333	3.360E-32	1036
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C4ZT68-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C4ZT68-F1-model_v4 Lipoate-protein ligase A	0.329	329	216	2	324	5	333	3.792E-32	1035
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P32099-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P32099-F1-model_v4 Lipoate-protein ligase A	0.332	329	215	2	324	5	333	4.279E-32	1031
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P60809-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P60809-F1-model_v4 Lipoate-protein ligase A	0.291	333	229	1	324	1	333	1.720E-31	986
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DN72-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DN72-F1-model_v4 Lipoate--protein ligase	0.346	337	210	4	325	2	338	7.477E-35	978
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0A0H3JX98-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0A0H3JX98-F1-model_v4 Lipoate--protein ligase 2	0.302	337	223	4	324	2	338	9.436E-33	913
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QEC2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QEC2-F1-model_v4 Lipoate-protein ligase A	0.293	331	227	1	322	1	331	6.445E-29	769
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z0U0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z0U0-F1-model_v4 Lipoate-protein ligase A	0.326	334	218	2	325	5	338	1.914E-28	746
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9N7E6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9N7E6-F1-model_v4 Lipoate-protein ligase A	0.329	329	216	2	324	5	333	2.590E-28	742
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4TU46-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4TU46-F1-model_v4 Lipoate-protein ligase A	0.323	334	219	2	325	5	338	2.751E-28	742
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5BAK2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5BAK2-F1-model_v4 Lipoate-protein ligase A	0.326	334	218	2	325	5	338	2.751E-28	742
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5FTD0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5FTD0-F1-model_v4 Lipoate-protein ligase A	0.329	329	216	2	324	5	333	2.751E-28	741
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PK29-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PK29-F1-model_v4 Lipoate-protein ligase A	0.320	334	220	2	325	5	338	3.955E-28	737
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4W6A2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4W6A2-F1-model_v4 Lipoate-protein ligase A	0.329	329	216	2	324	5	333	6.416E-28	737
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5Y273-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5Y273-F1-model_v4 Lipoate-protein ligase A	0.320	329	219	2	324	5	333	7.240E-28	736
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2TZR8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2TZR8-F1-model_v4 Lipoate-protein ligase A	0.333	329	215	2	324	5	333	3.504E-28	736
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0T8S7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0T8S7-F1-model_v4 Lipoate-protein ligase A	0.335	329	214	2	324	5	333	3.723E-28	736
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NW66-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NW66-F1-model_v4 Lipoate-protein ligase A	0.336	329	214	2	324	5	333	3.955E-28	735
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8A8B4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8A8B4-F1-model_v4 Lipoate-protein ligase A	0.326	329	217	2	324	5	333	7.692E-28	734
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4TH09-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4TH09-F1-model_v4 Lipoate-protein ligase A	0.332	329	215	2	324	5	333	4.742E-28	734
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZJV1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZJV1-F1-model_v4 Lipoate-protein ligase A	0.332	329	215	2	324	5	333	5.037E-28	734
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8FA49-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8FA49-F1-model_v4 Lipoate-protein ligase A	0.325	329	217	2	324	5	333	5.351E-28	734
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1LEJ1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1LEJ1-F1-model_v4 Lipoate-protein ligase A	0.326	329	217	2	324	5	333	4.463E-28	733
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5R2K1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5R2K1-F1-model_v4 Lipoate-protein ligase A	0.319	329	219	2	324	5	333	6.039E-28	733
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZDY2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZDY2-F1-model_v4 Lipoate-protein ligase A	0.301	329	225	2	324	5	333	8.681E-28	733
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KMH0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KMH0-F1-model_v4 Lipoate-protein ligase A	0.326	329	217	2	324	5	333	7.692E-28	733
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7LEN2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7LEN2-F1-model_v4 Lipoate-protein ligase A	0.330	329	216	2	324	5	333	5.351E-28	732
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P60776-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P60776-F1-model_v4 Lipoate-protein ligase A	0.336	329	214	2	324	5	333	5.685E-28	732
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4TIN0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4TIN0-F1-model_v4 Lipoate-protein ligase A	0.307	329	223	2	324	5	333	1.794E-27	732
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q57G36-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q57G36-F1-model_v4 Lipoate-protein ligase A	0.322	329	218	2	324	5	333	5.037E-28	732
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31SV2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31SV2-F1-model_v4 Lipoate-protein ligase A	0.327	329	217	2	324	5	333	5.351E-28	731
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5R9V4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5R9V4-F1-model_v4 Lipoate-protein ligase A	0.323	329	218	2	324	5	333	6.816E-28	731
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8ALX2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8ALX2-F1-model_v4 Lipoate-protein ligase A	0.329	329	216	2	324	5	333	7.240E-28	730
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4T4I0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4T4I0-F1-model_v4 Lipoate-protein ligase A	0.326	329	217	2	324	5	333	7.240E-28	730
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5F534-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5F534-F1-model_v4 Lipoate-protein ligase A	0.319	329	219	2	324	5	333	7.692E-28	730
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B6I6N3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B6I6N3-F1-model_v4 Lipoate-protein ligase A	0.320	329	219	2	324	5	333	7.240E-28	730
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MTD2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MTD2-F1-model_v4 Lipoate-protein ligase A	0.336	329	214	2	324	5	333	6.816E-28	730
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1JJ36-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1JJ36-F1-model_v4 Lipoate-protein ligase A	0.307	329	223	2	324	5	333	2.427E-27	728
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7UR14-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7UR14-F1-model_v4 Lipoate-protein ligase A	0.327	329	217	2	324	5	333	9.222E-28	728
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7LNS6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7LNS6-F1-model_v4 Lipoate-protein ligase A	0.333	329	215	2	324	5	333	8.171E-28	728
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1R257-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1R257-F1-model_v4 Lipoate-protein ligase A	0.336	329	214	2	324	5	333	8.171E-28	728
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1IS33-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1IS33-F1-model_v4 Lipoate-protein ligase A	0.333	329	215	2	324	5	333	7.692E-28	728
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MNJ3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MNJ3-F1-model_v4 Lipoate-protein ligase A	0.323	329	218	2	324	5	333	8.171E-28	728
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7ZVS8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7ZVS8-F1-model_v4 Lipoate-protein ligase A	0.330	329	216	2	324	5	333	8.171E-28	728
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6TI00-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6TI00-F1-model_v4 Lipoate-protein ligase A	0.323	329	218	2	324	5	333	1.106E-27	727
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NH54-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NH54-F1-model_v4 Lipoate-protein ligase A	0.324	329	218	2	324	5	333	7.692E-28	727
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1AJV3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1AJV3-F1-model_v4 Lipoate-protein ligase A	0.335	329	214	2	324	5	333	9.222E-28	727
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q327K9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q327K9-F1-model_v4 Lipoate-protein ligase A	0.320	329	219	2	324	5	333	1.041E-27	727
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66A10-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66A10-F1-model_v4 Lipoate-protein ligase A	0.301	329	225	2	324	5	333	1.688E-27	726
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2K5K7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2K5K7-F1-model_v4 Lipoate-protein ligase A	0.307	329	223	2	324	5	333	3.284E-27	725
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9R087-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9R087-F1-model_v4 Lipoate-protein ligase A	0.302	329	225	2	324	5	333	1.175E-27	724
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7LXU8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7LXU8-F1-model_v4 Lipoate-protein ligase A	0.330	329	216	2	324	5	333	1.248E-27	723
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3YU08-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3YU08-F1-model_v4 Lipoate-protein ligase A	0.333	329	215	2	324	5	333	1.041E-27	722
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4SQ09-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4SQ09-F1-model_v4 Lipoate-protein ligase A	0.311	329	222	2	324	5	333	2.578E-27	722
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1CII3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1CII3-F1-model_v4 Lipoate-protein ligase A	0.301	329	225	2	324	5	333	2.739E-27	722
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C0Q7M8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C0Q7M8-F1-model_v4 Lipoate-protein ligase A	0.317	329	220	2	324	5	333	1.496E-27	721
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MIG6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MIG6-F1-model_v4 Lipoate-protein ligase A	0.334	329	214	2	324	5	333	8.681E-28	721
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q492U9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q492U9-F1-model_v4 Lipoate-protein ligase A	0.284	330	231	2	324	5	334	1.688E-27	720
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7FHI0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7FHI0-F1-model_v4 Lipoate-protein ligase A	0.301	329	225	2	324	5	333	3.284E-27	718
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9MRA3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9MRA3-F1-model_v4 Lipoate-protein ligase A	0.314	329	221	2	324	5	333	3.937E-27	716
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C748-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C748-F1-model_v4 Lipoate-protein ligase A	0.299	329	226	2	324	5	333	3.284E-27	715
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GDS3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GDS3-F1-model_v4 Lipoate-protein ligase A	0.303	328	224	2	324	5	332	9.752E-27	712
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JPK8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JPK8-F1-model_v4 Lipoate-protein ligase A	0.310	329	222	2	324	5	333	5.327E-27	703
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C3LM83-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C3LM83-F1-model_v4 Lipoate-protein ligase A	0.274	334	234	2	325	5	338	1.169E-26	703
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5F8E4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5F8E4-F1-model_v4 Lipoate-protein ligase A	0.283	320	222	2	311	5	324	1.169E-26	698
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9KS71-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9KS71-F1-model_v4 Lipoate-protein ligase A	0.283	320	222	2	311	5	324	1.489E-26	695
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DKP5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DKP5-F1-model_v4 Lipoate-protein ligase A	0.304	329	224	2	324	5	333	6.386E-27	695
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VR65-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VR65-F1-model_v4 Lipoate-protein ligase A	0.278	328	232	2	324	5	332	1.673E-25	677
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9HKT1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9HKT1-F1-model_v4 Lipoate-protein ligase A subunit 1	0.248	262	183	1	245	1	262	8.445E-22	663
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O46419-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O46419-F1-model_v4 Lipoyltransferase 1, mitochondrial	0.259	338	239	2	324	32	369	1.665E-24	622
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Y234-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Y234-F1-model_v4 Lipoyltransferase 1, mitochondrial	0.241	338	244	2	324	32	369	3.655E-24	616
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8VCM4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8VCM4-F1-model_v4 Lipoyltransferase 1, mitochondrial	0.230	338	248	2	324	32	369	2.243E-23	595
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Y9E6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Y9E6-F1-model_v4 Putative lipoate-protein ligase A	0.263	242	175	1	242	1	238	2.640E-19	570
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O13629-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O13629-F1-model_v4 Putative lipoate-protein ligase A	0.221	332	249	4	324	28	359	1.553E-22	568
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C0ZBW9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C0ZBW9-F1-model_v4 Octanoyltransferase LipM	0.221	270	183	2	237	5	274	3.572E-19	563
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3AET1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3AET1-F1-model_v4 Octanoyltransferase LipM	0.204	264	188	2	238	5	268	2.192E-18	558
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1HS22-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1HS22-F1-model_v4 Octanoyltransferase LipM	0.202	270	188	2	237	5	274	5.135E-19	557
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C4KZ18-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C4KZ18-F1-model_v4 Octanoyltransferase LipM	0.229	271	182	1	237	4	274	1.435E-18	547
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7Z6M0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7Z6M0-F1-model_v4 Octanoyltransferase LipM	0.204	276	188	1	237	1	276	2.980E-19	542
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5KX81-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5KX81-F1-model_v4 Octanoyltransferase LipM	0.208	270	186	2	237	7	276	2.063E-18	537
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K938-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K938-F1-model_v4 Octanoyltransferase LipM	0.208	272	186	2	237	3	274	1.828E-18	534
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6ZPT1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6ZPT1-F1-model_v4 Putative lipoate-protein ligase A	0.217	273	210	2	270	116	388	8.890E-20	521
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7GHD6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7GHD6-F1-model_v4 Octanoyltransferase LipM	0.197	276	190	1	237	1	276	8.849E-19	519
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q81M24-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q81M24-F1-model_v4 Octanoyltransferase LipM	0.184	272	192	2	237	5	276	3.151E-18	515
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q67N40-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q67N40-F1-model_v4 Octanoyltransferase LipM	0.175	269	194	2	237	4	272	1.429E-17	514
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P54511-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P54511-F1-model_v4 Octanoyltransferase LipM	0.205	276	188	1	237	1	276	1.351E-18	514
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3LQ66-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3LQ66-F1-model_v4 Putative lipoate-protein ligase A	0.202	305	233	1	305	115	407	1.284E-20	514
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ERL9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ERL9-F1-model_v4 Octanoyltransferase LipM	0.215	273	189	1	242	1	273	1.197E-18	511
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5VLD2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5VLD2-F1-model_v4 Putative lipoate-protein ligase A	0.202	306	234	2	307	116	409	2.350E-20	509
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q818P0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q818P0-F1-model_v4 Octanoyltransferase LipM	0.181	272	192	2	237	5	276	6.510E-18	507
+DESULFOASV1_3310_lipoate-protein_ligase	AF-D5WQ56-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-D5WQ56-F1-model_v4 Octanoyltransferase LipM	0.191	268	190	2	237	5	272	3.332E-17	501
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2RH52-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2RH52-F1-model_v4 Octanoyltransferase LipM	0.191	267	190	2	237	5	271	2.779E-17	498
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P47051-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P47051-F1-model_v4 Putative lipoate-protein ligase A	0.203	304	232	2	305	116	407	7.415E-20	493
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B9E6R6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B9E6R6-F1-model_v4 Octanoyltransferase LipM	0.196	269	189	2	237	6	274	9.315E-17	492
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1YLP0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1YLP0-F1-model_v4 Octanoyltransferase LipM	0.189	269	191	2	237	6	274	3.540E-17	492
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HP16-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HP16-F1-model_v4 Octanoyltransferase LipM	0.190	271	190	2	237	4	274	6.884E-17	488
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q189T1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q189T1-F1-model_v4 Octanoyltransferase LipM	0.182	265	192	2	237	5	269	7.769E-17	479
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2FY37-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2FY37-F1-model_v4 Octanoyltransferase LipM	0.194	270	189	2	237	5	274	1.511E-16	479
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1YHU0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1YHU0-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.153	254	191	2	228	10	263	4.447E-14	375
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8EM39-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8EM39-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.162	260	189	2	228	12	271	2.580E-14	373
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C4KZ14-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C4KZ14-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.175	258	195	2	238	12	269	3.286E-14	365
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4J246-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4J246-F1-model_v4 Octanoyltransferase	0.130	227	195	1	225	1	227	1.237E-12	364
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C0ZF00-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C0ZF00-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.191	245	179	2	223	10	254	8.648E-14	363
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B9E8M1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B9E8M1-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.186	252	184	2	228	9	260	1.583E-13	361
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C1DMR0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C1DMR0-F1-model_v4 Octanoyltransferase	0.162	220	181	1	220	1	217	8.104E-13	360
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5KUD7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5KUD7-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.179	257	186	2	228	10	266	1.490E-13	360
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Y489-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Y489-F1-model_v4 Lipoyl-[GcvH]:protein N-lipoyltransferase	0.174	255	187	2	228	14	268	4.724E-14	358
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7GML0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7GML0-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.183	266	196	2	242	10	275	4.447E-14	357
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1AWI7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1AWI7-F1-model_v4 Octanoyltransferase	0.139	222	173	1	222	1	202	2.407E-12	354
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7Z9Y5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7Z9Y5-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.187	272	198	2	245	15	286	9.760E-14	352
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JZA4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JZA4-F1-model_v4 Octanoyltransferase	0.151	210	171	1	210	1	202	4.148E-12	350
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5F8I1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5F8I1-F1-model_v4 Octanoyltransferase	0.149	206	168	1	206	1	198	5.612E-12	348
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C3K2L9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C3K2L9-F1-model_v4 Octanoyltransferase	0.174	216	174	1	216	1	212	1.484E-12	348
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3MW04-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3MW04-F1-model_v4 Probable octanoyltransferase	0.151	223	178	1	223	1	211	1.890E-12	347
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4XYX4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4XYX4-F1-model_v4 Octanoyltransferase	0.142	206	172	1	206	1	201	5.283E-12	346
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1KU21-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1KU21-F1-model_v4 Octanoyltransferase	0.155	210	170	1	210	1	202	6.333E-12	346
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5YD73-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5YD73-F1-model_v4 Octanoyltransferase	0.144	229	193	2	227	3	231	1.397E-12	346
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P39648-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P39648-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.197	257	181	2	228	15	271	2.418E-13	346
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4K5G9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4K5G9-F1-model_v4 Octanoyltransferase	0.171	215	173	2	216	3	212	2.407E-12	345
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4VQZ7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4VQZ7-F1-model_v4 Octanoyltransferase	0.165	225	180	1	225	3	218	3.675E-12	345
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2G0I9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2G0I9-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.181	255	186	1	228	11	265	2.568E-13	344
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JUC7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JUC7-F1-model_v4 Octanoyltransferase	0.151	210	171	1	210	1	202	8.067E-12	343
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1J143-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1J143-F1-model_v4 Octanoyltransferase	0.174	216	174	1	216	1	212	2.133E-12	342
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1LTM4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1LTM4-F1-model_v4 Octanoyltransferase	0.135	219	189	2	220	4	222	3.904E-12	342
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B6IZL5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B6IZL5-F1-model_v4 Octanoyltransferase	0.149	228	191	1	228	1	225	1.032E-12	342
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4RLL0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4RLL0-F1-model_v4 Octanoyltransferase	0.149	206	168	1	206	1	198	1.091E-11	339
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9LZ96-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9LZ96-F1-model_v4 Octanoyltransferase	0.150	210	171	1	210	1	202	9.671E-12	339
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9NDX7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9NDX7-F1-model_v4 Octanoyltransferase	0.149	228	191	1	228	1	225	1.397E-12	339
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q48DM5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q48DM5-F1-model_v4 Octanoyltransferase	0.162	216	177	1	216	1	212	4.406E-12	338
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HRF6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HRF6-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.187	256	184	2	228	10	265	1.583E-13	338
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5CWR5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5CWR5-F1-model_v4 Octanoyltransferase	0.146	206	172	1	206	1	202	7.148E-12	336
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5W9I6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5W9I6-F1-model_v4 Octanoyltransferase	0.161	216	177	1	216	1	212	4.681E-12	336
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1JGB6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1JGB6-F1-model_v4 Octanoyltransferase	0.152	205	167	2	206	9	206	8.569E-12	336
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4XHV1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4XHV1-F1-model_v4 Octanoyltransferase	0.140	231	195	1	228	1	231	1.890E-12	336
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0LIW0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0LIW0-F1-model_v4 Octanoyltransferase	0.153	226	190	3	227	2	227	1.779E-12	335
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZDG9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZDG9-F1-model_v4 Octanoyltransferase	0.152	205	167	2	206	9	206	6.728E-12	335
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q81JR5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q81JR5-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.162	255	189	2	228	14	268	8.609E-13	334
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1CKR5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1CKR5-F1-model_v4 Octanoyltransferase	0.152	205	167	2	206	9	206	8.569E-12	333
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3K6A3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3K6A3-F1-model_v4 Octanoyltransferase	0.180	215	171	2	216	4	212	6.333E-12	332
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8J3G1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8J3G1-F1-model_v4 Octanoyltransferase	0.140	235	195	1	228	1	235	9.716E-13	332
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0KJX5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0KJX5-F1-model_v4 Octanoyltransferase	0.165	216	176	1	216	1	212	6.728E-12	330
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1I4G0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1I4G0-F1-model_v4 Octanoyltransferase	0.175	216	174	1	216	1	212	1.674E-12	330
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8DZW2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8DZW2-F1-model_v4 Octanoyltransferase	0.144	230	194	2	229	3	232	5.612E-12	330
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2K875-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2K875-F1-model_v4 Octanoyltransferase	0.153	204	166	1	204	8	204	1.232E-11	329
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K6A7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K6A7-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.179	254	186	2	228	14	267	6.759E-13	328
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31F43-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31F43-F1-model_v4 Octanoyltransferase	0.155	203	171	1	203	1	203	8.569E-12	327
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4ZN83-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4ZN83-F1-model_v4 Octanoyltransferase	0.157	224	180	2	225	3	217	1.477E-11	327
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8DKM7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8DKM7-F1-model_v4 Octanoyltransferase	0.147	222	187	1	222	1	220	2.557E-12	327
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4TP08-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4TP08-F1-model_v4 Octanoyltransferase	0.150	215	176	1	215	8	215	8.569E-12	327
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0VN37-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0VN37-F1-model_v4 Octanoyltransferase	0.144	232	193	1	232	10	236	4.681E-12	327
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q814N9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q814N9-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.152	272	202	3	241	10	281	2.142E-13	327
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0L510-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0L510-F1-model_v4 Octanoyltransferase	0.154	214	176	2	215	4	212	3.675E-12	326
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87VW6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87VW6-F1-model_v4 Octanoyltransferase	0.153	224	181	2	225	3	217	1.667E-11	326
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83C64-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83C64-F1-model_v4 Octanoyltransferase	0.150	225	188	4	228	6	227	2.133E-12	326
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q02SG4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q02SG4-F1-model_v4 Octanoyltransferase	0.153	214	178	3	216	2	212	1.160E-11	325
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8FZ22-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8FZ22-F1-model_v4 Octanoyltransferase	0.157	218	183	1	218	1	218	7.593E-12	324
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7VKE7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7VKE7-F1-model_v4 Octanoyltransferase	0.169	220	179	1	220	1	217	1.309E-11	324
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7FKY8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7FKY8-F1-model_v4 Octanoyltransferase	0.144	204	168	1	204	8	204	1.232E-11	324
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C1D5T4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C1D5T4-F1-model_v4 Octanoyltransferase	0.157	219	172	1	219	1	205	1.569E-11	323
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GB10-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GB10-F1-model_v4 Octanoyltransferase	0.134	204	170	2	205	8	204	1.771E-11	322
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66DF4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66DF4-F1-model_v4 Octanoyltransferase	0.152	205	167	2	206	9	206	1.477E-11	322
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6V0B3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6V0B3-F1-model_v4 Octanoyltransferase	0.157	216	178	1	216	1	212	1.771E-11	321
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9X6V9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9X6V9-F1-model_v4 Octanoyltransferase	0.153	214	178	3	216	2	212	1.771E-11	321
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7V8B6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7V8B6-F1-model_v4 Octanoyltransferase	0.157	216	178	1	216	1	212	1.771E-11	321
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6ARJ9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6ARJ9-F1-model_v4 Octanoyltransferase	0.142	220	185	1	217	1	220	1.023E-10	321
+DESULFOASV1_3310_lipoate-protein_ligase	AF-D5WVB5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-D5WVB5-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.213	260	178	5	231	19	278	2.418E-13	321
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q88DM4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q88DM4-F1-model_v4 Octanoyltransferase	0.157	216	177	1	216	3	213	2.704E-11	320
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1GYC2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1GYC2-F1-model_v4 Octanoyltransferase	0.160	210	166	2	211	13	211	1.390E-11	320
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JPR8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JPR8-F1-model_v4 Octanoyltransferase	0.143	212	175	2	213	9	213	1.160E-11	320
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q89AL8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q89AL8-F1-model_v4 Octanoyltransferase	0.122	202	168	2	203	7	198	7.115E-11	318
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9KTF8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9KTF8-F1-model_v4 Octanoyltransferase	0.146	204	163	2	205	8	199	5.962E-12	317
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72DM3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72DM3-F1-model_v4 Octanoyltransferase	0.162	224	180	1	224	1	216	7.115E-11	317
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q02AK4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q02AK4-F1-model_v4 Octanoyltransferase	0.165	215	179	1	215	1	215	1.881E-11	317
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9KFW4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9KFW4-F1-model_v4 Octanoyltransferase	0.160	235	189	4	238	6	231	3.065E-12	317
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1I022-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1I022-F1-model_v4 Octanoyl-[GcvH]:protein N-octanoyltransferase	0.162	266	198	2	238	7	272	3.271E-13	317
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5ZVC9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5ZVC9-F1-model_v4 Octanoyltransferase	0.142	202	165	1	202	1	193	1.154E-10	316
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4T0B0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4T0B0-F1-model_v4 Octanoyltransferase	0.160	211	175	2	210	4	214	2.704E-11	316
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0TR56-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0TR56-F1-model_v4 Octanoyltransferase	0.153	218	184	1	218	1	218	1.998E-11	316
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2NUV7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2NUV7-F1-model_v4 Octanoyltransferase	0.135	222	187	1	222	1	217	2.872E-11	315
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31KN6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31KN6-F1-model_v4 Octanoyltransferase	0.168	224	184	2	225	5	226	2.396E-11	315
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C508-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C508-F1-model_v4 Octanoyltransferase	0.152	205	167	2	206	9	206	2.545E-11	315
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C6BZY6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C6BZY6-F1-model_v4 Octanoyltransferase	0.153	215	180	1	215	1	214	4.659E-11	314
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6TWD0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6TWD0-F1-model_v4 Octanoyltransferase	0.150	208	174	1	206	1	208	3.051E-11	314
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5QYE6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5QYE6-F1-model_v4 Octanoyltransferase	0.179	215	173	4	218	6	217	2.255E-11	313
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B9MQ23-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B9MQ23-F1-model_v4 Octanoyltransferase	0.135	227	195	1	227	1	227	6.728E-12	313
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C1F3S1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C1F3S1-F1-model_v4 Octanoyltransferase	0.172	239	184	4	226	6	244	3.065E-12	313
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2L1E2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2L1E2-F1-model_v4 Octanoyltransferase	0.171	229	179	1	229	1	217	1.998E-11	312
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8DRR1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8DRR1-F1-model_v4 Octanoyltransferase	0.161	216	178	1	216	1	213	1.384E-10	312
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5N180-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5N180-F1-model_v4 Octanoyltransferase	0.176	224	182	2	225	5	226	2.123E-11	312
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5WWD9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5WWD9-F1-model_v4 Octanoyltransferase	0.149	199	162	4	202	3	193	1.659E-10	311
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9SXP7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9SXP7-F1-model_v4 Octanoyltransferase LIP2, mitochondrial	0.149	231	196	2	232	5	235	2.704E-11	311
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1RGT3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1RGT3-F1-model_v4 Octanoyltransferase	0.159	209	167	5	213	10	209	4.386E-11	310
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2VBK0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2VBK0-F1-model_v4 Octanoyltransferase	0.157	217	176	2	218	5	214	1.309E-11	310
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8PPL9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8PPL9-F1-model_v4 Octanoyltransferase	0.174	213	175	4	216	20	232	1.309E-11	310
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B6J7S2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B6J7S2-F1-model_v4 Octanoyltransferase	0.157	232	191	1	228	1	232	3.065E-12	310
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8H7D4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8H7D4-F1-model_v4 Octanoyltransferase	0.168	206	167	1	206	1	202	3.242E-11	309
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1KDX2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1KDX2-F1-model_v4 Octanoyltransferase	0.153	218	184	1	218	1	218	2.255E-11	309
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DBV7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DBV7-F1-model_v4 Octanoyltransferase	0.151	208	169	4	211	11	210	4.386E-11	309
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5MZJ0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5MZJ0-F1-model_v4 Octanoyltransferase	0.125	232	200	1	232	1	229	9.104E-12	309
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3PKN9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3PKN9-F1-model_v4 Octanoyltransferase	0.124	206	175	1	206	4	204	1.023E-10	308
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5US49-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5US49-F1-model_v4 Octanoyltransferase	0.163	238	186	1	223	1	238	1.309E-11	307
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5X551-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5X551-F1-model_v4 Octanoyltransferase	0.140	199	163	4	202	3	193	1.989E-10	306
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5SLQ3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5SLQ3-F1-model_v4 Octanoyltransferase	0.139	216	183	1	216	1	214	5.258E-11	306
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2SA37-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2SA37-F1-model_v4 Octanoyltransferase	0.144	204	168	4	207	13	209	4.950E-11	306
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6D7M7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6D7M7-F1-model_v4 Octanoyltransferase	0.152	207	166	5	211	14	210	3.886E-11	306
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q60CJ7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q60CJ7-F1-model_v4 Octanoyltransferase	0.160	214	173	1	214	1	207	1.091E-11	305
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0ACA3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0ACA3-F1-model_v4 Octanoyltransferase	0.152	205	165	2	206	10	205	1.086E-10	305
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q21FD9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q21FD9-F1-model_v4 Octanoyltransferase	0.116	215	189	1	215	2	216	9.627E-11	305
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4Y9G1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4Y9G1-F1-model_v4 Octanoyltransferase	0.159	209	167	5	213	12	211	6.304E-11	305
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MY97-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MY97-F1-model_v4 Octanoyltransferase	0.151	202	163	4	205	8	200	2.704E-11	305
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0K3J8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0K3J8-F1-model_v4 Octanoyltransferase	0.138	223	191	1	222	1	223	3.444E-11	305
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1IIJ5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1IIJ5-F1-model_v4 Octanoyltransferase	0.170	225	181	1	219	1	225	5.258E-11	305
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P57356-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P57356-F1-model_v4 Octanoyltransferase	0.132	203	168	4	206	9	202	6.697E-11	304
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6LN88-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6LN88-F1-model_v4 Octanoyltransferase	0.173	211	170	1	211	1	206	9.627E-11	304
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1XSA5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1XSA5-F1-model_v4 Octanoyltransferase	0.167	214	174	1	210	1	214	6.697E-11	304
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6F8H3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6F8H3-F1-model_v4 Octanoyltransferase	0.124	198	168	2	199	9	201	8.030E-11	304
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1K1U6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1K1U6-F1-model_v4 Octanoyltransferase	0.148	203	169	1	203	17	215	2.872E-11	304
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0K8D0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0K8D0-F1-model_v4 Octanoyltransferase	0.136	221	189	1	220	1	221	3.444E-11	304
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6VZ75-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6VZ75-F1-model_v4 Octanoyltransferase	0.125	214	179	1	214	3	208	1.562E-10	303
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8DFD2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8DFD2-F1-model_v4 Octanoyltransferase	0.155	213	174	4	216	8	214	5.934E-11	303
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5IC06-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5IC06-F1-model_v4 Octanoyltransferase	0.149	199	162	4	202	3	193	2.691E-10	302
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P44464-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P44464-F1-model_v4 Octanoyltransferase	0.130	211	177	4	214	8	212	1.091E-11	302
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1S8U0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1S8U0-F1-model_v4 Octanoyltransferase	0.158	213	175	1	213	1	209	4.659E-11	302
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9L013-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9L013-F1-model_v4 Octanoyltransferase	0.155	209	168	5	213	10	209	6.697E-11	302
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QXA4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QXA4-F1-model_v4 Octanoyltransferase	0.142	205	171	2	206	8	207	8.530E-11	302
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87RR0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87RR0-F1-model_v4 Octanoyltransferase	0.165	202	160	4	205	8	200	1.086E-10	302
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8CSH6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8CSH6-F1-model_v4 Octanoyltransferase	0.167	206	169	1	206	1	204	4.129E-11	302
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8LYF4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8LYF4-F1-model_v4 Octanoyltransferase	0.150	206	172	4	209	11	213	4.659E-11	300
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q30XT7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q30XT7-F1-model_v4 Octanoyltransferase	0.139	217	185	1	217	1	216	2.385E-10	300
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3BXQ4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3BXQ4-F1-model_v4 Octanoyltransferase	0.166	218	178	2	216	15	232	1.667E-11	299
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q82UJ6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q82UJ6-F1-model_v4 Octanoyltransferase	0.166	203	165	1	203	3	201	9.062E-11	298
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q12QX0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q12QX0-F1-model_v4 Octanoyltransferase	0.152	210	172	2	211	15	218	8.030E-11	298
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C0QQ61-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C0QQ61-F1-model_v4 Octanoyltransferase	0.165	204	162	4	207	5	199	5.934E-11	297
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z8I2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z8I2-F1-model_v4 Octanoyltransferase	0.130	204	171	2	205	5	201	2.859E-10	297
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8R9E0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8R9E0-F1-model_v4 Octanoyltransferase	0.145	213	181	2	214	3	215	5.934E-11	297
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4XA20-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4XA20-F1-model_v4 Octanoyltransferase	0.150	200	167	4	203	11	207	6.304E-11	296
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5F2Y1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5F2Y1-F1-model_v4 Octanoyltransferase	0.150	204	162	2	205	8	199	3.444E-11	296
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MN16-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MN16-F1-model_v4 Octanoyltransferase	0.150	213	175	4	216	8	214	8.530E-11	296
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1AT14-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1AT14-F1-model_v4 Octanoyltransferase	0.159	211	174	2	209	8	218	3.444E-11	296
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5GVR6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5GVR6-F1-model_v4 Octanoyltransferase	0.167	217	177	1	214	14	230	2.396E-11	296
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1U3B4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1U3B4-F1-model_v4 Octanoyltransferase	0.134	205	167	2	206	7	200	1.872E-10	295
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q087L4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q087L4-F1-model_v4 Octanoyltransferase	0.157	214	175	1	214	1	208	9.627E-11	295
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3D7P8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3D7P8-F1-model_v4 Octanoyltransferase	0.159	209	167	5	213	10	209	8.030E-11	294
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9PDV9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9PDV9-F1-model_v4 Octanoyltransferase	0.146	215	178	2	216	17	225	7.115E-11	294
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7N766-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7N766-F1-model_v4 Octanoyltransferase	0.136	203	167	4	206	13	206	1.762E-10	293
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1VF78-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1VF78-F1-model_v4 Octanoyltransferase	0.165	224	180	1	224	1	216	1.384E-10	293
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2Y7I8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2Y7I8-F1-model_v4 Octanoyltransferase	0.180	202	157	5	206	20	212	3.642E-10	292
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1SZ16-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1SZ16-F1-model_v4 Octanoyltransferase	0.149	205	166	2	206	9	204	3.869E-10	292
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8E4W5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8E4W5-F1-model_v4 Octanoyltransferase	0.159	209	167	5	213	10	209	9.627E-11	292
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2IVM2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2IVM2-F1-model_v4 Octanoyltransferase	0.140	216	181	4	219	15	226	4.950E-11	292
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8P589-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8P589-F1-model_v4 Octanoyltransferase	0.170	218	178	2	216	15	232	3.444E-11	292
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1JZ91-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1JZ91-F1-model_v4 Octanoyltransferase	0.127	220	189	1	217	25	244	1.771E-11	292
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4QPL7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4QPL7-F1-model_v4 Octanoyltransferase	0.131	214	183	1	214	1	212	1.998E-11	291
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7ND22-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7ND22-F1-model_v4 Octanoyltransferase	0.166	223	174	4	226	7	216	3.444E-11	291
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MFQ3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MFQ3-F1-model_v4 Octanoyltransferase	0.146	208	170	4	211	8	207	3.227E-10	290
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8D326-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8D326-F1-model_v4 Octanoyltransferase	0.152	206	168	1	206	1	199	7.115E-11	290
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q62N15-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q62N15-F1-model_v4 Octanoyltransferase	0.150	221	184	1	217	1	221	2.545E-11	290
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2NYZ1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2NYZ1-F1-model_v4 Octanoyltransferase	0.168	215	177	1	214	16	230	8.030E-11	290
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72GV2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72GV2-F1-model_v4 Octanoyltransferase	0.143	216	183	1	216	1	214	1.470E-10	289
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q10ZL5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q10ZL5-F1-model_v4 Octanoyltransferase	0.130	206	178	1	206	2	207	2.113E-10	289
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZUR4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZUR4-F1-model_v4 Probable octanoyltransferase	0.121	215	178	1	215	1	203	7.115E-11	289
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4UYT3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4UYT3-F1-model_v4 Octanoyltransferase	0.168	219	179	1	216	14	232	1.309E-11	289
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O32961-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O32961-F1-model_v4 Octanoyltransferase	0.154	207	173	1	206	9	215	4.110E-10	289
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6WRL1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6WRL1-F1-model_v4 Octanoyltransferase	0.150	209	169	5	213	10	209	1.989E-10	288
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q63XX6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q63XX6-F1-model_v4 Octanoyltransferase	0.150	216	181	4	217	6	221	4.129E-11	288
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0RNP8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0RNP8-F1-model_v4 Octanoyltransferase	0.165	218	179	2	216	15	232	1.477E-11	288
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5EY93-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5EY93-F1-model_v4 Octanoyltransferase	0.153	205	166	1	205	1	197	7.993E-10	287
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8YSA4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8YSA4-F1-model_v4 Octanoyltransferase	0.120	203	174	4	206	15	213	1.989E-10	287
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P27750-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P27750-F1-model_v4 Uncharacterized protein H16_B0148	0.193	245	165	1	206	1	245	1.309E-11	287
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1AMT7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1AMT7-F1-model_v4 Octanoyltransferase	0.168	205	160	1	205	1	193	1.470E-10	286
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31CD7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q31CD7-F1-model_v4 Octanoyltransferase	0.107	215	190	1	214	2	216	1.226E-10	286
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87DZ8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87DZ8-F1-model_v4 Octanoyltransferase	0.144	203	168	2	204	17	213	2.113E-10	286
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6L9E1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6L9E1-F1-model_v4 Octanoyltransferase	0.181	217	164	3	203	4	220	1.154E-10	285
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8G783-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8G783-F1-model_v4 Octanoyltransferase	0.141	221	185	1	216	1	221	1.872E-10	285
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3Z4G2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3Z4G2-F1-model_v4 Octanoyltransferase	0.146	208	170	4	211	8	207	5.907E-10	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2TU88-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2TU88-F1-model_v4 Octanoyltransferase	0.146	208	170	4	211	8	207	5.561E-10	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q32IV0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q32IV0-F1-model_v4 Octanoyltransferase	0.146	208	170	4	211	8	207	5.561E-10	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8EHQ5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8EHQ5-F1-model_v4 Octanoyltransferase	0.164	209	166	5	213	10	209	1.989E-10	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0UVP8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0UVP8-F1-model_v4 Octanoyltransferase	0.124	202	176	4	205	7	208	5.234E-10	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83G63-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83G63-F1-model_v4 Octanoyltransferase	0.159	221	181	1	216	14	234	2.123E-11	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q484R7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q484R7-F1-model_v4 Octanoyltransferase	0.127	210	175	4	213	20	221	6.276E-10	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A2C0K7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A2C0K7-F1-model_v4 Octanoyltransferase	0.166	205	169	2	206	29	232	1.659E-10	284
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NLY9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NLY9-F1-model_v4 Octanoyltransferase	0.141	208	171	4	211	8	207	6.276E-10	283
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B6I139-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B6I139-F1-model_v4 Octanoyltransferase	0.147	210	172	2	211	5	207	3.869E-10	283
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8G3B3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8G3B3-F1-model_v4 Octanoyltransferase	0.103	215	191	1	214	2	216	1.659E-10	283
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q65RH6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q65RH6-F1-model_v4 Octanoyltransferase	0.151	210	177	2	211	4	213	7.559E-11	283
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2SWY4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2SWY4-F1-model_v4 Octanoyltransferase	0.119	218	189	1	215	15	232	2.113E-10	283
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3NQX5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3NQX5-F1-model_v4 Octanoyltransferase	0.146	216	179	2	212	21	236	4.386E-11	283
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q47JD4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q47JD4-F1-model_v4 Octanoyltransferase	0.154	203	165	1	203	1	196	4.110E-10	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5UFJ9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5UFJ9-F1-model_v4 Octanoyltransferase	0.134	214	183	1	214	1	212	4.950E-11	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7UKS0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7UKS0-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	4.110E-10	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4W816-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4W816-F1-model_v4 Octanoyltransferase	0.141	201	164	5	205	10	201	5.234E-10	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q39S09-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q39S09-F1-model_v4 Octanoyltransferase	0.169	199	158	1	199	1	191	3.227E-10	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A2BV61-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A2BV61-F1-model_v4 Octanoyltransferase	0.105	213	187	2	214	5	214	1.989E-10	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8K9Q3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8K9Q3-F1-model_v4 Octanoyltransferase	0.138	214	180	3	216	7	216	2.245E-10	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8ZQK0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8ZQK0-F1-model_v4 Octanoyltransferase	0.153	207	174	1	206	9	215	6.667E-10	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A2S5Y8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A2S5Y8-F1-model_v4 Octanoyltransferase	0.144	217	181	1	212	23	239	2.704E-11	282
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GL91-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GL91-F1-model_v4 Octanoyltransferase	0.133	202	174	1	202	1	202	8.530E-11	281
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8AJH4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8AJH4-F1-model_v4 Octanoyltransferase	0.131	202	168	4	205	8	201	9.583E-10	281
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C4ZWB7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C4ZWB7-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	4.366E-10	281
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9WKF8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9WKF8-F1-model_v4 Octanoyltransferase	0.172	222	177	1	215	1	222	1.303E-10	281
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P60721-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P60721-F1-model_v4 Octanoyltransferase	0.147	210	172	2	211	5	207	4.927E-10	280
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0TK43-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0TK43-F1-model_v4 Octanoyltransferase	0.147	210	172	2	211	5	207	4.927E-10	280
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7V8V9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7V8V9-F1-model_v4 Octanoyltransferase	0.144	206	175	1	206	18	222	3.227E-10	280
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1BT81-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1BT81-F1-model_v4 Octanoyltransferase	0.139	214	183	2	215	33	245	4.659E-11	280
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q39CJ1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q39CJ1-F1-model_v4 Octanoyltransferase	0.131	220	188	1	217	28	247	5.586E-11	280
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2T1K6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2T1K6-F1-model_v4 Octanoyltransferase	0.143	214	182	2	214	34	247	1.303E-10	280
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3A7N4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3A7N4-F1-model_v4 Octanoyltransferase	0.173	202	160	4	205	3	197	4.638E-10	279
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4WK37-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4WK37-F1-model_v4 Probable octanoyltransferase	0.122	228	181	1	228	1	207	2.691E-10	279
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7L9H4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7L9H4-F1-model_v4 Octanoyltransferase	0.147	210	172	2	211	5	207	5.907E-10	279
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P60720-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P60720-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	5.234E-10	279
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6T344-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6T344-F1-model_v4 Octanoyltransferase	0.149	209	174	1	206	5	213	1.023E-10	279
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5GT50-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5GT50-F1-model_v4 Octanoyltransferase	0.158	198	165	5	202	4	200	3.227E-10	278
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7M5F7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7M5F7-F1-model_v4 Octanoyltransferase	0.146	208	170	4	211	8	207	9.583E-10	278
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0AI04-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0AI04-F1-model_v4 Octanoyltransferase	0.159	200	164	4	203	20	215	2.245E-10	278
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9RWA5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9RWA5-F1-model_v4 Octanoyltransferase	0.162	226	180	1	216	98	323	4.110E-10	278
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7ZXQ7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7ZXQ7-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	6.667E-10	277
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7N9N6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7N9N6-F1-model_v4 Octanoyltransferase	0.141	208	171	4	211	8	207	1.149E-09	277
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q324R3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q324R3-F1-model_v4 Octanoyltransferase	0.147	210	172	2	211	5	207	6.667E-10	277
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P57977-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P57977-F1-model_v4 Octanoyltransferase	0.131	208	178	4	211	10	215	8.530E-11	277
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3N575-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3N575-F1-model_v4 Octanoyltransferase	0.144	220	183	2	216	27	246	5.258E-11	277
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0Q6D2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0Q6D2-F1-model_v4 Octanoyltransferase	0.109	198	168	6	203	10	198	3.642E-10	276
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1RET2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1RET2-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	7.082E-10	276
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7ZJ18-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7ZJ18-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	7.082E-10	276
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7V2R8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7V2R8-F1-model_v4 Octanoyltransferase	0.122	205	176	2	206	5	206	1.872E-10	276
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5E6V8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5E6V8-F1-model_v4 Octanoyltransferase	0.141	214	183	4	217	10	223	1.872E-10	276
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KAV9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KAV9-F1-model_v4 Octanoyltransferase	0.122	214	184	1	211	28	241	1.562E-10	276
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1LKM1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1LKM1-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	9.583E-10	275
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5YQI1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5YQI1-F1-model_v4 Octanoyltransferase	0.147	210	172	2	211	5	207	8.491E-10	275
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P60722-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P60722-F1-model_v4 Octanoyltransferase	0.147	210	172	2	211	5	207	8.491E-10	275
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q15VL2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q15VL2-F1-model_v4 Octanoyltransferase	0.154	204	162	2	205	10	202	3.227E-10	275
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HXV6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HXV6-F1-model_v4 Octanoyltransferase	0.168	212	171	5	216	10	216	3.037E-10	275
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3H2J1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3H2J1-F1-model_v4 Octanoyltransferase	0.120	210	184	2	211	3	212	2.385E-10	275
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q73GE2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q73GE2-F1-model_v4 Octanoyltransferase	0.144	199	169	5	203	4	201	2.113E-10	274
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3CLJ0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3CLJ0-F1-model_v4 Octanoyltransferase	0.158	199	166	5	203	4	201	2.113E-10	274
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5UBB1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5UBB1-F1-model_v4 Octanoyltransferase	0.139	214	182	1	214	1	212	7.559E-11	274
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HLK2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HLK2-F1-model_v4 Octanoyltransferase	0.172	212	171	5	216	10	216	4.638E-10	274
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6KZK7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6KZK7-F1-model_v4 Probable octanoyltransferase 2	0.135	206	168	1	206	28	222	6.276E-10	274
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1YNM7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1YNM7-F1-model_v4 Octanoyltransferase	0.138	215	184	2	215	33	247	5.934E-11	274
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q68VN7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q68VN7-F1-model_v4 Octanoyltransferase	0.151	202	171	1	202	2	203	8.491E-10	273
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7UDD0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7UDD0-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	1.018E-09	273
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MRR7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MRR7-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	9.583E-10	273
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q47R87-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q47R87-F1-model_v4 Octanoyltransferase	0.149	212	176	4	211	9	220	1.226E-10	273
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1A8Q5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1A8Q5-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	1.081E-09	272
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5XZS4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5XZS4-F1-model_v4 Octanoyltransferase	0.162	202	163	2	203	9	203	1.086E-10	272
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3N2P2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3N2P2-F1-model_v4 Octanoyltransferase	0.125	210	183	2	211	3	212	2.113E-10	272
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B9LM66-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B9LM66-F1-model_v4 Octanoyltransferase	0.172	222	177	1	215	1	222	3.428E-10	272
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A2SCI8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A2SCI8-F1-model_v4 Octanoyltransferase	0.145	224	178	1	209	1	224	4.366E-10	272
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3MR18-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3MR18-F1-model_v4 Octanoyltransferase	0.142	220	184	2	216	24	243	5.586E-11	272
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4JI72-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4JI72-F1-model_v4 Octanoyltransferase	0.141	210	179	2	211	33	241	1.470E-10	272
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8F300-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8F300-F1-model_v4 Octanoyltransferase	0.142	208	175	1	205	1	208	1.989E-10	271
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0T6P0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0T6P0-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	1.149E-09	271
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B9KJ95-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B9KJ95-F1-model_v4 Octanoyltransferase	0.140	202	173	4	205	9	210	2.859E-10	271
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0I1H7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0I1H7-F1-model_v4 Octanoyltransferase	0.130	208	180	4	211	7	214	1.470E-10	271
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3M698-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3M698-F1-model_v4 Octanoyltransferase	0.128	203	173	4	206	15	213	2.385E-10	271
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q74AE2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q74AE2-F1-model_v4 Octanoyltransferase	0.186	215	165	1	215	1	204	2.385E-10	271
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1V017-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1V017-F1-model_v4 Octanoyltransferase	0.142	221	184	1	216	23	243	5.934E-11	271
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7NTG0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7NTG0-F1-model_v4 Octanoyltransferase	0.138	203	172	1	203	1	200	8.530E-11	270
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4UJQ5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4UJQ5-F1-model_v4 Octanoyltransferase	0.141	203	170	4	202	1	203	3.227E-10	270
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1IYH8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1IYH8-F1-model_v4 Octanoyltransferase	0.150	208	169	4	211	8	207	1.221E-09	270
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3AI29-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3AI29-F1-model_v4 Octanoyltransferase	0.141	203	173	2	204	19	220	5.907E-10	270
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9HJ12-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9HJ12-F1-model_v4 Octanoyltransferase	0.139	220	183	2	215	11	230	1.659E-10	270
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5FUX5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5FUX5-F1-model_v4 Octanoyltransferase	0.122	219	186	2	214	15	233	1.086E-10	270
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2JKB7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2JKB7-F1-model_v4 Octanoyltransferase	0.153	254	208	1	247	8	261	1.569E-11	270
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5CEL3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5CEL3-F1-model_v4 Octanoyltransferase	0.155	203	169	3	203	2	204	2.385E-10	269
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6T691-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6T691-F1-model_v4 Octanoyltransferase	0.148	202	165	2	203	9	203	2.533E-10	269
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A2BPM9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A2BPM9-F1-model_v4 Octanoyltransferase	0.095	214	192	2	214	3	216	2.691E-10	269
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83I07-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83I07-F1-model_v4 Octanoyltransferase	0.155	221	181	2	216	4	224	1.226E-10	269
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0BVP3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0BVP3-F1-model_v4 Octanoyltransferase	0.144	206	172	4	205	1	206	2.691E-10	268
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3CRE6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3CRE6-F1-model_v4 Octanoyltransferase	0.154	203	169	3	203	2	204	4.366E-10	267
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PA33-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PA33-F1-model_v4 Octanoyltransferase	0.140	202	173	4	205	9	210	4.638E-10	267
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0LTE0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0LTE0-F1-model_v4 Octanoyltransferase	0.152	217	176	2	218	3	211	5.234E-10	267
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0ANV0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0ANV0-F1-model_v4 Octanoyltransferase	0.154	210	173	1	206	2	211	6.304E-11	267
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0BRS0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0BRS0-F1-model_v4 Octanoyltransferase	0.119	212	185	1	211	1	212	2.245E-10	267
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GU54-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GU54-F1-model_v4 Octanoyltransferase	0.144	203	169	4	202	1	203	2.691E-10	266
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3PBB9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3PBB9-F1-model_v4 Octanoyltransferase	0.107	215	190	1	214	2	216	3.037E-10	266
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1WVS9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1WVS9-F1-model_v4 Octanoyltransferase	0.138	227	176	2	228	11	215	4.386E-11	266
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3SM28-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3SM28-F1-model_v4 Octanoyltransferase	0.165	202	162	2	203	22	216	2.533E-10	266
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3J7W3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3J7W3-F1-model_v4 Octanoyltransferase	0.127	209	173	3	211	15	213	4.927E-10	266
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C3PM18-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C3PM18-F1-model_v4 Octanoyltransferase	0.141	203	170	4	202	1	203	3.428E-10	265
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9IH67-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9IH67-F1-model_v4 Octanoyltransferase	0.153	204	171	4	206	1	204	1.081E-09	265
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9A6B8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9A6B8-F1-model_v4 Octanoyltransferase	0.171	208	169	1	205	7	214	1.470E-10	265
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2RZI1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2RZI1-F1-model_v4 Octanoyltransferase	0.162	244	199	4	242	12	255	2.872E-11	265
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q92FX0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q92FX0-F1-model_v4 Octanoyltransferase	0.146	202	169	4	202	2	203	4.927E-10	264
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6GYW1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6GYW1-F1-model_v4 Octanoyltransferase	0.135	225	176	1	205	1	225	7.524E-10	264
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5FFZ7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5FFZ7-F1-model_v4 Octanoyltransferase	0.139	203	174	4	206	2	204	2.859E-10	263
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C4K2Y1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C4K2Y1-F1-model_v4 Octanoyltransferase	0.139	203	170	4	202	1	203	2.385E-10	263
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3YRI1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3YRI1-F1-model_v4 Octanoyltransferase	0.136	203	175	3	205	6	208	4.927E-10	263
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4G9C5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4G9C5-F1-model_v4 Octanoyltransferase	0.144	209	175	1	206	5	213	1.470E-10	263
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7W223-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7W223-F1-model_v4 Octanoyltransferase	0.128	225	188	4	228	1	217	2.374E-09	263
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VKB0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VKB0-F1-model_v4 Octanoyltransferase	0.128	218	186	1	218	1	214	1.872E-10	263
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4IXX8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4IXX8-F1-model_v4 Octanoyltransferase	0.112	198	167	6	203	10	198	1.149E-09	262
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72QP1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72QP1-F1-model_v4 Octanoyltransferase	0.127	205	175	5	206	3	207	1.463E-09	262
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VDH8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VDH8-F1-model_v4 Octanoyltransferase	0.129	205	176	2	204	12	216	3.428E-10	262
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0BLW1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0BLW1-F1-model_v4 Octanoyltransferase	0.113	201	176	5	205	6	204	4.927E-10	261
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2UE02-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2UE02-F1-model_v4 Octanoyltransferase	0.117	227	191	2	228	5	221	1.081E-09	261
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8F5F1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8F5F1-F1-model_v4 Octanoyltransferase	0.127	205	175	5	206	3	207	1.864E-09	260
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1GTF8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1GTF8-F1-model_v4 Octanoyltransferase	0.178	202	164	5	206	9	209	1.018E-09	260
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6VM78-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6VM78-F1-model_v4 Octanoyltransferase	0.139	220	183	1	214	1	220	3.642E-10	260
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Y2L2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Y2L2-F1-model_v4 Octanoyltransferase	0.121	227	190	2	228	5	221	7.524E-10	260
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KNA1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KNA1-F1-model_v4 Octanoyltransferase	0.150	204	171	2	205	19	220	1.149E-09	260
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0VFH3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0VFH3-F1-model_v4 Putative lipoyltransferase 2, mitochondrial	0.145	212	175	1	206	1	212	5.234E-10	260
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4SJV7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4SJV7-F1-model_v4 Octanoyltransferase	0.175	204	163	2	205	14	211	9.583E-10	259
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3JWL3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3JWL3-F1-model_v4 Octanoyltransferase	0.142	211	178	2	210	33	243	4.386E-11	259
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4FLP4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4FLP4-F1-model_v4 Octanoyltransferase	0.135	207	176	1	207	1	204	1.303E-10	258
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8F0A0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8F0A0-F1-model_v4 Octanoyltransferase	0.141	203	170	4	202	1	203	4.927E-10	258
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GQA5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GQA5-F1-model_v4 Octanoyltransferase	0.146	203	169	4	202	1	203	4.366E-10	258
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5LDM3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5LDM3-F1-model_v4 Octanoyltransferase	0.148	217	175	1	206	1	217	1.149E-09	258
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7U8F2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7U8F2-F1-model_v4 Octanoyltransferase	0.134	212	182	4	215	21	231	1.081E-09	258
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0PNH8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0PNH8-F1-model_v4 Octanoyltransferase	0.151	211	174	1	206	12	222	1.377E-09	258
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2A3E7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2A3E7-F1-model_v4 Octanoyltransferase	0.123	202	175	4	205	5	204	1.226E-10	257
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HAP4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HAP4-F1-model_v4 Octanoyltransferase	0.143	203	173	4	206	2	204	5.907E-10	257
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1RKI1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1RKI1-F1-model_v4 Octanoyltransferase	0.150	203	168	4	202	1	203	5.561E-10	257
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2W9F0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2W9F0-F1-model_v4 Octanoyltransferase	0.144	212	179	1	210	1	212	2.103E-09	257
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7WR01-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7WR01-F1-model_v4 Octanoyltransferase	0.139	225	186	4	228	1	217	1.651E-09	257
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q21RG9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q21RG9-F1-model_v4 Octanoyltransferase	0.135	228	184	1	214	3	230	2.859E-10	257
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2IXI4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2IXI4-F1-model_v4 Octanoyltransferase	0.135	228	193	1	224	24	251	7.082E-10	257
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9ZC91-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9ZC91-F1-model_v4 Octanoyltransferase	0.146	202	169	4	202	2	203	1.221E-09	256
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2NDR7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2NDR7-F1-model_v4 Octanoyltransferase	0.142	202	172	5	206	10	210	1.018E-09	256
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2SGJ2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2SGJ2-F1-model_v4 Octanoyltransferase	0.127	205	177	1	205	1	204	3.869E-10	255
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5NG26-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5NG26-F1-model_v4 Octanoyltransferase	0.130	205	177	1	205	1	204	1.762E-10	255
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5GAC4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5GAC4-F1-model_v4 Octanoyltransferase	0.148	217	177	1	217	1	209	7.524E-10	255
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q46H10-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q46H10-F1-model_v4 Octanoyltransferase	0.150	205	173	2	206	29	232	6.667E-10	255
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0BBH9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0BBH9-F1-model_v4 Octanoyltransferase	0.122	217	187	2	215	31	247	7.559E-11	255
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2JTV2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2JTV2-F1-model_v4 Octanoyltransferase	0.121	239	199	3	229	15	253	1.154E-10	255
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GH92-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GH92-F1-model_v4 Octanoyltransferase	0.156	203	170	3	205	6	208	6.667E-10	254
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6L1M2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6L1M2-F1-model_v4 Probable octanoyltransferase 1	0.131	205	169	1	205	6	200	2.235E-09	254
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GC80-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GC80-F1-model_v4 Octanoyltransferase	0.151	213	179	5	217	9	220	6.276E-10	254
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q135D0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q135D0-F1-model_v4 Octanoyltransferase	0.145	225	184	1	216	24	248	7.993E-10	253
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q64UP8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q64UP8-F1-model_v4 Octanoyltransferase	0.148	217	175	1	206	1	217	1.980E-09	252
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2GJ87-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2GJ87-F1-model_v4 Octanoyltransferase	0.158	216	180	1	215	1	216	2.859E-10	252
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q04TD5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q04TD5-F1-model_v4 Octanoyltransferase	0.140	209	178	1	208	1	209	4.091E-09	251
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7HWU9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7HWU9-F1-model_v4 Octanoyltransferase	0.129	213	182	1	210	13	225	8.491E-10	251
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1WF49-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1WF49-F1-model_v4 Octanoyltransferase	0.131	225	176	1	203	1	225	1.651E-09	251
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q73YJ7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q73YJ7-F1-model_v4 Octanoyltransferase	0.153	212	178	1	211	11	222	2.235E-09	251
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4WQA7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4WQA7-F1-model_v4 Octanoyltransferase	0.163	214	172	4	209	5	218	1.864E-09	250
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q29R99-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q29R99-F1-model_v4 Putative lipoyltransferase 2, mitochondrial	0.151	220	183	1	216	3	222	1.149E-09	250
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P74519-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P74519-F1-model_v4 Octanoyltransferase	0.147	206	175	1	206	2	207	1.081E-09	250
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3SRU9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3SRU9-F1-model_v4 Octanoyltransferase	0.140	208	175	1	204	19	226	5.907E-10	250
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q14HH8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q14HH8-F1-model_v4 Octanoyltransferase	0.130	205	177	1	205	1	204	3.642E-10	249
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C5CP20-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C5CP20-F1-model_v4 Octanoyltransferase	0.145	223	180	3	214	4	226	2.103E-09	249
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9VN27-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9VN27-F1-model_v4 Putative lipoyltransferase 2, mitochondrial	0.181	202	165	5	206	14	215	1.377E-09	249
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5V649-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5V649-F1-model_v4 Octanoyltransferase	0.138	218	176	5	222	9	213	1.297E-09	248
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5FIL6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5FIL6-F1-model_v4 Octanoyltransferase	0.135	225	176	1	205	1	225	4.091E-09	248
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q146F2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q146F2-F1-model_v4 Octanoyltransferase	0.133	223	185	3	216	15	237	1.555E-09	248
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5EDZ5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5EDZ5-F1-model_v4 Octanoyltransferase	0.175	203	158	1	203	1	192	1.644E-08	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7NC90-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7NC90-F1-model_v4 Octanoyltransferase	0.122	205	178	1	205	1	204	1.303E-10	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q28SZ3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q28SZ3-F1-model_v4 Octanoyltransferase	0.150	215	175	3	209	2	216	1.377E-09	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0JVC9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0JVC9-F1-model_v4 Octanoyltransferase	0.123	220	192	1	220	1	220	4.346E-09	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5G0V3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5G0V3-F1-model_v4 Octanoyltransferase	0.136	218	183	2	214	11	228	1.980E-09	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3AZ50-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3AZ50-F1-model_v4 Octanoyltransferase	0.134	207	177	2	206	14	220	1.221E-09	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5P4B9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5P4B9-F1-model_v4 Octanoyltransferase	0.150	215	173	2	216	24	227	4.110E-10	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0M5H7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0M5H7-F1-model_v4 Octanoyltransferase	0.144	225	175	1	205	1	225	9.021E-10	247
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3QH59-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3QH59-F1-model_v4 Octanoyltransferase	0.152	209	169	5	213	12	211	3.037E-10	246
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q052G1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q052G1-F1-model_v4 Octanoyltransferase	0.140	209	178	1	208	1	209	6.247E-09	246
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0C3A9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0C3A9-F1-model_v4 Octanoyltransferase	0.152	219	180	2	214	6	224	1.221E-09	246
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5CQA0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5CQA0-F1-model_v4 Octanoyltransferase	0.168	220	178	2	216	3	222	1.221E-09	245
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1MG80-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1MG80-F1-model_v4 Octanoyltransferase	0.141	219	185	1	216	19	237	2.235E-09	245
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0C7R2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0C7R2-F1-model_v4 Octanoyltransferase LIP2p2, chloroplastic	0.141	223	176	1	206	43	265	7.082E-10	245
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GEU6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2GEU6-F1-model_v4 Octanoyltransferase	0.123	203	175	5	205	3	205	6.247E-09	244
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GUN4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GUN4-F1-model_v4 Octanoyltransferase	0.142	202	171	3	202	2	203	1.149E-09	244
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5NMY4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5NMY4-F1-model_v4 Octanoyltransferase	0.133	230	184	3	232	4	216	2.522E-09	244
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KTV5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KTV5-F1-model_v4 Octanoyltransferase	0.133	199	167	5	203	10	203	3.428E-10	244
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9AEG7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9AEG7-F1-model_v4 Octanoyltransferase	0.121	218	188	1	215	25	242	2.113E-10	244
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8A8S8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8A8S8-F1-model_v4 Octanoyltransferase	0.130	222	191	1	222	1	221	2.374E-09	243
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0QEY7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0QEY7-F1-model_v4 Octanoyltransferase	0.158	216	181	1	216	11	226	3.412E-09	243
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q11JI3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q11JI3-F1-model_v4 Octanoyltransferase	0.127	222	187	2	216	17	238	1.297E-09	243
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MUY1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MUY1-F1-model_v4 Octanoyltransferase	0.138	218	173	2	203	272	489	1.297E-09	243
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4TBJ9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4TBJ9-F1-model_v4 Octanoyltransferase	0.173	216	175	1	216	18	230	4.091E-09	242
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2HHL3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2HHL3-F1-model_v4 Octanoyltransferase	0.151	224	182	1	215	12	235	1.221E-09	242
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3QAV6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3QAV6-F1-model_v4 Octanoyltransferase	0.133	219	186	1	216	24	242	2.374E-09	242
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1VIU0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1VIU0-F1-model_v4 Octanoyltransferase	0.141	224	183	1	214	1	224	1.651E-09	241
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1TJ32-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1TJ32-F1-model_v4 Octanoyltransferase	0.137	231	184	1	214	1	231	5.210E-09	241
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9BE20-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9BE20-F1-model_v4 Octanoyltransferase	0.105	203	180	3	205	30	231	3.625E-09	241
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8FNP5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8FNP5-F1-model_v4 Octanoyltransferase	0.159	225	185	1	221	22	246	4.366E-10	241
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q82AP6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q82AP6-F1-model_v4 Octanoyltransferase	0.129	251	183	2	212	5	255	7.993E-10	241
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q92QD5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q92QD5-F1-model_v4 Octanoyltransferase	0.131	211	175	3	204	31	241	2.846E-09	240
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8YC54-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8YC54-F1-model_v4 Octanoyltransferase	0.137	213	176	1	205	44	256	9.539E-09	240
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8UF44-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8UF44-F1-model_v4 Octanoyltransferase	0.139	225	185	1	216	43	267	4.346E-09	240
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1UT80-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1UT80-F1-model_v4 Octanoyltransferase	0.124	213	179	1	205	20	232	5.535E-09	239
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5LTM4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5LTM4-F1-model_v4 Octanoyltransferase	0.155	214	173	5	210	3	216	2.522E-09	238
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3J5A6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3J5A6-F1-model_v4 Octanoyltransferase	0.145	214	175	1	206	2	215	9.021E-10	238
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q07L16-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q07L16-F1-model_v4 Octanoyltransferase	0.131	209	177	1	205	20	228	3.625E-09	238
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6U899-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6U899-F1-model_v4 Octanoyltransferase	0.134	212	176	1	204	30	241	4.617E-09	238
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C6E0V3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C6E0V3-F1-model_v4 Octanoyltransferase	0.179	204	156	1	204	1	191	3.833E-08	236
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3IJ80-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3IJ80-F1-model_v4 Octanoyltransferase	0.118	202	170	4	205	8	201	2.374E-09	236
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5EL70-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5EL70-F1-model_v4 Octanoyltransferase	0.142	211	175	2	206	20	230	4.617E-09	236
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q12GR3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q12GR3-F1-model_v4 Octanoyltransferase	0.127	249	186	1	214	3	251	1.651E-09	236
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PM99-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PM99-F1-model_v4 Octanoyltransferase	0.122	202	174	2	203	5	203	1.651E-09	235
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZR03-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZR03-F1-model_v4 Octanoyltransferase	0.122	202	174	2	203	5	203	1.555E-09	235
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8LRT6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8LRT6-F1-model_v4 Octanoyltransferase	0.130	213	177	5	209	3	215	5.210E-09	234
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6N514-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6N514-F1-model_v4 Octanoyltransferase	0.128	209	178	1	205	24	232	6.636E-09	234
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2K833-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2K833-F1-model_v4 Octanoyltransferase	0.148	218	182	1	215	19	236	2.374E-09	233
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QLD9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QLD9-F1-model_v4 Octanoyltransferase	0.120	219	188	2	216	19	237	2.235E-09	233
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5GJ90-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5GJ90-F1-model_v4 Octanoyltransferase	0.147	227	193	2	228	17	243	1.555E-09	233
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6NG87-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6NG87-F1-model_v4 Octanoyltransferase	0.170	222	180	2	219	23	244	1.297E-09	233
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2JB35-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2JB35-F1-model_v4 Octanoyltransferase	0.138	205	174	13	217	4	206	1.371E-08	232
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3PP01-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3PP01-F1-model_v4 Octanoyltransferase	0.165	218	178	2	215	19	236	2.522E-09	232
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q577Y8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q577Y8-F1-model_v4 Octanoyltransferase	0.134	213	177	1	205	47	259	2.363E-08	232
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q948J9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q948J9-F1-model_v4 Octanoyltransferase LIP2p, chloroplastic	0.136	222	177	1	206	41	262	8.491E-10	232
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O36017-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O36017-F1-model_v4 Probable octanoyltransferase	0.147	219	178	1	210	1	219	4.346E-09	231
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4YT30-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4YT30-F1-model_v4 Octanoyltransferase	0.138	214	184	2	215	20	233	3.023E-09	231
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q11XW2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q11XW2-F1-model_v4 Octanoyltransferase	0.147	225	173	2	205	7	231	1.754E-09	231
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8CK04-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8CK04-F1-model_v4 Octanoyltransferase	0.122	251	184	2	212	5	255	2.235E-09	231
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8HGZ8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8HGZ8-F1-model_v4 Octanoyltransferase	0.126	219	190	1	218	1	219	4.091E-09	230
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P9WK83-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P9WK83-F1-model_v4 Octanoyltransferase	0.175	214	176	3	216	12	225	2.679E-09	230
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C1AUB9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C1AUB9-F1-model_v4 Octanoyltransferase	0.185	234	183	1	226	15	248	1.989E-10	229
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C3PHK5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C3PHK5-F1-model_v4 Octanoyltransferase	0.157	238	191	2	228	23	260	5.907E-10	229
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1VZM4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1VZM4-F1-model_v4 Octanoyltransferase	0.141	253	182	2	214	5	257	2.374E-09	229
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9IVX0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9IVX0-F1-model_v4 Octanoyltransferase	0.125	211	178	1	204	24	234	3.851E-09	228
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q89JM6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q89JM6-F1-model_v4 Octanoyltransferase	0.123	219	189	1	216	27	245	4.905E-09	228
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8FW72-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8FW72-F1-model_v4 Octanoyltransferase	0.112	213	181	1	205	47	259	7.490E-09	228
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2RSU9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2RSU9-F1-model_v4 Octanoyltransferase	0.145	214	180	5	215	3	216	7.490E-09	226
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3PH28-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3PH28-F1-model_v4 Octanoyltransferase	0.157	191	159	17	206	25	215	5.535E-09	226
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6MPS6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6MPS6-F1-model_v4 Octanoyltransferase	0.131	212	174	3	203	4	215	2.833E-08	226
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0RE23-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0RE23-F1-model_v4 Octanoyltransferase	0.167	224	178	2	216	3	226	1.149E-09	225
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1B6R2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1B6R2-F1-model_v4 Octanoyltransferase	0.161	217	180	1	216	14	230	9.583E-10	225
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2JC45-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2JC45-F1-model_v4 Octanoyltransferase	0.139	224	185	1	216	28	251	1.221E-09	225
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2YKK8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2YKK8-F1-model_v4 Octanoyltransferase	0.116	213	180	1	205	47	259	7.050E-09	225
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9WS39-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9WS39-F1-model_v4 Octanoyltransferase	0.138	220	186	1	217	1	220	7.956E-09	224
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C0RLB0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C0RLB0-F1-model_v4 Octanoyltransferase	0.125	213	179	1	205	44	256	7.490E-09	224
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7W0K9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7W0K9-F1-model_v4 Octanoyltransferase	0.132	225	187	4	228	1	217	2.374E-09	223
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6NK58-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6NK58-F1-model_v4 Putative lipoyltransferase 2, mitochondrial	0.136	218	176	1	205	1	218	2.510E-08	223
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1UIB3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1UIB3-F1-model_v4 Octanoyltransferase	0.156	219	181	1	216	14	232	1.297E-09	221
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0SHK6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0SHK6-F1-model_v4 Octanoyltransferase	0.173	242	193	2	235	16	257	4.366E-10	221
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0KFE7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0KFE7-F1-model_v4 Octanoyltransferase	0.139	235	198	2	232	22	256	1.018E-09	221
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1B3D5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1B3D5-F1-model_v4 Octanoyltransferase	0.150	213	174	4	209	3	215	1.013E-08	220
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3Q1S7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3Q1S7-F1-model_v4 Octanoyltransferase	0.161	217	180	1	216	14	230	1.651E-09	220
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6G3I3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6G3I3-F1-model_v4 Octanoyltransferase	0.106	213	182	1	205	24	236	1.457E-08	220
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1TB25-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1TB25-F1-model_v4 Octanoyltransferase	0.167	205	170	1	205	18	222	5.535E-09	219
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q211P6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q211P6-F1-model_v4 Octanoyltransferase	0.149	225	186	1	220	20	244	6.636E-09	219
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B6JF54-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B6JF54-F1-model_v4 Octanoyltransferase	0.117	209	179	1	204	18	226	8.979E-09	218
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q57RU1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q57RU1-F1-model_v4 Octanoyltransferase	0.126	196	165	19	214	2	191	8.979E-09	217
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P9WK82-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P9WK82-F1-model_v4 Octanoyltransferase	0.173	211	173	1	211	10	219	2.522E-09	216
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C1AQD2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C1AQD2-F1-model_v4 Octanoyltransferase	0.172	213	175	3	215	12	223	2.235E-09	215
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1R5J6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1R5J6-F1-model_v4 Octanoyltransferase	0.145	219	186	1	218	1	219	3.851E-09	214
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q98KT0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q98KT0-F1-model_v4 Octanoyltransferase	0.135	219	185	1	215	18	236	1.144E-08	214
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9D009-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9D009-F1-model_v4 Putative lipoyltransferase 2, mitochondrial	0.148	219	175	1	206	1	219	4.596E-08	213
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6FZQ9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6FZQ9-F1-model_v4 Octanoyltransferase	0.120	212	179	1	204	24	235	3.010E-08	213
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8NNJ1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8NNJ1-F1-model_v4 Octanoyltransferase	0.154	225	184	1	219	20	244	1.555E-09	213
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0R074-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0R074-F1-model_v4 Octanoyltransferase	0.156	215	180	2	216	14	227	1.457E-08	212
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4JWD9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4JWD9-F1-model_v4 Octanoyltransferase	0.150	213	173	1	205	22	234	1.291E-08	212
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A5U4P5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A5U4P5-F1-model_v4 Octanoyltransferase	0.172	215	175	1	215	12	223	5.880E-09	210
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VEN4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VEN4-F1-model_v4 Octanoyltransferase	0.171	216	176	1	216	12	224	6.247E-09	210
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q477G6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q477G6-F1-model_v4 Octanoyltransferase	0.148	225	189	4	228	24	246	1.297E-09	210
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6AFG6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6AFG6-F1-model_v4 Octanoyltransferase	0.122	242	191	4	245	1	219	4.366E-10	206
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4QFS2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4QFS2-F1-model_v4 Octanoyltransferase	0.154	225	184	1	219	20	244	4.346E-09	205
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O13476-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O13476-F1-model_v4 Octanoyltransferase, mitochondrial	0.120	207	164	19	205	106	312	5.853E-08	202
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1KKQ9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1KKQ9-F1-model_v4 Octanoyltransferase	0.178	215	172	2	216	15	224	9.539E-09	199
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9BPT8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9BPT8-F1-model_v4 Octanoyltransferase	0.123	228	175	3	203	12	239	5.535E-09	199
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6A9W7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6A9W7-F1-model_v4 Octanoyltransferase	0.155	220	173	1	206	28	247	4.882E-08	199
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5YZ58-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5YZ58-F1-model_v4 Octanoyltransferase	0.139	218	184	1	215	15	232	2.224E-08	192
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9X6X4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9X6X4-F1-model_v4 Octanoyltransferase	0.142	303	232	2	304	8	278	3.428E-10	189
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O19898-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O19898-F1-model_v4 Probable octanoyltransferase	0.118	166	139	1	159	2	167	6.606E-08	185
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q06005-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q06005-F1-model_v4 Octanoyltransferase, mitochondrial	0.106	264	180	5	206	44	307	3.397E-08	182
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4FS63-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4FS63-F1-model_v4 Octanoyltransferase	0.093	248	183	14	216	37	284	3.833E-08	172
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QBT8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1QBT8-F1-model_v4 Octanoyltransferase	0.129	253	180	9	216	31	283	2.833E-08	163
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9HKT2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9HKT2-F1-model_v4 Lipoate-protein ligase A subunit 2	0.178	82	66	245	325	11	92	1.118E-03	151
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q59014-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q59014-F1-model_v4 Putative biotin ligase	0.105	267	193	1	267	1	217	5.163E-07	148
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q58215-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q58215-F1-model_v4 Uncharacterized protein MJ0805	0.138	205	143	1	205	39	205	6.954E-06	131
+DESULFOASV1_3310_lipoate-protein_ligase	AF-E0U174-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-E0U174-F1-model_v4 Bifunctional ligase/repressor BirA	0.133	237	201	40	276	86	318	3.381E-07	120
+DESULFOASV1_3310_lipoate-protein_ligase	AF-I6YFP0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-I6YFP0-F1-model_v4 Biotin--[acetyl-CoA-carboxylase] ligase	0.137	241	202	40	280	32	266	5.485E-07	115
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0CI75-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0CI75-F1-model_v4 Bifunctional ligase/repressor BirA	0.123	237	203	40	276	86	318	7.421E-07	114
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q00520-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q00520-F1-model_v4 Octanoyltransferase	0.161	148	118	68	209	5	152	2.769E-03	106
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JXF1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JXF1-F1-model_v4 Bifunctional enzyme BirA/CoaX	0.129	279	211	3	281	82	324	1.062E-05	100
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5F5C8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5F5C8-F1-model_v4 Bifunctional enzyme BirA/CoaX	0.131	265	193	3	267	82	304	2.969E-05	90
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JWI7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9JWI7-F1-model_v4 Bifunctional enzyme BirA/CoaX	0.129	269	206	7	275	89	325	7.353E-05	85
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O14353-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O14353-F1-model_v4 Biotin--protein ligase	0.113	260	209	40	276	361	620	2.969E-05	69
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q01180-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q01180-F1-model_v4 Nitrogen fixation protein NifU	0.175	90	69	240	324	19	108	1.499E-01	61
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9X192-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9X192-F1-model_v4 Iron-sulfur cluster assembly scaffold protein IscU	0.161	99	68	243	324	27	125	8.696E-02	59
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0YLW7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0YLW7-F1-model_v4 Iron sulfur cluster assembly protein 1	0.139	92	67	246	324	41	132	6.050E-02	58
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P47579-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P47579-F1-model_v4 Uncharacterized protein MG337	0.172	89	66	242	322	24	112	2.431E-01	55
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DMG2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DMG2-F1-model_v4 Iron-sulfur cluster assembly scaffold protein IscU 2	0.141	102	72	241	325	17	118	1.328E-01	54
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q56XR0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q56XR0-F1-model_v4 Transcription factor bHLH71	0.064	87	72	72	158	210	287	7.705E-02	43
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7X8R0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7X8R0-F1-model_v4 Transcription factor EAT1	0.109	89	61	63	151	369	437	1.691E-01	41
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q43909-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q43909-F1-model_v4 Nitrogen fixation protein NifU	0.164	97	65	246	324	27	123	3.289E-01	39
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9LND0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9LND0-F1-model_v4 Transcription factor bHLH89	0.055	161	85	72	232	326	416	2.288E-01	36
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C8WLE3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C8WLE3-F1-model_v4 Urocanate reductase	0.111	27	23	246	272	49	75	4.706E+00	33
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O33732-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O33732-F1-model_v4 Nitrate reductase	0.100	80	62	226	305	770	839	5.000E+00	33
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P59306-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P59306-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.109	149	120	12	147	158	306	1.499E-01	32
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P57156-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P57156-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.115	149	119	12	147	158	306	3.096E-01	31
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9LPJ7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9LPJ7-F1-model_v4 Putative F-box protein At1g32660	0.114	35	30	240	274	296	330	5.994E+00	31
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8X732-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8X732-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.121	149	119	12	147	158	306	2.915E-01	30
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P59310-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P59310-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.126	149	118	12	147	158	306	2.431E-01	30
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8D8K6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8D8K6-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.115	149	119	12	147	158	306	4.189E-01	29
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0ADV0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0ADV0-F1-model_v4 Uncharacterized protein YqiB	0.121	33	28	242	274	31	63	9.153E+00	28
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q92F67-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q92F67-F1-model_v4 Uncharacterized lipoprotein Lin0239	0.052	108	85	72	179	44	134	6.796E-01	28
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PK75-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PK75-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.115	149	119	12	147	158	306	5.023E-01	27
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZKL8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZKL8-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.115	149	119	12	147	158	306	5.669E-01	27
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O67428-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O67428-F1-model_v4 Uncharacterized protein aq_1439	0.179	38	30	242	279	63	100	8.616E+00	27
+DESULFOASV1_3310_lipoate-protein_ligase	AF-F9UNH3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-F9UNH3-F1-model_v4 Urocanate reductase	0.102	150	110	175	324	145	268	1.404E+00	27
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6UTP0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6UTP0-F1-model_v4 UPF0212 protein Maeo_0273	0.088	81	70	79	156	7	87	3.274E+00	26
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q927M3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q927M3-F1-model_v4 50S ribosomal protein L18	0.159	82	67	243	324	28	108	9.196E-01	26
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DI81-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DI81-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.130	149	117	12	147	158	306	5.336E-01	26
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z309-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z309-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.121	149	119	12	147	158	306	7.220E-01	26
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87L55-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87L55-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.115	149	119	12	147	158	306	6.022E-01	26
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MYD6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MYD6-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.104	153	121	12	147	154	306	5.336E-01	26
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q98R97-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q98R97-F1-model_v4 Holo-[acyl-carrier-protein] synthase	0.097	41	33	111	151	68	104	2.420E+00	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q60372-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q60372-F1-model_v4 UPF0212 protein MJ0068	0.076	69	63	79	147	7	75	5.311E+00	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5T6R2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5T6R2-F1-model_v4 Putative phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2P1	0.114	69	59	80	148	66	133	2.571E+00	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P50113-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P50113-F1-model_v4 L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase	0.110	265	207	8	272	4	237	4.750E-02	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9W6X7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9W6X7-F1-model_v4 Urease accessory protein UreD 3	0.076	129	110	29	157	161	280	2.583E-01	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8D6W0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8D6W0-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.101	149	121	12	147	158	306	5.669E-01	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P59313-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P59313-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.113	149	120	12	147	158	306	6.397E-01	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P11446-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P11446-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.125	149	118	12	147	158	306	6.022E-01	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6I7B6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6I7B6-F1-model_v4 Phosphopentomutase	0.083	184	135	9	156	249	432	7.220E-01	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KVM4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0KVM4-F1-model_v4 UvrABC system protein C	0.171	69	53	217	285	230	294	4.170E+00	25
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6VH94-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6VH94-F1-model_v4 UPF0212 protein MmarC7_0753	0.038	69	65	79	147	7	75	6.765E+00	24
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9A9F5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9A9F5-F1-model_v4 UPF0212 protein MmarC6_1165	0.035	130	91	79	208	7	101	3.926E+00	24
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZA86-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZA86-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.130	149	117	12	147	158	306	6.796E-01	24
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4Y5Y2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4Y5Y2-F1-model_v4 UvrABC system protein C	0.127	90	66	196	285	218	294	1.788E+00	24
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3Z2T7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3Z2T7-F1-model_v4 UvrABC system protein C	0.121	69	56	217	285	231	295	2.731E+00	24
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O43952-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O43952-F1-model_v4 G-quartet DNA-binding protein TGP1	0.063	46	42	242	287	426	471	9.724E+00	24
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6UQF3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6UQF3-F1-model_v4 UPF0212 protein Mevan_0819	0.035	130	91	79	208	7	101	4.706E+00	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JU79-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JU79-F1-model_v4 Chaperone protein SycN	0.092	101	81	47	147	7	96	1.592E-01	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C6A465-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C6A465-F1-model_v4 UPF0212 protein TSIB_1358	0.079	128	85	81	208	9	101	3.082E+00	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8U0U6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8U0U6-F1-model_v4 UPF0212 protein PF1486	0.089	79	68	81	156	9	87	4.430E+00	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P26995-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P26995-F1-model_v4 Transcriptional anti-antiactivator ExsC	0.102	172	115	54	225	13	141	7.670E-01	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0AFY1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0AFY1-F1-model_v4 Sigma-E factor regulatory protein RseB	0.036	99	75	63	161	235	313	2.018E+00	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-H2FU77-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-H2FU77-F1-model_v4 Outer membrane protein assembly factor BamC	0.074	175	117	83	257	91	217	1.244E+00	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66G72-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66G72-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.130	149	117	12	147	158	306	8.656E-01	23
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0CW69-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0CW69-F1-model_v4 UPF0212 protein MMP1509	0.035	130	91	79	208	7	101	5.643E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4FW14-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4FW14-F1-model_v4 UPF0212 protein MmarC5_0068	0.035	130	91	79	208	7	101	5.643E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0CW68-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0CW68-F1-model_v4 UPF0212 protein in gatA 3'region	0.035	130	91	79	208	7	101	5.643E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0C2V8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0C2V8-F1-model_v4 Chaperone protein SycN	0.099	101	80	47	147	7	96	2.288E-01	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8H1F4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8H1F4-F1-model_v4 Coatomer subunit zeta-3	0.120	110	96	215	324	35	144	1.244E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6CRN7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6CRN7-F1-model_v4 Inner kinetochore subunit CTF19	0.111	50	40	244	289	120	169	3.926E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3J149-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3J149-F1-model_v4 Urease accessory protein UreD	0.116	120	95	29	148	140	248	6.022E-01	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-I3R9M7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-I3R9M7-F1-model_v4 Putative respiratory nitrate reductase heme subunit ORF7	0.105	161	134	2	152	37	197	2.420E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0AFX9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0AFX9-F1-model_v4 Sigma-E factor regulatory protein RseB	0.036	99	75	63	161	235	313	2.420E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6DAR1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6DAR1-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.113	149	120	12	147	158	306	1.585E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MH70-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7MH70-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.115	149	119	12	147	158	306	1.683E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5E2E5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5E2E5-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.117	153	119	12	147	154	306	1.585E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P57907-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P57907-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.103	149	121	12	147	159	307	2.420E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HJZ1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HJZ1-F1-model_v4 UvrABC system protein C	0.142	90	65	196	285	218	294	3.478E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B3H0B9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B3H0B9-F1-model_v4 UvrABC system protein C	0.148	95	68	217	311	228	308	1.171E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZF52-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZF52-F1-model_v4 UvrABC system protein C	0.133	143	108	161	285	153	295	1.102E+00	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66BN5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q66BN5-F1-model_v4 UvrABC system protein C	0.130	143	108	161	285	153	295	9.196E-01	22
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9PQ97-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9PQ97-F1-model_v4 Holo-[acyl-carrier-protein] synthase	0.025	40	36	115	152	75	114	7.187E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1AJ32-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1AJ32-F1-model_v4 Holo-[acyl-carrier-protein] synthase	0.025	40	36	115	152	75	114	7.635E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P61380-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P61380-F1-model_v4 Chaperone protein SycN	0.100	101	80	47	147	7	96	3.494E-01	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O69623-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O69623-F1-model_v4 Apoptosis inhibitor Rv3655c	0.107	65	48	217	281	44	98	3.695E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C5A6I4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C5A6I4-F1-model_v4 UPF0212 protein TGAM_1344	0.123	79	66	81	156	9	87	4.706E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9V0F5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9V0F5-F1-model_v4 UPF0212 protein PYRAB08340	0.102	131	85	78	208	6	101	5.311E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZYF8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8ZYF8-F1-model_v4 Probable cyclic pyranopterin monophosphate synthase	0.045	22	20	130	151	50	71	9.153E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A4WR71-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A4WR71-F1-model_v4 Urease accessory protein UreD	0.101	121	96	28	148	141	248	9.769E-01	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7SKE9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7SKE9-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G	0.166	65	49	223	287	15	74	5.000E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NBQ8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NBQ8-F1-model_v4 UvrABC system protein C	0.105	162	136	160	312	151	312	5.336E-01	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GCW2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8GCW2-F1-model_v4 UvrABC system protein C	0.132	145	109	160	285	151	295	1.102E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C8L1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C8L1-F1-model_v4 UvrABC system protein C	0.129	183	125	161	305	153	335	8.148E-01	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1MQH2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1MQH2-F1-model_v4 UvrABC system protein C	0.141	89	63	196	284	215	288	4.430E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-F8DIF2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-F8DIF2-F1-model_v4 Urocanate reductase	0.121	98	68	175	272	145	222	2.901E+00	21
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O59054-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O59054-F1-model_v4 UPF0212 protein PH1312	0.093	86	71	78	156	2	87	4.170E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DE94-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DE94-F1-model_v4 30S ribosomal protein S5	0.153	84	65	243	320	80	163	3.274E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DE95-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0DE95-F1-model_v4 30S ribosomal protein S5	0.153	84	65	243	320	80	163	3.478E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q48VT2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q48VT2-F1-model_v4 30S ribosomal protein S5	0.153	84	65	243	320	80	163	3.478E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3PL43-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3PL43-F1-model_v4 Urease accessory protein UreD	0.108	121	95	28	148	141	248	9.769E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1B1C3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1B1C3-F1-model_v4 Urease accessory protein UreD	0.095	120	98	29	148	144	252	8.148E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q28CY2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q28CY2-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G	0.117	51	42	240	288	39	89	5.311E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K4Z6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K4Z6-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.129	147	115	15	147	162	308	1.492E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K4Z1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9K4Z1-F1-model_v4 N-acetyl-gamma-glutamyl-phosphate reductase	0.123	151	118	15	149	162	312	2.144E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8X644-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8X644-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.115	91	65	241	315	1	91	4.706E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O84796-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O84796-F1-model_v4 UvrABC system protein C	0.141	144	107	160	285	154	297	9.196E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1RKL4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1RKL4-F1-model_v4 UvrABC system protein C	0.127	90	66	196	285	218	294	4.430E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9KFP2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9KFP2-F1-model_v4 UvrABC system protein C	0.108	134	106	161	280	152	285	1.788E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7M356-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7M356-F1-model_v4 UvrABC system protein C	0.105	162	136	160	312	151	312	7.670E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3MYZ9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3MYZ9-F1-model_v4 UvrABC system protein C	0.141	146	107	160	285	148	293	5.669E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PI10-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5PI10-F1-model_v4 UvrABC system protein C	0.120	185	128	160	305	151	335	5.669E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1IZZ1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1IZZ1-F1-model_v4 UvrABC system protein C	0.117	145	110	160	285	151	295	1.244E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NS11-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7NS11-F1-model_v4 UvrABC system protein C	0.117	145	110	160	285	151	295	1.102E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JLV6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JLV6-F1-model_v4 UvrABC system protein C	0.126	185	128	159	305	151	335	9.196E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1X671-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1X671-F1-model_v4 UvrABC system protein C	0.113	185	129	160	305	151	335	7.220E-01	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MWA0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7MWA0-F1-model_v4 UvrABC system protein C	0.117	145	110	160	285	151	295	1.038E+00	20
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5JGF0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5JGF0-F1-model_v4 UPF0212 protein TK1194	0.090	67	60	81	147	9	75	9.724E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q03V72-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q03V72-F1-model_v4 Holo-[acyl-carrier-protein] synthase	0.121	63	52	112	174	77	136	5.994E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6DRC4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6DRC4-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G	0.122	49	40	242	288	25	73	5.994E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DK28-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C6DK28-F1-model_v4 Anhydro-N-acetylmuramic acid kinase	0.072	79	69	246	324	7	81	8.111E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P47448-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P47448-F1-model_v4 UvrABC system protein C	0.111	113	84	196	308	212	306	4.170E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B6EI86-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B6EI86-F1-model_v4 UvrABC system protein C	0.096	120	84	196	315	218	311	2.901E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P44489-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P44489-F1-model_v4 UvrABC system protein C	0.087	160	141	161	315	150	309	6.022E-01	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1CHE4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1CHE4-F1-model_v4 UvrABC system protein C	0.129	145	110	159	285	151	295	1.788E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8D8C7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8D8C7-F1-model_v4 UvrABC system protein C	0.121	108	91	217	324	231	335	3.082E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B0RSI3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B0RSI3-F1-model_v4 UvrABC system protein C	0.125	147	113	160	289	155	301	1.492E+00	19
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A2RC31-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A2RC31-F1-model_v4 30S ribosomal protein S5	0.160	84	65	243	320	80	163	2.901E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5XEB8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5XEB8-F1-model_v4 30S ribosomal protein S5	0.153	84	65	243	320	80	163	5.311E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q14JA3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q14JA3-F1-model_v4 30S ribosomal protein S5	0.125	85	69	243	322	81	165	3.274E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q940S5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q940S5-F1-model_v4 Coatomer subunit zeta-1	0.141	110	73	215	324	31	116	2.731E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4MA85-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4MA85-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G-1	0.169	59	44	235	288	11	69	5.311E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q641B2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q641B2-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G-B	0.137	51	41	240	288	37	87	6.765E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q668C7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q668C7-F1-model_v4 Multidrug resistance protein MdtA	0.094	77	68	71	147	227	302	4.430E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q54ME1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q54ME1-F1-model_v4 Gamete and mating-type specific protein A	0.094	182	157	10	191	22	195	2.901E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9NDQ6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9NDQ6-F1-model_v4 UvrABC system protein C	0.111	133	102	161	276	152	284	2.731E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0I2X4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0I2X4-F1-model_v4 UvrABC system protein C	0.120	146	110	160	285	148	293	1.322E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83CD5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q83CD5-F1-model_v4 UvrABC system protein C	0.108	134	106	161	280	152	285	2.571E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A3D5P1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A3D5P1-F1-model_v4 UvrABC system protein C	0.120	96	72	217	312	230	312	6.368E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9L582-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9L582-F1-model_v4 UvrABC system protein C	0.118	95	73	196	290	218	301	6.765E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7L8S5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7L8S5-F1-model_v4 UvrABC system protein C	0.110	161	137	161	315	153	313	1.322E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8A1B5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8A1B5-F1-model_v4 UvrABC system protein C	0.118	185	128	160	305	151	335	1.102E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4TYW7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4TYW7-F1-model_v4 UvrABC system protein C	0.118	185	128	160	305	151	335	1.322E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z5T3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8Z5T3-F1-model_v4 UvrABC system protein C	0.120	185	128	160	305	151	335	1.322E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B6I0W0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B6I0W0-F1-model_v4 UvrABC system protein C	0.105	162	136	160	312	151	312	1.322E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5BGC1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5BGC1-F1-model_v4 UvrABC system protein C	0.146	185	124	160	305	151	335	1.038E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6LQ03-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6LQ03-F1-model_v4 UvrABC system protein C	0.108	79	58	196	274	224	289	9.153E+00	18
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1JE42-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1JE42-F1-model_v4 30S ribosomal protein S5	0.169	90	66	241	320	74	163	3.274E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0BNR0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0BNR0-F1-model_v4 30S ribosomal protein S5	0.125	85	69	243	322	81	165	3.695E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2A5F3-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2A5F3-F1-model_v4 30S ribosomal protein S5	0.125	85	69	243	322	81	165	4.430E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Z1D1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Z1D1-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G	0.135	59	42	240	288	42	100	5.994E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O75821-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O75821-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G	0.100	50	42	241	288	51	100	8.616E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HRE0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5HRE0-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.100	205	125	68	272	218	357	1.171E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P50837-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P50837-F1-model_v4 Uncharacterized protein YprB	0.147	88	57	81	148	54	141	2.278E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C5M1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1C5M1-F1-model_v4 Multidrug resistance protein MdtA	0.111	77	67	71	147	227	302	5.000E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5NFD2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5NFD2-F1-model_v4 GTPase Der	0.214	28	21	1	28	1	28	7.635E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q255T2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q255T2-F1-model_v4 UvrABC system protein C	0.110	144	111	160	285	153	296	1.900E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0A8G2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0A8G2-F1-model_v4 UvrABC system protein C	0.117	145	110	160	285	151	295	2.278E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6D363-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6D363-F1-model_v4 UvrABC system protein C	0.135	186	126	160	306	151	336	1.900E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A9MU69-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A9MU69-F1-model_v4 UvrABC system protein C	0.106	162	136	160	312	151	312	1.683E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C0Q2A7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C0Q2A7-F1-model_v4 UvrABC system protein C	0.113	185	129	160	305	151	335	1.900E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0A8G0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0A8G0-F1-model_v4 UvrABC system protein C	0.111	183	128	161	305	153	335	1.244E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3A734-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3A734-F1-model_v4 UvrABC system protein C	0.142	216	179	114	323	254	469	1.585E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5R0A6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5R0A6-F1-model_v4 UvrABC system protein C	0.124	130	99	161	274	158	287	3.478E+00	17
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B9E8C4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B9E8C4-F1-model_v4 Holo-[acyl-carrier-protein] synthase	0.116	43	36	111	153	75	116	8.111E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6P7L4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6P7L4-F1-model_v4 Vesicle-trafficking protein SEC22b	0.082	186	133	83	228	5	190	5.311E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6FV34-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6FV34-F1-model_v4 L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase	0.085	251	199	14	264	3	220	7.670E-01	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4Q0Y7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4Q0Y7-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G-1	0.133	60	49	232	288	10	69	9.724E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9W4X7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9W4X7-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G-1	0.133	60	49	232	288	10	69	9.153E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4I9X1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4I9X1-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G-1	0.133	60	49	232	288	10	69	9.724E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4J4G8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4J4G8-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G-1	0.133	60	49	232	288	10	69	9.724E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9KIB9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9KIB9-F1-model_v4 Secreted effector protein SifB	0.061	90	82	190	279	37	124	9.724E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MGU7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MGU7-F1-model_v4 GTPase Der	0.133	30	25	1	30	1	30	6.368E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5SI32-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5SI32-F1-model_v4 UvrABC system protein C	0.096	292	197	19	310	227	445	9.196E-01	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Z6W6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9Z6W6-F1-model_v4 UvrABC system protein C	0.096	157	137	160	311	153	309	2.420E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q821V5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q821V5-F1-model_v4 UvrABC system protein C	0.134	144	108	160	285	153	296	3.926E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B7UST2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B7UST2-F1-model_v4 UvrABC system protein C	0.105	162	136	160	312	151	312	2.731E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2VIA0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2VIA0-F1-model_v4 UvrABC system protein C	0.125	185	128	159	305	151	335	1.900E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C4ZQJ1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C4ZQJ1-F1-model_v4 UvrABC system protein C	0.110	183	128	161	305	153	335	1.900E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P0A8G1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P0A8G1-F1-model_v4 UvrABC system protein C	0.117	145	110	160	285	151	295	3.695E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72IF0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q72IF0-F1-model_v4 UvrABC system protein C	0.119	189	159	130	310	297	485	2.731E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B1MC92-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B1MC92-F1-model_v4 UvrABC system protein C	0.092	123	98	193	315	223	331	7.635E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2IQH0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2IQH0-F1-model_v4 UvrABC system protein C	0.103	134	104	161	277	156	289	5.994E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7M732-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7M732-F1-model_v4 Retrotransposon-like protein 1	0.125	116	87	187	286	1062	1177	5.643E+00	16
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9MAS5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9MAS5-F1-model_v4 Putative vesicle-associated membrane protein 726	0.144	100	70	129	228	52	134	2.571E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7QJV0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7QJV0-F1-model_v4 Eukaryotic translation initiation factor 3 subunit G	0.114	60	50	232	288	10	69	9.724E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VHL1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7VHL1-F1-model_v4 ATP phosphoribosyltransferase regulatory subunit	0.061	198	138	1	148	73	270	5.000E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8CTP4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8CTP4-F1-model_v4 Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein	0.079	253	135	72	324	233	380	1.683E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6AKB8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6AKB8-F1-model_v4 UvrABC system protein C	0.142	188	141	134	298	120	307	1.585E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5E4C5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5E4C5-F1-model_v4 UvrABC system protein C	0.121	153	114	160	290	150	302	4.430E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8AFB5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8AFB5-F1-model_v4 UvrABC system protein C	0.111	145	111	160	285	151	295	5.000E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5R110-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5R110-F1-model_v4 UvrABC system protein C	0.113	185	129	160	305	151	335	1.788E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87NC4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q87NC4-F1-model_v4 UvrABC system protein C	0.086	251	193	98	309	234	484	2.018E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MJG4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A7MJG4-F1-model_v4 UvrABC system protein C	0.101	151	128	161	303	153	303	3.926E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4FPI1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4FPI1-F1-model_v4 UvrABC system protein C	0.102	203	178	114	312	262	464	3.274E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C1CQA2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C1CQA2-F1-model_v4 UvrABC system protein C	0.161	93	67	196	288	211	291	6.765E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2S367-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2S367-F1-model_v4 UvrABC system protein C	0.129	114	72	192	305	218	301	6.765E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q54C38-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q54C38-F1-model_v4 Probable serine/threonine-protein kinase DDB_G0293292	0.061	240	152	72	311	638	800	2.901E+00	15
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O08595-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O08595-F1-model_v4 Vesicle-trafficking protein SEC22b	0.082	186	133	83	228	5	190	5.643E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0QEZ6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0QEZ6-F1-model_v4 Aminomethyltransferase	0.092	272	157	34	305	46	219	2.901E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JKS6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A1JKS6-F1-model_v4 GTPase Der	0.133	30	25	1	30	1	30	9.153E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q468S9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q468S9-F1-model_v4 UvrABC system protein C	0.157	132	106	186	312	298	429	5.311E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q28034-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q28034-F1-model_v4 Glucosidase 2 subunit beta	0.139	85	67	188	272	362	440	3.478E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5ZBM7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5ZBM7-F1-model_v4 UvrABC system protein C	0.111	132	115	196	325	206	337	8.616E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A8Z1S8-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A8Z1S8-F1-model_v4 UvrABC system protein C	0.081	123	96	217	322	219	341	8.616E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A6QG48-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A6QG48-F1-model_v4 UvrABC system protein C	0.064	116	92	187	285	175	290	9.724E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2FZD0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2FZD0-F1-model_v4 UvrABC system protein C	0.064	116	92	187	285	175	290	9.724E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8EFV4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8EFV4-F1-model_v4 UvrABC system protein C	0.118	142	109	161	285	153	294	6.765E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HW92-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q0HW92-F1-model_v4 UvrABC system protein C	0.128	142	108	161	285	153	294	7.635E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B4EXV4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B4EXV4-F1-model_v4 UvrABC system protein C	0.102	117	98	196	305	219	335	8.111E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0Q5Q7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0Q5Q7-F1-model_v4 UvrABC system protein C	0.124	124	83	193	316	222	317	7.635E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O88529-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O88529-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.103	138	121	95	232	381	516	5.000E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6MKS2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6MKS2-F1-model_v4 UvrABC system protein C	0.134	132	102	193	324	222	340	5.000E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O83485-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O83485-F1-model_v4 UvrABC system protein C	0.123	114	73	192	305	218	301	9.153E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C1B4L2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C1B4L2-F1-model_v4 UvrABC system protein C	0.105	117	86	193	309	223	319	9.153E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q99MW1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q99MW1-F1-model_v4 Serine/threonine-protein kinase 31	0.101	79	60	72	150	747	814	9.724E+00	14
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O29850-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O29850-F1-model_v4 Uncharacterized protein AF_0397	0.085	100	89	72	171	71	168	5.643E+00	13
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7SXP0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7SXP0-F1-model_v4 Vesicle-trafficking protein SEC22b-B	0.088	140	108	89	228	23	141	4.170E+00	13
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7ZV15-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7ZV15-F1-model_v4 Vesicle-trafficking protein SEC22b-A	0.093	143	121	83	225	5	138	5.643E+00	13
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9PQA9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9PQA9-F1-model_v4 UvrABC system protein C	0.072	185	146	167	324	152	336	7.635E+00	13
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q15T23-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q15T23-F1-model_v4 UvrABC system protein C	0.091	145	115	161	288	155	299	8.616E+00	13
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B2IMT4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B2IMT4-F1-model_v4 UvrABC system protein C	0.155	93	68	196	288	211	291	6.765E+00	13
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1GDL4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q1GDL4-F1-model_v4 UvrABC system protein C	0.105	178	144	160	321	175	352	5.994E+00	13
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4KM74-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q4KM74-F1-model_v4 Vesicle-trafficking protein SEC22b	0.072	137	107	89	225	23	138	6.765E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-O08547-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-O08547-F1-model_v4 Vesicle-trafficking protein SEC22b	0.085	137	105	89	225	23	138	7.187E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5ZJW4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5ZJW4-F1-model_v4 Vesicle-trafficking protein SEC22b	0.092	137	104	89	225	23	138	5.000E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8TKS2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q8TKS2-F1-model_v4 UvrABC system protein C	0.145	131	107	187	312	299	429	9.724E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-P14314-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-P14314-F1-model_v4 Glucosidase 2 subunit beta	0.120	92	72	188	270	357	448	2.018E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3Z770-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3Z770-F1-model_v4 UvrABC system protein C	0.118	231	190	103	318	236	466	5.311E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2KXM9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q2KXM9-F1-model_v4 UvrABC system protein C	0.093	181	132	160	305	151	331	9.724E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B5E2L2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B5E2L2-F1-model_v4 UvrABC system protein C	0.114	191	165	123	309	252	442	6.368E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q01S04-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q01S04-F1-model_v4 UvrABC system protein C	0.106	226	191	95	309	228	453	7.187E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3IYX6-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q3IYX6-F1-model_v4 UvrABC system protein C	0.110	207	181	114	317	269	475	5.994E+00	12
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6FWT0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q6FWT0-F1-model_v4 Protein transport protein SEC22	0.084	161	130	86	228	18	178	9.153E+00	11
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q04EZ7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q04EZ7-F1-model_v4 UvrABC system protein C	0.117	300	197	22	321	239	462	6.368E+00	11
+DESULFOASV1_3310_lipoate-protein_ligase	AF-A0A1P8AW69-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-A0A1P8AW69-F1-model_v4 Katanin p80 WD40 repeat-containing subunit B1 homolog KTN80.1	0.108	130	93	62	191	230	334	9.724E+00	11
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5RAI9-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5RAI9-F1-model_v4 Vesicle-trafficking protein SEC22b	0.078	137	106	89	225	23	138	9.724E+00	10
+DESULFOASV1_3310_lipoate-protein_ligase	AF-C0M890-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-C0M890-F1-model_v4 UvrABC system protein C	0.116	274	176	36	309	243	442	8.616E+00	10
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5M3R7-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q5M3R7-F1-model_v4 UvrABC system protein C	0.128	193	162	123	309	252	444	9.724E+00	10
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7M8K0-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q7M8K0-F1-model_v4 UvrABC system protein C	0.142	201	169	112	312	258	455	6.368E+00	10
+DESULFOASV1_3310_lipoate-protein_ligase	AF-B8I8F2-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-B8I8F2-F1-model_v4 UvrABC system protein C	0.125	202	171	114	309	258	459	6.368E+00	10
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q68WG4-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q68WG4-F1-model_v4 UvrABC system protein C	0.108	206	161	129	309	265	470	5.994E+00	10
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q741E5-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q741E5-F1-model_v4 UvrABC system protein C	0.128	294	195	90	314	202	495	3.082E+00	10
+DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9CCP1-F1-model_v4	DESULFOASV1_3310_lipoate-protein_ligase	AF-Q9CCP1-F1-model_v4 UvrABC system protein C	0.105	232	185	112	319	260	491	8.616E+00	9

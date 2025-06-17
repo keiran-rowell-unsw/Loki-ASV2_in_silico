@@ -1,0 +1,949 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_0686_hypothetical_protein	AF-O31661-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O31661-F1-model_v4 Sporulation kinase E	0.179	715	585	115	829	16	729	1.188E-50	1025
+DESULFOASV1_0686_hypothetical_protein	AF-P15939-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P15939-F1-model_v4 Nodulation protein V	0.144	761	609	117	829	125	885	5.454E-47	939
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HWA7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HWA7-F1-model_v4 Two-component sensor PprA	0.146	892	699	10	829	25	916	2.245E-43	925
+DESULFOASV1_0686_hypothetical_protein	AF-P16497-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P16497-F1-model_v4 Sporulation kinase A	0.173	591	469	261	828	16	606	3.173E-38	778
+DESULFOASV1_0686_hypothetical_protein	AF-Q9RQQ9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9RQQ9-F1-model_v4 Sensor protein DivL	0.131	823	617	7	829	48	758	1.088E-39	756
+DESULFOASV1_0686_hypothetical_protein	AF-P23222-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P23222-F1-model_v4 Sensor protein FixL	0.151	582	415	248	829	14	503	2.295E-29	698
+DESULFOASV1_0686_hypothetical_protein	AF-P0DOA0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0DOA0-F1-model_v4 Sensor kinase CckA	0.156	652	501	235	829	146	797	2.170E-35	668
+DESULFOASV1_0686_hypothetical_protein	AF-Q8THF6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8THF6-F1-model_v4 Methyl sulfide methyltransferase-associated sensor	0.143	997	707	1	826	1	997	5.266E-42	637
+DESULFOASV1_0686_hypothetical_protein	AF-P38097-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P38097-F1-model_v4 Probable diguanylate cyclase DgcE	0.161	479	399	117	595	293	769	5.583E-27	624
+DESULFOASV1_0686_hypothetical_protein	AF-P55552-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P55552-F1-model_v4 Uncharacterized protein y4lL	0.164	459	359	251	681	15	473	1.262E-26	622
+DESULFOASV1_0686_hypothetical_protein	AF-Q40762-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q40762-F1-model_v4 Phytochrome	0.117	1071	730	2	829	62	1132	1.379E-34	615
+DESULFOASV1_0686_hypothetical_protein	AF-Q9P7Q7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9P7Q7-F1-model_v4 Peroxide stress-activated histidine kinase mak1	0.135	578	437	252	829	720	1225	1.432E-30	614
+DESULFOASV1_0686_hypothetical_protein	AF-P56267-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P56267-F1-model_v4 Nitrogen fixation regulatory protein	0.106	595	428	233	827	7	486	2.656E-25	596
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YRB4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YRB4-F1-model_v4 Cell-division control histidine kinase PdhS	0.117	1021	720	11	826	8	1028	8.298E-37	595
+DESULFOASV1_0686_hypothetical_protein	AF-Q57BR6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q57BR6-F1-model_v4 Cell-division control histidine kinase PdhS	0.122	1005	708	20	826	24	1028	1.430E-36	595
+DESULFOASV1_0686_hypothetical_protein	AF-O14002-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O14002-F1-model_v4 Peroxide stress-activated histidine kinase mak2	0.142	442	316	461	829	1547	1988	1.016E-23	594
+DESULFOASV1_0686_hypothetical_protein	AF-A9M715-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A9M715-F1-model_v4 Cell-division control histidine kinase PdhS	0.117	1021	720	11	826	8	1028	5.670E-37	593
+DESULFOASV1_0686_hypothetical_protein	AF-Q8FZ86-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8FZ86-F1-model_v4 Cell-division control histidine kinase PdhS	0.115	1021	721	11	826	8	1028	4.816E-37	593
+DESULFOASV1_0686_hypothetical_protein	AF-Q54RP6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54RP6-F1-model_v4 Hybrid signal transduction histidine kinase L	0.196	363	272	487	825	693	1055	1.849E-23	592
+DESULFOASV1_0686_hypothetical_protein	AF-A5VRX4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5VRX4-F1-model_v4 Cell-division control histidine kinase PdhS	0.118	1021	719	11	826	8	1028	3.604E-36	587
+DESULFOASV1_0686_hypothetical_protein	AF-Q8YIM6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8YIM6-F1-model_v4 Cell-division control histidine kinase PdhS	0.117	1021	720	11	826	8	1028	4.731E-36	584
+DESULFOASV1_0686_hypothetical_protein	AF-P34094-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P34094-F1-model_v4 Phytochrome B	0.121	1058	728	1	829	66	1123	8.461E-32	584
+DESULFOASV1_0686_hypothetical_protein	AF-Q03228-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q03228-F1-model_v4 Histidine protein kinase DivJ	0.208	361	268	487	826	190	550	1.543E-22	582
+DESULFOASV1_0686_hypothetical_protein	AF-P39764-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P39764-F1-model_v4 Sporulation kinase C	0.168	467	300	360	826	63	423	1.514E-24	579
+DESULFOASV1_0686_hypothetical_protein	AF-Q52969-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q52969-F1-model_v4 Uncharacterized sensor-like histidine kinase R01002	0.208	359	261	497	827	106	464	2.100E-21	578
+DESULFOASV1_0686_hypothetical_protein	AF-P36505-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P36505-F1-model_v4 Phytochrome 1	0.127	1060	723	1	829	56	1115	2.131E-34	575
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ZS62-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ZS62-F1-model_v4 Phytochrome B1	0.130	1045	713	5	825	74	1118	4.247E-33	569
+DESULFOASV1_0686_hypothetical_protein	AF-P23621-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P23621-F1-model_v4 Phosphate regulon sensor protein PhoR	0.158	343	284	487	829	96	433	3.753E-20	567
+DESULFOASV1_0686_hypothetical_protein	AF-Q869S5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q869S5-F1-model_v4 Hybrid signal transduction protein dokA	0.152	573	392	363	825	700	1272	2.216E-24	563
+DESULFOASV1_0686_hypothetical_protein	AF-P39664-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P39664-F1-model_v4 Sensor protein SphS	0.154	354	288	487	828	44	397	6.951E-21	560
+DESULFOASV1_0686_hypothetical_protein	AF-I1MGE5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-I1MGE5-F1-model_v4 Phytochrome B-2	0.132	1057	719	1	829	87	1143	5.378E-31	560
+DESULFOASV1_0686_hypothetical_protein	AF-P93673-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P93673-F1-model_v4 Phytochrome type A	0.115	1061	733	1	829	60	1120	2.800E-31	555
+DESULFOASV1_0686_hypothetical_protein	AF-Q54SP4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54SP4-F1-model_v4 Hybrid signal transduction histidine kinase D	0.158	465	324	362	826	52	437	7.889E-22	553
+DESULFOASV1_0686_hypothetical_protein	AF-Q10MG9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q10MG9-F1-model_v4 Phytochrome B	0.116	1065	728	5	829	99	1163	2.956E-31	551
+DESULFOASV1_0686_hypothetical_protein	AF-P10955-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P10955-F1-model_v4 Sensor protein FixL	0.208	368	271	487	829	130	497	4.579E-22	549
+DESULFOASV1_0686_hypothetical_protein	AF-Q41046-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q41046-F1-model_v4 Phytochrome	0.112	1026	715	20	825	92	1117	3.010E-32	547
+DESULFOASV1_0686_hypothetical_protein	AF-B4YB07-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B4YB07-F1-model_v4 Phytochrome A-2	0.113	1060	734	1	829	60	1119	8.768E-34	546
+DESULFOASV1_0686_hypothetical_protein	AF-O34206-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O34206-F1-model_v4 Alginate biosynthesis sensor protein KinB	0.168	344	283	487	827	252	595	3.753E-20	544
+DESULFOASV1_0686_hypothetical_protein	AF-Q54YH4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54YH4-F1-model_v4 Hybrid signal transduction histidine kinase B	0.188	364	275	487	826	822	1185	2.342E-21	542
+DESULFOASV1_0686_hypothetical_protein	AF-P55141-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P55141-F1-model_v4 Phytochrome A	0.110	1063	732	7	829	63	1125	1.567E-32	540
+DESULFOASV1_0686_hypothetical_protein	AF-P30663-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P30663-F1-model_v4 Nitrogen fixation regulatory protein	0.159	492	381	375	828	25	516	1.598E-27	539
+DESULFOASV1_0686_hypothetical_protein	AF-P29130-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P29130-F1-model_v4 Phytochrome B	0.118	1050	727	5	829	76	1125	7.871E-31	539
+DESULFOASV1_0686_hypothetical_protein	AF-A2XFW2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2XFW2-F1-model_v4 Phytochrome B	0.112	1070	735	1	829	94	1163	7.454E-31	531
+DESULFOASV1_0686_hypothetical_protein	AF-P0AEC3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AEC3-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.172	469	303	360	828	140	506	8.633E-24	530
+DESULFOASV1_0686_hypothetical_protein	AF-P93528-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P93528-F1-model_v4 Phytochrome C	0.102	1066	744	1	829	57	1122	3.950E-32	529
+DESULFOASV1_0686_hypothetical_protein	AF-Q9P896-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9P896-F1-model_v4 Two-component system protein A	0.132	577	422	253	829	46	532	7.460E-28	528
+DESULFOASV1_0686_hypothetical_protein	AF-P0AEC4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AEC4-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.174	469	302	360	828	140	506	3.243E-24	528
+DESULFOASV1_0686_hypothetical_protein	AF-A6X5X4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6X5X4-F1-model_v4 Cell-division control histidine kinase PdhS	0.111	1025	717	20	826	24	1048	1.070E-35	528
+DESULFOASV1_0686_hypothetical_protein	AF-P06593-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P06593-F1-model_v4 Phytochrome A type 3	0.111	1067	736	1	829	58	1124	7.454E-31	526
+DESULFOASV1_0686_hypothetical_protein	AF-P58363-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P58363-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.175	469	302	360	828	140	506	6.945E-24	524
+DESULFOASV1_0686_hypothetical_protein	AF-P37894-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P37894-F1-model_v4 Non-motile and phage-resistance protein	0.120	809	626	21	829	119	830	1.405E-32	523
+DESULFOASV1_0686_hypothetical_protein	AF-B0CI82-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B0CI82-F1-model_v4 Cell-division control histidine kinase PdhS	0.118	1021	719	11	826	8	1028	9.087E-36	523
+DESULFOASV1_0686_hypothetical_protein	AF-P42499-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42499-F1-model_v4 Phytochrome B	0.127	1076	722	2	829	75	1150	1.194E-32	523
+DESULFOASV1_0686_hypothetical_protein	AF-A2XLG5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2XLG5-F1-model_v4 Phytochrome A	0.104	1074	741	2	829	55	1128	1.845E-32	519
+DESULFOASV1_0686_hypothetical_protein	AF-P15001-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P15001-F1-model_v4 Phytochrome A	0.117	1064	731	1	829	57	1120	2.798E-34	518
+DESULFOASV1_0686_hypothetical_protein	AF-Q39557-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q39557-F1-model_v4 Phytochrome 2	0.119	1058	729	2	829	56	1113	6.806E-32	517
+DESULFOASV1_0686_hypothetical_protein	AF-P42497-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42497-F1-model_v4 Phytochrome D	0.112	1059	732	5	829	99	1157	3.296E-31	516
+DESULFOASV1_0686_hypothetical_protein	AF-P42498-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42498-F1-model_v4 Phytochrome E	0.114	1040	730	1	825	53	1092	4.022E-33	513
+DESULFOASV1_0686_hypothetical_protein	AF-Q551X9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q551X9-F1-model_v4 Hybrid signal transduction histidine kinase F	0.140	520	433	310	829	46	549	1.113E-22	511
+DESULFOASV1_0686_hypothetical_protein	AF-P33530-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P33530-F1-model_v4 Phytochrome A1	0.116	1055	728	2	825	60	1114	2.603E-33	511
+DESULFOASV1_0686_hypothetical_protein	AF-P19862-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P19862-F1-model_v4 Phytochrome A	0.105	1061	737	1	825	60	1120	3.066E-30	511
+DESULFOASV1_0686_hypothetical_protein	AF-B2S758-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B2S758-F1-model_v4 Cell-division control histidine kinase PdhS	0.119	1028	727	1	826	1	1028	4.907E-35	510
+DESULFOASV1_0686_hypothetical_protein	AF-Q10CQ8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q10CQ8-F1-model_v4 Phytochrome C	0.109	1063	734	5	829	62	1124	2.800E-31	510
+DESULFOASV1_0686_hypothetical_protein	AF-A2XM23-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2XM23-F1-model_v4 Phytochrome C	0.111	1063	733	5	829	62	1124	3.480E-31	509
+DESULFOASV1_0686_hypothetical_protein	AF-P55004-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P55004-F1-model_v4 Phytochrome E	0.122	1040	723	1	825	57	1096	1.567E-32	505
+DESULFOASV1_0686_hypothetical_protein	AF-P06592-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P06592-F1-model_v4 Phytochrome A	0.114	1061	734	1	829	59	1119	2.557E-32	504
+DESULFOASV1_0686_hypothetical_protein	AF-P06772-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P06772-F1-model_v4 Nitrogen fixation regulatory protein	0.124	475	407	362	827	12	486	8.474E-26	501
+DESULFOASV1_0686_hypothetical_protein	AF-O87939-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O87939-F1-model_v4 Sensor protein TdiS	0.161	579	441	248	826	21	547	8.627E-27	501
+DESULFOASV1_0686_hypothetical_protein	AF-P06594-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P06594-F1-model_v4 Phytochrome A type 4	0.101	1063	741	1	825	56	1118	2.557E-32	501
+DESULFOASV1_0686_hypothetical_protein	AF-P93527-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P93527-F1-model_v4 Phytochrome B	0.114	1063	730	5	829	108	1170	7.588E-32	500
+DESULFOASV1_0686_hypothetical_protein	AF-P93526-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P93526-F1-model_v4 Phytochrome a	0.105	1062	737	1	825	59	1120	2.800E-31	492
+DESULFOASV1_0686_hypothetical_protein	AF-P30733-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P30733-F1-model_v4 Phytochrome A	0.117	1058	728	1	825	57	1114	1.356E-30	488
+DESULFOASV1_0686_hypothetical_protein	AF-Q10DU0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q10DU0-F1-model_v4 Phytochrome A	0.105	1071	741	1	829	58	1128	2.095E-30	488
+DESULFOASV1_0686_hypothetical_protein	AF-Q9I3S1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9I3S1-F1-model_v4 Biofilm dispersion protein BdlA	0.133	422	292	386	807	8	345	4.110E-19	487
+DESULFOASV1_0686_hypothetical_protein	AF-P23545-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P23545-F1-model_v4 Alkaline phosphatase synthesis sensor protein PhoR	0.138	595	469	235	829	31	575	1.849E-23	486
+DESULFOASV1_0686_hypothetical_protein	AF-P0A2E0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A2E0-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.203	339	265	497	829	11	349	1.850E-20	484
+DESULFOASV1_0686_hypothetical_protein	AF-Q48IV1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q48IV1-F1-model_v4 Blue-light-activated protein	0.164	370	282	491	828	20	389	3.245E-21	484
+DESULFOASV1_0686_hypothetical_protein	AF-P45670-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P45670-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.185	347	271	497	829	35	381	9.463E-20	483
+DESULFOASV1_0686_hypothetical_protein	AF-P0AFB7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AFB7-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.217	339	260	497	829	11	349	1.660E-20	479
+DESULFOASV1_0686_hypothetical_protein	AF-P33529-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P33529-F1-model_v4 Phytochrome	0.116	1057	732	1	829	60	1116	2.800E-31	478
+DESULFOASV1_0686_hypothetical_protein	AF-P45609-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P45609-F1-model_v4 Phosphate regulon sensor protein PhoR	0.166	340	278	487	826	89	422	6.707E-19	477
+DESULFOASV1_0686_hypothetical_protein	AF-P45608-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P45608-F1-model_v4 Phosphate regulon sensor protein PhoR	0.155	340	281	487	826	89	422	7.895E-19	477
+DESULFOASV1_0686_hypothetical_protein	AF-A6X554-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6X554-F1-model_v4 Blue-light-activated histidine kinase	0.151	453	383	376	828	22	473	8.025E-26	477
+DESULFOASV1_0686_hypothetical_protein	AF-P0A2D9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A2D9-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.201	339	265	497	829	11	349	2.565E-20	476
+DESULFOASV1_0686_hypothetical_protein	AF-Q9RDT3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9RDT3-F1-model_v4 Sensor protein kinase WalK	0.166	344	285	487	829	64	407	1.176E-19	476
+DESULFOASV1_0686_hypothetical_protein	AF-B2SB67-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B2SB67-F1-model_v4 Blue-light-activated histidine kinase	0.155	453	380	376	828	22	472	2.023E-25	476
+DESULFOASV1_0686_hypothetical_protein	AF-A5A2P0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5A2P0-F1-model_v4 Sensor protein kinase WalK	0.162	348	287	487	829	64	411	9.992E-20	474
+DESULFOASV1_0686_hypothetical_protein	AF-P0AFB6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AFB6-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.217	339	260	497	829	11	349	3.554E-20	473
+DESULFOASV1_0686_hypothetical_protein	AF-P0AFB5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AFB5-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.217	339	260	497	829	11	349	3.188E-20	473
+DESULFOASV1_0686_hypothetical_protein	AF-P08400-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P08400-F1-model_v4 Phosphate regulon sensor protein PhoR	0.161	340	279	487	826	89	422	7.081E-19	473
+DESULFOASV1_0686_hypothetical_protein	AF-O49934-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O49934-F1-model_v4 Phytochrome A	0.107	1057	736	1	825	57	1113	9.273E-28	473
+DESULFOASV1_0686_hypothetical_protein	AF-P10578-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P10578-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.192	349	267	495	826	15	363	3.307E-19	472
+DESULFOASV1_0686_hypothetical_protein	AF-A5VUS1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5VUS1-F1-model_v4 Blue-light-activated histidine kinase	0.157	453	379	376	828	22	472	3.486E-25	472
+DESULFOASV1_0686_hypothetical_protein	AF-P06218-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P06218-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.212	339	262	497	829	11	349	2.063E-20	471
+DESULFOASV1_0686_hypothetical_protein	AF-P14714-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P14714-F1-model_v4 Phytochrome C	0.112	1054	731	2	825	53	1106	3.296E-31	471
+DESULFOASV1_0686_hypothetical_protein	AF-P14713-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P14713-F1-model_v4 Phytochrome B	0.111	1063	736	1	829	91	1153	8.311E-31	469
+DESULFOASV1_0686_hypothetical_protein	AF-A0QR01-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0QR01-F1-model_v4 Signal-transduction histidine kinase SenX3	0.154	346	289	487	829	24	369	5.697E-19	468
+DESULFOASV1_0686_hypothetical_protein	AF-Q45614-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q45614-F1-model_v4 Sensor histidine kinase WalK	0.155	577	443	250	826	75	599	5.387E-25	467
+DESULFOASV1_0686_hypothetical_protein	AF-Q3S4A7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q3S4A7-F1-model_v4 Histidine kinase 5	0.171	466	337	360	825	204	610	3.366E-20	467
+DESULFOASV1_0686_hypothetical_protein	AF-P14712-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P14712-F1-model_v4 Phytochrome A	0.117	1039	714	20	829	84	1122	5.679E-31	466
+DESULFOASV1_0686_hypothetical_protein	AF-Q2G2U4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2G2U4-F1-model_v4 Sensor protein kinase WalK	0.137	580	454	250	829	74	600	2.099E-24	465
+DESULFOASV1_0686_hypothetical_protein	AF-Q01549-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q01549-F1-model_v4 Phytochrome 1	0.127	1065	722	2	829	57	1121	4.568E-31	465
+DESULFOASV1_0686_hypothetical_protein	AF-Q8YC53-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8YC53-F1-model_v4 Blue-light-activated histidine kinase	0.158	453	379	376	828	22	472	1.815E-25	462
+DESULFOASV1_0686_hypothetical_protein	AF-P42500-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42500-F1-model_v4 Phytochrome A	0.109	1071	738	1	829	57	1127	2.254E-28	461
+DESULFOASV1_0686_hypothetical_protein	AF-P28788-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P28788-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.182	338	271	497	828	11	348	8.487E-20	460
+DESULFOASV1_0686_hypothetical_protein	AF-Q577Y7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q577Y7-F1-model_v4 Blue-light-activated histidine kinase	0.158	453	379	376	828	22	472	3.301E-25	460
+DESULFOASV1_0686_hypothetical_protein	AF-P54529-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P54529-F1-model_v4 Putative sigma L-dependent transcriptional regulator YqiR	0.144	266	216	235	500	102	354	4.586E-16	460
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YKK7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YKK7-F1-model_v4 Blue-light-activated histidine kinase	0.155	453	380	376	828	22	472	4.333E-25	459
+DESULFOASV1_0686_hypothetical_protein	AF-A9WYQ7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A9WYQ7-F1-model_v4 Blue-light-activated histidine kinase	0.158	453	379	376	828	22	472	4.333E-25	459
+DESULFOASV1_0686_hypothetical_protein	AF-A9MBM8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A9MBM8-F1-model_v4 Blue-light-activated histidine kinase	0.157	453	379	376	828	22	472	4.576E-25	458
+DESULFOASV1_0686_hypothetical_protein	AF-Q8FW73-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8FW73-F1-model_v4 Blue-light-activated histidine kinase	0.153	453	381	376	828	22	472	5.101E-25	458
+DESULFOASV1_0686_hypothetical_protein	AF-P26489-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P26489-F1-model_v4 Sensor protein FixL	0.181	368	280	487	829	130	497	3.753E-20	454
+DESULFOASV1_0686_hypothetical_protein	AF-P0A4I8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A4I8-F1-model_v4 Sensor protein CutS	0.172	228	187	601	827	187	414	5.501E-14	453
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YUQ2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YUQ2-F1-model_v4 Sensor protein kinase WalK	0.129	580	458	250	829	74	600	1.783E-24	453
+DESULFOASV1_0686_hypothetical_protein	AF-P0A4I7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A4I7-F1-model_v4 Sensor protein CutS	0.175	228	186	601	827	187	414	5.501E-14	452
+DESULFOASV1_0686_hypothetical_protein	AF-Q4ZSY3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4ZSY3-F1-model_v4 Blue-light-activated protein	0.157	366	281	495	828	24	389	1.055E-19	452
+DESULFOASV1_0686_hypothetical_protein	AF-P35164-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P35164-F1-model_v4 Sensor histidine kinase ResE	0.135	594	477	236	829	37	589	4.662E-23	452
+DESULFOASV1_0686_hypothetical_protein	AF-Q4LAJ8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4LAJ8-F1-model_v4 Sensor protein kinase WalK	0.126	592	483	238	829	46	599	1.358E-24	452
+DESULFOASV1_0686_hypothetical_protein	AF-A2YFR6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2YFR6-F1-model_v4 Probable histidine kinase 1	0.155	469	384	361	829	204	659	2.708E-20	451
+DESULFOASV1_0686_hypothetical_protein	AF-P09431-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P09431-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.167	346	277	496	829	7	352	8.337E-19	450
+DESULFOASV1_0686_hypothetical_protein	AF-P0A601-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A601-F1-model_v4 Sensor-like histidine kinase SenX3	0.166	345	285	487	829	36	380	7.756E-18	450
+DESULFOASV1_0686_hypothetical_protein	AF-A6TXG9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6TXG9-F1-model_v4 Sensor protein kinase WalK	0.136	580	454	250	829	74	600	1.093E-24	450
+DESULFOASV1_0686_hypothetical_protein	AF-P0C0F6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0C0F6-F1-model_v4 Sensory/regulatory protein RpfC	0.215	236	179	598	826	179	414	6.838E-14	450
+DESULFOASV1_0686_hypothetical_protein	AF-Q8KIY1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8KIY1-F1-model_v4 Sensor histidine kinase TmoS	0.114	944	626	122	828	30	973	3.744E-29	450
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HJX6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HJX6-F1-model_v4 Sensor protein kinase WalK	0.139	580	453	250	829	74	600	1.514E-24	449
+DESULFOASV1_0686_hypothetical_protein	AF-A7WWQ7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7WWQ7-F1-model_v4 Sensor protein kinase WalK	0.136	580	454	250	829	74	600	1.688E-24	448
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A8E0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A8E0-F1-model_v4 Sensor protein kinase WalK	0.139	580	453	250	829	74	600	1.358E-24	448
+DESULFOASV1_0686_hypothetical_protein	AF-A3BE68-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A3BE68-F1-model_v4 Probable histidine kinase 1	0.154	469	385	361	829	204	659	9.633E-21	448
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GKS6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GKS6-F1-model_v4 Sensor protein kinase WalK	0.133	580	456	250	829	74	600	2.340E-24	447
+DESULFOASV1_0686_hypothetical_protein	AF-Q881J7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q881J7-F1-model_v4 Blue-light-activated protein	0.153	370	285	492	829	21	390	2.708E-20	446
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGK4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGK4-F1-model_v4 Sensor-like histidine kinase senX3	0.161	345	287	487	829	36	380	1.573E-17	445
+DESULFOASV1_0686_hypothetical_protein	AF-P54883-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P54883-F1-model_v4 Sensor-like histidine kinase SenX3	0.168	345	285	487	829	36	380	9.641E-18	445
+DESULFOASV1_0686_hypothetical_protein	AF-Q06067-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q06067-F1-model_v4 Signal transduction histidine-protein kinase AtoS	0.136	703	453	124	826	75	599	4.333E-25	445
+DESULFOASV1_0686_hypothetical_protein	AF-Q5A599-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5A599-F1-model_v4 Histidine protein kinase NIK1	0.204	238	181	602	829	495	732	4.847E-13	445
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGK5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGK5-F1-model_v4 Sensor-like histidine kinase SenX3	0.166	345	285	487	829	36	380	1.411E-17	444
+DESULFOASV1_0686_hypothetical_protein	AF-O74539-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O74539-F1-model_v4 Peroxide stress-activated histidine kinase mak3	0.145	490	374	336	825	1578	2016	3.304E-22	444
+DESULFOASV1_0686_hypothetical_protein	AF-Q4A159-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4A159-F1-model_v4 Sensor protein kinase WalK	0.131	594	468	236	829	62	601	3.616E-24	443
+DESULFOASV1_0686_hypothetical_protein	AF-P0C0F7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0C0F7-F1-model_v4 Sensory/regulatory protein RpfC	0.211	236	180	598	826	179	414	1.546E-13	443
+DESULFOASV1_0686_hypothetical_protein	AF-P16575-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P16575-F1-model_v4 Virulence sensor protein BvgS	0.181	384	282	485	829	567	950	1.074E-20	442
+DESULFOASV1_0686_hypothetical_protein	AF-A8YYU2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A8YYU2-F1-model_v4 Sensor protein kinase WalK	0.141	580	452	250	829	74	600	2.471E-24	439
+DESULFOASV1_0686_hypothetical_protein	AF-A5INR0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5INR0-F1-model_v4 Sensor protein kinase WalK	0.136	580	454	250	829	74	600	3.818E-24	439
+DESULFOASV1_0686_hypothetical_protein	AF-A6QD58-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6QD58-F1-model_v4 Sensor protein kinase WalK	0.132	580	457	250	829	74	600	5.587E-24	437
+DESULFOASV1_0686_hypothetical_protein	AF-Q54YZ9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54YZ9-F1-model_v4 Hybrid signal transduction histidine kinase J	0.192	232	179	606	828	1345	1576	2.263E-13	437
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A215-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A215-F1-model_v4 Sensor protein kinase WalK	0.140	580	452	250	829	74	600	4.746E-24	436
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FKN7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FKN7-F1-model_v4 Sensor protein kinase WalK	0.134	580	456	250	829	74	600	8.633E-24	436
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GD71-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GD71-F1-model_v4 Sensor protein kinase WalK	0.141	580	452	250	829	74	600	5.899E-24	436
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CU87-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CU87-F1-model_v4 Sensor protein kinase WalK	0.128	592	488	235	826	39	599	1.133E-23	436
+DESULFOASV1_0686_hypothetical_protein	AF-P26762-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P26762-F1-model_v4 Virulence sensor protein BvgS	0.182	384	281	485	829	567	950	2.178E-20	435
+DESULFOASV1_0686_hypothetical_protein	AF-P33639-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P33639-F1-model_v4 Sensor protein kinase PilS	0.167	339	277	487	825	190	523	5.395E-19	433
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A305-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A305-F1-model_v4 Sensor protein kinase WalK	0.132	595	487	235	829	39	600	1.133E-23	433
+DESULFOASV1_0686_hypothetical_protein	AF-Q52977-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q52977-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.184	358	278	488	829	9	366	6.015E-19	432
+DESULFOASV1_0686_hypothetical_protein	AF-Q95PI2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q95PI2-F1-model_v4 Hybrid signal transduction histidine kinase C	0.194	240	183	598	825	410	649	7.908E-13	432
+DESULFOASV1_0686_hypothetical_protein	AF-P0DMC5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0DMC5-F1-model_v4 Sensor histidine kinase RcsC	0.138	585	482	242	826	130	689	3.243E-24	431
+DESULFOASV1_0686_hypothetical_protein	AF-P40330-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P40330-F1-model_v4 Virulence sensor protein BvgS	0.180	384	282	485	829	567	950	3.366E-20	431
+DESULFOASV1_0686_hypothetical_protein	AF-Q8XA47-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8XA47-F1-model_v4 Sensor histidine kinase QseE	0.218	231	179	600	829	242	472	1.922E-13	429
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HK19-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HK19-F1-model_v4 Sensor protein kinase WalK	0.134	577	453	250	826	76	599	1.334E-23	428
+DESULFOASV1_0686_hypothetical_protein	AF-P42496-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42496-F1-model_v4 Phytochrome 1	0.116	1059	732	1	829	52	1110	2.423E-29	428
+DESULFOASV1_0686_hypothetical_protein	AF-Q8DMT2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8DMT2-F1-model_v4 Adaptive-response sensory-kinase SasA	0.208	243	181	601	829	138	380	5.117E-13	427
+DESULFOASV1_0686_hypothetical_protein	AF-P39453-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P39453-F1-model_v4 Sensor protein TorS	0.183	225	182	606	829	442	666	3.253E-12	427
+DESULFOASV1_0686_hypothetical_protein	AF-P52101-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P52101-F1-model_v4 Sensor histidine kinase GlrK	0.214	230	179	600	828	242	471	3.899E-13	424
+DESULFOASV1_0686_hypothetical_protein	AF-P19906-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P19906-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.178	344	274	496	829	7	350	1.436E-18	422
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GGK7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GGK7-F1-model_v4 Sensor protein SrrB	0.134	595	469	235	829	41	583	1.515E-21	422
+DESULFOASV1_0686_hypothetical_protein	AF-P51392-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P51392-F1-model_v4 Uncharacterized sensor-like histidine kinase ycf26	0.125	593	493	237	829	91	654	9.455E-23	422
+DESULFOASV1_0686_hypothetical_protein	AF-Q03069-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q03069-F1-model_v4 Sensor protein DegM	0.184	220	166	610	829	166	370	4.117E-13	421
+DESULFOASV1_0686_hypothetical_protein	AF-Q8X614-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8X614-F1-model_v4 Sensor protein ZraS	0.169	379	283	487	827	71	449	1.436E-18	421
+DESULFOASV1_0686_hypothetical_protein	AF-Q02482-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q02482-F1-model_v4 Putative sensor protein Sfri_3689	0.161	358	287	487	829	296	653	6.707E-19	420
+DESULFOASV1_0686_hypothetical_protein	AF-Q9I4N4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9I4N4-F1-model_v4 Sensor protein kinase FleS	0.162	343	273	487	829	69	395	1.852E-17	418
+DESULFOASV1_0686_hypothetical_protein	AF-Q86CZ2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q86CZ2-F1-model_v4 Hybrid signal transduction histidine kinase K	0.183	241	182	606	829	814	1054	8.350E-13	416
+DESULFOASV1_0686_hypothetical_protein	AF-P26167-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P26167-F1-model_v4 Protein CrtJ	0.132	436	349	253	655	27	462	3.687E-19	414
+DESULFOASV1_0686_hypothetical_protein	AF-P37739-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P37739-F1-model_v4 C4-dicarboxylate transport sensor protein DctS	0.140	568	461	262	829	116	652	2.177E-23	414
+DESULFOASV1_0686_hypothetical_protein	AF-Q56128-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q56128-F1-model_v4 Sensor histidine kinase RcsC	0.124	565	477	262	826	144	689	4.579E-22	414
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A5H7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A5H7-F1-model_v4 Sensor protein SrrB	0.130	595	472	235	829	41	583	7.472E-22	413
+DESULFOASV1_0686_hypothetical_protein	AF-E0X9C7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E0X9C7-F1-model_v4 Sensor histidine kinase TodS	0.121	952	728	1	829	23	974	5.189E-29	413
+DESULFOASV1_0686_hypothetical_protein	AF-Q1XD95-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q1XD95-F1-model_v4 Uncharacterized sensor-like histidine kinase ycf26	0.122	595	521	235	829	58	651	2.658E-22	412
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FY80-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FY80-F1-model_v4 Sensor protein SrrB	0.130	595	472	235	829	41	583	8.796E-22	411
+DESULFOASV1_0686_hypothetical_protein	AF-Q04850-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q04850-F1-model_v4 Nitrogen regulation protein NtrY	0.145	592	480	236	827	165	726	2.806E-22	411
+DESULFOASV1_0686_hypothetical_protein	AF-P30855-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P30855-F1-model_v4 Sensor protein EvgS	0.155	368	287	485	825	567	934	1.601E-18	411
+DESULFOASV1_0686_hypothetical_protein	AF-P14377-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P14377-F1-model_v4 Sensor protein ZraS	0.154	382	286	489	827	75	456	1.018E-17	410
+DESULFOASV1_0686_hypothetical_protein	AF-A5W4E3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5W4E3-F1-model_v4 Sensor histidine kinase TodS	0.122	953	727	1	829	22	974	7.065E-28	408
+DESULFOASV1_0686_hypothetical_protein	AF-Q99TZ9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99TZ9-F1-model_v4 Sensor protein SrrB	0.128	595	473	235	829	41	583	1.784E-21	406
+DESULFOASV1_0686_hypothetical_protein	AF-A7HD43-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7HD43-F1-model_v4 Globin-coupled histidine kinase	0.228	230	170	598	827	162	382	4.270E-12	403
+DESULFOASV1_0686_hypothetical_protein	AF-P41503-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P41503-F1-model_v4 Sensory histidine kinase/phosphatase NtrB	0.174	357	282	488	829	10	366	6.956E-18	403
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HFT1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HFT1-F1-model_v4 Sensor protein SrrB	0.130	595	472	235	829	41	583	2.100E-21	403
+DESULFOASV1_0686_hypothetical_protein	AF-Q9L523-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9L523-F1-model_v4 Sensor protein SrrB	0.134	595	469	235	829	41	583	7.889E-22	402
+DESULFOASV1_0686_hypothetical_protein	AF-O25026-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O25026-F1-model_v4 Sensor histidine kinase FlgS	0.145	343	257	487	829	80	381	1.692E-15	401
+DESULFOASV1_0686_hypothetical_protein	AF-E5KK10-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E5KK10-F1-model_v4 Methanogenesis regulatory histidine kinase FilI	0.127	809	686	20	828	100	886	2.173E-29	401
+DESULFOASV1_0686_hypothetical_protein	AF-P58662-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P58662-F1-model_v4 Sensor histidine kinase RcsC	0.125	565	477	262	826	144	689	2.138E-22	401
+DESULFOASV1_0686_hypothetical_protein	AF-Q08430-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q08430-F1-model_v4 Sporulation kinase B	0.181	228	185	603	829	199	426	1.546E-13	400
+DESULFOASV1_0686_hypothetical_protein	AF-Q9APE0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9APE0-F1-model_v4 Sensor protein ZraS	0.155	379	286	489	827	75	453	5.206E-17	399
+DESULFOASV1_0686_hypothetical_protein	AF-P37461-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P37461-F1-model_v4 Sensor protein ZraS	0.144	389	291	489	829	75	463	3.557E-17	399
+DESULFOASV1_0686_hypothetical_protein	AF-B1WYT4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B1WYT4-F1-model_v4 Adaptive-response sensory-kinase SasA	0.202	244	181	602	829	139	382	6.717E-13	398
+DESULFOASV1_0686_hypothetical_protein	AF-Q8Z332-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8Z332-F1-model_v4 Sensor protein ZraS	0.144	389	291	487	827	71	459	5.206E-17	398
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NWF3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NWF3-F1-model_v4 Sensor protein SrrB	0.126	595	474	235	829	41	583	1.989E-21	398
+DESULFOASV1_0686_hypothetical_protein	AF-Q2JWK9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2JWK9-F1-model_v4 Adaptive-response sensory-kinase SasA	0.182	236	187	600	829	138	373	1.519E-12	397
+DESULFOASV1_0686_hypothetical_protein	AF-Q6G973-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6G973-F1-model_v4 Sensor protein SrrB	0.133	595	470	235	829	41	583	2.342E-21	397
+DESULFOASV1_0686_hypothetical_protein	AF-Q9KLK7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9KLK7-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.133	713	530	114	826	92	703	3.301E-25	396
+DESULFOASV1_0686_hypothetical_protein	AF-P58402-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P58402-F1-model_v4 Sensor protein EvgS	0.155	368	287	485	825	567	934	4.502E-18	395
+DESULFOASV1_0686_hypothetical_protein	AF-Q8D5Z6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8D5Z6-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.124	613	512	242	826	97	709	2.258E-22	394
+DESULFOASV1_0686_hypothetical_protein	AF-P0DMC6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0DMC6-F1-model_v4 Sensor histidine kinase RcsC	0.137	565	470	262	826	144	689	7.472E-22	394
+DESULFOASV1_0686_hypothetical_protein	AF-Q06240-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q06240-F1-model_v4 Sensor protein VanS	0.221	239	179	598	828	137	375	1.178E-13	389
+DESULFOASV1_0686_hypothetical_protein	AF-B7KFU0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B7KFU0-F1-model_v4 Adaptive-response sensory-kinase SasA	0.199	244	182	602	829	150	393	7.908E-13	388
+DESULFOASV1_0686_hypothetical_protein	AF-Q87GU5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q87GU5-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.133	702	526	125	826	100	707	7.743E-24	386
+DESULFOASV1_0686_hypothetical_protein	AF-Q2JKD9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2JKD9-F1-model_v4 Adaptive-response sensory-kinase SasA	0.182	236	187	600	829	138	373	2.918E-12	385
+DESULFOASV1_0686_hypothetical_protein	AF-B2J946-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B2J946-F1-model_v4 Adaptive-response sensory-kinase SasA	0.210	247	179	602	829	154	400	1.222E-12	385
+DESULFOASV1_0686_hypothetical_protein	AF-A8Z182-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A8Z182-F1-model_v4 Sensor protein kinase GraS	0.168	230	183	598	827	110	330	4.044E-12	384
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A6Z3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A6Z3-F1-model_v4 Sensor protein kinase GraS	0.173	229	181	598	826	110	329	4.044E-12	384
+DESULFOASV1_0686_hypothetical_protein	AF-A6QEW9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6QEW9-F1-model_v4 Sensor protein kinase GraS	0.172	230	182	598	827	110	330	4.509E-12	381
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HR80-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HR80-F1-model_v4 Sensor histidine kinase GraS	0.190	229	177	598	826	110	329	4.270E-12	381
+DESULFOASV1_0686_hypothetical_protein	AF-Q2G0D9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2G0D9-F1-model_v4 Sensor histidine kinase GraS	0.177	229	180	598	826	110	329	4.044E-12	381
+DESULFOASV1_0686_hypothetical_protein	AF-O35044-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O35044-F1-model_v4 Sensor protein BceS	0.176	230	180	598	827	105	324	4.509E-12	380
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NXR5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NXR5-F1-model_v4 Sensor protein kinase GraS	0.172	230	182	598	827	110	330	5.308E-12	380
+DESULFOASV1_0686_hypothetical_protein	AF-A6TZD7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6TZD7-F1-model_v4 Sensor protein kinase GraS	0.173	229	181	598	826	110	329	5.027E-12	380
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YSS1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YSS1-F1-model_v4 Sensor protein kinase GraS	0.173	229	181	598	826	110	329	4.761E-12	380
+DESULFOASV1_0686_hypothetical_protein	AF-A3PDI2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A3PDI2-F1-model_v4 Adaptive-response sensory-kinase SasA	0.188	229	182	601	829	136	360	2.223E-12	380
+DESULFOASV1_0686_hypothetical_protein	AF-P77485-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P77485-F1-model_v4 Sensor histidine kinase CusS	0.164	457	343	371	827	70	480	9.641E-18	380
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GJ10-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GJ10-F1-model_v4 Sensor protein kinase GraS	0.173	229	181	598	826	110	329	6.249E-12	379
+DESULFOASV1_0686_hypothetical_protein	AF-A2BRQ6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2BRQ6-F1-model_v4 Adaptive-response sensory-kinase SasA	0.181	229	183	601	829	136	360	3.081E-12	379
+DESULFOASV1_0686_hypothetical_protein	AF-P20169-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P20169-F1-model_v4 Drug sensory protein A	0.132	715	499	115	829	81	656	1.175E-22	379
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FIX9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FIX9-F1-model_v4 Sensor protein kinase GraS	0.181	230	180	598	827	110	330	4.270E-12	378
+DESULFOASV1_0686_hypothetical_protein	AF-Q99VW1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99VW1-F1-model_v4 Sensor histidine kinase GraS	0.173	229	181	598	826	110	329	6.249E-12	378
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HI08-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HI08-F1-model_v4 Sensor histidine kinase GraS	0.177	230	181	598	827	110	330	7.356E-12	377
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GBH0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GBH0-F1-model_v4 Sensor protein kinase GraS	0.168	230	183	598	827	110	330	9.656E-12	377
+DESULFOASV1_0686_hypothetical_protein	AF-Q55630-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q55630-F1-model_v4 Adaptive-response sensory-kinase SasA	0.202	244	180	603	829	140	383	1.724E-13	376
+DESULFOASV1_0686_hypothetical_protein	AF-Q86AT9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q86AT9-F1-model_v4 Hybrid signal transduction histidine kinase I	0.103	742	513	257	829	169	910	1.884E-21	376
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CTL4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CTL4-F1-model_v4 Sensor histidine kinase GraS	0.190	229	177	598	826	110	329	7.768E-12	375
+DESULFOASV1_0686_hypothetical_protein	AF-A7WZC5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7WZC5-F1-model_v4 Sensor protein kinase GraS	0.182	229	179	598	826	110	329	5.308E-12	375
+DESULFOASV1_0686_hypothetical_protein	AF-Q8XBY4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8XBY4-F1-model_v4 Sensor histidine kinase CusS	0.141	459	351	368	826	70	479	2.431E-17	374
+DESULFOASV1_0686_hypothetical_protein	AF-Q3M8A7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q3M8A7-F1-model_v4 Adaptive-response sensory-kinase SasA	0.203	247	181	602	829	154	400	3.830E-12	373
+DESULFOASV1_0686_hypothetical_protein	AF-Q2T0V9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2T0V9-F1-model_v4 Sensor histidine kinase AtsR	0.146	239	195	600	828	222	460	4.044E-12	373
+DESULFOASV1_0686_hypothetical_protein	AF-Q49VK4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q49VK4-F1-model_v4 Sensor histidine kinase GraS	0.166	229	188	598	826	103	329	1.020E-11	372
+DESULFOASV1_0686_hypothetical_protein	AF-B7K3M6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B7K3M6-F1-model_v4 Adaptive-response sensory-kinase SasA	0.205	244	180	602	829	148	391	2.105E-12	372
+DESULFOASV1_0686_hypothetical_protein	AF-A2C884-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2C884-F1-model_v4 Adaptive-response sensory-kinase SasA	0.166	230	191	600	829	136	365	6.249E-12	371
+DESULFOASV1_0686_hypothetical_protein	AF-Q8FK37-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8FK37-F1-model_v4 Sensor histidine kinase CusS	0.145	457	351	371	827	70	480	3.756E-17	371
+DESULFOASV1_0686_hypothetical_protein	AF-A5IQL3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5IQL3-F1-model_v4 Sensor protein kinase GraS	0.169	229	182	598	826	110	329	1.492E-11	369
+DESULFOASV1_0686_hypothetical_protein	AF-Q840P7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q840P7-F1-model_v4 Histidine protein kinase SaeS	0.195	234	184	600	829	115	348	1.492E-11	369
+DESULFOASV1_0686_hypothetical_protein	AF-O31671-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O31671-F1-model_v4 Sporulation kinase D	0.129	594	381	236	829	68	505	1.265E-17	367
+DESULFOASV1_0686_hypothetical_protein	AF-P54302-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P54302-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.128	710	538	117	826	91	708	1.384E-22	367
+DESULFOASV1_0686_hypothetical_protein	AF-Q7V6P7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7V6P7-F1-model_v4 Adaptive-response sensory-kinase SasA	0.162	230	192	600	829	136	365	9.656E-12	366
+DESULFOASV1_0686_hypothetical_protein	AF-P58356-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P58356-F1-model_v4 Sensor protein TorS	0.189	234	181	603	826	428	661	2.435E-11	365
+DESULFOASV1_0686_hypothetical_protein	AF-P42245-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42245-F1-model_v4 Sensor histidine kinase YcbM	0.172	236	191	598	829	75	310	1.958E-11	363
+DESULFOASV1_0686_hypothetical_protein	AF-Q2NCA3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2NCA3-F1-model_v4 Blue-light-activated histidine kinase 1	0.160	338	270	492	829	36	358	1.177E-16	362
+DESULFOASV1_0686_hypothetical_protein	AF-Q7BWI3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7BWI3-F1-model_v4 Adaptive-response sensory-kinase SasA	0.175	231	189	600	829	137	367	1.077E-11	362
+DESULFOASV1_0686_hypothetical_protein	AF-Q8DXQ8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8DXQ8-F1-model_v4 Sensor protein DltS	0.132	467	312	360	826	24	384	5.304E-15	362
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GBC5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GBC5-F1-model_v4 Histidine protein kinase SaeS	0.195	234	184	600	829	115	348	1.664E-11	360
+DESULFOASV1_0686_hypothetical_protein	AF-O06979-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O06979-F1-model_v4 Sensor histidine kinase YvcQ	0.167	237	188	601	827	111	347	7.768E-12	360
+DESULFOASV1_0686_hypothetical_protein	AF-B0JK50-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B0JK50-F1-model_v4 Adaptive-response sensory-kinase SasA	0.179	244	186	602	829	141	384	1.788E-12	360
+DESULFOASV1_0686_hypothetical_protein	AF-Q7V113-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7V113-F1-model_v4 Adaptive-response sensory-kinase SasA	0.181	230	188	600	829	131	360	1.020E-11	359
+DESULFOASV1_0686_hypothetical_protein	AF-Q8YR50-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8YR50-F1-model_v4 Adaptive-response sensory-kinase SasA	0.206	247	180	602	829	154	400	6.598E-12	359
+DESULFOASV1_0686_hypothetical_protein	AF-A0QTK3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0QTK3-F1-model_v4 Sensor histidine kinase MtrB	0.139	403	316	424	826	148	515	6.020E-16	359
+DESULFOASV1_0686_hypothetical_protein	AF-Q31AE8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q31AE8-F1-model_v4 Adaptive-response sensory-kinase SasA	0.184	229	183	601	829	136	360	8.661E-12	358
+DESULFOASV1_0686_hypothetical_protein	AF-Q9K620-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9K620-F1-model_v4 Sensor protein BceS	0.174	228	178	600	827	108	324	3.374E-11	357
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GIT7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GIT7-F1-model_v4 Histidine protein kinase SaeS	0.195	234	184	600	829	115	348	3.026E-11	357
+DESULFOASV1_0686_hypothetical_protein	AF-Q06904-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q06904-F1-model_v4 Adaptive-response sensory-kinase SasA	0.199	238	181	603	829	145	382	1.492E-11	355
+DESULFOASV1_0686_hypothetical_protein	AF-O60658-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O60658-F1-model_v4 High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A	0.245	121	89	116	234	205	325	6.972E-09	355
+DESULFOASV1_0686_hypothetical_protein	AF-Q7MD16-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7MD16-F1-model_v4 Autoinducer 2 sensor kinase/phosphatase LuxQ	0.121	824	545	3	826	89	709	1.036E-21	355
+DESULFOASV1_0686_hypothetical_protein	AF-Q8E3C7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8E3C7-F1-model_v4 Sensor protein DltS	0.132	467	312	362	828	26	386	1.755E-14	354
+DESULFOASV1_0686_hypothetical_protein	AF-Q55E44-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q55E44-F1-model_v4 Hybrid signal transduction histidine kinase E	0.148	284	191	601	825	663	946	1.855E-11	352
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YSM6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YSM6-F1-model_v4 Histidine protein kinase SaeS	0.195	234	184	600	829	115	348	3.972E-11	351
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ZHD4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ZHD4-F1-model_v4 Probable sensor kinase SilS	0.144	466	357	364	829	70	487	6.128E-17	351
+DESULFOASV1_0686_hypothetical_protein	AF-Q3AYV8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q3AYV8-F1-model_v4 Adaptive-response sensory-kinase SasA	0.175	230	189	600	829	136	365	2.866E-11	350
+DESULFOASV1_0686_hypothetical_protein	AF-Q0IBF4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0IBF4-F1-model_v4 Adaptive-response sensory-kinase SasA	0.172	224	183	606	829	144	365	4.676E-11	350
+DESULFOASV1_0686_hypothetical_protein	AF-Q7U871-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7U871-F1-model_v4 Adaptive-response sensory-kinase SasA	0.175	230	189	600	829	136	365	2.866E-11	350
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A6V4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A6V4-F1-model_v4 Histidine protein kinase SaeS	0.195	234	184	600	829	115	348	5.214E-11	349
+DESULFOASV1_0686_hypothetical_protein	AF-P94414-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P94414-F1-model_v4 Sensor histidine kinase YclK	0.149	457	345	372	828	64	469	8.044E-17	349
+DESULFOASV1_0686_hypothetical_protein	AF-O88502-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O88502-F1-model_v4 High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A	0.221	121	92	116	234	201	321	2.716E-08	348
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FIT5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FIT5-F1-model_v4 Histidine protein kinase SaeS	0.190	234	185	600	829	115	348	6.844E-11	347
+DESULFOASV1_0686_hypothetical_protein	AF-Q9CCJ1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9CCJ1-F1-model_v4 Sensor histidine kinase MtrB	0.144	402	317	425	826	146	516	1.518E-15	346
+DESULFOASV1_0686_hypothetical_protein	AF-P96368-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P96368-F1-model_v4 Sensor histidine kinase TrcS	0.144	433	293	487	829	70	502	3.432E-15	344
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HHW5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HHW5-F1-model_v4 Histidine protein kinase SaeS	0.163	244	193	598	829	105	348	2.571E-11	341
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGK8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGK8-F1-model_v4 Sensor histidine kinase MtrB	0.154	402	313	425	826	146	516	9.822E-16	340
+DESULFOASV1_0686_hypothetical_protein	AF-T2KMF4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-T2KMF4-F1-model_v4 Histidine kinase P4	0.165	384	258	445	828	762	1071	1.957E-14	339
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A1J2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A1J2-F1-model_v4 Histidine protein kinase SaeS	0.163	244	193	598	829	105	348	2.866E-11	337
+DESULFOASV1_0686_hypothetical_protein	AF-Q2G2U1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2G2U1-F1-model_v4 Histidine protein kinase SaeS	0.167	244	192	598	829	105	348	3.195E-11	337
+DESULFOASV1_0686_hypothetical_protein	AF-I1WSZ3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-I1WSZ3-F1-model_v4 Sensor protein IrlS	0.159	458	329	371	828	71	462	1.386E-16	337
+DESULFOASV1_0686_hypothetical_protein	AF-Q93CB7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q93CB7-F1-model_v4 Sensor histidine kinase MtrB	0.153	402	313	425	826	146	516	2.761E-15	337
+DESULFOASV1_0686_hypothetical_protein	AF-Q1M667-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q1M667-F1-model_v4 Blue-light-activated histidine kinase	0.136	347	280	483	829	17	341	3.494E-16	335
+DESULFOASV1_0686_hypothetical_protein	AF-Q6NNF2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6NNF2-F1-model_v4 High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8	0.210	119	91	115	233	303	418	1.389E-07	335
+DESULFOASV1_0686_hypothetical_protein	AF-P45675-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P45675-F1-model_v4 Nitrogen regulation protein NtrY homolog	0.128	591	501	239	829	171	745	2.859E-20	334
+DESULFOASV1_0686_hypothetical_protein	AF-Q2NB77-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2NB77-F1-model_v4 Blue-light-activated histidine kinase 2	0.126	331	281	496	826	10	331	1.992E-15	332
+DESULFOASV1_0686_hypothetical_protein	AF-E9Q4S1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E9Q4S1-F1-model_v4 High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8B	0.219	122	92	116	234	239	360	3.377E-08	332
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HR29-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HR29-F1-model_v4 Histidine protein kinase SaeS	0.171	244	191	598	829	106	349	3.972E-11	331
+DESULFOASV1_0686_hypothetical_protein	AF-O95263-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O95263-F1-model_v4 High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8B	0.219	122	92	116	234	259	380	4.198E-08	329
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGK9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGK9-F1-model_v4 Sensor histidine kinase MtrB	0.146	441	330	386	826	129	516	9.822E-16	328
+DESULFOASV1_0686_hypothetical_protein	AF-Q9RC53-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9RC53-F1-model_v4 Sensor protein CitS	0.143	444	378	387	828	90	533	1.818E-19	327
+DESULFOASV1_0686_hypothetical_protein	AF-O49187-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O49187-F1-model_v4 Ethylene receptor 2	0.143	365	290	461	825	243	581	1.057E-13	327
+DESULFOASV1_0686_hypothetical_protein	AF-Q99VR8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99VR8-F1-model_v4 Histidine protein kinase SaeS	0.167	244	192	598	829	105	348	6.844E-11	325
+DESULFOASV1_0686_hypothetical_protein	AF-Q47457-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q47457-F1-model_v4 Probable sensor protein PcoS	0.125	456	345	373	828	72	466	2.915E-15	325
+DESULFOASV1_0686_hypothetical_protein	AF-P0AEC9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AEC9-F1-model_v4 Sensor histidine kinase DcuS	0.145	440	374	388	827	98	536	1.311E-19	325
+DESULFOASV1_0686_hypothetical_protein	AF-P59341-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P59341-F1-model_v4 Sensor histidine kinase DcuS	0.149	440	373	388	827	98	536	1.176E-19	325
+DESULFOASV1_0686_hypothetical_protein	AF-Q9SXL4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9SXL4-F1-model_v4 Histidine kinase 1	0.143	595	450	304	829	171	765	7.477E-19	325
+DESULFOASV1_0686_hypothetical_protein	AF-Q08408-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q08408-F1-model_v4 Sensor protein RprX	0.148	453	343	427	829	65	517	1.545E-16	324
+DESULFOASV1_0686_hypothetical_protein	AF-Q55932-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q55932-F1-model_v4 Sensor histidine kinase RppB	0.135	347	286	498	829	102	448	3.371E-14	323
+DESULFOASV1_0686_hypothetical_protein	AF-Q01371-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q01371-F1-model_v4 White collar 1 protein	0.135	475	380	123	597	366	805	9.992E-20	322
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ZWL6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ZWL6-F1-model_v4 Ethylene receptor	0.146	369	294	461	829	245	589	1.724E-13	321
+DESULFOASV1_0686_hypothetical_protein	AF-Q54U87-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54U87-F1-model_v4 Hybrid signal transduction histidine kinase A	0.135	707	586	148	825	910	1616	2.025E-22	321
+DESULFOASV1_0686_hypothetical_protein	AF-O34627-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O34627-F1-model_v4 Blue-light photoreceptor	0.202	136	106	248	381	12	147	1.549E-07	320
+DESULFOASV1_0686_hypothetical_protein	AF-Q9XH58-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9XH58-F1-model_v4 Ethylene receptor 1	0.149	369	294	461	829	245	591	6.838E-14	320
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CTI3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CTI3-F1-model_v4 Histidine protein kinase SaeS	0.171	244	191	598	829	106	349	1.315E-10	319
+DESULFOASV1_0686_hypothetical_protein	AF-Q8GP19-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8GP19-F1-model_v4 Swarming motility regulation sensor protein RssA	0.124	462	342	367	828	68	458	4.505E-15	318
+DESULFOASV1_0686_hypothetical_protein	AF-P59963-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P59963-F1-model_v4 Sensor histidine kinase MtrB	0.146	441	330	386	826	129	516	3.624E-15	318
+DESULFOASV1_0686_hypothetical_protein	AF-P76129-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P76129-F1-model_v4 Oxygen sensor protein DosP	0.148	552	466	130	681	16	563	2.140E-19	317
+DESULFOASV1_0686_hypothetical_protein	AF-P59342-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P59342-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.164	451	376	375	825	66	516	1.603E-15	317
+DESULFOASV1_0686_hypothetical_protein	AF-Q54VU4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54VU4-F1-model_v4 Probable serine/threonine-protein kinase DDB_G0280133	0.105	389	311	250	598	6	394	5.909E-18	317
+DESULFOASV1_0686_hypothetical_protein	AF-P0A4I6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A4I6-F1-model_v4 Sensor protein CiaH	0.113	447	308	383	829	93	440	5.210E-14	315
+DESULFOASV1_0686_hypothetical_protein	AF-Q9K997-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9K997-F1-model_v4 Probable C4-dicarboxylate sensor kinase	0.152	443	373	387	829	91	531	1.462E-19	315
+DESULFOASV1_0686_hypothetical_protein	AF-P0A4I5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A4I5-F1-model_v4 Sensor protein CiaH	0.109	447	309	383	829	93	440	2.712E-14	314
+DESULFOASV1_0686_hypothetical_protein	AF-P94608-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P94608-F1-model_v4 Sensor protein KdpD	0.146	468	337	362	829	505	900	4.267E-15	314
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CR97-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CR97-F1-model_v4 Oxygen sensor histidine kinase NreB	0.144	335	285	492	826	10	343	1.957E-14	313
+DESULFOASV1_0686_hypothetical_protein	AF-P0AEC8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AEC8-F1-model_v4 Sensor histidine kinase DcuS	0.147	440	374	388	827	98	536	2.966E-19	313
+DESULFOASV1_0686_hypothetical_protein	AF-Q4L482-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4L482-F1-model_v4 Sensor histidine kinase GraS	0.179	233	185	601	826	97	329	8.983E-11	312
+DESULFOASV1_0686_hypothetical_protein	AF-Q04804-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q04804-F1-model_v4 Sensor protein PfeS	0.164	232	191	598	829	217	446	1.822E-10	312
+DESULFOASV1_0686_hypothetical_protein	AF-O34989-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O34989-F1-model_v4 Sensor histidine kinase YvrG	0.116	576	448	253	828	73	580	2.431E-17	312
+DESULFOASV1_0686_hypothetical_protein	AF-A2XL32-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2XL32-F1-model_v4 Probable ethylene response sensor 1	0.129	412	282	505	829	178	589	1.178E-13	310
+DESULFOASV1_0686_hypothetical_protein	AF-P0AEC6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AEC6-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.152	451	382	375	825	66	516	1.992E-15	309
+DESULFOASV1_0686_hypothetical_protein	AF-Q5AHA0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5AHA0-F1-model_v4 Histidine protein kinase 1	0.156	390	286	486	825	1832	2221	5.809E-14	309
+DESULFOASV1_0686_hypothetical_protein	AF-P44578-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P44578-F1-model_v4 Aerobic respiration control sensor protein ArcB homolog	0.232	208	158	601	807	113	320	6.722E-10	307
+DESULFOASV1_0686_hypothetical_protein	AF-P13633-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P13633-F1-model_v4 C4-dicarboxylate transport sensor protein DctB	0.163	517	385	368	828	105	621	1.885E-18	307
+DESULFOASV1_0686_hypothetical_protein	AF-P42422-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42422-F1-model_v4 Sensor histidine kinase YxdK	0.170	232	189	598	829	97	325	5.408E-10	306
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGL4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGL4-F1-model_v4 Probable sensor histidine kinase PdtaS	0.152	456	376	386	829	40	495	1.115E-16	306
+DESULFOASV1_0686_hypothetical_protein	AF-P37433-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P37433-F1-model_v4 Phosphoglycerate transport system sensor protein PgtB	0.161	231	191	601	829	433	663	1.725E-10	306
+DESULFOASV1_0686_hypothetical_protein	AF-P0AEC7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AEC7-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.158	451	379	375	825	66	516	1.787E-15	306
+DESULFOASV1_0686_hypothetical_protein	AF-P0AEC5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AEC5-F1-model_v4 Signal transduction histidine-protein kinase BarA	0.160	451	378	375	825	66	516	1.361E-15	306
+DESULFOASV1_0686_hypothetical_protein	AF-Q14190-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q14190-F1-model_v4 Single-minded homolog 2	0.142	255	192	373	597	77	331	9.310E-13	305
+DESULFOASV1_0686_hypothetical_protein	AF-Q55168-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q55168-F1-model_v4 Phytochrome-like protein Cph1	0.114	739	622	127	829	10	748	3.963E-20	305
+DESULFOASV1_0686_hypothetical_protein	AF-Q9C5U2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9C5U2-F1-model_v4 Histidine kinase 2	0.121	551	398	372	825	313	863	2.662E-16	305
+DESULFOASV1_0686_hypothetical_protein	AF-O34427-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O34427-F1-model_v4 Sensor protein CitS	0.131	577	392	250	826	74	525	1.243E-16	304
+DESULFOASV1_0686_hypothetical_protein	AF-Q98SJ5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q98SJ5-F1-model_v4 Single-minded homolog 1-A	0.138	254	192	374	597	78	331	8.817E-13	304
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGL5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGL5-F1-model_v4 Probable sensor histidine kinase PdtaS	0.149	456	377	386	829	40	495	1.463E-16	303
+DESULFOASV1_0686_hypothetical_protein	AF-A1A696-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1A696-F1-model_v4 Probable histidine kinase 3	0.148	484	368	397	829	235	718	8.810E-16	302
+DESULFOASV1_0686_hypothetical_protein	AF-Q44930-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q44930-F1-model_v4 Sensor protein GtcS	0.132	242	201	598	829	110	351	1.725E-10	301
+DESULFOASV1_0686_hypothetical_protein	AF-P33113-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P33113-F1-model_v4 Sensor histidine kinase SpaK	0.116	459	357	371	829	54	458	2.523E-13	301
+DESULFOASV1_0686_hypothetical_protein	AF-P48027-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P48027-F1-model_v4 Sensor protein GacS	0.139	406	332	443	829	99	504	3.969E-14	301
+DESULFOASV1_0686_hypothetical_protein	AF-O31433-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O31433-F1-model_v4 Sensor histidine kinase YbdK	0.139	223	171	601	823	118	317	4.047E-09	300
+DESULFOASV1_0686_hypothetical_protein	AF-A2WYI4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2WYI4-F1-model_v4 Probable histidine kinase 3	0.144	484	370	397	829	235	718	9.302E-16	300
+DESULFOASV1_0686_hypothetical_protein	AF-Q00858-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q00858-F1-model_v4 Cutinase gene palindrome-binding protein	0.143	132	102	378	497	108	239	1.727E-07	299
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HU20-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HU20-F1-model_v4 C4-dicarboxylate transport sensor protein DctB	0.114	493	403	374	829	107	599	5.804E-17	299
+DESULFOASV1_0686_hypothetical_protein	AF-P10047-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P10047-F1-model_v4 C4-dicarboxylate transport sensor protein DctB	0.162	502	370	387	828	121	622	5.019E-18	299
+DESULFOASV1_0686_hypothetical_protein	AF-A1A697-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1A697-F1-model_v4 Probable histidine kinase 5	0.133	550	392	373	825	309	858	3.134E-16	299
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CRA8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CRA8-F1-model_v4 Heme sensor protein HssS	0.136	463	348	363	825	46	449	2.433E-14	298
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HDJ3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HDJ3-F1-model_v4 Heme sensor protein HssS	0.143	465	350	362	826	45	453	1.662E-14	297
+DESULFOASV1_0686_hypothetical_protein	AF-P59340-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P59340-F1-model_v4 Sensor histidine kinase DcuS	0.145	440	374	388	827	98	536	3.248E-18	297
+DESULFOASV1_0686_hypothetical_protein	AF-Q9C5U1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9C5U1-F1-model_v4 Histidine kinase 3	0.151	482	367	397	829	244	725	3.432E-15	297
+DESULFOASV1_0686_hypothetical_protein	AF-O69729-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O69729-F1-model_v4 Probable sensor histidine kinase TcrY	0.130	442	344	385	826	68	463	1.662E-14	296
+DESULFOASV1_0686_hypothetical_protein	AF-Q38846-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q38846-F1-model_v4 Ethylene response sensor 1	0.137	406	276	505	825	178	583	3.136E-13	296
+DESULFOASV1_0686_hypothetical_protein	AF-P35869-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P35869-F1-model_v4 Aryl hydrocarbon receptor	0.130	297	214	362	608	104	400	1.001E-13	296
+DESULFOASV1_0686_hypothetical_protein	AF-A8Z553-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A8Z553-F1-model_v4 Heme sensor protein HssS	0.149	468	350	362	829	45	456	2.712E-14	295
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FVQ8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FVQ8-F1-model_v4 Heme sensor protein HssS	0.147	468	351	362	829	45	456	2.712E-14	295
+DESULFOASV1_0686_hypothetical_protein	AF-P96601-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P96601-F1-model_v4 Probable C4-dicarboxylate sensor kinase	0.133	465	399	362	826	65	525	1.094E-18	295
+DESULFOASV1_0686_hypothetical_protein	AF-Q61079-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q61079-F1-model_v4 Single-minded homolog 2	0.144	286	205	371	611	75	360	6.361E-13	295
+DESULFOASV1_0686_hypothetical_protein	AF-A1YFY6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1YFY6-F1-model_v4 Single-minded homolog 1	0.141	257	194	371	597	75	331	3.253E-12	295
+DESULFOASV1_0686_hypothetical_protein	AF-Q9F8D7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9F8D7-F1-model_v4 Sensor histidine kinase GacS	0.154	404	325	445	829	111	514	1.057E-13	295
+DESULFOASV1_0686_hypothetical_protein	AF-P77510-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P77510-F1-model_v4 Sensor histidine kinase DpiB	0.153	444	374	387	828	97	540	5.909E-18	294
+DESULFOASV1_0686_hypothetical_protein	AF-O02747-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O02747-F1-model_v4 Aryl hydrocarbon receptor	0.138	289	203	373	608	110	398	9.310E-13	294
+DESULFOASV1_0686_hypothetical_protein	AF-P76339-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P76339-F1-model_v4 Sensor histidine kinase HprS	0.155	394	291	485	829	59	452	9.137E-15	293
+DESULFOASV1_0686_hypothetical_protein	AF-Q04943-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q04943-F1-model_v4 Signal transduction histidine-protein kinase AfsQ2	0.157	441	337	386	826	107	507	4.041E-15	293
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GE72-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GE72-F1-model_v4 Heme sensor protein HssS	0.145	468	351	362	829	45	456	4.191E-14	292
+DESULFOASV1_0686_hypothetical_protein	AF-A5IVE3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5IVE3-F1-model_v4 Heme sensor protein HssS	0.152	465	346	362	826	45	453	3.193E-14	292
+DESULFOASV1_0686_hypothetical_protein	AF-O81122-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O81122-F1-model_v4 Ethylene receptor	0.126	468	403	362	829	128	589	3.024E-14	292
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FED4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FED4-F1-model_v4 Heme sensor protein HssS	0.149	468	350	362	829	45	456	4.425E-14	291
+DESULFOASV1_0686_hypothetical_protein	AF-O48929-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O48929-F1-model_v4 Ethylene receptor	0.133	468	397	362	829	129	587	3.759E-14	291
+DESULFOASV1_0686_hypothetical_protein	AF-Q4L8M0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4L8M0-F1-model_v4 Heme sensor protein HssS	0.127	468	359	362	829	45	456	2.066E-14	290
+DESULFOASV1_0686_hypothetical_protein	AF-A7X5Y6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7X5Y6-F1-model_v4 Heme sensor protein HssS	0.150	465	347	362	826	45	453	4.425E-14	290
+DESULFOASV1_0686_hypothetical_protein	AF-Q6G6V8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6G6V8-F1-model_v4 Heme sensor protein HssS	0.149	468	350	362	829	45	456	4.934E-14	290
+DESULFOASV1_0686_hypothetical_protein	AF-Q4PD88-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4PD88-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.130	123	104	241	360	597	719	1.521E-06	290
+DESULFOASV1_0686_hypothetical_protein	AF-Q9M7M1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9M7M1-F1-model_v4 Ethylene receptor	0.123	464	400	362	825	127	583	4.673E-14	290
+DESULFOASV1_0686_hypothetical_protein	AF-A1A699-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1A699-F1-model_v4 Probable histidine kinase 6	0.128	549	388	384	829	105	653	1.095E-15	290
+DESULFOASV1_0686_hypothetical_protein	AF-Q6C5G3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6C5G3-F1-model_v4 Transcription activator of gluconeogenesis ERT1-1	0.144	117	97	247	360	237	353	1.997E-06	289
+DESULFOASV1_0686_hypothetical_protein	AF-P0DMK6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0DMK6-F1-model_v4 Sensor protein IrlS	0.164	392	283	489	828	71	462	1.361E-15	289
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HWR3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HWR3-F1-model_v4 Bacteriophytochrome	0.118	696	611	136	829	26	721	9.130E-18	289
+DESULFOASV1_0686_hypothetical_protein	AF-A2T6X9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2T6X9-F1-model_v4 Single-minded homolog 1	0.141	257	194	371	597	75	331	4.761E-12	289
+DESULFOASV1_0686_hypothetical_protein	AF-A6QJK4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6QJK4-F1-model_v4 Heme sensor protein HssS	0.148	468	350	362	829	45	456	2.182E-14	288
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NV46-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NV46-F1-model_v4 Heme sensor protein HssS	0.144	468	352	362	829	45	456	7.220E-14	288
+DESULFOASV1_0686_hypothetical_protein	AF-A6U489-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6U489-F1-model_v4 Heme sensor protein HssS	0.149	468	350	362	829	45	456	7.220E-14	288
+DESULFOASV1_0686_hypothetical_protein	AF-Q99RR5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99RR5-F1-model_v4 Heme sensor protein HssS	0.149	468	350	362	829	45	456	5.809E-14	288
+DESULFOASV1_0686_hypothetical_protein	AF-A7N6S2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7N6S2-F1-model_v4 CAI-1 autoinducer sensor kinase/phosphatase CqsS	0.157	243	191	600	827	169	411	2.391E-10	288
+DESULFOASV1_0686_hypothetical_protein	AF-Q41342-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q41342-F1-model_v4 Ethylene receptor 1	0.141	464	391	362	825	142	597	7.624E-14	288
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A3X0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A3X0-F1-model_v4 Heme sensor protein HssS	0.146	468	351	362	829	45	456	3.560E-14	286
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A028-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A028-F1-model_v4 Oxygen sensor histidine kinase NreB	0.132	335	289	492	826	10	343	3.560E-14	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YZ23-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YZ23-F1-model_v4 Heme sensor protein HssS	0.147	468	351	362	829	45	456	1.244E-13	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q8ZPP6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8ZPP6-F1-model_v4 Tetrathionate sensor histidine kinase TtrS	0.170	235	190	600	829	346	580	9.317E-10	285
+DESULFOASV1_0686_hypothetical_protein	AF-O49230-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O49230-F1-model_v4 Ethylene receptor 1	0.131	468	399	362	829	127	586	1.057E-13	285
+DESULFOASV1_0686_hypothetical_protein	AF-O82436-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O82436-F1-model_v4 Ethylene receptor 1	0.135	468	399	362	829	127	588	9.477E-14	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q9XH57-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9XH57-F1-model_v4 Ethylene receptor 2	0.122	468	405	362	829	128	589	1.001E-13	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q9LCC2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9LCC2-F1-model_v4 Cyanobacterial phytochrome A	0.106	719	508	260	828	29	747	2.759E-18	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q8IUM7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8IUM7-F1-model_v4 Neuronal PAS domain-containing protein 4	0.153	262	199	375	610	72	333	1.757E-11	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S6-F1-model_v4 Aryl hydrocarbon receptor	0.121	284	205	375	608	111	394	1.157E-12	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S5-F1-model_v4 Aryl hydrocarbon receptor	0.123	286	206	373	608	109	394	9.310E-13	285
+DESULFOASV1_0686_hypothetical_protein	AF-Q9C5U0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9C5U0-F1-model_v4 Histidine kinase 4	0.132	554	395	374	829	209	762	9.822E-16	285
+DESULFOASV1_0686_hypothetical_protein	AF-P08401-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P08401-F1-model_v4 Sensor protein CreC	0.140	407	291	491	829	67	473	2.263E-13	284
+DESULFOASV1_0686_hypothetical_protein	AF-O44712-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O44712-F1-model_v4 Aryl hydrocarbon receptor protein 1	0.136	262	193	385	608	138	399	1.604E-12	284
+DESULFOASV1_0686_hypothetical_protein	AF-P49333-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P49333-F1-model_v4 Ethylene receptor 1	0.142	468	393	362	829	127	585	1.633E-13	284
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CJH6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CJH6-F1-model_v4 Neuronal PAS domain-containing protein 4	0.143	264	201	375	610	72	335	4.270E-12	284
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGL2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGL2-F1-model_v4 Sensor protein KdpD	0.184	277	197	588	829	581	857	3.374E-11	284
+DESULFOASV1_0686_hypothetical_protein	AF-A5IVH3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5IVH3-F1-model_v4 Oxygen sensor histidine kinase NreB	0.142	336	287	491	826	9	343	1.574E-14	283
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HLN1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HLN1-F1-model_v4 Heme sensor protein HssS	0.134	463	349	363	825	46	449	1.001E-13	283
+DESULFOASV1_0686_hypothetical_protein	AF-Q9SSY6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9SSY6-F1-model_v4 Ethylene receptor 1	0.133	468	400	362	829	127	588	1.546E-13	283
+DESULFOASV1_0686_hypothetical_protein	AF-Q931F6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q931F6-F1-model_v4 Oxygen sensor histidine kinase NreB	0.142	335	286	492	826	10	343	1.853E-14	282
+DESULFOASV1_0686_hypothetical_protein	AF-P52687-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P52687-F1-model_v4 Sensor histidine kinase CitA	0.156	467	392	363	829	77	542	5.019E-18	282
+DESULFOASV1_0686_hypothetical_protein	AF-O68045-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O68045-F1-model_v4 DNA polymerase III subunit epsilon-like protein	0.125	344	292	486	829	134	468	1.157E-12	281
+DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S4-F1-model_v4 Aryl hydrocarbon receptor	0.125	289	205	373	607	109	397	2.617E-12	281
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FVM6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FVM6-F1-model_v4 Oxygen sensor histidine kinase NreB	0.137	335	287	492	826	10	343	6.133E-14	280
+DESULFOASV1_0686_hypothetical_protein	AF-A6U4C1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6U4C1-F1-model_v4 Oxygen sensor histidine kinase NreB	0.141	335	286	492	826	10	343	3.024E-14	279
+DESULFOASV1_0686_hypothetical_protein	AF-Q99RN7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99RN7-F1-model_v4 Oxygen sensor histidine kinase NreB	0.142	335	286	492	826	10	343	6.476E-14	279
+DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S7-F1-model_v4 Aryl hydrocarbon receptor	0.125	297	210	367	607	101	397	2.918E-12	279
+DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8R4S2-F1-model_v4 Aryl hydrocarbon receptor	0.129	297	209	367	607	101	397	1.362E-12	279
+DESULFOASV1_0686_hypothetical_protein	AF-Q8BGD7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8BGD7-F1-model_v4 Neuronal PAS domain-containing protein 4	0.148	264	200	375	610	72	335	1.855E-11	278
+DESULFOASV1_0686_hypothetical_protein	AF-P39838-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P39838-F1-model_v4 Phosphotransferase RcsD	0.088	633	539	197	829	89	680	1.991E-18	278
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GE41-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GE41-F1-model_v4 Oxygen sensor histidine kinase NreB	0.144	335	285	492	826	10	343	5.809E-14	277
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YZ41-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YZ41-F1-model_v4 Oxygen sensor histidine kinase NreB	0.117	335	294	492	826	10	343	2.433E-14	277
+DESULFOASV1_0686_hypothetical_protein	AF-O22267-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O22267-F1-model_v4 Histidine kinase CKI1	0.116	628	488	202	829	121	673	1.463E-16	277
+DESULFOASV1_0686_hypothetical_protein	AF-O34638-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O34638-F1-model_v4 Sensor histidine kinase YkoH	0.139	460	340	366	825	51	446	4.934E-14	276
+DESULFOASV1_0686_hypothetical_protein	AF-Q44007-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q44007-F1-model_v4 Sensor protein CzcS	0.134	457	331	370	826	71	453	2.143E-13	276
+DESULFOASV1_0686_hypothetical_protein	AF-C4R1K8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C4R1K8-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.193	119	91	247	360	361	479	3.258E-06	276
+DESULFOASV1_0686_hypothetical_protein	AF-Q9R6X3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9R6X3-F1-model_v4 Cyanobacterial phytochrome B	0.121	721	499	260	828	31	751	3.966E-17	276
+DESULFOASV1_0686_hypothetical_protein	AF-Q02998-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q02998-F1-model_v4 Uncharacterized 104.1 kDa protein in hypE 3'region	0.135	555	470	53	607	385	928	5.206E-17	276
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HV31-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HV31-F1-model_v4 Sensor protein kinase PmrB	0.131	381	297	487	829	79	459	2.030E-13	275
+DESULFOASV1_0686_hypothetical_protein	AF-P78714-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P78714-F1-model_v4 White collar 2 protein	0.138	144	113	366	497	155	298	9.324E-07	275
+DESULFOASV1_0686_hypothetical_protein	AF-A8N767-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A8N767-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.073	123	108	242	359	417	539	2.922E-06	275
+DESULFOASV1_0686_hypothetical_protein	AF-Q4UMD4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4UMD4-F1-model_v4 Putative sensor histidine kinase NtrY-like	0.099	428	305	487	826	159	586	1.222E-12	275
+DESULFOASV1_0686_hypothetical_protein	AF-P30561-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P30561-F1-model_v4 Aryl hydrocarbon receptor	0.121	282	203	375	606	111	392	2.478E-12	275
+DESULFOASV1_0686_hypothetical_protein	AF-A6QJN2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6QJN2-F1-model_v4 Oxygen sensor histidine kinase NreB	0.140	335	286	492	826	10	343	2.433E-14	274
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FEA5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FEA5-F1-model_v4 Oxygen sensor histidine kinase NreB	0.140	335	286	492	826	10	343	6.476E-14	274
+DESULFOASV1_0686_hypothetical_protein	AF-O05250-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O05250-F1-model_v4 Sensor histidine kinase MalK	0.156	440	369	388	827	88	525	2.862E-17	274
+DESULFOASV1_0686_hypothetical_protein	AF-Q0DKM0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0DKM0-F1-model_v4 Probable ethylene response sensor 2	0.111	468	409	362	829	129	589	3.193E-14	274
+DESULFOASV1_0686_hypothetical_protein	AF-Q61045-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q61045-F1-model_v4 Single-minded homolog 1	0.134	257	196	371	597	75	331	5.308E-12	274
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HDG4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HDG4-F1-model_v4 Oxygen sensor histidine kinase NreB	0.134	335	288	492	826	10	343	6.476E-14	273
+DESULFOASV1_0686_hypothetical_protein	AF-Q61324-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q61324-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator 2	0.135	313	213	252	498	139	451	5.706E-13	273
+DESULFOASV1_0686_hypothetical_protein	AF-P81133-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P81133-F1-model_v4 Single-minded homolog 1	0.129	260	199	368	597	72	331	5.027E-12	273
+DESULFOASV1_0686_hypothetical_protein	AF-Q7WZY5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7WZY5-F1-model_v4 Oxygen sensor histidine kinase NreB	0.113	345	304	485	829	4	347	8.500E-14	272
+DESULFOASV1_0686_hypothetical_protein	AF-Q49ZT9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q49ZT9-F1-model_v4 Heme sensor protein HssS	0.140	466	346	363	828	53	455	2.263E-13	272
+DESULFOASV1_0686_hypothetical_protein	AF-Q95LD9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q95LD9-F1-model_v4 Aryl hydrocarbon receptor	0.137	293	221	241	497	105	397	1.362E-12	272
+DESULFOASV1_0686_hypothetical_protein	AF-Q92DM1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q92DM1-F1-model_v4 Blue-light photoreceptor	0.214	138	105	126	259	8	145	1.823E-07	271
+DESULFOASV1_0686_hypothetical_protein	AF-A8Z581-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A8Z581-F1-model_v4 Oxygen sensor histidine kinase NreB	0.117	336	295	491	826	9	343	3.371E-14	271
+DESULFOASV1_0686_hypothetical_protein	AF-Q6G6S9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6G6S9-F1-model_v4 Oxygen sensor histidine kinase NreB	0.135	335	288	492	826	10	343	3.759E-14	271
+DESULFOASV1_0686_hypothetical_protein	AF-Q9I4F8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9I4F8-F1-model_v4 Two-component sensor PhoQ	0.141	444	317	385	828	79	448	1.633E-13	271
+DESULFOASV1_0686_hypothetical_protein	AF-A7X624-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7X624-F1-model_v4 Oxygen sensor histidine kinase NreB	0.146	335	284	492	826	10	343	1.001E-13	270
+DESULFOASV1_0686_hypothetical_protein	AF-A8G5E7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A8G5E7-F1-model_v4 Adaptive-response sensory-kinase SasA	0.152	371	254	459	829	61	360	1.267E-11	270
+DESULFOASV1_0686_hypothetical_protein	AF-B8AY75-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B8AY75-F1-model_v4 Probable ethylene response sensor 2	0.111	468	407	362	829	131	589	8.976E-14	270
+DESULFOASV1_0686_hypothetical_protein	AF-Q53RH0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q53RH0-F1-model_v4 Probable ethylene response sensor 1	0.123	468	403	362	829	130	589	2.664E-13	270
+DESULFOASV1_0686_hypothetical_protein	AF-P41738-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P41738-F1-model_v4 Aryl hydrocarbon receptor	0.125	297	210	367	607	101	397	2.918E-12	270
+DESULFOASV1_0686_hypothetical_protein	AF-P0DOC7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0DOC7-F1-model_v4 Neuronal PAS domain-containing protein 4-like	0.152	235	198	377	610	114	348	6.481E-11	269
+DESULFOASV1_0686_hypothetical_protein	AF-Q9KM66-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9KM66-F1-model_v4 CAI-1 autoinducer sensor kinase/phosphatase CqsS	0.154	242	189	604	827	173	414	6.029E-10	268
+DESULFOASV1_0686_hypothetical_protein	AF-Q92H24-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q92H24-F1-model_v4 Putative sensor histidine kinase NtrY-like	0.109	428	302	487	826	159	586	1.888E-12	267
+DESULFOASV1_0686_hypothetical_protein	AF-A1A698-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1A698-F1-model_v4 Probable histidine kinase 4	0.131	582	481	248	829	124	677	1.095E-15	267
+DESULFOASV1_0686_hypothetical_protein	AF-P73276-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P73276-F1-model_v4 Sensor histidine kinase Hik2	0.141	416	292	489	829	17	432	1.575E-11	266
+DESULFOASV1_0686_hypothetical_protein	AF-Q99742-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99742-F1-model_v4 Neuronal PAS domain-containing protein 1	0.136	281	201	366	599	126	406	5.505E-11	266
+DESULFOASV1_0686_hypothetical_protein	AF-Q8X524-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8X524-F1-model_v4 Sensor protein QseC	0.096	443	331	381	823	81	447	1.038E-12	265
+DESULFOASV1_0686_hypothetical_protein	AF-P40719-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P40719-F1-model_v4 Sensor protein QseC	0.092	443	332	381	823	81	447	9.310E-13	265
+DESULFOASV1_0686_hypothetical_protein	AF-Q0VBL6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0VBL6-F1-model_v4 Hypoxia-inducible factor 3-alpha	0.104	260	202	374	599	81	340	1.757E-11	265
+DESULFOASV1_0686_hypothetical_protein	AF-Q8LPD9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8LPD9-F1-model_v4 Phototropin	0.112	552	405	130	586	13	564	1.337E-14	265
+DESULFOASV1_0686_hypothetical_protein	AF-P58724-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P58724-F1-model_v4 Blue-light photoreceptor	0.192	138	107	126	259	8	145	3.141E-07	264
+DESULFOASV1_0686_hypothetical_protein	AF-P97459-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P97459-F1-model_v4 Neuronal PAS domain-containing protein 1	0.142	277	198	368	599	131	407	2.068E-11	264
+DESULFOASV1_0686_hypothetical_protein	AF-O15945-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O15945-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator homolog	0.152	297	195	252	482	89	385	4.347E-13	264
+DESULFOASV1_0686_hypothetical_protein	AF-Q8ZLZ9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8ZLZ9-F1-model_v4 Sensor protein QseC	0.100	441	328	383	823	83	447	8.817E-13	262
+DESULFOASV1_0686_hypothetical_protein	AF-Q9YIB9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9YIB9-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.150	259	205	244	485	84	342	6.598E-12	262
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HUI3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HUI3-F1-model_v4 Sensor histidine kinase AruS	0.137	431	349	425	829	306	736	5.706E-13	262
+DESULFOASV1_0686_hypothetical_protein	AF-Q78E60-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q78E60-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator 2	0.135	313	213	252	498	139	451	3.435E-12	261
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HBZ2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HBZ2-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator 2	0.141	317	214	249	498	135	451	1.994E-12	261
+DESULFOASV1_0686_hypothetical_protein	AF-O32193-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O32193-F1-model_v4 Sensor histidine kinase CssS	0.140	403	302	424	826	99	450	1.157E-12	260
+DESULFOASV1_0686_hypothetical_protein	AF-P26047-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P26047-F1-model_v4 Signal-transduction and transcriptional-control protein	0.130	280	243	115	394	43	322	4.938E-11	260
+DESULFOASV1_0686_hypothetical_protein	AF-Q1RJB3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q1RJB3-F1-model_v4 Putative sensor histidine kinase NtrY-like	0.098	428	306	487	826	166	593	3.627E-12	259
+DESULFOASV1_0686_hypothetical_protein	AF-P19541-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P19541-F1-model_v4 Regulator of drug sensitivity 2	0.128	125	103	241	359	320	444	2.621E-06	258
+DESULFOASV1_0686_hypothetical_protein	AF-Q8Z3P2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8Z3P2-F1-model_v4 Sensor protein QseC	0.099	445	332	381	825	81	449	1.788E-12	258
+DESULFOASV1_0686_hypothetical_protein	AF-Q4L8Q7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4L8Q7-F1-model_v4 Oxygen sensor histidine kinase NreB	0.119	336	294	492	827	10	344	1.724E-13	257
+DESULFOASV1_0686_hypothetical_protein	AF-B0D0T8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B0D0T8-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.081	123	108	242	359	424	546	8.674E-06	257
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FWH7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FWH7-F1-model_v4 Sensor histidine kinase KdpD	0.098	382	308	487	829	499	880	4.761E-12	256
+DESULFOASV1_0686_hypothetical_protein	AF-B8PBQ6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B8PBQ6-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.082	121	106	244	359	271	391	1.202E-05	255
+DESULFOASV1_0686_hypothetical_protein	AF-P45336-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P45336-F1-model_v4 Sensor protein QseC	0.111	443	328	383	825	82	451	2.617E-12	255
+DESULFOASV1_0686_hypothetical_protein	AF-Q9JHS2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9JHS2-F1-model_v4 Hypoxia-inducible factor 3-alpha	0.111	262	202	372	599	79	340	3.026E-11	255
+DESULFOASV1_0686_hypothetical_protein	AF-Q9Y2N7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9Y2N7-F1-model_v4 Hypoxia-inducible factor 3-alpha	0.112	260	200	374	599	83	342	3.374E-11	255
+DESULFOASV1_0686_hypothetical_protein	AF-Q54W36-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54W36-F1-model_v4 Hybrid signal transduction histidine kinase H	0.138	750	494	252	825	52	801	2.388E-16	255
+DESULFOASV1_0686_hypothetical_protein	AF-P40758-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P40758-F1-model_v4 Sensor histidine kinase GlnK	0.200	238	182	599	826	165	402	1.002E-10	254
+DESULFOASV1_0686_hypothetical_protein	AF-Q9DG12-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9DG12-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator 2	0.142	320	216	249	501	150	469	3.830E-12	254
+DESULFOASV1_0686_hypothetical_protein	AF-Q2VPD4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2VPD4-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 2	0.154	292	189	374	597	121	412	3.972E-11	253
+DESULFOASV1_0686_hypothetical_protein	AF-Q8DMC5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8DMC5-F1-model_v4 Sensor histidine kinase Hik2	0.134	368	292	489	826	11	378	9.830E-13	252
+DESULFOASV1_0686_hypothetical_protein	AF-Q47745-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q47745-F1-model_v4 Sensor protein VanSB	0.129	385	298	487	829	61	445	2.068E-11	252
+DESULFOASV1_0686_hypothetical_protein	AF-Q07737-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q07737-F1-model_v4 Sensor protein ChvG	0.128	452	392	378	829	142	592	6.838E-14	252
+DESULFOASV1_0686_hypothetical_protein	AF-Q03354-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q03354-F1-model_v4 Period circadian protein	0.129	258	185	385	597	223	480	5.214E-11	252
+DESULFOASV1_0686_hypothetical_protein	AF-Q9QWS8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9QWS8-F1-model_v4 Potassium voltage-gated channel subfamily H member 8	0.225	132	95	125	247	15	146	4.354E-07	252
+DESULFOASV1_0686_hypothetical_protein	AF-O64511-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O64511-F1-model_v4 Protein TWIN LOV 1	0.098	335	207	129	359	29	363	9.145E-12	251
+DESULFOASV1_0686_hypothetical_protein	AF-Q9QZQ0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9QZQ0-F1-model_v4 Neuronal PAS domain-containing protein 3	0.105	291	206	369	599	149	439	4.938E-11	251
+DESULFOASV1_0686_hypothetical_protein	AF-Q8IXF0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8IXF0-F1-model_v4 Neuronal PAS domain-containing protein 3	0.108	293	207	367	599	142	434	7.226E-11	251
+DESULFOASV1_0686_hypothetical_protein	AF-Q5SML4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5SML4-F1-model_v4 Probable histidine kinase 2	0.120	648	501	178	825	89	658	1.361E-15	251
+DESULFOASV1_0686_hypothetical_protein	AF-Q24767-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q24767-F1-model_v4 Period circadian protein	0.128	259	186	384	597	241	499	5.813E-11	251
+DESULFOASV1_0686_hypothetical_protein	AF-O02748-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O02748-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator	0.128	301	202	254	486	167	467	8.661E-12	250
+DESULFOASV1_0686_hypothetical_protein	AF-A2YA15-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2YA15-F1-model_v4 Probable histidine kinase 2	0.117	648	502	178	825	89	658	1.603E-15	250
+DESULFOASV1_0686_hypothetical_protein	AF-O02219-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O02219-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator homolog	0.120	278	209	252	490	119	396	3.026E-11	249
+DESULFOASV1_0686_hypothetical_protein	AF-Q7U0X3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7U0X3-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.150	400	292	485	829	67	466	1.157E-12	248
+DESULFOASV1_0686_hypothetical_protein	AF-P72292-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P72292-F1-model_v4 Sensor protein ChvG	0.123	453	396	377	829	123	575	1.314E-13	248
+DESULFOASV1_0686_hypothetical_protein	AF-P35841-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P35841-F1-model_v4 Chemoreceptor protein A	0.156	374	271	12	385	74	395	8.817E-13	248
+DESULFOASV1_0686_hypothetical_protein	AF-Q03353-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q03353-F1-model_v4 Period circadian protein	0.129	258	185	385	597	224	481	8.983E-11	248
+DESULFOASV1_0686_hypothetical_protein	AF-P05709-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P05709-F1-model_v4 Protein single-minded	0.108	355	242	369	640	96	450	2.617E-12	248
+DESULFOASV1_0686_hypothetical_protein	AF-G5EGD2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-G5EGD2-F1-model_v4 Hypoxia-inducible factor 1	0.140	250	189	378	598	88	337	4.676E-11	248
+DESULFOASV1_0686_hypothetical_protein	AF-E7FFX1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E7FFX1-F1-model_v4 Neuronal PAS domain-containing protein 4B	0.142	267	199	379	611	138	404	3.026E-11	248
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CSL7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CSL7-F1-model_v4 Signal transduction histidine-protein kinase ArlS	0.133	469	363	361	829	37	456	1.994E-12	247
+DESULFOASV1_0686_hypothetical_protein	AF-Q6C764-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6C764-F1-model_v4 Transcription activator of gluconeogenesis ERT1-2	0.186	119	91	122	234	438	556	3.258E-06	247
+DESULFOASV1_0686_hypothetical_protein	AF-C5MCK5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C5MCK5-F1-model_v4 Glucose starvation modulator protein 1	0.161	124	99	367	485	465	588	5.316E-06	247
+DESULFOASV1_0686_hypothetical_protein	AF-P07663-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P07663-F1-model_v4 Period circadian protein	0.125	258	186	385	597	238	495	2.265E-10	247
+DESULFOASV1_0686_hypothetical_protein	AF-P12348-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P12348-F1-model_v4 Period circadian protein	0.124	258	186	385	597	200	457	1.822E-10	247
+DESULFOASV1_0686_hypothetical_protein	AF-Q9PT84-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9PT84-F1-model_v4 Potassium voltage-gated channel subfamily H member 6	0.179	137	107	125	255	11	147	1.292E-06	246
+DESULFOASV1_0686_hypothetical_protein	AF-A1KHB8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1KHB8-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.146	400	294	485	829	67	466	1.888E-12	245
+DESULFOASV1_0686_hypothetical_protein	AF-C4YDV1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C4YDV1-F1-model_v4 Glucose starvation modulator protein 1	0.145	124	101	367	485	442	565	9.159E-06	245
+DESULFOASV1_0686_hypothetical_protein	AF-Q99814-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99814-F1-model_v4 Endothelial PAS domain-containing protein 1	0.128	282	216	248	496	83	364	1.020E-11	245
+DESULFOASV1_0686_hypothetical_protein	AF-Q1ECW2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q1ECW2-F1-model_v4 Neuronal PAS domain-containing protein 4A	0.137	292	230	375	641	76	367	2.435E-11	245
+DESULFOASV1_0686_hypothetical_protein	AF-O95259-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O95259-F1-model_v4 Potassium voltage-gated channel subfamily H member 1	0.116	117	97	252	362	19	135	5.316E-06	245
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ZCU7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ZCU7-F1-model_v4 Putative sensor histidine kinase NtrY-like	0.106	443	363	384	826	180	586	1.604E-12	244
+DESULFOASV1_0686_hypothetical_protein	AF-Q68WC5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q68WC5-F1-model_v4 Putative sensor histidine kinase NtrY-like	0.100	428	305	487	826	159	586	2.306E-11	244
+DESULFOASV1_0686_hypothetical_protein	AF-P27540-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P27540-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator	0.127	301	203	254	486	167	467	9.656E-12	244
+DESULFOASV1_0686_hypothetical_protein	AF-P53762-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P53762-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator	0.127	302	203	254	487	167	468	3.081E-12	244
+DESULFOASV1_0686_hypothetical_protein	AF-O54853-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O54853-F1-model_v4 Potassium voltage-gated channel subfamily H member 6	0.188	137	105	125	254	15	151	3.836E-06	244
+DESULFOASV1_0686_hypothetical_protein	AF-Q9XTA5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9XTA5-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.132	316	228	235	498	63	378	2.617E-12	241
+DESULFOASV1_0686_hypothetical_protein	AF-Q61221-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q61221-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.130	322	233	235	503	63	384	2.617E-12	241
+DESULFOASV1_0686_hypothetical_protein	AF-Q96L42-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q96L42-F1-model_v4 Potassium voltage-gated channel subfamily H member 8	0.209	126	92	125	241	15	140	1.159E-06	241
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CEE6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CEE6-F1-model_v4 PAS domain-containing serine/threonine-protein kinase	0.154	312	233	134	445	127	402	4.590E-13	241
+DESULFOASV1_0686_hypothetical_protein	AF-Q16665-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q16665-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.129	316	229	235	498	63	378	4.270E-12	240
+DESULFOASV1_0686_hypothetical_protein	AF-Q9JHS1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9JHS1-F1-model_v4 Endothelial PAS domain-containing protein 1	0.127	296	223	247	502	82	377	4.270E-12	240
+DESULFOASV1_0686_hypothetical_protein	AF-Q9WVJ0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9WVJ0-F1-model_v4 Potassium voltage-gated channel subfamily H member 3	0.206	125	91	125	240	15	139	2.621E-06	240
+DESULFOASV1_0686_hypothetical_protein	AF-O54943-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O54943-F1-model_v4 Period circadian protein homolog 2	0.123	261	210	245	484	174	434	4.429E-11	240
+DESULFOASV1_0686_hypothetical_protein	AF-P42707-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42707-F1-model_v4 Nisin biosynthesis sensor protein NisK	0.115	451	341	375	825	60	445	6.598E-12	239
+DESULFOASV1_0686_hypothetical_protein	AF-P30847-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P30847-F1-model_v4 Signal transduction histidine-protein kinase BaeS	0.126	442	309	386	827	105	459	1.020E-11	239
+DESULFOASV1_0686_hypothetical_protein	AF-P50466-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P50466-F1-model_v4 Aerotaxis receptor	0.230	101	77	133	233	16	116	6.978E-06	239
+DESULFOASV1_0686_hypothetical_protein	AF-Q17062-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q17062-F1-model_v4 Period circadian protein	0.106	250	190	383	595	163	412	3.695E-10	239
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ULD8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ULD8-F1-model_v4 Potassium voltage-gated channel subfamily H member 3	0.206	125	91	125	240	15	139	2.621E-06	239
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGL3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGL3-F1-model_v4 Sensor protein KdpD	0.164	358	286	487	829	500	857	3.195E-11	238
+DESULFOASV1_0686_hypothetical_protein	AF-P97481-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P97481-F1-model_v4 Endothelial PAS domain-containing protein 1	0.118	295	224	248	502	83	377	2.184E-11	237
+DESULFOASV1_0686_hypothetical_protein	AF-D8Q8R5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-D8Q8R5-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.164	127	100	114	234	432	558	9.671E-06	236
+DESULFOASV1_0686_hypothetical_protein	AF-Q98SW2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q98SW2-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.117	261	213	242	483	84	344	6.481E-11	236
+DESULFOASV1_0686_hypothetical_protein	AF-Q309Z6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q309Z6-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.127	322	234	235	503	64	385	5.605E-12	236
+DESULFOASV1_0686_hypothetical_protein	AF-Q9BE97-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9BE97-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator	0.132	298	199	254	483	167	464	7.768E-12	235
+DESULFOASV1_0686_hypothetical_protein	AF-Q0PGG7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0PGG7-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.150	287	221	243	503	83	369	3.830E-12	235
+DESULFOASV1_0686_hypothetical_protein	AF-P21865-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P21865-F1-model_v4 Sensor protein KdpD	0.125	470	340	360	829	494	883	3.762E-11	235
+DESULFOASV1_0686_hypothetical_protein	AF-O15055-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O15055-F1-model_v4 Period circadian protein homolog 2	0.126	262	210	244	484	175	436	3.563E-11	235
+DESULFOASV1_0686_hypothetical_protein	AF-Q59WB9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q59WB9-F1-model_v4 Glucose starvation modulator protein 1	0.153	124	100	367	485	442	565	1.269E-05	234
+DESULFOASV1_0686_hypothetical_protein	AF-Q9RZA4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9RZA4-F1-model_v4 Bacteriophytochrome	0.111	810	629	20	829	39	747	1.156E-15	233
+DESULFOASV1_0686_hypothetical_protein	AF-Q49XM6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q49XM6-F1-model_v4 Signal transduction histidine-protein kinase ArlS	0.130	463	359	363	825	38	451	3.563E-11	232
+DESULFOASV1_0686_hypothetical_protein	AF-O89047-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O89047-F1-model_v4 Potassium voltage-gated channel subfamily H member 3	0.206	125	91	125	240	15	139	4.050E-06	232
+DESULFOASV1_0686_hypothetical_protein	AF-P79832-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P79832-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator	0.135	310	210	254	497	143	452	2.306E-11	230
+DESULFOASV1_0686_hypothetical_protein	AF-Q9I8A9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9I8A9-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.150	265	198	1	234	78	342	6.138E-11	230
+DESULFOASV1_0686_hypothetical_protein	AF-O08785-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O08785-F1-model_v4 Circadian locomoter output cycles protein kaput	0.079	280	227	128	374	111	390	5.122E-10	230
+DESULFOASV1_0686_hypothetical_protein	AF-O70361-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O70361-F1-model_v4 Period circadian protein homolog 3	0.110	294	223	236	486	81	374	2.815E-10	230
+DESULFOASV1_0686_hypothetical_protein	AF-P90953-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P90953-F1-model_v4 Helix-loop-helix 34	0.128	256	202	365	597	66	321	2.265E-10	229
+DESULFOASV1_0686_hypothetical_protein	AF-Q25478-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q25478-F1-model_v4 Period circadian protein	0.118	230	176	398	597	4	233	2.107E-09	229
+DESULFOASV1_0686_hypothetical_protein	AF-Q8K3T2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8K3T2-F1-model_v4 Period circadian protein homolog 2	0.128	262	209	244	484	169	430	6.844E-11	229
+DESULFOASV1_0686_hypothetical_protein	AF-P41739-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P41739-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator	0.128	298	200	254	483	167	464	2.571E-11	228
+DESULFOASV1_0686_hypothetical_protein	AF-Q9Z301-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9Z301-F1-model_v4 Period circadian protein homolog 2	0.122	261	210	245	484	174	434	1.002E-10	228
+DESULFOASV1_0686_hypothetical_protein	AF-O15534-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O15534-F1-model_v4 Period circadian protein homolog 1	0.121	257	205	252	485	210	466	2.031E-10	228
+DESULFOASV1_0686_hypothetical_protein	AF-Q742C0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q742C0-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.141	400	295	485	829	71	470	1.575E-11	227
+DESULFOASV1_0686_hypothetical_protein	AF-O57539-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O57539-F1-model_v4 Nuclear receptor coactivator 3	0.150	256	186	378	597	117	372	4.120E-10	227
+DESULFOASV1_0686_hypothetical_protein	AF-P54444-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P54444-F1-model_v4 Sensor histidine kinase YrkQ	0.113	359	303	487	829	73	431	2.184E-11	226
+DESULFOASV1_0686_hypothetical_protein	AF-A0R3I7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0R3I7-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.144	400	294	485	829	68	467	1.137E-11	226
+DESULFOASV1_0686_hypothetical_protein	AF-B9W8A8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B9W8A8-F1-model_v4 Glucose starvation modulator protein 1	0.153	124	100	367	485	441	564	2.309E-05	226
+DESULFOASV1_0686_hypothetical_protein	AF-O35800-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O35800-F1-model_v4 Hypoxia-inducible factor 1-alpha	0.123	316	231	235	498	63	378	7.356E-12	226
+DESULFOASV1_0686_hypothetical_protein	AF-Q754J3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q754J3-F1-model_v4 Glucose starvation modulator protein 1	0.098	132	105	244	360	345	476	2.187E-05	225
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HPU8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HPU8-F1-model_v4 Bacterioopsin transcriptional activator	0.154	401	316	121	494	153	553	9.477E-14	225
+DESULFOASV1_0686_hypothetical_protein	AF-Q91YB0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q91YB0-F1-model_v4 Circadian locomoter output cycles protein kaput	0.120	279	216	252	497	111	389	2.973E-10	225
+DESULFOASV1_0686_hypothetical_protein	AF-Q8QGQ8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8QGQ8-F1-model_v4 Period circadian protein homolog 2	0.132	262	211	241	484	225	486	1.822E-10	225
+DESULFOASV1_0686_hypothetical_protein	AF-Q9Z5G7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9Z5G7-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.147	397	291	485	826	67	463	1.958E-11	224
+DESULFOASV1_0686_hypothetical_protein	AF-Q91YB2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q91YB2-F1-model_v4 Circadian locomoter output cycles protein kaput	0.119	282	218	249	497	108	389	2.973E-10	224
+DESULFOASV1_0686_hypothetical_protein	AF-Q96RG2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q96RG2-F1-model_v4 PAS domain-containing serine/threonine-protein kinase	0.143	312	236	134	445	129	404	3.627E-12	224
+DESULFOASV1_0686_hypothetical_protein	AF-Q6G9E7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6G9E7-F1-model_v4 Signal transduction histidine-protein kinase ArlS	0.129	440	326	386	825	77	451	1.413E-11	223
+DESULFOASV1_0686_hypothetical_protein	AF-B9WLA7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B9WLA7-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.155	122	95	247	360	438	559	9.500E-05	223
+DESULFOASV1_0686_hypothetical_protein	AF-Q9H252-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9H252-F1-model_v4 Potassium voltage-gated channel subfamily H member 6	0.174	140	111	125	259	15	154	8.674E-06	223
+DESULFOASV1_0686_hypothetical_protein	AF-Q9R1T9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9R1T9-F1-model_v4 Potassium voltage-gated channel subfamily H member 4	0.134	161	113	250	380	16	176	1.098E-06	223
+DESULFOASV1_0686_hypothetical_protein	AF-P56645-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P56645-F1-model_v4 Period circadian protein homolog 3	0.110	297	223	236	486	82	378	4.850E-10	223
+DESULFOASV1_0686_hypothetical_protein	AF-P70365-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P70365-F1-model_v4 Nuclear receptor coactivator 1	0.119	253	195	374	595	110	362	1.002E-10	223
+DESULFOASV1_0686_hypothetical_protein	AF-A3Q5L8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A3Q5L8-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.142	398	293	485	827	68	465	2.866E-11	222
+DESULFOASV1_0686_hypothetical_protein	AF-Q24167-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q24167-F1-model_v4 Protein similar	0.154	382	316	235	616	75	449	3.627E-12	222
+DESULFOASV1_0686_hypothetical_protein	AF-P70954-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P70954-F1-model_v4 Sensor histidine kinase NatK	0.131	228	183	602	829	107	318	7.362E-09	221
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CHI5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CHI5-F1-model_v4 Period circadian protein homolog 1	0.116	260	209	249	485	207	466	3.695E-10	221
+DESULFOASV1_0686_hypothetical_protein	AF-A1TEL6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1TEL6-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.142	398	293	485	827	75	472	1.575E-11	220
+DESULFOASV1_0686_hypothetical_protein	AF-P27668-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P27668-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase UhpB	0.143	226	170	602	827	299	497	2.436E-08	220
+DESULFOASV1_0686_hypothetical_protein	AF-C4YLC3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C4YLC3-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.155	122	95	247	360	439	560	1.118E-04	220
+DESULFOASV1_0686_hypothetical_protein	AF-Q6YGZ4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6YGZ4-F1-model_v4 Circadian locomoter output cycles protein kaput	0.125	287	225	245	502	108	394	1.725E-10	220
+DESULFOASV1_0686_hypothetical_protein	AF-Q91YA8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q91YA8-F1-model_v4 Circadian locomoter output cycles protein kaput	0.115	282	219	249	497	108	389	3.314E-10	220
+DESULFOASV1_0686_hypothetical_protein	AF-Q8QGQ6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8QGQ6-F1-model_v4 Circadian locomoter output cycles protein kaput	0.126	287	225	245	502	108	394	1.634E-10	220
+DESULFOASV1_0686_hypothetical_protein	AF-Q9UQ05-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9UQ05-F1-model_v4 Potassium voltage-gated channel subfamily H member 4	0.134	160	113	250	380	16	175	1.696E-06	220
+DESULFOASV1_0686_hypothetical_protein	AF-Q03297-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q03297-F1-model_v4 Period circadian protein	0.134	260	194	260	484	150	409	5.408E-10	220
+DESULFOASV1_0686_hypothetical_protein	AF-A7TQK0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7TQK0-F1-model_v4 Glucose starvation modulator protein 1	0.185	133	96	116	234	339	471	4.768E-06	219
+DESULFOASV1_0686_hypothetical_protein	AF-Q8X739-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8X739-F1-model_v4 Sensor protein PhoQ	0.137	402	285	496	826	76	477	4.938E-11	219
+DESULFOASV1_0686_hypothetical_protein	AF-O15516-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O15516-F1-model_v4 Circadian locomoter output cycles protein kaput	0.119	282	218	249	497	108	389	4.594E-10	219
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CJE2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CJE2-F1-model_v4 Period circadian protein homolog 3	0.112	295	222	236	486	81	375	5.122E-10	219
+DESULFOASV1_0686_hypothetical_protein	AF-A0PWB3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0PWB3-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.151	398	290	485	827	67	464	6.844E-11	218
+DESULFOASV1_0686_hypothetical_protein	AF-Q5R4T2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5R4T2-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.121	293	203	252	483	148	440	1.466E-10	218
+DESULFOASV1_0686_hypothetical_protein	AF-Q9WTL8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9WTL8-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.142	296	190	374	596	152	447	1.002E-10	218
+DESULFOASV1_0686_hypothetical_protein	AF-P76016-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P76016-F1-model_v4 PTS-dependent dihydroxyacetone kinase operon regulatory protein	0.139	268	218	115	368	46	313	2.107E-09	218
+DESULFOASV1_0686_hypothetical_protein	AF-O08962-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O08962-F1-model_v4 Potassium voltage-gated channel subfamily H member 2	0.191	119	90	123	234	13	131	2.187E-05	218
+DESULFOASV1_0686_hypothetical_protein	AF-P09835-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P09835-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase UhpB	0.129	227	173	602	828	299	498	4.942E-08	217
+DESULFOASV1_0686_hypothetical_protein	AF-A1UL69-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1UL69-F1-model_v4 Signal transduction histidine-protein kinase/phosphatase MprB	0.136	398	295	485	827	68	465	1.002E-10	217
+DESULFOASV1_0686_hypothetical_protein	AF-Q6YGZ5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6YGZ5-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.120	299	208	249	485	152	450	9.485E-11	217
+DESULFOASV1_0686_hypothetical_protein	AF-Q99743-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99743-F1-model_v4 Neuronal PAS domain-containing protein 2	0.130	285	207	374	612	83	367	2.973E-10	217
+DESULFOASV1_0686_hypothetical_protein	AF-Q5RAK8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5RAK8-F1-model_v4 Circadian locomoter output cycles protein kaput	0.097	283	220	126	370	109	391	2.815E-10	217
+DESULFOASV1_0686_hypothetical_protein	AF-Q9TSZ3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9TSZ3-F1-model_v4 Potassium voltage-gated channel subfamily H member 2	0.191	119	90	123	234	13	131	2.438E-05	217
+DESULFOASV1_0686_hypothetical_protein	AF-O35973-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O35973-F1-model_v4 Period circadian protein homolog 1	0.116	260	209	249	485	207	466	6.029E-10	217
+DESULFOASV1_0686_hypothetical_protein	AF-Q57QC4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q57QC4-F1-model_v4 Virulence sensor histidine kinase PhoQ	0.137	398	280	501	826	81	478	2.265E-10	216
+DESULFOASV1_0686_hypothetical_protein	AF-O18965-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O18965-F1-model_v4 Potassium voltage-gated channel subfamily H member 1	0.111	150	117	252	384	19	168	5.613E-06	216
+DESULFOASV1_0686_hypothetical_protein	AF-Q920E3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q920E3-F1-model_v4 Potassium voltage-gated channel subfamily H member 5	0.118	141	108	261	384	26	166	7.368E-06	216
+DESULFOASV1_0686_hypothetical_protein	AF-Q8K3T3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8K3T3-F1-model_v4 Period circadian protein homolog 1	0.104	301	224	235	485	166	466	1.117E-10	216
+DESULFOASV1_0686_hypothetical_protein	AF-Q2R2W1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2R2W1-F1-model_v4 Adagio-like protein 3	0.154	121	90	128	234	56	176	1.139E-05	215
+DESULFOASV1_0686_hypothetical_protein	AF-P45512-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P45512-F1-model_v4 Glycerol metabolism operon regulatory protein	0.122	262	220	118	369	54	315	3.630E-09	215
+DESULFOASV1_0686_hypothetical_protein	AF-P18392-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P18392-F1-model_v4 Sensor protein RstB	0.127	369	251	542	829	57	425	9.838E-10	214
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NCM2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NCM2-F1-model_v4 Potassium voltage-gated channel subfamily H member 5	0.118	141	108	261	384	26	166	9.159E-06	214
+DESULFOASV1_0686_hypothetical_protein	AF-Q60603-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q60603-F1-model_v4 Potassium voltage-gated channel subfamily H member 1	0.118	141	108	261	384	28	168	8.215E-06	214
+DESULFOASV1_0686_hypothetical_protein	AF-O61735-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O61735-F1-model_v4 Circadian locomoter output cycles protein kaput	0.098	298	232	127	384	91	388	1.363E-09	214
+DESULFOASV1_0686_hypothetical_protein	AF-P38022-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P38022-F1-model_v4 Arginine utilization regulatory protein RocR	0.150	157	127	371	527	6	155	1.997E-06	212
+DESULFOASV1_0686_hypothetical_protein	AF-P93025-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P93025-F1-model_v4 Phototropin-2	0.131	485	395	129	583	125	609	7.351E-15	212
+DESULFOASV1_0686_hypothetical_protein	AF-Q15788-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q15788-F1-model_v4 Nuclear receptor coactivator 1	0.129	253	192	374	595	110	362	3.139E-10	212
+DESULFOASV1_0686_hypothetical_protein	AF-P0A5Z9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A5Z9-F1-model_v4 Sensor-type histidine kinase PrrB	0.108	445	327	385	829	79	446	8.507E-11	211
+DESULFOASV1_0686_hypothetical_protein	AF-Q82EB2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q82EB2-F1-model_v4 Sensor protein CseC	0.123	403	301	424	826	126	469	6.138E-11	211
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGK7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGK7-F1-model_v4 Sensor-type histidine kinase PrrB	0.113	389	305	441	829	102	446	1.548E-10	210
+DESULFOASV1_0686_hypothetical_protein	AF-Q6CK33-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6CK33-F1-model_v4 Glucose starvation modulator protein 1	0.102	137	104	244	360	439	575	4.684E-05	210
+DESULFOASV1_0686_hypothetical_protein	AF-Q91YA9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q91YA9-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.143	297	190	374	596	145	441	2.145E-10	210
+DESULFOASV1_0686_hypothetical_protein	AF-Q9I8T7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9I8T7-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.137	297	192	374	596	152	448	1.315E-10	210
+DESULFOASV1_0686_hypothetical_protein	AF-Q55F68-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q55F68-F1-model_v4 Adenylate cyclase, terminal-differentiation specific	0.142	319	196	600	829	613	931	2.307E-08	210
+DESULFOASV1_0686_hypothetical_protein	AF-O31516-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O31516-F1-model_v4 Sensor histidine kinase YesM	0.129	478	404	364	828	96	573	1.633E-13	209
+DESULFOASV1_0686_hypothetical_protein	AF-Q8DVB6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8DVB6-F1-model_v4 Sensor protein LytS	0.133	334	286	496	829	241	571	4.850E-10	209
+DESULFOASV1_0686_hypothetical_protein	AF-Q9WVS9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9WVS9-F1-model_v4 Circadian locomoter output cycles protein kaput	0.113	315	232	235	497	75	389	2.973E-10	209
+DESULFOASV1_0686_hypothetical_protein	AF-Q98TW1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q98TW1-F1-model_v4 Nuclear receptor coactivator 2	0.108	302	211	361	597	72	373	3.500E-10	209
+DESULFOASV1_0686_hypothetical_protein	AF-P16113-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P16113-F1-model_v4 Photoactive yellow protein	0.191	114	86	492	598	12	125	5.822E-05	208
+DESULFOASV1_0686_hypothetical_protein	AF-A0MLS5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0MLS5-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.127	297	194	374	596	145	441	3.695E-10	208
+DESULFOASV1_0686_hypothetical_protein	AF-Q8WNY2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8WNY2-F1-model_v4 Potassium voltage-gated channel subfamily H member 2	0.191	119	90	123	234	13	131	4.684E-05	208
+DESULFOASV1_0686_hypothetical_protein	AF-B5DE09-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B5DE09-F1-model_v4 Nuclear receptor coactivator 2	0.117	295	206	364	597	74	368	2.265E-10	208
+DESULFOASV1_0686_hypothetical_protein	AF-Q2NB98-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2NB98-F1-model_v4 Light-activated DNA-binding protein EL222	0.193	167	132	127	290	31	197	7.501E-07	207
+DESULFOASV1_0686_hypothetical_protein	AF-O53857-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O53857-F1-model_v4 Sensor histidine kinase NarS	0.146	223	172	607	829	224	425	2.573E-08	207
+DESULFOASV1_0686_hypothetical_protein	AF-O24972-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O24972-F1-model_v4 Sensor histidine kinase ArsS	0.113	468	333	362	829	33	408	8.824E-10	207
+DESULFOASV1_0686_hypothetical_protein	AF-P9WGK6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WGK6-F1-model_v4 Sensor-type histidine kinase PrrB	0.109	445	327	385	829	79	446	1.725E-10	207
+DESULFOASV1_0686_hypothetical_protein	AF-Q4L6C5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4L6C5-F1-model_v4 Signal transduction histidine-protein kinase ArlS	0.138	463	356	363	825	39	452	5.214E-11	207
+DESULFOASV1_0686_hypothetical_protein	AF-Q4A009-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4A009-F1-model_v4 Sensor protein LytS	0.148	341	288	489	829	241	579	3.902E-10	207
+DESULFOASV1_0686_hypothetical_protein	AF-Q2RBR1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2RBR1-F1-model_v4 Phototropin-1B	0.130	499	395	129	583	128	626	1.574E-14	206
+DESULFOASV1_0686_hypothetical_protein	AF-O54852-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O54852-F1-model_v4 Potassium voltage-gated channel subfamily H member 7	0.191	119	90	123	234	13	131	6.148E-05	206
+DESULFOASV1_0686_hypothetical_protein	AF-Q25020-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q25020-F1-model_v4 Period circadian protein	0.116	237	187	273	484	4	240	6.603E-09	205
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FH24-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FH24-F1-model_v4 Signal transduction histidine-protein kinase ArlS	0.129	440	326	386	825	77	451	1.548E-10	205
+DESULFOASV1_0686_hypothetical_protein	AF-Q1M799-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q1M799-F1-model_v4 Sensor histidine kinase MctS	0.112	392	301	487	826	56	447	3.026E-11	205
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ST27-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ST27-F1-model_v4 Phototropin-2	0.122	513	397	129	581	94	606	1.266E-14	205
+DESULFOASV1_0686_hypothetical_protein	AF-Q9Y6Q9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9Y6Q9-F1-model_v4 Nuclear receptor coactivator 3	0.131	300	217	235	485	73	372	4.350E-10	205
+DESULFOASV1_0686_hypothetical_protein	AF-Q53120-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q53120-F1-model_v4 Photoactive yellow protein	0.213	116	85	490	598	10	125	6.854E-05	204
+DESULFOASV1_0686_hypothetical_protein	AF-Q9C9W9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9C9W9-F1-model_v4 Adagio protein 3	0.177	115	82	134	234	51	165	2.071E-05	204
+DESULFOASV1_0686_hypothetical_protein	AF-Q9NS40-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9NS40-F1-model_v4 Potassium voltage-gated channel subfamily H member 7	0.191	119	90	123	234	13	131	6.491E-05	204
+DESULFOASV1_0686_hypothetical_protein	AF-P23837-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P23837-F1-model_v4 Sensor protein PhoQ	0.135	402	285	496	826	76	477	5.214E-11	203
+DESULFOASV1_0686_hypothetical_protein	AF-O00327-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O00327-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.123	303	210	250	489	145	447	4.120E-10	203
+DESULFOASV1_0686_hypothetical_protein	AF-Q2QYY8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2QYY8-F1-model_v4 Phototropin-1A	0.143	497	387	129	581	128	624	5.210E-14	203
+DESULFOASV1_0686_hypothetical_protein	AF-Q9EPI9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9EPI9-F1-model_v4 Potassium voltage-gated channel subfamily H member 5	0.117	142	109	260	384	25	166	2.187E-05	203
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ER47-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ER47-F1-model_v4 Potassium voltage-gated channel subfamily H member 7	0.191	119	90	123	234	13	131	7.238E-05	203
+DESULFOASV1_0686_hypothetical_protein	AF-O88529-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O88529-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.140	297	191	374	596	145	441	5.710E-10	202
+DESULFOASV1_0686_hypothetical_protein	AF-Q03355-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q03355-F1-model_v4 Period circadian protein	0.099	338	287	383	701	222	559	8.507E-11	202
+DESULFOASV1_0686_hypothetical_protein	AF-Q65ZG8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q65ZG8-F1-model_v4 Period protein homolog lin-42	0.101	224	193	262	485	61	276	1.995E-09	201
+DESULFOASV1_0686_hypothetical_protein	AF-Q8QGQ7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8QGQ7-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 2	0.110	293	217	239	483	165	457	2.815E-10	201
+DESULFOASV1_0686_hypothetical_protein	AF-Q8WYA1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8WYA1-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 2	0.106	320	220	237	483	153	472	2.666E-10	201
+DESULFOASV1_0686_hypothetical_protein	AF-P12349-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P12349-F1-model_v4 Period circadian protein	0.100	346	302	383	718	218	563	4.938E-11	201
+DESULFOASV1_0686_hypothetical_protein	AF-Q83RR1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q83RR1-F1-model_v4 Virulence sensor protein PhoQ	0.136	402	285	496	826	76	477	7.226E-11	200
+DESULFOASV1_0686_hypothetical_protein	AF-Q8FIB8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8FIB8-F1-model_v4 Sensor protein PhoQ	0.136	402	285	496	826	76	477	7.630E-11	200
+DESULFOASV1_0686_hypothetical_protein	AF-Q8E218-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8E218-F1-model_v4 Sensor protein LytS	0.124	333	288	496	828	241	570	7.914E-10	200
+DESULFOASV1_0686_hypothetical_protein	AF-Q15596-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q15596-F1-model_v4 Nuclear receptor coactivator 2	0.111	308	212	358	597	68	375	5.122E-10	200
+DESULFOASV1_0686_hypothetical_protein	AF-A0A0H3AFM6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0A0H3AFM6-F1-model_v4 Diguanylate cyclase	0.130	250	203	252	501	32	265	5.218E-08	199
+DESULFOASV1_0686_hypothetical_protein	AF-P0AD15-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AD15-F1-model_v4 Sensor histidine kinase BtsS	0.127	334	281	496	829	237	559	4.120E-10	199
+DESULFOASV1_0686_hypothetical_protein	AF-Q5ZQU2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5ZQU2-F1-model_v4 Neuronal PAS domain-containing protein 2	0.139	318	231	235	503	53	370	1.388E-10	199
+DESULFOASV1_0686_hypothetical_protein	AF-P97460-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P97460-F1-model_v4 Neuronal PAS domain-containing protein 2	0.147	315	223	235	496	53	367	1.388E-10	199
+DESULFOASV1_0686_hypothetical_protein	AF-O48963-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O48963-F1-model_v4 Phototropin-1	0.089	614	407	129	576	189	802	5.210E-14	199
+DESULFOASV1_0686_hypothetical_protein	AF-Q8E7H4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8E7H4-F1-model_v4 Sensor protein LytS	0.124	333	288	496	828	241	570	1.520E-09	198
+DESULFOASV1_0686_hypothetical_protein	AF-Q0DWC7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0DWC7-F1-model_v4 Ethylene receptor 3	0.093	470	413	360	829	235	690	3.139E-10	198
+DESULFOASV1_0686_hypothetical_protein	AF-F5ZP94-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-F5ZP94-F1-model_v4 Virulence sensor histidine kinase PhoQ	0.133	403	286	496	826	76	478	1.548E-10	197
+DESULFOASV1_0686_hypothetical_protein	AF-Q9EPW1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9EPW1-F1-model_v4 Aryl hydrocarbon receptor nuclear translocator-like protein 1	0.127	297	203	250	483	145	441	9.317E-10	197
+DESULFOASV1_0686_hypothetical_protein	AF-Q94BT6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q94BT6-F1-model_v4 Adagio protein 1	0.134	117	88	132	234	40	156	6.148E-05	196
+DESULFOASV1_0686_hypothetical_protein	AF-Q61026-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q61026-F1-model_v4 Nuclear receptor coactivator 2	0.118	305	208	361	597	71	375	1.158E-09	196
+DESULFOASV1_0686_hypothetical_protein	AF-Q8X8Q3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8X8Q3-F1-model_v4 Diguanylate cyclase DgcM	0.133	341	288	255	595	8	340	3.500E-10	195
+DESULFOASV1_0686_hypothetical_protein	AF-Q8Z7H3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8Z7H3-F1-model_v4 Virulence sensor histidine kinase PhoQ	0.136	398	281	501	826	81	478	2.666E-10	195
+DESULFOASV1_0686_hypothetical_protein	AF-D0ZV89-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-D0ZV89-F1-model_v4 Virulence sensor histidine kinase PhoQ	0.136	398	281	501	826	81	478	2.391E-10	195
+DESULFOASV1_0686_hypothetical_protein	AF-Q4L8V3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4L8V3-F1-model_v4 Sensor protein LytS	0.147	341	288	489	829	241	579	9.838E-10	194
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ZTP3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ZTP3-F1-model_v4 Protein EIN4	0.100	466	406	360	825	159	610	1.822E-10	194
+DESULFOASV1_0686_hypothetical_protein	AF-O07014-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O07014-F1-model_v4 Phosphoserine phosphatase RsbP	0.129	271	192	498	768	4	225	3.975E-08	193
+DESULFOASV1_0686_hypothetical_protein	AF-E1WFA0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E1WFA0-F1-model_v4 Virulence sensor histidine kinase PhoQ	0.134	403	286	496	826	76	478	2.525E-10	193
+DESULFOASV1_0686_hypothetical_protein	AF-Q5PMJ0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5PMJ0-F1-model_v4 Virulence sensor histidine kinase PhoQ	0.136	398	281	501	826	81	478	3.902E-10	193
+DESULFOASV1_0686_hypothetical_protein	AF-Q12809-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q12809-F1-model_v4 Potassium voltage-gated channel subfamily H member 2	0.179	120	98	115	234	12	131	3.379E-05	193
+DESULFOASV1_0686_hypothetical_protein	AF-O09000-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O09000-F1-model_v4 Nuclear receptor coactivator 3	0.119	297	220	235	485	74	370	3.314E-10	193
+DESULFOASV1_0686_hypothetical_protein	AF-Q9W705-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9W705-F1-model_v4 Nuclear receptor coactivator 2	0.117	289	209	360	597	77	365	1.440E-09	193
+DESULFOASV1_0686_hypothetical_protein	AF-P0AD16-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AD16-F1-model_v4 Sensor histidine kinase BtsS	0.124	334	282	496	829	237	559	3.438E-09	192
+DESULFOASV1_0686_hypothetical_protein	AF-Q25637-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q25637-F1-model_v4 Period circadian protein	0.116	386	286	235	559	173	558	2.435E-11	192
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ZEP3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ZEP3-F1-model_v4 Sensor protein CseC	0.134	392	294	437	828	129	469	4.850E-10	191
+DESULFOASV1_0686_hypothetical_protein	AF-C4QV17-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C4QV17-F1-model_v4 Glucose starvation modulator protein 1	0.163	118	92	124	234	411	528	1.317E-04	191
+DESULFOASV1_0686_hypothetical_protein	AF-O35219-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O35219-F1-model_v4 Potassium voltage-gated channel subfamily H member 2	0.179	120	98	115	234	12	131	4.201E-05	191
+DESULFOASV1_0686_hypothetical_protein	AF-P77302-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P77302-F1-model_v4 Diguanylate cyclase DgcM	0.128	341	290	255	595	8	340	5.122E-10	190
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CR79-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CR79-F1-model_v4 Sensor protein LytS	0.123	341	296	489	829	241	579	2.225E-09	190
+DESULFOASV1_0686_hypothetical_protein	AF-Q5Z8K3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5Z8K3-F1-model_v4 Adagio-like protein 1	0.130	122	91	129	234	50	171	6.148E-05	190
+DESULFOASV1_0686_hypothetical_protein	AF-Q1KMR4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q1KMR4-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial	0.118	257	183	621	828	111	367	2.668E-07	189
+DESULFOASV1_0686_hypothetical_protein	AF-Q814J0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q814J0-F1-model_v4 Sensor protein LytS	0.143	334	285	496	829	245	577	4.047E-09	189
+DESULFOASV1_0686_hypothetical_protein	AF-Q0WPQ2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0WPQ2-F1-model_v4 Ethylene receptor 2	0.114	444	363	386	829	208	618	1.695E-09	189
+DESULFOASV1_0686_hypothetical_protein	AF-Q6T5K2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6T5K2-F1-model_v4 Ethylene receptor 3	0.093	470	413	360	829	235	690	7.098E-10	189
+DESULFOASV1_0686_hypothetical_protein	AF-Q81JL2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q81JL2-F1-model_v4 Sensor protein LytS	0.141	334	285	496	829	245	577	5.609E-09	188
+DESULFOASV1_0686_hypothetical_protein	AF-C4Y4V1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C4Y4V1-F1-model_v4 Glucose starvation modulator protein 1	0.117	136	104	367	485	342	477	8.997E-05	187
+DESULFOASV1_0686_hypothetical_protein	AF-P0AD14-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AD14-F1-model_v4 Sensor histidine kinase BtsS	0.125	334	282	496	829	237	559	1.790E-09	187
+DESULFOASV1_0686_hypothetical_protein	AF-Q8BFP9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8BFP9-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial	0.126	255	182	620	828	136	390	2.975E-07	186
+DESULFOASV1_0686_hypothetical_protein	AF-P0DM80-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0DM80-F1-model_v4 Virulence sensor histidine kinase PhoQ	0.129	426	294	489	826	53	478	4.850E-10	185
+DESULFOASV1_0686_hypothetical_protein	AF-Q02541-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q02541-F1-model_v4 Sensor protein CopS	0.128	415	298	375	789	68	410	2.480E-09	185
+DESULFOASV1_0686_hypothetical_protein	AF-C8ZBB1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C8ZBB1-F1-model_v4 Glucose starvation modulator protein 1	0.127	154	103	116	234	460	613	1.759E-05	185
+DESULFOASV1_0686_hypothetical_protein	AF-O33071-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O33071-F1-model_v4 Sensor-type histidine kinase PrrB	0.097	468	365	362	829	42	446	2.107E-09	184
+DESULFOASV1_0686_hypothetical_protein	AF-Q67UX0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q67UX0-F1-model_v4 Putative adagio-like protein 2	0.153	120	91	127	234	46	165	1.390E-04	184
+DESULFOASV1_0686_hypothetical_protein	AF-Q9WUI9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9WUI9-F1-model_v4 Nuclear receptor coactivator 2	0.120	305	208	361	597	71	375	1.291E-09	184
+DESULFOASV1_0686_hypothetical_protein	AF-Q16654-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q16654-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial	0.121	251	177	627	828	117	367	7.920E-07	183
+DESULFOASV1_0686_hypothetical_protein	AF-O25153-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O25153-F1-model_v4 Sensor histidine kinase CheAY	0.125	248	194	606	828	269	516	4.123E-07	183
+DESULFOASV1_0686_hypothetical_protein	AF-P77334-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P77334-F1-model_v4 Cyclic di-GMP phosphodiesterase PdeR	0.115	632	466	119	750	2	529	4.761E-12	182
+DESULFOASV1_0686_hypothetical_protein	AF-Q53226-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q53226-F1-model_v4 Photoactive yellow protein	0.195	121	92	1	115	4	124	2.438E-05	180
+DESULFOASV1_0686_hypothetical_protein	AF-Q922H2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q922H2-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial	0.173	255	174	618	828	107	361	1.823E-07	180
+DESULFOASV1_0686_hypothetical_protein	AF-C5DX31-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C5DX31-F1-model_v4 Glucose starvation modulator protein 1	0.164	133	99	116	234	408	540	1.962E-05	180
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HLG3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HLG3-F1-model_v4 Sensor protein LytS	0.136	341	292	489	829	241	579	5.031E-09	180
+DESULFOASV1_0686_hypothetical_protein	AF-P29072-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P29072-F1-model_v4 Chemotaxis protein CheA	0.125	236	184	618	828	304	539	5.715E-07	180
+DESULFOASV1_0686_hypothetical_protein	AF-Q53135-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q53135-F1-model_v4 Chemotaxis protein CheA	0.176	242	179	611	828	298	539	1.002E-07	180
+DESULFOASV1_0686_hypothetical_protein	AF-P0AA93-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AA93-F1-model_v4 Sensor histidine kinase YpdA	0.118	334	279	493	826	235	551	1.020E-08	178
+DESULFOASV1_0686_hypothetical_protein	AF-Q8H1X1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8H1X1-F1-model_v4 Ethylene receptor 2	0.117	466	402	360	825	156	611	5.609E-09	178
+DESULFOASV1_0686_hypothetical_protein	AF-Q03003-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q03003-F1-model_v4 Uncharacterized protein in P47K 3'region	0.095	163	138	236	389	69	231	1.637E-04	177
+DESULFOASV1_0686_hypothetical_protein	AF-O02623-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O02623-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase, mitochondrial	0.110	252	187	618	828	108	359	3.317E-07	177
+DESULFOASV1_0686_hypothetical_protein	AF-Q15120-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q15120-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial	0.162	255	176	618	828	107	361	2.393E-07	177
+DESULFOASV1_0686_hypothetical_protein	AF-Q9JK42-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9JK42-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial	0.140	244	161	641	828	120	363	5.126E-07	177
+DESULFOASV1_0686_hypothetical_protein	AF-O88345-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O88345-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial	0.117	251	177	627	828	117	367	6.034E-07	177
+DESULFOASV1_0686_hypothetical_protein	AF-P0AA94-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0AA94-F1-model_v4 Sensor histidine kinase YpdA	0.130	344	284	486	829	227	554	1.077E-08	177
+DESULFOASV1_0686_hypothetical_protein	AF-A3LQV7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A3LQV7-F1-model_v4 Transcription activator of gluconeogenesis ERT1	0.176	133	100	113	234	431	563	8.520E-05	177
+DESULFOASV1_0686_hypothetical_protein	AF-Q82Z75-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q82Z75-F1-model_v4 Sensor protein LytS	0.142	334	285	496	829	248	580	1.020E-08	177
+DESULFOASV1_0686_hypothetical_protein	AF-B3LQ10-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B3LQ10-F1-model_v4 Glucose starvation modulator protein 1	0.127	154	103	116	234	460	613	3.031E-05	177
+DESULFOASV1_0686_hypothetical_protein	AF-Q6FLG1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6FLG1-F1-model_v4 Glucose starvation modulator protein 1	0.161	161	99	116	234	464	624	4.201E-05	177
+DESULFOASV1_0686_hypothetical_protein	AF-P42950-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P42950-F1-model_v4 Glucose starvation modulator protein 1	0.114	154	105	116	234	460	613	3.201E-05	176
+DESULFOASV1_0686_hypothetical_protein	AF-C7GR11-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C7GR11-F1-model_v4 Glucose starvation modulator protein 1	0.127	154	103	116	234	460	613	3.978E-05	176
+DESULFOASV1_0686_hypothetical_protein	AF-A9YTQ3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A9YTQ3-F1-model_v4 Aryl hydrocarbon receptor repressor	0.125	184	114	372	502	111	294	1.021E-05	176
+DESULFOASV1_0686_hypothetical_protein	AF-P81046-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P81046-F1-model_v4 Photoactive yellow protein	0.142	117	91	491	597	8	124	3.144E-04	175
+DESULFOASV1_0686_hypothetical_protein	AF-Q15119-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q15119-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial	0.123	254	179	624	828	110	363	4.354E-07	175
+DESULFOASV1_0686_hypothetical_protein	AF-Q6BJW8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6BJW8-F1-model_v4 Glucose starvation modulator protein 1	0.137	138	102	367	485	397	534	4.858E-04	174
+DESULFOASV1_0686_hypothetical_protein	AF-A6ZQM3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6ZQM3-F1-model_v4 Glucose starvation modulator protein 1	0.114	154	105	116	234	460	613	3.568E-05	174
+DESULFOASV1_0686_hypothetical_protein	AF-O69138-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O69138-F1-model_v4 Photoactive yellow protein	0.183	118	92	1	114	6	123	5.222E-05	173
+DESULFOASV1_0686_hypothetical_protein	AF-Q64536-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q64536-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial	0.128	251	175	627	828	113	363	9.324E-07	173
+DESULFOASV1_0686_hypothetical_protein	AF-Q63065-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q63065-F1-model_v4 [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial	0.130	255	181	620	828	136	390	8.363E-07	172
+DESULFOASV1_0686_hypothetical_protein	AF-A7MRY4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7MRY4-F1-model_v4 Autoinducer 1 sensor kinase/phosphatase LuxN	0.104	403	260	426	828	392	682	2.716E-08	172
+DESULFOASV1_0686_hypothetical_protein	AF-P0C5S6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0C5S6-F1-model_v4 Autoinducer 1 sensor kinase/phosphatase LuxN	0.123	403	254	426	828	392	682	3.377E-08	172
+DESULFOASV1_0686_hypothetical_protein	AF-O61734-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O61734-F1-model_v4 Protein cycle	0.111	379	320	235	595	32	410	6.722E-10	171
+DESULFOASV1_0686_hypothetical_protein	AF-B0R9Z1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B0R9Z1-F1-model_v4 Transducer protein Car	0.139	217	162	486	702	42	230	6.978E-06	171
+DESULFOASV1_0686_hypothetical_protein	AF-P94513-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P94513-F1-model_v4 Sensor protein LytS	0.133	331	285	496	826	248	577	2.716E-08	170
+DESULFOASV1_0686_hypothetical_protein	AF-P21813-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P21813-F1-model_v4 Chemotaxis protein CheA	0.139	240	189	609	828	267	506	4.277E-06	168
+DESULFOASV1_0686_hypothetical_protein	AF-P09384-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P09384-F1-model_v4 Chemotaxis protein CheA	0.138	240	189	609	828	286	525	1.365E-06	166
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CU03-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CU03-F1-model_v4 Uncharacterized sensor-like histidine kinase SE_0166	0.096	431	364	425	828	82	512	1.822E-10	165
+DESULFOASV1_0686_hypothetical_protein	AF-Q7XX84-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7XX84-F1-model_v4 Ethylene receptor 2	0.119	466	401	360	825	156	611	2.573E-08	165
+DESULFOASV1_0686_hypothetical_protein	AF-Q4PJW2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4PJW2-F1-model_v4 Nuclear receptor coactivator 1	0.136	360	290	236	595	26	362	4.120E-10	163
+DESULFOASV1_0686_hypothetical_protein	AF-Q8W420-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8W420-F1-model_v4 Adagio protein 2	0.194	111	78	137	234	45	155	5.719E-04	160
+DESULFOASV1_0686_hypothetical_protein	AF-Q9P4U6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9P4U6-F1-model_v4 Two-component system protein B	0.099	753	522	247	826	94	846	2.918E-12	160
+DESULFOASV1_0686_hypothetical_protein	AF-P39928-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P39928-F1-model_v4 Osmosensing histidine protein kinase SLN1	0.094	822	641	119	826	104	925	3.762E-11	160
+DESULFOASV1_0686_hypothetical_protein	AF-Q6T5K3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6T5K3-F1-model_v4 Ethylene receptor 4	0.095	439	310	487	829	190	628	3.765E-08	159
+DESULFOASV1_0686_hypothetical_protein	AF-P96685-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P96685-F1-model_v4 Sensor histidine kinase YdfH	0.163	232	183	598	829	183	402	1.098E-06	157
+DESULFOASV1_0686_hypothetical_protein	AF-P96123-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P96123-F1-model_v4 Chemotaxis protein CheA	0.148	258	193	601	828	403	660	1.292E-06	157
+DESULFOASV1_0686_hypothetical_protein	AF-Q99WZ9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99WZ9-F1-model_v4 Sensor protein kinase HptS	0.096	432	365	425	829	82	513	1.440E-09	156
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HKE1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HKE1-F1-model_v4 Uncharacterized sensor-like histidine kinase SERP2405	0.098	431	364	425	828	82	512	5.408E-10	155
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A7X8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A7X8-F1-model_v4 Sensor protein kinase HptS	0.094	432	366	425	829	82	513	1.363E-09	155
+DESULFOASV1_0686_hypothetical_protein	AF-Q08217-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q08217-F1-model_v4 Serine/threonine-protein kinase PSK2	0.086	365	309	257	595	285	649	3.083E-09	155
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GK92-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GK92-F1-model_v4 Sensor protein kinase HptS	0.101	432	363	425	829	82	513	2.107E-09	153
+DESULFOASV1_0686_hypothetical_protein	AF-Q3U1U7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q3U1U7-F1-model_v4 Aryl hydrocarbon receptor repressor	0.142	168	95	378	489	111	278	7.238E-05	153
+DESULFOASV1_0686_hypothetical_protein	AF-Q04855-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q04855-F1-model_v4 Uncharacterized protein AZC_3085	0.118	465	336	137	518	44	508	7.362E-09	153
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FK46-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FK46-F1-model_v4 Sensor protein kinase HptS	0.109	432	360	425	829	82	513	2.349E-09	152
+DESULFOASV1_0686_hypothetical_protein	AF-A3LWY2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A3LWY2-F1-model_v4 Glucose starvation modulator protein 1	0.136	154	123	343	485	357	510	2.820E-04	152
+DESULFOASV1_0686_hypothetical_protein	AF-A0A0H2XCS3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0A0H2XCS3-F1-model_v4 Bacteriophytochrome	0.114	606	408	136	597	27	632	9.485E-11	152
+DESULFOASV1_0686_hypothetical_protein	AF-B0R4J9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B0R4J9-F1-model_v4 Chemotaxis protein CheA	0.131	235	182	618	828	306	540	1.021E-05	152
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YV55-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YV55-F1-model_v4 Sensor protein kinase HptS	0.109	432	360	425	829	82	513	4.047E-09	150
+DESULFOASV1_0686_hypothetical_protein	AF-Q7F239-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7F239-F1-model_v4 Ethylene receptor 4	0.102	469	307	487	829	160	628	2.573E-08	150
+DESULFOASV1_0686_hypothetical_protein	AF-Q8EJM6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8EJM6-F1-model_v4 Cyclic di-GMP phosphodiesterase PdeB	0.114	574	507	4	576	73	646	3.026E-11	149
+DESULFOASV1_0686_hypothetical_protein	AF-P0A2D7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A2D7-F1-model_v4 Transcriptional regulatory protein TyrR	0.115	192	164	175	366	6	191	7.780E-06	147
+DESULFOASV1_0686_hypothetical_protein	AF-Q2G1E0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2G1E0-F1-model_v4 Sensor protein kinase HptS	0.103	432	362	425	829	82	513	5.923E-09	147
+DESULFOASV1_0686_hypothetical_protein	AF-P0A2D8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P0A2D8-F1-model_v4 Transcriptional regulatory protein TyrR	0.119	192	163	175	366	6	191	7.780E-06	146
+DESULFOASV1_0686_hypothetical_protein	AF-P07604-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P07604-F1-model_v4 Transcriptional regulatory protein TyrR	0.123	190	162	175	364	6	191	6.608E-06	146
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NYJ8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NYJ8-F1-model_v4 Sensor protein kinase HptS	0.104	432	362	425	829	82	513	5.923E-09	146
+DESULFOASV1_0686_hypothetical_protein	AF-P25848-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P25848-F1-model_v4 Light-sensor Protein kinase	0.101	1020	740	2	825	56	1075	6.844E-11	141
+DESULFOASV1_0686_hypothetical_protein	AF-O83174-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O83174-F1-model_v4 Uncharacterized protein TP_0138	0.205	110	74	7	116	140	233	6.039E-04	140
+DESULFOASV1_0686_hypothetical_protein	AF-O54426-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O54426-F1-model_v4 Transcriptional regulatory protein TyrR	0.120	192	162	175	366	6	190	2.071E-05	139
+DESULFOASV1_0686_hypothetical_protein	AF-A1C602-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1C602-F1-model_v4 Transcription activator of gluconeogenesis acuK	0.096	196	102	246	359	492	687	1.040E-03	139
+DESULFOASV1_0686_hypothetical_protein	AF-A1DG01-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A1DG01-F1-model_v4 Transcription activator of gluconeogenesis acuK	0.091	196	103	246	359	485	680	1.998E-03	132
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ZIB7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ZIB7-F1-model_v4 Transcriptional regulatory protein TyrR	0.145	204	167	298	501	6	201	1.340E-05	129
+DESULFOASV1_0686_hypothetical_protein	AF-B8LT44-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B8LT44-F1-model_v4 Transcription activator of gluconeogenesis TSTA_069700	0.080	199	104	246	359	462	660	2.484E-03	129
+DESULFOASV1_0686_hypothetical_protein	AF-O34311-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O34311-F1-model_v4 Signaling protein YkoW	0.128	422	364	236	657	241	659	1.389E-07	128
+DESULFOASV1_0686_hypothetical_protein	AF-P31374-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P31374-F1-model_v4 Serine/threonine-protein kinase PSK1	0.089	414	307	258	595	458	871	3.566E-08	128
+DESULFOASV1_0686_hypothetical_protein	AF-Q46802-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q46802-F1-model_v4 Putative uric acid sigma-54-dependent transcriptional regulator UacR	0.108	242	212	117	358	12	250	1.224E-06	127
+DESULFOASV1_0686_hypothetical_protein	AF-P59111-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P59111-F1-model_v4 Potassium voltage-gated channel subfamily H member 8	0.119	367	289	375	703	16	382	9.845E-07	127
+DESULFOASV1_0686_hypothetical_protein	AF-Q2UMM2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2UMM2-F1-model_v4 Transcription activator of gluconeogenesis acuK	0.096	195	105	246	362	493	687	4.053E-03	126
+DESULFOASV1_0686_hypothetical_protein	AF-Q75NT5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q75NT5-F1-model_v4 Aryl hydrocarbon receptor repressor	0.123	243	185	376	587	109	351	4.201E-05	120
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ABX9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ABX9-F1-model_v4 Uncharacterized signaling protein CC_0091	0.143	334	212	487	820	248	495	6.259E-06	120
+DESULFOASV1_0686_hypothetical_protein	AF-Q9Z7F1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9Z7F1-F1-model_v4 UPF0242 protein CPn_0755/CP_1117/CPj0755/CpB0783	0.114	120	102	372	491	285	400	1.416E-02	119
+DESULFOASV1_0686_hypothetical_protein	AF-A5DU46-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5DU46-F1-model_v4 Glucose starvation modulator protein 1	0.123	179	101	119	234	518	696	2.623E-03	118
+DESULFOASV1_0686_hypothetical_protein	AF-Q8IV76-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8IV76-F1-model_v4 Circadian clock protein PASD1	0.104	163	114	375	502	32	194	3.261E-03	118
+DESULFOASV1_0686_hypothetical_protein	AF-P59707-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P59707-F1-model_v4 UPF0242 protein CCA_01002	0.127	116	100	119	234	279	393	1.963E-02	117
+DESULFOASV1_0686_hypothetical_protein	AF-Q0CHR0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0CHR0-F1-model_v4 Transcription activator of gluconeogenesis acuK	0.126	195	98	122	234	495	689	1.366E-03	116
+DESULFOASV1_0686_hypothetical_protein	AF-P9WLZ6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WLZ6-F1-model_v4 Multidomain regulatory protein MT1410	0.094	578	466	250	827	15	529	3.377E-08	115
+DESULFOASV1_0686_hypothetical_protein	AF-P38938-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P38938-F1-model_v4 Serine/threonine-protein kinase cek1	0.133	142	96	373	484	19	160	2.925E-03	115
+DESULFOASV1_0686_hypothetical_protein	AF-P64626-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P64626-F1-model_v4 Uncharacterized protein YheO	0.141	129	98	115	243	29	143	3.088E-03	113
+DESULFOASV1_0686_hypothetical_protein	AF-P64625-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P64625-F1-model_v4 Uncharacterized protein YheO	0.141	129	98	115	243	29	143	3.088E-03	113
+DESULFOASV1_0686_hypothetical_protein	AF-P05837-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P05837-F1-model_v4 Protein TraJ	0.086	121	103	1	114	4	124	1.203E-02	112
+DESULFOASV1_0686_hypothetical_protein	AF-B6HSQ3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B6HSQ3-F1-model_v4 Transcription activator of gluconeogenesis Pc22g08580	0.111	196	100	122	234	497	692	2.228E-03	112
+DESULFOASV1_0686_hypothetical_protein	AF-B2AR36-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B2AR36-F1-model_v4 Transcription activator of gluconeogenesis PODANS_4_8760	0.084	211	104	246	359	459	669	8.221E-03	110
+DESULFOASV1_0686_hypothetical_protein	AF-Q4WHD1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4WHD1-F1-model_v4 Transcription activator of gluconeogenesis acuK	0.116	196	99	122	234	485	680	2.925E-03	110
+DESULFOASV1_0686_hypothetical_protein	AF-Q52880-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q52880-F1-model_v4 Chemotaxis protein CheA	0.130	444	371	386	829	181	607	1.467E-07	110
+DESULFOASV1_0686_hypothetical_protein	AF-Q00738-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q00738-F1-model_v4 Protein TraJ	0.100	174	136	238	411	7	158	3.839E-03	109
+DESULFOASV1_0686_hypothetical_protein	AF-O84621-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O84621-F1-model_v4 UPF0242 protein CT_616	0.135	135	107	360	484	283	417	1.203E-02	109
+DESULFOASV1_0686_hypothetical_protein	AF-P9WLZ7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WLZ7-F1-model_v4 Multidomain regulatory protein Rv1364c	0.107	578	459	250	827	15	529	8.514E-08	109
+DESULFOASV1_0686_hypothetical_protein	AF-Q6HP15-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6HP15-F1-model_v4 Probable methyl-accepting chemotaxis protein BT9727_0355	0.117	111	94	21	131	98	205	2.440E-02	108
+DESULFOASV1_0686_hypothetical_protein	AF-Q5A872-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5A872-F1-model_v4 Histidine protein kinase SLN1	0.087	580	495	237	779	83	662	3.377E-08	107
+DESULFOASV1_0686_hypothetical_protein	AF-Q9HXE2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9HXE2-F1-model_v4 Transcriptional regulator DauR	0.181	120	87	251	370	11	117	7.786E-03	106
+DESULFOASV1_0686_hypothetical_protein	AF-P64624-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P64624-F1-model_v4 Uncharacterized protein YheO	0.141	129	98	115	243	29	143	5.932E-03	106
+DESULFOASV1_0686_hypothetical_protein	AF-Q2LTE1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2LTE1-F1-model_v4 Citrate (Re)-synthase	0.130	163	124	117	259	466	628	1.160E-03	106
+DESULFOASV1_0686_hypothetical_protein	AF-Q5KXJ2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5KXJ2-F1-model_v4 Anti-sigma F factor	0.148	153	118	676	828	1	139	1.998E-03	105
+DESULFOASV1_0686_hypothetical_protein	AF-Q63472-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q63472-F1-model_v4 Potassium voltage-gated channel subfamily H member 1	0.096	415	328	377	740	19	433	2.351E-06	105
+DESULFOASV1_0686_hypothetical_protein	AF-P44761-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P44761-F1-model_v4 Uncharacterized protein HI_0575	0.121	117	91	120	236	18	121	9.679E-03	104
+DESULFOASV1_0686_hypothetical_protein	AF-C5PHH6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C5PHH6-F1-model_v4 Transcription activator of gluconeogenesis CPC735_053490	0.057	227	107	246	359	485	711	1.963E-02	104
+DESULFOASV1_0686_hypothetical_protein	AF-O06477-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O06477-F1-model_v4 Putative sensory transducer protein YfmS	0.137	135	102	121	255	17	135	8.221E-03	103
+DESULFOASV1_0686_hypothetical_protein	AF-C4JFE4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C4JFE4-F1-model_v4 Transcription activator of gluconeogenesis UREG_00958	0.065	228	106	246	359	485	712	1.859E-02	101
+DESULFOASV1_0686_hypothetical_protein	AF-P13733-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P13733-F1-model_v4 Uncharacterized protein ML1796	0.156	102	74	296	384	10	111	2.873E-02	100
+DESULFOASV1_0686_hypothetical_protein	AF-P37979-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P37979-F1-model_v4 Protein IcfG	0.127	445	378	362	806	56	489	2.573E-08	100
+DESULFOASV1_0686_hypothetical_protein	AF-E4UP58-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E4UP58-F1-model_v4 Transcription activator of gluconeogenesis MGYG_02011	0.064	230	106	246	359	484	713	2.577E-02	100
+DESULFOASV1_0686_hypothetical_protein	AF-O32724-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O32724-F1-model_v4 Anti-sigma F factor	0.106	154	122	676	829	3	140	5.618E-03	98
+DESULFOASV1_0686_hypothetical_protein	AF-Q5WH26-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5WH26-F1-model_v4 Anti-sigma F factor	0.146	154	119	676	829	1	140	6.263E-03	96
+DESULFOASV1_0686_hypothetical_protein	AF-D4D2Y6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-D4D2Y6-F1-model_v4 Transcription activator of gluconeogenesis TRV_01442	0.064	248	120	242	370	479	726	2.311E-02	96
+DESULFOASV1_0686_hypothetical_protein	AF-A7GS97-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A7GS97-F1-model_v4 Anti-sigma F factor	0.149	154	118	676	829	1	140	7.374E-03	95
+DESULFOASV1_0686_hypothetical_protein	AF-Q9PJC5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9PJC5-F1-model_v4 UPF0242 protein TC_0906	0.144	122	102	113	234	288	407	5.518E-02	95
+DESULFOASV1_0686_hypothetical_protein	AF-P43565-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P43565-F1-model_v4 Serine/threonine-protein kinase RIM15	0.089	291	254	373	663	40	319	6.039E-04	95
+DESULFOASV1_0686_hypothetical_protein	AF-Q9KFF1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9KFF1-F1-model_v4 Serine-protein kinase RsbW	0.140	154	119	676	829	7	145	3.636E-03	93
+DESULFOASV1_0686_hypothetical_protein	AF-C5FP02-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C5FP02-F1-model_v4 Transcription activator of gluconeogenesis MCYG_04674	0.059	235	112	242	361	483	717	4.949E-02	93
+DESULFOASV1_0686_hypothetical_protein	AF-B7GKG6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B7GKG6-F1-model_v4 Anti-sigma F factor	0.131	153	120	676	828	1	139	9.679E-03	91
+DESULFOASV1_0686_hypothetical_protein	AF-C1G966-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C1G966-F1-model_v4 Transcription activator of gluconeogenesis PADG_03802	0.051	270	107	246	359	543	812	3.982E-02	89
+DESULFOASV1_0686_hypothetical_protein	AF-Q8TFG6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8TFG6-F1-model_v4 Serine/threonine-protein kinase ppk18	0.091	298	266	370	667	3	296	6.733E-04	89
+DESULFOASV1_0686_hypothetical_protein	AF-Q0TNR1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q0TNR1-F1-model_v4 Anti-sigma F factor	0.118	154	121	676	829	3	140	2.440E-02	86
+DESULFOASV1_0686_hypothetical_protein	AF-C1GR85-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C1GR85-F1-model_v4 Transcription activator of gluconeogenesis PAAG_01030	0.071	264	105	246	359	543	806	4.204E-02	85
+DESULFOASV1_0686_hypothetical_protein	AF-A0PZS6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0PZS6-F1-model_v4 Anti-sigma F factor	0.103	155	126	675	829	1	141	2.311E-02	84
+DESULFOASV1_0686_hypothetical_protein	AF-P37484-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P37484-F1-model_v4 Cyclic-di-AMP phosphodiesterase GdpP	0.102	389	283	362	750	57	372	2.871E-05	84
+DESULFOASV1_0686_hypothetical_protein	AF-A2Z8L4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2Z8L4-F1-model_v4 Homeobox-leucine zipper protein HOX9	0.095	546	404	50	595	388	834	3.836E-06	84
+DESULFOASV1_0686_hypothetical_protein	AF-Q2RNI6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2RNI6-F1-model_v4 CO-responsive transcriptional regulator RcoM	0.102	216	184	129	334	5	220	7.109E-04	81
+DESULFOASV1_0686_hypothetical_protein	AF-Q9WYR0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9WYR0-F1-model_v4 Methyl-accepting chemotaxis protein 1	0.115	367	298	375	741	82	419	1.637E-04	78
+DESULFOASV1_0686_hypothetical_protein	AF-P06626-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P06626-F1-model_v4 Protein TraJ	0.109	148	130	238	385	4	150	2.721E-02	77
+DESULFOASV1_0686_hypothetical_protein	AF-A2WLR5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2WLR5-F1-model_v4 Homeobox-leucine zipper protein HOX29	0.101	534	455	89	595	322	855	2.187E-05	77
+DESULFOASV1_0686_hypothetical_protein	AF-A2ZMN9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2ZMN9-F1-model_v4 Homeobox-leucine zipper protein HOX33	0.090	567	369	79	485	289	855	1.858E-05	75
+DESULFOASV1_0686_hypothetical_protein	AF-A0A0H3GCG4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A0A0H3GCG4-F1-model_v4 Cyclic-di-AMP phosphodiesterase PdeA	0.118	262	173	117	378	64	260	3.144E-04	74
+DESULFOASV1_0686_hypothetical_protein	AF-Q2QM96-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2QM96-F1-model_v4 Homeobox-leucine zipper protein HOX33	0.088	567	370	79	485	289	855	3.201E-05	73
+DESULFOASV1_0686_hypothetical_protein	AF-O31522-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O31522-F1-model_v4 HTH-type transcriptional regulator YesS	0.092	471	341	358	828	95	470	2.309E-05	72
+DESULFOASV1_0686_hypothetical_protein	AF-A2XBL9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A2XBL9-F1-model_v4 Homeobox-leucine zipper protein HOX10	0.100	555	415	41	595	372	833	4.436E-05	72
+DESULFOASV1_0686_hypothetical_protein	AF-A4ITV2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A4ITV2-F1-model_v4 Cyclic-di-AMP phosphodiesterase GdpP	0.096	591	518	235	825	59	632	1.962E-05	69
+DESULFOASV1_0686_hypothetical_protein	AF-Q6TAQ6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6TAQ6-F1-model_v4 Homeobox-leucine zipper protein HOX10	0.070	632	476	83	595	202	833	1.415E-05	66
+DESULFOASV1_0686_hypothetical_protein	AF-C0NCM1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C0NCM1-F1-model_v4 Transcription activator of gluconeogenesis HCBG_00867	0.070	268	104	122	234	506	773	1.469E-01	62
+DESULFOASV1_0686_hypothetical_protein	AF-P39209-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P39209-F1-model_v4 Methyl-accepting chemotaxis protein TlpC	0.084	277	218	426	702	50	288	1.139E-02	61
+DESULFOASV1_0686_hypothetical_protein	AF-P43524-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P43524-F1-model_v4 Adenylate cyclase	0.093	424	304	488	823	77	500	1.366E-03	59
+DESULFOASV1_0686_hypothetical_protein	AF-Q88NI1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q88NI1-F1-model_v4 Methyl-accepting chemotaxis protein McpU	0.085	367	331	377	743	107	469	1.225E-03	59
+DESULFOASV1_0686_hypothetical_protein	AF-Q9I0I6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9I0I6-F1-model_v4 Methyl-accepting chemotaxis protein PA2652	0.109	287	227	488	743	60	346	2.440E-02	58
+DESULFOASV1_0686_hypothetical_protein	AF-P39360-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P39360-F1-model_v4 Uncharacterized HTH-type transcriptional regulator YjhI	0.092	247	217	1	247	1	240	1.761E-02	56
+DESULFOASV1_0686_hypothetical_protein	AF-Q9RXY7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9RXY7-F1-model_v4 Radiation response metalloprotease IrrE	0.138	124	102	129	247	196	319	2.673E-01	56
+DESULFOASV1_0686_hypothetical_protein	AF-O85057-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O85057-F1-model_v4 Limonene hydroxylase	0.136	143	118	445	587	77	213	1.579E-02	56
+DESULFOASV1_0686_hypothetical_protein	AF-A6SP81-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6SP81-F1-model_v4 Transcription activator of gluconeogenesis BC1G_14637	0.119	228	183	7	234	483	691	2.770E-03	52
+DESULFOASV1_0686_hypothetical_protein	AF-Q5A849-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5A849-F1-model_v4 Hyphally regulated cell wall protein 4	0.136	44	37	442	485	343	386	2.486E+00	51
+DESULFOASV1_0686_hypothetical_protein	AF-Q6P9P8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6P9P8-F1-model_v4 DENN domain-containing protein 2C	0.139	79	64	427	501	521	599	6.381E-01	47
+DESULFOASV1_0686_hypothetical_protein	AF-Q73SS7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q73SS7-F1-model_v4 UPF0336 protein MAP_3996c	0.125	56	46	79	131	110	165	1.294E+00	46
+DESULFOASV1_0686_hypothetical_protein	AF-E7FA21-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E7FA21-F1-model_v4 Guanine nucleotide exchange protein smcr8a	0.108	145	117	1	132	34	178	3.322E-01	43
+DESULFOASV1_0686_hypothetical_protein	AF-P9WFK2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WFK2-F1-model_v4 UPF0336 protein MT0525.1	0.142	56	45	79	131	110	165	1.894E+00	42
+DESULFOASV1_0686_hypothetical_protein	AF-Q7RUA4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7RUA4-F1-model_v4 Transcription activator of gluconeogenesis NCU03938	0.153	260	203	119	359	470	729	1.139E-02	42
+DESULFOASV1_0686_hypothetical_protein	AF-O29679-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O29679-F1-model_v4 Uncharacterized protein AF_0576	0.135	74	57	64	130	11	84	1.099E+00	40
+DESULFOASV1_0686_hypothetical_protein	AF-Q9TXP3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9TXP3-F1-model_v4 Myotubularin-related protein 5	0.157	136	82	443	578	68	165	1.248E-01	39
+DESULFOASV1_0686_hypothetical_protein	AF-Q47LH3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q47LH3-F1-model_v4 UPF0336 protein Tfu_2666	0.057	35	31	79	112	107	141	4.776E+00	38
+DESULFOASV1_0686_hypothetical_protein	AF-Q5AAL9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5AAL9-F1-model_v4 Cell wall protein IFF4	0.146	40	32	194	233	345	383	2.927E+00	38
+DESULFOASV1_0686_hypothetical_protein	AF-Q91VV4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q91VV4-F1-model_v4 DENN domain-containing protein 2D	0.108	157	119	424	580	85	218	1.730E-01	37
+DESULFOASV1_0686_hypothetical_protein	AF-A6R213-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A6R213-F1-model_v4 Transcription activator of gluconeogenesis HCAG_03671	0.100	267	204	7	234	508	774	1.391E-01	37
+DESULFOASV1_0686_hypothetical_protein	AF-A4FPR5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A4FPR5-F1-model_v4 UPF0336 protein SACE_6876	0.129	31	26	82	112	111	141	4.057E+00	36
+DESULFOASV1_0686_hypothetical_protein	AF-O07293-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O07293-F1-model_v4 Beta-lactamase OXA-18	0.189	58	43	442	495	207	264	1.161E+00	35
+DESULFOASV1_0686_hypothetical_protein	AF-Q9H6A0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9H6A0-F1-model_v4 DENN domain-containing protein 2D	0.100	195	145	386	580	57	218	2.270E-01	35
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A883-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A883-F1-model_v4 Uncharacterized lipoprotein SA0096	0.090	166	148	194	359	86	249	5.226E-02	33
+DESULFOASV1_0686_hypothetical_protein	AF-Q9JVU8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9JVU8-F1-model_v4 Protein-export protein SecB	0.130	46	36	441	482	33	78	3.638E+00	32
+DESULFOASV1_0686_hypothetical_protein	AF-B8GW20-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B8GW20-F1-model_v4 Protein-export protein SecB	0.120	74	55	194	257	53	126	1.041E+00	32
+DESULFOASV1_0686_hypothetical_protein	AF-B4RBG0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B4RBG0-F1-model_v4 Protein-export protein SecB	0.156	60	48	443	500	53	112	1.699E+00	32
+DESULFOASV1_0686_hypothetical_protein	AF-Q08457-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q08457-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.065	195	142	548	742	73	225	4.130E-01	32
+DESULFOASV1_0686_hypothetical_protein	AF-Q68D51-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q68D51-F1-model_v4 DENN domain-containing protein 2C	0.081	206	162	375	580	479	655	4.604E-01	32
+DESULFOASV1_0686_hypothetical_protein	AF-Q99XB4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99XB4-F1-model_v4 Uncharacterized lipoprotein SAV0098	0.079	164	150	196	359	88	251	6.860E-02	31
+DESULFOASV1_0686_hypothetical_protein	AF-E7KIF0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E7KIF0-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.065	195	142	548	742	73	225	5.421E-01	31
+DESULFOASV1_0686_hypothetical_protein	AF-Q49127-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q49127-F1-model_v4 Methylamine utilization protein MauJ	0.107	131	88	3	133	14	113	1.609E+00	30
+DESULFOASV1_0686_hypothetical_protein	AF-Q8GW96-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8GW96-F1-model_v4 AAA-ATPase At2g18193	0.118	193	168	367	559	39	230	5.421E-01	30
+DESULFOASV1_0686_hypothetical_protein	AF-Q757Y7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q757Y7-F1-model_v4 Protein LST4	0.083	246	219	502	741	69	314	2.673E-01	30
+DESULFOASV1_0686_hypothetical_protein	AF-Q99XB2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99XB2-F1-model_v4 Uncharacterized lipoprotein SAV0100	0.085	291	149	194	484	86	249	3.571E-02	29
+DESULFOASV1_0686_hypothetical_protein	AF-E7QKN3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E7QKN3-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.090	195	138	548	742	73	225	7.933E-01	29
+DESULFOASV1_0686_hypothetical_protein	AF-O74794-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O74794-F1-model_v4 Putative holocytochrome-c synthase	0.134	89	66	299	375	288	376	4.283E+00	29
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A885-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A885-F1-model_v4 Uncharacterized lipoprotein SA0094	0.085	164	149	196	359	88	251	1.119E-01	28
+DESULFOASV1_0686_hypothetical_protein	AF-B3LJA9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B3LJA9-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.099	195	137	548	742	73	225	6.381E-01	28
+DESULFOASV1_0686_hypothetical_protein	AF-C7GX58-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C7GX58-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.087	179	125	564	742	88	225	7.115E-01	28
+DESULFOASV1_0686_hypothetical_protein	AF-P16560-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P16560-F1-model_v4 Granaticin polyketide synthase bifunctional cyclase/dehydratase	0.116	282	175	299	497	27	308	8.076E-02	28
+DESULFOASV1_0686_hypothetical_protein	AF-P78524-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P78524-F1-model_v4 DENN domain-containing protein 2B	0.093	195	145	386	580	700	860	9.339E-01	28
+DESULFOASV1_0686_hypothetical_protein	AF-Q99XB3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99XB3-F1-model_v4 Uncharacterized lipoprotein SAV0099	0.086	163	140	442	595	84	246	5.421E-01	27
+DESULFOASV1_0686_hypothetical_protein	AF-Q2G1P8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2G1P8-F1-model_v4 Uncharacterized lipoprotein SAOUHSC_00055	0.094	289	146	196	484	88	249	3.033E-02	27
+DESULFOASV1_0686_hypothetical_protein	AF-C8ZI21-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C8ZI21-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.094	195	138	548	742	73	225	8.376E-01	27
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FE15-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FE15-F1-model_v4 Uncharacterized lipoprotein SAUSA300_2428/SAUSA300_2429	0.086	293	151	194	486	90	255	4.949E-02	27
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HD65-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HD65-F1-model_v4 Uncharacterized lipoprotein SACOL2497	0.086	293	151	194	486	90	255	4.204E-02	27
+DESULFOASV1_0686_hypothetical_protein	AF-C5GF27-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-C5GF27-F1-model_v4 Transcription activator of gluconeogenesis BDCG_02812	0.093	273	206	7	234	505	777	3.704E-01	27
+DESULFOASV1_0686_hypothetical_protein	AF-Q924W7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q924W7-F1-model_v4 DENN domain-containing protein 2B	0.092	205	159	376	580	682	857	9.861E-01	27
+DESULFOASV1_0686_hypothetical_protein	AF-P9WFK3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P9WFK3-F1-model_v4 UPF0336 protein Rv0504c	0.122	147	97	21	131	19	165	1.443E+00	26
+DESULFOASV1_0686_hypothetical_protein	AF-O70302-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O70302-F1-model_v4 Cell death activator CIDE-A	0.093	163	143	478	640	47	205	2.625E+00	26
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NYU0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NYU0-F1-model_v4 Uncharacterized lipoprotein MW0073	0.076	294	153	196	489	87	253	1.119E-01	26
+DESULFOASV1_0686_hypothetical_protein	AF-Q936F4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q936F4-F1-model_v4 Uncharacterized lipoprotein in plc 3'region	0.084	289	147	196	484	89	250	5.518E-02	26
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A3L3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A3L3-F1-model_v4 Uncharacterized lipoprotein SA2273	0.059	175	162	319	493	90	262	1.826E-01	26
+DESULFOASV1_0686_hypothetical_protein	AF-Q54WS5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54WS5-F1-model_v4 Probable serine/threonine-protein kinase roco6	0.118	101	74	307	391	1067	1167	3.446E+00	26
+DESULFOASV1_0686_hypothetical_protein	AF-P64726-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-P64726-F1-model_v4 UPF0336 protein Mb0516c	0.119	159	105	12	131	7	165	1.524E+00	25
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GD25-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GD25-F1-model_v4 Uncharacterized lipoprotein SAS0074	0.079	294	153	196	489	87	253	1.391E-01	25
+DESULFOASV1_0686_hypothetical_protein	AF-Q936F2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q936F2-F1-model_v4 Uncharacterized lipoprotein in plc 3'region	0.057	291	154	196	486	89	252	1.004E-01	25
+DESULFOASV1_0686_hypothetical_protein	AF-E7M099-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E7M099-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.082	179	150	564	742	62	225	7.513E-01	25
+DESULFOASV1_0686_hypothetical_protein	AF-Q99WG1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99WG1-F1-model_v4 Uncharacterized lipoprotein SAV0441	0.102	166	137	442	595	90	255	9.861E-01	25
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A7G2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A7G2-F1-model_v4 Uncharacterized lipoprotein SA0401	0.110	162	136	442	595	90	251	1.041E+00	25
+DESULFOASV1_0686_hypothetical_protein	AF-O60543-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O60543-F1-model_v4 Cell death activator CIDE-A	0.100	163	146	478	640	47	209	2.355E+00	24
+DESULFOASV1_0686_hypothetical_protein	AF-Q759S0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q759S0-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.075	53	45	446	498	92	141	8.688E+00	24
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HJS0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HJS0-F1-model_v4 Uncharacterized lipoprotein SACOL0081/SACOL0082	0.076	291	151	196	486	89	252	1.730E-01	23
+DESULFOASV1_0686_hypothetical_protein	AF-B5VRV8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B5VRV8-F1-model_v4 Mitochondrial morphogenesis protein SLD7	0.090	179	149	564	742	62	226	8.844E-01	23
+DESULFOASV1_0686_hypothetical_protein	AF-Q22498-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q22498-F1-model_v4 Probable coatomer subunit gamma	0.091	280	208	78	357	625	854	4.361E-01	23
+DESULFOASV1_0686_hypothetical_protein	AF-O83627-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O83627-F1-model_v4 Uncharacterized protein TP_0618	0.111	159	98	76	234	6	116	3.446E+00	22
+DESULFOASV1_0686_hypothetical_protein	AF-Q9P7J2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9P7J2-F1-model_v4 Xrcc4-like factor 1	0.126	91	71	421	502	54	144	3.091E+00	22
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FKG0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FKG0-F1-model_v4 Uncharacterized lipoprotein SAUSA300_0101	0.045	166	156	194	359	87	250	7.933E-01	22
+DESULFOASV1_0686_hypothetical_protein	AF-Q682V0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q682V0-F1-model_v4 DNA repair protein XRCC4	0.107	259	179	443	701	20	220	1.524E+00	22
+DESULFOASV1_0686_hypothetical_protein	AF-F4IQG2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-F4IQG2-F1-model_v4 AAA-ATPase At2g18190	0.102	200	172	117	316	40	231	2.355E+00	22
+DESULFOASV1_0686_hypothetical_protein	AF-Q8C4S8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8C4S8-F1-model_v4 DENN domain-containing protein 2A	0.125	184	126	300	483	518	662	1.367E+00	22
+DESULFOASV1_0686_hypothetical_protein	AF-Q8MVR1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8MVR1-F1-model_v4 Cyclic GMP-binding protein C	0.069	365	303	465	829	653	978	1.730E-01	22
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NYU1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NYU1-F1-model_v4 Uncharacterized lipoprotein MW0072	0.067	291	152	194	484	87	250	5.724E-01	21
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HJS2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HJS2-F1-model_v4 Uncharacterized lipoprotein SACOL0080	0.071	291	151	194	484	87	250	2.980E-01	21
+DESULFOASV1_0686_hypothetical_protein	AF-Q2G1Q0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2G1Q0-F1-model_v4 Uncharacterized lipoprotein SAOUHSC_00053	0.054	291	154	194	484	87	250	6.381E-01	21
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HIN4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HIN4-F1-model_v4 Uncharacterized lipoprotein SACOL0483	0.050	291	155	194	484	89	252	6.044E-01	21
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A7F9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A7F9-F1-model_v4 Uncharacterized lipoprotein SA0404	0.065	289	151	196	484	93	254	3.704E-01	21
+DESULFOASV1_0686_hypothetical_protein	AF-Q6DKD7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6DKD7-F1-model_v4 Coatomer subunit gamma-2	0.094	140	123	458	597	722	858	3.091E+00	21
+DESULFOASV1_0686_hypothetical_protein	AF-Q9QZE5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9QZE5-F1-model_v4 Coatomer subunit gamma-1	0.083	140	127	458	597	722	860	3.446E+00	21
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GD26-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GD26-F1-model_v4 Uncharacterized lipoprotein SAS0073	0.050	291	155	194	484	87	250	8.844E-01	20
+DESULFOASV1_0686_hypothetical_protein	AF-Q99XB5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99XB5-F1-model_v4 Uncharacterized lipoprotein SAV0097	0.061	289	151	196	484	89	250	5.421E-01	20
+DESULFOASV1_0686_hypothetical_protein	AF-Q9VAH9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9VAH9-F1-model_v4 Integrator complex subunit 11	0.097	70	61	429	498	526	593	6.989E+00	20
+DESULFOASV1_0686_hypothetical_protein	AF-Q8K3G9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8K3G9-F1-model_v4 DCC-interacting protein 13-beta	0.086	58	35	323	361	541	598	6.989E+00	20
+DESULFOASV1_0686_hypothetical_protein	AF-Q4AEF8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q4AEF8-F1-model_v4 Coatomer subunit gamma-1	0.077	140	127	458	597	722	860	5.043E+00	20
+DESULFOASV1_0686_hypothetical_protein	AF-Q9Y678-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9Y678-F1-model_v4 Coatomer subunit gamma-1	0.071	141	129	458	598	722	861	4.776E+00	20
+DESULFOASV1_0686_hypothetical_protein	AF-O81742-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-O81742-F1-model_v4 Beta-adaptin-like protein C	0.090	195	141	79	234	680	874	1.699E+00	20
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FKG1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FKG1-F1-model_v4 Uncharacterized lipoprotein SAUSA300_0100	0.046	294	158	196	489	88	254	6.381E-01	19
+DESULFOASV1_0686_hypothetical_protein	AF-A5HNV6-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-A5HNV6-F1-model_v4 Inactive S-adenosylmethionine decarboxylase prozyme	0.070	364	214	261	624	38	268	4.862E-01	19
+DESULFOASV1_0686_hypothetical_protein	AF-B4F779-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-B4F779-F1-model_v4 DCC-interacting protein 13-beta	0.086	58	35	323	361	541	598	7.380E+00	19
+DESULFOASV1_0686_hypothetical_protein	AF-Q6Z382-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6Z382-F1-model_v4 Coatomer subunit gamma-2	0.084	303	241	299	601	618	881	5.724E-01	19
+DESULFOASV1_0686_hypothetical_protein	AF-Q9SUS3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9SUS3-F1-model_v4 Beta-adaptin-like protein B	0.082	195	142	79	234	681	875	2.486E+00	19
+DESULFOASV1_0686_hypothetical_protein	AF-Q2G1Q1-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2G1Q1-F1-model_v4 Uncharacterized lipoprotein SAOUHSC_00052	0.066	294	155	196	489	88	254	9.861E-01	18
+DESULFOASV1_0686_hypothetical_protein	AF-Q5HD69-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q5HD69-F1-model_v4 Uncharacterized protein SACOL2493	0.087	299	156	194	492	90	261	1.294E+00	18
+DESULFOASV1_0686_hypothetical_protein	AF-Q6G6I8-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6G6I8-F1-model_v4 Uncharacterized lipoprotein SAS2373	0.087	178	160	319	496	90	265	1.367E+00	18
+DESULFOASV1_0686_hypothetical_protein	AF-Q54X82-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q54X82-F1-model_v4 AP-1 complex subunit beta	0.083	289	191	79	367	725	933	1.041E+00	18
+DESULFOASV1_0686_hypothetical_protein	AF-Q8CU19-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8CU19-F1-model_v4 Uncharacterized lipoprotein SE_0144	0.081	289	148	196	484	84	245	9.339E-01	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GKK2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GKK2-F1-model_v4 Uncharacterized lipoprotein SAR0106	0.051	289	153	196	484	88	249	1.161E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A884-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A884-F1-model_v4 Uncharacterized lipoprotein SA0095	0.066	291	152	194	484	86	249	1.443E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q2YUT0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2YUT0-F1-model_v4 Uncharacterized lipoprotein SAB0040	0.047	289	153	196	484	89	250	1.226E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q2FJJ9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q2FJJ9-F1-model_v4 Uncharacterized lipoprotein SAUSA300_0416	0.043	289	154	196	484	91	252	1.367E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-E7F221-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-E7F221-F1-model_v4 FERM domain-containing protein 8	0.079	152	112	76	227	318	440	6.268E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q66JI9-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q66JI9-F1-model_v4 Coatomer subunit gamma-2	0.106	140	123	458	597	720	858	6.989E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q9PUE4-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9PUE4-F1-model_v4 Coatomer subunit gamma-2	0.099	140	123	458	597	723	859	7.380E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q9ULE3-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q9ULE3-F1-model_v4 DENN domain-containing protein 2A	0.111	281	181	300	580	525	729	3.446E+00	17
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A886-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A886-F1-model_v4 Uncharacterized lipoprotein SA0093	0.074	289	149	196	484	89	250	1.443E+00	16
+DESULFOASV1_0686_hypothetical_protein	AF-Q29AE5-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q29AE5-F1-model_v4 Coatomer subunit gamma	0.083	138	125	458	595	725	861	6.268E+00	16
+DESULFOASV1_0686_hypothetical_protein	AF-Q8NYU2-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8NYU2-F1-model_v4 Uncharacterized lipoprotein MW0071	0.065	294	155	196	489	88	254	2.355E+00	15
+DESULFOASV1_0686_hypothetical_protein	AF-Q6GD27-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q6GD27-F1-model_v4 Uncharacterized lipoprotein SAS0072	0.046	294	158	196	489	88	254	4.057E+00	14
+DESULFOASV1_0686_hypothetical_protein	AF-Q7A887-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q7A887-F1-model_v4 Uncharacterized lipoprotein SA0092	0.095	166	141	439	595	81	246	6.989E+00	14
+DESULFOASV1_0686_hypothetical_protein	AF-Q89AQ0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q89AQ0-F1-model_v4 Peptidoglycan D,D-transpeptidase FtsI	0.088	647	451	182	828	48	543	2.000E+00	12
+DESULFOASV1_0686_hypothetical_protein	AF-Q99WF7-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q99WF7-F1-model_v4 Uncharacterized lipoprotein SAV0445	0.073	173	144	79	234	88	260	8.688E+00	11
+DESULFOASV1_0686_hypothetical_protein	AF-Q8L7S0-F1-model_v4	DESULFOASV1_0686_hypothetical_protein	AF-Q8L7S0-F1-model_v4 Probable ubiquitin-like-specific protease 2B	0.093	308	172	459	766	304	494	6.268E+00	11

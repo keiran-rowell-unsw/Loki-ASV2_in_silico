@@ -1,0 +1,968 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_1245_D-aminoacylase	AF-P94211-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P94211-F1-model_v4 N-acyl-D-glutamate deacylase	0.327	527	316	3	529	7	476	9.631E-51	1733
+DESULFOASV1_1245_D-aminoacylase	AF-P72349-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P72349-F1-model_v4 D-aminoacylase	0.317	527	321	3	529	11	481	5.658E-51	1711
+DESULFOASV1_1245_D-aminoacylase	AF-P94212-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P94212-F1-model_v4 N-acyl-D-aspartate deacylase	0.302	525	327	4	528	17	486	9.684E-48	1551
+DESULFOASV1_1245_D-aminoacylase	AF-P65531-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P65531-F1-model_v4 Uncharacterized protein Mb2937c	0.205	582	417	3	528	18	599	1.414E-34	956
+DESULFOASV1_1245_D-aminoacylase	AF-P9WJH8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P9WJH8-F1-model_v4 Uncharacterized protein MT2981	0.204	582	418	3	528	18	599	4.346E-34	944
+DESULFOASV1_1245_D-aminoacylase	AF-P9WJH9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P9WJH9-F1-model_v4 Uncharacterized protein Rv2913c	0.200	582	420	3	528	18	599	4.097E-34	941
+DESULFOASV1_1245_D-aminoacylase	AF-A5D1A4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5D1A4-F1-model_v4 Dihydroorotase	0.175	518	351	1	518	1	426	9.616E-20	500
+DESULFOASV1_1245_D-aminoacylase	AF-A4J556-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4J556-F1-model_v4 Dihydroorotase	0.144	518	363	1	518	1	425	5.335E-19	485
+DESULFOASV1_1245_D-aminoacylase	AF-O66990-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O66990-F1-model_v4 Dihydroorotase	0.152	515	356	1	515	2	422	1.736E-19	477
+DESULFOASV1_1245_D-aminoacylase	AF-Q97LN7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q97LN7-F1-model_v4 Dihydroorotase	0.160	513	354	3	515	2	423	1.543E-19	471
+DESULFOASV1_1245_D-aminoacylase	AF-Q5M4C1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5M4C1-F1-model_v4 Dihydroorotase	0.132	512	364	3	514	2	421	7.169E-19	466
+DESULFOASV1_1245_D-aminoacylase	AF-B8G120-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8G120-F1-model_v4 Allantoinase	0.135	526	381	3	528	6	446	3.535E-18	466
+DESULFOASV1_1245_D-aminoacylase	AF-B1GYY7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1GYY7-F1-model_v4 Dihydroorotase	0.160	514	353	1	514	1	421	5.660E-19	461
+DESULFOASV1_1245_D-aminoacylase	AF-Q01V55-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q01V55-F1-model_v4 Dihydroorotase	0.144	522	365	1	522	1	427	2.791E-18	461
+DESULFOASV1_1245_D-aminoacylase	AF-Q9CGM7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9CGM7-F1-model_v4 Dihydroorotase	0.140	514	361	1	514	1	421	2.480E-18	460
+DESULFOASV1_1245_D-aminoacylase	AF-B7LYD8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7LYD8-F1-model_v4 D-phenylhydantoinase	0.144	529	387	1	529	1	453	2.630E-18	458
+DESULFOASV1_1245_D-aminoacylase	AF-Q5LZQ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5LZQ6-F1-model_v4 Dihydroorotase	0.136	512	362	3	514	2	421	1.457E-18	457
+DESULFOASV1_1245_D-aminoacylase	AF-B7N7B8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7N7B8-F1-model_v4 D-phenylhydantoinase	0.147	529	386	1	529	1	453	3.978E-18	456
+DESULFOASV1_1245_D-aminoacylase	AF-B1ITC8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1ITC8-F1-model_v4 D-phenylhydantoinase	0.141	529	388	1	529	1	453	4.477E-18	456
+DESULFOASV1_1245_D-aminoacylase	AF-B8I770-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8I770-F1-model_v4 Dihydroorotase	0.156	518	360	1	518	1	427	2.785E-19	455
+DESULFOASV1_1245_D-aminoacylase	AF-B7UHS3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7UHS3-F1-model_v4 D-phenylhydantoinase	0.137	529	390	1	529	1	453	5.039E-18	453
+DESULFOASV1_1245_D-aminoacylase	AF-Q8XD79-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8XD79-F1-model_v4 D-phenylhydantoinase	0.143	529	387	1	529	1	453	5.671E-18	452
+DESULFOASV1_1245_D-aminoacylase	AF-Q1G867-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1G867-F1-model_v4 Dihydroorotase	0.163	518	355	1	518	1	425	9.634E-19	450
+DESULFOASV1_1245_D-aminoacylase	AF-A8A415-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8A415-F1-model_v4 D-phenylhydantoinase	0.144	529	387	1	529	1	453	8.084E-18	448
+DESULFOASV1_1245_D-aminoacylase	AF-Q31WE3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q31WE3-F1-model_v4 D-phenylhydantoinase	0.142	529	388	1	529	1	453	7.183E-18	448
+DESULFOASV1_1245_D-aminoacylase	AF-A7Z8F5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7Z8F5-F1-model_v4 Allantoinase	0.127	526	384	3	528	5	445	3.535E-18	447
+DESULFOASV1_1245_D-aminoacylase	AF-Q59712-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q59712-F1-model_v4 Dihydroorotase-like protein	0.145	511	357	1	511	1	419	6.370E-19	446
+DESULFOASV1_1245_D-aminoacylase	AF-A8YVZ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8YVZ5-F1-model_v4 Dihydroorotase	0.155	518	358	1	518	1	425	5.660E-19	445
+DESULFOASV1_1245_D-aminoacylase	AF-B7NW14-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7NW14-F1-model_v4 D-phenylhydantoinase	0.142	529	388	1	529	1	453	1.222E-17	445
+DESULFOASV1_1245_D-aminoacylase	AF-B6I707-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6I707-F1-model_v4 D-phenylhydantoinase	0.144	529	387	1	529	1	453	9.651E-18	445
+DESULFOASV1_1245_D-aminoacylase	AF-B0K2E8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0K2E8-F1-model_v4 Dihydroorotase	0.158	523	361	1	523	1	430	8.560E-19	444
+DESULFOASV1_1245_D-aminoacylase	AF-Q8VTT5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8VTT5-F1-model_v4 D-hydantoinase	0.141	529	388	1	529	1	453	3.750E-18	444
+DESULFOASV1_1245_D-aminoacylase	AF-A7ZQY1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7ZQY1-F1-model_v4 D-phenylhydantoinase	0.139	529	389	1	529	1	453	1.297E-17	444
+DESULFOASV1_1245_D-aminoacylase	AF-Q46806-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q46806-F1-model_v4 D-phenylhydantoinase	0.141	529	388	1	529	1	453	1.297E-17	444
+DESULFOASV1_1245_D-aminoacylase	AF-Q9RV76-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9RV76-F1-model_v4 Allantoinase	0.152	526	372	3	528	5	444	1.373E-18	443
+DESULFOASV1_1245_D-aminoacylase	AF-Q57S43-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q57S43-F1-model_v4 Allantoinase	0.134	526	385	3	528	5	449	3.535E-18	442
+DESULFOASV1_1245_D-aminoacylase	AF-A1AF64-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1AF64-F1-model_v4 D-phenylhydantoinase	0.144	529	387	1	529	1	453	1.152E-17	442
+DESULFOASV1_1245_D-aminoacylase	AF-Q3A449-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3A449-F1-model_v4 Dihydroorotase	0.165	514	352	1	514	1	422	5.335E-19	441
+DESULFOASV1_1245_D-aminoacylase	AF-B7N966-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7N966-F1-model_v4 Allantoinase	0.146	526	379	3	528	5	449	6.382E-18	441
+DESULFOASV1_1245_D-aminoacylase	AF-B3E3I1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B3E3I1-F1-model_v4 Dihydroorotase	0.158	515	356	1	515	1	424	9.634E-19	440
+DESULFOASV1_1245_D-aminoacylase	AF-P77671-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P77671-F1-model_v4 Allantoinase	0.141	526	381	3	528	5	449	3.978E-18	440
+DESULFOASV1_1245_D-aminoacylase	AF-Q1R7F8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1R7F8-F1-model_v4 D-phenylhydantoinase	0.139	529	389	1	529	1	453	1.376E-17	440
+DESULFOASV1_1245_D-aminoacylase	AF-Q18C47-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q18C47-F1-model_v4 Dihydroorotase	0.142	517	360	3	519	2	421	1.376E-17	439
+DESULFOASV1_1245_D-aminoacylase	AF-Q2LVI3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2LVI3-F1-model_v4 Dihydroorotase	0.150	515	360	1	515	1	425	1.460E-17	439
+DESULFOASV1_1245_D-aminoacylase	AF-B1XEG2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1XEG2-F1-model_v4 D-phenylhydantoinase	0.135	529	391	1	529	1	453	1.743E-17	439
+DESULFOASV1_1245_D-aminoacylase	AF-A7ZXG5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7ZXG5-F1-model_v4 Allantoinase	0.136	526	384	3	528	5	449	4.750E-18	438
+DESULFOASV1_1245_D-aminoacylase	AF-B4T9L5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4T9L5-F1-model_v4 Allantoinase	0.143	526	381	3	528	5	449	4.220E-18	438
+DESULFOASV1_1245_D-aminoacylase	AF-Q8FE90-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8FE90-F1-model_v4 D-phenylhydantoinase	0.135	529	391	1	529	1	453	1.961E-17	438
+DESULFOASV1_1245_D-aminoacylase	AF-B7MZ27-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7MZ27-F1-model_v4 D-phenylhydantoinase	0.144	529	387	1	529	1	453	1.460E-17	438
+DESULFOASV1_1245_D-aminoacylase	AF-B0KA35-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0KA35-F1-model_v4 Dihydroorotase	0.158	523	361	1	523	1	430	1.640E-18	437
+DESULFOASV1_1245_D-aminoacylase	AF-A9MW45-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9MW45-F1-model_v4 Allantoinase	0.144	526	380	3	528	5	449	3.750E-18	437
+DESULFOASV1_1245_D-aminoacylase	AF-B1IZ89-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1IZ89-F1-model_v4 Allantoinase	0.138	526	383	3	528	5	449	5.671E-18	437
+DESULFOASV1_1245_D-aminoacylase	AF-B5QUT6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5QUT6-F1-model_v4 Allantoinase	0.143	526	381	3	528	5	449	4.477E-18	437
+DESULFOASV1_1245_D-aminoacylase	AF-Q74J32-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q74J32-F1-model_v4 Dihydroorotase	0.164	519	354	1	519	1	424	7.606E-19	436
+DESULFOASV1_1245_D-aminoacylase	AF-B1XGB0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1XGB0-F1-model_v4 Allantoinase	0.142	526	381	3	528	5	449	6.382E-18	436
+DESULFOASV1_1245_D-aminoacylase	AF-B7LF59-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7LF59-F1-model_v4 D-phenylhydantoinase	0.138	529	390	1	529	1	453	1.643E-17	436
+DESULFOASV1_1245_D-aminoacylase	AF-B7L7D8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7L7D8-F1-model_v4 Allantoinase	0.144	526	380	3	528	5	449	1.297E-17	435
+DESULFOASV1_1245_D-aminoacylase	AF-B7MM60-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7MM60-F1-model_v4 D-phenylhydantoinase	0.144	529	387	1	529	1	453	1.376E-17	435
+DESULFOASV1_1245_D-aminoacylase	AF-B5BD11-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5BD11-F1-model_v4 Allantoinase	0.141	526	381	3	528	5	449	5.039E-18	434
+DESULFOASV1_1245_D-aminoacylase	AF-Q0TDX8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0TDX8-F1-model_v4 D-phenylhydantoinase	0.136	529	391	1	529	1	453	2.635E-17	434
+DESULFOASV1_1245_D-aminoacylase	AF-Q51551-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q51551-F1-model_v4 Dihydroorotase-like protein	0.132	518	365	1	518	1	422	8.576E-18	433
+DESULFOASV1_1245_D-aminoacylase	AF-Q5FJB8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5FJB8-F1-model_v4 Dihydroorotase	0.157	518	357	1	518	1	425	6.758E-19	433
+DESULFOASV1_1245_D-aminoacylase	AF-B1LKD0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1LKD0-F1-model_v4 Allantoinase	0.146	526	379	3	528	5	449	9.651E-18	432
+DESULFOASV1_1245_D-aminoacylase	AF-Q0TKD0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0TKD0-F1-model_v4 Allantoinase	0.134	526	385	3	528	5	449	1.024E-17	432
+DESULFOASV1_1245_D-aminoacylase	AF-C5A0E6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5A0E6-F1-model_v4 D-phenylhydantoinase	0.144	529	387	1	529	1	453	1.961E-17	432
+DESULFOASV1_1245_D-aminoacylase	AF-A1A8H7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1A8H7-F1-model_v4 Allantoinase	0.140	526	382	3	528	5	449	1.376E-17	431
+DESULFOASV1_1245_D-aminoacylase	AF-B6I0G2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6I0G2-F1-model_v4 Allantoinase	0.145	526	380	3	528	5	449	1.548E-17	431
+DESULFOASV1_1245_D-aminoacylase	AF-Q9I676-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9I676-F1-model_v4 D-hydantoinase/dihydropyrimidinase	0.141	529	390	1	529	1	455	4.220E-18	431
+DESULFOASV1_1245_D-aminoacylase	AF-Q1J391-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1J391-F1-model_v4 Allantoinase	0.156	526	371	3	528	4	444	6.771E-18	430
+DESULFOASV1_1245_D-aminoacylase	AF-Q8DPQ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8DPQ5-F1-model_v4 Dihydroorotase	0.150	512	356	3	514	2	421	2.960E-18	429
+DESULFOASV1_1245_D-aminoacylase	AF-A7ZIR8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7ZIR8-F1-model_v4 Allantoinase	0.144	526	380	3	528	5	449	2.342E-17	429
+DESULFOASV1_1245_D-aminoacylase	AF-Q047M6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q047M6-F1-model_v4 Dihydroorotase	0.162	518	355	1	518	1	425	1.457E-18	428
+DESULFOASV1_1245_D-aminoacylase	AF-B2KCN5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2KCN5-F1-model_v4 Dihydroorotase	0.165	521	358	1	521	1	430	3.535E-18	428
+DESULFOASV1_1245_D-aminoacylase	AF-B7UKI9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7UKI9-F1-model_v4 Allantoinase	0.141	526	381	3	528	5	449	2.081E-17	428
+DESULFOASV1_1245_D-aminoacylase	AF-Q03HB2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q03HB2-F1-model_v4 Dihydroorotase	0.143	514	361	1	514	1	422	6.783E-17	427
+DESULFOASV1_1245_D-aminoacylase	AF-B7MQM2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7MQM2-F1-model_v4 Allantoinase	0.136	526	384	3	528	5	449	1.376E-17	427
+DESULFOASV1_1245_D-aminoacylase	AF-A3DE07-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3DE07-F1-model_v4 Dihydroorotase	0.146	515	361	4	518	2	425	3.332E-18	426
+DESULFOASV1_1245_D-aminoacylase	AF-O32137-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O32137-F1-model_v4 Allantoinase	0.148	526	374	3	528	5	444	2.337E-18	426
+DESULFOASV1_1245_D-aminoacylase	AF-Q02C42-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q02C42-F1-model_v4 Allantoinase	0.150	526	374	3	528	4	444	4.477E-18	423
+DESULFOASV1_1245_D-aminoacylase	AF-P0DD64-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0DD64-F1-model_v4 Dihydroorotase	0.130	512	365	4	515	3	422	8.099E-17	421
+DESULFOASV1_1245_D-aminoacylase	AF-O69809-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O69809-F1-model_v4 D-hydantoinase	0.133	528	399	2	529	4	464	2.635E-17	421
+DESULFOASV1_1245_D-aminoacylase	AF-Q97QN4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q97QN4-F1-model_v4 Dihydroorotase	0.153	512	355	3	514	2	421	2.077E-18	420
+DESULFOASV1_1245_D-aminoacylase	AF-Q043B0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q043B0-F1-model_v4 Dihydroorotase	0.163	518	355	1	518	1	425	2.791E-18	420
+DESULFOASV1_1245_D-aminoacylase	AF-Q6HES6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6HES6-F1-model_v4 Dihydroorotase	0.146	522	363	1	522	1	426	1.222E-17	419
+DESULFOASV1_1245_D-aminoacylase	AF-Q82LL4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q82LL4-F1-model_v4 Allantoinase	0.150	526	371	3	528	6	442	4.220E-18	419
+DESULFOASV1_1245_D-aminoacylase	AF-Q8FK60-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8FK60-F1-model_v4 Allantoinase	0.134	526	385	3	528	5	449	3.541E-17	419
+DESULFOASV1_1245_D-aminoacylase	AF-Q45515-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q45515-F1-model_v4 D-hydantoinase	0.149	529	387	1	529	1	456	7.634E-17	419
+DESULFOASV1_1245_D-aminoacylase	AF-Q5WBJ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5WBJ6-F1-model_v4 Allantoinase	0.127	527	387	3	529	4	447	4.485E-17	417
+DESULFOASV1_1245_D-aminoacylase	AF-Q24PT9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q24PT9-F1-model_v4 Allantoinase	0.135	526	381	3	528	6	446	2.635E-17	415
+DESULFOASV1_1245_D-aminoacylase	AF-B5EYC3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5EYC3-F1-model_v4 Allantoinase	0.147	526	379	3	528	5	449	2.077E-18	415
+DESULFOASV1_1245_D-aminoacylase	AF-Q8XGS6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8XGS6-F1-model_v4 Allantoinase	0.142	526	381	3	528	5	449	2.203E-18	413
+DESULFOASV1_1245_D-aminoacylase	AF-P81006-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P81006-F1-model_v4 L-hydantoinase	0.146	527	382	3	529	4	451	2.630E-18	413
+DESULFOASV1_1245_D-aminoacylase	AF-P0DD65-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0DD65-F1-model_v4 Dihydroorotase	0.132	512	364	4	515	3	422	2.640E-16	412
+DESULFOASV1_1245_D-aminoacylase	AF-B9M4S4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9M4S4-F1-model_v4 Dihydroorotase	0.149	514	359	1	514	1	423	1.961E-17	412
+DESULFOASV1_1245_D-aminoacylase	AF-A5GF42-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5GF42-F1-model_v4 Dihydroorotase	0.152	514	358	1	514	1	423	1.460E-17	411
+DESULFOASV1_1245_D-aminoacylase	AF-B7M4L5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7M4L5-F1-model_v4 Allantoinase	0.141	526	381	3	528	5	449	3.757E-17	411
+DESULFOASV1_1245_D-aminoacylase	AF-Q819S1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q819S1-F1-model_v4 Dihydroorotase	0.151	522	361	1	522	1	426	2.635E-17	410
+DESULFOASV1_1245_D-aminoacylase	AF-Q5PCG0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5PCG0-F1-model_v4 Allantoinase	0.149	526	378	3	528	5	449	2.960E-18	410
+DESULFOASV1_1245_D-aminoacylase	AF-Q7CR08-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7CR08-F1-model_v4 Allantoinase	0.145	526	380	3	528	5	449	3.535E-18	410
+DESULFOASV1_1245_D-aminoacylase	AF-Q94AP0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q94AP0-F1-model_v4 Allantoinase	0.133	527	398	2	528	44	503	5.345E-18	410
+DESULFOASV1_1245_D-aminoacylase	AF-Q5XCK2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5XCK2-F1-model_v4 Dihydroorotase	0.130	512	365	4	515	3	422	2.346E-16	409
+DESULFOASV1_1245_D-aminoacylase	AF-B4SXM8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4SXM8-F1-model_v4 Allantoinase	0.146	526	379	3	528	5	449	3.141E-18	409
+DESULFOASV1_1245_D-aminoacylase	AF-Q1AS71-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1AS71-F1-model_v4 Allantoinase	0.137	526	380	3	528	6	446	6.771E-18	409
+DESULFOASV1_1245_D-aminoacylase	AF-Q59699-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q59699-F1-model_v4 D-hydantoinase/dihydropyrimidinase	0.137	528	390	1	528	1	453	3.146E-17	409
+DESULFOASV1_1245_D-aminoacylase	AF-A4XKT2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4XKT2-F1-model_v4 Dihydroorotase	0.126	517	373	3	519	2	429	9.651E-18	408
+DESULFOASV1_1245_D-aminoacylase	AF-Q82ZQ1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q82ZQ1-F1-model_v4 Allantoinase	0.149	527	382	3	529	5	454	2.077E-18	408
+DESULFOASV1_1245_D-aminoacylase	AF-B9MS22-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9MS22-F1-model_v4 Dihydroorotase	0.129	517	372	3	519	2	429	1.297E-17	407
+DESULFOASV1_1245_D-aminoacylase	AF-Q9A071-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9A071-F1-model_v4 Dihydroorotase	0.132	512	364	4	515	3	422	2.084E-16	406
+DESULFOASV1_1245_D-aminoacylase	AF-Q39US3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q39US3-F1-model_v4 Dihydroorotase	0.163	514	353	1	514	1	423	2.484E-17	406
+DESULFOASV1_1245_D-aminoacylase	AF-Q74DP4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q74DP4-F1-model_v4 Dihydroorotase	0.160	514	354	1	514	1	423	3.541E-17	406
+DESULFOASV1_1245_D-aminoacylase	AF-Q44184-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q44184-F1-model_v4 D-hydantoinase	0.143	529	387	1	529	1	453	1.026E-16	406
+DESULFOASV1_1245_D-aminoacylase	AF-B5FLN3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5FLN3-F1-model_v4 Allantoinase	0.147	526	379	3	528	5	449	7.183E-18	404
+DESULFOASV1_1245_D-aminoacylase	AF-Q7CNB0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7CNB0-F1-model_v4 Dihydroorotase	0.134	512	363	4	515	3	422	6.038E-16	403
+DESULFOASV1_1245_D-aminoacylase	AF-A1AS12-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1AS12-F1-model_v4 Dihydroorotase	0.152	514	358	1	514	1	423	2.207E-17	401
+DESULFOASV1_1245_D-aminoacylase	AF-Q2IIB0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2IIB0-F1-model_v4 Dihydroorotase	0.166	521	356	2	522	4	431	2.966E-17	400
+DESULFOASV1_1245_D-aminoacylase	AF-A9VTC8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9VTC8-F1-model_v4 Dihydroorotase	0.143	522	364	1	522	1	426	8.099E-17	399
+DESULFOASV1_1245_D-aminoacylase	AF-B7H6M4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7H6M4-F1-model_v4 Dihydroorotase	0.151	522	361	1	522	1	426	4.228E-17	399
+DESULFOASV1_1245_D-aminoacylase	AF-B5R646-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5R646-F1-model_v4 Allantoinase	0.149	526	378	3	528	5	449	6.771E-18	399
+DESULFOASV1_1245_D-aminoacylase	AF-B7ME34-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7ME34-F1-model_v4 Allantoinase	0.147	526	379	3	528	5	449	2.635E-17	397
+DESULFOASV1_1245_D-aminoacylase	AF-Q8R9R6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8R9R6-F1-model_v4 Dihydroorotase	0.143	521	363	1	521	1	424	7.183E-18	396
+DESULFOASV1_1245_D-aminoacylase	AF-B9IVW5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9IVW5-F1-model_v4 Dihydroorotase	0.140	522	366	1	522	1	426	2.207E-17	395
+DESULFOASV1_1245_D-aminoacylase	AF-C1EPQ2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1EPQ2-F1-model_v4 Dihydroorotase	0.130	522	370	1	522	1	426	2.207E-17	394
+DESULFOASV1_1245_D-aminoacylase	AF-C4ZUW1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C4ZUW1-F1-model_v4 Allantoinase	0.144	526	380	3	528	5	449	2.635E-17	394
+DESULFOASV1_1245_D-aminoacylase	AF-Q1RF23-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1RF23-F1-model_v4 Allantoinase	0.142	526	381	3	528	5	449	3.985E-17	392
+DESULFOASV1_1245_D-aminoacylase	AF-A0RHR0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0RHR0-F1-model_v4 Dihydroorotase	0.142	522	365	1	522	1	426	3.985E-17	390
+DESULFOASV1_1245_D-aminoacylase	AF-B9FDB8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9FDB8-F1-model_v4 Probable allantoinase	0.150	527	390	2	528	46	505	7.183E-18	390
+DESULFOASV1_1245_D-aminoacylase	AF-Q732I1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q732I1-F1-model_v4 Dihydroorotase	0.142	522	365	1	522	1	426	3.985E-17	389
+DESULFOASV1_1245_D-aminoacylase	AF-B5EB50-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5EB50-F1-model_v4 Dihydroorotase	0.151	514	358	1	514	1	423	2.084E-16	388
+DESULFOASV1_1245_D-aminoacylase	AF-A7GRL3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7GRL3-F1-model_v4 Dihydroorotase	0.138	522	366	1	522	1	426	2.489E-16	388
+DESULFOASV1_1245_D-aminoacylase	AF-C6DZ51-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C6DZ51-F1-model_v4 Dihydroorotase	0.155	520	358	1	520	1	425	1.852E-16	386
+DESULFOASV1_1245_D-aminoacylase	AF-B7IUP8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7IUP8-F1-model_v4 Dihydroorotase	0.142	522	365	1	522	1	426	6.027E-17	386
+DESULFOASV1_1245_D-aminoacylase	AF-Q60Q85-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q60Q85-F1-model_v4 Dihydropyrimidinase 1	0.119	527	403	2	528	4	461	9.687E-16	384
+DESULFOASV1_1245_D-aminoacylase	AF-Q3AC01-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3AC01-F1-model_v4 Dihydroorotase	0.134	523	370	1	523	1	428	1.222E-17	381
+DESULFOASV1_1245_D-aminoacylase	AF-B4UDQ2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4UDQ2-F1-model_v4 Dihydroorotase	0.154	521	361	2	522	4	431	6.783E-17	381
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KAH8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KAH8-F1-model_v4 Allantoinase	0.135	513	373	3	515	6	437	2.966E-17	379
+DESULFOASV1_1245_D-aminoacylase	AF-Q62188-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q62188-F1-model_v4 Dihydropyrimidinase-related protein 3	0.122	527	399	2	528	16	470	2.084E-16	379
+DESULFOASV1_1245_D-aminoacylase	AF-Q14195-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q14195-F1-model_v4 Dihydropyrimidinase-related protein 3	0.121	527	399	2	528	16	470	2.489E-16	379
+DESULFOASV1_1245_D-aminoacylase	AF-Q65LN0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q65LN0-F1-model_v4 Allantoinase	0.138	525	386	3	527	5	453	6.394E-17	378
+DESULFOASV1_1245_D-aminoacylase	AF-Q62952-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q62952-F1-model_v4 Dihydropyrimidinase-related protein 3	0.122	527	399	2	528	16	470	2.971E-16	378
+DESULFOASV1_1245_D-aminoacylase	AF-Q9K9V7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9K9V7-F1-model_v4 Dihydroorotase	0.142	521	366	1	521	1	428	1.157E-15	376
+DESULFOASV1_1245_D-aminoacylase	AF-Q6AS41-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6AS41-F1-model_v4 Dihydroorotase	0.134	511	360	1	511	1	417	2.211E-16	375
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KXR3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KXR3-F1-model_v4 Dihydroorotase	0.133	518	368	2	519	3	428	9.669E-17	374
+DESULFOASV1_1245_D-aminoacylase	AF-Q9RKU5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9RKU5-F1-model_v4 Allantoinase	0.152	526	371	3	528	6	443	4.236E-16	374
+DESULFOASV1_1245_D-aminoacylase	AF-Q2GL89-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2GL89-F1-model_v4 Dihydroorotase	0.155	514	360	2	515	20	446	1.551E-16	374
+DESULFOASV1_1245_D-aminoacylase	AF-P46538-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P46538-F1-model_v4 Dihydroorotase	0.157	522	359	1	522	1	427	4.000E-15	373
+DESULFOASV1_1245_D-aminoacylase	AF-Q5L0U5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5L0U5-F1-model_v4 Dihydroorotase	0.156	522	360	1	522	1	428	4.000E-15	373
+DESULFOASV1_1245_D-aminoacylase	AF-Q640K6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q640K6-F1-model_v4 Dihydropyrimidinase-related protein 3-B	0.113	527	403	2	528	16	470	6.406E-16	373
+DESULFOASV1_1245_D-aminoacylase	AF-C0QJ54-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C0QJ54-F1-model_v4 Dihydroorotase	0.153	514	357	1	514	1	423	3.152E-16	372
+DESULFOASV1_1245_D-aminoacylase	AF-C0R5K8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C0R5K8-F1-model_v4 Dihydroorotase	0.143	510	358	2	511	17	435	1.749E-15	372
+DESULFOASV1_1245_D-aminoacylase	AF-Q9JHU0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9JHU0-F1-model_v4 Dihydropyrimidinase-related protein 5	0.131	529	398	1	529	8	466	3.764E-16	372
+DESULFOASV1_1245_D-aminoacylase	AF-A0LK22-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0LK22-F1-model_v4 Dihydroorotase	0.139	520	369	2	521	10	438	1.227E-15	371
+DESULFOASV1_1245_D-aminoacylase	AF-B2GD08-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2GD08-F1-model_v4 Dihydroorotase	0.168	518	356	1	518	1	429	1.090E-15	370
+DESULFOASV1_1245_D-aminoacylase	AF-B8JAE8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8JAE8-F1-model_v4 Dihydroorotase	0.163	514	355	2	515	4	428	4.767E-16	370
+DESULFOASV1_1245_D-aminoacylase	AF-Q61YQ1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q61YQ1-F1-model_v4 Dihydropyrimidinase 2	0.137	528	394	1	528	1	457	3.764E-16	370
+DESULFOASV1_1245_D-aminoacylase	AF-Q9BPU6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9BPU6-F1-model_v4 Dihydropyrimidinase-related protein 5	0.121	529	403	1	529	8	466	2.801E-16	370
+DESULFOASV1_1245_D-aminoacylase	AF-Q55DL0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q55DL0-F1-model_v4 Dihydropyrimidinase	0.139	528	392	2	529	9	464	1.302E-15	369
+DESULFOASV1_1245_D-aminoacylase	AF-Q9EQF6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9EQF6-F1-model_v4 Dihydropyrimidinase-related protein 5	0.131	529	398	1	529	8	466	5.365E-16	369
+DESULFOASV1_1245_D-aminoacylase	AF-Q90635-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q90635-F1-model_v4 Dihydropyrimidinase-related protein 2	0.117	527	401	2	528	16	470	9.687E-16	369
+DESULFOASV1_1245_D-aminoacylase	AF-B7JJX5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7JJX5-F1-model_v4 Dihydroorotase	0.142	515	362	1	515	1	423	6.406E-16	368
+DESULFOASV1_1245_D-aminoacylase	AF-Q9P903-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9P903-F1-model_v4 Dihydropyrimidinase	0.132	527	447	3	529	6	521	6.406E-16	368
+DESULFOASV1_1245_D-aminoacylase	AF-C1KWD6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1KWD6-F1-model_v4 Dihydroorotase	0.155	517	358	3	519	2	426	7.648E-16	367
+DESULFOASV1_1245_D-aminoacylase	AF-Q2NHZ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2NHZ6-F1-model_v4 Dihydroorotase	0.132	525	369	2	526	3	428	1.090E-15	367
+DESULFOASV1_1245_D-aminoacylase	AF-Q21773-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q21773-F1-model_v4 Dihydropyrimidinase 1	0.131	527	397	2	528	4	461	3.548E-16	367
+DESULFOASV1_1245_D-aminoacylase	AF-O13022-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O13022-F1-model_v4 Dihydropyrimidinase-related protein 3-A	0.119	527	400	2	528	16	470	1.302E-15	367
+DESULFOASV1_1245_D-aminoacylase	AF-O08553-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O08553-F1-model_v4 Dihydropyrimidinase-related protein 2	0.112	527	403	2	528	16	470	1.649E-15	366
+DESULFOASV1_1245_D-aminoacylase	AF-C3P658-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C3P658-F1-model_v4 Dihydroorotase	0.142	522	365	1	522	1	426	5.057E-16	365
+DESULFOASV1_1245_D-aminoacylase	AF-C3L738-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C3L738-F1-model_v4 Dihydroorotase	0.142	522	365	1	522	1	426	6.406E-16	364
+DESULFOASV1_1245_D-aminoacylase	AF-Q1WVB1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1WVB1-F1-model_v4 Dihydroorotase	0.149	518	364	1	518	1	429	2.640E-16	363
+DESULFOASV1_1245_D-aminoacylase	AF-Q3YRI2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3YRI2-F1-model_v4 Dihydroorotase	0.140	511	363	1	511	17	439	3.764E-16	363
+DESULFOASV1_1245_D-aminoacylase	AF-Q18677-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q18677-F1-model_v4 Dihydropyrimidinase 2	0.133	528	395	1	528	1	457	5.692E-16	363
+DESULFOASV1_1245_D-aminoacylase	AF-Q636D8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q636D8-F1-model_v4 Dihydroorotase	0.144	522	364	1	522	1	426	4.228E-17	361
+DESULFOASV1_1245_D-aminoacylase	AF-C5B137-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5B137-F1-model_v4 Formyltransferase/hydrolase complex Fhc subunit A	0.147	520	418	1	520	1	491	1.849E-17	361
+DESULFOASV1_1245_D-aminoacylase	AF-Q6GL72-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6GL72-F1-model_v4 Dihydropyrimidinase-related protein 3	0.116	527	401	2	528	16	470	2.493E-15	361
+DESULFOASV1_1245_D-aminoacylase	AF-P47942-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P47942-F1-model_v4 Dihydropyrimidinase-related protein 2	0.112	527	403	2	528	16	470	4.244E-15	361
+DESULFOASV1_1245_D-aminoacylase	AF-B1HQB9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1HQB9-F1-model_v4 Dihydroorotase	0.147	517	362	1	517	1	425	1.856E-15	360
+DESULFOASV1_1245_D-aminoacylase	AF-B7HLM2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7HLM2-F1-model_v4 Dihydroorotase	0.131	522	369	1	522	1	426	2.796E-17	360
+DESULFOASV1_1245_D-aminoacylase	AF-Q5R9Y6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5R9Y6-F1-model_v4 Dihydropyrimidinase-related protein 2	0.115	527	402	2	528	16	470	2.215E-15	360
+DESULFOASV1_1245_D-aminoacylase	AF-B2V5I6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2V5I6-F1-model_v4 Dihydroorotase	0.130	513	366	3	515	2	423	4.000E-15	359
+DESULFOASV1_1245_D-aminoacylase	AF-B8DDR5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8DDR5-F1-model_v4 Dihydroorotase	0.151	517	360	3	519	2	426	1.028E-15	359
+DESULFOASV1_1245_D-aminoacylase	AF-B2UW91-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2UW91-F1-model_v4 Dihydroorotase	0.162	519	333	1	519	1	398	4.244E-15	358
+DESULFOASV1_1245_D-aminoacylase	AF-Q8PVF4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8PVF4-F1-model_v4 Dihydroorotase	0.132	526	385	3	528	4	447	5.702E-15	358
+DESULFOASV1_1245_D-aminoacylase	AF-Q81WF0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q81WF0-F1-model_v4 Dihydroorotase	0.145	522	363	1	522	1	426	1.090E-15	357
+DESULFOASV1_1245_D-aminoacylase	AF-Q52PJ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q52PJ5-F1-model_v4 Dihydropyrimidinase-related protein 3	0.115	527	402	2	528	16	470	3.771E-15	357
+DESULFOASV1_1245_D-aminoacylase	AF-Q71YH9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q71YH9-F1-model_v4 Dihydroorotase	0.151	517	360	3	519	2	426	1.856E-15	356
+DESULFOASV1_1245_D-aminoacylase	AF-P77884-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P77884-F1-model_v4 Dihydroorotase	0.156	522	361	1	522	1	429	5.375E-15	356
+DESULFOASV1_1245_D-aminoacylase	AF-B2TNG1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2TNG1-F1-model_v4 Dihydroorotase	0.172	519	329	1	519	1	398	4.776E-15	355
+DESULFOASV1_1245_D-aminoacylase	AF-Q8Y663-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8Y663-F1-model_v4 Dihydroorotase	0.156	517	358	3	519	2	426	1.157E-15	355
+DESULFOASV1_1245_D-aminoacylase	AF-Q62951-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q62951-F1-model_v4 Dihydropyrimidinase-related protein 4	0.112	527	403	2	528	8	462	2.806E-15	354
+DESULFOASV1_1245_D-aminoacylase	AF-P97427-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P97427-F1-model_v4 Dihydropyrimidinase-related protein 1	0.121	527	399	2	528	16	470	2.977E-15	354
+DESULFOASV1_1245_D-aminoacylase	AF-Q01630-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q01630-F1-model_v4 Protein unc-33	0.112	527	390	2	528	334	773	3.158E-15	354
+DESULFOASV1_1245_D-aminoacylase	AF-A4IM31-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4IM31-F1-model_v4 Dihydroorotase	0.153	522	362	1	522	1	428	3.350E-15	353
+DESULFOASV1_1245_D-aminoacylase	AF-Q8TSA6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8TSA6-F1-model_v4 Dihydroorotase	0.137	526	382	3	528	4	447	2.088E-15	353
+DESULFOASV1_1245_D-aminoacylase	AF-A0RCM7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0RCM7-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.140	519	356	1	519	1	415	5.681E-17	352
+DESULFOASV1_1245_D-aminoacylase	AF-Q16555-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q16555-F1-model_v4 Dihydropyrimidinase-related protein 2	0.116	527	401	2	528	16	470	4.000E-15	352
+DESULFOASV1_1245_D-aminoacylase	AF-P96081-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P96081-F1-model_v4 Dihydroorotase	0.138	515	365	3	517	2	426	1.381E-15	351
+DESULFOASV1_1245_D-aminoacylase	AF-Q8CPJ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8CPJ6-F1-model_v4 Dihydroorotase	0.142	513	361	3	515	2	423	2.215E-15	349
+DESULFOASV1_1245_D-aminoacylase	AF-O14531-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O14531-F1-model_v4 Dihydropyrimidinase-related protein 4	0.112	528	405	2	529	16	472	4.776E-15	348
+DESULFOASV1_1245_D-aminoacylase	AF-Q6HK87-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6HK87-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.140	519	356	1	519	1	415	3.548E-16	346
+DESULFOASV1_1245_D-aminoacylase	AF-P9WHL3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P9WHL3-F1-model_v4 Dihydroorotase	0.138	520	370	1	520	1	430	3.357E-14	345
+DESULFOASV1_1245_D-aminoacylase	AF-C3L6N3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C3L6N3-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.144	519	354	1	519	1	415	4.228E-17	344
+DESULFOASV1_1245_D-aminoacylase	AF-Q5GSJ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5GSJ0-F1-model_v4 Dihydroorotase	0.144	511	361	2	512	17	439	1.649E-15	344
+DESULFOASV1_1245_D-aminoacylase	AF-Q9CCR4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9CCR4-F1-model_v4 Dihydroorotase	0.137	519	369	1	519	1	429	7.677E-14	343
+DESULFOASV1_1245_D-aminoacylase	AF-Q63CU1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q63CU1-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.143	519	355	1	519	1	415	1.852E-16	343
+DESULFOASV1_1245_D-aminoacylase	AF-O02675-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O02675-F1-model_v4 Dihydropyrimidinase-related protein 2	0.113	527	403	2	528	16	470	1.092E-14	343
+DESULFOASV1_1245_D-aminoacylase	AF-O35098-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O35098-F1-model_v4 Dihydropyrimidinase-related protein 4	0.112	527	403	2	528	16	470	1.030E-14	343
+DESULFOASV1_1245_D-aminoacylase	AF-Q8RG88-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8RG88-F1-model_v4 Dihydroorotase	0.136	512	360	4	515	2	419	3.350E-15	342
+DESULFOASV1_1245_D-aminoacylase	AF-Q38X26-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q38X26-F1-model_v4 Dihydroorotase	0.156	518	359	4	521	4	429	3.554E-15	342
+DESULFOASV1_1245_D-aminoacylase	AF-Q2GH90-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2GH90-F1-model_v4 Dihydroorotase	0.130	511	367	1	511	17	439	3.350E-15	341
+DESULFOASV1_1245_D-aminoacylase	AF-Q62950-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q62950-F1-model_v4 Dihydropyrimidinase-related protein 1	0.121	527	399	2	528	16	470	1.557E-14	341
+DESULFOASV1_1245_D-aminoacylase	AF-Q9HMH9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9HMH9-F1-model_v4 Dihydroorotase	0.155	527	355	3	529	2	422	3.357E-14	340
+DESULFOASV1_1245_D-aminoacylase	AF-C6A048-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C6A048-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.140	518	347	1	518	1	404	3.344E-16	340
+DESULFOASV1_1245_D-aminoacylase	AF-Q92AH1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q92AH1-F1-model_v4 Dihydroorotase	0.150	517	360	3	519	2	426	1.030E-14	340
+DESULFOASV1_1245_D-aminoacylase	AF-Q14117-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q14117-F1-model_v4 Dihydropyrimidinase	0.128	527	399	2	528	6	464	1.384E-14	339
+DESULFOASV1_1245_D-aminoacylase	AF-Q1AVY7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1AVY7-F1-model_v4 Dihydroorotase	0.142	513	357	2	514	10	426	2.220E-14	338
+DESULFOASV1_1245_D-aminoacylase	AF-Q7UNR2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7UNR2-F1-model_v4 Putative dihydroorotase	0.116	523	383	1	523	22	455	9.148E-15	338
+DESULFOASV1_1245_D-aminoacylase	AF-Q5JER0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5JER0-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.142	518	346	1	518	1	404	6.406E-16	336
+DESULFOASV1_1245_D-aminoacylase	AF-C3P768-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C3P768-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.143	519	355	1	519	1	415	1.551E-16	336
+DESULFOASV1_1245_D-aminoacylase	AF-B7JJI0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7JJI0-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.147	519	353	1	519	1	415	1.965E-16	336
+DESULFOASV1_1245_D-aminoacylase	AF-C1EPN0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1EPN0-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.143	519	355	1	519	1	415	1.852E-16	335
+DESULFOASV1_1245_D-aminoacylase	AF-A0AJU2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0AJU2-F1-model_v4 Dihydroorotase	0.151	517	360	3	519	2	426	3.158E-15	334
+DESULFOASV1_1245_D-aminoacylase	AF-Q67NQ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q67NQ5-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.126	521	363	1	521	2	417	1.554E-15	332
+DESULFOASV1_1245_D-aminoacylase	AF-O59184-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O59184-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.149	518	343	1	518	1	404	5.365E-16	331
+DESULFOASV1_1245_D-aminoacylase	AF-B7IS56-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7IS56-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.140	519	356	1	519	1	415	2.806E-15	330
+DESULFOASV1_1245_D-aminoacylase	AF-B7HIQ2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7HIQ2-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.151	519	351	1	519	1	415	7.634E-17	330
+DESULFOASV1_1245_D-aminoacylase	AF-B6YUF8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6YUF8-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.135	523	353	1	523	1	409	3.993E-16	329
+DESULFOASV1_1245_D-aminoacylase	AF-A3DEQ2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3DEQ2-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.137	521	356	1	521	1	413	3.350E-15	328
+DESULFOASV1_1245_D-aminoacylase	AF-Q81S14-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q81S14-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.148	519	353	1	519	1	415	2.489E-16	328
+DESULFOASV1_1245_D-aminoacylase	AF-B7HMN9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7HMN9-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.143	519	355	1	519	1	415	3.344E-16	328
+DESULFOASV1_1245_D-aminoacylase	AF-P32375-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P32375-F1-model_v4 Allantoinase	0.112	528	403	2	529	3	457	1.304E-14	328
+DESULFOASV1_1245_D-aminoacylase	AF-Q5HPZ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5HPZ0-F1-model_v4 Dihydroorotase	0.155	513	356	3	515	2	423	2.092E-14	327
+DESULFOASV1_1245_D-aminoacylase	AF-O31352-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O31352-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.146	519	354	1	519	1	415	3.152E-16	327
+DESULFOASV1_1245_D-aminoacylase	AF-B0K2W0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0K2W0-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.123	521	360	1	521	1	412	3.771E-15	326
+DESULFOASV1_1245_D-aminoacylase	AF-Q81F14-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q81F14-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.151	519	351	1	519	1	415	7.209E-16	326
+DESULFOASV1_1245_D-aminoacylase	AF-P65906-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P65906-F1-model_v4 Dihydroorotase	0.130	513	365	3	515	2	422	1.229E-14	323
+DESULFOASV1_1245_D-aminoacylase	AF-Q5SK67-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5SK67-F1-model_v4 Dihydroorotase	0.141	512	362	3	514	2	423	1.229E-14	321
+DESULFOASV1_1245_D-aminoacylase	AF-B0K8R8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0K8R8-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.118	521	363	1	521	1	412	1.030E-14	321
+DESULFOASV1_1245_D-aminoacylase	AF-Q92VC6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q92VC6-F1-model_v4 Adenine deaminase 2	0.157	521	290	3	523	31	375	6.418E-15	319
+DESULFOASV1_1245_D-aminoacylase	AF-Q9RVC3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9RVC3-F1-model_v4 Dihydroorotase	0.130	514	359	1	514	1	414	6.061E-14	318
+DESULFOASV1_1245_D-aminoacylase	AF-Q8PUQ3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8PUQ3-F1-model_v4 5'-deoxyadenosine deaminase	0.140	517	347	3	519	4	408	3.771E-15	318
+DESULFOASV1_1245_D-aminoacylase	AF-Q8NQ39-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8NQ39-F1-model_v4 Dihydroorotase	0.131	520	370	2	521	21	447	6.430E-14	318
+DESULFOASV1_1245_D-aminoacylase	AF-A7GNR9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7GNR9-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.139	519	356	1	519	1	415	1.227E-15	317
+DESULFOASV1_1245_D-aminoacylase	AF-Q6AF87-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6AF87-F1-model_v4 Dihydroorotase	0.139	520	368	2	521	5	432	4.252E-14	316
+DESULFOASV1_1245_D-aminoacylase	AF-Q8KDK5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8KDK5-F1-model_v4 Dihydroorotase	0.128	514	382	1	514	1	439	3.568E-13	312
+DESULFOASV1_1245_D-aminoacylase	AF-Q9V0Y5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9V0Y5-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.119	519	356	1	519	4	408	7.223E-15	311
+DESULFOASV1_1245_D-aminoacylase	AF-Q2K4Q9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2K4Q9-F1-model_v4 Adenine deaminase 2	0.155	520	291	3	522	33	377	6.418E-15	311
+DESULFOASV1_1245_D-aminoacylase	AF-P65905-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P65905-F1-model_v4 Dihydroorotase	0.130	513	365	3	515	2	422	5.385E-14	310
+DESULFOASV1_1245_D-aminoacylase	AF-Q8TRA4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8TRA4-F1-model_v4 5'-deoxyadenosine deaminase	0.136	516	348	3	518	4	407	9.148E-15	309
+DESULFOASV1_1245_D-aminoacylase	AF-Q1MCF8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1MCF8-F1-model_v4 Adenine deaminase 2	0.156	520	290	3	522	33	377	1.092E-14	306
+DESULFOASV1_1245_D-aminoacylase	AF-Q5JJ91-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5JJ91-F1-model_v4 Dihydroorotase	0.131	527	348	3	529	4	405	8.159E-13	303
+DESULFOASV1_1245_D-aminoacylase	AF-A5UMN6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5UMN6-F1-model_v4 5'-deoxyadenosine deaminase	0.119	522	362	2	523	5	416	2.983E-14	302
+DESULFOASV1_1245_D-aminoacylase	AF-Q9YFI5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9YFI5-F1-model_v4 Dihydroorotase	0.127	528	364	2	529	5	422	1.309E-12	301
+DESULFOASV1_1245_D-aminoacylase	AF-B9EB67-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9EB67-F1-model_v4 Dihydroorotase	0.123	521	372	1	521	1	425	1.386E-13	300
+DESULFOASV1_1245_D-aminoacylase	AF-O27199-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O27199-F1-model_v4 Dihydroorotase	0.146	526	356	3	528	4	421	9.741E-13	300
+DESULFOASV1_1245_D-aminoacylase	AF-Q8R9L4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8R9L4-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.130	521	357	1	521	1	411	5.076E-14	298
+DESULFOASV1_1245_D-aminoacylase	AF-Q8U0P7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8U0P7-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.147	516	342	4	519	2	403	4.510E-14	295
+DESULFOASV1_1245_D-aminoacylase	AF-Q2RJW1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2RJW1-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.127	518	355	2	519	3	410	2.811E-14	294
+DESULFOASV1_1245_D-aminoacylase	AF-Q466Q9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q466Q9-F1-model_v4 5'-deoxyadenosine deaminase	0.135	517	349	3	519	4	408	7.662E-15	294
+DESULFOASV1_1245_D-aminoacylase	AF-O27075-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O27075-F1-model_v4 Putative aminohydrolase MTH_994	0.119	513	336	2	514	3	384	1.866E-12	293
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KC82-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KC82-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.127	519	361	1	519	1	415	1.030E-14	293
+DESULFOASV1_1245_D-aminoacylase	AF-B8CX03-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8CX03-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.113	523	368	1	523	1	416	3.561E-14	292
+DESULFOASV1_1245_D-aminoacylase	AF-Q12WS1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q12WS1-F1-model_v4 5'-deoxyadenosine deaminase	0.118	516	355	3	518	4	407	6.430E-14	290
+DESULFOASV1_1245_D-aminoacylase	AF-Q2NHL6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2NHL6-F1-model_v4 5'-deoxyadenosine deaminase	0.126	518	350	1	518	5	406	2.988E-13	289
+DESULFOASV1_1245_D-aminoacylase	AF-Q0AYV2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0AYV2-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.133	519	355	1	519	1	410	7.662E-15	289
+DESULFOASV1_1245_D-aminoacylase	AF-Q9FMP3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9FMP3-F1-model_v4 Dihydropyrimidinase	0.152	528	383	2	529	46	498	4.502E-15	288
+DESULFOASV1_1245_D-aminoacylase	AF-A4J675-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4J675-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.116	518	362	2	519	3	412	1.649E-15	287
+DESULFOASV1_1245_D-aminoacylase	AF-Q8XKX4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8XKX4-F1-model_v4 Adenine deaminase	0.121	516	296	3	518	5	342	7.236E-14	287
+DESULFOASV1_1245_D-aminoacylase	AF-Q8U4A0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8U4A0-F1-model_v4 Dihydroorotase	0.155	529	337	1	529	1	400	2.655E-13	286
+DESULFOASV1_1245_D-aminoacylase	AF-Q87UL9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q87UL9-F1-model_v4 Imidazolonepropionase	0.117	511	351	1	511	1	398	3.176E-12	285
+DESULFOASV1_1245_D-aminoacylase	AF-Q4ZLW0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q4ZLW0-F1-model_v4 Imidazolonepropionase	0.137	511	343	1	511	1	398	2.507E-12	284
+DESULFOASV1_1245_D-aminoacylase	AF-Q48CD3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q48CD3-F1-model_v4 Imidazolonepropionase	0.121	511	349	1	511	1	398	2.100E-12	284
+DESULFOASV1_1245_D-aminoacylase	AF-Q6A5T8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6A5T8-F1-model_v4 Imidazolonepropionase	0.133	518	338	1	518	1	391	1.658E-12	282
+DESULFOASV1_1245_D-aminoacylase	AF-B5YDN9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5YDN9-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.113	521	359	1	521	1	406	1.859E-14	282
+DESULFOASV1_1245_D-aminoacylase	AF-A0JUI7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0JUI7-F1-model_v4 Imidazolonepropionase	0.108	511	354	1	511	1	398	8.159E-13	281
+DESULFOASV1_1245_D-aminoacylase	AF-O28034-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O28034-F1-model_v4 Dihydroorotase	0.125	524	348	5	528	2	400	8.672E-12	281
+DESULFOASV1_1245_D-aminoacylase	AF-A6VDL0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6VDL0-F1-model_v4 Imidazolonepropionase	0.124	514	350	1	514	1	401	3.176E-12	280
+DESULFOASV1_1245_D-aminoacylase	AF-B1I2P4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1I2P4-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.121	518	357	1	518	1	407	4.502E-15	280
+DESULFOASV1_1245_D-aminoacylase	AF-B8FRL9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8FRL9-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.126	520	357	2	521	3	411	1.304E-14	280
+DESULFOASV1_1245_D-aminoacylase	AF-A5D1G6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5D1G6-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.126	522	360	2	523	3	415	1.749E-15	280
+DESULFOASV1_1245_D-aminoacylase	AF-Q1M901-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1M901-F1-model_v4 Adenine deaminase 3	0.131	518	301	3	520	31	377	7.250E-13	280
+DESULFOASV1_1245_D-aminoacylase	AF-P39377-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P39377-F1-model_v4 Isoaspartyl dipeptidase	0.126	522	329	2	523	9	386	9.723E-14	279
+DESULFOASV1_1245_D-aminoacylase	AF-Q1GC80-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1GC80-F1-model_v4 Imidazolonepropionase	0.123	513	351	2	514	4	404	1.473E-12	279
+DESULFOASV1_1245_D-aminoacylase	AF-Q5X739-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5X739-F1-model_v4 Imidazolonepropionase	0.109	510	353	3	512	6	402	6.454E-12	278
+DESULFOASV1_1245_D-aminoacylase	AF-A0LMI3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0LMI3-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.138	516	353	3	518	8	417	1.386E-13	278
+DESULFOASV1_1245_D-aminoacylase	AF-Q5WYI8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5WYI8-F1-model_v4 Imidazolonepropionase	0.109	510	353	3	512	6	402	6.846E-12	277
+DESULFOASV1_1245_D-aminoacylase	AF-Q8TXX9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8TXX9-F1-model_v4 Dihydroorotase	0.130	517	367	1	517	4	426	5.734E-12	275
+DESULFOASV1_1245_D-aminoacylase	AF-Q92AR6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q92AR6-F1-model_v4 Adenine deaminase	0.133	517	291	3	519	22	358	3.170E-13	275
+DESULFOASV1_1245_D-aminoacylase	AF-Q5ZXM0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5ZXM0-F1-model_v4 Imidazolonepropionase	0.111	510	352	3	512	6	402	4.803E-12	274
+DESULFOASV1_1245_D-aminoacylase	AF-Q7CUX4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7CUX4-F1-model_v4 Adenine deaminase 2	0.171	521	286	3	523	34	379	7.236E-14	274
+DESULFOASV1_1245_D-aminoacylase	AF-A0B6I9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0B6I9-F1-model_v4 Adenine deaminase	0.142	519	287	3	521	18	352	6.072E-13	273
+DESULFOASV1_1245_D-aminoacylase	AF-A5IGJ7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5IGJ7-F1-model_v4 Imidazolonepropionase	0.115	510	350	3	512	6	402	4.023E-12	272
+DESULFOASV1_1245_D-aminoacylase	AF-B0KM55-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0KM55-F1-model_v4 Imidazolonepropionase	0.131	514	348	1	514	1	401	7.705E-12	270
+DESULFOASV1_1245_D-aminoacylase	AF-O27549-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O27549-F1-model_v4 5'-deoxyadenosine deaminase	0.139	521	347	2	522	5	408	1.652E-14	270
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KF46-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KF46-F1-model_v4 Adenine deaminase	0.145	527	298	3	529	20	368	2.092E-14	270
+DESULFOASV1_1245_D-aminoacylase	AF-A8GAT0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8GAT0-F1-model_v4 Adenine deaminase	0.143	517	292	3	519	26	367	4.794E-13	270
+DESULFOASV1_1245_D-aminoacylase	AF-B1KTS4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1KTS4-F1-model_v4 Adenine deaminase	0.123	520	306	3	522	29	378	6.072E-13	270
+DESULFOASV1_1245_D-aminoacylase	AF-B5XP95-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5XP95-F1-model_v4 Adenine deaminase	0.134	521	301	3	523	23	371	1.032E-13	269
+DESULFOASV1_1245_D-aminoacylase	AF-A7GQZ8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7GQZ8-F1-model_v4 Imidazolonepropionase	0.131	519	357	3	521	4	415	4.527E-12	268
+DESULFOASV1_1245_D-aminoacylase	AF-Q8TYD4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8TYD4-F1-model_v4 5'-deoxyadenosine deaminase	0.126	523	361	1	523	1	414	7.691E-13	267
+DESULFOASV1_1245_D-aminoacylase	AF-Q3AE90-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3AE90-F1-model_v4 Adenine deaminase 1	0.134	521	309	3	523	28	385	6.430E-14	267
+DESULFOASV1_1245_D-aminoacylase	AF-A8M4I4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8M4I4-F1-model_v4 Imidazolonepropionase	0.130	513	338	2	514	3	391	5.405E-12	266
+DESULFOASV1_1245_D-aminoacylase	AF-A5FB49-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5FB49-F1-model_v4 Imidazolonepropionase	0.108	512	366	1	512	1	411	2.660E-12	266
+DESULFOASV1_1245_D-aminoacylase	AF-Q73RN8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q73RN8-F1-model_v4 Imidazolonepropionase	0.118	518	361	3	520	2	411	7.705E-12	266
+DESULFOASV1_1245_D-aminoacylase	AF-P40757-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P40757-F1-model_v4 Allantoinase, mitochondrial	0.112	520	386	4	523	20	455	1.759E-12	266
+DESULFOASV1_1245_D-aminoacylase	AF-Q88CZ9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q88CZ9-F1-model_v4 Imidazolonepropionase	0.117	514	353	1	514	1	401	1.236E-11	265
+DESULFOASV1_1245_D-aminoacylase	AF-P39761-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P39761-F1-model_v4 Adenine deaminase	0.128	521	299	3	523	21	364	4.794E-13	265
+DESULFOASV1_1245_D-aminoacylase	AF-A1AZX8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1AZX8-F1-model_v4 Imidazolonepropionase	0.127	510	347	3	512	2	400	9.760E-12	264
+DESULFOASV1_1245_D-aminoacylase	AF-O31196-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O31196-F1-model_v4 Imidazolonepropionase	0.121	513	354	2	514	12	415	1.234E-12	264
+DESULFOASV1_1245_D-aminoacylase	AF-Q1I3R1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1I3R1-F1-model_v4 Imidazolonepropionase	0.118	514	353	1	514	1	401	5.734E-12	263
+DESULFOASV1_1245_D-aminoacylase	AF-B8FLT9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8FLT9-F1-model_v4 Adenine deaminase	0.154	521	289	3	523	18	360	6.442E-13	263
+DESULFOASV1_1245_D-aminoacylase	AF-A4YXM5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4YXM5-F1-model_v4 Adenine deaminase 2	0.130	518	303	3	520	31	379	5.095E-12	263
+DESULFOASV1_1245_D-aminoacylase	AF-A6TBK1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6TBK1-F1-model_v4 Adenine deaminase	0.131	520	299	3	522	23	367	3.785E-13	263
+DESULFOASV1_1245_D-aminoacylase	AF-O57740-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O57740-F1-model_v4 Dihydroorotase	0.152	527	337	3	529	6	403	8.159E-13	262
+DESULFOASV1_1245_D-aminoacylase	AF-Q5WGA8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5WGA8-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.117	518	364	1	518	1	413	1.756E-13	262
+DESULFOASV1_1245_D-aminoacylase	AF-Q97KN0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q97KN0-F1-model_v4 Adenine deaminase	0.131	520	294	3	522	19	357	1.234E-12	261
+DESULFOASV1_1245_D-aminoacylase	AF-Q5KY53-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5KY53-F1-model_v4 Adenine deaminase	0.126	520	295	3	522	20	358	4.260E-13	261
+DESULFOASV1_1245_D-aminoacylase	AF-A4FNE8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4FNE8-F1-model_v4 Imidazolonepropionase	0.107	513	343	2	514	3	387	4.030E-11	260
+DESULFOASV1_1245_D-aminoacylase	AF-A0LZE0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0LZE0-F1-model_v4 Imidazolonepropionase	0.121	512	360	1	512	1	411	1.476E-11	260
+DESULFOASV1_1245_D-aminoacylase	AF-Q8RFG1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8RFG1-F1-model_v4 Imidazolonepropionase	0.117	513	360	3	515	5	413	1.391E-11	260
+DESULFOASV1_1245_D-aminoacylase	AF-O29701-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O29701-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase 1	0.131	519	347	3	521	2	401	4.519E-13	260
+DESULFOASV1_1245_D-aminoacylase	AF-A7Z463-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7Z463-F1-model_v4 Adenine deaminase	0.139	520	291	3	522	21	359	2.359E-13	260
+DESULFOASV1_1245_D-aminoacylase	AF-A7FQU9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7FQU9-F1-model_v4 Adenine deaminase	0.116	520	309	3	522	29	378	1.309E-12	260
+DESULFOASV1_1245_D-aminoacylase	AF-Q5Z0G2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5Z0G2-F1-model_v4 Imidazolonepropionase	0.099	513	349	2	514	3	390	2.827E-11	259
+DESULFOASV1_1245_D-aminoacylase	AF-P64418-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P64418-F1-model_v4 Imidazolonepropionase	0.125	520	357	3	522	4	412	1.869E-11	258
+DESULFOASV1_1245_D-aminoacylase	AF-Q7N291-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7N291-F1-model_v4 Imidazolonepropionase	0.119	514	354	1	514	8	410	3.581E-11	258
+DESULFOASV1_1245_D-aminoacylase	AF-A6VH76-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6VH76-F1-model_v4 5'-deoxyadenosine deaminase	0.115	517	354	3	519	2	402	9.183E-13	258
+DESULFOASV1_1245_D-aminoacylase	AF-B7ISJ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7ISJ0-F1-model_v4 Imidazolonepropionase	0.126	519	359	3	521	4	415	9.760E-12	258
+DESULFOASV1_1245_D-aminoacylase	AF-A7GA53-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7GA53-F1-model_v4 Adenine deaminase	0.120	520	307	3	522	29	378	1.866E-12	258
+DESULFOASV1_1245_D-aminoacylase	AF-A5IVB2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5IVB2-F1-model_v4 Imidazolonepropionase	0.129	520	355	3	522	4	412	2.665E-11	257
+DESULFOASV1_1245_D-aminoacylase	AF-Q6LX61-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6LX61-F1-model_v4 5'-deoxyadenosine deaminase	0.120	517	352	3	519	2	402	9.741E-13	257
+DESULFOASV1_1245_D-aminoacylase	AF-Q3AC64-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3AC64-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.111	519	362	1	519	5	412	4.785E-14	257
+DESULFOASV1_1245_D-aminoacylase	AF-Q6ANH2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6ANH2-F1-model_v4 Adenine deaminase 1	0.126	520	303	3	522	23	370	4.794E-13	257
+DESULFOASV1_1245_D-aminoacylase	AF-A4FW32-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4FW32-F1-model_v4 5'-deoxyadenosine deaminase	0.122	517	351	3	519	2	402	2.363E-12	255
+DESULFOASV1_1245_D-aminoacylase	AF-Q71YS6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q71YS6-F1-model_v4 Adenine deaminase	0.138	517	290	3	519	22	358	9.165E-14	255
+DESULFOASV1_1245_D-aminoacylase	AF-Q6HX62-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6HX62-F1-model_v4 Putative adenine deaminase BA_3032/GBAA_3032/BAS2818	0.130	520	299	3	522	28	372	7.263E-12	255
+DESULFOASV1_1245_D-aminoacylase	AF-A5WA64-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5WA64-F1-model_v4 Imidazolonepropionase	0.129	514	348	1	514	1	401	3.799E-11	254
+DESULFOASV1_1245_D-aminoacylase	AF-Q9EYU0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9EYU0-F1-model_v4 Melamine deaminase	0.119	523	388	1	523	2	442	1.094E-13	254
+DESULFOASV1_1245_D-aminoacylase	AF-B2TJH6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2TJH6-F1-model_v4 Adenine deaminase	0.134	517	290	3	519	23	358	1.563E-12	254
+DESULFOASV1_1245_D-aminoacylase	AF-B1HR71-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1HR71-F1-model_v4 Adenine deaminase	0.148	520	291	3	522	23	364	1.470E-13	254
+DESULFOASV1_1245_D-aminoacylase	AF-Q9X034-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9X034-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.132	515	332	4	518	2	384	8.672E-12	253
+DESULFOASV1_1245_D-aminoacylase	AF-Q9HN51-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9HN51-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.109	517	358	2	518	4	406	8.159E-13	253
+DESULFOASV1_1245_D-aminoacylase	AF-A4J872-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4J872-F1-model_v4 Adenine deaminase	0.170	520	286	3	522	23	367	8.144E-14	253
+DESULFOASV1_1245_D-aminoacylase	AF-O32445-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O32445-F1-model_v4 N-acetylglucosamine-6-phosphate deacetylase	0.140	509	321	3	511	2	375	1.762E-11	252
+DESULFOASV1_1245_D-aminoacylase	AF-A0QRN6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0QRN6-F1-model_v4 Imidazolonepropionase	0.121	519	345	2	520	3	396	6.454E-12	252
+DESULFOASV1_1245_D-aminoacylase	AF-Q0S7Q9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0S7Q9-F1-model_v4 Imidazolonepropionase	0.114	513	343	2	514	8	395	2.368E-11	252
+DESULFOASV1_1245_D-aminoacylase	AF-Q65K51-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q65K51-F1-model_v4 Adenine deaminase	0.131	519	295	3	521	21	360	2.655E-13	252
+DESULFOASV1_1245_D-aminoacylase	AF-P44537-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P44537-F1-model_v4 N-acetylglucosamine-6-phosphate deacetylase	0.121	511	331	1	511	1	378	5.105E-11	251
+DESULFOASV1_1245_D-aminoacylase	AF-Q02ES4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q02ES4-F1-model_v4 Imidazolonepropionase	0.128	514	349	1	514	1	401	1.563E-12	251
+DESULFOASV1_1245_D-aminoacylase	AF-A8AZ63-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8AZ63-F1-model_v4 Imidazolonepropionase	0.120	517	366	3	519	5	421	2.232E-11	251
+DESULFOASV1_1245_D-aminoacylase	AF-B8E183-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8E183-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.129	519	351	1	519	1	404	5.713E-14	250
+DESULFOASV1_1245_D-aminoacylase	AF-P72156-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P72156-F1-model_v4 Atrazine chlorohydrolase	0.105	523	394	1	523	2	442	8.656E-13	250
+DESULFOASV1_1245_D-aminoacylase	AF-Q04DZ9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q04DZ9-F1-model_v4 Adenine deaminase 2	0.143	521	297	3	523	6	352	9.741E-13	250
+DESULFOASV1_1245_D-aminoacylase	AF-Q8CUS7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8CUS7-F1-model_v4 Adenine deaminase	0.126	517	293	3	519	23	358	3.176E-12	250
+DESULFOASV1_1245_D-aminoacylase	AF-Q11JE6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q11JE6-F1-model_v4 Adenine deaminase	0.127	518	302	3	520	31	377	3.182E-11	250
+DESULFOASV1_1245_D-aminoacylase	AF-P0AF18-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0AF18-F1-model_v4 N-acetylglucosamine-6-phosphate deacetylase	0.145	513	325	3	515	2	382	3.182E-11	249
+DESULFOASV1_1245_D-aminoacylase	AF-A4WP35-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4WP35-F1-model_v4 Adenine deaminase	0.137	510	282	3	512	20	347	9.183E-13	249
+DESULFOASV1_1245_D-aminoacylase	AF-C5CI63-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5CI63-F1-model_v4 Adenine deaminase	0.127	527	299	3	529	18	361	6.454E-12	249
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KF49-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KF49-F1-model_v4 Putative adenine deaminase BH0637	0.131	518	298	3	520	28	371	3.176E-12	249
+DESULFOASV1_1245_D-aminoacylase	AF-A6U455-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6U455-F1-model_v4 Imidazolonepropionase	0.125	512	351	3	514	4	405	5.745E-11	248
+DESULFOASV1_1245_D-aminoacylase	AF-Q82HL5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q82HL5-F1-model_v4 Imidazolonepropionase	0.114	511	353	2	512	15	413	9.200E-12	248
+DESULFOASV1_1245_D-aminoacylase	AF-A4XJI3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4XJI3-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.116	519	358	1	519	1	406	8.174E-12	248
+DESULFOASV1_1245_D-aminoacylase	AF-Q0TR21-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0TR21-F1-model_v4 Adenine deaminase	0.137	519	293	3	521	5	345	6.821E-14	248
+DESULFOASV1_1245_D-aminoacylase	AF-A8FCR4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8FCR4-F1-model_v4 Adenine deaminase	0.136	520	292	3	522	21	359	4.803E-12	248
+DESULFOASV1_1245_D-aminoacylase	AF-A0AJJ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0AJJ5-F1-model_v4 Adenine deaminase	0.115	517	297	3	519	22	358	7.677E-14	248
+DESULFOASV1_1245_D-aminoacylase	AF-Q2RL95-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2RL95-F1-model_v4 Adenine deaminase	0.125	521	305	3	523	27	376	1.165E-11	248
+DESULFOASV1_1245_D-aminoacylase	AF-A4X3X8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4X3X8-F1-model_v4 Imidazolonepropionase	0.129	513	338	2	514	3	391	5.745E-11	247
+DESULFOASV1_1245_D-aminoacylase	AF-O34450-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O34450-F1-model_v4 N-acetylglucosamine-6-phosphate deacetylase	0.120	522	343	2	523	4	394	7.263E-12	247
+DESULFOASV1_1245_D-aminoacylase	AF-Q4KJN0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q4KJN0-F1-model_v4 Imidazolonepropionase	0.122	513	350	1	513	1	400	8.656E-13	247
+DESULFOASV1_1245_D-aminoacylase	AF-B2SD97-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2SD97-F1-model_v4 Imidazolonepropionase	0.122	509	349	2	510	6	404	7.719E-11	247
+DESULFOASV1_1245_D-aminoacylase	AF-Q6ANH1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6ANH1-F1-model_v4 Adenine deaminase 2	0.141	527	293	3	529	21	362	3.369E-12	247
+DESULFOASV1_1245_D-aminoacylase	AF-Q835Z6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q835Z6-F1-model_v4 Adenine deaminase	0.128	519	295	3	521	5	343	1.389E-12	247
+DESULFOASV1_1245_D-aminoacylase	AF-P0AF19-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0AF19-F1-model_v4 N-acetylglucosamine-6-phosphate deacetylase	0.145	513	325	3	515	2	382	4.275E-11	246
+DESULFOASV1_1245_D-aminoacylase	AF-Q8FVB5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8FVB5-F1-model_v4 Imidazolonepropionase	0.124	509	349	2	510	6	404	9.778E-11	246
+DESULFOASV1_1245_D-aminoacylase	AF-Q7P192-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7P192-F1-model_v4 Imidazolonepropionase	0.135	510	346	2	511	9	409	9.778E-11	246
+DESULFOASV1_1245_D-aminoacylase	AF-O29265-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O29265-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase 2	0.127	517	341	3	519	4	395	7.250E-13	246
+DESULFOASV1_1245_D-aminoacylase	AF-C1CZZ4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1CZZ4-F1-model_v4 Adenine deaminase	0.115	521	299	3	523	28	366	4.803E-12	246
+DESULFOASV1_1245_D-aminoacylase	AF-Q9ZMG9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9ZMG9-F1-model_v4 Probable dihydroorotase-like protein	0.114	516	333	4	519	2	378	6.454E-12	245
+DESULFOASV1_1245_D-aminoacylase	AF-A6LNR9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6LNR9-F1-model_v4 Adenine deaminase	0.120	519	300	3	521	18	359	1.661E-11	245
+DESULFOASV1_1245_D-aminoacylase	AF-Q8Y6E5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8Y6E5-F1-model_v4 Adenine deaminase	0.143	520	291	3	522	23	362	4.794E-13	245
+DESULFOASV1_1245_D-aminoacylase	AF-Q3KJE5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3KJE5-F1-model_v4 Imidazolonepropionase	0.108	511	354	1	511	1	398	1.236E-11	243
+DESULFOASV1_1245_D-aminoacylase	AF-A3PN31-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3PN31-F1-model_v4 Adenine deaminase	0.145	509	279	3	511	20	346	2.507E-12	243
+DESULFOASV1_1245_D-aminoacylase	AF-C3KZB6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C3KZB6-F1-model_v4 Adenine deaminase	0.122	520	306	3	522	29	378	1.236E-11	243
+DESULFOASV1_1245_D-aminoacylase	AF-Q3BV03-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3BV03-F1-model_v4 Imidazolonepropionase	0.106	509	353	3	511	5	400	2.236E-10	242
+DESULFOASV1_1245_D-aminoacylase	AF-Q9HU91-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9HU91-F1-model_v4 Imidazolonepropionase	0.128	514	349	1	514	1	401	6.083E-12	242
+DESULFOASV1_1245_D-aminoacylase	AF-B7V3I5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7V3I5-F1-model_v4 Imidazolonepropionase	0.128	514	349	1	514	1	401	6.083E-12	242
+DESULFOASV1_1245_D-aminoacylase	AF-Q8ES91-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8ES91-F1-model_v4 Putative adenine deaminase OB0751	0.116	519	303	3	521	27	370	2.232E-11	242
+DESULFOASV1_1245_D-aminoacylase	AF-O52063-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O52063-F1-model_v4 N-isopropylammelide isopropyl amidohydrolase	0.129	518	345	3	520	7	403	7.719E-11	241
+DESULFOASV1_1245_D-aminoacylase	AF-B9KND1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9KND1-F1-model_v4 Adenine deaminase	0.145	509	279	3	511	20	346	2.822E-12	241
+DESULFOASV1_1245_D-aminoacylase	AF-Q81BX6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q81BX6-F1-model_v4 Putative adenine deaminase BC_3012	0.132	520	299	3	522	33	377	3.375E-11	241
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KZ78-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KZ78-F1-model_v4 Imidazolonepropionase	0.117	512	342	2	513	4	391	9.778E-11	240
+DESULFOASV1_1245_D-aminoacylase	AF-Q49ZQ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q49ZQ6-F1-model_v4 Imidazolonepropionase	0.129	519	354	3	521	4	411	2.108E-10	240
+DESULFOASV1_1245_D-aminoacylase	AF-B7I268-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7I268-F1-model_v4 Imidazolonepropionase	0.122	513	350	1	513	1	400	5.095E-12	239
+DESULFOASV1_1245_D-aminoacylase	AF-A5EQB8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5EQB8-F1-model_v4 Imidazolonepropionase	0.115	507	350	3	509	7	403	2.108E-10	239
+DESULFOASV1_1245_D-aminoacylase	AF-Q5NZY0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5NZY0-F1-model_v4 Imidazolonepropionase	0.119	522	358	3	524	6	412	1.167E-10	239
+DESULFOASV1_1245_D-aminoacylase	AF-A3MA48-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3MA48-F1-model_v4 Imidazolonepropionase	0.119	513	352	1	513	1	400	7.705E-12	238
+DESULFOASV1_1245_D-aminoacylase	AF-Q579E7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q579E7-F1-model_v4 Imidazolonepropionase	0.122	509	349	2	510	6	404	2.236E-10	238
+DESULFOASV1_1245_D-aminoacylase	AF-Q3ITF7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3ITF7-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.124	517	352	2	518	3	405	5.086E-13	238
+DESULFOASV1_1245_D-aminoacylase	AF-P0CI72-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0CI72-F1-model_v4 Isoxanthopterin deaminase	0.127	520	394	2	521	9	460	6.083E-12	238
+DESULFOASV1_1245_D-aminoacylase	AF-Q38V07-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q38V07-F1-model_v4 Adenine deaminase 2	0.125	520	298	3	522	21	362	2.228E-12	238
+DESULFOASV1_1245_D-aminoacylase	AF-A7X5T3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7X5T3-F1-model_v4 Imidazolonepropionase	0.120	512	353	3	514	4	405	3.382E-10	237
+DESULFOASV1_1245_D-aminoacylase	AF-A9A9H3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9A9H3-F1-model_v4 5'-deoxyadenosine deaminase	0.107	517	357	3	519	2	402	3.176E-12	237
+DESULFOASV1_1245_D-aminoacylase	AF-Q2LUH4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2LUH4-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase 2	0.100	516	371	3	518	8	420	1.476E-11	237
+DESULFOASV1_1245_D-aminoacylase	AF-B2I2C1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2I2C1-F1-model_v4 Imidazolonepropionase	0.119	513	352	1	513	1	400	9.760E-12	236
+DESULFOASV1_1245_D-aminoacylase	AF-Q2YIL5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2YIL5-F1-model_v4 Imidazolonepropionase	0.121	509	350	2	510	6	404	7.277E-11	235
+DESULFOASV1_1245_D-aminoacylase	AF-A1R4S6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1R4S6-F1-model_v4 Imidazolonepropionase	0.122	512	352	2	513	8	409	3.369E-12	235
+DESULFOASV1_1245_D-aminoacylase	AF-Q21IS0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q21IS0-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.114	517	364	3	519	9	420	1.983E-11	235
+DESULFOASV1_1245_D-aminoacylase	AF-B7GUU8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7GUU8-F1-model_v4 Imidazolonepropionase	0.122	513	350	1	513	1	400	1.035E-11	234
+DESULFOASV1_1245_D-aminoacylase	AF-Q1G825-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1G825-F1-model_v4 Adenine deaminase	0.146	521	294	3	523	6	350	1.311E-11	234
+DESULFOASV1_1245_D-aminoacylase	AF-Q84F86-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q84F86-F1-model_v4 N-acetylglucosamine-6-phosphate deacetylase	0.123	521	336	1	521	4	387	7.263E-12	233
+DESULFOASV1_1245_D-aminoacylase	AF-Q72EX7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q72EX7-F1-model_v4 Adenine deaminase	0.143	521	291	3	523	22	361	7.263E-12	233
+DESULFOASV1_1245_D-aminoacylase	AF-A6QJH1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6QJH1-F1-model_v4 Imidazolonepropionase	0.125	520	357	3	522	4	412	3.806E-10	232
+DESULFOASV1_1245_D-aminoacylase	AF-Q5UYR3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5UYR3-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.112	517	359	2	518	3	407	1.476E-11	232
+DESULFOASV1_1245_D-aminoacylase	AF-P72934-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P72934-F1-model_v4 Probable dihydroorotase-like protein	0.113	506	386	2	507	3	438	5.105E-11	232
+DESULFOASV1_1245_D-aminoacylase	AF-A9WVU2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9WVU2-F1-model_v4 Imidazolonepropionase	0.125	509	348	2	510	6	404	8.189E-11	231
+DESULFOASV1_1245_D-aminoacylase	AF-O34909-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O34909-F1-model_v4 Putative adenine deaminase YerA	0.112	520	305	3	522	28	371	4.812E-11	231
+DESULFOASV1_1245_D-aminoacylase	AF-Q8FW12-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8FW12-F1-model_v4 Adenine deaminase	0.130	510	284	3	512	35	362	2.822E-12	231
+DESULFOASV1_1245_D-aminoacylase	AF-Q578E4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q578E4-F1-model_v4 Adenine deaminase	0.136	510	283	3	512	35	362	2.100E-12	231
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KWE5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KWE5-F1-model_v4 Imidazolonepropionase	0.127	512	347	2	513	8	406	1.476E-11	230
+DESULFOASV1_1245_D-aminoacylase	AF-A1SPZ7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1SPZ7-F1-model_v4 Imidazolonepropionase	0.151	510	329	2	511	3	390	9.200E-12	229
+DESULFOASV1_1245_D-aminoacylase	AF-Q0AP91-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0AP91-F1-model_v4 Imidazolonepropionase	0.128	509	345	3	511	5	401	4.821E-10	229
+DESULFOASV1_1245_D-aminoacylase	AF-B4RW95-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4RW95-F1-model_v4 Imidazolonepropionase	0.131	510	358	3	512	7	419	6.846E-12	229
+DESULFOASV1_1245_D-aminoacylase	AF-Q8YCA5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8YCA5-F1-model_v4 Adenine deaminase	0.130	510	284	3	512	35	362	4.023E-12	229
+DESULFOASV1_1245_D-aminoacylase	AF-Q92YE0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q92YE0-F1-model_v4 Adenine deaminase 4	0.107	520	310	3	522	20	367	2.507E-12	229
+DESULFOASV1_1245_D-aminoacylase	AF-B8JBF9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8JBF9-F1-model_v4 Imidazolonepropionase	0.116	525	364	4	528	9	421	2.236E-10	228
+DESULFOASV1_1245_D-aminoacylase	AF-C5C8I6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5C8I6-F1-model_v4 Imidazolonepropionase	0.125	512	348	2	513	3	401	4.527E-12	227
+DESULFOASV1_1245_D-aminoacylase	AF-Q5LRD9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5LRD9-F1-model_v4 Imidazolonepropionase	0.136	510	344	1	510	2	400	1.869E-11	227
+DESULFOASV1_1245_D-aminoacylase	AF-Q1GSH1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1GSH1-F1-model_v4 Imidazolonepropionase	0.122	510	345	1	510	10	403	1.311E-11	227
+DESULFOASV1_1245_D-aminoacylase	AF-Q141F5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q141F5-F1-model_v4 Imidazolonepropionase	0.095	520	364	2	521	3	405	1.572E-09	227
+DESULFOASV1_1245_D-aminoacylase	AF-Q2FVT6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2FVT6-F1-model_v4 Imidazolonepropionase	0.129	520	355	3	522	4	412	9.796E-10	227
+DESULFOASV1_1245_D-aminoacylase	AF-Q2IHZ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2IHZ6-F1-model_v4 Imidazolonepropionase	0.117	525	364	4	528	9	421	1.873E-10	227
+DESULFOASV1_1245_D-aminoacylase	AF-B8GA45-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8GA45-F1-model_v4 Imidazolonepropionase	0.135	513	363	3	515	6	426	7.719E-11	227
+DESULFOASV1_1245_D-aminoacylase	AF-Q8RCH7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8RCH7-F1-model_v4 Imidazolonepropionase	0.118	515	362	3	517	5	415	1.667E-09	226
+DESULFOASV1_1245_D-aminoacylase	AF-Q88SR1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q88SR1-F1-model_v4 Adenine deaminase	0.120	520	297	3	522	7	345	3.792E-12	225
+DESULFOASV1_1245_D-aminoacylase	AF-A8Z519-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8Z519-F1-model_v4 Imidazolonepropionase	0.131	520	355	3	522	4	412	1.481E-09	224
+DESULFOASV1_1245_D-aminoacylase	AF-Q58936-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q58936-F1-model_v4 5'-deoxyadenosine deaminase	0.121	518	351	4	521	3	402	2.512E-11	224
+DESULFOASV1_1245_D-aminoacylase	AF-Q92342-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q92342-F1-model_v4 Uncharacterized protein C1F8.04c	0.128	520	377	4	523	2	434	2.665E-11	224
+DESULFOASV1_1245_D-aminoacylase	AF-B1MY57-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1MY57-F1-model_v4 Adenine deaminase	0.132	517	292	3	519	7	343	8.672E-12	224
+DESULFOASV1_1245_D-aminoacylase	AF-A6UVJ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6UVJ0-F1-model_v4 Adenine deaminase	0.131	510	315	3	512	2	364	1.391E-11	224
+DESULFOASV1_1245_D-aminoacylase	AF-Q1D4A5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1D4A5-F1-model_v4 Imidazolonepropionase	0.132	516	358	3	518	6	418	2.517E-10	223
+DESULFOASV1_1245_D-aminoacylase	AF-A1VD37-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1VD37-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.109	517	364	3	519	7	416	5.105E-11	223
+DESULFOASV1_1245_D-aminoacylase	AF-Q57RH0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q57RH0-F1-model_v4 Imidazolonepropionase	0.130	510	346	2	511	8	406	1.983E-11	222
+DESULFOASV1_1245_D-aminoacylase	AF-Q8XW31-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8XW31-F1-model_v4 Imidazolonepropionase	0.122	509	349	3	511	8	406	1.769E-09	222
+DESULFOASV1_1245_D-aminoacylase	AF-Q2RUU1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2RUU1-F1-model_v4 Imidazolonepropionase	0.134	509	346	3	511	8	407	1.983E-11	222
+DESULFOASV1_1245_D-aminoacylase	AF-B0KCB7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0KCB7-F1-model_v4 Imidazolonepropionase	0.110	515	365	3	517	5	415	7.290E-10	222
+DESULFOASV1_1245_D-aminoacylase	AF-B9J8S0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9J8S0-F1-model_v4 Pterin deaminase	0.123	517	363	2	518	13	427	3.005E-10	222
+DESULFOASV1_1245_D-aminoacylase	AF-Q58854-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q58854-F1-model_v4 Adenine deaminase	0.120	509	291	3	511	2	333	1.869E-11	222
+DESULFOASV1_1245_D-aminoacylase	AF-Q1WTM3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1WTM3-F1-model_v4 Adenine deaminase	0.127	520	296	3	522	21	360	3.369E-12	222
+DESULFOASV1_1245_D-aminoacylase	AF-Q5PG58-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5PG58-F1-model_v4 Imidazolonepropionase	0.129	510	347	2	511	8	406	2.104E-11	221
+DESULFOASV1_1245_D-aminoacylase	AF-A6X5D7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6X5D7-F1-model_v4 Adenine deaminase	0.133	521	295	3	523	17	357	1.035E-11	221
+DESULFOASV1_1245_D-aminoacylase	AF-Q8ZQR2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8ZQR2-F1-model_v4 Imidazolonepropionase	0.129	510	347	2	511	8	406	2.827E-11	220
+DESULFOASV1_1245_D-aminoacylase	AF-Q8Z8A0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8Z8A0-F1-model_v4 Imidazolonepropionase	0.127	510	347	2	511	8	406	2.827E-11	219
+DESULFOASV1_1245_D-aminoacylase	AF-B2V525-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2V525-F1-model_v4 Adenine deaminase	0.129	517	292	3	519	23	358	1.391E-11	219
+DESULFOASV1_1245_D-aminoacylase	AF-A5VVJ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5VVJ5-F1-model_v4 Imidazolonepropionase	0.117	509	351	2	510	6	404	2.670E-10	218
+DESULFOASV1_1245_D-aminoacylase	AF-B2JCJ1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2JCJ1-F1-model_v4 Imidazolonepropionase	0.100	520	362	2	521	3	405	3.188E-10	218
+DESULFOASV1_1245_D-aminoacylase	AF-B4TQT2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4TQT2-F1-model_v4 Imidazolonepropionase	0.129	510	347	2	511	8	406	3.182E-11	218
+DESULFOASV1_1245_D-aminoacylase	AF-C5BSJ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5BSJ0-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.100	517	370	3	519	9	420	3.806E-10	218
+DESULFOASV1_1245_D-aminoacylase	AF-Q3ZXH1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3ZXH1-F1-model_v4 Adenine deaminase	0.132	523	295	3	525	20	360	7.705E-12	218
+DESULFOASV1_1245_D-aminoacylase	AF-B7IEM2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7IEM2-F1-model_v4 Adenine deaminase	0.133	520	297	3	522	18	360	6.083E-12	218
+DESULFOASV1_1245_D-aminoacylase	AF-B8J2Q8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8J2Q8-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.093	517	371	3	519	6	415	7.719E-11	217
+DESULFOASV1_1245_D-aminoacylase	AF-Q04HC1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q04HC1-F1-model_v4 Adenine deaminase 1	0.120	519	298	3	521	7	346	2.512E-11	217
+DESULFOASV1_1245_D-aminoacylase	AF-Q24R88-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q24R88-F1-model_v4 Adenine deaminase	0.127	520	293	3	522	21	357	5.105E-11	217
+DESULFOASV1_1245_D-aminoacylase	AF-C1CWB5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1CWB5-F1-model_v4 Imidazolonepropionase	0.113	512	352	1	512	2	399	1.316E-09	216
+DESULFOASV1_1245_D-aminoacylase	AF-B4UEL6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4UEL6-F1-model_v4 Imidazolonepropionase	0.113	525	365	4	528	9	421	1.170E-09	216
+DESULFOASV1_1245_D-aminoacylase	AF-B0UDG6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0UDG6-F1-model_v4 Adenine deaminase	0.135	509	282	3	511	20	346	3.375E-11	216
+DESULFOASV1_1245_D-aminoacylase	AF-A4WKX3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4WKX3-F1-model_v4 Imidazolonepropionase	0.121	509	342	3	511	2	391	2.521E-09	215
+DESULFOASV1_1245_D-aminoacylase	AF-Q7CS13-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7CS13-F1-model_v4 Deacetylase Atu3266	0.130	514	325	2	515	14	388	2.670E-10	214
+DESULFOASV1_1245_D-aminoacylase	AF-Q1Q9E2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1Q9E2-F1-model_v4 Imidazolonepropionase	0.112	509	370	3	511	9	426	9.796E-10	214
+DESULFOASV1_1245_D-aminoacylase	AF-Q3Z8C6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3Z8C6-F1-model_v4 Adenine deaminase	0.126	520	295	3	522	20	357	4.275E-11	214
+DESULFOASV1_1245_D-aminoacylase	AF-Q28MB2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q28MB2-F1-model_v4 Adenine deaminase 2	0.131	521	306	3	523	36	388	5.745E-11	214
+DESULFOASV1_1245_D-aminoacylase	AF-A4YNK6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4YNK6-F1-model_v4 Imidazolonepropionase	0.112	507	352	3	509	7	403	9.217E-11	213
+DESULFOASV1_1245_D-aminoacylase	AF-A4XZQ4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4XZQ4-F1-model_v4 Imidazolonepropionase	0.097	513	358	2	514	8	404	3.594E-09	213
+DESULFOASV1_1245_D-aminoacylase	AF-B5F065-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5F065-F1-model_v4 Imidazolonepropionase	0.127	510	347	2	511	8	406	8.688E-11	213
+DESULFOASV1_1245_D-aminoacylase	AF-Q24UA2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q24UA2-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.134	520	353	2	521	3	411	6.821E-14	213
+DESULFOASV1_1245_D-aminoacylase	AF-Q3IZ66-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3IZ66-F1-model_v4 Adenine deaminase	0.150	509	277	3	511	20	346	1.759E-12	213
+DESULFOASV1_1245_D-aminoacylase	AF-Q9RYP0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9RYP0-F1-model_v4 Adenine deaminase	0.143	522	292	3	524	40	381	1.311E-11	212
+DESULFOASV1_1245_D-aminoacylase	AF-Q03YC9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q03YC9-F1-model_v4 Adenine deaminase	0.139	516	289	3	518	7	343	1.569E-10	212
+DESULFOASV1_1245_D-aminoacylase	AF-B8FPU4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8FPU4-F1-model_v4 Adenine deaminase	0.138	520	290	3	522	21	357	6.466E-11	212
+DESULFOASV1_1245_D-aminoacylase	AF-Q12XX8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q12XX8-F1-model_v4 Adenine deaminase	0.141	521	296	3	523	22	367	1.314E-10	212
+DESULFOASV1_1245_D-aminoacylase	AF-Q162E3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q162E3-F1-model_v4 Imidazolonepropionase	0.126	507	344	4	510	2	396	7.290E-10	211
+DESULFOASV1_1245_D-aminoacylase	AF-Q5QV40-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5QV40-F1-model_v4 Imidazolonepropionase	0.116	520	355	3	522	2	404	1.987E-10	211
+DESULFOASV1_1245_D-aminoacylase	AF-A4SSN5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4SSN5-F1-model_v4 Imidazolonepropionase	0.112	509	353	3	511	10	407	8.205E-10	211
+DESULFOASV1_1245_D-aminoacylase	AF-A5VFA5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5VFA5-F1-model_v4 Imidazolonepropionase	0.124	507	344	3	509	5	398	1.873E-10	210
+DESULFOASV1_1245_D-aminoacylase	AF-A6X391-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6X391-F1-model_v4 Deacetylase Oant_2987	0.111	514	332	2	515	9	383	5.425E-10	210
+DESULFOASV1_1245_D-aminoacylase	AF-B8DKS6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8DKS6-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.113	517	363	3	519	7	416	1.238E-10	210
+DESULFOASV1_1245_D-aminoacylase	AF-Q2FRU6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2FRU6-F1-model_v4 5'-deoxyadenosine deaminase	0.095	520	367	2	521	21	427	1.481E-09	210
+DESULFOASV1_1245_D-aminoacylase	AF-A5FR71-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5FR71-F1-model_v4 Adenine deaminase	0.117	520	298	3	522	20	357	1.035E-11	209
+DESULFOASV1_1245_D-aminoacylase	AF-Q5WD17-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5WD17-F1-model_v4 Adenine deaminase 2	0.120	519	299	3	521	5	345	2.512E-11	209
+DESULFOASV1_1245_D-aminoacylase	AF-Q2YYV8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2YYV8-F1-model_v4 Imidazolonepropionase	0.118	520	360	3	522	4	412	4.038E-10	208
+DESULFOASV1_1245_D-aminoacylase	AF-Q38ZJ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q38ZJ0-F1-model_v4 Adenine deaminase 1	0.137	527	306	3	529	25	379	5.734E-12	208
+DESULFOASV1_1245_D-aminoacylase	AF-Q2P345-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2P345-F1-model_v4 Imidazolonepropionase	0.113	509	350	3	511	5	400	1.037E-10	207
+DESULFOASV1_1245_D-aminoacylase	AF-B5R754-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5R754-F1-model_v4 Imidazolonepropionase	0.127	510	347	2	511	8	406	1.873E-10	207
+DESULFOASV1_1245_D-aminoacylase	AF-B5FP54-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5FP54-F1-model_v4 Imidazolonepropionase	0.130	510	346	2	511	8	406	1.873E-10	207
+DESULFOASV1_1245_D-aminoacylase	AF-P64417-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P64417-F1-model_v4 Imidazolonepropionase	0.133	512	348	3	514	4	405	4.544E-10	207
+DESULFOASV1_1245_D-aminoacylase	AF-Q1MR44-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1MR44-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.110	517	364	3	519	7	416	3.806E-10	207
+DESULFOASV1_1245_D-aminoacylase	AF-Q1MDE8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1MDE8-F1-model_v4 Adenine deaminase 1	0.116	511	290	3	513	24	352	2.512E-11	207
+DESULFOASV1_1245_D-aminoacylase	AF-B9KSW5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9KSW5-F1-model_v4 Imidazolonepropionase	0.124	510	344	3	512	2	395	2.832E-10	206
+DESULFOASV1_1245_D-aminoacylase	AF-A6WYU9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6WYU9-F1-model_v4 Imidazolonepropionase	0.123	509	349	2	510	6	404	4.038E-10	206
+DESULFOASV1_1245_D-aminoacylase	AF-Q58110-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q58110-F1-model_v4 Uncharacterized protein MJ0699	0.103	521	338	1	521	3	380	5.425E-10	205
+DESULFOASV1_1245_D-aminoacylase	AF-B4TC41-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4TC41-F1-model_v4 Imidazolonepropionase	0.126	510	348	2	511	8	406	1.238E-10	205
+DESULFOASV1_1245_D-aminoacylase	AF-Q97C35-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q97C35-F1-model_v4 Dihydroorotase	0.108	528	362	1	528	1	407	7.734E-10	205
+DESULFOASV1_1245_D-aminoacylase	AF-Q72B14-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q72B14-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.110	517	364	3	519	7	416	1.039E-09	205
+DESULFOASV1_1245_D-aminoacylase	AF-A7I8N1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7I8N1-F1-model_v4 Adenine deaminase	0.152	521	284	3	523	22	357	4.038E-10	205
+DESULFOASV1_1245_D-aminoacylase	AF-B8IB34-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8IB34-F1-model_v4 Adenine deaminase	0.127	510	285	3	512	20	347	1.037E-10	205
+DESULFOASV1_1245_D-aminoacylase	AF-A0RZ37-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0RZ37-F1-model_v4 Adenine deaminase	0.140	521	304	3	523	23	376	9.217E-11	205
+DESULFOASV1_1245_D-aminoacylase	AF-Q4UTC0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q4UTC0-F1-model_v4 Imidazolonepropionase	0.116	509	349	3	511	5	400	2.517E-10	204
+DESULFOASV1_1245_D-aminoacylase	AF-A6UQD4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6UQD4-F1-model_v4 5'-deoxyadenosine deaminase	0.104	517	358	3	519	2	402	2.999E-11	204
+DESULFOASV1_1245_D-aminoacylase	AF-Q2YKR3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2YKR3-F1-model_v4 Adenine deaminase	0.129	510	285	3	512	35	362	5.105E-11	204
+DESULFOASV1_1245_D-aminoacylase	AF-B0TMM7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0TMM7-F1-model_v4 Adenine deaminase	0.123	510	291	3	512	32	364	1.873E-10	203
+DESULFOASV1_1245_D-aminoacylase	AF-Q15X43-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q15X43-F1-model_v4 Imidazolonepropionase	0.126	508	348	4	511	8	406	1.037E-10	202
+DESULFOASV1_1245_D-aminoacylase	AF-Q8NV65-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8NV65-F1-model_v4 Imidazolonepropionase	0.116	512	354	3	514	4	405	6.872E-10	202
+DESULFOASV1_1245_D-aminoacylase	AF-Q6G6Z0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6G6Z0-F1-model_v4 Imidazolonepropionase	0.118	520	360	3	522	4	412	8.704E-10	202
+DESULFOASV1_1245_D-aminoacylase	AF-O66851-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O66851-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase	0.134	521	349	3	523	6	409	4.030E-11	202
+DESULFOASV1_1245_D-aminoacylase	AF-Q2LTB7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2LTB7-F1-model_v4 5-methylthioadenosine/S-adenosylhomocysteine deaminase 1	0.124	516	359	3	518	6	416	3.568E-13	202
+DESULFOASV1_1245_D-aminoacylase	AF-B2T2Y6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2T2Y6-F1-model_v4 Imidazolonepropionase	0.115	516	356	2	517	3	405	8.205E-10	201
+DESULFOASV1_1245_D-aminoacylase	AF-Q5WJ39-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5WJ39-F1-model_v4 Adenine deaminase 1	0.138	520	292	3	522	23	362	4.030E-11	201
+DESULFOASV1_1245_D-aminoacylase	AF-B5BC37-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5BC37-F1-model_v4 Imidazolonepropionase	0.125	510	348	2	511	8	406	2.832E-10	200
+DESULFOASV1_1245_D-aminoacylase	AF-Q2FEG6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2FEG6-F1-model_v4 Imidazolonepropionase	0.133	520	354	3	522	4	412	1.481E-09	200
+DESULFOASV1_1245_D-aminoacylase	AF-Q0K7D1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0K7D1-F1-model_v4 Imidazolonepropionase	0.095	519	365	3	521	14	417	1.880E-08	200
+DESULFOASV1_1245_D-aminoacylase	AF-O29999-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O29999-F1-model_v4 Adenine deaminase	0.133	509	277	3	511	26	346	1.236E-11	199
+DESULFOASV1_1245_D-aminoacylase	AF-B1VUR8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1VUR8-F1-model_v4 Imidazolonepropionase	0.145	512	331	2	513	3	390	8.688E-11	198
+DESULFOASV1_1245_D-aminoacylase	AF-Q89GV2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q89GV2-F1-model_v4 Imidazolonepropionase	0.110	508	353	3	510	7	404	5.756E-10	198
+DESULFOASV1_1245_D-aminoacylase	AF-A9MTJ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9MTJ5-F1-model_v4 Imidazolonepropionase	0.121	510	350	2	511	8	406	2.372E-10	198
+DESULFOASV1_1245_D-aminoacylase	AF-B5QX58-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5QX58-F1-model_v4 Imidazolonepropionase	0.128	510	347	2	511	8	406	7.290E-10	197
+DESULFOASV1_1245_D-aminoacylase	AF-Q5HDM7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5HDM7-F1-model_v4 Imidazolonepropionase	0.122	520	358	3	522	4	412	6.106E-10	197
+DESULFOASV1_1245_D-aminoacylase	AF-A0LFB5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0LFB5-F1-model_v4 Adenine deaminase	0.136	519	289	3	521	23	358	7.277E-11	197
+DESULFOASV1_1245_D-aminoacylase	AF-A8GDJ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8GDJ0-F1-model_v4 Imidazolonepropionase	0.100	509	356	3	511	9	405	6.106E-10	196
+DESULFOASV1_1245_D-aminoacylase	AF-A9BIU9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9BIU9-F1-model_v4 Adenine deaminase	0.112	519	297	3	521	18	353	1.314E-10	196
+DESULFOASV1_1245_D-aminoacylase	AF-B7MFN5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7MFN5-F1-model_v4 Adenine deaminase	0.140	510	286	3	512	32	364	6.478E-10	196
+DESULFOASV1_1245_D-aminoacylase	AF-Q6GEA5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6GEA5-F1-model_v4 Imidazolonepropionase	0.123	519	358	3	521	4	412	1.241E-09	195
+DESULFOASV1_1245_D-aminoacylase	AF-C3MG57-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C3MG57-F1-model_v4 Adenine deaminase	0.119	511	289	3	513	20	348	3.581E-11	195
+DESULFOASV1_1245_D-aminoacylase	AF-Q3AE81-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3AE81-F1-model_v4 Adenine deaminase 2	0.145	520	287	3	522	19	355	8.688E-11	195
+DESULFOASV1_1245_D-aminoacylase	AF-A1VGE5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1VGE5-F1-model_v4 Adenine deaminase	0.136	521	293	3	523	22	361	1.311E-11	193
+DESULFOASV1_1245_D-aminoacylase	AF-P16689-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P16689-F1-model_v4 Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase	0.114	509	332	4	512	2	377	2.675E-09	192
+DESULFOASV1_1245_D-aminoacylase	AF-A4YQV7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4YQV7-F1-model_v4 Adenine deaminase 1	0.118	521	310	3	523	37	389	1.987E-10	192
+DESULFOASV1_1245_D-aminoacylase	AF-Q837K0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q837K0-F1-model_v4 Deacetylase EF_0837	0.142	509	310	3	511	5	366	3.199E-08	191
+DESULFOASV1_1245_D-aminoacylase	AF-Q7MK61-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7MK61-F1-model_v4 Imidazolonepropionase	0.118	521	354	1	521	1	402	2.112E-09	191
+DESULFOASV1_1245_D-aminoacylase	AF-C0PWX5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C0PWX5-F1-model_v4 Imidazolonepropionase	0.126	510	348	2	511	8	406	1.170E-09	190
+DESULFOASV1_1245_D-aminoacylase	AF-A9MJF3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9MJF3-F1-model_v4 Imidazolonepropionase	0.122	510	349	2	511	8	406	9.234E-10	190
+DESULFOASV1_1245_D-aminoacylase	AF-Q46XQ9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q46XQ9-F1-model_v4 Imidazolonepropionase	0.115	520	359	3	522	17	423	6.478E-10	189
+DESULFOASV1_1245_D-aminoacylase	AF-P76641-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P76641-F1-model_v4 Guanine deaminase	0.127	513	369	2	514	14	437	8.205E-10	188
+DESULFOASV1_1245_D-aminoacylase	AF-C5BF52-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5BF52-F1-model_v4 Adenine deaminase	0.117	510	293	3	512	32	364	4.830E-09	188
+DESULFOASV1_1245_D-aminoacylase	AF-Q1J1B1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1J1B1-F1-model_v4 Adenine deaminase	0.134	522	294	3	524	28	368	3.588E-10	187
+DESULFOASV1_1245_D-aminoacylase	AF-P95442-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P95442-F1-model_v4 Hydroxydechloroatrazine ethylaminohydrolase	0.126	521	388	1	521	2	446	7.705E-12	186
+DESULFOASV1_1245_D-aminoacylase	AF-Q2K5M6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2K5M6-F1-model_v4 Adenine deaminase 1	0.119	510	288	3	512	20	347	8.688E-11	186
+DESULFOASV1_1245_D-aminoacylase	AF-Q6MJY0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6MJY0-F1-model_v4 Adenine deaminase	0.145	510	284	3	512	31	363	1.987E-10	186
+DESULFOASV1_1245_D-aminoacylase	AF-Q7CXF0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7CXF0-F1-model_v4 Adenine deaminase 1	0.110	510	291	3	512	31	358	6.095E-11	185
+DESULFOASV1_1245_D-aminoacylase	AF-Q0TB37-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0TB37-F1-model_v4 Adenine deaminase	0.138	510	286	3	512	32	364	3.010E-09	185
+DESULFOASV1_1245_D-aminoacylase	AF-B3R6A3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B3R6A3-F1-model_v4 Imidazolonepropionase	0.107	519	360	3	521	14	417	1.396E-09	184
+DESULFOASV1_1245_D-aminoacylase	AF-A0KYQ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0KYQ5-F1-model_v4 N-acetylgalactosamine-6-phosphate deacetylase	0.111	522	341	1	522	7	391	2.838E-09	183
+DESULFOASV1_1245_D-aminoacylase	AF-A3NBG6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3NBG6-F1-model_v4 Imidazolonepropionase	0.123	514	353	2	515	3	405	6.490E-09	182
+DESULFOASV1_1245_D-aminoacylase	AF-Q8FBX7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8FBX7-F1-model_v4 Adenine deaminase	0.139	510	286	3	512	32	364	2.838E-09	182
+DESULFOASV1_1245_D-aminoacylase	AF-O50821-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O50821-F1-model_v4 Adenine deaminase	0.116	511	289	8	518	8	335	6.106E-10	181
+DESULFOASV1_1245_D-aminoacylase	AF-Q92N33-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q92N33-F1-model_v4 Adenine deaminase 1	0.118	511	289	3	513	20	348	7.719E-11	181
+DESULFOASV1_1245_D-aminoacylase	AF-C4ZXQ7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C4ZXQ7-F1-model_v4 Adenine deaminase	0.131	510	289	3	512	32	364	2.112E-09	181
+DESULFOASV1_1245_D-aminoacylase	AF-A0KF84-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0KF84-F1-model_v4 Imidazolonepropionase	0.137	509	343	3	511	10	407	2.675E-09	180
+DESULFOASV1_1245_D-aminoacylase	AF-A0B7V2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0B7V2-F1-model_v4 5'-deoxyadenosine deaminase	0.128	519	344	4	522	2	396	1.765E-10	179
+DESULFOASV1_1245_D-aminoacylase	AF-Q3JQH7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3JQH7-F1-model_v4 Imidazolonepropionase	0.123	516	354	2	517	3	407	1.319E-08	178
+DESULFOASV1_1245_D-aminoacylase	AF-B7NQW3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7NQW3-F1-model_v4 Adenine deaminase	0.134	510	288	3	512	32	364	1.041E-08	176
+DESULFOASV1_1245_D-aminoacylase	AF-Q46812-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q46812-F1-model_v4 Putative aminohydrolase SsnA	0.123	521	367	3	523	2	421	4.283E-10	174
+DESULFOASV1_1245_D-aminoacylase	AF-Q89H53-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q89H53-F1-model_v4 Adenine deaminase 2	0.124	521	308	3	523	38	390	1.991E-09	174
+DESULFOASV1_1245_D-aminoacylase	AF-Q68AP4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q68AP4-F1-model_v4 N-substituted formamide deformylase	0.117	536	458	2	521	6	541	4.544E-10	173
+DESULFOASV1_1245_D-aminoacylase	AF-P31441-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P31441-F1-model_v4 Adenine deaminase	0.140	510	286	3	512	32	364	7.304E-09	173
+DESULFOASV1_1245_D-aminoacylase	AF-B7NEX9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7NEX9-F1-model_v4 Adenine deaminase	0.135	510	287	3	512	32	364	1.769E-09	172
+DESULFOASV1_1245_D-aminoacylase	AF-B1IYS4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1IYS4-F1-model_v4 Adenine deaminase	0.136	510	287	3	512	32	364	1.241E-09	172
+DESULFOASV1_1245_D-aminoacylase	AF-Q1LJF1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1LJF1-F1-model_v4 Imidazolonepropionase	0.112	519	355	3	521	11	411	1.172E-08	171
+DESULFOASV1_1245_D-aminoacylase	AF-Q9RYX4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9RYX4-F1-model_v4 Probable guanine deaminase	0.136	516	376	2	517	3	438	3.820E-08	171
+DESULFOASV1_1245_D-aminoacylase	AF-Q5FQ87-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5FQ87-F1-model_v4 Adenine deaminase	0.136	510	283	3	512	20	347	1.667E-09	171
+DESULFOASV1_1245_D-aminoacylase	AF-P77554-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P77554-F1-model_v4 Uncharacterized protein YahJ	0.103	515	368	1	515	47	457	5.777E-08	170
+DESULFOASV1_1245_D-aminoacylase	AF-A7ZTM0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7ZTM0-F1-model_v4 Adenine deaminase	0.141	510	285	3	512	32	364	1.574E-08	170
+DESULFOASV1_1245_D-aminoacylase	AF-P25524-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P25524-F1-model_v4 Cytosine deaminase	0.128	511	348	4	514	8	407	3.016E-08	169
+DESULFOASV1_1245_D-aminoacylase	AF-Q0SYL1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0SYL1-F1-model_v4 Adenine deaminase	0.139	510	286	3	512	32	364	1.396E-09	168
+DESULFOASV1_1245_D-aminoacylase	AF-B5YX72-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5YX72-F1-model_v4 Adenine deaminase	0.133	510	288	3	512	32	364	3.594E-09	168
+DESULFOASV1_1245_D-aminoacylase	AF-Q3YWE3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3YWE3-F1-model_v4 Adenine deaminase	0.141	510	285	3	512	32	364	3.010E-09	166
+DESULFOASV1_1245_D-aminoacylase	AF-Q3J290-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3J290-F1-model_v4 Imidazolonepropionase	0.131	510	342	3	512	2	395	3.005E-10	164
+DESULFOASV1_1245_D-aminoacylase	AF-B7L789-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7L789-F1-model_v4 Adenine deaminase	0.132	510	288	3	512	32	364	1.399E-08	164
+DESULFOASV1_1245_D-aminoacylase	AF-B6I3P6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6I3P6-F1-model_v4 Adenine deaminase	0.133	510	288	3	512	32	364	7.304E-09	164
+DESULFOASV1_1245_D-aminoacylase	AF-Q317F9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q317F9-F1-model_v4 Adenine deaminase	0.117	509	290	3	511	21	349	4.552E-09	163
+DESULFOASV1_1245_D-aminoacylase	AF-B7M4F2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7M4F2-F1-model_v4 Adenine deaminase	0.138	510	286	3	512	32	364	5.124E-09	163
+DESULFOASV1_1245_D-aminoacylase	AF-Q31US8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q31US8-F1-model_v4 Adenine deaminase	0.136	510	287	3	512	32	364	4.291E-09	163
+DESULFOASV1_1245_D-aminoacylase	AF-Q7BZ90-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7BZ90-F1-model_v4 Adenine deaminase	0.143	510	285	3	512	32	364	2.675E-09	163
+DESULFOASV1_1245_D-aminoacylase	AF-Q9I6Z0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9I6Z0-F1-model_v4 8-oxoguanine deaminase	0.128	522	374	2	523	3	432	2.108E-10	162
+DESULFOASV1_1245_D-aminoacylase	AF-Q6L032-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6L032-F1-model_v4 Putative adenine deaminase PTO1085	0.115	521	299	3	523	43	381	1.667E-09	162
+DESULFOASV1_1245_D-aminoacylase	AF-B1LKZ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1LKZ0-F1-model_v4 Adenine deaminase	0.138	510	286	3	512	32	364	5.435E-09	162
+DESULFOASV1_1245_D-aminoacylase	AF-Q7A9L5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7A9L5-F1-model_v4 Adenine deaminase	0.138	510	286	3	512	32	364	6.490E-09	161
+DESULFOASV1_1245_D-aminoacylase	AF-A3PK22-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3PK22-F1-model_v4 Imidazolonepropionase	0.130	510	342	3	512	2	395	6.872E-10	159
+DESULFOASV1_1245_D-aminoacylase	AF-B7LK09-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7LK09-F1-model_v4 Adenine deaminase	0.133	510	288	3	512	32	364	3.016E-08	159
+DESULFOASV1_1245_D-aminoacylase	AF-A1AHK5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1AHK5-F1-model_v4 Adenine deaminase	0.131	510	289	3	512	32	364	1.574E-08	159
+DESULFOASV1_1245_D-aminoacylase	AF-A8A6C8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8A6C8-F1-model_v4 Adenine deaminase	0.137	510	287	3	512	32	364	4.045E-09	158
+DESULFOASV1_1245_D-aminoacylase	AF-Q1R4R6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1R4R6-F1-model_v4 Adenine deaminase	0.141	510	285	3	512	32	364	4.045E-09	158
+DESULFOASV1_1245_D-aminoacylase	AF-B7N1X4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7N1X4-F1-model_v4 Adenine deaminase	0.135	510	287	3	512	32	364	4.045E-09	158
+DESULFOASV1_1245_D-aminoacylase	AF-Q9RZ05-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9RZ05-F1-model_v4 Imidazolonepropionase	0.123	510	346	2	511	3	398	1.572E-09	157
+DESULFOASV1_1245_D-aminoacylase	AF-B1X998-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1X998-F1-model_v4 Adenine deaminase	0.135	510	287	3	512	32	364	6.885E-09	157
+DESULFOASV1_1245_D-aminoacylase	AF-Q329F0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q329F0-F1-model_v4 Adenine deaminase	0.134	510	284	3	512	32	360	9.251E-09	155
+DESULFOASV1_1245_D-aminoacylase	AF-A3CVR8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3CVR8-F1-model_v4 Adenine deaminase	0.133	501	270	23	523	3	314	4.060E-07	143
+DESULFOASV1_1245_D-aminoacylase	AF-O34355-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O34355-F1-model_v4 Putative amidohydrolase YtcJ	0.148	528	438	1	515	1	528	7.290E-10	137
+DESULFOASV1_1245_D-aminoacylase	AF-A6Q234-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6Q234-F1-model_v4 Aminodeoxyfutalosine deaminase	0.116	513	356	3	515	2	405	3.820E-08	134
+DESULFOASV1_1245_D-aminoacylase	AF-A0A1I9LN01-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0A1I9LN01-F1-model_v4 Protein LONG AFTER FAR-RED 3	0.094	532	462	3	513	51	582	8.720E-09	119
+DESULFOASV1_1245_D-aminoacylase	AF-G1K3N4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-G1K3N4-F1-model_v4 Mannan endo-1,4-beta-mannosidase	0.112	263	199	56	318	19	243	5.820E-04	73
+DESULFOASV1_1245_D-aminoacylase	AF-Q9RW45-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9RW45-F1-model_v4 Aminodeoxyfutalosine deaminase	0.138	398	318	1	398	35	404	2.131E-04	71
+DESULFOASV1_1245_D-aminoacylase	AF-O28499-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O28499-F1-model_v4 Putative aminohydrolase AF_1775	0.075	283	198	4	286	11	225	1.686E-03	69
+DESULFOASV1_1245_D-aminoacylase	AF-P45548-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P45548-F1-model_v4 Phosphotriesterase homology protein	0.103	235	203	56	282	6	240	1.897E-03	65
+DESULFOASV1_1245_D-aminoacylase	AF-C5P230-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5P230-F1-model_v4 Endochitinase 1	0.113	264	211	56	294	36	299	1.686E-03	63
+DESULFOASV1_1245_D-aminoacylase	AF-P0CB51-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0CB51-F1-model_v4 Endochitinase 1	0.110	264	212	56	294	36	299	2.550E-03	61
+DESULFOASV1_1245_D-aminoacylase	AF-Q1E3R8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1E3R8-F1-model_v4 Endochitinase 1	0.113	264	211	56	294	36	299	4.090E-03	57
+DESULFOASV1_1245_D-aminoacylase	AF-O26784-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O26784-F1-model_v4 Ribonuclease P protein component 3	0.128	227	153	56	282	8	183	4.347E-02	55
+DESULFOASV1_1245_D-aminoacylase	AF-A6T962-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6T962-F1-model_v4 Deoxyribose-phosphate aldolase	0.107	227	159	58	284	23	201	5.842E-02	55
+DESULFOASV1_1245_D-aminoacylase	AF-A9A8N5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9A8N5-F1-model_v4 5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase	0.128	209	156	64	272	81	260	4.347E-02	55
+DESULFOASV1_1245_D-aminoacylase	AF-A6VI43-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6VI43-F1-model_v4 5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase	0.104	202	159	64	265	81	259	3.863E-02	53
+DESULFOASV1_1245_D-aminoacylase	AF-B6YU51-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6YU51-F1-model_v4 Uncharacterized DapA-like lyase TON_0506	0.157	128	105	162	287	6	133	1.187E-01	51
+DESULFOASV1_1245_D-aminoacylase	AF-Q5AM60-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5AM60-F1-model_v4 Chitinase 4	0.096	248	214	56	293	20	267	3.432E-02	51
+DESULFOASV1_1245_D-aminoacylase	AF-Q3A247-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3A247-F1-model_v4 Deoxyribose-phosphate aldolase	0.105	227	158	58	284	7	184	1.187E-01	49
+DESULFOASV1_1245_D-aminoacylase	AF-Q5FLZ2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5FLZ2-F1-model_v4 Deoxyribose-phosphate aldolase	0.090	229	165	56	284	9	190	1.504E-01	49
+DESULFOASV1_1245_D-aminoacylase	AF-Q822W4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q822W4-F1-model_v4 N-(5'-phosphoribosyl)anthranilate isomerase	0.080	85	61	199	283	37	103	1.417E-01	48
+DESULFOASV1_1245_D-aminoacylase	AF-A6Q5D0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6Q5D0-F1-model_v4 GTP 3',8-cyclase	0.114	203	159	81	283	6	186	5.506E-02	48
+DESULFOASV1_1245_D-aminoacylase	AF-A0JX31-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0JX31-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.124	245	198	58	284	64	308	4.347E-02	48
+DESULFOASV1_1245_D-aminoacylase	AF-Q254S9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q254S9-F1-model_v4 N-(5'-phosphoribosyl)anthranilate isomerase	0.097	102	73	183	284	21	102	2.559E-01	47
+DESULFOASV1_1245_D-aminoacylase	AF-A6U3H8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6U3H8-F1-model_v4 Hydroxyethylthiazole kinase	0.093	100	82	152	251	28	118	1.795E-01	46
+DESULFOASV1_1245_D-aminoacylase	AF-Q5V5D4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5V5D4-F1-model_v4 4-hydroxy-tetrahydrodipicolinate synthase	0.080	330	261	57	386	7	291	6.197E-02	46
+DESULFOASV1_1245_D-aminoacylase	AF-A4G0D4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4G0D4-F1-model_v4 5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase	0.123	202	156	64	265	81	259	8.834E-02	46
+DESULFOASV1_1245_D-aminoacylase	AF-Q8EMT9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8EMT9-F1-model_v4 Deoxyribose-phosphate aldolase 2	0.123	224	173	57	280	8	205	1.904E-01	45
+DESULFOASV1_1245_D-aminoacylase	AF-Q4ZMV1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q4ZMV1-F1-model_v4 Deoxyribose-phosphate aldolase	0.140	195	153	56	250	10	188	7.850E-02	45
+DESULFOASV1_1245_D-aminoacylase	AF-A6UX30-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6UX30-F1-model_v4 Probable GTP 3',8-cyclase	0.107	217	179	56	272	9	209	5.506E-02	45
+DESULFOASV1_1245_D-aminoacylase	AF-P23122-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P23122-F1-model_v4 Homocitrate synthase	0.108	194	168	56	249	3	191	3.050E-02	45
+DESULFOASV1_1245_D-aminoacylase	AF-A4TN86-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4TN86-F1-model_v4 Deoxyribose-phosphate aldolase	0.116	229	156	56	284	6	183	2.020E-01	44
+DESULFOASV1_1245_D-aminoacylase	AF-B2K9V8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2K9V8-F1-model_v4 Deoxyribose-phosphate aldolase	0.112	229	157	56	284	6	183	2.020E-01	44
+DESULFOASV1_1245_D-aminoacylase	AF-A1JRR0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1JRR0-F1-model_v4 Probable phosphatase YE2421	0.106	222	192	59	280	4	219	1.259E-01	44
+DESULFOASV1_1245_D-aminoacylase	AF-Q9WU79-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9WU79-F1-model_v4 Proline dehydrogenase 1, mitochondrial	0.168	84	67	201	284	359	440	1.695E+00	44
+DESULFOASV1_1245_D-aminoacylase	AF-Q66CP8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q66CP8-F1-model_v4 Deoxyribose-phosphate aldolase 1	0.112	229	157	56	284	6	183	2.143E-01	43
+DESULFOASV1_1245_D-aminoacylase	AF-Q8ZGH4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8ZGH4-F1-model_v4 Deoxyribose-phosphate aldolase 1	0.112	229	157	56	284	6	183	2.143E-01	43
+DESULFOASV1_1245_D-aminoacylase	AF-B7UP48-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7UP48-F1-model_v4 Probable phosphatase YcdX	0.128	222	187	59	280	4	219	1.504E-01	43
+DESULFOASV1_1245_D-aminoacylase	AF-A8A8B0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8A8B0-F1-model_v4 Deoxyribose-phosphate aldolase	0.094	229	169	56	284	15	202	4.106E-01	43
+DESULFOASV1_1245_D-aminoacylase	AF-Q5HEA7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5HEA7-F1-model_v4 Hydroxyethylthiazole kinase	0.080	132	120	152	282	28	159	3.439E-01	43
+DESULFOASV1_1245_D-aminoacylase	AF-A7X4S9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7X4S9-F1-model_v4 Hydroxyethylthiazole kinase	0.081	132	119	152	282	28	159	3.648E-01	43
+DESULFOASV1_1245_D-aminoacylase	AF-Q1CTA2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1CTA2-F1-model_v4 GTP 3',8-cyclase	0.129	145	111	139	283	59	186	1.795E-01	43
+DESULFOASV1_1245_D-aminoacylase	AF-Q1CJI6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1CJI6-F1-model_v4 Probable phosphatase YPN_1514	0.107	222	192	59	280	4	219	1.692E-01	42
+DESULFOASV1_1245_D-aminoacylase	AF-B6I6M8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6I6M8-F1-model_v4 Deoxyribose-phosphate aldolase	0.096	233	173	56	288	15	206	4.902E-01	42
+DESULFOASV1_1245_D-aminoacylase	AF-Q9KXR7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9KXR7-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.113	241	202	55	283	61	301	1.595E-01	42
+DESULFOASV1_1245_D-aminoacylase	AF-B2A0B9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2A0B9-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN 3	0.088	201	157	82	282	171	343	3.641E-02	42
+DESULFOASV1_1245_D-aminoacylase	AF-Q2K3B1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2K3B1-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.119	204	154	82	285	195	370	5.842E-02	42
+DESULFOASV1_1245_D-aminoacylase	AF-O13831-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O13831-F1-model_v4 Tryptophan synthase	0.084	229	181	55	283	17	215	2.559E-01	42
+DESULFOASV1_1245_D-aminoacylase	AF-Q8ZEW6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8ZEW6-F1-model_v4 Probable phosphatase YPO2037/y2275/YP_1880	0.107	222	192	59	280	4	219	2.020E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-B7UR09-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7UR09-F1-model_v4 Deoxyribose-phosphate aldolase	0.088	233	174	56	288	15	206	5.852E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-B7LNS1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7LNS1-F1-model_v4 Deoxyribose-phosphate aldolase	0.100	233	172	56	288	15	206	5.852E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-Q3YU12-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3YU12-F1-model_v4 Deoxyribose-phosphate aldolase	0.097	233	172	56	288	15	206	5.852E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-B5Z4R3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5Z4R3-F1-model_v4 Deoxyribose-phosphate aldolase	0.097	233	172	56	288	15	206	6.209E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-B1IS38-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1IS38-F1-model_v4 Deoxyribose-phosphate aldolase	0.096	233	173	56	288	15	206	5.517E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-Q9X5W3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9X5W3-F1-model_v4 GTP 3',8-cyclase	0.140	129	108	158	286	64	189	4.621E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-B1WN69-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1WN69-F1-model_v4 Biotin synthase	0.107	116	101	169	284	78	191	1.420E+00	41
+DESULFOASV1_1245_D-aminoacylase	AF-Q5YVM8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5YVM8-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.102	237	203	58	284	61	297	5.191E-02	41
+DESULFOASV1_1245_D-aminoacylase	AF-Q46ZI0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q46ZI0-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.126	204	153	82	285	160	335	8.327E-02	41
+DESULFOASV1_1245_D-aminoacylase	AF-Q2RP22-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2RP22-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.133	158	134	128	285	222	377	1.795E-01	41
+DESULFOASV1_1245_D-aminoacylase	AF-A7FK39-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7FK39-F1-model_v4 Deoxyribose-phosphate aldolase	0.105	229	158	56	284	6	183	4.106E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-Q57QM1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q57QM1-F1-model_v4 Probable phosphatase YcdX	0.112	222	191	59	280	4	219	2.559E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-B5QY29-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5QY29-F1-model_v4 Probable phosphatase YcdX	0.112	222	191	59	280	4	219	2.880E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-A7FIE8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7FIE8-F1-model_v4 Probable phosphatase YpsIP31758_2053	0.108	191	165	59	249	4	189	1.795E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-A6WLC8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6WLC8-F1-model_v4 Probable phosphatase Shew185_1467	0.129	225	190	56	280	2	220	1.595E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-Q83P02-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q83P02-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	233	173	56	288	15	206	5.852E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-A7ZVS4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7ZVS4-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	233	173	56	288	15	206	6.587E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-P66922-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P66922-F1-model_v4 Hydroxyethylthiazole kinase	0.081	132	119	152	282	28	159	6.209E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-B2TVF5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2TVF5-F1-model_v4 Biotin synthase	0.121	148	117	169	316	78	211	7.864E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-Q1GVC1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1GVC1-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.076	233	176	59	250	63	295	2.020E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-Q603C0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q603C0-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.171	196	132	126	285	141	336	2.020E-01	40
+DESULFOASV1_1245_D-aminoacylase	AF-O43272-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O43272-F1-model_v4 Proline dehydrogenase 1, mitochondrial	0.157	84	68	201	284	360	441	2.720E+00	40
+DESULFOASV1_1245_D-aminoacylase	AF-B5FL29-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5FL29-F1-model_v4 Probable phosphatase YcdX	0.110	222	191	59	280	4	219	2.715E-01	39
+DESULFOASV1_1245_D-aminoacylase	AF-B1LEI6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1LEI6-F1-model_v4 Deoxyribose-phosphate aldolase	0.098	229	169	56	284	15	202	7.413E-01	39
+DESULFOASV1_1245_D-aminoacylase	AF-B7NW61-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7NW61-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	233	173	56	288	15	206	6.988E-01	39
+DESULFOASV1_1245_D-aminoacylase	AF-A7H1N9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7H1N9-F1-model_v4 GTP 3',8-cyclase	0.105	229	154	66	294	47	219	8.327E-02	39
+DESULFOASV1_1245_D-aminoacylase	AF-Q5HX04-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5HX04-F1-model_v4 GTP 3',8-cyclase	0.101	229	155	66	294	47	219	7.399E-02	39
+DESULFOASV1_1245_D-aminoacylase	AF-A1WVM7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1WVM7-F1-model_v4 Biotin synthase	0.120	116	99	169	284	80	193	1.506E+00	39
+DESULFOASV1_1245_D-aminoacylase	AF-B0RIK6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0RIK6-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.125	168	141	81	248	80	241	1.595E-01	39
+DESULFOASV1_1245_D-aminoacylase	AF-B5EUQ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5EUQ0-F1-model_v4 Biotin synthase	0.114	116	100	169	284	78	191	1.695E+00	39
+DESULFOASV1_1245_D-aminoacylase	AF-Q1MAN2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1MAN2-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.123	204	153	82	285	194	369	9.372E-02	39
+DESULFOASV1_1245_D-aminoacylase	AF-B1JLN0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1JLN0-F1-model_v4 Probable phosphatase YPK_2165	0.110	191	165	59	249	4	189	1.795E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-A4TJM2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4TJM2-F1-model_v4 Probable phosphatase YPDSF_1086	0.110	191	165	59	249	4	189	2.412E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-Q1C836-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1C836-F1-model_v4 Probable phosphatase YPA_1419	0.108	191	165	59	249	4	189	2.715E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-Q8XB36-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8XB36-F1-model_v4 Deoxyribose-phosphate aldolase	0.088	233	174	56	288	15	206	9.389E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-B5Y277-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5Y277-F1-model_v4 Deoxyribose-phosphate aldolase	0.100	233	172	56	288	15	206	8.851E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-A1VEI5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1VEI5-F1-model_v4 Probable endonuclease 4	0.063	232	203	57	288	2	219	3.439E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-A8FJX0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8FJX0-F1-model_v4 GTP 3',8-cyclase	0.101	229	155	66	294	47	219	1.055E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-P57443-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P57443-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.079	190	170	59	248	59	244	6.587E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-A5F2H3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5F2H3-F1-model_v4 Biotin synthase	0.091	116	103	169	284	78	191	1.799E+00	38
+DESULFOASV1_1245_D-aminoacylase	AF-Q1B765-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1B765-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.100	210	183	81	284	83	292	3.439E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-A0PQW5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0PQW5-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.097	210	183	81	284	81	290	3.055E-01	38
+DESULFOASV1_1245_D-aminoacylase	AF-A4JEP2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4JEP2-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.156	94	73	201	287	213	306	1.189E+00	38
+DESULFOASV1_1245_D-aminoacylase	AF-Q6ALS3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6ALS3-F1-model_v4 Deoxyribose-phosphate aldolase	0.109	227	156	58	284	13	188	6.988E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-A9QYZ5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9QYZ5-F1-model_v4 Probable phosphatase YpAngola_A2446	0.110	191	165	59	249	4	189	2.274E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-B7LXU3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7LXU3-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	233	173	56	288	15	206	1.057E+00	37
+DESULFOASV1_1245_D-aminoacylase	AF-Q0SX30-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0SX30-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	233	173	56	288	15	206	9.389E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-C4ZT63-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C4ZT63-F1-model_v4 Deoxyribose-phosphate aldolase	0.106	229	167	56	284	15	202	9.961E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-P0A6L0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0A6L0-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	233	173	56	288	15	206	9.961E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-Q0T8T2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0T8T2-F1-model_v4 Deoxyribose-phosphate aldolase	0.102	229	168	56	284	15	202	1.057E+00	37
+DESULFOASV1_1245_D-aminoacylase	AF-B7N2V7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7N2V7-F1-model_v4 Deoxyribose-phosphate aldolase	0.088	233	174	56	288	15	206	1.057E+00	37
+DESULFOASV1_1245_D-aminoacylase	AF-Q9PIW6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9PIW6-F1-model_v4 GTP 3',8-cyclase	0.109	229	153	66	294	47	219	1.259E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-A1VXP5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1VXP5-F1-model_v4 GTP 3',8-cyclase	0.100	322	222	66	387	47	294	5.191E-02	37
+DESULFOASV1_1245_D-aminoacylase	AF-P69848-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P69848-F1-model_v4 GTP 3',8-cyclase	0.127	207	152	66	272	48	222	1.504E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-Q0T6I5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0T6I5-F1-model_v4 Biotin synthase	0.121	148	117	169	316	78	211	1.189E+00	37
+DESULFOASV1_1245_D-aminoacylase	AF-B6I7S9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6I7S9-F1-model_v4 Biotin synthase	0.113	148	118	169	316	78	211	9.961E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-B6J0A5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6J0A5-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.095	236	204	59	284	59	294	6.209E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-A7MX36-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7MX36-F1-model_v4 Biotin synthase	0.100	146	118	169	314	78	209	1.262E+00	37
+DESULFOASV1_1245_D-aminoacylase	AF-A3Q1C6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3Q1C6-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.101	210	182	81	284	83	292	4.621E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-P0A4V1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0A4V1-F1-model_v4 N-acylneuraminate cytidylyltransferase	0.117	101	74	198	282	269	369	4.355E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-Q86H28-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q86H28-F1-model_v4 Proline dehydrogenase 1, mitochondrial	0.092	248	206	56	283	227	474	1.692E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-P9WHP1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P9WHP1-F1-model_v4 Phosphate acetyltransferase	0.084	245	186	59	303	9	212	1.336E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-P9WHP0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P9WHP0-F1-model_v4 Phosphate acetyltransferase	0.080	245	187	59	303	9	212	1.595E-01	37
+DESULFOASV1_1245_D-aminoacylase	AF-Q8X958-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8X958-F1-model_v4 Putative uncharacterized protein YgaQ	0.079	347	255	20	297	165	511	1.592E-02	37
+DESULFOASV1_1245_D-aminoacylase	AF-Q66AW1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q66AW1-F1-model_v4 Probable phosphatase YPTB2019	0.108	191	165	59	249	4	189	3.648E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-C5BHJ2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C5BHJ2-F1-model_v4 Deoxyribose-phosphate aldolase	0.095	233	173	56	288	15	206	1.121E+00	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q2FF34-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2FF34-F1-model_v4 Hydroxyethylthiazole kinase	0.100	103	81	149	251	28	118	7.413E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q6G7L8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6G7L8-F1-model_v4 Hydroxyethylthiazole kinase	0.122	248	208	149	396	28	265	1.417E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-A1SX95-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1SX95-F1-model_v4 Hydroxyethylthiazole kinase	0.114	103	82	149	251	37	130	1.338E+00	36
+DESULFOASV1_1245_D-aminoacylase	AF-B6JM01-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B6JM01-F1-model_v4 GTP 3',8-cyclase	0.117	207	146	66	272	47	212	1.904E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-A0RMJ2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0RMJ2-F1-model_v4 GTP 3',8-cyclase	0.085	216	149	79	294	56	219	1.055E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-A1AWE7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1AWE7-F1-model_v4 Biotin synthase	0.096	114	100	173	284	79	192	2.147E+00	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q8CU07-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8CU07-F1-model_v4 Probable tRNA-dihydrouridine synthase	0.093	229	178	56	284	11	207	6.988E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-A2SGQ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A2SGQ6-F1-model_v4 Biotin synthase	0.140	110	92	177	284	99	208	1.908E+00	36
+DESULFOASV1_1245_D-aminoacylase	AF-A6QJA8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A6QJA8-F1-model_v4 GTP 3',8-cyclase	0.126	207	152	66	272	48	222	1.795E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q57RG3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q57RG3-F1-model_v4 Biotin synthase	0.119	148	117	169	316	78	211	1.189E+00	36
+DESULFOASV1_1245_D-aminoacylase	AF-A0LY94-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0LY94-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.079	204	161	82	285	160	335	7.850E-02	36
+DESULFOASV1_1245_D-aminoacylase	AF-C1A949-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1A949-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.122	161	135	125	285	172	326	3.648E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-B2HFZ1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2HFZ1-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.097	210	183	81	284	81	290	4.106E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q63UT5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q63UT5-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.096	204	158	82	285	166	341	3.648E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q0BEW5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0BEW5-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.150	94	73	201	287	213	306	9.389E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q0K959-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0K959-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.125	204	153	82	285	160	335	2.274E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-Q92L68-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q92L68-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.116	206	156	82	287	198	375	1.336E-01	36
+DESULFOASV1_1245_D-aminoacylase	AF-B7NH49-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7NH49-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	233	173	56	288	15	206	1.420E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q327L5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q327L5-F1-model_v4 Deoxyribose-phosphate aldolase	0.096	233	173	56	288	15	206	9.389E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-B1XFJ1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1XFJ1-F1-model_v4 Deoxyribose-phosphate aldolase	0.100	233	172	56	288	15	206	1.420E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-B5FTC5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5FTC5-F1-model_v4 Deoxyribose-phosphate aldolase	0.088	233	174	56	288	15	206	1.420E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q8ZIQ4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8ZIQ4-F1-model_v4 Deoxyribose-phosphate aldolase 2	0.112	201	163	101	284	8	208	7.413E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q8U319-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8U319-F1-model_v4 Uncharacterized DapA-like lyase PF0657	0.136	128	108	162	287	6	133	8.851E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q5HKD5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5HKD5-F1-model_v4 Probable tRNA-dihydrouridine synthase	0.086	229	179	56	284	11	207	8.343E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-P67716-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P67716-F1-model_v4 Probable tRNA-dihydrouridine synthase	0.096	328	273	56	383	11	313	2.143E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-B2JKL9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2JKL9-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.121	218	178	81	284	80	297	7.413E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-A5CS38-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A5CS38-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.106	168	144	81	248	80	241	2.412E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q324B7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q324B7-F1-model_v4 Biotin synthase	0.115	148	118	169	316	78	211	1.506E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-A1A917-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1A917-F1-model_v4 Biotin synthase	0.114	148	118	169	316	78	211	1.338E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-B7VH16-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7VH16-F1-model_v4 Biotin synthase	0.099	146	118	169	314	78	209	1.506E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q8D8M9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8D8M9-F1-model_v4 Biotin synthase	0.106	146	117	169	314	78	209	1.695E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q6NH79-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6NH79-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.132	211	175	81	283	85	295	3.241E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-P0A4V0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0A4V0-F1-model_v4 N-acylneuraminate cytidylyltransferase	0.115	99	73	198	280	269	367	3.870E-01	35
+DESULFOASV1_1245_D-aminoacylase	AF-Q148G5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q148G5-F1-model_v4 Proline dehydrogenase 1, mitochondrial	0.111	140	106	164	283	348	487	1.908E+00	35
+DESULFOASV1_1245_D-aminoacylase	AF-B4TGZ9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4TGZ9-F1-model_v4 Deoxyribose-phosphate aldolase	0.088	233	174	56	288	15	206	1.695E+00	34
+DESULFOASV1_1245_D-aminoacylase	AF-B4EWA4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4EWA4-F1-model_v4 Deoxyribose-phosphate aldolase	0.092	230	171	56	285	15	203	1.695E+00	34
+DESULFOASV1_1245_D-aminoacylase	AF-Q9ZL75-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9ZL75-F1-model_v4 GTP 3',8-cyclase	0.113	207	146	66	272	47	212	3.241E-01	34
+DESULFOASV1_1245_D-aminoacylase	AF-P56414-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P56414-F1-model_v4 GTP 3',8-cyclase	0.111	216	179	57	272	11	212	1.692E-01	34
+DESULFOASV1_1245_D-aminoacylase	AF-Q55369-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q55369-F1-model_v4 GTP 3',8-cyclase	0.097	195	140	82	276	74	229	3.648E-01	34
+DESULFOASV1_1245_D-aminoacylase	AF-Q65SD0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q65SD0-F1-model_v4 Biotin synthase	0.125	137	103	200	318	89	225	5.517E-01	34
+DESULFOASV1_1245_D-aminoacylase	AF-Q9K9W9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9K9W9-F1-model_v4 GTP 3',8-cyclase	0.103	204	179	56	259	5	205	4.902E-01	34
+DESULFOASV1_1245_D-aminoacylase	AF-B2K8T0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2K8T0-F1-model_v4 Biotin synthase	0.111	218	185	65	282	77	285	7.413E-01	34
+DESULFOASV1_1245_D-aminoacylase	AF-A8AJ12-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8AJ12-F1-model_v4 Biotin synthase	0.125	148	116	169	316	78	211	1.598E+00	34
+DESULFOASV1_1245_D-aminoacylase	AF-B5XZ75-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5XZ75-F1-model_v4 Biotin synthase	0.130	117	89	200	316	109	211	1.506E+00	34
+DESULFOASV1_1245_D-aminoacylase	AF-A1UHW0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1UHW0-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.091	230	206	57	284	63	292	8.851E-01	34
+DESULFOASV1_1245_D-aminoacylase	AF-B2V184-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2V184-F1-model_v4 Deoxyribose-phosphate aldolase	0.115	164	142	123	284	20	183	8.343E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-B7LEM7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7LEM7-F1-model_v4 Deoxyribose-phosphate aldolase	0.096	233	173	56	288	15	206	1.506E+00	33
+DESULFOASV1_1245_D-aminoacylase	AF-Q31SV8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q31SV8-F1-model_v4 Deoxyribose-phosphate aldolase	0.108	203	168	100	288	4	206	1.189E+00	33
+DESULFOASV1_1245_D-aminoacylase	AF-B9L851-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9L851-F1-model_v4 GTP 3',8-cyclase	0.130	212	175	57	268	11	212	1.795E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-A8LIR8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8LIR8-F1-model_v4 GTP 3',8-cyclase	0.101	246	218	142	387	65	307	2.412E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-B8GTH4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8GTH4-F1-model_v4 Biotin synthase	0.113	146	116	169	314	85	216	1.262E+00	33
+DESULFOASV1_1245_D-aminoacylase	AF-Q6AE78-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6AE78-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.112	177	147	81	257	80	246	5.200E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-P36569-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P36569-F1-model_v4 Biotin synthase	0.135	149	117	169	317	78	213	1.506E+00	33
+DESULFOASV1_1245_D-aminoacylase	AF-Q1CFQ3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1CFQ3-F1-model_v4 Biotin synthase	0.111	218	185	65	282	77	285	8.851E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-B1LM66-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1LM66-F1-model_v4 Biotin synthase	0.118	148	117	169	316	78	211	1.908E+00	33
+DESULFOASV1_1245_D-aminoacylase	AF-B2UNF2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2UNF2-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.091	160	120	126	285	201	333	4.621E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-B4RMG2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4RMG2-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.102	128	109	167	288	168	295	2.147E+00	33
+DESULFOASV1_1245_D-aminoacylase	AF-B3QS43-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B3QS43-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.111	204	156	82	285	161	337	1.504E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-B1JT94-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1JT94-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.102	200	154	83	282	167	338	5.200E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-Q0BWY9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0BWY9-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.126	187	138	171	329	155	341	4.106E-01	33
+DESULFOASV1_1245_D-aminoacylase	AF-A8I5B0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8I5B0-F1-model_v4 Bifunctional protein HldE	0.086	112	81	161	250	123	234	1.338E+00	33
+DESULFOASV1_1245_D-aminoacylase	AF-B7H160-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7H160-F1-model_v4 Hydroxyethylthiazole kinase	0.123	87	67	200	286	53	129	4.113E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-B7IAM8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7IAM8-F1-model_v4 Hydroxyethylthiazole kinase	0.123	87	67	200	286	53	129	4.113E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-A7GWA5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7GWA5-F1-model_v4 GTP 3',8-cyclase	0.112	229	158	65	293	40	218	2.559E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q5HJT5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5HJT5-F1-model_v4 Probable tRNA-dihydrouridine synthase	0.139	328	260	56	383	11	313	5.852E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-B4E8N4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4E8N4-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.114	218	180	81	284	80	297	1.057E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-A7FKM9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7FKM9-F1-model_v4 Biotin synthase	0.124	117	89	200	316	109	211	1.598E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q1C947-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1C947-F1-model_v4 Biotin synthase	0.111	218	185	65	282	77	285	9.961E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-B7LJY8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7LJY8-F1-model_v4 Biotin synthase	0.106	218	186	65	282	77	285	9.389E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-B7MGN3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7MGN3-F1-model_v4 Biotin synthase	0.133	117	88	200	316	109	211	1.695E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q0TJS3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0TJS3-F1-model_v4 Biotin synthase	0.136	117	88	200	316	109	211	2.147E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q6LPR2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6LPR2-F1-model_v4 Biotin synthase	0.093	146	119	169	314	78	209	2.564E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q72HC1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q72HC1-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.104	205	158	81	285	148	324	3.439E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q2FSC7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2FSC7-F1-model_v4 5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase	0.101	232	195	53	284	142	359	1.338E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q62JW2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q62JW2-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.137	129	102	201	329	213	331	1.338E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-B4EAX1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B4EAX1-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.101	203	156	83	285	167	341	6.209E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-A9IK57-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9IK57-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.147	211	141	120	285	133	343	9.389E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q7W6P5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7W6P5-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.112	204	155	82	285	169	344	4.902E-01	32
+DESULFOASV1_1245_D-aminoacylase	AF-Q13X26-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q13X26-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.142	209	134	126	282	134	342	1.121E+00	32
+DESULFOASV1_1245_D-aminoacylase	AF-A9BHK7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9BHK7-F1-model_v4 Probable transaldolase	0.067	226	148	58	283	2	161	1.908E+00	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q66EW0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q66EW0-F1-model_v4 Deoxyribose-phosphate aldolase 2	0.117	220	182	65	284	2	208	1.799E+00	31
+DESULFOASV1_1245_D-aminoacylase	AF-A3M6H8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3M6H8-F1-model_v4 Hydroxyethylthiazole kinase	0.123	87	67	200	286	53	129	4.113E+00	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q8NYV4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8NYV4-F1-model_v4 Probable tRNA-dihydrouridine synthase	0.145	328	258	56	383	11	313	6.988E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-P67717-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P67717-F1-model_v4 Probable tRNA-dihydrouridine synthase	0.151	330	261	56	385	11	318	7.864E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q2NCE3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2NCE3-F1-model_v4 GTP 3',8-cyclase	0.121	229	195	165	387	76	304	3.648E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-A1B4A2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1B4A2-F1-model_v4 GTP 3',8-cyclase	0.114	263	194	169	388	58	320	8.327E-02	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q6D3B9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6D3B9-F1-model_v4 Biotin synthase	0.095	248	202	35	282	62	285	6.988E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-A9R3C8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9R3C8-F1-model_v4 Biotin synthase	0.114	118	92	200	317	109	213	1.695E+00	31
+DESULFOASV1_1245_D-aminoacylase	AF-A9MTI8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9MTI8-F1-model_v4 Biotin synthase	0.107	218	186	65	282	77	285	1.057E+00	31
+DESULFOASV1_1245_D-aminoacylase	AF-P46727-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P46727-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.096	230	205	57	284	61	290	7.864E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q0A989-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0A989-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.120	226	171	128	322	133	358	6.587E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q7VWK8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7VWK8-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.118	203	153	83	285	170	344	6.988E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q7N709-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7N709-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.100	206	127	80	285	213	354	3.439E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q1CK94-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1CK94-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.095	206	128	80	285	219	360	2.020E-01	31
+DESULFOASV1_1245_D-aminoacylase	AF-Q49W41-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q49W41-F1-model_v4 3-dehydroquinate dehydratase	0.095	226	189	59	284	7	216	1.121E+00	30
+DESULFOASV1_1245_D-aminoacylase	AF-O28204-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O28204-F1-model_v4 Hydroxyethylthiazole kinase	0.128	125	87	162	286	27	127	1.420E+00	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q2LWX9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2LWX9-F1-model_v4 Hydroxyethylthiazole kinase	0.101	241	204	149	389	33	260	7.413E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q6GD38-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6GD38-F1-model_v4 Probable tRNA-dihydrouridine synthase	0.137	328	261	56	383	11	313	8.851E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-A4TNQ6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4TNQ6-F1-model_v4 Biotin synthase	0.111	218	185	65	282	77	285	1.338E+00	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q83S46-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q83S46-F1-model_v4 Biotin synthase	0.106	218	186	65	282	77	285	1.338E+00	30
+DESULFOASV1_1245_D-aminoacylase	AF-A3NA56-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3NA56-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.093	204	159	82	285	166	341	6.587E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q3JRQ1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3JRQ1-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.143	129	101	201	329	213	331	1.420E+00	30
+DESULFOASV1_1245_D-aminoacylase	AF-A3NVX3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A3NVX3-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.140	129	101	201	329	213	331	8.343E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-B1YR46-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1YR46-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.096	204	158	82	285	166	341	9.389E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q2KY87-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2KY87-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.122	203	153	83	285	169	343	7.864E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q1QHE3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1QHE3-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.095	203	157	83	285	189	363	4.106E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q3SNT2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3SNT2-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.112	167	146	122	288	202	366	1.121E+00	30
+DESULFOASV1_1245_D-aminoacylase	AF-P19584-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P19584-F1-model_v4 Thermophilic beta-amylase	0.089	229	200	65	284	165	393	2.412E-01	30
+DESULFOASV1_1245_D-aminoacylase	AF-Q0W6M2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0W6M2-F1-model_v4 Deoxyribose-phosphate aldolase	0.126	195	156	56	250	7	186	7.413E-01	29
+DESULFOASV1_1245_D-aminoacylase	AF-B1IHH3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1IHH3-F1-model_v4 Hydroxyethylthiazole kinase 2	0.119	142	117	149	282	26	167	2.278E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-A7FVR9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7FVR9-F1-model_v4 Hydroxyethylthiazole kinase 2	0.118	145	119	147	282	23	167	2.278E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q0AE72-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0AE72-F1-model_v4 Biotin synthase	0.146	115	72	200	284	102	216	2.278E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q7CH65-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7CH65-F1-model_v4 Biotin synthase	0.109	186	165	65	250	77	262	1.189E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q5PG48-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5PG48-F1-model_v4 Biotin synthase	0.099	218	187	65	282	77	285	1.598E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-A9MJE6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9MJE6-F1-model_v4 Biotin synthase	0.103	218	187	65	282	77	285	1.506E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-B1X7A5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1X7A5-F1-model_v4 Biotin synthase	0.093	223	193	65	287	77	290	1.420E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q8FJQ3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8FJQ3-F1-model_v4 Biotin synthase	0.106	218	186	65	282	77	285	1.598E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-A1JS69-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1JS69-F1-model_v4 Biotin synthase	0.103	218	187	65	282	77	285	1.420E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q5SGZ3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5SGZ3-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.096	205	159	81	285	148	324	7.413E-01	29
+DESULFOASV1_1245_D-aminoacylase	AF-A1K3Y6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1K3Y6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.144	239	169	87	285	104	342	1.506E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q1BGX6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1BGX6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.105	203	156	83	285	167	341	1.189E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q1LLI8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1LLI8-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.133	204	152	82	285	160	335	7.864E-01	29
+DESULFOASV1_1245_D-aminoacylase	AF-B3Q9D7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B3Q9D7-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.117	203	154	83	285	191	365	5.517E-01	29
+DESULFOASV1_1245_D-aminoacylase	AF-A8IQ73-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8IQ73-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.118	204	154	82	285	196	371	5.517E-01	29
+DESULFOASV1_1245_D-aminoacylase	AF-A7ICB3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7ICB3-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.097	204	158	82	285	204	379	1.057E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q65UE9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q65UE9-F1-model_v4 tRNA(Ile)-lysidine synthase	0.093	90	75	201	284	25	114	1.908E+00	29
+DESULFOASV1_1245_D-aminoacylase	AF-P65345-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P65345-F1-model_v4 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	0.109	290	240	56	325	413	702	8.343E-01	29
+DESULFOASV1_1245_D-aminoacylase	AF-Q27650-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q27650-F1-model_v4 Lysozyme	0.125	89	70	203	283	41	129	4.629E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-B2TZR4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2TZR4-F1-model_v4 Deoxyribose-phosphate aldolase	0.116	325	223	149	473	4	256	6.209E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-B0VM84-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0VM84-F1-model_v4 Hydroxyethylthiazole kinase	0.123	87	67	200	286	53	129	6.599E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-A9WE23-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9WE23-F1-model_v4 Uncharacterized DapA-like lyase Caur_1967	0.126	269	225	127	385	27	295	1.121E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-A8ERS0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8ERS0-F1-model_v4 GTP 3',8-cyclase	0.122	234	158	63	296	44	224	7.864E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q98MK6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q98MK6-F1-model_v4 GTP 3',8-cyclase	0.114	121	105	166	286	74	193	4.113E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q5FPC9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5FPC9-F1-model_v4 Biotin synthase	0.100	221	190	65	285	75	286	2.147E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q82ST3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q82ST3-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.097	192	169	57	248	54	241	3.061E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q6XK03-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6XK03-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.106	215	162	66	280	137	318	5.517E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-B3PQ08-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B3PQ08-F1-model_v4 GTP 3',8-cyclase	0.088	211	155	66	276	65	235	1.121E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q47BR3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q47BR3-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.122	201	151	82	282	154	326	1.908E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-A1KUD6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1KUD6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.106	202	173	87	288	102	295	1.908E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-A1ISB3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1ISB3-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.108	202	172	87	288	102	295	2.564E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q47RF2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q47RF2-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.102	278	199	186	463	122	344	2.559E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-A1V4K3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1V4K3-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.101	201	155	82	282	166	338	1.121E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-B2U9U6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2U9U6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.143	206	119	80	285	196	335	4.621E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q3IY22-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3IY22-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.082	164	148	122	285	199	360	1.799E+00	28
+DESULFOASV1_1245_D-aminoacylase	AF-B1JS02-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1JS02-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.095	206	128	80	285	219	360	4.106E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q667Z6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q667Z6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.095	206	128	80	285	219	360	3.870E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q2J405-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2J405-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.117	203	154	83	285	191	365	8.851E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-Q3JYS3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3JYS3-F1-model_v4 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	0.109	290	240	56	325	413	702	9.961E-01	28
+DESULFOASV1_1245_D-aminoacylase	AF-C1FR28-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1FR28-F1-model_v4 Hydroxyethylthiazole kinase 2	0.097	140	117	152	282	28	167	3.445E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-B1KW01-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1KW01-F1-model_v4 Hydroxyethylthiazole kinase 1	0.099	254	208	149	402	25	256	1.121E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-B2HTR5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2HTR5-F1-model_v4 Hydroxyethylthiazole kinase	0.112	87	67	200	286	53	129	7.427E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-Q0C661-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0C661-F1-model_v4 Biotin synthase	0.129	146	114	169	314	83	214	3.655E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-Q07PI4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q07PI4-F1-model_v4 Biotin synthase	0.138	219	181	65	283	90	300	1.908E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-Q89NT2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q89NT2-F1-model_v4 GTP 3',8-cyclase	0.092	221	187	57	277	25	231	9.389E-01	27
+DESULFOASV1_1245_D-aminoacylase	AF-B1JSS4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1JSS4-F1-model_v4 Biotin synthase	0.115	218	184	65	282	77	285	2.278E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-Q66D67-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q66D67-F1-model_v4 Biotin synthase	0.115	218	184	65	282	77	285	2.278E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-C1DD41-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C1DD41-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.147	225	166	87	282	102	326	1.799E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-Q39FQ7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q39FQ7-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.113	203	121	80	282	202	338	9.961E-01	27
+DESULFOASV1_1245_D-aminoacylase	AF-B2FL97-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2FL97-F1-model_v4 Kynureninase	0.105	109	90	149	250	110	218	1.057E+00	27
+DESULFOASV1_1245_D-aminoacylase	AF-A1AJU8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1AJU8-F1-model_v4 Deoxyribose-phosphate aldolase	0.102	314	204	149	462	4	231	1.189E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q7WB85-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7WB85-F1-model_v4 Biotin synthase	0.124	139	105	199	319	89	227	2.417E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q139F2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q139F2-F1-model_v4 GTP 3',8-cyclase	0.099	188	131	66	253	60	205	1.338E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q8UER0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8UER0-F1-model_v4 GTP 3',8-cyclase	0.102	295	231	164	421	55	349	6.587E-01	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q5F911-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5F911-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.109	201	153	82	282	154	326	2.024E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q9JZ42-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9JZ42-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.108	202	172	87	288	102	295	3.877E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-A2S2A0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A2S2A0-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.096	203	157	83	285	167	341	2.024E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q0AE39-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0AE39-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.123	218	163	68	285	158	344	7.413E-01	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q7WHM8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7WHM8-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.100	204	158	82	285	169	344	1.420E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q8Y032-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8Y032-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.143	206	119	80	285	196	335	7.413E-01	26
+DESULFOASV1_1245_D-aminoacylase	AF-F7E727-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-F7E727-F1-model_v4 ATP-dependent (S)-NAD(P)H-hydrate dehydratase	0.076	227	158	56	282	73	244	1.506E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q16DM2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q16DM2-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.105	164	144	122	285	198	359	1.189E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q7U3U2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7U3U2-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.097	225	185	79	284	99	323	2.147E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q5FUA9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5FUA9-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.110	203	155	83	285	206	380	1.121E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-A9IL44-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9IL44-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.092	204	159	82	285	200	375	4.106E-01	26
+DESULFOASV1_1245_D-aminoacylase	AF-Q5VMI0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5VMI0-F1-model_v4 UDP-glycosyltransferase CGT	0.105	222	139	56	277	11	166	3.870E-01	26
+DESULFOASV1_1245_D-aminoacylase	AF-P65344-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P65344-F1-model_v4 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	0.106	290	240	56	325	413	702	1.598E+00	26
+DESULFOASV1_1245_D-aminoacylase	AF-B2GBV7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2GBV7-F1-model_v4 Hydroxyethylthiazole kinase	0.121	234	189	152	385	29	244	1.908E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-C3KZ28-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-C3KZ28-F1-model_v4 Hydroxyethylthiazole kinase 2	0.117	254	204	149	402	25	256	1.420E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-Q8U191-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8U191-F1-model_v4 Hydroxyethylthiazole kinase	0.112	247	207	152	398	32	265	2.024E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-Q2FNE1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2FNE1-F1-model_v4 Hydroxyethylthiazole kinase	0.117	175	136	149	323	15	169	1.189E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-B5ELR8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5ELR8-F1-model_v4 Biotin synthase	0.154	136	99	200	317	78	213	3.247E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-B9KDV3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9KDV3-F1-model_v4 GTP 3',8-cyclase	0.088	188	130	66	253	47	189	1.420E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-Q0BBD4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0BBD4-F1-model_v4 Biotin synthase	0.121	150	119	169	318	95	230	4.629E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-B1IXJ3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1IXJ3-F1-model_v4 Biotin synthase	0.099	186	167	65	250	77	262	2.278E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-A4TB97-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4TB97-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.106	273	199	57	329	61	284	9.961E-01	25
+DESULFOASV1_1245_D-aminoacylase	AF-A9LZN6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9LZN6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.137	225	168	87	282	102	326	1.695E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-Q28VS6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q28VS6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.088	164	147	122	285	199	360	2.278E+00	25
+DESULFOASV1_1245_D-aminoacylase	AF-Q89X03-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q89X03-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.110	203	155	83	285	192	366	8.851E-01	25
+DESULFOASV1_1245_D-aminoacylase	AF-Q07792-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q07792-F1-model_v4 Arylesterase	0.103	198	124	85	282	22	160	2.278E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-B7J403-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7J403-F1-model_v4 Biotin synthase	0.154	136	99	200	317	78	213	3.877E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-Q1H411-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1H411-F1-model_v4 Dihydroorotate dehydrogenase (quinone)	0.107	177	153	81	257	77	248	3.445E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-Q1LTL8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1LTL8-F1-model_v4 Biotin synthase	0.119	190	159	199	388	76	256	8.343E-01	24
+DESULFOASV1_1245_D-aminoacylase	AF-Q182S0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q182S0-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.082	268	215	18	285	92	326	5.200E-01	24
+DESULFOASV1_1245_D-aminoacylase	AF-B7NNK5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B7NNK5-F1-model_v4 Biotin synthase	0.091	186	168	65	250	77	262	2.885E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-A1SW31-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1SW31-F1-model_v4 Biotin synthase	0.113	219	185	65	283	81	290	3.445E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-Q2IUT3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2IUT3-F1-model_v4 Biotin synthase	0.142	134	99	199	314	89	222	2.147E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-A4G4J9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4G4J9-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.118	203	153	83	285	164	338	2.564E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-Q0A5W2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0A5W2-F1-model_v4 8-amino-7-oxononanoate synthase	0.117	100	80	152	251	118	209	2.885E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-B9KQP1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9KQP1-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.072	164	149	122	285	199	360	4.364E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-A4SYE2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4SYE2-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.098	204	158	82	285	172	347	1.799E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-Q0BUU1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q0BUU1-F1-model_v4 Bifunctional protein HldE	0.092	231	199	54	284	14	233	1.506E+00	24
+DESULFOASV1_1245_D-aminoacylase	AF-A7GFJ3-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A7GFJ3-F1-model_v4 Hydroxyethylthiazole kinase 2	0.104	254	207	149	402	25	256	2.278E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-Q63GK4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q63GK4-F1-model_v4 Hydroxyethylthiazole kinase	0.104	243	208	152	394	34	266	2.417E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-Q5ZVG8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5ZVG8-F1-model_v4 Biotin synthase	0.098	280	217	3	282	45	286	3.061E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-Q04UG1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q04UG1-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.099	205	158	82	286	161	336	1.262E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-Q9XB58-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9XB58-F1-model_v4 Carbapenem antibiotics biosynthesis protein CarD	0.096	239	202	98	321	63	301	5.527E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-P47204-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P47204-F1-model_v4 Cell division protein FtsZ	0.109	303	237	56	358	11	277	1.121E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-Q13D92-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q13D92-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.118	198	149	83	280	190	359	1.338E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-Q57576-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q57576-F1-model_v4 Acetyl-CoA decarbonylase/synthase complex subunit gamma	0.105	178	134	149	326	110	260	4.629E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-B3E5M9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B3E5M9-F1-model_v4 Bifunctional protein HldE	0.075	177	134	75	251	61	206	1.799E+00	23
+DESULFOASV1_1245_D-aminoacylase	AF-Q55736-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q55736-F1-model_v4 Na(+)/H(+) antiporter NhaS5	0.111	227	190	56	282	426	640	3.439E-01	23
+DESULFOASV1_1245_D-aminoacylase	AF-B9K9S2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B9K9S2-F1-model_v4 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	0.110	202	160	79	280	40	220	4.629E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-B0U2A0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0U2A0-F1-model_v4 Biotin synthase	0.123	133	100	200	314	79	211	3.247E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-Q1QN98-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1QN98-F1-model_v4 GTP 3',8-cyclase	0.092	201	167	57	257	25	209	1.338E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-Q3V7S1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3V7S1-F1-model_v4 GTP 3',8-cyclase	0.114	356	252	66	421	60	344	1.338E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-Q99UQ0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q99UQ0-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.113	203	121	80	282	203	339	1.121E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-A1B4Z8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A1B4Z8-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.078	203	160	83	285	185	359	2.564E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-Q5H5R0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5H5R0-F1-model_v4 8-amino-7-oxononanoate synthase	0.106	100	82	152	251	117	209	5.863E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-Q5P7B0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q5P7B0-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.136	179	128	134	282	194	372	4.364E+00	22
+DESULFOASV1_1245_D-aminoacylase	AF-A9AZE0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9AZE0-F1-model_v4 Hydroxyethylthiazole kinase	0.104	243	206	152	394	35	265	3.655E+00	21
+DESULFOASV1_1245_D-aminoacylase	AF-P51383-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P51383-F1-model_v4 tRNA(Ile)-lysidine synthase, chloroplastic	0.096	88	74	201	283	35	122	8.358E+00	21
+DESULFOASV1_1245_D-aminoacylase	AF-Q7UZL1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7UZL1-F1-model_v4 tRNA(Ile)-lysidine synthase	0.233	56	41	230	284	43	98	9.407E+00	21
+DESULFOASV1_1245_D-aminoacylase	AF-Q8EVK0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8EVK0-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.108	215	164	68	282	140	324	2.417E+00	21
+DESULFOASV1_1245_D-aminoacylase	AF-A4XZR9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4XZR9-F1-model_v4 Biotin synthase	0.110	189	131	200	388	115	262	4.629E+00	21
+DESULFOASV1_1245_D-aminoacylase	AF-Q2SBD5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2SBD5-F1-model_v4 8-amino-7-oxononanoate synthase	0.127	107	78	206	312	135	224	3.655E+00	21
+DESULFOASV1_1245_D-aminoacylase	AF-Q8PDF1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8PDF1-F1-model_v4 8-amino-7-oxononanoate synthase	0.112	102	83	152	253	117	211	5.527E+00	21
+DESULFOASV1_1245_D-aminoacylase	AF-Q2JKE8-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2JKE8-F1-model_v4 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	0.102	279	207	56	286	4	282	7.864E-01	21
+DESULFOASV1_1245_D-aminoacylase	AF-Q7UA26-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q7UA26-F1-model_v4 tRNA(Ile)-lysidine synthase	0.108	251	188	215	465	32	243	7.864E-01	20
+DESULFOASV1_1245_D-aminoacylase	AF-A4WNI9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A4WNI9-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.085	203	159	83	285	186	360	4.911E+00	20
+DESULFOASV1_1245_D-aminoacylase	AF-Q3BYN0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q3BYN0-F1-model_v4 8-amino-7-oxononanoate synthase	0.114	100	82	152	251	117	209	7.427E+00	20
+DESULFOASV1_1245_D-aminoacylase	AF-B0U6J0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0U6J0-F1-model_v4 8-amino-7-oxononanoate synthase	0.141	100	78	152	251	118	209	8.867E+00	20
+DESULFOASV1_1245_D-aminoacylase	AF-Q2P8F2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q2P8F2-F1-model_v4 8-amino-7-oxononanoate synthase	0.096	100	82	152	251	118	209	8.867E+00	20
+DESULFOASV1_1245_D-aminoacylase	AF-B2SS66-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2SS66-F1-model_v4 8-amino-7-oxononanoate synthase	0.095	100	83	152	251	117	209	8.867E+00	20
+DESULFOASV1_1245_D-aminoacylase	AF-B8GJF9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B8GJF9-F1-model_v4 Hydroxyethylthiazole kinase	0.098	319	218	162	480	22	264	3.061E+00	19
+DESULFOASV1_1245_D-aminoacylase	AF-B2I672-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B2I672-F1-model_v4 Biotin synthase	0.123	133	100	200	314	79	211	6.220E+00	19
+DESULFOASV1_1245_D-aminoacylase	AF-Q1H0U6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q1H0U6-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.100	206	125	80	285	190	329	5.210E+00	19
+DESULFOASV1_1245_D-aminoacylase	AF-B0TGT1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B0TGT1-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.092	155	135	128	282	211	360	7.427E+00	19
+DESULFOASV1_1245_D-aminoacylase	AF-A8LNF0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A8LNF0-F1-model_v4 Dual-specificity RNA methyltransferase RlmN	0.092	164	146	122	285	200	361	9.407E+00	19
+DESULFOASV1_1245_D-aminoacylase	AF-A0RQR9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A0RQR9-F1-model_v4 Bifunctional protein HldE	0.090	229	194	54	282	10	223	3.247E+00	19
+DESULFOASV1_1245_D-aminoacylase	AF-B1MX61-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B1MX61-F1-model_v4 Hydroxyethylthiazole kinase	0.077	164	104	182	345	32	145	8.867E+00	18
+DESULFOASV1_1245_D-aminoacylase	AF-A9BIC0-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-A9BIC0-F1-model_v4 Probable dual-specificity RNA methyltransferase RlmN	0.095	200	154	83	282	152	322	4.911E+00	18
+DESULFOASV1_1245_D-aminoacylase	AF-Q9JM53-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9JM53-F1-model_v4 Apoptosis-inducing factor 1, mitochondrial	0.115	234	200	56	282	131	364	1.338E+00	18
+DESULFOASV1_1245_D-aminoacylase	AF-Q9Z0X1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9Z0X1-F1-model_v4 Apoptosis-inducing factor 1, mitochondrial	0.115	234	200	56	282	131	364	1.338E+00	18
+DESULFOASV1_1245_D-aminoacylase	AF-Q8K9W5-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q8K9W5-F1-model_v4 Phosphate acetyltransferase	0.090	162	138	201	353	83	244	3.877E+00	18
+DESULFOASV1_1245_D-aminoacylase	AF-P37995-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P37995-F1-model_v4 Ribosomal RNA small subunit methyltransferase E	0.116	153	133	56	207	78	230	2.147E+00	17
+DESULFOASV1_1245_D-aminoacylase	AF-B5EEZ1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-B5EEZ1-F1-model_v4 Bifunctional protein HldE	0.117	119	97	140	250	69	187	3.247E+00	17
+DESULFOASV1_1245_D-aminoacylase	AF-Q9GRX6-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q9GRX6-F1-model_v4 Apoptosis-inducing factor 1, mitochondrial	0.076	71	58	224	294	259	322	9.407E+00	17
+DESULFOASV1_1245_D-aminoacylase	AF-Q04499-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q04499-F1-model_v4 Proline dehydrogenase 1, mitochondrial	0.125	274	218	202	475	429	678	4.113E+00	17
+DESULFOASV1_1245_D-aminoacylase	AF-P9WGX1-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P9WGX1-F1-model_v4 Ribosomal RNA small subunit methyltransferase E	0.115	184	142	59	242	79	240	2.564E+00	16
+DESULFOASV1_1245_D-aminoacylase	AF-Q6FAS9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q6FAS9-F1-model_v4 Hydroxyethylthiazole kinase	0.094	290	200	200	489	53	274	4.364E+00	16
+DESULFOASV1_1245_D-aminoacylase	AF-P72667-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P72667-F1-model_v4 Ribosomal RNA small subunit methyltransferase E	0.100	239	184	6	244	98	302	1.908E+00	16
+DESULFOASV1_1245_D-aminoacylase	AF-O95831-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O95831-F1-model_v4 Apoptosis-inducing factor 1, mitochondrial	0.103	234	203	56	282	132	365	3.247E+00	16
+DESULFOASV1_1245_D-aminoacylase	AF-P23391-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P23391-F1-model_v4 Tagatose-6-phosphate kinase	0.109	238	207	56	293	9	241	9.979E+00	15
+DESULFOASV1_1245_D-aminoacylase	AF-P32057-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P32057-F1-model_v4 Putative colanic acid biosynthesis glycosyl transferase WcaI	0.086	228	161	59	286	5	181	5.210E+00	15
+DESULFOASV1_1245_D-aminoacylase	AF-P0AGL9-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0AGL9-F1-model_v4 Ribosomal RNA small subunit methyltransferase E	0.100	193	169	19	211	43	231	2.417E+00	14
+DESULFOASV1_1245_D-aminoacylase	AF-O51929-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-O51929-F1-model_v4 Cell division protein FtsZ	0.128	311	262	84	394	12	312	6.599E+00	14
+DESULFOASV1_1245_D-aminoacylase	AF-P0AGL7-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0AGL7-F1-model_v4 Ribosomal RNA small subunit methyltransferase E	0.082	175	150	12	175	36	210	7.001E+00	13
+DESULFOASV1_1245_D-aminoacylase	AF-P54461-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P54461-F1-model_v4 Ribosomal RNA small subunit methyltransferase E	0.112	210	170	52	243	40	249	3.061E+00	13
+DESULFOASV1_1245_D-aminoacylase	AF-P9WGL2-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P9WGL2-F1-model_v4 Sensor protein KdpD	0.084	297	209	56	284	26	322	5.527E+00	13
+DESULFOASV1_1245_D-aminoacylase	AF-Q98F87-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-Q98F87-F1-model_v4 tRNA(Ile)-lysidine synthase	0.115	266	233	201	464	30	295	8.867E+00	12
+DESULFOASV1_1245_D-aminoacylase	AF-P0AEW4-F1-model_v4	DESULFOASV1_1245_D-aminoacylase	AF-P0AEW4-F1-model_v4 3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA	0.118	204	172	52	255	14	209	8.867E+00	11

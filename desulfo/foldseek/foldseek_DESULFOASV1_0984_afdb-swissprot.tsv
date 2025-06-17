@@ -1,0 +1,862 @@
+query	target	qheader	theader	fident	alnlen	mismatch	qstart	qend	tstart	tend	evalue	bits
+DESULFOASV1_0984_hypothetical_protein	AF-P45782-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P45782-F1-model_v4 Type II secretion system protein L	0.115	433	358	10	442	2	407	8.715E-16	347
+DESULFOASV1_0984_hypothetical_protein	AF-Q9ZCA5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9ZCA5-F1-model_v4 Uncharacterized protein RP855	0.101	499	395	2	441	17	515	1.045E-16	345
+DESULFOASV1_0984_hypothetical_protein	AF-P31708-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P31708-F1-model_v4 Type II secretion system protein L	0.115	434	358	9	442	19	424	4.639E-16	329
+DESULFOASV1_0984_hypothetical_protein	AF-P31707-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P31707-F1-model_v4 Type II secretion system protein L	0.134	433	339	11	443	7	399	5.457E-15	316
+DESULFOASV1_0984_hypothetical_protein	AF-P15751-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P15751-F1-model_v4 Type II secretion system protein L	0.136	431	336	13	443	8	397	6.120E-15	302
+DESULFOASV1_0984_hypothetical_protein	AF-P45763-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P45763-F1-model_v4 Putative type II secretion system protein L	0.123	428	336	12	439	1	384	1.606E-13	292
+DESULFOASV1_0984_hypothetical_protein	AF-P34027-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P34027-F1-model_v4 Type II secretion system protein L	0.143	453	289	1	453	35	372	2.181E-15	287
+DESULFOASV1_0984_hypothetical_protein	AF-P25060-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P25060-F1-model_v4 Type II secretion system protein L	0.144	430	325	11	440	1	381	8.884E-12	239
+DESULFOASV1_0984_hypothetical_protein	AF-Q5HQ07-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5HQ07-F1-model_v4 Cell division protein FtsA	0.076	371	241	11	272	1	371	2.202E-10	223
+DESULFOASV1_0984_hypothetical_protein	AF-Q6GHQ0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6GHQ0-F1-model_v4 Cell division protein FtsA	0.079	371	240	11	272	1	371	2.769E-10	223
+DESULFOASV1_0984_hypothetical_protein	AF-Q8CPK5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8CPK5-F1-model_v4 Cell division protein FtsA	0.092	255	195	11	226	1	255	8.716E-10	219
+DESULFOASV1_0984_hypothetical_protein	AF-Q8NX33-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8NX33-F1-model_v4 Cell division protein FtsA	0.082	371	240	11	272	1	371	5.510E-10	214
+DESULFOASV1_0984_hypothetical_protein	AF-O07325-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O07325-F1-model_v4 Cell division protein FtsA	0.076	371	241	11	272	1	371	5.510E-10	213
+DESULFOASV1_0984_hypothetical_protein	AF-P63765-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P63765-F1-model_v4 Cell division protein FtsA	0.082	371	240	11	272	1	371	5.835E-10	213
+DESULFOASV1_0984_hypothetical_protein	AF-Q6GA27-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6GA27-F1-model_v4 Cell division protein FtsA	0.076	371	241	11	272	1	371	6.930E-10	212
+DESULFOASV1_0984_hypothetical_protein	AF-P63764-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P63764-F1-model_v4 Cell division protein FtsA	0.082	371	240	11	272	1	371	6.544E-10	212
+DESULFOASV1_0984_hypothetical_protein	AF-Q5HGP6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5HGP6-F1-model_v4 Cell division protein FtsA	0.082	371	240	11	272	1	371	9.775E-10	209
+DESULFOASV1_0984_hypothetical_protein	AF-P31768-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P31768-F1-model_v4 Competence protein A	0.116	253	214	10	252	5	257	8.230E-10	197
+DESULFOASV1_0984_hypothetical_protein	AF-O07672-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O07672-F1-model_v4 Cell division protein FtsA	0.098	367	234	10	269	1	367	1.025E-08	183
+DESULFOASV1_0984_hypothetical_protein	AF-P64634-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P64634-F1-model_v4 DNA utilization protein HofN	0.140	152	125	292	443	28	173	1.117E-05	181
+DESULFOASV1_0984_hypothetical_protein	AF-P45753-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P45753-F1-model_v4 DNA utilization protein HofM	0.116	264	225	10	273	3	257	5.354E-07	177
+DESULFOASV1_0984_hypothetical_protein	AF-P64635-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P64635-F1-model_v4 Putative DNA utilization protein HofN	0.146	152	124	292	443	28	173	1.253E-05	175
+DESULFOASV1_0984_hypothetical_protein	AF-G3XD30-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-G3XD30-F1-model_v4 Type IV pilus inner membrane component PilN	0.145	171	141	292	462	32	197	4.466E-06	173
+DESULFOASV1_0984_hypothetical_protein	AF-A2SLA5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A2SLA5-F1-model_v4 Type III pantothenate kinase	0.117	259	222	15	273	2	253	1.432E-07	143
+DESULFOASV1_0984_hypothetical_protein	AF-P0A270-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0A270-F1-model_v4 Exopolyphosphatase	0.139	221	178	12	232	9	216	2.266E-07	132
+DESULFOASV1_0984_hypothetical_protein	AF-P0AFL7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0AFL7-F1-model_v4 Exopolyphosphatase	0.134	223	181	10	232	7	216	2.400E-07	131
+DESULFOASV1_0984_hypothetical_protein	AF-P0A269-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0A269-F1-model_v4 Exopolyphosphatase	0.139	220	177	13	232	10	216	4.508E-07	128
+DESULFOASV1_0984_hypothetical_protein	AF-B2VG72-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2VG72-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.091	228	192	10	237	2	213	3.166E-06	125
+DESULFOASV1_0984_hypothetical_protein	AF-P0AFL8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0AFL8-F1-model_v4 Exopolyphosphatase	0.131	223	182	10	232	7	216	7.552E-07	124
+DESULFOASV1_0984_hypothetical_protein	AF-B2HUI9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2HUI9-F1-model_v4 Type III pantothenate kinase	0.090	258	216	15	272	2	239	1.392E-04	122
+DESULFOASV1_0984_hypothetical_protein	AF-P0AFL6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0AFL6-F1-model_v4 Exopolyphosphatase	0.136	228	182	10	237	7	218	1.128E-06	121
+DESULFOASV1_0984_hypothetical_protein	AF-Q15N19-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q15N19-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.093	220	187	13	232	13	219	1.065E-06	120
+DESULFOASV1_0984_hypothetical_protein	AF-A4WG31-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4WG31-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.092	223	190	10	232	3	212	3.353E-06	119
+DESULFOASV1_0984_hypothetical_protein	AF-B1LLV2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1LLV2-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	223	190	10	232	2	211	2.377E-06	118
+DESULFOASV1_0984_hypothetical_protein	AF-B7I784-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7I784-F1-model_v4 Type III pantothenate kinase	0.087	258	216	15	272	2	239	1.045E-04	117
+DESULFOASV1_0984_hypothetical_protein	AF-Q0SYW9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0SYW9-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.092	223	190	10	232	2	211	3.353E-06	116
+DESULFOASV1_0984_hypothetical_protein	AF-Q7MYL1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7MYL1-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.084	223	191	10	232	2	211	5.304E-06	116
+DESULFOASV1_0984_hypothetical_protein	AF-Q31UK6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q31UK6-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	223	190	10	232	2	211	4.217E-06	115
+DESULFOASV1_0984_hypothetical_protein	AF-Q83PI3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q83PI3-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.093	222	189	10	231	2	210	4.217E-06	115
+DESULFOASV1_0984_hypothetical_protein	AF-B7GZ77-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7GZ77-F1-model_v4 Type III pantothenate kinase	0.088	255	217	15	269	2	240	1.474E-04	114
+DESULFOASV1_0984_hypothetical_protein	AF-A3M2T7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3M2T7-F1-model_v4 Type III pantothenate kinase	0.085	258	217	15	272	2	239	2.332E-04	114
+DESULFOASV1_0984_hypothetical_protein	AF-B7L8C0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7L8C0-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	223	190	10	232	2	211	5.008E-06	114
+DESULFOASV1_0984_hypothetical_protein	AF-B7N272-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7N272-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	223	190	10	232	2	211	4.466E-06	114
+DESULFOASV1_0984_hypothetical_protein	AF-B0V8C7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0V8C7-F1-model_v4 Type III pantothenate kinase	0.088	255	217	15	269	2	240	1.561E-04	113
+DESULFOASV1_0984_hypothetical_protein	AF-A7MQI3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7MQI3-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.102	224	189	10	233	2	212	2.377E-06	113
+DESULFOASV1_0984_hypothetical_protein	AF-C3LQR0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3LQR0-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.108	223	186	10	232	4	213	7.922E-06	113
+DESULFOASV1_0984_hypothetical_protein	AF-B7NF84-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7NF84-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.080	223	192	10	232	2	211	3.166E-06	112
+DESULFOASV1_0984_hypothetical_protein	AF-Q8FBR0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8FBR0-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	222	189	10	231	2	210	5.948E-06	112
+DESULFOASV1_0984_hypothetical_protein	AF-Q6CZD8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6CZD8-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.094	224	190	10	233	2	212	7.481E-06	112
+DESULFOASV1_0984_hypothetical_protein	AF-P31769-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P31769-F1-model_v4 Competence protein B	0.156	149	122	292	440	18	163	7.772E-04	111
+DESULFOASV1_0984_hypothetical_protein	AF-B2TU13-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2TU13-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	222	189	10	231	2	210	6.670E-06	111
+DESULFOASV1_0984_hypothetical_protein	AF-Q329V7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q329V7-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.087	227	193	10	236	2	213	7.922E-06	111
+DESULFOASV1_0984_hypothetical_protein	AF-Q6LLL4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6LLL4-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.078	220	190	13	232	7	213	5.616E-06	111
+DESULFOASV1_0984_hypothetical_protein	AF-Q46833-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q46833-F1-model_v4 Putative type II secretion system L-type protein YghE	0.127	304	245	139	442	5	286	1.405E-05	110
+DESULFOASV1_0984_hypothetical_protein	AF-B7M5C6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7M5C6-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.080	223	192	10	232	2	211	4.217E-06	110
+DESULFOASV1_0984_hypothetical_protein	AF-A8ACT2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8ACT2-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.077	221	191	13	233	5	212	9.409E-06	110
+DESULFOASV1_0984_hypothetical_protein	AF-B7NTG3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7NTG3-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	222	189	10	231	2	210	8.389E-06	110
+DESULFOASV1_0984_hypothetical_protein	AF-Q7MGP6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7MGP6-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.092	223	190	10	232	4	213	3.760E-06	110
+DESULFOASV1_0984_hypothetical_protein	AF-A5F3R3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5F3R3-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.111	223	185	10	232	5	213	1.117E-05	110
+DESULFOASV1_0984_hypothetical_protein	AF-Q3YVI5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3YVI5-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.080	223	192	10	232	2	211	5.008E-06	109
+DESULFOASV1_0984_hypothetical_protein	AF-A1AHU9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1AHU9-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	222	189	10	231	2	210	8.884E-06	109
+DESULFOASV1_0984_hypothetical_protein	AF-Q3IDD5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3IDD5-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.099	300	232	12	270	7	306	7.481E-06	109
+DESULFOASV1_0984_hypothetical_protein	AF-Q8XAT5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8XAT5-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.076	224	194	10	233	2	212	5.616E-06	108
+DESULFOASV1_0984_hypothetical_protein	AF-B7UMN4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7UMN4-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.080	223	192	10	232	2	211	5.948E-06	108
+DESULFOASV1_0984_hypothetical_protein	AF-Q1R4G0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1R4G0-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	243	206	10	252	2	228	5.008E-06	108
+DESULFOASV1_0984_hypothetical_protein	AF-A7ZTY0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7ZTY0-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.081	222	191	10	231	2	210	5.948E-06	108
+DESULFOASV1_0984_hypothetical_protein	AF-P25552-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P25552-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.076	224	194	10	233	2	212	6.299E-06	108
+DESULFOASV1_0984_hypothetical_protein	AF-A1JI66-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1JI66-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.085	223	191	10	232	3	212	1.253E-05	108
+DESULFOASV1_0984_hypothetical_protein	AF-A7FD46-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7FD46-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.089	223	190	10	232	3	212	1.183E-05	108
+DESULFOASV1_0984_hypothetical_protein	AF-C1AI58-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C1AI58-F1-model_v4 Type III pantothenate kinase	0.098	260	234	16	275	2	261	4.177E-05	107
+DESULFOASV1_0984_hypothetical_protein	AF-Q57HT7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q57HT7-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.078	219	189	14	232	5	210	7.922E-06	107
+DESULFOASV1_0984_hypothetical_protein	AF-C4ZZ47-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4ZZ47-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.079	228	194	10	237	2	213	6.670E-06	107
+DESULFOASV1_0984_hypothetical_protein	AF-B1IWC1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1IWC1-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.069	224	196	10	233	2	212	7.064E-06	107
+DESULFOASV1_0984_hypothetical_protein	AF-B1X9Z3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1X9Z3-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.076	224	194	10	233	2	212	6.670E-06	107
+DESULFOASV1_0984_hypothetical_protein	AF-B4F1V2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B4F1V2-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.087	224	192	10	233	2	212	3.982E-06	107
+DESULFOASV1_0984_hypothetical_protein	AF-P9WPA0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P9WPA0-F1-model_v4 Type III pantothenate kinase	0.101	260	233	16	275	2	261	5.253E-05	106
+DESULFOASV1_0984_hypothetical_protein	AF-A9MXF2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9MXF2-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.076	224	194	10	233	1	211	1.055E-05	106
+DESULFOASV1_0984_hypothetical_protein	AF-B6I4B5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B6I4B5-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.080	222	191	10	231	2	210	7.064E-06	106
+DESULFOASV1_0984_hypothetical_protein	AF-A8A6N3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8A6N3-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.079	228	194	10	237	2	213	9.964E-06	105
+DESULFOASV1_0984_hypothetical_protein	AF-A8G827-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8G827-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.081	223	192	10	232	2	211	1.669E-05	105
+DESULFOASV1_0984_hypothetical_protein	AF-Q7TW42-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7TW42-F1-model_v4 Type III pantothenate kinase	0.107	260	231	16	275	2	261	3.517E-05	104
+DESULFOASV1_0984_hypothetical_protein	AF-B5RFS4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5RFS4-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.079	228	194	10	237	1	212	1.183E-05	104
+DESULFOASV1_0984_hypothetical_protein	AF-B5FN73-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5FN73-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.079	228	194	10	237	1	212	1.183E-05	104
+DESULFOASV1_0984_hypothetical_protein	AF-B7LU76-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7LU76-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.079	228	194	10	237	2	213	1.117E-05	104
+DESULFOASV1_0984_hypothetical_protein	AF-A9R8H6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9R8H6-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.080	228	194	10	237	3	214	3.136E-05	104
+DESULFOASV1_0984_hypothetical_protein	AF-B2K045-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2K045-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.077	223	193	10	232	3	212	1.872E-05	104
+DESULFOASV1_0984_hypothetical_protein	AF-Q1B2M0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1B2M0-F1-model_v4 Type III pantothenate kinase	0.093	257	230	16	272	2	256	1.315E-04	103
+DESULFOASV1_0984_hypothetical_protein	AF-P9WPA1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P9WPA1-F1-model_v4 Type III pantothenate kinase	0.107	260	231	16	275	2	261	5.563E-05	102
+DESULFOASV1_0984_hypothetical_protein	AF-A5U8S5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5U8S5-F1-model_v4 Type III pantothenate kinase	0.104	260	232	16	275	2	261	4.684E-05	102
+DESULFOASV1_0984_hypothetical_protein	AF-C0Q2V8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0Q2V8-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.079	228	194	10	237	1	212	1.669E-05	102
+DESULFOASV1_0984_hypothetical_protein	AF-B8J468-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8J468-F1-model_v4 Type III pantothenate kinase	0.119	265	227	11	275	1	259	4.684E-05	101
+DESULFOASV1_0984_hypothetical_protein	AF-B4SZ25-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B4SZ25-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.080	224	190	14	237	5	212	2.493E-05	101
+DESULFOASV1_0984_hypothetical_protein	AF-A4TRC9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4TRC9-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.086	220	188	13	232	6	212	2.354E-05	100
+DESULFOASV1_0984_hypothetical_protein	AF-Q74R94-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q74R94-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.086	220	188	13	232	6	212	2.640E-05	100
+DESULFOASV1_0984_hypothetical_protein	AF-A1UMH8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1UMH8-F1-model_v4 Type III pantothenate kinase	0.093	258	232	16	273	2	258	2.933E-04	99
+DESULFOASV1_0984_hypothetical_protein	AF-A1KPT5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1KPT5-F1-model_v4 Type III pantothenate kinase	0.107	260	231	16	275	2	261	7.847E-05	99
+DESULFOASV1_0984_hypothetical_protein	AF-Q66G20-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q66G20-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.087	223	191	10	232	3	212	2.796E-05	99
+DESULFOASV1_0984_hypothetical_protein	AF-A0QA95-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0QA95-F1-model_v4 Type III pantothenate kinase	0.114	258	227	16	273	2	258	2.770E-04	96
+DESULFOASV1_0984_hypothetical_protein	AF-C1BA77-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C1BA77-F1-model_v4 Type III pantothenate kinase	0.097	258	231	16	273	2	258	9.869E-05	96
+DESULFOASV1_0984_hypothetical_protein	AF-B1JQ12-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1JQ12-F1-model_v4 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	0.085	223	191	10	232	3	212	4.423E-05	96
+DESULFOASV1_0984_hypothetical_protein	AF-B2HJ44-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2HJ44-F1-model_v4 Type III pantothenate kinase	0.086	258	235	16	273	2	259	1.751E-04	95
+DESULFOASV1_0984_hypothetical_protein	AF-Q743Y3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q743Y3-F1-model_v4 Type III pantothenate kinase	0.114	258	227	16	273	2	258	3.907E-04	94
+DESULFOASV1_0984_hypothetical_protein	AF-B8ZU51-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8ZU51-F1-model_v4 Type III pantothenate kinase	0.113	258	227	16	272	2	259	1.392E-04	94
+DESULFOASV1_0984_hypothetical_protein	AF-Q8FWN5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8FWN5-F1-model_v4 Bifunctional enzyme NanE/NanK	0.106	295	244	2	275	230	524	1.653E-04	94
+DESULFOASV1_0984_hypothetical_protein	AF-Q1QHP5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1QHP5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.128	70	55	11	74	3	72	9.143E-03	92
+DESULFOASV1_0984_hypothetical_protein	AF-Q9A6N3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9A6N3-F1-model_v4 Glucokinase	0.119	262	211	9	270	3	243	3.136E-05	92
+DESULFOASV1_0984_hypothetical_protein	AF-Q07H95-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q07H95-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.157	70	53	11	74	7	76	9.143E-03	91
+DESULFOASV1_0984_hypothetical_protein	AF-A3Q6Y3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3Q6Y3-F1-model_v4 Type III pantothenate kinase	0.104	258	229	16	273	2	258	2.770E-04	91
+DESULFOASV1_0984_hypothetical_protein	AF-B8GXA8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8GXA8-F1-model_v4 Glucokinase	0.116	262	212	9	270	3	243	5.253E-05	91
+DESULFOASV1_0984_hypothetical_protein	AF-Q0ALX7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0ALX7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.125	71	56	10	74	1	71	5.154E-03	90
+DESULFOASV1_0984_hypothetical_protein	AF-B0T0C5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0T0C5-F1-model_v4 Glucokinase	0.151	257	204	14	270	8	248	2.099E-05	90
+DESULFOASV1_0984_hypothetical_protein	AF-A0PV48-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0PV48-F1-model_v4 Type III pantothenate kinase	0.105	267	231	16	274	2	268	9.869E-05	89
+DESULFOASV1_0984_hypothetical_protein	AF-B0S1J5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0S1J5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	66	55	15	74	2	67	5.780E-03	88
+DESULFOASV1_0984_hypothetical_protein	AF-Q6NAT1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6NAT1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.150	73	56	8	74	4	76	1.218E-02	87
+DESULFOASV1_0984_hypothetical_protein	AF-Q83NI9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q83NI9-F1-model_v4 UvrABC system protein C	0.099	262	230	2	257	234	495	4.466E-06	87
+DESULFOASV1_0984_hypothetical_protein	AF-Q183P3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q183P3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.090	66	54	15	74	2	67	1.718E-02	86
+DESULFOASV1_0984_hypothetical_protein	AF-A1BDW9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1BDW9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.136	66	51	15	74	2	67	2.423E-02	86
+DESULFOASV1_0984_hypothetical_protein	AF-Q729U1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q729U1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	155	98	10	164	1	110	2.743E-03	85
+DESULFOASV1_0984_hypothetical_protein	AF-A5G9Y4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5G9Y4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.075	66	55	15	74	2	67	2.423E-02	85
+DESULFOASV1_0984_hypothetical_protein	AF-Q6MKB6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6MKB6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.142	69	53	12	74	1	69	1.218E-02	84
+DESULFOASV1_0984_hypothetical_protein	AF-Q478E2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q478E2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.084	71	59	10	74	2	72	2.423E-02	84
+DESULFOASV1_0984_hypothetical_protein	AF-Q39JI9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q39JI9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.092	65	54	15	74	2	66	3.047E-02	84
+DESULFOASV1_0984_hypothetical_protein	AF-A1W1Y1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1W1Y1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.102	68	56	12	74	1	68	4.298E-02	83
+DESULFOASV1_0984_hypothetical_protein	AF-Q74E88-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q74E88-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	66	54	15	74	2	67	1.366E-02	83
+DESULFOASV1_0984_hypothetical_protein	AF-Q3A232-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3A232-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.134	66	51	15	74	2	67	1.532E-02	82
+DESULFOASV1_0984_hypothetical_protein	AF-A5V1E5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5V1E5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.154	70	53	11	74	1	70	1.218E-02	82
+DESULFOASV1_0984_hypothetical_protein	AF-Q1AWE2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1AWE2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.122	157	98	8	164	2	114	3.450E-03	82
+DESULFOASV1_0984_hypothetical_protein	AF-A1K2Y3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1K2Y3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.130	68	54	12	74	8	75	1.926E-02	82
+DESULFOASV1_0984_hypothetical_protein	AF-O83530-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O83530-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.071	69	58	12	74	15	83	1.290E-02	82
+DESULFOASV1_0984_hypothetical_protein	AF-B9L9T8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9L9T8-F1-model_v4 UvrABC system protein C	0.078	246	216	12	257	247	481	2.354E-05	82
+DESULFOASV1_0984_hypothetical_protein	AF-B0C9S0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0C9S0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.057	69	58	12	74	1	69	2.566E-02	81
+DESULFOASV1_0984_hypothetical_protein	AF-A7I463-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7I463-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.076	65	55	15	74	2	66	4.298E-02	81
+DESULFOASV1_0984_hypothetical_protein	AF-A7H674-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7H674-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	68	57	12	74	1	68	5.105E-02	81
+DESULFOASV1_0984_hypothetical_protein	AF-A5FS25-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5FS25-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.098	156	101	15	170	2	114	3.654E-03	81
+DESULFOASV1_0984_hypothetical_protein	AF-Q5UY89-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5UY89-F1-model_v4 UvrABC system protein C	0.136	257	220	2	258	225	480	8.884E-06	81
+DESULFOASV1_0984_hypothetical_protein	AF-A9WIH6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9WIH6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.164	66	49	15	74	2	67	1.622E-02	80
+DESULFOASV1_0984_hypothetical_protein	AF-Q39XN8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q39XN8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	66	55	15	74	2	67	2.160E-02	80
+DESULFOASV1_0984_hypothetical_protein	AF-B9LAL7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9LAL7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.164	66	49	15	74	2	67	1.622E-02	80
+DESULFOASV1_0984_hypothetical_protein	AF-A1ASF5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1ASF5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.104	66	53	15	74	2	67	2.288E-02	80
+DESULFOASV1_0984_hypothetical_protein	AF-A3DBU2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3DBU2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.112	66	56	15	78	2	67	1.532E-02	79
+DESULFOASV1_0984_hypothetical_protein	AF-Q1MRQ2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1MRQ2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	66	54	15	74	3	68	2.040E-02	79
+DESULFOASV1_0984_hypothetical_protein	AF-A4YMC5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4YMC5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.138	71	55	10	74	6	76	1.622E-02	79
+DESULFOASV1_0984_hypothetical_protein	AF-A6SUQ2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6SUQ2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.106	65	53	15	74	2	66	3.227E-02	79
+DESULFOASV1_0984_hypothetical_protein	AF-Q8Y233-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8Y233-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	66	55	15	74	2	67	2.566E-02	79
+DESULFOASV1_0984_hypothetical_protein	AF-B1Z922-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1Z922-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.166	71	53	10	74	1	71	1.366E-02	79
+DESULFOASV1_0984_hypothetical_protein	AF-Q3B2D5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3B2D5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.119	66	52	15	74	2	67	1.926E-02	79
+DESULFOASV1_0984_hypothetical_protein	AF-A1QYH7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1QYH7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.057	69	58	12	74	1	69	5.725E-02	78
+DESULFOASV1_0984_hypothetical_protein	AF-B8G4I8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8G4I8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.179	66	48	15	74	2	67	2.040E-02	78
+DESULFOASV1_0984_hypothetical_protein	AF-Q30YX5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q30YX5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.098	153	97	12	164	4	111	4.596E-03	78
+DESULFOASV1_0984_hypothetical_protein	AF-Q9WZ45-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9WZ45-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	70	57	11	74	1	70	3.619E-02	78
+DESULFOASV1_0984_hypothetical_protein	AF-B3PYZ1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3PYZ1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.138	71	55	10	74	1	71	1.622E-02	78
+DESULFOASV1_0984_hypothetical_protein	AF-C0R1L6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0R1L6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.090	66	54	15	74	2	67	4.820E-02	77
+DESULFOASV1_0984_hypothetical_protein	AF-B8FQV7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8FQV7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	150	96	15	164	2	107	6.865E-03	77
+DESULFOASV1_0984_hypothetical_protein	AF-Q3Z9B2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3Z9B2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.108	156	100	15	170	2	114	5.780E-03	77
+DESULFOASV1_0984_hypothetical_protein	AF-Q2YRD0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2YRD0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	4.552E-02	77
+DESULFOASV1_0984_hypothetical_protein	AF-Q57BH6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q57BH6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	4.820E-02	77
+DESULFOASV1_0984_hypothetical_protein	AF-P25061-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P25061-F1-model_v4 Type II secretion system protein M	0.148	151	121	292	442	32	174	2.878E-02	77
+DESULFOASV1_0984_hypothetical_protein	AF-Q475R5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q475R5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	66	54	15	74	2	67	3.227E-02	77
+DESULFOASV1_0984_hypothetical_protein	AF-Q5P3C5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5P3C5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.115	68	55	12	74	8	75	3.833E-02	77
+DESULFOASV1_0984_hypothetical_protein	AF-A0R579-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0R579-F1-model_v4 Type III pantothenate kinase	0.098	266	233	16	274	2	267	2.615E-04	77
+DESULFOASV1_0984_hypothetical_protein	AF-Q83MY6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q83MY6-F1-model_v4 UvrABC system protein C	0.101	262	229	2	257	234	495	2.099E-05	77
+DESULFOASV1_0984_hypothetical_protein	AF-Q46JY8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q46JY8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	152	96	15	166	2	109	6.865E-03	76
+DESULFOASV1_0984_hypothetical_protein	AF-Q24UN5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q24UN5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	150	96	15	164	2	107	8.153E-03	76
+DESULFOASV1_0984_hypothetical_protein	AF-A1VC42-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1VC42-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	153	98	12	164	1	110	4.596E-03	76
+DESULFOASV1_0984_hypothetical_protein	AF-Q8YIV7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8YIV7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	5.406E-02	76
+DESULFOASV1_0984_hypothetical_protein	AF-A9WWI1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9WWI1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	5.406E-02	76
+DESULFOASV1_0984_hypothetical_protein	AF-Q20X08-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q20X08-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.194	71	52	10	74	6	76	2.423E-02	76
+DESULFOASV1_0984_hypothetical_protein	AF-B2UFL4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2UFL4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	66	55	15	74	2	67	3.833E-02	76
+DESULFOASV1_0984_hypothetical_protein	AF-A9W1B1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9W1B1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.166	71	53	10	74	1	71	1.926E-02	76
+DESULFOASV1_0984_hypothetical_protein	AF-C4K4U7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4K4U7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	153	97	12	164	1	107	1.218E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-Q5HS68-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5HS68-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	68	56	12	74	1	68	4.552E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-B0TF68-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0TF68-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	66	55	15	74	2	67	3.047E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-A9IYK9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9IYK9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.084	71	59	10	74	1	71	5.725E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-Q3SP12-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3SP12-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.086	156	101	10	165	2	113	9.143E-03	75
+DESULFOASV1_0984_hypothetical_protein	AF-A6WY74-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6WY74-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	6.063E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-C0REW7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0REW7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	5.725E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-B2S7E1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2S7E1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	5.725E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-A5ERK2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5ERK2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.086	155	101	10	164	6	116	1.025E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-B2AH75-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2AH75-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.059	66	56	15	74	2	67	3.833E-02	75
+DESULFOASV1_0984_hypothetical_protein	AF-Q7VNF5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7VNF5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	153	97	12	164	1	107	7.270E-03	75
+DESULFOASV1_0984_hypothetical_protein	AF-Q72ZM1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q72ZM1-F1-model_v4 UvrABC system protein C	0.088	245	213	13	257	244	478	5.563E-05	75
+DESULFOASV1_0984_hypothetical_protein	AF-A1SJC8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1SJC8-F1-model_v4 Putative pre-16S rRNA nuclease	0.158	101	74	170	258	1	101	1.819E-02	74
+DESULFOASV1_0984_hypothetical_protein	AF-A5CES8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5CES8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.070	150	98	15	164	2	107	1.366E-02	74
+DESULFOASV1_0984_hypothetical_protein	AF-Q2JP15-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2JP15-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.056	154	102	11	164	10	118	8.153E-03	74
+DESULFOASV1_0984_hypothetical_protein	AF-Q0AX14-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0AX14-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	150	96	15	164	2	107	8.634E-03	74
+DESULFOASV1_0984_hypothetical_protein	AF-A9M7K2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9M7K2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	6.799E-02	74
+DESULFOASV1_0984_hypothetical_protein	AF-Q5WX48-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5WX48-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	67	55	14	74	2	68	4.552E-02	74
+DESULFOASV1_0984_hypothetical_protein	AF-A5IBE0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5IBE0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	67	55	14	74	2	68	4.552E-02	74
+DESULFOASV1_0984_hypothetical_protein	AF-Q1GYR6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1GYR6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.093	74	56	12	74	1	74	2.040E-02	74
+DESULFOASV1_0984_hypothetical_protein	AF-B2S3B1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2S3B1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	71	60	10	74	13	83	3.418E-02	74
+DESULFOASV1_0984_hypothetical_protein	AF-B7HF33-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7HF33-F1-model_v4 UvrABC system protein C	0.092	245	212	13	257	244	478	1.107E-04	74
+DESULFOASV1_0984_hypothetical_protein	AF-Q5M3R7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5M3R7-F1-model_v4 UvrABC system protein C	0.116	250	215	13	262	244	487	5.253E-05	74
+DESULFOASV1_0984_hypothetical_protein	AF-A4J535-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4J535-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.059	66	56	15	74	2	67	4.059E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-C6E1T0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C6E1T0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	66	55	15	74	2	67	4.820E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-B5EAH1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5EAH1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	66	55	15	74	2	67	4.552E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-A8IM96-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8IM96-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.106	66	53	15	74	7	72	7.201E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-Q98F72-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q98F72-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.062	155	103	10	164	1	111	1.290E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-Q8U9K4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8U9K4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.150	71	54	10	74	1	71	2.160E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-Q9JYV1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9JYV1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	155	101	10	164	1	111	1.622E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-A9FR00-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9FR00-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.121	66	52	15	74	2	67	9.056E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-Q12EK7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q12EK7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.085	69	55	15	75	2	70	3.227E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-Q8KBW8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8KBW8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.104	66	53	15	74	2	67	4.552E-02	73
+DESULFOASV1_0984_hypothetical_protein	AF-B1LZP2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1LZP2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.111	155	98	10	164	1	111	6.865E-03	73
+DESULFOASV1_0984_hypothetical_protein	AF-Q14I60-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q14I60-F1-model_v4 UvrABC system protein C	0.099	271	224	3	273	244	493	1.183E-05	73
+DESULFOASV1_0984_hypothetical_protein	AF-A7IJV2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7IJV2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	152	98	13	164	5	112	1.622E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-A5VS60-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5VS60-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	71	56	10	74	1	71	8.075E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-Q8FZ01-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8FZ01-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.112	71	57	10	74	1	71	8.075E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-Q7NQB5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7NQB5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.068	153	101	12	164	1	109	1.446E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-Q5FA76-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5FA76-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.092	155	100	10	164	1	111	1.622E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-A1KUM5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1KUM5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.086	155	101	10	164	1	111	1.718E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-A9M0D4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9M0D4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.086	155	101	10	164	1	111	1.819E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-Q1LRB4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1LRB4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.102	66	53	15	74	2	67	3.047E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-B3QTP6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3QTP6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.083	150	96	15	164	2	107	1.532E-02	72
+DESULFOASV1_0984_hypothetical_protein	AF-Q03K10-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q03K10-F1-model_v4 UvrABC system protein C	0.105	245	211	13	257	244	480	1.107E-04	72
+DESULFOASV1_0984_hypothetical_protein	AF-O67445-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O67445-F1-model_v4 Uncharacterized protein aq_1465	0.111	145	111	297	441	4	129	5.406E-02	71
+DESULFOASV1_0984_hypothetical_protein	AF-C3PMF5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3PMF5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	151	99	15	165	2	108	1.290E-02	71
+DESULFOASV1_0984_hypothetical_protein	AF-Q8RAN4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8RAN4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	150	96	15	164	2	107	1.532E-02	71
+DESULFOASV1_0984_hypothetical_protein	AF-Q01TY0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q01TY0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.119	66	52	15	74	2	67	4.820E-02	71
+DESULFOASV1_0984_hypothetical_protein	AF-Q0VRJ9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0VRJ9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.083	158	106	14	171	2	118	1.150E-02	71
+DESULFOASV1_0984_hypothetical_protein	AF-Q73LJ8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q73LJ8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.055	71	60	10	74	11	81	4.552E-02	71
+DESULFOASV1_0984_hypothetical_protein	AF-B4S5F6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B4S5F6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.075	66	55	15	74	2	67	1.277E-01	71
+DESULFOASV1_0984_hypothetical_protein	AF-A2C7G2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A2C7G2-F1-model_v4 tRNA N6-adenosine threonylcarbamoyltransferase	0.120	325	229	12	272	1	325	4.913E-04	71
+DESULFOASV1_0984_hypothetical_protein	AF-C1ETV9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C1ETV9-F1-model_v4 UvrABC system protein C	0.081	245	215	13	257	244	478	1.561E-04	71
+DESULFOASV1_0984_hypothetical_protein	AF-A5GM62-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5GM62-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.136	66	51	15	74	2	67	9.056E-02	70
+DESULFOASV1_0984_hypothetical_protein	AF-B8I1A2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8I1A2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.084	66	58	15	78	2	67	4.552E-02	70
+DESULFOASV1_0984_hypothetical_protein	AF-Q2RHT5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2RHT5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.101	150	94	15	164	2	107	1.718E-02	70
+DESULFOASV1_0984_hypothetical_protein	AF-Q9A3G6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9A3G6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.104	156	99	9	164	4	115	1.086E-02	70
+DESULFOASV1_0984_hypothetical_protein	AF-Q7MJ75-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7MJ75-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	1.718E-02	70
+DESULFOASV1_0984_hypothetical_protein	AF-Q2RZ65-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2RZ65-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.101	150	94	15	164	2	107	1.366E-02	70
+DESULFOASV1_0984_hypothetical_protein	AF-A0L4W0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0L4W0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.132	109	78	167	257	1	109	1.718E-02	70
+DESULFOASV1_0984_hypothetical_protein	AF-Q68XY7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q68XY7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.076	150	97	15	164	2	107	1.622E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-B5ZP76-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5ZP76-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	155	101	10	164	1	111	1.290E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-B0SUN7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0SUN7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	152	96	13	164	8	115	1.622E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-B9J9J2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9J9J2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.138	71	55	10	74	1	71	4.820E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-B6J504-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B6J504-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	154	99	11	164	3	111	3.227E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-B7USP0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7USP0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	2.040E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-B5YR08-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5YR08-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	1.926E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-Q21HN4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q21HN4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.094	151	96	14	164	2	108	2.040E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-Q46832-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q46832-F1-model_v4 Putative type II secretion system M-type protein YghD	0.153	182	136	260	441	15	175	2.040E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-Q11T17-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q11T17-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.086	155	101	10	164	7	118	2.423E-02	69
+DESULFOASV1_0984_hypothetical_protein	AF-Q3AI88-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3AI88-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	152	98	15	166	2	109	2.288E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-A8GUZ9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8GUZ9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.076	151	98	15	165	2	108	2.566E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-Q9ZE29-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9ZE29-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	151	99	15	165	2	108	1.926E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-A6LLU8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6LLU8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.060	66	55	15	74	2	67	1.353E-01	68
+DESULFOASV1_0984_hypothetical_protein	AF-B3CSI0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3CSI0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.070	150	98	15	164	2	107	1.819E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-P15752-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P15752-F1-model_v4 Type II secretion system protein M	0.127	149	122	292	440	16	156	2.288E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-A9BIM4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9BIM4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.096	150	95	15	164	2	107	2.288E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-A5D3F9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5D3F9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.076	150	97	15	164	2	107	2.423E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-Q2W2A2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2W2A2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.134	66	51	15	74	2	67	7.201E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-C4XIK0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4XIK0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.093	155	100	10	164	3	113	2.423E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-A8H547-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8H547-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.094	153	97	14	166	2	109	2.878E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-B9LZC6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9LZC6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.073	156	104	15	170	2	114	1.819E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-C4ZQE7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4ZQE7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	2.423E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-B2TXL5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2TXL5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	2.566E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-A8GFI9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8GFI9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.096	151	95	14	164	2	107	3.418E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-A9MND5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9MND5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	2.878E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-B1XHD1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1XHD1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	2.423E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-B3QHS1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3QHS1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.095	155	100	10	164	6	116	1.025E-02	68
+DESULFOASV1_0984_hypothetical_protein	AF-Q5FKH6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5FKH6-F1-model_v4 UvrABC system protein C	0.098	248	219	10	257	242	485	1.964E-04	68
+DESULFOASV1_0984_hypothetical_protein	AF-Q74JN8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q74JN8-F1-model_v4 UvrABC system protein C	0.075	246	223	12	257	244	485	1.172E-04	68
+DESULFOASV1_0984_hypothetical_protein	AF-Q47TI0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q47TI0-F1-model_v4 Chaperone protein DnaK	0.109	221	192	12	227	1	221	9.775E-04	68
+DESULFOASV1_0984_hypothetical_protein	AF-Q6FCE6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6FCE6-F1-model_v4 Chaperone protein HscA homolog	0.086	376	247	9	279	10	385	2.060E-03	68
+DESULFOASV1_0984_hypothetical_protein	AF-A2C3N0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A2C3N0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	152	96	15	166	2	109	2.423E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-P41851-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P41851-F1-model_v4 Type II secretion system protein M	0.099	149	128	292	440	20	162	8.075E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-A7HNS2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7HNS2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.073	156	104	15	170	2	114	2.160E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-B6JIZ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B6JIZ7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.055	156	105	10	165	2	113	2.717E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-Q89U82-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q89U82-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.097	261	146	10	270	6	168	1.025E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-Q9JTU3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9JTU3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.078	155	101	10	164	1	111	2.423E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-A4G1U7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4G1U7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.086	150	95	15	164	2	106	1.086E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-B7L253-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7L253-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.104	155	99	10	164	1	111	1.718E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-Q1D2J4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1D2J4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.166	66	49	15	74	2	67	1.016E-01	67
+DESULFOASV1_0984_hypothetical_protein	AF-B4SDW6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B4SDW6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	152	99	15	166	2	109	2.878E-02	67
+DESULFOASV1_0984_hypothetical_protein	AF-A8YVQ3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8YVQ3-F1-model_v4 Chaperone protein DnaK	0.097	348	230	15	270	3	350	1.734E-03	67
+DESULFOASV1_0984_hypothetical_protein	AF-Q607S4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q607S4-F1-model_v4 UvrABC system protein C	0.143	247	206	3	249	241	481	4.960E-05	67
+DESULFOASV1_0984_hypothetical_protein	AF-Q3AYZ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3AYZ7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.083	150	95	15	164	2	106	3.227E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-C4K1R1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4K1R1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	151	99	15	165	2	108	2.566E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q92JA8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q92JA8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	151	99	15	165	2	108	2.717E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q8DJT5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8DJT5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.075	150	96	15	164	2	106	1.819E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-P31709-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P31709-F1-model_v4 Type II secretion system protein M	0.142	151	123	292	442	16	159	3.418E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-A8MHI5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8MHI5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.068	150	98	15	164	2	107	1.290E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q6MFA6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6MFA6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.105	161	105	10	170	1	118	2.160E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-B9JRI5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9JRI5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.136	71	55	10	74	1	71	4.820E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-C3MIH7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3MIH7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.085	155	101	10	164	1	111	1.718E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-A9KF42-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9KF42-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	154	99	11	164	3	111	4.298E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-A9N9A1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9N9A1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	154	98	11	164	3	111	4.820E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q83BE3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q83BE3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	154	98	11	164	3	111	4.552E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-C4LBN2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4LBN2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	151	96	14	164	2	107	2.878E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-A0KWL7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0KWL7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.095	151	95	14	164	2	107	3.619E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-A8FUW8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8FUW8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	153	98	14	166	2	109	3.619E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q8EEF1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8EEF1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.094	153	97	14	166	2	109	3.227E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-A5F762-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5F762-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	151	96	14	164	2	107	3.619E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-B7MVZ4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7MVZ4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	3.227E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q82XP5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q82XP5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.094	153	97	12	164	9	116	3.227E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q3AU83-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3AU83-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.062	152	100	15	166	2	109	2.288E-02	66
+DESULFOASV1_0984_hypothetical_protein	AF-O84899-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O84899-F1-model_v4 UvrABC system protein C	0.110	255	223	3	257	214	464	4.960E-05	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q84BU4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q84BU4-F1-model_v4 Chaperone protein DnaK	0.085	349	233	15	270	3	351	2.181E-03	66
+DESULFOASV1_0984_hypothetical_protein	AF-Q4UKB1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4UKB1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.075	151	98	15	165	2	108	2.878E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-A8F0M4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8F0M4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	151	99	15	165	2	108	2.878E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-A9MUC2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9MUC2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	3.418E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-B1KHG5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1KHG5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	153	98	14	166	2	109	3.227E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-B8EA73-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8EA73-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	153	98	14	166	2	109	4.298E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-A1S6P0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1S6P0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	4.059E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-Q6FAQ2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6FAQ2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.094	153	96	12	164	1	107	2.878E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-B3QLZ5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3QLZ5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.130	156	97	15	170	2	114	1.926E-02	65
+DESULFOASV1_0984_hypothetical_protein	AF-Q9Z6W6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9Z6W6-F1-model_v4 UvrABC system protein C	0.099	318	274	2	319	240	544	1.392E-04	65
+DESULFOASV1_0984_hypothetical_protein	AF-Q03FR7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q03FR7-F1-model_v4 Chaperone protein DnaK	0.096	353	234	11	270	1	353	2.743E-03	65
+DESULFOASV1_0984_hypothetical_protein	AF-Q5NPR4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5NPR4-F1-model_v4 UvrABC system protein C	0.095	316	284	3	318	290	604	2.615E-04	65
+DESULFOASV1_0984_hypothetical_protein	AF-Q1RHA5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1RHA5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.076	151	98	15	165	2	108	5.406E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-A8GM81-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8GM81-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	151	99	15	165	2	108	3.418E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-B0BW86-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0BW86-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	151	99	15	165	2	108	3.227E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-B5R1V5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5R1V5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	4.059E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-A3QEP5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3QEP5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.100	153	95	12	164	1	107	4.298E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-Q0HUY9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0HUY9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.095	151	95	14	164	2	107	4.298E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-A0KHU1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0KHU1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.097	157	101	14	170	2	114	4.298E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-Q0AJA5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0AJA5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.098	157	100	8	164	2	113	3.418E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-P25438-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P25438-F1-model_v4 Insertion element IS476 uncharacterized 39.2 kDa protein	0.151	109	87	170	272	171	279	6.799E-02	64
+DESULFOASV1_0984_hypothetical_protein	AF-B2RM62-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2RM62-F1-model_v4 UvrABC system protein C	0.098	247	218	3	249	238	480	1.315E-04	64
+DESULFOASV1_0984_hypothetical_protein	AF-A1W0N0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1W0N0-F1-model_v4 UvrABC system protein C	0.079	246	218	12	257	248	485	2.933E-04	64
+DESULFOASV1_0984_hypothetical_protein	AF-Q038N3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q038N3-F1-model_v4 Chaperone protein DnaK	0.099	350	231	14	270	2	351	2.310E-03	64
+DESULFOASV1_0984_hypothetical_protein	AF-Q7U8A6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7U8A6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.083	150	95	15	164	2	106	4.298E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-A8GQU0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8GQU0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.070	150	98	15	164	2	107	3.619E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-P41850-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P41850-F1-model_v4 Type II secretion system protein M	0.152	158	126	283	440	12	160	4.820E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-A5IJJ9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5IJJ9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.135	102	70	176	257	2	103	4.820E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-C0ZAN2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0ZAN2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.067	155	104	15	169	2	113	3.418E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-Q081N7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q081N7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	153	98	14	166	2	109	5.406E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-B4SVE8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B4SVE8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	96	14	164	2	107	4.552E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-B2IAW3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2IAW3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	153	101	12	164	4	112	6.421E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-Q7US71-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7US71-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.099	155	100	10	164	10	121	6.421E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-A6WCF6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6WCF6-F1-model_v4 Putative pre-16S rRNA nuclease	0.116	155	90	11	165	1	103	1.366E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-Q65UP2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q65UP2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.072	155	101	10	164	7	116	2.878E-02	63
+DESULFOASV1_0984_hypothetical_protein	AF-Q00488-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q00488-F1-model_v4 Chaperone protein DnaK	0.086	354	238	12	272	1	354	5.154E-03	63
+DESULFOASV1_0984_hypothetical_protein	AF-B3WEQ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3WEQ7-F1-model_v4 Chaperone protein DnaK	0.092	349	232	15	270	3	351	3.258E-03	63
+DESULFOASV1_0984_hypothetical_protein	AF-Q1GWB3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1GWB3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.057	150	99	15	164	2	107	5.105E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-B1L8R9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1L8R9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.135	102	70	176	257	2	103	5.725E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-Q2K4K2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2K4K2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.079	155	101	10	164	1	111	2.717E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-Q31H85-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q31H85-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.069	162	113	10	171	1	122	3.418E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-A4Y6S7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4Y6S7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	153	98	14	166	2	109	6.421E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-Q0BT56-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0BT56-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.101	159	103	12	170	10	125	4.059E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-Q62HA7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q62HA7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.080	150	96	15	164	2	106	2.288E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-Q0KEC1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0KEC1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.095	262	148	15	276	2	166	2.160E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-B3EG36-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3EG36-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	152	98	15	166	2	109	6.063E-02	62
+DESULFOASV1_0984_hypothetical_protein	AF-Q7MTG8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7MTG8-F1-model_v4 UvrABC system protein C	0.098	247	218	3	249	237	479	2.202E-04	62
+DESULFOASV1_0984_hypothetical_protein	AF-Q2GBA4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2GBA4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.076	150	97	15	164	2	107	5.725E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-B2A5L6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2A5L6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.044	150	100	15	164	2	107	5.105E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-A6TQM3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6TQM3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.070	150	98	15	164	2	107	4.552E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-A9HAV5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9HAV5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.101	150	94	15	164	3	108	4.552E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-B1XS24-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1XS24-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.075	156	101	15	170	2	111	6.799E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-Q9KR00-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9KR00-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	151	96	14	164	2	107	7.201E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-A1RJQ4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1RJQ4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	153	98	14	166	2	109	7.625E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-Q1LTF1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1LTF1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.049	151	100	14	164	2	107	4.552E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-C3LNF0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3LNF0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	151	96	14	164	2	107	7.201E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-A9AH71-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9AH71-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.074	150	96	15	164	2	106	3.047E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-Q7MUZ6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7MUZ6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.083	159	105	12	170	4	119	4.820E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-Q8RGS0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8RGS0-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.129	97	83	15	110	2	98	3.418E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-P64408-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P64408-F1-model_v4 Chaperone protein DnaK	0.092	348	233	15	272	3	350	9.143E-03	61
+DESULFOASV1_0984_hypothetical_protein	AF-P45554-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P45554-F1-model_v4 Chaperone protein DnaK	0.084	348	235	15	272	3	350	1.150E-02	61
+DESULFOASV1_0984_hypothetical_protein	AF-A7X2Y1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7X2Y1-F1-model_v4 Chaperone protein DnaK	0.093	348	233	15	272	3	350	8.153E-03	61
+DESULFOASV1_0984_hypothetical_protein	AF-Q8G1L5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8G1L5-F1-model_v4 UvrABC system protein C	0.131	327	275	2	318	227	553	4.640E-04	61
+DESULFOASV1_0984_hypothetical_protein	AF-B8I305-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8I305-F1-model_v4 Chaperone protein DnaK	0.089	219	193	15	227	3	221	5.780E-03	61
+DESULFOASV1_0984_hypothetical_protein	AF-A5G2L4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5G2L4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.111	153	96	12	164	3	111	3.047E-02	60
+DESULFOASV1_0984_hypothetical_protein	AF-B2RJT7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2RJT7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	159	105	12	170	4	119	6.063E-02	60
+DESULFOASV1_0984_hypothetical_protein	AF-Q821V5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q821V5-F1-model_v4 UvrABC system protein C	0.117	236	192	14	249	252	470	1.653E-04	60
+DESULFOASV1_0984_hypothetical_protein	AF-Q6G8Y7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6G8Y7-F1-model_v4 Chaperone protein DnaK	0.084	348	235	15	272	3	350	1.290E-02	60
+DESULFOASV1_0984_hypothetical_protein	AF-Q5PB81-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5PB81-F1-model_v4 UvrABC system protein C	0.100	312	265	10	321	260	554	3.689E-04	60
+DESULFOASV1_0984_hypothetical_protein	AF-Q4JXX6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4JXX6-F1-model_v4 Chaperone protein DnaK	0.096	219	193	12	225	1	219	4.098E-03	60
+DESULFOASV1_0984_hypothetical_protein	AF-Q48KX6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q48KX6-F1-model_v4 Ribonuclease H	0.114	69	57	11	75	1	69	4.552E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-A3PDF8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3PDF8-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.075	66	55	15	74	2	67	2.140E-01	59
+DESULFOASV1_0984_hypothetical_protein	AF-B7ICN6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7ICN6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.064	150	98	15	164	2	107	8.552E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-A5V884-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5V884-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	157	106	15	171	2	118	6.799E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-B0TZD9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0TZD9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.144	169	131	176	329	2	170	3.833E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-B8CNX9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8CNX9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.094	153	97	14	166	2	109	9.591E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-Q483C6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q483C6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.078	157	105	14	170	2	116	5.406E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-A7H905-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7H905-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.105	156	100	15	170	2	114	1.446E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-B8DYH6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8DYH6-F1-model_v4 Chaperone protein DnaK	0.096	219	192	15	227	3	221	5.780E-03	59
+DESULFOASV1_0984_hypothetical_protein	AF-Q5HFI0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5HFI0-F1-model_v4 Chaperone protein DnaK	0.084	348	235	15	272	3	350	1.446E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-P99110-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P99110-F1-model_v4 Chaperone protein DnaK	0.092	348	233	15	272	3	350	1.366E-02	59
+DESULFOASV1_0984_hypothetical_protein	AF-C3PJM6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3PJM6-F1-model_v4 Chaperone protein DnaK	0.116	222	190	12	227	1	222	3.450E-03	59
+DESULFOASV1_0984_hypothetical_protein	AF-P30721-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P30721-F1-model_v4 Chaperone protein DnaK	0.099	220	191	15	227	3	222	8.634E-03	59
+DESULFOASV1_0984_hypothetical_protein	AF-A1W7T4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1W7T4-F1-model_v4 Chaperone protein HscA homolog	0.103	368	234	10	271	15	382	1.096E-03	59
+DESULFOASV1_0984_hypothetical_protein	AF-P45751-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P45751-F1-model_v4 DNA utilization protein HofO	0.111	149	110	292	440	17	141	2.850E-01	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q2N5P5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2N5P5-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.089	151	97	14	164	2	108	7.201E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-A0Q6P9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0Q6P9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	168	122	176	316	2	169	3.833E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q2A3Q9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2A3Q9-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	168	122	176	316	2	169	3.619E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-A4IY87-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4IY87-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.126	168	122	176	316	2	169	3.833E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q0HIZ3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0HIZ3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.095	151	95	14	164	2	107	1.016E-01	58
+DESULFOASV1_0984_hypothetical_protein	AF-B2VJ93-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2VJ93-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	151	96	14	164	2	107	5.105E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q6LT51-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6LT51-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.085	157	102	14	170	2	114	9.056E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q12N08-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q12N08-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	153	98	14	166	2	109	1.139E-01	58
+DESULFOASV1_0984_hypothetical_protein	AF-P24577-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P24577-F1-model_v4 Insertion element IS407 uncharacterized 31.7 kDa protein	0.129	116	92	166	272	98	213	4.820E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-B5YAR3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5YAR3-F1-model_v4 Chaperone protein DnaK	0.103	219	190	15	227	3	221	4.867E-03	58
+DESULFOASV1_0984_hypothetical_protein	AF-A6QHC3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6QHC3-F1-model_v4 Chaperone protein DnaK	0.092	348	233	15	272	3	350	1.446E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-A6U252-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6U252-F1-model_v4 Chaperone protein DnaK	0.092	348	233	15	272	3	350	1.622E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q6NEY9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6NEY9-F1-model_v4 Chaperone protein DnaK	0.095	222	195	12	227	1	222	6.482E-03	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q2RKX4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2RKX4-F1-model_v4 Chaperone protein DnaK	0.114	233	201	15	247	3	230	4.867E-03	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q38W93-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q38W93-F1-model_v4 Chaperone protein DnaK	0.089	349	232	15	270	3	351	1.086E-02	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q8SQR8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8SQR8-F1-model_v4 Heat shock protein homolog SSE1	0.065	268	166	10	277	146	324	1.379E-03	58
+DESULFOASV1_0984_hypothetical_protein	AF-Q31AH1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q31AH1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.079	156	102	15	170	2	113	8.075E-02	57
+DESULFOASV1_0984_hypothetical_protein	AF-A3D479-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3D479-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	153	98	14	166	2	109	1.277E-01	57
+DESULFOASV1_0984_hypothetical_protein	AF-A5ITA8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5ITA8-F1-model_v4 Chaperone protein DnaK	0.104	215	188	15	225	3	217	9.143E-03	57
+DESULFOASV1_0984_hypothetical_protein	AF-B1VHX4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1VHX4-F1-model_v4 Chaperone protein DnaK	0.100	223	194	12	227	1	223	6.121E-03	57
+DESULFOASV1_0984_hypothetical_protein	AF-Q8FM78-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8FM78-F1-model_v4 Chaperone protein DnaK	0.096	219	193	12	225	1	219	8.153E-03	57
+DESULFOASV1_0984_hypothetical_protein	AF-A1SPX5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1SPX5-F1-model_v4 Chaperone protein DnaK	0.103	218	191	12	225	1	218	6.482E-03	57
+DESULFOASV1_0984_hypothetical_protein	AF-A2BRN2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A2BRN2-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.067	156	104	15	170	2	113	1.277E-01	56
+DESULFOASV1_0984_hypothetical_protein	AF-Q0C5W4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0C5W4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.104	161	105	10	170	1	118	6.421E-02	56
+DESULFOASV1_0984_hypothetical_protein	AF-A7MEA1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7MEA1-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.081	151	96	14	164	2	107	7.201E-02	56
+DESULFOASV1_0984_hypothetical_protein	AF-C4K0Z7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4K0Z7-F1-model_v4 Chaperone protein HscA homolog	0.082	341	239	10	270	15	355	1.218E-02	56
+DESULFOASV1_0984_hypothetical_protein	AF-A8Z4B9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8Z4B9-F1-model_v4 Chaperone protein DnaK	0.092	348	233	15	272	3	350	2.288E-02	56
+DESULFOASV1_0984_hypothetical_protein	AF-Q4L6T0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4L6T0-F1-model_v4 Chaperone protein DnaK	0.096	350	234	11	270	1	350	6.865E-03	56
+DESULFOASV1_0984_hypothetical_protein	AF-Q8EPW4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8EPW4-F1-model_v4 Chaperone protein DnaK	0.090	218	193	15	227	3	220	7.699E-03	56
+DESULFOASV1_0984_hypothetical_protein	AF-B0KA81-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0KA81-F1-model_v4 Chaperone protein DnaK	0.113	221	192	11	227	1	221	5.458E-03	56
+DESULFOASV1_0984_hypothetical_protein	AF-A6LRN4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6LRN4-F1-model_v4 Chaperone protein DnaK	0.101	217	189	15	225	3	219	1.218E-02	56
+DESULFOASV1_0984_hypothetical_protein	AF-Q8NLY6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8NLY6-F1-model_v4 Chaperone protein DnaK	0.101	222	193	12	227	1	222	6.121E-03	56
+DESULFOASV1_0984_hypothetical_protein	AF-Q09575-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q09575-F1-model_v4 Uncharacterized protein K02A2.6	0.176	110	86	166	275	844	948	1.433E-01	56
+DESULFOASV1_0984_hypothetical_protein	AF-Q9XIJ1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9XIJ1-F1-model_v4 Transcription factor bHLH168	0.113	161	117	320	452	11	171	1.016E-01	55
+DESULFOASV1_0984_hypothetical_protein	AF-F4I4E1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-F4I4E1-F1-model_v4 Transcription factor bHLH167	0.148	169	130	310	462	13	181	4.059E-02	55
+DESULFOASV1_0984_hypothetical_protein	AF-Q5LAS7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5LAS7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.114	131	88	171	270	3	133	7.201E-02	55
+DESULFOASV1_0984_hypothetical_protein	AF-Q700E4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q700E4-F1-model_v4 Transcription factor bHLH67	0.108	185	140	289	446	165	349	1.607E-01	55
+DESULFOASV1_0984_hypothetical_protein	AF-B5Z7I6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5Z7I6-F1-model_v4 UvrABC system protein C	0.100	246	212	12	257	250	486	1.837E-03	54
+DESULFOASV1_0984_hypothetical_protein	AF-A0A3Q7ELQ2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0A3Q7ELQ2-F1-model_v4 Transcription factor MTB1	0.125	170	125	319	462	433	602	5.725E-02	54
+DESULFOASV1_0984_hypothetical_protein	AF-Q892R0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q892R0-F1-model_v4 Chaperone protein DnaK	0.100	220	191	15	227	3	222	1.718E-02	54
+DESULFOASV1_0984_hypothetical_protein	AF-A2BX41-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A2BX41-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.092	156	101	15	170	2	113	1.277E-01	53
+DESULFOASV1_0984_hypothetical_protein	AF-Q5NR76-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5NR76-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.095	150	95	15	164	2	107	1.076E-01	53
+DESULFOASV1_0984_hypothetical_protein	AF-A0B747-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0B747-F1-model_v4 Chaperone protein DnaK	0.089	271	182	2	272	155	355	5.203E-04	53
+DESULFOASV1_0984_hypothetical_protein	AF-A5VJE7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5VJE7-F1-model_v4 Chaperone protein DnaK	0.103	220	192	11	225	1	220	1.532E-02	53
+DESULFOASV1_0984_hypothetical_protein	AF-A5CRZ4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5CRZ4-F1-model_v4 Putative pre-16S rRNA nuclease	0.129	120	91	173	278	2	121	5.105E-02	52
+DESULFOASV1_0984_hypothetical_protein	AF-A7HUZ6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7HUZ6-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.112	106	75	172	257	2	107	1.076E-01	52
+DESULFOASV1_0984_hypothetical_protein	AF-A0LUK7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0LUK7-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.101	260	149	10	269	8	174	1.206E-01	52
+DESULFOASV1_0984_hypothetical_protein	AF-Q9RX75-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9RX75-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.082	150	96	15	164	2	107	1.908E-01	52
+DESULFOASV1_0984_hypothetical_protein	AF-Q99M31-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q99M31-F1-model_v4 Heat shock 70 kDa protein 14	0.095	266	228	15	267	2	267	2.446E-03	52
+DESULFOASV1_0984_hypothetical_protein	AF-Q2GJJ1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2GJJ1-F1-model_v4 UvrABC system protein C	0.082	249	217	9	257	258	494	2.743E-03	52
+DESULFOASV1_0984_hypothetical_protein	AF-Q83QK4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q83QK4-F1-model_v4 Chaperone protein HscA homolog	0.100	365	237	10	273	15	379	6.865E-03	52
+DESULFOASV1_0984_hypothetical_protein	AF-B2GBQ5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2GBQ5-F1-model_v4 Chaperone protein DnaK	0.081	353	238	11	270	1	353	1.926E-02	52
+DESULFOASV1_0984_hypothetical_protein	AF-Q7WK59-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7WK59-F1-model_v4 Chaperone protein HscA homolog	0.098	365	235	10	271	15	379	2.288E-02	52
+DESULFOASV1_0984_hypothetical_protein	AF-A8G5C3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8G5C3-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.061	156	104	15	170	2	113	1.908E-01	51
+DESULFOASV1_0984_hypothetical_protein	AF-Q02ZQ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q02ZQ7-F1-model_v4 Chaperone protein DnaK	0.097	215	190	15	225	3	217	2.423E-02	51
+DESULFOASV1_0984_hypothetical_protein	AF-B0VNV8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0VNV8-F1-model_v4 Chaperone protein HscA homolog	0.094	271	168	2	272	191	376	1.638E-03	51
+DESULFOASV1_0984_hypothetical_protein	AF-B2G6W3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2G6W3-F1-model_v4 Chaperone protein DnaK	0.096	353	234	11	270	1	353	1.086E-02	51
+DESULFOASV1_0984_hypothetical_protein	AF-Q1J1K4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1J1K4-F1-model_v4 Crossover junction endodeoxyribonuclease RuvC	0.088	150	96	15	164	2	107	1.517E-01	50
+DESULFOASV1_0984_hypothetical_protein	AF-Q6NGZ8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6NGZ8-F1-model_v4 Putative pre-16S rRNA nuclease	0.103	72	64	9	80	11	82	1.353E-01	50
+DESULFOASV1_0984_hypothetical_protein	AF-A5WBR2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5WBR2-F1-model_v4 Putative pre-16S rRNA nuclease	0.138	69	53	13	81	25	87	7.625E-02	50
+DESULFOASV1_0984_hypothetical_protein	AF-E1C2P3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-E1C2P3-F1-model_v4 Heat shock 70 kDa protein 14	0.100	263	170	10	272	183	372	2.181E-03	50
+DESULFOASV1_0984_hypothetical_protein	AF-C3K1M1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3K1M1-F1-model_v4 Chaperone protein HscA homolog	0.136	279	170	2	280	189	386	1.229E-03	50
+DESULFOASV1_0984_hypothetical_protein	AF-Q8Y0L9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8Y0L9-F1-model_v4 Chaperone protein HscA homolog	0.121	270	169	2	271	188	380	5.835E-04	50
+DESULFOASV1_0984_hypothetical_protein	AF-A1K724-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1K724-F1-model_v4 Chaperone protein HscA homolog	0.128	270	167	2	271	188	380	6.930E-04	50
+DESULFOASV1_0984_hypothetical_protein	AF-Q39204-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q39204-F1-model_v4 Transcription factor MYC2	0.163	129	101	327	448	492	620	2.541E-01	50
+DESULFOASV1_0984_hypothetical_protein	AF-O35162-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O35162-F1-model_v4 Heat shock 70 kDa protein 13	0.099	271	221	2	247	18	288	1.150E-02	49
+DESULFOASV1_0984_hypothetical_protein	AF-Q2YDD0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2YDD0-F1-model_v4 Heat shock 70 kDa protein 14	0.107	262	168	11	272	188	376	2.743E-03	49
+DESULFOASV1_0984_hypothetical_protein	AF-Q4A658-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4A658-F1-model_v4 Chaperone protein DnaK	0.096	271	181	2	272	151	351	2.310E-03	49
+DESULFOASV1_0984_hypothetical_protein	AF-C1DE64-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C1DE64-F1-model_v4 Chaperone protein HscA homolog	0.118	265	159	2	266	190	370	2.743E-03	49
+DESULFOASV1_0984_hypothetical_protein	AF-Q15WH0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q15WH0-F1-model_v4 Chaperone protein HscA homolog	0.107	272	174	2	273	189	384	3.077E-03	49
+DESULFOASV1_0984_hypothetical_protein	AF-Q05866-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q05866-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.089	262	205	2	227	13	274	2.423E-02	49
+DESULFOASV1_0984_hypothetical_protein	AF-Q5RGE6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5RGE6-F1-model_v4 Heat shock 70 kDa protein 14	0.098	267	174	11	277	188	381	2.905E-03	48
+DESULFOASV1_0984_hypothetical_protein	AF-Q5RE21-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5RE21-F1-model_v4 Heat shock 70 kDa protein 14	0.109	264	178	11	274	188	388	1.035E-03	48
+DESULFOASV1_0984_hypothetical_protein	AF-Q5F8E8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5F8E8-F1-model_v4 Chaperone protein HscA homolog	0.089	270	175	2	271	189	381	1.460E-03	48
+DESULFOASV1_0984_hypothetical_protein	AF-B2U8U5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2U8U5-F1-model_v4 Chaperone protein HscA homolog	0.127	270	168	2	271	188	380	1.302E-03	48
+DESULFOASV1_0984_hypothetical_protein	AF-Q473J2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q473J2-F1-model_v4 Chaperone protein HscA homolog	0.121	282	178	2	283	188	391	7.339E-04	48
+DESULFOASV1_0984_hypothetical_protein	AF-A8IPT1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8IPT1-F1-model_v4 Chaperone protein DnaK	0.100	271	180	2	272	175	375	9.231E-04	48
+DESULFOASV1_0984_hypothetical_protein	AF-Q9LUK7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9LUK7-F1-model_v4 Transcription factor bHLH28	0.101	131	98	339	448	378	508	2.850E-01	47
+DESULFOASV1_0984_hypothetical_protein	AF-O49687-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O49687-F1-model_v4 Transcription factor MYC4	0.138	115	94	327	441	456	565	3.196E-01	47
+DESULFOASV1_0984_hypothetical_protein	AF-Q95YL7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q95YL7-F1-model_v4 Mitochondrial-type heat shock protein 70	0.089	271	182	2	272	185	385	2.743E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-Q04EE1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q04EE1-F1-model_v4 Chaperone protein DnaK	0.111	269	174	2	270	151	347	9.775E-04	47
+DESULFOASV1_0984_hypothetical_protein	AF-C1D4P9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C1D4P9-F1-model_v4 Chaperone protein HscA homolog	0.103	270	172	2	271	188	380	1.096E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-Q886Z7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q886Z7-F1-model_v4 Chaperone protein HscA homolog	0.124	279	173	2	280	189	386	2.590E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-A6WNY1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6WNY1-F1-model_v4 Chaperone protein HscA homolog	0.131	272	169	2	273	189	383	7.772E-04	47
+DESULFOASV1_0984_hypothetical_protein	AF-B8E9D6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8E9D6-F1-model_v4 Chaperone protein HscA homolog	0.125	272	170	2	273	189	383	7.772E-04	47
+DESULFOASV1_0984_hypothetical_protein	AF-Q9JUF4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9JUF4-F1-model_v4 Chaperone protein HscA homolog	0.089	270	175	2	271	189	381	2.060E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-B8CMW9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8CMW9-F1-model_v4 Chaperone protein HscA homolog	0.106	272	173	2	273	189	383	2.446E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-B3R475-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3R475-F1-model_v4 Chaperone protein HscA homolog	0.108	276	178	2	277	188	387	1.035E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-Q3K7A9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3K7A9-F1-model_v4 Chaperone protein HscA homolog	0.115	270	164	2	271	189	374	2.905E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-B0R3H4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0R3H4-F1-model_v4 Chaperone protein DnaK	0.106	269	179	2	270	153	353	1.460E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-A8ZRW3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8ZRW3-F1-model_v4 Chaperone protein DnaK	0.100	269	180	2	270	175	375	2.181E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-A0A3Q7HRZ6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0A3Q7HRZ6-F1-model_v4 Transcription factor MYC2	0.111	137	95	345	452	551	687	2.400E-01	47
+DESULFOASV1_0984_hypothetical_protein	AF-Q336P5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q336P5-F1-model_v4 Transcription factor MYC2	0.128	163	109	323	448	527	689	1.016E-01	47
+DESULFOASV1_0984_hypothetical_protein	AF-O74225-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O74225-F1-model_v4 Heat shock protein hsp88	0.094	266	175	10	275	191	384	1.837E-03	47
+DESULFOASV1_0984_hypothetical_protein	AF-Q9Z8U7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9Z8U7-F1-model_v4 Putative pre-16S rRNA nuclease	0.084	68	58	11	78	5	68	6.360E-01	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q9FT81-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9FT81-F1-model_v4 Transcription factor TT8	0.116	148	117	316	448	359	506	3.585E-01	46
+DESULFOASV1_0984_hypothetical_protein	AF-P0CW12-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0CW12-F1-model_v4 Chaperone protein DnaK	0.094	260	174	11	270	162	354	3.258E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q8EEU5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8EEU5-F1-model_v4 Chaperone protein HscA homolog	0.127	272	169	2	273	189	383	9.231E-04	46
+DESULFOASV1_0984_hypothetical_protein	AF-A3NBA0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3NBA0-F1-model_v4 Chaperone protein HscA homolog	0.116	282	181	2	283	188	393	2.310E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q5NYT1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5NYT1-F1-model_v4 Chaperone protein HscA homolog	0.110	270	171	2	271	188	380	2.905E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q1H365-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1H365-F1-model_v4 Chaperone protein HscA homolog	0.114	270	170	2	271	188	380	2.446E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-C4Z1J4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4Z1J4-F1-model_v4 Chaperone protein DnaK	0.100	269	180	2	270	151	351	2.310E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q1AXX6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1AXX6-F1-model_v4 Chaperone protein DnaK	0.111	269	178	2	270	174	374	1.379E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-B1ZGR1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1ZGR1-F1-model_v4 Chaperone protein DnaK	0.103	271	179	2	272	175	375	1.945E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q8ZCS5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8ZCS5-F1-model_v4 Chaperone protein HscA	0.131	272	165	2	273	223	413	1.734E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-P29844-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P29844-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.080	260	207	2	227	17	276	1.718E-02	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q7VC04-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7VC04-F1-model_v4 Chaperone protein dnaK1	0.116	269	177	2	270	175	375	4.098E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-Q2S307-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2S307-F1-model_v4 Chaperone protein DnaK	0.103	269	179	2	270	173	373	2.060E-03	46
+DESULFOASV1_0984_hypothetical_protein	AF-P25651-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P25651-F1-model_v4 Monopolin complex subunit CSM1	0.129	148	115	289	436	2	134	2.377E+00	45
+DESULFOASV1_0984_hypothetical_protein	AF-F4JIJ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-F4JIJ7-F1-model_v4 Transcription factor bHLH162	0.111	128	100	344	456	57	184	4.258E-01	45
+DESULFOASV1_0984_hypothetical_protein	AF-Q6CJ30-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6CJ30-F1-model_v4 Translation machinery-associated protein 22	0.162	111	90	347	457	63	170	4.258E-01	45
+DESULFOASV1_0984_hypothetical_protein	AF-Q8BM72-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8BM72-F1-model_v4 Heat shock 70 kDa protein 13	0.099	260	203	2	227	18	277	1.218E-02	45
+DESULFOASV1_0984_hypothetical_protein	AF-A2VD93-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A2VD93-F1-model_v4 Heat shock 70 kDa protein 14-B	0.101	262	169	11	272	188	376	4.340E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-Q3YZ26-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3YZ26-F1-model_v4 Chaperone protein HscA	0.113	272	169	2	273	189	379	2.181E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-Q02RW4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q02RW4-F1-model_v4 Chaperone protein HscA homolog	0.124	272	166	2	273	189	379	1.734E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-A3D573-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3D573-F1-model_v4 Chaperone protein HscA homolog	0.131	272	169	2	273	189	383	1.546E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-A9L3Q6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9L3Q6-F1-model_v4 Chaperone protein HscA homolog	0.128	272	169	2	273	189	383	1.460E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-B7J5X3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7J5X3-F1-model_v4 Chaperone protein HscA homolog	0.110	282	179	2	283	189	390	1.638E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-A1V5M2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1V5M2-F1-model_v4 Chaperone protein HscA homolog	0.109	272	175	2	273	188	384	3.869E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-Q9HRY2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9HRY2-F1-model_v4 Chaperone protein DnaK	0.101	269	180	2	270	153	353	2.590E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-Q3Z6P1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3Z6P1-F1-model_v4 Chaperone protein DnaK	0.107	269	179	2	270	180	380	1.546E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-B1LZ51-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1LZ51-F1-model_v4 Chaperone protein DnaK	0.102	271	180	2	272	175	375	5.154E-03	45
+DESULFOASV1_0984_hypothetical_protein	AF-B6EJV2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B6EJV2-F1-model_v4 Ribonuclease H	0.068	72	61	10	75	2	73	1.517E-01	44
+DESULFOASV1_0984_hypothetical_protein	AF-B0REK3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0REK3-F1-model_v4 Putative pre-16S rRNA nuclease	0.118	121	95	170	278	1	121	2.021E-01	44
+DESULFOASV1_0984_hypothetical_protein	AF-P48723-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P48723-F1-model_v4 Heat shock 70 kDa protein 13	0.096	200	143	2	160	207	406	5.780E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-O96772-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O96772-F1-model_v4 Mitochondrial-type heat shock protein 70	0.083	269	183	2	270	185	385	3.869E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-A0T0X1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0T0X1-F1-model_v4 Chaperone protein dnaK	0.111	269	178	2	270	175	375	2.905E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-B9IY81-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9IY81-F1-model_v4 Chaperone protein DnaK	0.119	278	185	2	279	149	359	4.596E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-A1JKQ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1JKQ7-F1-model_v4 Chaperone protein HscA	0.131	272	165	2	273	189	379	2.905E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-Q8TQR2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8TQR2-F1-model_v4 Chaperone protein DnaK	0.108	262	174	11	272	162	357	3.258E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-Q87S24-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q87S24-F1-model_v4 Chaperone protein HscA homolog	0.105	270	166	2	271	189	374	5.458E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-C5CXC5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C5CXC5-F1-model_v4 Chaperone protein HscA homolog	0.114	270	169	2	271	188	379	2.905E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-Q080Q0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q080Q0-F1-model_v4 Chaperone protein HscA homolog	0.095	266	169	8	273	195	382	2.743E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-B7UWI1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7UWI1-F1-model_v4 Chaperone protein HscA homolog	0.124	272	166	2	273	189	379	2.446E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-Q3A8C2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3A8C2-F1-model_v4 Chaperone protein DnaK	0.116	276	183	2	277	175	382	5.154E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-B8FGS3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8FGS3-F1-model_v4 Chaperone protein DnaK	0.090	269	182	2	270	175	375	2.905E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-B3DZP7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3DZP7-F1-model_v4 Chaperone protein DnaK	0.081	276	190	2	277	177	384	4.098E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-P50020-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P50020-F1-model_v4 Chaperone protein dnaK1	0.093	272	187	2	273	174	380	6.482E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-Q5N0G0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5N0G0-F1-model_v4 Chaperone protein DnaK 3	0.089	271	187	2	272	174	379	6.865E-03	44
+DESULFOASV1_0984_hypothetical_protein	AF-A4XU11-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4XU11-F1-model_v4 Ribonuclease H	0.096	97	80	16	112	6	95	6.799E-02	43
+DESULFOASV1_0984_hypothetical_protein	AF-B3Q6U1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3Q6U1-F1-model_v4 Ribonuclease H	0.050	152	114	9	160	4	124	1.206E-01	43
+DESULFOASV1_0984_hypothetical_protein	AF-O29421-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O29421-F1-model_v4 Protein pelota homolog	0.095	231	181	111	311	32	262	3.619E-02	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q92260-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q92260-F1-model_v4 Heat shock 70 kDa protein	0.080	266	178	11	276	58	252	5.780E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-B1YKS9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1YKS9-F1-model_v4 Chaperone protein DnaK	0.108	269	178	2	270	149	349	4.867E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-A6V0V2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6V0V2-F1-model_v4 Chaperone protein HscA homolog	0.119	270	163	2	271	189	374	4.867E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-P0CW13-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0CW13-F1-model_v4 Chaperone protein DnaK	0.108	262	174	11	272	162	357	5.458E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q486Y6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q486Y6-F1-model_v4 Chaperone protein HscA homolog	0.100	272	176	2	273	188	383	6.121E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q0HVP0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0HVP0-F1-model_v4 Chaperone protein HscA homolog	0.128	272	169	2	273	189	383	2.310E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q82EX9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q82EX9-F1-model_v4 Chaperone protein dnaK1	0.122	263	169	10	272	158	351	2.310E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q3JQN9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3JQN9-F1-model_v4 Chaperone protein HscA homolog	0.109	272	175	2	273	188	384	6.482E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-B1JV00-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1JV00-F1-model_v4 Chaperone protein HscA homolog	0.108	272	175	2	273	188	384	3.258E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q39EU4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q39EU4-F1-model_v4 Chaperone protein HscA homolog	0.099	272	177	2	273	188	384	6.121E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q9HHB9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9HHB9-F1-model_v4 Chaperone protein DnaK	0.101	269	180	2	270	154	354	6.121E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q6G1F9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6G1F9-F1-model_v4 Chaperone protein DnaK	0.096	263	175	8	270	181	375	3.077E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-A9ILH7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9ILH7-F1-model_v4 Chaperone protein DnaK	0.096	263	175	8	270	181	375	2.905E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-A0A060KY90-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0A060KY90-F1-model_v4 Transcription factor MYC1	0.135	168	111	324	452	461	628	1.802E-01	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q6AMQ3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6AMQ3-F1-model_v4 Chaperone protein DnaK	0.103	269	179	2	270	175	375	3.869E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q7NDH1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7NDH1-F1-model_v4 Chaperone protein DnaK	0.116	269	177	2	270	174	374	3.654E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-A1B4E9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1B4E9-F1-model_v4 Chaperone protein DnaK	0.100	269	182	2	270	174	376	1.945E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q28VY3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q28VY3-F1-model_v4 Chaperone protein DnaK	0.099	269	181	2	270	174	375	4.867E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-B0SRF1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0SRF1-F1-model_v4 Chaperone protein DnaK	0.111	269	178	2	270	176	376	3.450E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q55154-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q55154-F1-model_v4 Chaperone protein dnaK1	0.109	269	180	2	270	173	375	8.634E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q9LTX9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9LTX9-F1-model_v4 Heat shock 70 kDa protein 7, chloroplastic	0.127	262	167	11	272	260	451	3.258E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-O95757-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O95757-F1-model_v4 Heat shock 70 kDa protein 4L	0.094	257	166	10	266	192	375	1.638E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q94738-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q94738-F1-model_v4 97 kDa heat shock protein	0.113	260	167	10	269	192	380	1.302E-03	43
+DESULFOASV1_0984_hypothetical_protein	AF-Q32KU4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q32KU4-F1-model_v4 IQ domain-containing protein F5	0.120	107	91	292	398	26	129	4.729E+00	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q5FVX7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5FVX7-F1-model_v4 Heat shock 70 kDa protein 14	0.097	262	170	11	272	188	376	1.150E-02	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q4R6J2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4R6J2-F1-model_v4 Heat shock 70 kDa protein 14	0.103	262	169	11	272	188	376	1.446E-02	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q6AYB4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6AYB4-F1-model_v4 Heat shock 70 kDa protein 14	0.103	268	178	11	278	188	386	6.865E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q08080-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q08080-F1-model_v4 Stromal 70 kDa heat shock-related protein, chloroplastic	0.117	267	173	2	268	121	317	5.154E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q8RB68-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8RB68-F1-model_v4 Chaperone protein DnaK	0.086	269	183	2	270	151	351	7.699E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q9UXR0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9UXR0-F1-model_v4 Chaperone protein DnaK	0.107	260	171	11	270	162	354	4.098E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-C1ESK8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C1ESK8-F1-model_v4 Chaperone protein DnaK	0.121	271	177	2	272	149	350	5.154E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q65H54-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q65H54-F1-model_v4 Chaperone protein DnaK	0.103	269	180	2	270	149	350	3.077E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-B0K3Y0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0K3Y0-F1-model_v4 Chaperone protein DnaK	0.096	269	181	2	270	151	351	7.699E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-P11484-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P11484-F1-model_v4 Ribosome-associated molecular chaperone SSB1	0.094	259	169	8	266	189	375	5.154E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-P49463-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P49463-F1-model_v4 Chaperone protein dnaK	0.105	269	179	2	270	175	375	6.121E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q9KTX8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9KTX8-F1-model_v4 Chaperone protein HscA homolog	0.110	272	168	2	273	189	378	6.865E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-B7N6B3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7N6B3-F1-model_v4 Chaperone protein HscA	0.110	272	169	2	273	189	379	5.154E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q0TEV9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0TEV9-F1-model_v4 Chaperone protein HscA	0.113	272	169	2	273	189	379	4.596E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-P0CY99-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0CY99-F1-model_v4 Chaperone protein DnaK	0.105	276	186	2	277	151	359	3.450E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-A7MU49-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7MU49-F1-model_v4 Chaperone protein HscA homolog	0.105	270	166	2	271	189	374	9.683E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-B9E041-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9E041-F1-model_v4 Chaperone protein DnaK	0.098	265	175	2	266	152	346	3.077E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q05558-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q05558-F1-model_v4 Chaperone protein DnaK	0.113	263	171	10	272	158	351	2.905E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q51382-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q51382-F1-model_v4 Chaperone protein HscA homolog	0.129	270	161	2	271	189	374	5.780E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q3SEX4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3SEX4-F1-model_v4 Chaperone protein HscA homolog	0.117	286	184	2	287	188	396	2.905E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q465Y6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q465Y6-F1-model_v4 Chaperone protein DnaK	0.103	260	172	11	270	162	354	5.780E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-B5ENY5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5ENY5-F1-model_v4 Chaperone protein HscA homolog	0.107	272	173	2	273	189	383	4.098E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-A9AGU7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9AGU7-F1-model_v4 Chaperone protein HscA homolog	0.109	270	173	2	271	188	382	4.098E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-A9BWU9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9BWU9-F1-model_v4 Chaperone protein HscA homolog	0.104	270	171	2	271	191	382	4.596E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-A2SAS9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A2SAS9-F1-model_v4 Chaperone protein HscA homolog	0.109	272	175	2	273	188	384	8.153E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-A0QLZ6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0QLZ6-F1-model_v4 Chaperone protein DnaK	0.110	262	172	11	272	161	354	7.270E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-A1UUC3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1UUC3-F1-model_v4 Chaperone protein DnaK	0.107	263	173	8	270	181	375	2.743E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q5N1J4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5N1J4-F1-model_v4 Chaperone protein DnaK 2	0.110	263	173	8	270	180	374	2.590E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q5GSE1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5GSE1-F1-model_v4 Chaperone protein DnaK	0.096	263	175	8	270	176	370	6.121E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q2G6N0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2G6N0-F1-model_v4 Chaperone protein DnaK	0.096	269	184	2	270	175	379	2.590E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q16D45-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q16D45-F1-model_v4 Chaperone protein DnaK	0.095	271	182	2	272	174	375	1.086E-02	42
+DESULFOASV1_0984_hypothetical_protein	AF-A5FPU4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5FPU4-F1-model_v4 Chaperone protein DnaK	0.107	269	179	2	270	180	380	2.905E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-B0UR84-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0UR84-F1-model_v4 Chaperone protein DnaK	0.094	271	181	2	272	175	375	5.154E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q73GL7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q73GL7-F1-model_v4 Chaperone protein DnaK	0.094	269	181	2	270	174	374	6.482E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-B9LUC7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9LUC7-F1-model_v4 Chaperone protein DnaK	0.097	269	181	2	270	154	354	2.905E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-P61442-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P61442-F1-model_v4 Chaperone protein DnaK	0.107	269	179	2	270	175	376	7.270E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q3IUI0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3IUI0-F1-model_v4 Chaperone protein DnaK	0.101	269	180	2	270	154	354	5.780E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q7V7N7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7V7N7-F1-model_v4 Chaperone protein dnaK1	0.125	271	175	2	272	175	375	9.143E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q7V1H4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7V1H4-F1-model_v4 Chaperone protein dnaK1	0.122	269	176	2	270	175	375	6.482E-03	42
+DESULFOASV1_0984_hypothetical_protein	AF-Q9ZB76-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9ZB76-F1-model_v4 Putative pre-16S rRNA nuclease	0.074	92	79	15	106	3	88	6.005E-01	41
+DESULFOASV1_0984_hypothetical_protein	AF-C3PGN1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3PGN1-F1-model_v4 Putative pre-16S rRNA nuclease	0.077	72	66	8	79	10	81	5.671E-01	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q6DF39-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6DF39-F1-model_v4 Kinetochore protein Spc25	0.140	195	147	209	403	10	181	9.500E-01	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q0VDF9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0VDF9-F1-model_v4 Heat shock 70 kDa protein 14	0.108	268	182	10	277	187	391	3.869E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-A5D8N7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5D8N7-F1-model_v4 Heat shock 70 kDa protein 14-A	0.100	262	169	11	272	188	376	1.446E-02	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q7NAU6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7NAU6-F1-model_v4 Chaperone protein DnaK	0.091	262	177	12	273	168	363	9.143E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-P05646-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P05646-F1-model_v4 Chaperone protein DnaK	0.113	269	177	2	270	150	350	4.867E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q9KWS7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9KWS7-F1-model_v4 Chaperone protein DnaK	0.118	269	176	2	270	146	346	4.596E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q5WHG1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5WHG1-F1-model_v4 Chaperone protein DnaK	0.114	269	177	2	270	149	349	4.098E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-B1HUD1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1HUD1-F1-model_v4 Chaperone protein DnaK	0.095	269	182	2	270	149	350	8.153E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q049W6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q049W6-F1-model_v4 Chaperone protein DnaK	0.115	261	170	10	270	159	351	3.654E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q72IK5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q72IK5-F1-model_v4 Chaperone protein DnaK	0.106	271	181	2	272	172	374	5.458E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-B1IWD5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1IWD5-F1-model_v4 Chaperone protein HscA	0.124	272	166	2	273	189	379	4.596E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-B5R598-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5R598-F1-model_v4 Chaperone protein HscA	0.114	272	168	2	273	189	379	6.121E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q8FF44-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8FF44-F1-model_v4 Chaperone protein HscA	0.113	272	169	2	273	189	379	6.121E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-P0A6Z1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0A6Z1-F1-model_v4 Chaperone protein HscA	0.113	272	169	2	273	189	379	5.458E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-A0Q1R4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0Q1R4-F1-model_v4 Chaperone protein DnaK	0.091	262	174	11	272	161	352	1.532E-02	41
+DESULFOASV1_0984_hypothetical_protein	AF-P0CY98-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0CY98-F1-model_v4 Chaperone protein DnaK	0.098	269	181	2	270	151	352	3.869E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q93R27-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q93R27-F1-model_v4 Chaperone protein DnaK	0.108	269	179	2	270	150	351	4.098E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-A9KKU0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9KKU0-F1-model_v4 Chaperone protein DnaK	0.106	269	179	2	270	151	351	3.654E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-A3QFD1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3QFD1-F1-model_v4 Chaperone protein HscA homolog	0.111	272	172	2	273	189	383	6.865E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-A1WKG6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1WKG6-F1-model_v4 Chaperone protein HscA homolog	0.105	270	168	2	271	191	379	8.634E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-C3PMM7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C3PMM7-F1-model_v4 Chaperone protein DnaK	0.097	269	181	2	270	174	374	5.154E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q6G554-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6G554-F1-model_v4 Chaperone protein DnaK	0.093	263	176	8	270	181	375	4.098E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q46I76-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q46I76-F1-model_v4 Chaperone protein DnaK	0.110	269	178	2	270	174	374	3.654E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q1RHH0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1RHH0-F1-model_v4 Chaperone protein DnaK	0.083	269	183	2	270	174	374	4.867E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q13E60-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q13E60-F1-model_v4 Chaperone protein DnaK	0.096	269	181	2	270	175	375	4.867E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-P50021-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P50021-F1-model_v4 Chaperone protein dnaK2	0.110	263	173	8	270	180	374	2.743E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-A5GDC8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5GDC8-F1-model_v4 Chaperone protein DnaK	0.092	276	188	2	277	175	382	5.458E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-P22358-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P22358-F1-model_v4 Chaperone protein DnaK2	0.115	269	177	2	270	175	375	4.098E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-B3QZ38-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3QZ38-F1-model_v4 Chaperone protein DnaK	0.106	269	179	2	270	173	373	3.450E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q2LUH6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2LUH6-F1-model_v4 Chaperone protein DnaK	0.095	271	184	2	272	175	378	4.340E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q52701-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q52701-F1-model_v4 Chaperone protein DnaK	0.099	269	182	2	270	174	376	7.270E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q39PT7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q39PT7-F1-model_v4 Chaperone protein DnaK	0.101	276	186	2	277	175	382	4.596E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-P61443-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P61443-F1-model_v4 Chaperone protein DnaK	0.107	269	179	2	270	175	376	9.143E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q0VCX2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0VCX2-F1-model_v4 Endoplasmic reticulum chaperone BiP	0.075	270	208	2	227	8	277	1.718E-02	41
+DESULFOASV1_0984_hypothetical_protein	AF-P49118-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P49118-F1-model_v4 Luminal-binding protein	0.071	260	175	11	270	222	410	6.121E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q5B0C0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5B0C0-F1-model_v4 Iron-sulfur cluster biogenesis chaperone, mitochondrial	0.089	269	182	2	270	214	414	7.699E-03	41
+DESULFOASV1_0984_hypothetical_protein	AF-Q6CA08-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6CA08-F1-model_v4 Translation machinery-associated protein 22	0.134	113	92	347	459	64	170	7.132E-01	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q3SYS7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3SYS7-F1-model_v4 IQ domain-containing protein F1	0.133	127	98	285	398	63	189	5.617E+00	40
+DESULFOASV1_0984_hypothetical_protein	AF-P47547-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P47547-F1-model_v4 Chaperone protein DnaK	0.091	262	177	12	273	169	364	1.446E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-A5IXT5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5IXT5-F1-model_v4 Chaperone protein DnaK	0.101	269	181	2	270	152	353	6.865E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-A4IR31-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4IR31-F1-model_v4 Chaperone protein DnaK	0.114	269	177	2	270	149	349	5.780E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-C4L425-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4L425-F1-model_v4 Chaperone protein DnaK	0.114	269	177	2	270	149	349	1.150E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-C5D4U1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C5D4U1-F1-model_v4 Chaperone protein DnaK	0.114	269	177	2	270	149	349	5.780E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-P64407-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P64407-F1-model_v4 Chaperone protein DnaK	0.108	271	179	2	272	149	350	1.086E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q81LS2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q81LS2-F1-model_v4 Chaperone protein DnaK	0.118	278	185	2	279	149	359	6.121E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-P17820-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P17820-F1-model_v4 Chaperone protein DnaK	0.113	269	178	2	270	149	350	5.154E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-B7HPL3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7HPL3-F1-model_v4 Chaperone protein DnaK	0.114	278	186	2	279	149	359	6.865E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-A8FFD2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8FFD2-F1-model_v4 Chaperone protein DnaK	0.117	269	177	2	270	149	350	4.867E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q8ZN42-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8ZN42-F1-model_v4 Chaperone protein HscA	0.121	272	167	2	273	189	379	7.270E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q4QNG9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4QNG9-F1-model_v4 Chaperone protein HscA homolog	0.113	272	168	2	273	189	378	1.025E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-B1KNI7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1KNI7-F1-model_v4 Chaperone protein HscA homolog	0.097	272	175	2	273	189	383	8.634E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-A1TPY4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1TPY4-F1-model_v4 Chaperone protein HscA homolog	0.119	270	166	2	271	190	378	8.634E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q9ZDX9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9ZDX9-F1-model_v4 Chaperone protein DnaK	0.087	269	183	2	270	174	374	6.121E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q68XI2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q68XI2-F1-model_v4 Chaperone protein DnaK	0.094	269	181	2	270	174	374	6.121E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q1QRU1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1QRU1-F1-model_v4 Chaperone protein DnaK	0.093	269	181	2	270	175	375	5.780E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q01100-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q01100-F1-model_v4 Chaperone protein DnaK	0.090	269	182	2	270	153	353	1.290E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-B9M357-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9M357-F1-model_v4 Chaperone protein DnaK	0.092	276	188	2	277	175	382	8.153E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q3ZYV1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3ZYV1-F1-model_v4 Chaperone protein DnaK	0.107	269	179	2	270	180	380	4.867E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-A1VFG6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1VFG6-F1-model_v4 Chaperone protein DnaK	0.090	269	183	2	270	174	375	1.218E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q74H59-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q74H59-F1-model_v4 Chaperone protein DnaK	0.101	276	186	2	277	175	382	6.482E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-B7KSZ4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7KSZ4-F1-model_v4 Chaperone protein DnaK	0.103	271	179	2	272	175	375	4.867E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q8DI58-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8DI58-F1-model_v4 Chaperone protein dnaK2	0.104	269	179	2	270	174	374	6.121E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-C0R3W7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0R3W7-F1-model_v4 Chaperone protein DnaK	0.094	269	181	2	270	174	374	1.150E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-C6E643-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C6E643-F1-model_v4 Chaperone protein DnaK	0.104	276	185	2	277	175	382	6.121E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-B6IVA4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B6IVA4-F1-model_v4 Chaperone protein DnaK	0.094	269	181	2	270	175	375	6.865E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-B2UKV6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B2UKV6-F1-model_v4 Chaperone protein DnaK	0.102	263	174	8	270	183	377	3.654E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-B0SHT1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0SHT1-F1-model_v4 Chaperone protein DnaK	0.111	269	178	2	270	176	376	7.699E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q4FNP9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4FNP9-F1-model_v4 Chaperone protein DnaK	0.100	271	180	2	272	175	375	6.121E-03	40
+DESULFOASV1_0984_hypothetical_protein	AF-Q05036-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q05036-F1-model_v4 Heat shock protein 110	0.080	257	169	10	266	194	378	1.150E-02	40
+DESULFOASV1_0984_hypothetical_protein	AF-P32162-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P32162-F1-model_v4 UPF0381 protein YiiS	0.072	68	60	82	149	27	92	2.666E+00	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q5WWW5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5WWW5-F1-model_v4 Ribonuclease H	0.078	134	100	16	149	2	110	1.016E-01	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q5ZVQ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5ZVQ7-F1-model_v4 Ribonuclease H	0.078	134	100	16	149	2	110	9.056E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q9FYE6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9FYE6-F1-model_v4 Transcription factor bHLH101	0.101	164	137	289	441	55	218	7.132E-01	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q0WNR2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0WNR2-F1-model_v4 Transcription factor bHLH90	0.130	116	88	339	440	303	418	8.471E-01	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q92J07-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q92J07-F1-model_v4 Chaperone protein HscA homolog	0.106	271	156	2	272	181	355	1.086E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q8CP17-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8CP17-F1-model_v4 Chaperone protein DnaK	0.108	271	179	2	272	149	350	1.446E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q5HNW6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5HNW6-F1-model_v4 Chaperone protein DnaK	0.108	271	179	2	272	149	350	1.446E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q2FGE3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2FGE3-F1-model_v4 Chaperone protein DnaK	0.108	271	179	2	272	149	350	1.218E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q2YT47-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2YT47-F1-model_v4 Chaperone protein DnaK	0.104	271	180	2	272	149	350	1.218E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-A9VHU1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9VHU1-F1-model_v4 Chaperone protein DnaK	0.118	278	185	2	279	149	359	8.153E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q818E9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q818E9-F1-model_v4 Chaperone protein DnaK	0.118	278	185	2	279	149	359	7.270E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q634M7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q634M7-F1-model_v4 Chaperone protein DnaK	0.118	278	185	2	279	149	359	7.699E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-B7HCU0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7HCU0-F1-model_v4 Chaperone protein DnaK	0.107	278	188	2	279	149	359	8.153E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A7GT08-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7GT08-F1-model_v4 Chaperone protein DnaK	0.110	278	187	2	279	149	359	7.699E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-B7JN39-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7JN39-F1-model_v4 Chaperone protein DnaK	0.118	278	185	2	279	149	359	7.270E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q6HDK7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6HDK7-F1-model_v4 Chaperone protein DnaK	0.118	278	185	2	279	149	359	9.143E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A7Z6W1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7Z6W1-F1-model_v4 Chaperone protein DnaK	0.109	269	179	2	270	149	350	7.699E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q6L0S7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6L0S7-F1-model_v4 Chaperone protein DnaK	0.095	266	178	5	270	159	356	6.482E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q49Y22-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q49Y22-F1-model_v4 Chaperone protein DnaK	0.111	271	179	2	272	149	350	1.086E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-A6TSM0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6TSM0-F1-model_v4 Chaperone protein DnaK	0.099	269	181	2	270	151	352	7.699E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q1WUE8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1WUE8-F1-model_v4 Chaperone protein DnaK	0.101	269	180	2	270	151	351	8.634E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A8AD56-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8AD56-F1-model_v4 Chaperone protein HscA	0.128	272	166	2	273	189	379	6.865E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-B0UVL9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0UVL9-F1-model_v4 Chaperone protein HscA homolog	0.100	272	170	2	273	189	378	3.418E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-C0PYL1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0PYL1-F1-model_v4 Chaperone protein HscA	0.125	272	166	2	273	189	379	7.699E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-C5BEU1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C5BEU1-F1-model_v4 Chaperone protein HscA	0.106	272	170	2	273	189	379	1.150E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-B1XB01-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1XB01-F1-model_v4 Chaperone protein HscA	0.121	272	167	2	273	189	379	6.865E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-B7MY19-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7MY19-F1-model_v4 Chaperone protein HscA	0.123	272	167	2	273	189	379	9.143E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A3N0T5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3N0T5-F1-model_v4 Chaperone protein HscA homolog	0.100	272	170	2	273	189	378	1.290E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-C0ZT86-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0ZT86-F1-model_v4 Chaperone protein DnaK	0.117	262	170	11	272	161	354	6.865E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q54215-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q54215-F1-model_v4 Chaperone protein DnaK	0.095	275	176	10	205	158	432	3.654E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A5N6M2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5N6M2-F1-model_v4 Chaperone protein DnaK	0.099	247	156	2	248	152	325	4.098E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A4QHJ0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4QHJ0-F1-model_v4 Chaperone protein DnaK	0.109	271	181	2	272	151	354	5.780E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A0PLQ1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0PLQ1-F1-model_v4 Chaperone protein DnaK	0.113	262	171	11	272	161	354	6.121E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-B1YT24-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1YT24-F1-model_v4 Chaperone protein HscA homolog	0.108	272	175	2	273	188	384	9.143E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q1BHT5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1BHT5-F1-model_v4 Chaperone protein HscA homolog	0.106	270	173	2	271	188	382	1.086E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q0W874-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0W874-F1-model_v4 Chaperone protein DnaK	0.100	269	180	2	270	151	351	7.270E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-C1AK26-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C1AK26-F1-model_v4 Chaperone protein DnaK	0.103	262	173	11	272	161	354	6.121E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-A5TZ77-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5TZ77-F1-model_v4 Chaperone protein DnaK	0.110	262	172	11	272	161	354	5.154E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q54BE0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q54BE0-F1-model_v4 Heat shock cognate 70 kDa protein 3	0.087	269	181	2	270	181	379	1.366E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-C4XQ63-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C4XQ63-F1-model_v4 Chaperone protein DnaK	0.086	269	183	2	270	173	373	1.150E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q3APD2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3APD2-F1-model_v4 Chaperone protein DnaK	0.090	269	182	2	270	173	373	1.218E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q57AD7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q57AD7-F1-model_v4 Chaperone protein DnaK	0.096	263	175	8	270	181	375	6.121E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-B5EC42-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5EC42-F1-model_v4 Chaperone protein DnaK	0.102	272	182	2	273	175	378	8.153E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q9XCB1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9XCB1-F1-model_v4 Chaperone protein DnaK	0.105	276	186	2	277	177	385	8.153E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q18GZ4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q18GZ4-F1-model_v4 Chaperone protein DnaK	0.099	282	183	2	205	154	435	6.865E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q04VC8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q04VC8-F1-model_v4 Chaperone protein DnaK	0.118	269	177	2	270	175	376	1.150E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q5HAY1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5HAY1-F1-model_v4 Chaperone protein DnaK	0.094	263	177	8	270	183	378	7.270E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-P09435-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P09435-F1-model_v4 Heat shock protein SSA3	0.081	257	168	10	266	187	370	1.366E-02	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q8I0H7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8I0H7-F1-model_v4 Heat shock 70 kDa protein, mitochondrial	0.097	270	182	2	271	203	405	6.865E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q03685-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q03685-F1-model_v4 Luminal-binding protein 5	0.097	269	179	2	270	212	410	9.143E-03	39
+DESULFOASV1_0984_hypothetical_protein	AF-Q8N6M8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8N6M8-F1-model_v4 IQ domain-containing protein F1	0.136	115	96	292	403	76	190	6.671E+00	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q2TBX4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2TBX4-F1-model_v4 Heat shock 70 kDa protein 13	0.071	271	221	2	272	207	445	1.446E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q6MT06-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6MT06-F1-model_v4 Chaperone protein DnaK	0.103	271	180	2	272	151	352	1.819E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q1RJ70-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1RJ70-F1-model_v4 Chaperone protein HscA homolog	0.109	269	155	2	270	181	355	1.150E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q03MR6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q03MR6-F1-model_v4 Chaperone protein DnaK	0.117	286	192	2	287	149	366	1.446E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-P68837-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P68837-F1-model_v4 Chaperone protein DnaK	0.096	269	181	2	270	150	350	1.025E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q5XAD6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5XAD6-F1-model_v4 Chaperone protein DnaK	0.096	269	181	2	270	150	350	9.683E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-C0M7T9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-C0M7T9-F1-model_v4 Chaperone protein DnaK	0.100	260	172	11	270	159	350	1.025E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q6GGC0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6GGC0-F1-model_v4 Chaperone protein DnaK	0.108	271	179	2	272	149	350	1.718E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q2FXZ2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2FXZ2-F1-model_v4 Chaperone protein DnaK	0.104	269	180	2	270	149	350	1.218E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-O87777-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O87777-F1-model_v4 Chaperone protein DnaK	0.115	260	169	11	270	160	351	8.153E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-A6VMP1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6VMP1-F1-model_v4 Chaperone protein HscA homolog	0.113	272	168	2	273	188	377	1.532E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q9KD72-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9KD72-F1-model_v4 Chaperone protein DnaK	0.109	263	173	8	270	155	349	7.270E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-A9MHJ8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9MHJ8-F1-model_v4 Chaperone protein HscA	0.121	272	167	2	273	189	379	1.446E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-B5RD08-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5RD08-F1-model_v4 Chaperone protein HscA	0.121	272	167	2	273	189	379	9.143E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-B0BPK8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0BPK8-F1-model_v4 Chaperone protein HscA homolog	0.107	272	169	2	273	189	378	1.366E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q8DEZ1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8DEZ1-F1-model_v4 Chaperone protein HscA homolog	0.098	270	167	2	271	189	374	1.290E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-B1VMF3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B1VMF3-F1-model_v4 Chaperone protein DnaK	0.093	275	177	10	205	158	432	2.310E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q37106-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q37106-F1-model_v4 Chaperone protein dnaK	0.101	269	180	2	270	173	373	8.153E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-P44669-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P44669-F1-model_v4 Chaperone protein HscA homolog	0.105	272	169	2	273	189	378	1.622E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-A0K8P6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0K8P6-F1-model_v4 Chaperone protein HscA homolog	0.105	272	175	2	273	188	384	1.366E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-A8Z5V5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8Z5V5-F1-model_v4 Chaperone protein DnaK	0.104	163	142	2	160	173	335	6.421E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-P96133-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P96133-F1-model_v4 Chaperone protein DnaK	0.109	265	173	2	266	175	369	6.121E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q7V3T5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7V3T5-F1-model_v4 Chaperone protein dnaK2	0.106	269	179	2	270	174	374	7.699E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q3IYM7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3IYM7-F1-model_v4 Chaperone protein DnaK	0.107	269	180	2	270	174	376	8.153E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q05981-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q05981-F1-model_v4 Chaperone protein DnaK	0.089	263	177	8	270	181	375	1.086E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q5LWJ6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5LWJ6-F1-model_v4 Chaperone protein DnaK	0.096	269	182	2	270	174	375	9.143E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q3B577-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3B577-F1-model_v4 Chaperone protein DnaK	0.103	269	179	2	270	173	373	1.819E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-B3CNB5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3CNB5-F1-model_v4 Chaperone protein DnaK	0.091	263	176	8	270	180	374	9.143E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-A0M353-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A0M353-F1-model_v4 Chaperone protein DnaK	0.108	269	178	2	270	174	374	9.143E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-A6LDG8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6LDG8-F1-model_v4 Chaperone protein DnaK	0.100	269	181	2	270	173	374	1.718E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q1IT15-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1IT15-F1-model_v4 Chaperone protein DnaK	0.111	276	186	2	277	172	381	1.086E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-P41797-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P41797-F1-model_v4 Heat shock protein SSA1	0.077	250	198	12	227	1	250	3.418E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q7U6R7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7U6R7-F1-model_v4 Chaperone protein dnaK1	0.115	269	177	2	270	175	375	2.040E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q5R511-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5R511-F1-model_v4 Stress-70 protein, mitochondrial	0.088	263	177	8	270	232	426	2.040E-02	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q06068-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q06068-F1-model_v4 97 kDa heat shock protein	0.109	260	168	10	269	192	380	5.154E-03	38
+DESULFOASV1_0984_hypothetical_protein	AF-Q6SKR5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6SKR5-F1-model_v4 Kinetochore protein Spc25	0.149	195	146	209	403	10	181	1.591E+00	37
+DESULFOASV1_0984_hypothetical_protein	AF-A8GR49-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8GR49-F1-model_v4 Chaperone protein HscA homolog	0.113	269	154	2	270	181	355	1.446E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q9WYK6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9WYK6-F1-model_v4 Chaperone protein DnaK	0.093	262	177	11	272	166	361	1.086E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-B9DNK0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9DNK0-F1-model_v4 Chaperone protein DnaK	0.111	269	179	2	270	149	350	1.290E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-P0C0C6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0C0C6-F1-model_v4 Chaperone protein DnaK	0.096	260	173	11	270	159	350	1.290E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q1JFC8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1JFC8-F1-model_v4 Chaperone protein DnaK	0.096	260	173	11	270	159	350	1.086E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q9LCQ5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9LCQ5-F1-model_v4 Chaperone protein DnaK	0.104	265	174	2	266	150	344	7.270E-03	37
+DESULFOASV1_0984_hypothetical_protein	AF-B7M7M9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7M7M9-F1-model_v4 Chaperone protein HscA	0.121	272	167	2	273	189	379	1.366E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q0T1Z3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q0T1Z3-F1-model_v4 Chaperone protein HscA	0.120	272	167	2	273	189	379	9.683E-03	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q65RT2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q65RT2-F1-model_v4 Chaperone protein HscA homolog	0.103	272	170	2	273	190	379	1.366E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q1XDH2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1XDH2-F1-model_v4 Chaperone protein dnaK	0.104	269	179	2	270	174	374	1.218E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-A1KFH2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1KFH2-F1-model_v4 Chaperone protein DnaK	0.090	275	177	11	205	161	435	7.270E-03	37
+DESULFOASV1_0984_hypothetical_protein	AF-A6GXZ1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6GXZ1-F1-model_v4 Chaperone protein DnaK	0.108	260	170	11	270	183	374	1.290E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-A5FGL1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5FGL1-F1-model_v4 Chaperone protein DnaK	0.108	260	170	11	270	183	374	1.218E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-P94695-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P94695-F1-model_v4 Chaperone protein DnaK	0.110	265	174	2	266	172	368	2.040E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q3YRR6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q3YRR6-F1-model_v4 Chaperone protein DnaK	0.097	269	182	2	270	169	370	1.218E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-A4SFB1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4SFB1-F1-model_v4 Chaperone protein DnaK	0.104	269	179	2	270	173	373	3.418E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-A1ANV0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1ANV0-F1-model_v4 Chaperone protein DnaK	0.107	276	185	2	277	175	382	2.566E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-O33528-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O33528-F1-model_v4 Chaperone protein DnaK	0.102	263	174	8	270	181	375	5.780E-03	37
+DESULFOASV1_0984_hypothetical_protein	AF-A9HEA3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9HEA3-F1-model_v4 Chaperone protein DnaK	0.106	269	179	2	270	175	375	1.366E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q5LG30-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5LG30-F1-model_v4 Chaperone protein DnaK	0.099	282	190	2	283	173	384	2.717E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-B8DRD6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8DRD6-F1-model_v4 Chaperone protein DnaK	0.094	269	181	2	270	174	374	1.290E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-P0C937-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0C937-F1-model_v4 Chaperone protein DnaK	0.096	269	182	2	270	173	374	2.566E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-A1BET8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1BET8-F1-model_v4 Chaperone protein DnaK	0.100	269	180	2	270	173	373	2.288E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q1GKS3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1GKS3-F1-model_v4 Chaperone protein DnaK	0.086	269	185	2	270	174	376	1.025E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q04Y47-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q04Y47-F1-model_v4 Chaperone protein DnaK	0.104	269	179	2	270	176	376	2.288E-02	37
+DESULFOASV1_0984_hypothetical_protein	AF-Q08276-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q08276-F1-model_v4 Heat shock 70 kDa protein, mitochondrial	0.085	287	187	2	206	229	515	8.153E-03	37
+DESULFOASV1_0984_hypothetical_protein	AF-A3LSY0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3LSY0-F1-model_v4 Translation machinery-associated protein 22	0.123	108	87	348	455	65	164	1.340E+00	36
+DESULFOASV1_0984_hypothetical_protein	AF-Q60660-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q60660-F1-model_v4 Killer cell lectin-like receptor 2	0.079	235	147	288	448	40	274	1.419E+00	36
+DESULFOASV1_0984_hypothetical_protein	AF-Q5M1T8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5M1T8-F1-model_v4 Chaperone protein DnaK	0.120	286	191	2	287	149	366	2.160E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-Q1J578-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1J578-F1-model_v4 Chaperone protein DnaK	0.096	260	173	11	270	159	350	1.446E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-A6TCE7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6TCE7-F1-model_v4 Chaperone protein HscA	0.121	272	167	2	273	189	379	1.718E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-A5UGH6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5UGH6-F1-model_v4 Chaperone protein HscA homolog	0.106	272	169	2	273	189	378	3.418E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-P9WMJ8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P9WMJ8-F1-model_v4 Chaperone protein DnaK	0.110	262	172	11	272	161	354	1.290E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-A5FZ19-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5FZ19-F1-model_v4 Chaperone protein DnaK	0.093	269	181	2	270	175	375	1.532E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-A4WW89-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4WW89-F1-model_v4 Chaperone protein DnaK	0.111	269	180	2	270	174	376	1.366E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-A3PNM1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A3PNM1-F1-model_v4 Chaperone protein DnaK	0.104	269	181	2	270	174	376	1.366E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-Q8FXX2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8FXX2-F1-model_v4 Chaperone protein DnaK	0.081	269	184	2	270	175	375	1.622E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-B3QMB2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3QMB2-F1-model_v4 Chaperone protein DnaK	0.096	269	181	2	270	173	373	2.717E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-Q64X01-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q64X01-F1-model_v4 Chaperone protein DnaK	0.096	272	181	12	283	184	384	3.619E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-B4SDA0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B4SDA0-F1-model_v4 Chaperone protein DnaK	0.103	269	179	2	270	173	373	1.718E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-Q5ZM98-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5ZM98-F1-model_v4 Stress-70 protein, mitochondrial	0.088	263	177	8	270	234	428	1.446E-02	36
+DESULFOASV1_0984_hypothetical_protein	AF-A8MTL0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8MTL0-F1-model_v4 IQ domain-containing protein F5	0.134	115	96	292	403	19	133	5.948E+00	35
+DESULFOASV1_0984_hypothetical_protein	AF-Q8FT24-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8FT24-F1-model_v4 Putative pre-16S rRNA nuclease	0.082	149	94	12	160	14	116	7.132E-01	35
+DESULFOASV1_0984_hypothetical_protein	AF-O80674-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O80674-F1-model_v4 Transcription factor bHLH106	0.144	182	145	290	459	51	232	3.196E-01	35
+DESULFOASV1_0984_hypothetical_protein	AF-P87142-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P87142-F1-model_v4 Heat shock protein 70 homolog C57A7.12	0.088	265	184	10	274	213	415	5.406E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-B0BWJ7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B0BWJ7-F1-model_v4 Chaperone protein HscA homolog	0.113	269	154	2	270	181	355	2.717E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-B9KBT4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B9KBT4-F1-model_v4 Chaperone protein DnaK	0.093	271	185	2	272	157	361	1.718E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-A5IK42-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5IK42-F1-model_v4 Chaperone protein DnaK	0.085	263	179	10	272	165	361	1.926E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-Q7N228-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q7N228-F1-model_v4 Chaperone protein HscA	0.109	272	169	2	273	189	379	3.227E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-Q8KEP3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8KEP3-F1-model_v4 Chaperone protein DnaK	0.104	269	179	2	270	173	373	2.160E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-P12076-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P12076-F1-model_v4 Heat shock 70-related protein 1, mitochondrial	0.098	271	179	2	272	200	399	4.552E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-B6JCI3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B6JCI3-F1-model_v4 Chaperone protein DnaK	0.103	269	179	2	270	175	375	1.290E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-A6L2X7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A6L2X7-F1-model_v4 Chaperone protein DnaK	0.095	282	191	2	283	173	384	4.820E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-B3E7W9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B3E7W9-F1-model_v4 Chaperone protein DnaK	0.099	276	187	2	277	175	382	2.423E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-P37899-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P37899-F1-model_v4 Heat shock 70 kDa protein	0.086	269	180	2	270	188	385	3.619E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-P22774-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P22774-F1-model_v4 Iron-sulfur cluster biogenesis chaperone, mitochondrial	0.089	269	182	2	270	223	423	2.423E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-P38646-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P38646-F1-model_v4 Stress-70 protein, mitochondrial	0.088	263	177	8	270	232	426	3.418E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-F4HQD4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-F4HQD4-F1-model_v4 Heat shock 70 kDa protein 15	0.093	259	169	11	269	191	377	3.227E-02	35
+DESULFOASV1_0984_hypothetical_protein	AF-Q5R8D9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5R8D9-F1-model_v4 Heat shock 70 kDa protein 13	0.079	265	214	2	266	207	439	3.047E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-A8GMI8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A8GMI8-F1-model_v4 Chaperone protein HscA homolog	0.121	273	158	2	274	181	361	3.227E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-A4VZB5-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4VZB5-F1-model_v4 Chaperone protein DnaK	0.104	269	180	2	270	149	350	2.717E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-Q5M6D1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q5M6D1-F1-model_v4 Chaperone protein DnaK	0.110	271	179	2	272	149	350	3.833E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-P0A3J2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0A3J2-F1-model_v4 Chaperone protein DnaK	0.103	269	179	2	270	150	350	2.423E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-B7VJT0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B7VJT0-F1-model_v4 Chaperone protein HscA homolog	0.111	272	168	2	273	189	378	3.418E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-A5UAB3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A5UAB3-F1-model_v4 Chaperone protein HscA homolog	0.117	272	167	2	273	189	378	3.227E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-Q1IWL4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1IWL4-F1-model_v4 Chaperone protein DnaK	0.097	265	177	2	266	172	368	3.833E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-Q11QH3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q11QH3-F1-model_v4 Chaperone protein DnaK	0.103	269	179	2	270	174	374	2.423E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-B5YH59-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5YH59-F1-model_v4 Chaperone protein DnaK	0.100	269	180	2	270	175	375	2.717E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-B5RPM1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B5RPM1-F1-model_v4 Chaperone protein DnaK	0.094	269	181	2	270	175	375	2.878E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-B8J402-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B8J402-F1-model_v4 Chaperone protein DnaK	0.076	269	185	2	270	174	374	4.552E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-Q9LHA8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9LHA8-F1-model_v4 Heat shock 70 kDa protein 4	0.093	271	182	2	272	186	387	2.878E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-P24629-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P24629-F1-model_v4 Heat shock cognate 70 kDa protein 1	0.070	265	179	2	266	186	379	4.552E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-Q75HQ0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q75HQ0-F1-model_v4 Heat shock 70 kDa protein BIP4	0.085	273	185	11	283	243	445	2.423E-02	34
+DESULFOASV1_0984_hypothetical_protein	AF-Q9DAL7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9DAL7-F1-model_v4 IQ domain-containing protein F5	0.121	163	111	236	398	2	128	2.990E+00	33
+DESULFOASV1_0984_hypothetical_protein	AF-P38788-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P38788-F1-model_v4 Ribosome-associated complex subunit SSZ1	0.085	269	188	6	274	184	389	6.799E-02	33
+DESULFOASV1_0984_hypothetical_protein	AF-A4SP09-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A4SP09-F1-model_v4 Chaperone protein HscA homolog	0.104	272	170	2	273	187	377	5.105E-02	33
+DESULFOASV1_0984_hypothetical_protein	AF-B6YRF7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B6YRF7-F1-model_v4 Chaperone protein DnaK	0.108	271	182	2	272	172	376	2.288E-02	33
+DESULFOASV1_0984_hypothetical_protein	AF-Q587J6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q587J6-F1-model_v4 LINE-1 type transposase domain-containing protein 1	0.165	184	144	285	457	514	697	1.890E+00	33
+DESULFOASV1_0984_hypothetical_protein	AF-Q91VB4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q91VB4-F1-model_v4 Hermansky-Pudlak syndrome 3 protein homolog	0.141	75	63	383	456	433	507	1.890E+00	33
+DESULFOASV1_0984_hypothetical_protein	AF-P54652-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P54652-F1-model_v4 Heat shock-related 70 kDa protein 2	0.076	269	182	2	270	184	381	6.799E-02	32
+DESULFOASV1_0984_hypothetical_protein	AF-Q23917-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q23917-F1-model_v4 3',5'-cyclic-nucleotide phosphodiesterase regA	0.115	164	130	213	376	222	369	5.948E+00	32
+DESULFOASV1_0984_hypothetical_protein	AF-P20937-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P20937-F1-model_v4 T-cell surface glycoprotein YE1/48	0.095	163	129	293	435	48	210	8.885E+00	31
+DESULFOASV1_0984_hypothetical_protein	AF-P95334-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P95334-F1-model_v4 Chaperone protein DnaK	0.100	269	181	2	270	178	379	3.833E-02	31
+DESULFOASV1_0984_hypothetical_protein	AF-P0A3J0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0A3J0-F1-model_v4 Chaperone protein DnaK	0.098	278	176	11	206	159	436	1.926E-02	31
+DESULFOASV1_0984_hypothetical_protein	AF-O51883-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O51883-F1-model_v4 Chaperone protein HscA	0.095	275	176	2	276	181	375	4.059E-02	31
+DESULFOASV1_0984_hypothetical_protein	AF-Q1MTQ1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1MTQ1-F1-model_v4 Kinesin-like protein tea2	0.110	439	325	10	375	127	565	1.076E-01	31
+DESULFOASV1_0984_hypothetical_protein	AF-O59855-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O59855-F1-model_v4 Probable heat shock protein ssa2	0.057	256	219	15	247	3	258	1.016E-01	31
+DESULFOASV1_0984_hypothetical_protein	AF-Q6Z058-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6Z058-F1-model_v4 Heat shock 70 kDa protein BIP5	0.081	273	186	11	283	231	433	4.298E-02	31
+DESULFOASV1_0984_hypothetical_protein	AF-P36678-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P36678-F1-model_v4 Putative type II secretion system protein M	0.138	150	116	292	441	14	149	2.517E+00	30
+DESULFOASV1_0984_hypothetical_protein	AF-Q6BH22-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6BH22-F1-model_v4 Translation machinery-associated protein 22	0.146	109	91	349	457	62	169	3.353E+00	30
+DESULFOASV1_0984_hypothetical_protein	AF-Q6FXQ4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6FXQ4-F1-model_v4 Translation machinery-associated protein 22	0.160	141	110	317	457	41	172	2.666E+00	29
+DESULFOASV1_0984_hypothetical_protein	AF-Q75CN1-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q75CN1-F1-model_v4 Translation machinery-associated protein 22	0.110	113	94	347	459	65	171	5.008E+00	29
+DESULFOASV1_0984_hypothetical_protein	AF-Q2HXU8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2HXU8-F1-model_v4 C-type lectin domain family 12 member B	0.109	231	137	292	446	45	275	3.551E+00	29
+DESULFOASV1_0984_hypothetical_protein	AF-Q2GIH0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q2GIH0-F1-model_v4 Exodeoxyribonuclease 7 large subunit	0.106	395	325	3	397	23	386	3.385E-01	29
+DESULFOASV1_0984_hypothetical_protein	AF-A7TES6-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A7TES6-F1-model_v4 Translation machinery-associated protein 22	0.100	114	95	347	460	66	172	6.671E+00	27
+DESULFOASV1_0984_hypothetical_protein	AF-A9BWI7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A9BWI7-F1-model_v4 Exodeoxyribonuclease 7 large subunit	0.123	371	301	25	395	85	428	1.195E+00	26
+DESULFOASV1_0984_hypothetical_protein	AF-B4G5J0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-B4G5J0-F1-model_v4 Kinetochore protein Spc25	0.136	250	147	207	456	7	177	4.466E+00	25
+DESULFOASV1_0984_hypothetical_protein	AF-P34927-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P34927-F1-model_v4 Asialoglycoprotein receptor 1	0.100	238	134	293	442	44	281	7.064E+00	25
+DESULFOASV1_0984_hypothetical_protein	AF-Q6ZS10-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6ZS10-F1-model_v4 C-type lectin domain family 17, member A	0.100	212	135	292	442	166	377	7.481E+00	25
+DESULFOASV1_0984_hypothetical_protein	AF-Q6CGV4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q6CGV4-F1-model_v4 Probable kinetochore protein SPC25	0.134	254	167	209	462	23	216	7.481E+00	24
+DESULFOASV1_0984_hypothetical_protein	AF-Q9EQ09-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9EQ09-F1-model_v4 Oxidized low-density lipoprotein receptor 1	0.105	235	209	209	443	127	360	1.503E+00	24
+DESULFOASV1_0984_hypothetical_protein	AF-Q9X289-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9X289-F1-model_v4 Exodeoxyribonuclease 7 large subunit	0.110	390	283	6	395	63	381	8.970E-01	24
+DESULFOASV1_0984_hypothetical_protein	AF-P47089-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P47089-F1-model_v4 Translation machinery-associated protein 22	0.120	111	94	347	457	67	174	3.760E+00	23
+DESULFOASV1_0984_hypothetical_protein	AF-Q1LV50-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q1LV50-F1-model_v4 Centromere protein P	0.127	140	120	303	442	3	141	7.923E+00	23
+DESULFOASV1_0984_hypothetical_protein	AF-Q299P8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q299P8-F1-model_v4 Kinetochore protein Spc25	0.135	243	141	207	449	7	170	9.965E+00	21
+DESULFOASV1_0984_hypothetical_protein	AF-Q4GZK9-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q4GZK9-F1-model_v4 Two-component response regulator ORR2	0.125	152	130	215	366	102	251	9.409E+00	21
+DESULFOASV1_0984_hypothetical_protein	AF-Q9XTA8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q9XTA8-F1-model_v4 Oxidized low-density lipoprotein receptor 1	0.122	236	132	291	441	33	268	9.409E+00	21
+DESULFOASV1_0984_hypothetical_protein	AF-O70156-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-O70156-F1-model_v4 Oxidized low-density lipoprotein receptor 1	0.093	233	210	209	441	127	358	3.166E+00	20
+DESULFOASV1_0984_hypothetical_protein	AF-Q8N2K0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q8N2K0-F1-model_v4 Lysophosphatidylserine lipase ABHD12	0.153	105	79	320	413	53	157	7.481E+00	20
+DESULFOASV1_0984_hypothetical_protein	AF-P58363-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P58363-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.105	262	222	211	459	20	281	3.551E+00	20
+DESULFOASV1_0984_hypothetical_protein	AF-A1CIK0-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-A1CIK0-F1-model_v4 Probable ubiquitination network signaling protein acrB	0.105	375	265	1	375	456	752	2.517E+00	20
+DESULFOASV1_0984_hypothetical_protein	AF-P0ABC8-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0ABC8-F1-model_v4 Protein HflK	0.130	396	314	33	428	19	380	2.377E+00	18
+DESULFOASV1_0984_hypothetical_protein	AF-P0ABC7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0ABC7-F1-model_v4 Modulator of FtsH protease HflK	0.117	429	347	33	461	24	417	3.760E+00	18
+DESULFOASV1_0984_hypothetical_protein	AF-H8EXN2-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-H8EXN2-F1-model_v4 Anti-sigma-L factor RslA	0.128	193	126	210	402	26	171	2.377E+00	17
+DESULFOASV1_0984_hypothetical_protein	AF-P0AEC3-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0AEC3-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.105	262	222	211	459	20	281	7.064E+00	17
+DESULFOASV1_0984_hypothetical_protein	AF-P0AEC4-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-P0AEC4-F1-model_v4 Aerobic respiration control sensor protein ArcB	0.104	262	222	211	459	20	281	9.965E+00	15
+DESULFOASV1_0984_hypothetical_protein	AF-Q32PX7-F1-model_v4	DESULFOASV1_0984_hypothetical_protein	AF-Q32PX7-F1-model_v4 Far upstream element-binding protein 1	0.115	184	138	2	185	35	191	9.965E+00	12
