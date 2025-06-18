@@ -1,0 +1,120 @@
+25/06/18 12:07:37 | INFO | root | Reading sequences from missing_ORFs.faa
+25/06/18 12:07:37 | INFO | root | Loaded 116 sequences from missing_ORFs.faa
+25/06/18 12:07:37 | INFO | root | Loading model
+25/06/18 12:08:20 | INFO | root | Starting Predictions
+25/06/18 12:08:36 | INFO | root | Predicted structure for DESULFOASV1_13000 -2Fe-2S- ferredoxin domain-containing protein with length 102, pLDDT 85.4, pTM 0.844 in 3.3s (amortized, batch size 5). 1 / 116 completed.
+25/06/18 12:08:36 | INFO | root | Predicted structure for DESULFOASV1_36060 -deoxy-nucleoside triphosphate pyrophosphohydrolase with length 131, pLDDT 85.1, pTM 0.859 in 3.3s (amortized, batch size 5). 2 / 116 completed.
+25/06/18 12:08:36 | INFO | root | Predicted structure for DESULFOASV1_31000 -2Fe-2S--binding protein with length 153, pLDDT 88.7, pTM 0.906 in 3.3s (amortized, batch size 5). 3 / 116 completed.
+25/06/18 12:08:36 | INFO | root | Predicted structure for DESULFOASV1_25330 -d-CMP kinase with length 223, pLDDT 95.5, pTM 0.959 in 3.3s (amortized, batch size 5). 4 / 116 completed.
+25/06/18 12:08:36 | INFO | root | Predicted structure for DESULFOASV1_24940 -Fe-S--binding protein with length 242, pLDDT 96.1, pTM 0.967 in 3.3s (amortized, batch size 5). 5 / 116 completed.
+25/06/18 12:09:03 | INFO | root | Predicted structure for DESULFOASV1_32070 -Fe-S--binding protein with length 399, pLDDT 83.8, pTM 0.915 in 13.6s (amortized, batch size 2). 6 / 116 completed.
+25/06/18 12:09:03 | INFO | root | Predicted structure for DESULFOASV1_21780 -Fe-S--binding protein with length 442, pLDDT 92.4, pTM 0.964 in 13.6s (amortized, batch size 2). 7 / 116 completed.
+25/06/18 12:09:18 | INFO | root | Predicted structure for DESULFOASV1_36570 -Fe-S--binding protein with length 472, pLDDT 86.0, pTM 0.927 in 14.8s. 8 / 116 completed.
+25/06/18 12:10:25 | INFO | root | Predicted structure for DESULFOASV1_31900 TIGR03960 family B12-binding radical SAM protein with length 853, pLDDT 89.0, pTM 0.942 in 67.4s. 9 / 116 completed.
+25/06/18 12:11:33 | INFO | root | Predicted structure for DESULFOASV1_01220 alpha-glucan family phosphorylase with length 856, pLDDT 91.2, pTM 0.957 in 67.7s. 10 / 116 completed.
+25/06/18 12:12:41 | INFO | root | Predicted structure for DESULFOASV1_29710 cobyric acid synthase with length 856, pLDDT 80.0, pTM 0.559 in 67.7s. 11 / 116 completed.
+25/06/18 12:13:50 | INFO | root | Predicted structure for DESULFOASV1_12200 hypothetical protein with length 863, pLDDT 84.8, pTM 0.550 in 69.1s. 12 / 116 completed.
+25/06/18 12:15:00 | INFO | root | Predicted structure for DESULFOASV1_17950 hypothetical protein with length 866, pLDDT 86.1, pTM 0.556 in 69.8s. 13 / 116 completed.
+25/06/18 12:16:10 | INFO | root | Predicted structure for DESULFOASV1_02310 hypothetical protein with length 867, pLDDT 67.4, pTM 0.630 in 70.1s. 14 / 116 completed.
+25/06/18 12:17:20 | INFO | root | Predicted structure for DESULFOASV1_31450 PEP-pyruvate-binding domain-containing protein with length 870, pLDDT 84.1, pTM 0.616 in 70.4s. 15 / 116 completed.
+25/06/18 12:18:31 | INFO | root | Predicted structure for DESULFOASV1_16050 ATP-dependent chaperone ClpB with length 874, pLDDT 89.3, pTM 0.600 in 71.2s. 16 / 116 completed.
+25/06/18 12:19:43 | INFO | root | Predicted structure for DESULFOASV1_00670 [protein-PII] uridylyltransferase with length 876, pLDDT 89.7, pTM 0.845 in 71.5s. 17 / 116 completed.
+25/06/18 12:20:55 | INFO | root | Predicted structure for DESULFOASV1_23340 DNA polymerase I with length 877, pLDDT 91.4, pTM 0.730 in 71.8s. 18 / 116 completed.
+25/06/18 12:22:07 | INFO | root | Predicted structure for DESULFOASV1_33610 pitrilysin family protein with length 877, pLDDT 88.1, pTM 0.912 in 71.8s. 19 / 116 completed.
+25/06/18 12:23:18 | INFO | root | Predicted structure for DESULFOASV1_36160 hypothetical protein with length 877, pLDDT 88.5, pTM 0.523 in 71.8s. 20 / 116 completed.
+25/06/18 12:24:30 | INFO | root | Predicted structure for DESULFOASV1_09020 hypothetical protein with length 878, pLDDT 55.8, pTM 0.455 in 71.8s. 21 / 116 completed.
+25/06/18 12:25:43 | INFO | root | Predicted structure for DESULFOASV1_00440 hypothetical protein with length 881, pLDDT 87.1, pTM 0.570 in 72.6s. 22 / 116 completed.
+25/06/18 12:26:55 | INFO | root | Predicted structure for DESULFOASV1_19060 cytochrome ubiquinol oxidase subunit I with length 882, pLDDT 59.6, pTM 0.464 in 72.7s. 23 / 116 completed.
+25/06/18 12:28:08 | INFO | root | Predicted structure for DESULFOASV1_06290 DNA mismatch repair protein MutS with length 884, pLDDT 91.6, pTM 0.913 in 72.9s. 24 / 116 completed.
+25/06/18 12:29:22 | INFO | root | Predicted structure for DESULFOASV1_24720 alanine--tRNA ligase with length 885, pLDDT 91.9, pTM 0.768 in 73.3s. 25 / 116 completed.
+25/06/18 12:30:35 | INFO | root | Predicted structure for DESULFOASV1_29370 valine--tRNA ligase with length 885, pLDDT 94.1, pTM 0.943 in 73.3s. 26 / 116 completed.
+25/06/18 12:31:48 | INFO | root | Predicted structure for DESULFOASV1_04540 AMP-binding protein with length 886, pLDDT 89.1, pTM 0.704 in 73.3s. 27 / 116 completed.
+25/06/18 12:33:03 | INFO | root | Predicted structure for DESULFOASV1_06340 CBS domain-containing protein with length 891, pLDDT 88.5, pTM 0.576 in 74.6s. 28 / 116 completed.
+25/06/18 12:34:18 | INFO | root | Predicted structure for DESULFOASV1_28440 bifunctional acetate--CoA ligase family protein-GNAT family N-acetyltransferase with length 893, pLDDT 92.7, pTM 0.945 in 74.7s. 29 / 116 completed.
+25/06/18 12:35:32 | INFO | root | Predicted structure for DESULFOASV1_03360 outer membrane protein assembly factor BamA with length 894, pLDDT 90.7, pTM 0.716 in 74.8s. 30 / 116 completed.
+25/06/18 12:36:52 | INFO | root | Predicted structure for DESULFOASV1_14550 hypothetical protein with length 897, pLDDT 81.6, pTM 0.551 in 79.9s. 31 / 116 completed.
+25/06/18 12:38:13 | INFO | root | Predicted structure for DESULFOASV1_23580 hypothetical protein with length 899, pLDDT 88.0, pTM 0.657 in 80.2s. 32 / 116 completed.
+25/06/18 12:39:33 | INFO | root | Predicted structure for DESULFOASV1_28570 hypothetical protein with length 902, pLDDT 87.2, pTM 0.533 in 80.6s. 33 / 116 completed.
+25/06/18 12:40:54 | INFO | root | Predicted structure for DESULFOASV1_15190 4-hydroxyphenylacetate decarboxylase large subunit with length 903, pLDDT 73.0, pTM 0.861 in 80.9s. 34 / 116 completed.
+25/06/18 12:42:15 | INFO | root | Predicted structure for DESULFOASV1_12110 molybdopterin-dependent oxidoreductase with length 904, pLDDT 87.7, pTM 0.940 in 80.8s. 35 / 116 completed.
+25/06/18 12:43:36 | INFO | root | Predicted structure for DESULFOASV1_19910 DEAD-DEAH box helicase family protein with length 905, pLDDT 77.0, pTM 0.653 in 81.4s. 36 / 116 completed.
+25/06/18 12:44:58 | INFO | root | Predicted structure for DESULFOASV1_24390 hypothetical protein with length 907, pLDDT 88.3, pTM 0.606 in 81.8s. 37 / 116 completed.
+25/06/18 12:46:20 | INFO | root | Predicted structure for DESULFOASV1_32930 hypothetical protein with length 907, pLDDT 89.6, pTM 0.642 in 81.8s. 38 / 116 completed.
+25/06/18 12:47:42 | INFO | root | Predicted structure for DESULFOASV1_00100 tetratricopeptide repeat protein with length 908, pLDDT 81.6, pTM 0.591 in 81.7s. 39 / 116 completed.
+25/06/18 12:49:03 | INFO | root | Predicted structure for DESULFOASV1_36240 hypothetical protein with length 908, pLDDT 82.4, pTM 0.793 in 81.7s. 40 / 116 completed.
+25/06/18 12:50:26 | INFO | root | Predicted structure for DESULFOASV1_10710 MMPL family transporter with length 911, pLDDT 93.4, pTM 0.897 in 82.4s. 41 / 116 completed.
+25/06/18 12:51:50 | INFO | root | Predicted structure for DESULFOASV1_15610 PAS domain S-box protein with length 922, pLDDT 86.8, pTM 0.604 in 84.5s. 42 / 116 completed.
+25/06/18 12:53:15 | INFO | root | Predicted structure for DESULFOASV1_04630 PAS domain S-box protein with length 924, pLDDT 89.0, pTM 0.626 in 84.8s. 43 / 116 completed.
+25/06/18 12:54:40 | INFO | root | Predicted structure for DESULFOASV1_09570 chemotaxis protein CheA with length 925, pLDDT 80.3, pTM 0.412 in 85.2s. 44 / 116 completed.
+25/06/18 12:56:06 | INFO | root | Predicted structure for DESULFOASV1_29840 excinuclease ABC subunit UvrA with length 926, pLDDT 87.3, pTM 0.813 in 85.4s. 45 / 116 completed.
+25/06/18 12:57:32 | INFO | root | Predicted structure for DESULFOASV1_31480 hypothetical protein with length 928, pLDDT 68.9, pTM 0.480 in 86.3s. 46 / 116 completed.
+25/06/18 12:58:58 | INFO | root | Predicted structure for DESULFOASV1_26560 malto-oligosyltrehalose synthase with length 932, pLDDT 92.1, pTM 0.958 in 86.3s. 47 / 116 completed.
+25/06/18 13:00:26 | INFO | root | Predicted structure for DESULFOASV1_24810 hypothetical protein with length 937, pLDDT 90.9, pTM 0.657 in 87.7s. 48 / 116 completed.
+25/06/18 13:01:54 | INFO | root | Predicted structure for DESULFOASV1_07460 isoleucine--tRNA ligase with length 940, pLDDT 93.2, pTM 0.948 in 88.0s. 49 / 116 completed.
+25/06/18 13:03:25 | INFO | root | Predicted structure for DESULFOASV1_03260 hypothetical protein with length 956, pLDDT 76.8, pTM 0.557 in 91.2s. 50 / 116 completed.
+25/06/18 13:04:58 | INFO | root | Predicted structure for DESULFOASV1_17000 insulinase family protein with length 964, pLDDT 92.6, pTM 0.948 in 92.9s. 51 / 116 completed.
+25/06/18 13:06:31 | INFO | root | Predicted structure for DESULFOASV1_36420 hypothetical protein with length 964, pLDDT 89.0, pTM 0.594 in 92.9s. 52 / 116 completed.
+25/06/18 13:08:04 | INFO | root | Predicted structure for DESULFOASV1_23940 hypothetical protein with length 965, pLDDT 90.4, pTM 0.841 in 93.3s. 53 / 116 completed.
+25/06/18 13:09:37 | INFO | root | Predicted structure for DESULFOASV1_03150 tetratricopeptide repeat protein with length 966, pLDDT 78.1, pTM 0.586 in 93.3s. 54 / 116 completed.
+25/06/18 13:11:11 | INFO | root | Predicted structure for DESULFOASV1_09470 PD--D-E-XK nuclease family protein with length 968, pLDDT 87.7, pTM 0.762 in 93.6s. 55 / 116 completed.
+25/06/18 13:12:46 | INFO | root | Predicted structure for DESULFOASV1_15390 hypothetical protein with length 971, pLDDT 83.6, pTM 0.843 in 94.6s. 56 / 116 completed.
+25/06/18 13:14:24 | INFO | root | Predicted structure for DESULFOASV1_34450 NAD-glutamate dehydrogenase with length 989, pLDDT 89.0, pTM 0.893 in 98.7s. 57 / 116 completed.
+25/06/18 13:16:06 | INFO | root | Predicted structure for DESULFOASV1_28710 AIR synthase-related protein with length 1001, pLDDT 84.4, pTM 0.868 in 101.4s. 58 / 116 completed.
+25/06/18 13:17:48 | INFO | root | Predicted structure for DESULFOASV1_30240 L-glutamate gamma-semialdehyde dehydrogenase with length 1005, pLDDT 88.0, pTM 0.903 in 102.5s. 59 / 116 completed.
+25/06/18 13:19:34 | INFO | root | Predicted structure for DESULFOASV1_31490 hypothetical protein with length 1021, pLDDT 84.2, pTM 0.571 in 105.9s. 60 / 116 completed.
+25/06/18 13:21:20 | INFO | root | Predicted structure for DESULFOASV1_36760 efflux RND transporter permease subunit VexD with length 1022, pLDDT 92.8, pTM 0.941 in 105.9s. 61 / 116 completed.
+25/06/18 13:23:06 | INFO | root | Predicted structure for DESULFOASV1_30160 HAD-IC family P-type ATPase with length 1023, pLDDT 86.6, pTM 0.798 in 106.4s. 62 / 116 completed.
+25/06/18 13:24:54 | INFO | root | Predicted structure for DESULFOASV1_26700 hypothetical protein with length 1024, pLDDT 86.0, pTM 0.589 in 107.7s. 63 / 116 completed.
+25/06/18 13:26:58 | INFO | root | Predicted structure for DESULFOASV1_07590 efflux RND transporter permease subunit with length 1037, pLDDT 93.6, pTM 0.953 in 123.6s. 64 / 116 completed.
+25/06/18 13:29:01 | INFO | root | Predicted structure for DESULFOASV1_23290 hypothetical protein with length 1037, pLDDT 82.5, pTM 0.559 in 123.6s. 65 / 116 completed.
+25/06/18 13:31:05 | INFO | root | Predicted structure for DESULFOASV1_33010 hypothetical protein with length 1037, pLDDT 85.2, pTM 0.470 in 123.6s. 66 / 116 completed.
+25/06/18 13:33:11 | INFO | root | Predicted structure for DESULFOASV1_31030 efflux RND transporter permease subunit with length 1050, pLDDT 92.7, pTM 0.941 in 126.0s. 67 / 116 completed.
+25/06/18 13:35:19 | INFO | root | Predicted structure for DESULFOASV1_28210 hypothetical protein with length 1053, pLDDT 84.4, pTM 0.521 in 128.2s. 68 / 116 completed.
+25/06/18 13:37:27 | INFO | root | Predicted structure for DESULFOASV1_28640 hypothetical protein with length 1053, pLDDT 84.7, pTM 0.924 in 128.2s. 69 / 116 completed.
+25/06/18 13:39:36 | INFO | root | Predicted structure for DESULFOASV1_23410 ATP-binding protein with length 1058, pLDDT 79.8, pTM 0.548 in 128.8s. 70 / 116 completed.
+25/06/18 13:41:47 | INFO | root | Predicted structure for DESULFOASV1_29510 efflux RND transporter permease subunit with length 1061, pLDDT 93.4, pTM 0.949 in 130.8s. 71 / 116 completed.
+25/06/18 13:43:56 | INFO | root | Predicted structure for DESULFOASV1_28550 hypothetical protein with length 1068, pLDDT 87.3, pTM 0.549 in 128.9s. 72 / 116 completed.
+25/06/18 13:46:09 | INFO | root | Predicted structure for DESULFOASV1_10060 DEAD-DEAH box helicase with length 1069, pLDDT 83.0, pTM 0.625 in 133.4s. 73 / 116 completed.
+25/06/18 13:48:23 | INFO | root | Predicted structure for DESULFOASV1_09460 hypothetical protein with length 1071, pLDDT 85.4, pTM 0.769 in 133.6s. 74 / 116 completed.
+25/06/18 13:50:46 | INFO | root | Predicted structure for DESULFOASV1_03780 hypothetical protein with length 1074, pLDDT 90.3, pTM 0.569 in 143.1s. 75 / 116 completed.
+25/06/18 13:54:09 | INFO | root | Predicted structure for DESULFOASV1_30790 efflux RND transporter permease subunit with length 1078, pLDDT 90.8, pTM 0.944 in 202.7s. 76 / 116 completed.
+25/06/18 13:57:36 | INFO | root | Predicted structure for DESULFOASV1_03460 carbamoyl-phosphate synthase large subunit with length 1079, pLDDT 83.2, pTM 0.892 in 206.9s. 77 / 116 completed.
+25/06/18 14:01:07 | INFO | root | Predicted structure for DESULFOASV1_20780 hypothetical protein with length 1088, pLDDT 74.0, pTM 0.478 in 211.1s. 78 / 116 completed.
+25/06/18 14:04:28 | INFO | root | Predicted structure for DESULFOASV1_23010 efflux RND transporter permease subunit with length 1092, pLDDT 91.0, pTM 0.931 in 201.8s. 79 / 116 completed.
+25/06/18 14:06:50 | INFO | root | Predicted structure for DESULFOASV1_26520 maltose alpha-D-glucosyltransferase with length 1108, pLDDT 85.7, pTM 0.626 in 141.7s. 80 / 116 completed.
+25/06/18 14:09:16 | INFO | root | Predicted structure for DESULFOASV1_20790 hypothetical protein with length 1114, pLDDT 75.1, pTM 0.455 in 146.2s. 81 / 116 completed.
+25/06/18 14:11:45 | INFO | root | Predicted structure for DESULFOASV1_03620 hypothetical protein with length 1117, pLDDT 86.1, pTM 0.491 in 148.7s. 82 / 116 completed.
+25/06/18 14:14:14 | INFO | root | Predicted structure for DESULFOASV1_28410 ribonucleotide reductase N-terminal alpha domain-containing protein with length 1119, pLDDT 79.5, pTM 0.574 in 149.4s. 83 / 116 completed.
+25/06/18 14:16:49 | INFO | root | Predicted structure for DESULFOASV1_33580 hypothetical protein with length 1138, pLDDT 85.6, pTM 0.709 in 154.5s. 84 / 116 completed.
+25/06/18 14:19:25 | INFO | root | Predicted structure for DESULFOASV1_36480 hypothetical protein with length 1142, pLDDT 85.7, pTM 0.868 in 155.9s. 85 / 116 completed.
+25/06/18 14:22:04 | INFO | root | Predicted structure for DESULFOASV1_05770 transcription-repair coupling factor with length 1152, pLDDT 85.3, pTM 0.604 in 159.5s. 86 / 116 completed.
+25/06/18 14:24:54 | INFO | root | Predicted structure for DESULFOASV1_21880 hypothetical protein with length 1155, pLDDT 85.9, pTM 0.450 in 170.2s. 87 / 116 completed.
+25/06/18 14:27:41 | INFO | root | Predicted structure for DESULFOASV1_31980 hypothetical protein with length 1160, pLDDT 79.0, pTM 0.776 in 166.9s. 88 / 116 completed.
+25/06/18 14:30:41 | INFO | root | Predicted structure for DESULFOASV1_19590 DNA polymerase III subunit alpha with length 1184, pLDDT 91.2, pTM 0.905 in 179.3s. 89 / 116 completed.
+25/06/18 14:33:41 | INFO | root | Predicted structure for DESULFOASV1_29590 DUF748 domain-containing protein with length 1186, pLDDT 89.0, pTM 0.821 in 180.1s. 90 / 116 completed.
+25/06/18 14:36:40 | INFO | root | Predicted structure for DESULFOASV1_13350 FAD-binding and -Fe-S--binding domain-containing protein with length 1188, pLDDT 76.1, pTM 0.808 in 179.1s. 91 / 116 completed.
+25/06/18 14:39:48 | INFO | root | Predicted structure for DESULFOASV1_10760 PEP-pyruvate-binding domain-containing protein with length 1202, pLDDT 80.0, pTM 0.667 in 187.9s. 92 / 116 completed.
+25/06/18 14:43:03 | INFO | root | Predicted structure for DESULFOASV1_21810 pyruvate:ferredoxin -flavodoxin- oxidoreductase with length 1217, pLDDT 79.9, pTM 0.822 in 195.5s. 93 / 116 completed.
+25/06/18 14:46:21 | INFO | root | Predicted structure for DESULFOASV1_14680 hypothetical protein with length 1221, pLDDT 83.2, pTM 0.446 in 197.6s. 94 / 116 completed.
+25/06/18 14:49:35 | INFO | root | Predicted structure for DESULFOASV1_15330 BREX system P-loop protein BrxC with length 1224, pLDDT 87.5, pTM 0.560 in 194.0s. 95 / 116 completed.
+25/06/18 14:52:54 | INFO | root | Predicted structure for DESULFOASV1_10770 pyruvate carboxylase with length 1236, pLDDT 78.1, pTM 0.509 in 199.0s. 96 / 116 completed.
+25/06/18 14:56:20 | INFO | root | Predicted structure for DESULFOASV1_08480 hypothetical protein with length 1239, pLDDT 68.9, pTM 0.497 in 205.8s. 97 / 116 completed.
+25/06/18 14:59:51 | INFO | root | Predicted structure for DESULFOASV1_28430 hypothetical protein with length 1254, pLDDT 83.1, pTM 0.395 in 211.4s. 98 / 116 completed.
+25/06/18 15:03:48 | INFO | root | Predicted structure for DESULFOASV1_37040 hypothetical protein with length 1283, pLDDT 69.9, pTM 0.566 in 237.0s. 99 / 116 completed.
+25/06/18 15:07:47 | INFO | root | Predicted structure for DESULFOASV1_30860 hypothetical protein with length 1284, pLDDT 70.8, pTM 0.607 in 239.3s. 100 / 116 completed.
+25/06/18 15:11:50 | INFO | root | Predicted structure for DESULFOASV1_26330 hypothetical protein with length 1299, pLDDT 68.5, pTM 0.400 in 242.6s. 101 / 116 completed.
+25/06/18 15:16:02 | INFO | root | Predicted structure for DESULFOASV1_26890 efflux RND transporter permease subunit with length 1315, pLDDT 84.8, pTM 0.887 in 251.9s. 102 / 116 completed.
+25/06/18 15:20:45 | INFO | root | Predicted structure for DESULFOASV1_37190 DNA-directed RNA polymerase subunit beta- with length 1368, pLDDT 65.5, pTM 0.406 in 282.8s. 103 / 116 completed.
+25/06/18 15:25:26 | INFO | root | Predicted structure for DESULFOASV1_15350 hypothetical protein with length 1377, pLDDT 82.4, pTM 0.767 in 281.6s. 104 / 116 completed.
+25/06/18 15:26:45 | INFO | root | Failed (CUDA out of memory) on sequence DESULFOASV1_37180 DNA-directed RNA polymerase subunit beta of length 1380.
+25/06/18 15:26:50 | INFO | root | Failed (CUDA out of memory) on sequence DESULFOASV1_17270 acyl-CoA dehydratase activase of length 1417.
+25/06/18 15:32:33 | INFO | root | Predicted structure for DESULFOASV1_31520 translocation-assembly module TamB domain-containing protein with length 1453, pLDDT 84.6, pTM 0.562 in 342.8s. 105 / 116 completed.
+25/06/18 15:38:50 | INFO | root | Predicted structure for DESULFOASV1_32890 hypothetical protein with length 1501, pLDDT 80.4, pTM 0.418 in 377.4s. 106 / 116 completed.
+25/06/18 15:44:53 | INFO | root | Predicted structure for DESULFOASV1_28120 hypothetical protein with length 1513, pLDDT 61.6, pTM 0.419 in 363.2s. 107 / 116 completed.
+25/06/18 15:51:05 | INFO | root | Predicted structure for DESULFOASV1_03790 glutamate synthase-related protein with length 1530, pLDDT 71.3, pTM 0.529 in 371.7s. 108 / 116 completed.
+25/06/18 15:58:59 | INFO | root | Predicted structure for DESULFOASV1_28130 hypothetical protein with length 1662, pLDDT 60.9, pTM 0.400 in 474.2s. 109 / 116 completed.
+25/06/18 15:59:00 | INFO | root | Failed (CUDA out of memory) on sequence DESULFOASV1_23570 hypothetical protein of length 2551.
+25/06/18 15:59:00 | INFO | root | Failed (CUDA out of memory) on sequence DESULFOASV1_26320 hypothetical protein of length 2711.
+25/06/18 15:59:01 | INFO | root | Failed (CUDA out of memory) on sequence DESULFOASV1_01810 hypothetical protein of length 2774.
+25/06/18 15:59:03 | INFO | root | Failed (CUDA out of memory) on sequence DESULFOASV1_28150 hypothetical protein of length 2861.
+25/06/18 15:59:05 | INFO | root | Failed (CUDA out of memory) on sequence DESULFOASV1_32880 hypothetical protein of length 5246.
