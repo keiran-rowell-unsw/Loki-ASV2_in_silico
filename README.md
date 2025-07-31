@@ -4,6 +4,7 @@ In Silico protein structure data for Loki-ASV2 paper - raw files, data tables, r
 Supporting Information files for *An Asgard archaeon from a modern analog of ancient microbial mats* [working title].
 
 ## Links
+**Pre-print**: https://www.biorxiv.org/content/10.1101/2025.07.22.663070v2
 **DOI**: TBD \
 **Zenodo Link**: TBD \
 **ModelArchive entry**: https://modelarchive.org/doi/10.5452/ma-6k8yb 
